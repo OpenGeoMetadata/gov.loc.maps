@@ -32,12 +32,12 @@ created. Geography is emitted only for unambiguous source-supplied extents.
 
 ## Quick start
 
-Requires Python 3.11+ on Linux or macOS.
+Requires Python 3.11+ and uv on Linux or macOS. CI and the commands below use the
+checked-in dependency lockfile.
 
 ```sh
-python -m venv .venv
+uv sync --frozen --extra test
 . .venv/bin/activate
-pip install -e '.[test]'
 pytest -q
 
 # First build a 200-item pilot, retaining checkpoints if interrupted.
