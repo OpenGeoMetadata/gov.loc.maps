@@ -5,6 +5,8 @@ import shutil
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+from jsonschema import ValidationError
+
 from . import MAPPING_VERSION
 from .client import FetchError, api_url
 from .common import canonical_url, digest, now, read_json, record_id, record_path, write_json
@@ -138,7 +140,7 @@ def transform(state, root: Path, stage: Path, allow_large_withdrawal=False):
                 source_sha256=digest(payload),
                 mapping_version=MAPPING_VERSION,
             )
-        except (ValueError, TypeError, KeyError) as exc:
+        except (ValueError, TypeError, KeyError, ValidationError) as exc:
             errors.append({"id": identifier, "url": row["url"], "error": str(exc)})
     if errors:
         write_json(state.root / "mapping-errors.json", errors)

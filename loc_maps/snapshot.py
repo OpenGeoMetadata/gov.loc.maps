@@ -9,6 +9,14 @@ import tempfile
 from pathlib import Path, PurePosixPath
 
 
+def file_digest(path):
+    checksum = hashlib.sha256()
+    with path.open("rb") as source:
+        for chunk in iter(lambda: source.read(1024 * 1024), b""):
+            checksum.update(chunk)
+    return checksum.hexdigest()
+
+
 def snapshot(state, destination: Path):
     """Create a consistent, checksummed snapshot without locks or transient files."""
     state.db.commit()
@@ -17,6 +25,7 @@ def snapshot(state, destination: Path):
         root = Path(directory)
         backup = sqlite3.connect(root / "state.sqlite")
         state.db.backup(backup)
+        backup.execute("VACUUM")
         backup.close()
         paths = [root / "state.sqlite"]
         paths += sorted((state.root / "cache").glob("*.json"))
@@ -25,7 +34,7 @@ def snapshot(state, destination: Path):
         with tarfile.open(destination, "w:gz") as archive:
             for path in paths:
                 name = "state.sqlite" if path.parent == root else str(path.relative_to(state.root))
-                manifest[name] = hashlib.sha256(path.read_bytes()).hexdigest()
+                manifest[name] = file_digest(path)
                 archive.add(path, arcname=name, recursive=False)
             (root / "snapshot-manifest.json").write_text(json.dumps(manifest, sort_keys=True))
             archive.add(root / "snapshot-manifest.json", arcname="snapshot-manifest.json")
@@ -67,7 +76,7 @@ def restore(archive_path: Path, destination: Path):
         if set(manifest) != names - {"snapshot-manifest.json"} or "state.sqlite" not in manifest:
             raise ValueError("Snapshot manifest mismatch")
         for name, expected in manifest.items():
-            if hashlib.sha256((root / name).read_bytes()).hexdigest() != expected:
+            if file_digest(root / name) != expected:
                 raise ValueError(f"Snapshot checksum mismatch: {name}")
         connection = sqlite3.connect(root / "state.sqlite")
         try:

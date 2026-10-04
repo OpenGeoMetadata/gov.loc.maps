@@ -194,4 +194,6 @@ def finish(state, run, pilot=False):
             "UPDATE runs SET status='complete',completed=?,next_url=NULL,error=NULL WHERE id=?",
             (now(), run["id"]),
         )
+        # Item misses retain lifecycle history; old page payloads need not grow forever.
+        state.db.execute("DELETE FROM seen WHERE run != ?", (run["id"],))
     return state.active_run()
