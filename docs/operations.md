@@ -6,6 +6,8 @@
    state and proposes a draft PR on `harvest/pilot` after 200 records are validated.
 2. Review that pilot using the release checklist. Correct mapping rules and fixtures
    on `main`, then re-run against the existing cache. Do not merge pilot metadata.
+   Set `bootstrap_full=true` to start the full fetch automatically after the pilot
+   PR is created; this does not bypass any release acceptance checks.
 3. Dispatch mode `full`. It uses the independent production state channel. Allow
    auto-continuation for the multi-day initial inventory and fetch. Each job has
    a 700-request / 4,800-second budget; persisted LOC cooldowns are respected first.

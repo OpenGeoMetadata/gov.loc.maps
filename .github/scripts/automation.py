@@ -199,6 +199,23 @@ def propose():
         "--notes-file",
         "dist/pr-body.md",
     )
+    if MODE == "pilot" and os.environ.get("BOOTSTRAP_FULL") == "true":
+        command(
+            "gh",
+            "workflow",
+            "run",
+            "harvest.yml",
+            "--repo",
+            REPO,
+            "--ref",
+            "main",
+            "-f",
+            "mode=full",
+            "-f",
+            "continuation=false",
+            "-f",
+            "auto_continue=true",
+        )
 
 
 def continue_run():
@@ -225,6 +242,8 @@ def continue_run():
         "auto_continue=true",
         "-f",
         f"round={current + 1}",
+        "-f",
+        f"bootstrap_full={os.environ.get('BOOTSTRAP_FULL', 'false')}",
     )
 
 
