@@ -1,0 +1,23 @@
+name: Validate
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: '3.12'
+          enable-cache: true
+      - run: uv sync --frozen --extra test
+      - run: uv run --frozen ruff check loc_maps tests .github/scripts
+      - run: uv run --frozen pytest -q
+      - name: Validate published records when present
+        run: |
+          if test -d metadata-aardvark; then
+            uv run --frozen loc-maps validate
+          fi

@@ -1,0 +1,84 @@
+name: Harvest LOC maps
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        type: choice
+        options: [pilot, full, update]
+        default: pilot
+      continuation:
+        type: boolean
+        default: false
+      auto_continue:
+        description: Continue bounded jobs until complete (maximum 120 jobs)
+        type: boolean
+        default: true
+      round:
+        type: string
+        default: '1'
+      retry_failed:
+        description: Retry inspected failed item requests
+        type: boolean
+        default: false
+  schedule:
+    - cron: '23 8 * * 1'
+permissions:
+  contents: write
+  actions: write
+  pull-requests: write
+concurrency:
+  group: loc-maps-harvest
+  cancel-in-progress: false
+jobs:
+  harvest:
+    if: github.event_name == 'workflow_dispatch' || vars.LOC_MAPS_WEEKLY_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 160
+    env:
+      GH_TOKEN: ${{ github.token }}
+      MODE: ${{ inputs.mode || 'update' }}
+      CONTINUATION: ${{ inputs.continuation || 'false' }}
+      AUTO_CONTINUE: ${{ inputs.auto_continue || github.event_name == 'schedule' }}
+      ROUND: ${{ inputs.round || '1' }}
+      RETRY_FAILED: ${{ inputs.retry_failed || 'false' }}
+      REPOSITORY: ${{ github.repository }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: '3.12'
+          enable-cache: true
+      - run: |
+          uv sync --frozen --extra test
+          echo "$GITHUB_WORKSPACE/.venv/bin" >> "$GITHUB_PATH"
+      - run: pytest -q
+      - name: Restore state and pending metadata
+        run: python .github/scripts/automation.py restore
+      - name: Harvest a bounded batch
+        id: batch
+        run: python .github/scripts/automation.py batch
+      - name: Save a consistent checkpoint
+        if: always()
+        run: |
+          if test -f .state/state.sqlite; then
+            loc-maps snapshot --archive dist/loc-state.tar.gz
+            loc-maps status > dist/status.json
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: loc-state-${{ env.MODE == 'pilot' && 'pilot' || 'production' }}
+          path: |
+            dist/loc-state.tar.gz
+            dist/status.json
+          retention-days: 14
+          if-no-files-found: error
+          compression-level: 0
+      - name: Propose validated metadata and retain release snapshot
+        if: steps.batch.outputs.status == 'complete'
+        run: python .github/scripts/automation.py propose
+      - name: Continue incomplete batch
+        if: steps.batch.outputs.status == 'paused' && success()
+        run: python .github/scripts/automation.py continue
