@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Longitude occidentale du méridien de Paris.\"",
+    "Contributors: Des Longchamps, Jacques Francois",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"Longitude occidentale du méridien de Paris.\" Insets: Carte des environs du Cap Français et des paroisses qui en dépendent.--Plan de la ville de S. Domingo. Scale ca. 1:1,550,000. LC Maps of North America, 1750-1789, 1859 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Insets: Carte des environs du Cap Français et des paroisses qui en dépendent.--Plan de la ville de S. Domingo.",
+    "LC Maps of North America, 1750-1789, 1859",
+    "Publication statement: [Paris, 1780]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:1,550,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4930.ar185900",
+    "http://lccn.loc.gov/73695996",
+    "http://www.loc.gov/item/73695996/",
+    "http://www.loc.gov/resource/g4930.ar185900/",
+    "https://hdl.loc.gov/loc.gmd/g4930.ar185900",
+    "https://search.catalog.loc.gov/instances/bae76831-ab7d-583a-a42a-801979575534",
+    "https://www.loc.gov/item/73695996/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/73695996/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ar185900.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd4/g4930/g4930/ar185900.tif\"}, {\"label\": \"JPEG2000: ar185900.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4930/g4930/ar185900.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4930/g4930/ar185900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73695996/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "hispaniola"
+  ],
+  "dct_subject_sm": [
+    "Hispaniola",
+    "Hispaniola--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "Carte d l'île de Saint Domingue",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73695996",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

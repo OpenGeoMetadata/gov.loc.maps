@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title: Kaei shinzō Dai Nihon kokugun yochi zenzu",
+    "Alternate title: Nihon dōchūki",
+    "大日本国郡輿地全圖"
+  ],
+  "dct_description_sm": [
+    "\"嘉永二己酉盃冬日 東都 高柴英三雄.\"",
+    "Contributors: Takashiba, Sanʼyū, active 19th century",
+    "Cover title.",
+    "Includes distance chart from Edo, \"Musashi no kuni jū Edo shokoku dōhō no ki.\"",
+    "Includes distance chart from Edo, \"武藏國從江戶諸國道法之記.\"",
+    "LC copy 1 has cover; copy 2 in two sheets without cover.",
+    "Map covers Matsmae to Ryūkyū Okinawa, Hachijōjima, Chōsen nantan.",
+    "Map covers Matsmae to Ryūkyū Okinawa, Hachijōjima, Chōsen nantan. Relief shown pictorially. Map shows cities and towns, distance, boundaries, longitude line. Cover title. Wood block print. Pen-and-ink and watercolor. Oriented with north toward the upper right. Other title, \"Kaei shinzō Dai Nihon kokugun yochi zenzu\" on cover, \"Nihon dōchūki\" in note. Includes distance chart from Edo, \"Musashi no kuni jū Edo shokoku dōhō no ki.\" LC copy 1 has cover; copy 2 in two sheets without cover. Available also through the Library of Congress Web site as a raster image. Other title, \"嘉永新増大日本国郡輿地全圖\" on cover, \"日本道中記\" in note. Includes distance chart from Edo, \"武藏國從江戶諸國道法之記.\" \"嘉永二己酉盃冬日 東都 高柴英三雄.\"",
+    "Map shows cities and towns, distance, boundaries, longitude line.",
+    "Oriented with north toward the upper right.",
+    "Other title, \"Kaei shinzō Dai Nihon kokugun yochi zenzu\" on cover, \"Nihon dōchūki\" in note.",
+    "Other title, \"嘉永新増大日本国郡輿地全圖\" on cover, \"日本道中記\" in note.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: Edo Minami Denmachō : Tsutaya Kichizō, Kaei 2 [1849]",
+    "Relief shown pictorially.",
+    "Wood block print."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm71005191",
+    "http://www.loc.gov/item/gm71005191/",
+    "http://www.loc.gov/resource/g7961f.ct011907/",
+    "https://hdl.loc.gov/loc.gmd/g7961f.ct011907",
+    "https://search.catalog.loc.gov/instances/069a04e2-b963-5449-b358-8c53881889b0",
+    "https://www.loc.gov/item/gm71005191/"
+  ],
+  "dct_issued_s": "1849",
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/gm71005191/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct011907.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd7/g7961/g7961f/ct011907.tif\"}, {\"label\": \"JPEG2000: ct011907.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7961/g7961f/ct011907.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7961/g7961f/ct011907.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005191/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "japan"
+  ],
+  "dct_subject_sm": [
+    "Japan",
+    "Japan--Administrative and political divisions--Maps",
+    "Japan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1849"
+  ],
+  "dct_title_s": "Dai Nihon kokugun yochi zenzu",
+  "gbl_dateRange_drsim": [
+    "[1849 TO 1849]"
+  ],
+  "gbl_indexYear_im": [
+    1849
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005191",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

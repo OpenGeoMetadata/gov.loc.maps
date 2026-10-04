@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title: Ansei kaisei Oedo ōezu",
+    "Ansei kaisei Oedo ōezu",
+    "御江戶大繪圖 /"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Cadastral map showing landowners.",
+    "Contributors: Takai, Ranzan, 1762-1838",
+    "Created original map in Genroku 9 i.e. 1696",
+    "Includes distance chart and list of daily events in Edo for 1860.",
+    "Japanese.",
+    "LC copy annotated in black ink for points of interest and historic events.",
+    "Oriented with north to the right.",
+    "Publication statement: Edo : Izumoji Manjirō : Okadaya Kashichi, Man'en 1 [1860]",
+    "Relief shown pictorially.",
+    "Title inferred from National Diet Library OPAC, March, 27, 2020.",
+    "Title inferred from National Diet Library OPAC, March, 27, 2020. Created original map in Genroku 9 i.e. 1696 Oriented with north to the right. Wood block print. LC copy annotated in black ink for points of interest and historic events. Relief shown pictorially. Cadastral map showing landowners. Japanese. Includes distance chart and list of daily events in Edo for 1860. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Vault",
+    "Wood block print."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm71005195",
+    "http://www.loc.gov/item/gm71005195/",
+    "http://www.loc.gov/resource/g7964t.ct011888/",
+    "https://hdl.loc.gov/loc.gmd/g7964t.ct011888",
+    "https://search.catalog.loc.gov/instances/bf6321ae-8a46-5fa8-bf65-e76c180abc11",
+    "https://www.loc.gov/item/gm71005195/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/gm71005195/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct011888.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd7/g7964/g7964t/ct011888.tif\"}, {\"label\": \"JPEG2000: ct011888.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964t/ct011888.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964t/ct011888.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005195/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "japan",
+    "tokyo"
+  ],
+  "dct_subject_sm": [
+    "Japan--Tokyo",
+    "Real property--Japan--Tokyo--Maps",
+    "Tokyo (Japan)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Oedo ōezu",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005195",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

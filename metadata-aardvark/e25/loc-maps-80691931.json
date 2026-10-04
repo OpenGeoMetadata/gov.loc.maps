@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "駿河國全圖"
+  ],
+  "dct_description_sm": [
+    "\"This map of Suruga Province, located in the area of today's Shizuoka Prefecture, presents an elevation view of Mount Fuji, with the surrounding area mapped on a horizontal surface with relief shown pictorially. This style does not provide accurate geographical information, but it was typical of the mid-19th century. The mountain is drawn disproportionately large, suggesting the impression it made on the mapmaker and the significance it held for the populace. The map notes the names of towns and roads; temples and shrines; and ancient castles, forts, and battlefields; as well as the names of the peaks on Mount Fuji. Suruga was one of the most frequently mapped provinces in early modern Japan, no doubt due to the popular attraction of the mountain and its significance as a sacred pilgrimage site.\" World Digital Library.",
+    "AACR2",
+    "Contributors: Kikuya, Kōzaburō",
+    "Includes text.",
+    "Publication statement: [Edo] : Kikuya Kōzaburō kō, [between 1828-1859?]; [Edo] : Kikuya Kōzaburō, [between 1828-1859?]",
+    "Relief shown pictorially.",
+    "Vault",
+    "Wood block print."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7963s.ct001479",
+    "http://lccn.loc.gov/80691931",
+    "http://www.loc.gov/item/80691931/",
+    "http://www.loc.gov/resource/g7963s.ct001479/",
+    "https://hdl.loc.gov/loc.gmd/g7963s.ct001479",
+    "https://search.catalog.loc.gov/instances/c28af1ee-57b4-5fd6-8436-40cc5b8ae3c0",
+    "https://www.loc.gov/item/80691931/"
+  ],
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/80691931/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct001479Z.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd7/g7963/g7963s/ct001479Z.tif\"}, {\"label\": \"JPEG2000: ct001479.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7963/g7963s/ct001479.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7963/g7963s/ct001479.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80691931/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here. Credit Line: [Original Source citation], World Digital Library More about Copyright and other Restrictions For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021. For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "japan",
+    "ken",
+    "shizuoka",
+    "shizuoka-ken"
+  ],
+  "dct_subject_sm": [
+    "Japan--Shizuoka-ken",
+    "Shizuoka-ken (Japan)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1828/1859",
+    "[Edo] : Kikuya Kōzaburō kō, [between 1828-1859?]",
+    "[Edo] : Kikuya Kōzaburō, [between 1828-1859?]"
+  ],
+  "dct_title_s": "Suruga no Kuni zenzu",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80691931",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Situation militaire en Mandchourie. Situation avant le 18 septembre 1931"
+  ],
+  "dct_description_sm": [
+    "Content in French.",
+    "Contributors: League of Nations. Commission of Enquiry into the Sino-Japanese Dispute Contributor.; Lytton, Edward Robert Bulwer-Lytton, Earl of, 1831-1891 Contributor.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "On the night of September 18, 1931, anti-Japanese activists set off explosions on the Japanese-owned South Manchurian Railroad in Manchuria, northeastern China. The Japanese army used the incident as a pretext to invade Manchuria, and quickly occupied its key cities. China appealed to the world's powers for help. The Council of the League of Nations, supported by the United States, sought to negotiate a peaceful solution to the conflict. In early 1932, the Council dispatched an inquiry commission to China under the leadership of the British diplomat, the Earl of Lytton. By the time the so-called Lytton Commission arrived in China in April 1932, the Japanese army had already established the Manchurian puppet state of Manchukuo. The Lytton Commission issued its report in September 1932. On the advice of the report, the League of Nations refused to recognize Manchukuo as a legitimate state and proposed a series of measures to reestablish the status quo. China accepted the League of Nations recommendations for restoring peace in the area; Japan did not and withdrew from the League in 1935. This map, published in conjunction with the Lytton Report, shows the military situation in Manchuria in August 1931, just before the September 18 outbreak of hostilities. The map is in the archives of the League of Nations, which are preserved at the United Nations Office in Geneva. They were inscribed on the UNESCO Memory of the World register in 2010.",
+    "Original resource at: United Nations Office at Geneva Library.",
+    "Publication statement: Geneva : League of Nations, 1932-08.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668529",
+    "http://www.loc.gov/item/2021668529/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_11600/",
+    "http://www.loc.gov/resource/wdl.11600/",
+    "https://hdl.loc.gov/loc.wdl/wdl.11600",
+    "https://www.loc.gov/item/2021668529/"
+  ],
+  "dct_issued_s": "1932-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2021668529/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"JPEG2000: LONWDL39_0001.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/60/0/wdl_11600/LONWDL39_0001.jp2\"}, {\"label\": \"ZIP: wdl_11600.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/60/0/wdl_11600/wdl_11600.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:60:0:wdl_11600:LONWDL39_0001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668529/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here. Credit Line: [Original Source citation], World Digital Library More about Copyright and other Restrictions For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021. For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "china",
+    "japan"
+  ],
+  "dct_subject_sm": [
+    "1932-08",
+    "China",
+    "Japan",
+    "League of Nations",
+    "Memory of the World",
+    "Politics and government",
+    "Territorial questions"
+  ],
+  "dct_temporal_sm": [
+    "1932-01-01"
+  ],
+  "dct_title_s": "Military Situation in Manchuria before 18 September 1931. Map Prepared for Lytton's Report on the Sino-Japanese Conflict.",
+  "gbl_dateRange_drsim": [
+    "[1932 TO 1932]"
+  ],
+  "gbl_indexYear_im": [
+    1932
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668529",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

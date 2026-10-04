@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Kyōto and environs"
+  ],
+  "dct_description_sm": [
+    "Missing sheets 3 and 4.",
+    "Publication statement: [S. l. : s.n., 1900?]",
+    "Relief shown by hachures and spot heights.",
+    "Relief shown by hachures and spot heights. Missing sheets 3 and 4. Available also through the Library of Congress Web site as a raster image. Title and some place names annotated in English.",
+    "Title and some place names annotated in English."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7964k.ct001809",
+    "http://lccn.loc.gov/2006626274",
+    "http://www.loc.gov/item/2006626274/",
+    "http://www.loc.gov/resource/g7964k.ct001809/",
+    "https://hdl.loc.gov/loc.gmd/g7964k.ct001809",
+    "https://search.catalog.loc.gov/instances/59a62d8e-92d9-5748-a14e-78414b693f6a",
+    "https://www.loc.gov/item/2006626274/"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2006626274/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct001809Z.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd7/g7964/g7964k/ct001809Z.tif\"}, {\"label\": \"JPEG2000: ct001809.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964k/ct001809.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964k/ct001809.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006626274/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "japan",
+    "kyōto region"
+  ],
+  "dct_subject_sm": [
+    "Japan--Kyōto Region",
+    "Kyōto Region (Japan)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1900",
+    "[S. l. : s.n., 1900?]"
+  ],
+  "dct_title_s": "Kyōto kinbō zu = Kyōto and environs",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006626274",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

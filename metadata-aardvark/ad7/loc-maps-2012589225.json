@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Map from the Confederate Engineer Bureau in Richmond, Va. General J.F. Gilmer, chief engineer. Presented to the Virginia Historical Society by his only daughter, Mrs. J.F. Minis, Savannah, Ga.\"",
+    "Contributors: Keily, James; Scott, James D.",
+    "Copy imperfect: Brittle, shellacked, darkened, halved, lacking large sections along edges, and mounted on cloth backing.",
+    "Entered according to the act of Congress in the year 1853 by Robert P. Smith in the Clerk's Office of the District Court for the Eastern District of Pennsylvania.\"",
+    "Includes inset of Petersburg, tables of schools, taxies, religion, pop, and agricultural production.",
+    "LC Land ownership maps, 1245",
+    "Publication statement: Philadelphia : James D. Scott, 1854.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows the names of some residents. \"Map from the Confederate Engineer Bureau in Richmond, Va. General J.F. Gilmer, chief engineer. Presented to the Virginia Historical Society by his only daughter, Mrs. J.F. Minis, Savannah, Ga.\" Two sheets joined to form 1. Entered according to the act of Congress in the year 1853 by Robert P. Smith in the Clerk's Office of the District Court for the Eastern District of Pennsylvania.\" Copy imperfect: Brittle, shellacked, darkened, halved, lacking large sections along edges, and mounted on cloth backing. Includes inset of Petersburg, tables of schools, taxies, religion, pop, and agricultural production. LC Land ownership maps, 1245 Available also through the Library of Congress Web site as a raster image.",
+    "Shows the names of some residents.",
+    "Two sheets joined to form 1."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883d.la001245",
+    "http://lccn.loc.gov/2012589225",
+    "http://www.loc.gov/item/2012589225/",
+    "http://www.loc.gov/resource/g3883d.la001245/",
+    "https://hdl.loc.gov/loc.gmd/g3883d.la001245",
+    "https://search.catalog.loc.gov/instances/7dd17cce-19a1-5a5f-9704-14f5789a508f",
+    "https://www.loc.gov/item/2012589225/"
+  ],
+  "dct_issued_s": "1854",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2012589225/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: la001245.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd388/g3883/g3883d/la001245.tif\"}, {\"label\": \"JPEG2000: la001245.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883d/la001245.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883d/la001245.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012589225/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "dinwiddie county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Dinwiddie County (Va.)--Maps",
+    "Landowners--Virginia--Dinwiddie County--Maps",
+    "United States--Virginia--Dinwiddie County"
+  ],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "dct_title_s": "Map of Dinwiddie County, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1854 TO 1854]"
+  ],
+  "gbl_indexYear_im": [
+    1854
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012589225",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

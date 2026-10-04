@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Grond tékening van de stad en de haven van Nangaski"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no.: 2003-080",
+    "Gift; 2003; Summit Enterprises, Inc.;",
+    "Publication statement: [S.l. : s.n., 17--]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Available also through the Library of Congress Web site as a raster image. Gift; 2003; Summit Enterprises, Inc.; Acquisitions control no.: 2003-080"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7964n.ct001071",
+    "http://lccn.loc.gov/2006626037",
+    "http://www.loc.gov/item/2006626037/",
+    "http://www.loc.gov/resource/g7964n.ct001071/",
+    "https://hdl.loc.gov/loc.gmd/g7964n.ct001071",
+    "https://search.catalog.loc.gov/instances/a234c16c-8784-50a1-9601-51d63b5892f5",
+    "https://www.loc.gov/item/2006626037/"
+  ],
+  "dct_language_sm": [
+    "dut",
+    "eng",
+    "multiple languages"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2006626037/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct001071.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd7/g7964/g7964n/ct001071.tif\"}, {\"label\": \"JPEG2000: ct001071.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964n/ct001071.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964n/ct001071.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006626037/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "japan",
+    "nagasaki",
+    "nagasaki-shi"
+  ],
+  "dct_subject_sm": [
+    "Japan--Nagasaki-shi",
+    "Nagasaki-shi (Japan)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "17??",
+    "[S.l. : s.n., 17--]"
+  ],
+  "dct_title_s": "Plan de la ville et du port de Nangasaki = Grond tékening van de stad en de haven van Nangaski",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006626037",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

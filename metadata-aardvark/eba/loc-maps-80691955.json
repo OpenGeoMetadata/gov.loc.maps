@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Bushū Toshima Gōri Edo no shōzu",
+    "Bushū Toshima-gun Edo-shō zu",
+    "武州豊嶋郡江戶庄圖"
+  ],
+  "dct_description_sm": [
+    "\"This work is a reprint of a cadastral map, originally produced around 1630-31, showing land ownership in central Edo (Tokyo). The original map is considered the oldest and most accurate extant plan of the city, and multiple reproductions of it were made until the end of the Edo period (1603-1868). The map has several defining features, one of which is that all text labels read in the same direction, in the style of modern maps. It also includes pictorial representations of significant areas such as Edo Castle, the reservoir, and major temples and shrines. The map is oriented with north toward the upper right. The box on the lower left is a chart indicating distances. Vertical distance is disproportionately greater than horizontal distance, which results in the exclusion of areas north of Edo Castle from the map. Only the residential quarters of the samurai and local townspeople in the immediate vicinity of the castle are shown. Edo Castle was built in the mid-15th century and a town started to form around it. Tokugawa Ieyasu (1543-1616), founder of the Tokugawa shogunate, and his successors restored the castle and developed the city of Edo.\" World Digital Library.",
+    "AACR2",
+    "Cadastral map showing land ownership in central Tokyo.",
+    "LC copy has ownership stamped on map: \"鈴木家蔵...\" DLC",
+    "LC copy has ownership stamped on verso: \"佃屋利兵衛.\" DLC",
+    "On cover, annotated in black ink: Edo ōezu.",
+    "On cover, annotated in black ink: 江戶大絵図.",
+    "Oriented with north toward the upper right.",
+    "Pictorial map.",
+    "Presumably original map created in Kan'ei Period (1630 or 1631), reprinted in Tenwa Period (1681-83).",
+    "Publication statement: [Japan : s.n.], Tenwa 2 [1682]",
+    "Relief shown pictorially.",
+    "Title on label on cover: Kan'ei Edo kozu.",
+    "Vault",
+    "Wood block print."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7964t.ct002119",
+    "http://lccn.loc.gov/80691955",
+    "http://www.loc.gov/item/80691955/",
+    "http://www.loc.gov/resource/g7964t.ct002119/",
+    "https://hdl.loc.gov/loc.gmd/g7964t.ct002119",
+    "https://search.catalog.loc.gov/instances/78d208c1-9b10-57a4-90db-efdfb39d86cc",
+    "https://www.loc.gov/item/80691955/"
+  ],
+  "dct_issued_s": "1682",
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/80691955/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct002119.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd7/g7964/g7964t/ct002119.tif\"}, {\"label\": \"JPEG2000: ct002119.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964t/ct002119.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964t/ct002119.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80691955/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here. Credit Line: [Original Source citation], World Digital Library More about Copyright and other Restrictions For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021. For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "japan",
+    "tokyo"
+  ],
+  "dct_subject_sm": [
+    "Japan--Tokyo",
+    "Real property--Japan--Tokyo--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1682"
+  ],
+  "dct_title_s": "Bushū Toshima-gun Edo shōzu",
+  "gbl_dateRange_drsim": [
+    "[1682 TO 1682]"
+  ],
+  "gbl_indexYear_im": [
+    1682
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80691955",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

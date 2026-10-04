@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Alternate title: Profile of Washington & Fayette streets.",
+    "Black, brown, blue inks, and lead pencil.",
+    "Contributors: Carbery, Lewis; Taggart, Hugh T. (Hugh Thomas), 1844-1914",
+    "DCP",
+    "Includes notes, statistical tables, computations, and outline maps of both streets.",
+    "Oriented with north to the left.",
+    "Phillips. Washington 498",
+    "Publication statement: 1856.",
+    "Soiled and cracked at edges.",
+    "Vault",
+    "Washington Street profile covers 30th Street between Q and R streets N.W. Fayette Street profile covers 35th Street between Volta Place and Wisconsin Avenue N.W.",
+    "Washington Street profile covers 30th Street between Q and R streets N.W. Fayette Street profile covers 35th Street between Volta Place and Wisconsin Avenue N.W. Alternate title: Profile of Washington & Fayette streets. Oriented with north to the left. Black, brown, blue inks, and lead pencil. Soiled and cracked at edges. Includes notes, statistical tables, computations, and outline maps of both streets. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 498 Vault DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852t.ct006225r",
+    "http://hdl.loc.gov/loc.gmd/g3852t.ct006225v",
+    "http://lccn.loc.gov/88693343",
+    "http://www.loc.gov/item/88693343/",
+    "http://www.loc.gov/resource/g3852t.ct006225r/",
+    "http://www.loc.gov/resource/g3852t.ct006225v/",
+    "https://hdl.loc.gov/loc.gmd/g3852t.ct006225r",
+    "https://hdl.loc.gov/loc.gmd/g3852t.ct006225v",
+    "https://search.catalog.loc.gov/instances/33f9be30-fa83-5dd0-a7e2-a8ebd2765ddf",
+    "https://www.loc.gov/item/88693343/"
+  ],
+  "dct_issued_s": "1856",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/88693343/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct006225r.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd385/g3852/g3852t/ct006225r.tif\"}, {\"label\": \"TIFF: ct006225v.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd385/g3852/g3852t/ct006225v.tif\"}, {\"label\": \"JPEG2000: ct006225r.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006225r.jp2\"}, {\"label\": \"JPEG2000: ct006225v.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006225v.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006225r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693343/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "district of columbia",
+    "fifth street",
+    "thirtieth street",
+    "thirty",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "Streets--Washington (D.C.)--Charts, diagrams, etc",
+    "Thirtieth Street (Washington, D.C.)--Maps, Manuscript",
+    "Thirty-Fifth Street (Washington, D.C.)--Maps, Manuscript",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "dct_title_s": "Profile of Washington & Fayette streets, Georgetown, D.C.",
+  "gbl_dateRange_drsim": [
+    "[1856 TO 1856]"
+  ],
+  "gbl_indexYear_im": [
+    1856
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693343",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

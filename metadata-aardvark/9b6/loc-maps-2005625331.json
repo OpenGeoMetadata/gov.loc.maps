@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Lybie ulterieure"
+  ],
+  "dct_description_sm": [
+    "\"This map of Africa by Nicolas Sanson, royal geographer to Kings Louis XIII and XIV, and commonly known as the father of French cartography, was published by Sanson's own house in 1679 in Paris. The map was based, according to Sanson, on a composite of information drawn from other maps as well as \"upon the observations of Samuel Blomart.\" It also may have drawn on the Dutch writer Olfert Dapper's work of 1668, Naukeurige Beschrijvingen der Afrikaensche gewesten (Description of Africa). The continent is presented as \"Greater Libya\" and the map concentrates on the Saharan region of north Africa and the surrounding land of west Africa, stretching from Guinea and the black coast to Nubia in the east.\" World Digital Library.",
+    "Contributors: Sanson, Nicolas, 1600-1667; Somer, J.",
+    "Publication statement: A Paris : Chez l'autheur, 1679.",
+    "Relief shown pictorially."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8735.ct001449",
+    "http://lccn.loc.gov/2005625331",
+    "http://www.loc.gov/item/2005625331/",
+    "http://www.loc.gov/resource/g8735.ct001449/",
+    "https://hdl.loc.gov/loc.gmd/g8735.ct001449",
+    "https://search.catalog.loc.gov/instances/60b3fd90-e119-5452-98ba-a5cbd9e0bedd",
+    "https://www.loc.gov/item/2005625331/"
+  ],
+  "dct_issued_s": "1679",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2005625331/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct001449.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd8/g8735/g8735/ct001449.tif\"}, {\"label\": \"JPEG2000: ct001449.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8735/g8735/ct001449.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8735/g8735/ct001449.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625331/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here. Credit Line: [Original Source citation], World Digital Library More about Copyright and other Restrictions For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021. For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "africa, west",
+    "west africa"
+  ],
+  "dct_subject_sm": [
+    "Africa, West",
+    "Africa, West--Early works to 1800--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1679"
+  ],
+  "dct_title_s": "L'Afrique, ou Lybie ulterieure : ou font le Saara, or desért, le pays des Negres, la Guinee, et les pays circonv., tirée en partie de Sanut, et de l'Arabe du Nubie : en partie de diverses cartes veues, jusques a present : la coste de Negres, et Guinee, &c. est apres les observations de Samuel Blomart",
+  "gbl_dateRange_drsim": [
+    "[1679 TO 1679]"
+  ],
+  "gbl_indexYear_im": [
+    1679
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625331",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

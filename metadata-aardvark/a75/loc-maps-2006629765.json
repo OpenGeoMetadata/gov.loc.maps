@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Col. Roosevelt's exploration"
+  ],
+  "dct_description_sm": [
+    "\"The inset shows the location and extent of the main map.\"",
+    "\"The inset shows the location and extent of the main map.\" From Bulletin of the American Geographical Society, July, 1914. LC copy stamped: 626888. Available also through the Library of Congress Web site as a raster image.",
+    "From Bulletin of the American Geographical Society, July, 1914.",
+    "LC copy stamped: 626888.",
+    "Publication statement: [ S.l. : American Geographical Society, 1914]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5402r.br000048",
+    "http://lccn.loc.gov/2006629765",
+    "http://www.loc.gov/item/2006629765/",
+    "http://www.loc.gov/resource/g5402r.br000048/",
+    "https://hdl.loc.gov/loc.gmd/g5402r.br000048",
+    "https://search.catalog.loc.gov/instances/d29972fd-ffe3-5bbc-9e10-d0c7ab636e40",
+    "https://www.loc.gov/item/2006629765/"
+  ],
+  "dct_issued_s": "1914",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2006629765/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: br000048.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd5/g5402/g5402r/br000048.tif\"}, {\"label\": \"JPEG2000: br000048.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5402/g5402r/br000048.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5402/g5402r/br000048.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006629765/\"}",
+  "dct_rights_sm": [
+    "The materials in The United States and Brazil: Expanding Frontiers, Comparing Cultures are in the public domain or have no known copyright restrictions and are free to use and reuse. Credit Line: Library of Congress, The United States and Brazil: Expanding Frontiers, Comparing Cultures. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "brazil",
+    "roosevelt river"
+  ],
+  "dct_subject_sm": [
+    "Brazil--Roosevelt River",
+    "Roosevelt River (Brazil)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "dct_title_s": "Sketch map showing the general course of the newly discovered tributary of the Madeira and the approximate route of the Roosevelt-Rondon expedition",
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "gbl_indexYear_im": [
+    1914
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006629765",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

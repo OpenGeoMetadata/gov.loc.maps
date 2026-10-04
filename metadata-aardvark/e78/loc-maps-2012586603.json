@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Imp. Becquet Paris.\"",
+    "Contributors: Becquet frères, printer; Dumas-Vorzet, Ed. (Eduard); Institut géographique de Paris",
+    "Includes insets \"Environs de Paris\" and \"Plan des tramways\".",
+    "Includes insets \"Environs de Paris\" and \"Plan des tramways\". \"Imp. Becquet Paris.\" LC copy sectioned into 18 pieces and mounted on linen to fold to 25 x 17 cm. Available also through the Library of Congress Web site as a raster image.",
+    "LC copy sectioned into 18 pieces and mounted on linen to fold to 25 x 17 cm.",
+    "Publication statement: [Paris] : Institut Geographique de Paris, [1878]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5834p.ct003569",
+    "http://lccn.loc.gov/2012586603",
+    "http://www.loc.gov/item/2012586603/",
+    "http://www.loc.gov/resource/g5834p.ct003569/",
+    "https://hdl.loc.gov/loc.gmd/g5834p.ct003569",
+    "https://search.catalog.loc.gov/instances/4c90f2e6-8d2f-5865-bb43-25bec1e7ca15",
+    "https://www.loc.gov/item/2012586603/"
+  ],
+  "dct_issued_s": "1878",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2012586603/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct003569.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd5/g5834/g5834p/ct003569.tif\"}, {\"label\": \"JPEG2000: ct003569.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5834/g5834p/ct003569.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5834/g5834p/ct003569.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012586603/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "france",
+    "paris",
+    "paris metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "France--Paris",
+    "France--Paris Metropolitan Area",
+    "Paris (France)--Maps",
+    "Paris Metropolitan Area (France)--Maps",
+    "Street-railroads--France--Paris--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1878"
+  ],
+  "dct_title_s": "Paris et ses environs : 1878",
+  "gbl_dateRange_drsim": [
+    "[1878 TO 1878]"
+  ],
+  "gbl_indexYear_im": [
+    1878
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012586603",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

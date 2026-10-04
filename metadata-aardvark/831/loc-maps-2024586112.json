@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contains approximately color, digital GeoPDF images of USGS 1:20,000 quadrangle topographic maps (various editions). Contains approximately color, digital GeoPDF images of USGS 1:20,000 quadrangle topographic maps (various editions).",
+    "Contributors: Army Geospatial Center (U.S.), contributor; Geological Survey (U.S.), cartographer",
+    "Digital maps georeferenced by US Army Geospatial Center.",
+    "Each sheet separately titled.",
+    "Includes quadrangle location map.",
+    "Issued also as print version.",
+    "Publication statement: [Washington, D.C.] : U.S. Geological Survey, 1960-",
+    "Relief shown by contours and spot heights. Depths shown by contours and soundings.",
+    "Title from GeoPDF file as viewed on December 3, 2024."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024586112",
+    "http://www.loc.gov/item/2024586112/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586112/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586112",
+    "https://search.catalog.loc.gov/instances/c5f93004-5c81-560f-965b-ae344e7e44c1",
+    "https://www.loc.gov/item/2024586112/"
+  ],
+  "dct_issued_s": "1960",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2024586112/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress provides access to datasets selected from its various digital collections. Many of the datasets, particularly those produced by the U.S. government are in the public domain and free of any rights restrictions. For some materials in the Collection, the Library has obtained permission for limited use of the materials. Other materials are presented for educational and research purposes in accordance with fair use under United States copyright law. Where possible, rights information including restrictions on reuse is included in the Catalog record for the item. You are responsible for deciding whether your use of the items in this collection is legal. You are also responsible for securing any permissions needed to use the items. Depending on the applicable license, you may need written permission from the copyright owners of materials not in the public domain for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Some content may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. More about Copyright and other Restrictions Credit Line: Library of Congress, Digital Collections Management and Services Division"
+  ],
+  "dct_spatial_sm": [
+    "puerto rico"
+  ],
+  "dct_subject_sm": [
+    "Puerto Rico",
+    "Puerto Rico--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "dct_title_s": "Commonwealth of Puerto Rico : 7.5 minute series (topographic)",
+  "gbl_dateRange_drsim": [
+    "[1960 TO 1960]"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2024586112",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

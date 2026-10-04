@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Black ink, col. inks, and col. washes on photocopy base map.",
+    "Contributors: Radovitch, A. (André), 1872-",
+    "On base map: Scala di 1:400 000 (1 cm. = 4 km.).",
+    "Publication statement: [1915?]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. Shows territories proposed to be allotted to Serbia, Montenegro, Albania, Italy, and Greece. On base map: Scala di 1:400 000 (1 cm. = 4 km.). Black ink, col. inks, and col. washes on photocopy base map. Rubber-stamped and mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Vault",
+    "Rubber-stamped and mounted on cloth backing.",
+    "Shows territories proposed to be allotted to Serbia, Montenegro, Albania, Italy, and Greece.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6831f.ct003473",
+    "http://lccn.loc.gov/88694279",
+    "http://www.loc.gov/item/88694279/",
+    "http://www.loc.gov/resource/g6831f.ct003473/",
+    "https://hdl.loc.gov/loc.gmd/g6831f.ct003473",
+    "https://search.catalog.loc.gov/instances/b5529a28-c08a-5857-90ea-f328b2ab546a",
+    "https://www.loc.gov/item/88694279/"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "engita",
+    "ita"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/88694279/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct003473.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd6/g6831/g6831f/ct003473.tif\"}, {\"label\": \"JPEG2000: ct003473.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6831/g6831f/ct003473.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6831/g6831f/ct003473.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88694279/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "albania"
+  ],
+  "dct_subject_sm": [
+    "Albania",
+    "Albania--Boundaries--Maps",
+    "World War, 1914-1918--Territorial questions--Albania--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1915",
+    "[1915?]"
+  ],
+  "dct_title_s": "Approximative zones according to the secret Treaty of London (April 26th 1915) : [Albania]",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88694279",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

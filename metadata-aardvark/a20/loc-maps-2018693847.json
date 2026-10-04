@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Карта островов Ликео и Маджикосимо. 1826"
+  ],
+  "dct_description_sm": [
+    "Contributors: Kruzenshtern, Ivan Fedorovich, 1770-1846",
+    "From the atlas \"Атлас Южного моря сочиненный флота капитан командором Крузенштерном.\"",
+    "Na ėtom zhe liste karta: karta ostrovov Bashi i Babui︠a︡n. 1826.Dopolnitel'nai︠a︡ karta: Plan zaliva Napakiang na ostrove Bol'shom Likeo.- 1:52 900.",
+    "Na ėtom zhe liste karta: karta ostrovov Bashi i Babui︠a︡n. 1826.Dopolnitel'nai︠a︡ karta: Plan zaliva Napakiang na ostrove Bol'shom Likeo.- 1:52 900. Original map at: National Library of Russia На этом же листе карта: карта островов Баши и Бабуян. 1826.Дополнительная карта: План залива Напакианг на острове Большом Ликео.- 1:52 900. From the atlas \"Атлас Южного моря сочиненный флота капитан командором Крузенштерном.\"",
+    "Original map at: National Library of Russia",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], 1826.",
+    "На этом же листе карта: карта островов Баши и Бабуян. 1826.Дополнительная карта: План залива Напакианг на острове Большом Ликео.- 1:52 900."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693847",
+    "http://www.loc.gov/item/2018693847/",
+    "http://www.loc.gov/resource/gdc.2018693847/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.natl0006_03401",
+    "https://search.catalog.loc.gov/instances/2eb0985e-31f8-5fe0-bd37-43054ac42b6f",
+    "https://www.loc.gov/item/2018693847/"
+  ],
+  "dct_issued_s": "1826",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2018693847/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693847.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693847/2018693847.pdf\"}, {\"label\": \"JPEG2000: natl0006_03401.jp2\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693847/natl0006_03401.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693847:natl0006_03401/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693847/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here. Credit Line: [Original Source citation], World Digital Library More about Copyright and other Restrictions For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021. For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "japan"
+  ],
+  "dct_subject_sm": [
+    "19th Century",
+    "Cartography",
+    "Japan",
+    "World Voyages"
+  ],
+  "dct_temporal_sm": [
+    "1826"
+  ],
+  "dct_title_s": "Karta ostrovov Likeo i Madzhikosimo. 1826",
+  "gbl_dateRange_drsim": [
+    "[1826 TO 1826]"
+  ],
+  "gbl_indexYear_im": [
+    1826
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693847",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

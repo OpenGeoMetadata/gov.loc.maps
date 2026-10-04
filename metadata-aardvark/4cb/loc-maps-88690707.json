@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Attributed to Nicholas King.",
+    "Black and red inks.",
+    "Cited in preliminary cataloging: Toner collection 14",
+    "Contributors: King, N. (Nicholas), 1771-1812",
+    "Covers squares along Sixteenth St. N.W. bounded by 15th, 17th, and Q sts. and Massachusetts and Rhode Island aves.",
+    "Covers squares along Sixteenth St. N.W. bounded by 15th, 17th, and Q sts. and Massachusetts and Rhode Island aves. Shows block numbers. Attributed to Nicholas King. Black and red inks. Watermarked: VI. Mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Phillips. Washington, 51 Cited in preliminary cataloging: Toner collection 14 Vault DCP",
+    "DCP",
+    "Mounted on cloth backing.",
+    "Phillips. Washington, 51",
+    "Publication statement: [1796?]",
+    "Shows block numbers.",
+    "Vault",
+    "Watermarked: VI."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851g.la002178",
+    "http://lccn.loc.gov/88690707",
+    "http://www.loc.gov/item/88690707/",
+    "http://www.loc.gov/resource/g3851g.la002178/",
+    "https://hdl.loc.gov/loc.gmd/g3851g.la002178",
+    "https://search.catalog.loc.gov/instances/65bf5e6d-06b2-5b74-9ff9-bb6f16f9356f",
+    "https://www.loc.gov/item/88690707/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/88690707/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: la002178.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd385/g3851/g3851g/la002178.tif\"}, {\"label\": \"JPEG2000: la002178.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851g/la002178.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851g/la002178.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690707/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Blodget, Samuel,--1757-1814--Homes and haunts--Washington (D.C.)--Maps--To 1800",
+    "Manuscript maps--To 1800",
+    "Real property--Washington (D.C.)--Maps--To 1800",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps, Manuscript--To 1800"
+  ],
+  "dct_temporal_sm": [
+    "1796",
+    "[1796?]"
+  ],
+  "dct_title_s": "Map of that part of the city of Washington on which is situated a mansion-house belonging to Samuel Blodget",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690707",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

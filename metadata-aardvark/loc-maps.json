@@ -1,0 +1,18 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Maps cataloged at loc.gov/maps, including multi-sheet items and records without geographic bounds. An independent OpenGeoMetadata project; not an official Library of Congress product."
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/maps/\"}",
+  "dct_title_s": "Library of Congress Maps",
+  "gbl_displayNote_sm": [
+    "Incomplete pilot preview: 126 of 200 selected items. This is not the complete LOC maps collection."
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Collections"
+  ],
+  "id": "loc-maps",
+  "schema_provider_s": "Library of Congress"
+}

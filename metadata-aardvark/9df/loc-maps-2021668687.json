@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "De Kusten van Guzaratte, Malabaar, Bengale en Malacca, met die van't Magtig Koninkryk Siam, tot aan China bestevend"
+  ],
+  "dct_description_sm": [
+    "Content in Dutch.",
+    "Contributors: Aa, Pieter van der, 1659-1733 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map ; 22 x 15 centimeters.",
+    "Publication statement: Leiden : Pieter van der Aa, 1707.",
+    "This attractive map of Southeast Asia was published in Leiden in 1700 and covers, to the west most of India; as far east as southern China and the Korean Peninsula; and to the south Thailand, most of the Malay Peninsula, and northern Sumatra. The map may have been created in the 16th century as a later record of the voyage that Lopo Soares de Albergaria (circa 1453-circa 1532) made to Asia in 1515 on behalf of King Manuel I of Portugal. It was published by Pieter Van der Aa (1659-1733), Dutch publisher and bookseller based in Leiden who specialized in reissuing maps acquired from earlier mapmakers. Van der Aa published numerous maps and atlases, including his Naaukeurige versameling der gedenkwaardigste zee en landreysen na Ost en West-Indien (Accurate collection of the most memorable travels by sea and land between the East and West Indies) in 1706-8 and Galerie agréable du monde (Attractive gallery of the world) completed in 1729. Van der Aa's maps generally are more renowned as decorative objects than for their geographical correctness. Many of his maps included large and decorative title cartouches. The cartouche on this map features a man and his servant, a temple and worshippers, and elephants. Scale is given in German miles and Spanish miles.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668687",
+    "http://www.loc.gov/item/2021668687/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_17564/",
+    "http://www.loc.gov/resource/wdl.17564/",
+    "https://hdl.loc.gov/loc.wdl/wdl.17564",
+    "https://www.loc.gov/item/2021668687/"
+  ],
+  "dct_issued_s": "1707-01-01",
+  "dct_language_sm": [
+    "dut",
+    "flemish"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2021668687/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"JPEG2000: 201.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/17/56/4/wdl_17564/201.jp2\"}, {\"label\": \"ZIP: wdl_17564.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/17/56/4/wdl_17564/wdl_17564.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:56:4:wdl_17564:201/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668687/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here. Credit Line: [Original Source citation], World Digital Library More about Copyright and other Restrictions For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021. For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "bangladesh",
+    "india",
+    "myanmar",
+    "sri lanka"
+  ],
+  "dct_subject_sm": [
+    "1707",
+    "Albergaria, Lopo Soares de, approximately 1453-approximately 1532",
+    "Bangladesh",
+    "Exploration and encounters",
+    "India",
+    "Myanmar",
+    "Sri Lanka"
+  ],
+  "dct_temporal_sm": [
+    "1707-01-01"
+  ],
+  "dct_title_s": "From the Shores of Gujarat, Malabar, Bengal and Malacca, to the Kingdom of Siam and China in the East.",
+  "gbl_dateRange_drsim": [
+    "[1707 TO 1707]"
+  ],
+  "gbl_indexYear_im": [
+    1707
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668687",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

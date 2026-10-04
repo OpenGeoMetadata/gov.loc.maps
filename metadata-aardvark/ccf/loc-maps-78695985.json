@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"In 1717 a young Armenian Catholic priest, Mekhitar Sebastatsi (Mekhitar of Sebastia [present-day Sivas, in Turkey], 1676-1749) founded a Benedictine Armenian Catholic monastery on the island of San Lazzaro in Venice. Mekhitar wrote and published several works that became sources of inspiration and intellectual renewal throughout the centuries that followed. The monastery became a center for Armenian learning and publishing. Among the many works published by the Mekhitarist fathers of San Lazzaro were maps and geographical studies. This map of the Americas is part of a set of four continental maps by Elia Endasian produced at the San Lazzaro press in 1786-87. The cartography is largely based on earlier works by Italian mapmakers, but the place-names and the map legends are in Armenian.\" World Digital Library.",
+    "AACR2: 651",
+    "Armenian.",
+    "Contributors: Endasian, Elia; Mkhitʻarean Miabanutʻiwn i Venetik",
+    "Hand colored.",
+    "Includes inset of northern North America and col. ill.",
+    "Publication statement: Vēnētik : i Vans Srboyn Ghazaru, [1787]",
+    "Relief shown pictorially.",
+    "Scale not given.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3290.ct003522",
+    "http://lccn.loc.gov/78695985",
+    "http://www.loc.gov/item/78695985/",
+    "http://www.loc.gov/resource/g3290.ct003522/",
+    "https://hdl.loc.gov/loc.gmd/g3290.ct003522",
+    "https://search.catalog.loc.gov/instances/8a339a8e-b736-5614-b0c4-913ba7b20b4b",
+    "https://www.loc.gov/item/78695985/"
+  ],
+  "dct_issued_s": "1787",
+  "dct_language_sm": [
+    "armenian"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/78695985/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct003522.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd3/g3290/g3290/ct003522.tif\"}, {\"label\": \"JPEG2000: ct003522.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3290/g3290/ct003522.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3290/g3290/ct003522.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78695985/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here. Credit Line: [Original Source citation], World Digital Library More about Copyright and other Restrictions For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021. For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "america"
+  ],
+  "dct_subject_sm": [
+    "America",
+    "America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1787"
+  ],
+  "dct_title_s": "Amerika, ěst nor ashkharhagrakan znnutʻeantsʻ : pʻoragreal i Vēnētik i Vans Srboyn Ghazaru i tʻuis merum 1236, 1787",
+  "gbl_dateRange_drsim": [
+    "[1787 TO 1787]"
+  ],
+  "gbl_indexYear_im": [
+    1787
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78695985",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

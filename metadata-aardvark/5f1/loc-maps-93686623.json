@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Henry, Everett",
+    "Includes col. ill. and coat-of-arms.",
+    "LC copy 1 laminated and mounted on cloth backing.",
+    "LMP",
+    "Pictorial literary maps.",
+    "Pictorial literary maps. Includes col. ill. and coat-of-arms. Available also through the Library of Congress Web site as a raster image. LC copy 1 laminated and mounted on cloth backing. LMP",
+    "Publication statement: Cleveland : Harris-Seybold Co., c1957."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/93686623",
+    "http://www.loc.gov/item/93686623/",
+    "http://www.loc.gov/resource/g5754l.ct003533/",
+    "https://hdl.loc.gov/loc.gmd/g5754l.ct003533",
+    "https://search.catalog.loc.gov/instances/0a852d3c-8caa-52b9-b195-71f41d1348e4",
+    "https://www.loc.gov/item/93686623/"
+  ],
+  "dct_issued_s": "1789",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/93686623/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct003533.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd5/g5754/g5754l/ct003533.tif\"}, {\"label\": \"JPEG2000: ct003533.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5754/g5754l/ct003533.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5754/g5754l/ct003533.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93686623/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "england",
+    "france",
+    "london",
+    "paris"
+  ],
+  "dct_subject_sm": [
+    "Dickens, Charles,--1812-1870.--Tale of two cities--Maps",
+    "England--London",
+    "France--Paris",
+    "Literary landmarks--England--London--Maps",
+    "Literary landmarks--France--Paris--Maps",
+    "London (England)--Maps",
+    "Paris (France)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1789"
+  ],
+  "dct_title_s": "A tale of two cities : from the book by Charles Dickens : [central London and central Paris]",
+  "gbl_dateRange_drsim": [
+    "[1789 TO 1789]"
+  ],
+  "gbl_indexYear_im": [
+    1789
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93686623",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}
