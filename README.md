@@ -8,6 +8,8 @@ Congress product**. It follows the publishing conventions of
 
 ## Publication status
 
+**Actual Aardvark records are available in the [incomplete pilot preview](https://github.com/OpenGeoMetadata/gov.loc.maps/tree/feature/pilot-preview/metadata-aardvark): 126 item records plus one collection record.** See [draft PR #1](https://github.com/OpenGeoMetadata/gov.loc.maps/pull/1) for review. The default branch does not yet contain production metadata; the preview is deliberately separate while the remaining harvest and release checks run.
+
 The harvester and pilot are being established. A complete collection release is
 not yet available. Pilot records belong on `harvest/pilot` and must not be merged
 as a complete collection. The first production release requires the checks in
