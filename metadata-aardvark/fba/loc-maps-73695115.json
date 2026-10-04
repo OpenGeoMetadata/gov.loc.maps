@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Contributors: Palairet, Jean, 1697-1774",
+    "From the author's Atlas méthodique. 1755.",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. From the author's Atlas méthodique. 1755. Shows boundaries, some cities and towns, forts, and Indian tribal territory. Scale ca. 1:15,000,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 16 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 16",
+    "Publication statement: [Londres, 1755]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:15,000,000.",
+    "Shows boundaries, some cities and towns, forts, and Indian tribal territory.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar001600",
+    "http://lccn.loc.gov/73695115",
+    "http://www.loc.gov/item/73695115/",
+    "http://www.loc.gov/resource/g3300.ar001600/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar001600",
+    "https://search.catalog.loc.gov/instances/da0e9e3b-8cfb-58b1-8d23-86ee5b5a4bed",
+    "https://www.loc.gov/item/73695115/"
+  ],
+  "dct_issued_s": "1755",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/73695115/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ar001600.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd3/g3300/g3300/ar001600.tif\"}, {\"label\": \"JPEG2000: ar001600.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar001600.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar001600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73695115/\"}",
+  "dct_rights_sm": [
+    "The materials in Parallel Histories: Spain, the United States, and the American Frontier are in the public domain and are free to use and reuse. Credit Line: Library of Congress, Parallel Histories: Spain, the United States, and the American Frontier. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1755"
+  ],
+  "dct_title_s": "Carte de l'Amérique septentrionale, 1754",
+  "gbl_dateRange_drsim": [
+    "[1755 TO 1755]"
+  ],
+  "gbl_indexYear_im": [
+    1755
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73695115",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

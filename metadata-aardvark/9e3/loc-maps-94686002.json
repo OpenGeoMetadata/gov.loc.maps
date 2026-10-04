@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1994--301-085/80161. Reprint 1994.\"",
+    "\"*GPO: 1994--301-085/80161. Reprint 1994.\" Buildings shown pictorially. Title in upper margin: Appomattox Court House. Includes text, ill., and area map. Index to points of interest, text, and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Buildings shown pictorially.",
+    "Contributors: United States. National Park Service",
+    "Includes text, ill., and area map.",
+    "Index to points of interest, text, and ill. (some col.) on verso.",
+    "Publication statement: [Washington, D.C.] : The Service, [1994]",
+    "Title in upper margin: Appomattox Court House."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/94686002",
+    "http://www.loc.gov/item/94686002/",
+    "http://www.loc.gov/resource/g3884a.ct009296/",
+    "https://hdl.loc.gov/loc.gmd/g3884a.ct009296",
+    "https://search.catalog.loc.gov/instances/948f353a-f09b-5a33-85cc-f9fb41612b03",
+    "https://www.loc.gov/item/94686002/"
+  ],
+  "dct_issued_s": "1994",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/94686002/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct009296Z.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd388/g3884/g3884a/ct009296Z.tif\"}, {\"label\": \"JPEG2000: ct009296.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884a/ct009296.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884a/ct009296.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94686002/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "appomattox",
+    "appomattox court house national historical park",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Appomattox Court House National Historical Park (Va.)--Maps",
+    "United States--Virginia--Appomattox--Appomattox Court House National Historical Park"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_title_s": "Appomattox Court House National Historical Park, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94686002",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

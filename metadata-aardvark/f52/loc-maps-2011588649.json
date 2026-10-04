@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Pen-and-ink and colored pencil on paper. Mounted on cardboard.",
+    "Publication statement: [1914?]",
+    "Shows the first battle of the Marne.",
+    "Shows the first battle of the Marne. Pen-and-ink and colored pencil on paper. Mounted on cardboard. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5832m.ct003562",
+    "http://lccn.loc.gov/2011588649",
+    "http://www.loc.gov/item/2011588649/",
+    "http://www.loc.gov/resource/g5832m.ct003562/",
+    "https://hdl.loc.gov/loc.gmd/g5832m.ct003562",
+    "https://search.catalog.loc.gov/instances/4dd183cc-e751-59ce-bed6-438a976a8349",
+    "https://www.loc.gov/item/2011588649/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2011588649/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct003562.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd5/g5832/g5832m/ct003562.tif\"}, {\"label\": \"JPEG2000: ct003562.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5832/g5832m/ct003562.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5832/g5832m/ct003562.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011588649/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "france",
+    "marne river valley"
+  ],
+  "dct_subject_sm": [
+    "France--Marne River Valley",
+    "Marne River Valley (France)--Maps",
+    "Marne, 1st Battle of the, France, 1914--Maps",
+    "World War, 1914-1918--Campaigns--France--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1914",
+    "[1914?]"
+  ],
+  "dct_title_s": "Situation le 9 septembre 1914 au moment ou le commandement allemand ordonne la retraite de l'aile droite et du centre : [France]",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011588649",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

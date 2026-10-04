@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: United States. Navy",
+    "Description derived from published bibliography.",
+    "From. Report on the Secretary of the Navy, with an appendix, containing reports from officers. December, 1864). opp. p. 630.",
+    "From. Report on the Secretary of the Navy, with an appendix, containing reports from officers. December, 1864). opp. p. 630. Map shows the \"Position of the Kearsarge when she received the first broadside of the enemy,\" the general direction of the ships during the battle, and the position of the Alabama, when it sank in 45 fathoms of water. Map accompanies \"Captain [John A.] Winslow's detailed report of the action\" dated July 30, 1864. Description derived from published bibliography. Scale ca. 1:41,000. LC Civil War Maps (2nd ed.), 703 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 703",
+    "Map shows the \"Position of the Kearsarge when she received the first broadside of the enemy,\" the general direction of the ships during the battle, and the position of the Alabama, when it sank in 45 fathoms of water. Map accompanies \"Captain [John A.] Winslow's detailed report of the action\" dated July 30, 1864.",
+    "Publication statement: Philada., Lith. of Bowen & Co., [1864]",
+    "Scale ca. 1:41,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5831s.cw0703000",
+    "http://lccn.loc.gov/99446351",
+    "http://www.loc.gov/item/99446351/",
+    "http://www.loc.gov/resource/g5831s.cw0703000/",
+    "https://hdl.loc.gov/loc.gmd/g5831s.cw0703000",
+    "https://search.catalog.loc.gov/instances/27d6848b-04e2-5b12-96a0-2fa40e086f24",
+    "https://www.loc.gov/item/99446351/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/99446351/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: cw0703000.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd5/g5831/g5831s/cw0703000.tif\"}, {\"label\": \"JPEG2000: cw0703000.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5831/g5831s/cw0703000.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5831/g5831s/cw0703000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446351/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "atlantic coast",
+    "cherbourg",
+    "france",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Alabama (Screw sloop)",
+    "France--Cherbourg",
+    "Kearsarge (Sloop)",
+    "Naval battles--France--Atlantic Coast--History--19th century--Maps",
+    "United States--History--Civil War, 1861-1865--Naval operations, Confederate"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "[Map of the defeat of the Confederate ship Alabama by the U.S. steamer Kearsarge on June 19, 1864, off Cherbourg, France]",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446351",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

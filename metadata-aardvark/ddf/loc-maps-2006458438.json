@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright 1894, by Wm. M. Bradley.\"",
+    "Contributors: Bradley, William M.",
+    "In lower left corner: 546.",
+    "In upper right corner: 26.",
+    "Publication statement: [S.l. : s.n.], c1894.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. \"Copyright 1894, by Wm. M. Bradley.\" In upper right corner: 26. In lower left corner: 546. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7820.ct005328",
+    "http://lccn.loc.gov/2006458438",
+    "http://www.loc.gov/item/2006458438/",
+    "http://www.loc.gov/resource/g7820.ct005328/",
+    "https://hdl.loc.gov/loc.gmd/g7820.ct005328",
+    "https://search.catalog.loc.gov/instances/faa969aa-bf3f-5f36-95f8-409fb7b069f8",
+    "https://www.loc.gov/item/2006458438/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2006458438/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct005328.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd7/g7820/g7820/ct005328.tif\"}, {\"label\": \"JPEG2000: ct005328.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7820/g7820/ct005328.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7820/g7820/ct005328.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006458438/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "china",
+    "japan"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Maps",
+    "Japan",
+    "Japan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "China",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006458438",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

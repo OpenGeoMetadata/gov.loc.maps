@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Content in Hebrew.",
+    "Contributors: Abraham ben Jacob (17th century) Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Israel.",
+    "Original resource extent: Copperplate ; 262 x 480 millimeters.",
+    "Publication statement: Amsterdam : [publisher not identified], 1695.",
+    "This 1695 copperplate engraving of the Holy Land is one of the earliest printed maps in Hebrew. The map was drawn by Abraham Ben-Jacob, a convert to Judaism, based on an earlier map by Christiaan van Adrichem (1533-85), and reproduced in the Amsterdam Haggadah. The map features Biblical illustrations, among them depictions of the story of Jonah and the whale, King Solomon's fleet carrying the cedar trees for the construction of the temple in Jerusalem, and beehives and cows symbolizing the milk and honey of the Promised Land. The Amsterdam Haggadah was the first Haggadah to include copperplate engravings, and was widely copied and distributed throughout Europe.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668293",
+    "http://www.loc.gov/item/2021668293/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_02887/",
+    "http://www.loc.gov/resource/wdl.2887/",
+    "https://hdl.loc.gov/loc.wdl/wdl.2887",
+    "https://www.loc.gov/item/2021668293/"
+  ],
+  "dct_issued_s": "1695-01-01",
+  "dct_language_sm": [
+    "hebrew"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2021668293/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"JPEG2000: PAL0515.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/02/88/7/wdl_02887/PAL0515.jp2\"}, {\"label\": \"ZIP: wdl_02887.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/02/88/7/wdl_02887/wdl_02887.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:88:7:wdl_02887:PAL0515/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668293/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here. Credit Line: [Original Source citation], World Digital Library More about Copyright and other Restrictions For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021. For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "israel"
+  ],
+  "dct_subject_sm": [
+    "1695",
+    "Bible. Old Testament",
+    "Israel"
+  ],
+  "dct_temporal_sm": [
+    "1695-01-01"
+  ],
+  "dct_title_s": "This [is being produced] so that all can know the route of the travels [of the Israelites] 40 years in the desert [through] the width and length of the Holy Land from the Nile to the city of Damascus, from the Arnon Valley to the Mediterranean Sea, and in it each individual tribe was given its own portion of the land.",
+  "gbl_dateRange_drsim": [
+    "[1695 TO 1695]"
+  ],
+  "gbl_indexYear_im": [
+    1695
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668293",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Répartition géographique de la population en France ou densité de la population par commune"
+  ],
+  "dct_description_sm": [
+    "\"Scale 1:1 600 000\"--Note extracted from World Digital Library.",
+    "Content in French.",
+    "Contributors: Turquan, Victor, 1857-19? Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of France.",
+    "Original resource extent: Printed map, color, 65 x 72 centimeters.",
+    "Publication statement: Paris : Charles Bayle, 1887.",
+    "Title devised, in English, by Library staff.",
+    "Victor Turquan (1857-19?) headed the French Statistical Bureau from 1887 to 1896. He wrote numerous works on economic and demographic statistics, which included maps with graded coloration and iso-lines (lines connecting points with equal values). For Turquan, \"the study of population distribution within the territory of a country belongs as much to geography as to statistics.\" In an era in which color rarely was used even in statistical charts, he created this map of the population distribution in France using isopleths (lines surrounding zones with similar features) and \"pitches of color\" to draw the different regions. Turquan's powers of visualization and the aesthetic quality of his maps made his work stand out from that of other statisticians of his time, and prefigured the more systematic development of quantitative cartography in the 20th century."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668416",
+    "http://www.loc.gov/item/2021668416/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_03027/",
+    "http://www.loc.gov/resource/wdl.3027/",
+    "https://hdl.loc.gov/loc.wdl/wdl.3027",
+    "https://www.loc.gov/item/2021668416/"
+  ],
+  "dct_issued_s": "1887-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2021668416/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"JPEG2000: E0000001.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/03/02/7/wdl_03027/E0000001.jp2\"}, {\"label\": \"ZIP: wdl_03027.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/03/02/7/wdl_03027/wdl_03027.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:03:02:7:wdl_03027:E0000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668416/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here. Credit Line: [Original Source citation], World Digital Library More about Copyright and other Restrictions For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021. For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "france"
+  ],
+  "dct_subject_sm": [
+    "1887",
+    "France",
+    "Population density"
+  ],
+  "dct_temporal_sm": [
+    "1887-01-01"
+  ],
+  "dct_title_s": "Geographical Distribution of the Population in France, or Population Density by Commune.",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668416",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

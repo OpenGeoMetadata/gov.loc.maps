@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Kittson County, Minnesota"
+  ],
+  "dct_description_sm": [
+    "\"FIPS code 27069.\"",
+    "\"ISO 9660.\"",
+    "\"Mastered 3/98.\"",
+    "\"Produced by the U.S. Geological Survey under the auspices of the National Digital Orthophoto Program (NDOP)\"--Container insert.",
+    "Contributors: Geological Survey (U.S.)",
+    "FFD. 8 coded a temporarily",
+    "JPEG compressed data image files.",
+    "Publication statement: [Reston, Va.] : The Survey ; [Denver, Colo. : USGS Branch of Distribution, 1998]",
+    "Shipping list no.: 98-0051-E.",
+    "System requirements: An 80386 IBM compatible computer with MS-DOS version 3.1 or later, and 640K of RAM, and a CD-ROM reader using Microsoft Extensions, version 2.0 or later.",
+    "System requirements: An 80386 IBM compatible computer with MS-DOS version 3.1 or later, and 640K of RAM, and a CD-ROM reader using Microsoft Extensions, version 2.0 or later. Title from disc label. \"Produced by the U.S. Geological Survey under the auspices of the National Digital Orthophoto Program (NDOP)\"--Container insert. JPEG compressed data image files. Shipping list no.: 98-0051-E. \"Mastered 3/98.\" \"ISO 9660.\" \"FIPS code 27069.\" FFD. 8 coded a temporarily",
+    "Title from disc label."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/98677482",
+    "http://www.loc.gov/item/98677482/",
+    "https://www.loc.gov/item/98677482/"
+  ],
+  "dct_issued_s": "1998",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/98677482/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "kittson county",
+    "minnesota"
+  ],
+  "dct_subject_sm": [
+    "Kittson County (Minn.)--Maps",
+    "Maps--Digital"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dct_title_s": "Kittson County, MN DOQ, digital orthophoto quadrangle data",
+  "gbl_dateRange_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-98677482",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

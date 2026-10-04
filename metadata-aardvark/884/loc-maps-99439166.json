@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Wells, Jacob",
+    "Description derived from published bibliography.",
+    "From Century illustrated monthly magazine, v. 30, June 1885. p. 317.",
+    "From Century illustrated monthly magazine, v. 30, June 1885. p. 317. Indicates names of commanders, roads, relief by hachures, houses, names of a few residents, drainage, and vegetation. Description derived from published bibliography. Scale ca. 1:33,000. LC Civil War Maps (2nd ed.), 558 Available also through the Library of Congress web site as raster image.",
+    "Indicates names of commanders, roads, relief by hachures, houses, names of a few residents, drainage, and vegetation.",
+    "LC Civil War Maps (2nd ed.), 558",
+    "Publication statement: [S.l., 1885]",
+    "Scale ca. 1:33,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884o.cw0558000",
+    "http://lccn.loc.gov/99439166",
+    "http://www.loc.gov/item/99439166/",
+    "http://www.loc.gov/resource/g3884o.cw0558000/",
+    "https://hdl.loc.gov/loc.gmd/g3884o.cw0558000",
+    "https://search.catalog.loc.gov/instances/54139595-0ac2-5d0f-ac1b-ab5058a7fcba",
+    "https://www.loc.gov/item/99439166/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/99439166/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: cw0558000.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd388/g3884/g3884o/cw0558000.tif\"}, {\"label\": \"JPEG2000: cw0558000.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884o/cw0558000.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884o/cw0558000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99439166/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "old cold harbor",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Gaines' Mill, Battle of, Va",
+    "Gaines' Mill, Battle of, Va., 1862--Maps",
+    "United States--Virginia--Old Cold Harbor"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Map of the battle-field of Gaines's Mill, showing approximately the positions of infantry and artillery engaged. (The topography from the official map.) [June 27, 1862]",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99439166",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

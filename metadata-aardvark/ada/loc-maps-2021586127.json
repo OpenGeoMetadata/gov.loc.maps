@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Preliminary chart Korea including Tsushima and Iki Islands compiled from Japanese and Foreign Government surveys to 1880",
+    "朝鮮全岸 = Preliminary chart, Korea, including Tsushima and Iki Islands compiled from Japanese and Foreign Government surveys to 1880 /"
+  ],
+  "dct_description_sm": [
+    "\"Hy[d]rographic Office Japan, price 70 sen\"--in lower left margin.",
+    "\"底質blk. 黒色 crl. 石花 d. 深浅用尋・諸高底ハ ... 示ス\"--in upper right margin.",
+    "Contributors: Japan. Kaigunshō. Suirokyoku, cartographer",
+    "Includes text, \"Chōsen engan no zu wa jūrai Eihan no zu ari mata sono Higashigan kaizu wa Ro soku no mono ari ... Meiji 15-nen Kaigun Suirokyoku.\"",
+    "LC copy brittle, torn, missing small edge sections.",
+    "LC copy has English writing in red pen, example \"P.Lazarev.\"",
+    "Publication statement: [Tokyo] : Kaigunshō Suirokyoku, Meiji 15 [1882]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. Includes text, \"Chōsen engan no zu wa jūrai Eihan no zu ari mata sono Higashigan kaizu wa Ro soku no mono ari ... Meiji 15-nen Kaigun Suirokyoku.\" \"Hy[d]rographic Office Japan, price 70 sen\"--in lower left margin. LC copy has English writing in red pen, example \"P.Lazarev.\" LC copy brittle, torn, missing small edge sections. Available also through the Library of Congress Web site as a raster image. \"底質blk. 黒色 crl. 石花 d. 深浅用尋・諸高底ハ ... 示ス\"--in upper right margin."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021586127",
+    "http://www.loc.gov/item/2021586127/",
+    "http://www.loc.gov/resource/g7901p.ct011985/",
+    "https://hdl.loc.gov/loc.gmd/g7901p.ct011985",
+    "https://search.catalog.loc.gov/instances/44b86976-bc74-5d36-8aff-5a968345faa0",
+    "https://www.loc.gov/item/2021586127/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2021586127/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct011985.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd7/g7901/g7901p/ct011985.tif\"}, {\"label\": \"JPEG2000: ct011985.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7901/g7901p/ct011985.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7901:g7901p:ct011985/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021586127/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "iki island",
+    "japan",
+    "ken",
+    "korea",
+    "nagasaki",
+    "tsushima island"
+  ],
+  "dct_subject_sm": [
+    "Japan",
+    "Korea",
+    "Korea--Maps",
+    "Nautical charts--Japan--Iki Island (Nagasaki-ken)",
+    "Nautical charts--Japan--Tsushima Island",
+    "Nautical charts--Korea"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Chōsen zengan = Preliminary chart, Korea, including Tsushima and Iki Islands compiled from Japanese and Foreign Government surveys to 1880",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021586127",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

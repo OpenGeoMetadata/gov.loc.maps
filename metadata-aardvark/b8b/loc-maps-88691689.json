@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternative title: Dai Nihon kokugun yochi zenzu"
+  ],
+  "dct_description_sm": [
+    "Alternative title inferred from OPAC of National Diet Library, May 1, 2020.",
+    "Contributors: Takashiba, Sanʼyū, active 19th century, cartographer; Tsutaya, Kichizō, active 19th century",
+    "Includes table of distances from Edo [i.e. Tokyo] to other places.",
+    "LC copy imperfect: Torn at fold lines.",
+    "Oriented with north toward the upper right.",
+    "Provides values for latitude but not longitude.",
+    "Publication statement: Edo : Tsutaya Kichizō, Kaei 2 [1849]",
+    "Relief shown pictorially.",
+    "Shows highways, waterways between ports, administrative divisions (provinces, counties, and capitals of fiefs).",
+    "Shows highways, waterways between ports, administrative divisions (provinces, counties, and capitals of fiefs). Alternative title inferred from OPAC of National Diet Library, May 1, 2020. Relief shown pictorially. Oriented with north toward the upper right. Provides values for latitude but not longitude. Wood block print. Includes table of distances from Edo [i.e. Tokyo] to other places. Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Torn at fold lines.",
+    "Wood block print."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/88691689",
+    "http://www.loc.gov/item/88691689/",
+    "http://www.loc.gov/resource/g7961p.ct011906/",
+    "https://hdl.loc.gov/loc.gmd/g7961p.ct011906",
+    "https://search.catalog.loc.gov/instances/cb56b805-fa01-5c3a-86b2-ebc13182e776",
+    "https://www.loc.gov/item/88691689/"
+  ],
+  "dct_issued_s": "1849",
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/88691689/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct011906.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd7/g7961/g7961p/ct011906.tif\"}, {\"label\": \"JPEG2000: ct011906.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7961/g7961p/ct011906.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7961/g7961p/ct011906.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88691689/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "japan"
+  ],
+  "dct_subject_sm": [
+    "Japan",
+    "Japan--Administrative and political divisions--Maps",
+    "Japan--Maps",
+    "Roads--Japan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1849"
+  ],
+  "dct_title_s": "[Nihon rotei zenzu]",
+  "gbl_dateRange_drsim": [
+    "[1849 TO 1849]"
+  ],
+  "gbl_indexYear_im": [
+    1849
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88691689",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

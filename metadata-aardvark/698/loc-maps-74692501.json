@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 651/2; 651/3; 700/1; 700/2",
+    "Contributors: Fry, Joshua, approximately 1700-1754; Groux,; Jefferson, Peter, 1708-1757; Robert de Vaugondy, Gilles, 1688-1766",
+    "Hand colored.",
+    "LC Maps of North America, 1750-1789, 1433",
+    "Publication statement: [Paris, 1776?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:880,000.",
+    "Shows Virginia, Maryland, and \"De La War counties.\"",
+    "The third state is described in Joshua Fry's The Fry & Jefferson map of Virginia and Maryland; a facsimile of the 1st ed. ... introduction by Dumas Malone. 1966.",
+    "Third state.",
+    "Third state. Hand colored. Relief shown pictorially. Shows Virginia, Maryland, and \"De La War counties.\" The third state is described in Joshua Fry's The Fry & Jefferson map of Virginia and Maryland; a facsimile of the 1st ed. ... introduction by Dumas Malone. 1966. Scale ca. 1:880,000. LC Maps of North America, 1750-1789, 1433 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 651/2; 651/3; 700/1; 700/2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.ar143300",
+    "http://lccn.loc.gov/74692501",
+    "http://www.loc.gov/item/74692501/",
+    "http://www.loc.gov/resource/g3880.ar143300/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ar143300",
+    "https://search.catalog.loc.gov/instances/f50ed90b-058b-5bf5-8222-03c43b607e58",
+    "https://www.loc.gov/item/74692501/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/74692501/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ar143300.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd388/g3880/g3880/ar143300.tif\"}, {\"label\": \"JPEG2000: ar143300.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ar143300.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ar143300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692501/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "maryland",
+    "middle atlantic states",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Maryland--Maps--Early works to 1800",
+    "Middle Atlantic States--Maps--Early works to 1800",
+    "United States--Maryland",
+    "United States--Middle Atlantic States",
+    "United States--Virginia",
+    "Virginia--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1776",
+    "[Paris, 1776?]"
+  ],
+  "dct_title_s": "Carte de la Virginie et du Maryland",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692501",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

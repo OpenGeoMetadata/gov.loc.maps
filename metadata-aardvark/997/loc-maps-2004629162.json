@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Aubin; Cassini, César-François, 1714-1784; Heulland, Guillaume d', -approximately 1770; Maraldi, J. D. (Jean Dominique), 1709-1788",
+    "Includes table of principal towns and points of interest with coordinates and distances from the Paris observatory.",
+    "LC copy imperfect: fold lined, separated along central fold, with small triangular loss at central bottom.",
+    "Prime meridian: Paris.",
+    "Publication statement: [Paris : s.n., 1744?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Prime meridian: Paris. Includes table of principal towns and points of interest with coordinates and distances from the Paris observatory. LC copy imperfect: fold lined, separated along central fold, with small triangular loss at central bottom. Available also through the Library of Congress web site as a raster image."
+  ],
+  "dct_format_s": "JPEG2000",
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5830.ct001183",
+    "http://lccn.loc.gov/2004629162",
+    "http://www.loc.gov/item/2004629162/",
+    "http://www.loc.gov/resource/g5830.ct001183/",
+    "https://hdl.loc.gov/loc.gmd/g5830.ct001183",
+    "https://search.catalog.loc.gov/instances/1e7d8391-8e2b-5381-920b-15454a3dc283",
+    "https://www.loc.gov/item/2004629162/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2004629162/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"JPEG2000: ct001183.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5830/g5830/ct001183.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5830/g5830/ct001183.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004629162/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "france"
+  ],
+  "dct_subject_sm": [
+    "France",
+    "Triangulation--France--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1744",
+    "[Paris : s.n., 1744?]"
+  ],
+  "dct_title_s": "Nouvelle carte qui comprend les principaux triangles qui servent de fondement à la description géométrique de la France",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004629162",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

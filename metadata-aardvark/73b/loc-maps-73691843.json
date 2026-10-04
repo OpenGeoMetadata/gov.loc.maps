@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Plate I.\"",
+    "AACR2: 650/1; 650/2",
+    "Contributors: Jones, Richard (Engineer); Mynde, J., active 1740-1770",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially and by shading and hachures. Soundings shown in fathoms and feet. \"Plate I.\" Scale ca. 1:32,000. LC Maps of North America, 1750-1789, 1949 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650/1; 650/2",
+    "LC Maps of North America, 1750-1789, 1949",
+    "Publication statement: [London? 1756?]",
+    "Relief shown pictorially and by shading and hachures. Soundings shown in fathoms and feet.",
+    "Scale ca. 1:32,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4964p.ar194900",
+    "http://lccn.loc.gov/73691843",
+    "http://www.loc.gov/item/73691843/",
+    "http://www.loc.gov/resource/g4964p.ar194900/",
+    "https://hdl.loc.gov/loc.gmd/g4964p.ar194900",
+    "https://search.catalog.loc.gov/instances/0c62f5b6-6f79-5d3e-9754-3fea3c98616b",
+    "https://www.loc.gov/item/73691843/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/73691843/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ar194900.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd4/g4964/g4964p/ar194900.tif\"}, {\"label\": \"JPEG2000: ar194900.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4964/g4964p/ar194900.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4964/g4964p/ar194900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691843/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "jamaica",
+    "kingston",
+    "port royal"
+  ],
+  "dct_subject_sm": [
+    "Harbors--Jamaica--Kingston--Maps--Early works to 1800",
+    "Harbors--Jamaica--Port Royal--Maps--Early works to 1800",
+    "Jamaica--Kingston",
+    "Jamaica--Port Royal"
+  ],
+  "dct_temporal_sm": [
+    "1756",
+    "[London? 1756?]"
+  ],
+  "dct_title_s": "A correct draught of the harbours of Port Royal and Kingston, with the keys and shoals adjacent &c. from a late accurate survey, by Mr. Richd Jones, engineer",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691843",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

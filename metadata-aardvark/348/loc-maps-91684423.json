@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also on adhesive label: Ozalid print, hand colored.",
+    "Contributors: Hawkins, Don, 1937-",
+    "DCP",
+    "Made available through courtesy of Don A. Hawkins, copyright owner.",
+    "Mounted on plastic board.",
+    "Ms. map with original streets, roads, buildings, Washington city boundary (old), and hydrography in col. pencil on photocopy (ozalid) base.",
+    "Ms. map with original streets, roads, buildings, Washington city boundary (old), and hydrography in col. pencil on photocopy (ozalid) base. Relief shown by contours and shading. Shows \"Site of President's House\" and \"Site of Capitol.\" Does not show Washington D.C. street system. Made available through courtesy of Don A. Hawkins, copyright owner. Title and statement of attribution from typewritten adhesive label affixed to verso. Also on adhesive label: Ozalid print, hand colored. Available also through the Library of Congress Web site as a raster image. Mounted on plastic board. DCP Vault",
+    "Publication statement: 1990.",
+    "Relief shown by contours and shading.",
+    "Shows \"Site of President's House\" and \"Site of Capitol.\" Does not show Washington D.C. street system.",
+    "Title and statement of attribution from typewritten adhesive label affixed to verso.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct001189",
+    "http://lccn.loc.gov/91684423",
+    "http://www.loc.gov/item/91684423/",
+    "http://www.loc.gov/resource/g3850.ct001189/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct001189",
+    "https://search.catalog.loc.gov/instances/fd16a91b-e641-5dda-9cc2-f061d230a295",
+    "https://www.loc.gov/item/91684423/"
+  ],
+  "dct_issued_s": "1791",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/91684423/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct001189.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd385/g3850/g3850/ct001189.tif\"}, {\"label\": \"JPEG2000: ct001189.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct001189.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct001189.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91684423/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1791"
+  ],
+  "dct_title_s": "Topography of the federal city, 1791 : [Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1791 TO 1791]"
+  ],
+  "gbl_indexYear_im": [
+    1791
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-91684423",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

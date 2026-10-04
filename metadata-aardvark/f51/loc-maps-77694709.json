@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nihon yochi rotei zenzu",
+    "改正日本輿地路程全圖"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Contributors: Nagakubo, Sekisui, 1717-1801",
+    "Includes text.",
+    "Japanese.",
+    "Oriented with north toward upper right.",
+    "Publication statement: [Naniwa? : publisher not identified, Anʼei 4? i.e. 1775?]",
+    "Relief shown pictorially.",
+    "Vault",
+    "Wood block print.",
+    "Wood block print. Oriented with north toward upper right. Relief shown pictorially. Japanese. Includes text. Available also through the Library of Congress Web site as a raster image. Vault AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/77694709",
+    "http://www.loc.gov/item/77694709/",
+    "http://www.loc.gov/resource/g7961p.ct011912/",
+    "http://www.loc.gov/resource/g7961p.ct011913/",
+    "https://hdl.loc.gov/loc.gmd/g7961p.ct011912",
+    "https://hdl.loc.gov/loc.gmd/g7961p.ct011913",
+    "https://search.catalog.loc.gov/instances/071d6792-5749-54a5-9b81-cb51dd3a8aeb",
+    "https://www.loc.gov/item/77694709/"
+  ],
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/77694709/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct011912.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd7/g7961/g7961p/ct011912.tif\"}, {\"label\": \"TIFF: ct011913Z.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd7/g7961/g7961p/ct011913Z.tif\"}, {\"label\": \"JPEG2000: ct011912.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7961/g7961p/ct011912.jp2\"}, {\"label\": \"JPEG2000: ct011913.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7961/g7961p/ct011913.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7961/g7961p/ct011912.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77694709/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "japan"
+  ],
+  "dct_subject_sm": [
+    "Japan",
+    "Roads--Japan--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1775",
+    "[Naniwa? : publisher not identified, Anʼei 4? i.e. 1775?]"
+  ],
+  "dct_title_s": "Kaisei Nihon yochi rotei zenzu",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77694709",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

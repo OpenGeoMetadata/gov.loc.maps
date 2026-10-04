@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Minard, Charles Joseph, 1781-1870; Regnier et Dourdet (Firm)",
+    "Includes text and statistical data.",
+    "Includes text and statistical data. Sectioned in 2 and mounted on cloth with losses to upper left corner and upper and side right corners. Available also through the Library of Congress Web site as a raster image. Vault Oversize",
+    "Publication statement: Paris : [s.n.], 1866.",
+    "Sectioned in 2 and mounted on cloth with losses to upper left corner and upper and side right corners.",
+    "Vault Oversize"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3201j.ct002136",
+    "http://hdl.loc.gov/loc.gmd/g3201j.ct003259",
+    "http://lccn.loc.gov/99463789",
+    "http://www.loc.gov/item/99463789/",
+    "http://www.loc.gov/resource/g3201j.ct002136/",
+    "http://www.loc.gov/resource/g3201j.ct003259/",
+    "https://hdl.loc.gov/loc.gmd/g3201j.ct002136",
+    "https://hdl.loc.gov/loc.gmd/g3201j.ct003259",
+    "https://search.catalog.loc.gov/instances/7155e242-7003-56e2-96fc-ec3bcec8d676",
+    "https://www.loc.gov/item/99463789/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/99463789/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct002136.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd3/g3201/g3201j/ct002136.tif\"}, {\"label\": \"TIFF: ct003259.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd3/g3201/g3201j/ct003259.tif\"}, {\"label\": \"JPEG2000: ct002136.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201j/ct002136.jp2\"}, {\"label\": \"JPEG2000: ct003259.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201j/ct003259.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201j/ct003259.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99463789/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "earth"
+  ],
+  "dct_subject_sm": [
+    "Cotton trade--Maps",
+    "Earth",
+    "Trade routes--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1858 d1864 d1865"
+  ],
+  "dct_title_s": "Carte figurative et approximative des quantités de coton brut importées en Europe en 1858, en 1864 et en 1865",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99463789",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

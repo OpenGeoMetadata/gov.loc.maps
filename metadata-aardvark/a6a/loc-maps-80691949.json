@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Bushū Toshima Gōri Edo no shōzu",
+    "Bushū Toshima-gun Edo-shō zu",
+    "武州豊嶋郡江戶庄圖"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Cadastral map showing land ownership in central Tokyo.",
+    "Cover title: Ō-Edo ezu.",
+    "Cover title: Ō-Edo ezu. Wood block print. Presumably original map created in Kanei Period 1630 or 1631, reprinted in Tenpō Period (1831-1845). Oriented with north toward the upper right. Relief shown pictorially. Pictorial map. Cadastral map showing land ownership in central Tokyo. Includes distance chart. Available also through the Library of Congress Web site as a raster image. Vault AACR2 Cover title: 大江戶繪圖. LC copy has ownership stamp: 南満州鉄道株式会社東亞経済調查局所蔵印 No.8523. DLC",
+    "Cover title: 大江戶繪圖.",
+    "Includes distance chart.",
+    "LC copy has ownership stamp: 南満州鉄道株式会社東亞経済調查局所蔵印 No.8523. DLC",
+    "Oriented with north toward the upper right.",
+    "Pictorial map.",
+    "Presumably original map created in Kanei Period 1630 or 1631, reprinted in Tenpō Period (1831-1845).",
+    "Publication statement: [Japan : s.n., 18--?]",
+    "Relief shown pictorially.",
+    "Vault",
+    "Wood block print."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/80691949",
+    "http://www.loc.gov/item/80691949/",
+    "http://www.loc.gov/resource/g7964t.ct011903/",
+    "https://hdl.loc.gov/loc.gmd/g7964t.ct011903",
+    "https://search.catalog.loc.gov/instances/48678aed-536a-5766-be08-29fa7c670ffb",
+    "https://www.loc.gov/item/80691949/"
+  ],
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/80691949/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct011903.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd7/g7964/g7964t/ct011903.tif\"}, {\"label\": \"JPEG2000: ct011903.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964t/ct011903.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964t/ct011903.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80691949/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "japan",
+    "tokyo"
+  ],
+  "dct_subject_sm": [
+    "Japan--Tokyo",
+    "Real property--Japan--Tokyo--Early works to 1800--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[Japan : s.n., 18--?]"
+  ],
+  "dct_title_s": "Bushū Toshima-gun Edo shōzu",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80691949",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

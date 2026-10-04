@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotated in col. inks and pencil to show proposed boundaries, Serbian settlements, Albanian settlements, and Albanian massacres.",
+    "Base map title printed in upper margin: The Balkans : scale 1:250,000.",
+    "Contributors: Great Britain. Ordnance Survey; Great Britain. War Office. General Staff. Geographical Section",
+    "Includes notes, glossary, and \"Index to adjoining sheets.\"",
+    "LC sheet variously torn, fold-lined, missing edge sections, taped on verso, and rubber-stamped.",
+    "Publication statement: [London?] : Geographical Section, General Staff, [1915-1916]",
+    "Relief shown by contours, shading, and spot heights. Depths shown by contours on some maps.",
+    "Relief shown by contours, shading, and spot heights. Depths shown by contours on some maps. Title hand-lettered in black ink in upper margin. Base map title printed in upper margin: The Balkans : scale 1:250,000. Annotated in col. inks and pencil to show proposed boundaries, Serbian settlements, Albanian settlements, and Albanian massacres. Includes notes, glossary, and \"Index to adjoining sheets.\" Available also through the Library of Congress Web site as a raster image. LC sheet variously torn, fold-lined, missing edge sections, taped on verso, and rubber-stamped. Vault",
+    "Title hand-lettered in black ink in upper margin.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6811fm.gct00268",
+    "http://lccn.loc.gov/88694277",
+    "http://www.loc.gov/item/88694277/",
+    "http://www.loc.gov/resource/g6811fm.gct00268/",
+    "https://hdl.loc.gov/loc.gmd/g6811fm.gct00268",
+    "https://search.catalog.loc.gov/instances/7d926cee-5723-53e9-990a-dbde8f0ae902",
+    "https://www.loc.gov/item/88694277/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/88694277/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: cs000001.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd6m/g6811m/g6811fm/gct00268/cs000001.tif\"}, {\"label\": \"TIFF: cs000002.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd6m/g6811m/g6811fm/gct00268/cs000002.tif\"}, {\"label\": \"TIFF: cs000003.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd6m/g6811m/g6811fm/gct00268/cs000003.tif\"}, {\"label\": \"JPEG2000: cs000001.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6m/g6811m/g6811fm/gct00268/cs000001.jp2\"}, {\"label\": \"JPEG2000: cs000002.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6m/g6811m/g6811fm/gct00268/cs000002.jp2\"}, {\"label\": \"JPEG2000: cs000003.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6m/g6811m/g6811fm/gct00268/cs000003.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6m/g6811m/g6811fm/gct00268/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88694277/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "albania",
+    "greece",
+    "yugoslavia"
+  ],
+  "dct_subject_sm": [
+    "Albania",
+    "Albania--Boundaries--Greece--Maps",
+    "Ethnology--Albania--Maps",
+    "Ethnology--Yugoslavia--Maps",
+    "Greece",
+    "Greece--Boundaries--Albania--Maps",
+    "World War, 1914-1918--Territorial questions--Albania--Maps",
+    "World War, 1914-1918--Territorial questions--Greece--Maps",
+    "Yugoslavia"
+  ],
+  "dct_temporal_sm": [
+    "1915/1916"
+  ],
+  "dct_title_s": "Proposed boundary between Greece and Albania and population composition of south central Yugoslavia and northern Albania",
+  "gbl_dateRange_drsim": [
+    "[1915 TO 1916]"
+  ],
+  "gbl_indexYear_im": [
+    1915
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88694277",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2003-11a",
+    "Annotation in pencil in top margin.",
+    "Contributors: Lith. Gratia (Firm); Minard, Charles Joseph, 1781-1870; Regnier et Dourdet (Firm)",
+    "Copy imperfect: Fold-lined.",
+    "Includes graph and statistics.",
+    "Publication statement: Paris : Charles Joseph Minard, 1862",
+    "Signed by Charles Minard at lower right.",
+    "Signed by Charles Minard at lower right. Annotation in pencil in top margin. Includes graph and statistics. Copy imperfect: Fold-lined. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 2003-11a"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3201j.ct003179",
+    "http://lccn.loc.gov/2004626057",
+    "http://www.loc.gov/item/2004626057/",
+    "http://www.loc.gov/resource/g3201j.ct003179/",
+    "https://hdl.loc.gov/loc.gmd/g3201j.ct003179",
+    "https://search.catalog.loc.gov/instances/6a7a6fcb-9b17-5138-ac9f-b91f70669ada",
+    "https://www.loc.gov/item/2004626057/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2004626057/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"TIFF: ct003179.tif\", \"url\": \"https://tile.loc.gov/storage-services/master/gmd/gmd3/g3201/g3201j/ct003179.tif\"}, {\"label\": \"JPEG2000: ct003179.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201j/ct003179.jp2\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201j/ct003179.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004626057/\"}",
+  "dct_rights_sm": [
+    "The content of the Library of Congress Geography and Map Division digitized collections is free to use and reuse unless a Rights Advisory statement is present that indicates otherwise. Credit Line: Library of Congress, Geography and Map Division. More about Copyright and other Restrictions . For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "earth"
+  ],
+  "dct_subject_sm": [
+    "Cotton trade--Maps",
+    "Earth",
+    "Trade routes--Maps",
+    "Wool industry--Maps",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1858 d1861"
+  ],
+  "dct_title_s": "Carte figurative et approximative des quantitiés de coton en laine importées en Europe en 1858 et en 1861",
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004626057",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

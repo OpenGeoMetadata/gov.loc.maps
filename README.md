@@ -1,4 +1,11 @@
-# Library of Congress Maps — OpenGeoMetadata
+# Library of Congress Maps — incomplete pilot preview
+
+**This branch contains 126 validated Aardvark item records plus one collection record.**
+Browse [metadata-aardvark/](metadata-aardvark/). Only 126 of the 200 selected pilot
+items have been fetched; this is not the complete LOC collection. Do not merge this
+preview as the production release. The production harvester continues independently.
+
+# Project documentation
 
 Python tools and generated [OGM Aardvark](https://opengeometadata.org/ogm-aardvark/)
 metadata for the catalog items returned by [LOC Maps](https://www.loc.gov/maps/).

@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Extension y situacion de los goviernos de Sta. Cruz de la Sierra, Matogroso, Cuyaba, y pueblos de los indios llamados los Chiquitos"
+  ],
+  "dct_description_sm": [
+    "Content in Spanish.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 manuscript map : color ; 35 x 45 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1789.",
+    "This map shows the present-day Bolivian provinces of Santa Cruz de la Sierra and Chiquitos, and the Brazilian state of Mato Grosso. The map indicates the settlements of native people, known at that time as Chiquitos. This area was a center of Jesuit activity and many of the settlements may have been the remnants of Jesuit centers, called reducciones (reductions or townships). The Jesuits began their missionary work in South America in 1609. At the height of their activity, they sponsored 40 communities that were home to more than 150,000 native people. The major cities mentioned on the map, Santa Cruz de la Sierra and Cuyaba, were religious centers. Santa Cruz was an important staging point for the Jesuit missions, and Cuyaba, the capital of Mato Grosso, was established as a Catholic primature in 1745. The Jesuits were expelled from the Spanish colonies in 1767.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668379",
+    "http://www.loc.gov/item/2021668379/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_01143/",
+    "http://www.loc.gov/resource/wdl.1143/",
+    "https://hdl.loc.gov/loc.wdl/wdl.1143",
+    "https://www.loc.gov/item/2021668379/"
+  ],
+  "dct_issued_s": "1789-01-01",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2021668379/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"JPEG2000: cart325608.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/01/14/3/wdl_01143/cart325608.jp2\"}, {\"label\": \"ZIP: wdl_01143.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/01/14/3/wdl_01143/wdl_01143.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:14:3:wdl_01143:cart325608/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668379/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here. Credit Line: [Original Source citation], World Digital Library More about Copyright and other Restrictions For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021. For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_spatial_sm": [
+    "bolivia",
+    "brazil"
+  ],
+  "dct_subject_sm": [
+    "1789",
+    "Bolivia",
+    "Brazil",
+    "Cartography",
+    "Chiquito Indians",
+    "Fugitive slaves",
+    "Indians of South America",
+    "Jesuits",
+    "Slavery"
+  ],
+  "dct_temporal_sm": [
+    "1789-01-01"
+  ],
+  "dct_title_s": "Extent and Location of the Governments of Santa Cruz de la Sierra, Matogroso, Cuyaba, and Towns of Native Americans Called Chiquitos.",
+  "gbl_dateRange_drsim": [
+    "[1789 TO 1789]"
+  ],
+  "gbl_indexYear_im": [
+    1789
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668379",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

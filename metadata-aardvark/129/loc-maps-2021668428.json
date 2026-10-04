@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Recens et integra orbis descriptio. Orontius F[inaeus] Delph[inas], Regis[s] mathematic[us] facebiat"
+  ],
+  "dct_description_sm": [
+    "An astronomer and mathematician, from 1531 the first chair of mathematics in the Collège Royal (the present-day Collège de France), Oronce Fine (1494--1555) was one of the first French scholars to work with cartography. His world map in the shape of a heart belongs to a group of 18 heart-shaped projection maps published between 1511 and 1566. Inspired by one of the projections described by the second-century geographer, Ptolemy, this projection system was codified by a mathematician in Nuremberg, Johannes Werner (1468--1522), in an opus written in 1514. Fine's map reflects the state of knowledge and the geographic hypotheses and uncertainties of its day. North America is joined with Asia, and a vast Terra Australis, a hypothetical continent that geographers posited had to exist to counterbalance the weight of the northern land masses, is drawn in the south. The map is from the collection of the geographer Jean-Baptiste Bourguignon d'Anville (1697--1782). It was purchased by King Louis XVI in 1779 and deposited in the National Library of France in 1924.",
+    "Content in Latin.",
+    "Contributors: Finé, Oronce, 1494-1555 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of France.",
+    "Original resource extent: 1 map on two assembled pages: color; 51 x 57 centimeters.",
+    "Publication statement: Paris : [publisher not identified], 1534.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668428",
+    "http://www.loc.gov/item/2021668428/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_04072/",
+    "http://www.loc.gov/resource/wdl.4072/",
+    "https://hdl.loc.gov/loc.wdl/wdl.4072",
+    "https://www.loc.gov/item/2021668428/"
+  ],
+  "dct_issued_s": "1534-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"https://www.loc.gov/item/2021668428/manifest.json\", \"http://schema.org/downloadUrl\": [{\"label\": \"JPEG2000: D0000001.jp2\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/04/07/2/wdl_04072/D0000001.jp2\"}, {\"label\": \"ZIP: wdl_04072.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/04/07/2/wdl_04072/wdl_04072.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:04:07:2:wdl_04072:D0000001/full/pct:25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668428/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here. Credit Line: [Original Source citation], World Digital Library More about Copyright and other Restrictions For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021. For guidance about compiling full citations consult Citing Primary Sources ."
+  ],
+  "dct_subject_sm": [
+    "1534",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1534-01-01"
+  ],
+  "dct_title_s": "A Modern and Complete Map of the World by the Royal Mathematician Oronce Fine of the Dauphiné.",
+  "gbl_dateRange_drsim": [
+    "[1534 TO 1534]"
+  ],
+  "gbl_indexYear_im": [
+    1534
+  ],
+  "gbl_mdModified_dt": "2026-10-04T21:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668428",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}
