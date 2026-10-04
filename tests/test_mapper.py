@@ -112,6 +112,25 @@ def test_uncertain_place_does_not_make_date_uncertain(source):
     assert record["gbl_indexYear_im"] == [1944]
 
 
+def test_bundle_date_range_and_uncertain_title(source):
+    source["item"]["date"] = "1680"
+    source["item"]["created_published"] = ["[Various places] : [various publishers], [1680-1754]"]
+    record, _ = map_item(source, URL)
+    assert record["gbl_dateRange_drsim"] == ["[1680 TO 1754]"]
+    assert "dct_issued_s" not in record
+    source["item"]["title"] = "[Maps of Pennsylvania, from approximately 1680 to 1754]"
+    record, _ = map_item(source, URL)
+    assert "gbl_dateRange_drsim" not in record
+    assert source["item"]["title"] in record["dct_temporal_sm"]
+
+
+def test_complete_iso_publication_date_is_not_uncertain(source):
+    source["item"]["created_published"] = ["New York, 1900-01-01"]
+    source["item"]["date"] = "1900-01-01"
+    record, _ = map_item(source, URL)
+    assert record["gbl_indexYear_im"] == [1900]
+
+
 def test_restricted_and_missing_rights(source):
     source["item"]["access_restricted"] = True
     source["item"].pop("rights", None)

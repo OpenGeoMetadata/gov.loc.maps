@@ -207,12 +207,20 @@ def map_item(payload: dict, url: str) -> tuple[dict, dict]:
     languages = values(field("language"))
     if languages:
         record["dct_language_sm"] = sorted({LANGUAGES.get(v.lower(), v) for v in languages})
-    dates(record, field("date_issued", "date"))
+    date_value = field("date_issued", "date")
+    publication_ranges = set()
+    for statement in publication:
+        publication_ranges.update(re.findall(r"\b(\d{4})\s*[-–/]\s*(\d{4})\b", statement))
+    if len(publication_ranges) == 1 and not field("date_issued"):
+        start, end = next(iter(publication_ranges))
+        if 1 <= int(start) <= int(end) <= 9999:
+            date_value = start + "/" + end
+    dates(record, date_value)
     # LOC's search date may be a normalized lower bound. Catalog prose can
     # retain uncertainty that must not become an exact publication/index year.
     uncertain_publication = [
         value
-        for value in publication
+        for value in publication + titles
         if re.search(
             r"(?:\b(?:ca\.|circa|approximately|about)\s*\d{3,4}|\b\d{3,4}\s*\?|\bbetween\s+\d{3,4}\s+and\s+\d{3,4}|\b\d{2,3}(?:--|\?\?))",
             value,
