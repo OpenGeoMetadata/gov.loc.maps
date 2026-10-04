@@ -207,7 +207,24 @@ def map_item(payload: dict, url: str) -> tuple[dict, dict]:
     languages = values(field("language"))
     if languages:
         record["dct_language_sm"] = sorted({LANGUAGES.get(v.lower(), v) for v in languages})
-    dates(record, field("date", "date_issued"))
+    dates(record, field("date_issued", "date"))
+    # LOC's search date may be a normalized lower bound. Catalog prose can
+    # retain uncertainty that must not become an exact publication/index year.
+    uncertain_publication = [
+        value
+        for value in publication
+        if re.search(
+            r"(?:\b(?:ca\.|circa|approximately|about)\s*\d{3,4}|\b\d{3,4}\s*\?|\bbetween\s+\d{3,4}\s+and\s+\d{3,4}|\b\d{2,3}(?:--|\?\?))",
+            value,
+            re.I,
+        )
+    ]
+    if uncertain_publication:
+        record["dct_temporal_sm"] = sorted(
+            set(record.get("dct_temporal_sm", []) + uncertain_publication)
+        )
+        for key in ("dct_issued_s", "gbl_indexYear_im", "gbl_dateRange_drsim"):
+            record.pop(key, None)
     # Only recognize a narrow, documented resource-type vocabulary.
     genre = " ".join(values(field("genre"))).lower()
     if "fire insurance" in genre or "/sanborn" in url:

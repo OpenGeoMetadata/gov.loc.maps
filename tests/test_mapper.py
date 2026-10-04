@@ -92,6 +92,26 @@ def test_scalar_list_and_nested_metadata(source):
     assert map_item(right, URL)[0]["dct_publisher_sm"] == ["Example Press"]
 
 
+@pytest.mark.parametrize(
+    "statement",
+    ["[1914?]", "[Paris : s.n., 1914?]", "[between 1667 and 1797?]", "[approximately 1914]"],
+)
+def test_publication_uncertainty_overrides_normalized_search_date(source, statement):
+    source["item"]["date"] = "1914"
+    source["item"]["created_published"] = [statement]
+    record, _ = map_item(source, URL)
+    assert statement in record["dct_temporal_sm"]
+    assert "gbl_indexYear_im" not in record
+    assert "dct_issued_s" not in record
+
+
+def test_uncertain_place_does_not_make_date_uncertain(source):
+    source["item"]["date"] = "1944-07-14"
+    source["item"]["created_published"] = ["[England?] : Twelfth Army Group, [1944]"]
+    record, _ = map_item(source, URL)
+    assert record["gbl_indexYear_im"] == [1944]
+
+
 def test_restricted_and_missing_rights(source):
     source["item"]["access_restricted"] = True
     source["item"].pop("rights", None)

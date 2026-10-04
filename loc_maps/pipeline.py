@@ -96,6 +96,11 @@ def transform(state, root: Path, stage: Path, allow_large_withdrawal=False):
         record = read_json(path)
         previous[record["id"]] = record
     overrides = read_json(root / "overrides.json", {})
+    stamp_key = f"build_stamp:{run['id']}:{MAPPING_VERSION}:{digest(overrides)}"
+    modified = state.get(stamp_key)
+    if not modified:
+        modified = now()
+        state.set(stamp_key, modified)
     records = {}
     provenance = {}
     errors = []
@@ -107,7 +112,7 @@ def transform(state, root: Path, stage: Path, allow_large_withdrawal=False):
                 record.pop("gbl_mdModified_dt", None)
                 if row["misses"] >= 2:
                     record["gbl_suppressed_b"] = True
-                records[identifier] = stable_record(record, previous[identifier], run["completed"])
+                records[identifier] = stable_record(record, previous[identifier], modified)
             continue
         try:
             if row["error"] or row["fetched_hash"] != row["hash"] or not row["cache"]:
@@ -130,7 +135,7 @@ def transform(state, root: Path, stage: Path, allow_large_withdrawal=False):
                     else:
                         record[key] = value
                 info["override_reason"] = override["reason"]
-            record = stable_record(record, previous.get(identifier), run["completed"])
+            record = stable_record(record, previous.get(identifier), modified)
             validate_record(record)
             records[identifier] = record
             provenance[identifier] = dict(
@@ -153,7 +158,7 @@ def transform(state, root: Path, stage: Path, allow_large_withdrawal=False):
         raise ValueError(
             f"{len(unknown)} published IDs are absent from checkpoint history. Restore a snapshot before publishing."
         )
-    records["loc-maps"] = stable_record(collection(), previous.get("loc-maps"), run["completed"])
+    records["loc-maps"] = stable_record(collection(), previous.get("loc-maps"), modified)
     baseline = sum(
         not r.get("gbl_suppressed_b", False) for k, r in previous.items() if k != "loc-maps"
     )

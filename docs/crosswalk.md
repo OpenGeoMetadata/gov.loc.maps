@@ -1,4 +1,4 @@
-# LOC → Aardvark crosswalk (mapping version 1)
+# LOC → Aardvark crosswalk (mapping version 2)
 
 The mapper reads the full item response and its nested display metadata.
 It accepts scalar, list, and facet-label objects. Empty optional fields are omitted;
@@ -34,6 +34,9 @@ unknown fields are never emitted into Aardvark.
 
 Undifferentiated contributors remain labeled in the description. The publication
 statement is retained without attempting to parse a publisher role from prose.
+If publication prose records an uncertain year or date range, it is retained in
+temporal text and numeric dates are omitted even when LOC's normalized search date
+looks exact. A question mark attached only to a place name does not affect dates.
 Rights availability and access availability are different: a public landing page
 does not grant a content license. No blanket `dct_license_sm` is emitted.
 
