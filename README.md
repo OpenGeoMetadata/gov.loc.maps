@@ -115,10 +115,10 @@ checksums and are validated before restore.
 
 - Search pages contain 100 results. A full inventory is verified by a second pass.
 - One process per checkpoint directory; workflow jobs also share one concurrency
-  group. All requests and retries use a persisted 6.1-second minimum interval,
+  group. All requests and retries use a persisted 30-second minimum rest after each response,
   increasing after throttling and recovering gradually after successful requests.
-- LOC currently documents 20 JSON API requests/minute. This project uses less
-  than 10/minute. Throttling and HTML challenges pause requests for at least an
+- LOC currently documents 20 JSON API requests/minute. This project makes at most
+  two requests/minute, with one request at a time. Throttling and HTML challenges pause requests for at least an
   hour, honoring longer `Retry-After` values. No proxy or challenge bypass is used.
 - New and changed summaries trigger detail fetches. Cached items are refreshed
   after 90 days even when their summaries have not changed.
@@ -131,7 +131,7 @@ checksums and are validated before restore.
   not implemented: a tested partition strategy including undated/residual items
   is required if LOC grows past its deep-paging limit or pagination becomes unreliable.
 
-The first full fetch needs roughly 100 hours at the configured rate for 60,000
+The first full fetch needs at least 500 hours (about three weeks) at the configured rate for 60,000
 items, plus inventory traversal, network delays, and retries. GitHub Actions runs
 bounded batches and can dispatch continuations; it does not require one multi-day
 job. See [operations](docs/operations.md).

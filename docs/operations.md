@@ -110,8 +110,8 @@ and starts a new full inventory requiring two matching passes. Unfetched pilot
 items are fetched with the rest of the full inventory; no second pilot publication
 is needed. Once production state exists, all subsequent jobs use that state.
 
-Throttle responses double the persisted request interval, capped at 60 seconds.
-After 100 successful requests, it decreases by 20%, never below 6.1 seconds.
+Throttle responses double the persisted request interval, capped at 300 seconds.
+After 100 successful requests, it decreases by 20%, never below 30 seconds of rest after each response.
 Cooldowns end the job promptly; the hourly recovery checks the saved deadline and
 resumes only after it expires. It also recovers a safe pause at the 120-job chain
 limit. Completion requires no further dispatch. Failed or cancelled runs produce
@@ -162,3 +162,23 @@ Three failed attempts on temporary network errors or JSON HTTP 5xx responses now
 persist a cooldown and pause for automatic recovery. HTTP 404, invalid metadata,
 and publication validation failures still require inspection. Rate-limit and HTML
 challenge responses retain their longer cooldown behavior.
+
+
+## Conservative request policy
+
+The default for new and resumed checkpoints is at most two requests per minute:
+one sequential request, followed by at least 30 seconds of rest after its response.
+Retries share this same limiter. An older checkpoint cannot restore faster pacing;
+slower pacing and all existing cooldowns are preserved across jobs.
+
+HTTP 503, 429, 403, and HTML challenges pause immediately, without rapid retries.
+Consecutive overloads use 1, 2, 4, 8, 16, then 24-hour cooldowns, always honoring
+longer Retry-After values. After 100 successful responses the overload streak resets
+and pacing can recover gradually, never below the 30-second floor. The identifying
+User-Agent, 100-result inventory pages, cached records, and single-workflow
+concurrency remain in place. No local companion harvester runs alongside GitHub.
+
+At this pace 60,000 individual item requests alone need at least 500 hours (about
+three weeks), plus inventory requests, response time, and cooldowns. Completion
+estimates should reflect actual checkpoint progress rather than treating slow but
+healthy harvesting as failure.

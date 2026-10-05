@@ -1,10 +1,14 @@
 from __future__ import annotations
 
+import math
 import time
 from email.utils import parsedate_to_datetime
 from urllib.parse import parse_qs, urlencode, urlsplit, urlunsplit
 
 import requests
+
+MIN_INTERVAL = 30.0
+MAX_INTERVAL = 300.0
 
 
 class Paused(RuntimeError):
@@ -42,6 +46,9 @@ class Client:
         sleep=time.sleep,
     ):
         self.state = state
+        self.state.set(
+            "request_interval", max(MIN_INTERVAL, self.state.get("request_interval", MIN_INTERVAL))
+        )
         self.remaining = max_requests
         self.clock, self.sleep = clock, sleep
         self.deadline = clock() + max_seconds
@@ -63,7 +70,9 @@ class Client:
         if current + delay >= self.deadline:
             raise Paused("Job budget exhausted")
         self.sleep(delay)
-        self.state.set("next_request", self.clock() + self.state.get("request_interval", 6.1))
+        self.state.set(
+            "next_request", self.clock() + self.state.get("request_interval", MIN_INTERVAL)
+        )
         self.remaining -= 1
 
     def pause(self, response):
@@ -75,9 +84,19 @@ class Client:
                 delay = parsedate_to_datetime(retry).timestamp() - self.clock()
             except (ValueError, TypeError):
                 delay = 3600
-        self.state.set("request_interval", min(60.0, self.state.get("request_interval", 6.1) * 2))
+        self.state.set(
+            "request_interval",
+            min(MAX_INTERVAL, self.state.get("request_interval", MIN_INTERVAL) * 2),
+        )
         self.state.set("successful_requests", 0)
-        self.state.set("pause_until", self.clock() + max(3600, delay))
+        if not math.isfinite(delay):
+            delay = 3600
+        streak = min(6, self.state.get("overload_streak", 0) + 1)
+        self.state.set("overload_streak", streak)
+        cooldown = max(min(86400, 3600 * 2 ** (streak - 1)), delay)
+        self.state.set(
+            "pause_until", max(self.state.get("pause_until", 0), self.clock() + cooldown)
+        )
         raise Paused(
             f"LOC returned {response.status_code} or an HTML challenge; paused at least one hour"
         )
@@ -92,7 +111,7 @@ class Client:
             try:
                 response = self.session.get(url, timeout=(15, 90), allow_redirects=False)
                 content_type = response.headers.get("Content-Type", "").lower()
-                if response.status_code in (403, 429) or "text/html" in content_type:
+                if response.status_code in (403, 429, 503) or "text/html" in content_type:
                     self.pause(response)
                 if response.status_code >= 500:
                     raise TemporarySourceError(f"HTTP {response.status_code}: {url}")
@@ -106,8 +125,10 @@ class Client:
                 successful = self.state.get("successful_requests", 0) + 1
                 if successful >= 100:
                     self.state.set(
-                        "request_interval", max(6.1, self.state.get("request_interval", 6.1) * 0.8)
+                        "request_interval",
+                        max(MIN_INTERVAL, self.state.get("request_interval", MIN_INTERVAL) * 0.8),
                     )
+                    self.state.set("overload_streak", 0)
                     successful = 0
                 self.state.set("successful_requests", successful)
                 return data
@@ -115,12 +136,22 @@ class Client:
                 last = exc
                 if attempt < 2:
                     self.state.set("next_request", self.clock() + 15 * (2**attempt))
+            finally:
+                # Rest after completion too, including retries and slow responses.
+                self.state.set(
+                    "next_request",
+                    max(
+                        self.state.get("next_request", 0),
+                        self.clock() + self.state.get("request_interval", MIN_INTERVAL),
+                    ),
+                )
         if isinstance(last, TemporarySourceError):
             self.pause(response)
         if isinstance(last, requests.RequestException):
             self.state.set("pause_until", self.clock() + 300)
             self.state.set(
-                "request_interval", min(60.0, self.state.get("request_interval", 6.1) * 2)
+                "request_interval",
+                min(MAX_INTERVAL, self.state.get("request_interval", MIN_INTERVAL) * 2),
             )
             self.state.set("successful_requests", 0)
             raise Paused(
