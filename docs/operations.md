@@ -92,3 +92,37 @@ not trigger workflow commits. Stage manifests detect edits after validation.
 Roll back a bad published metadata commit through a reviewed Git revert. Restore
 the matching source checkpoint before resuming so withdrawal history remains
 consistent. Never reset the checkpoint database merely because a run failed.
+
+## Recovering the merged incomplete preview
+
+The merged 126-item preview can be promoted explicitly without pretending that
+its 200-item pilot inventory covers the full collection. Dispatch `harvest.yml`
+with `mode=full`, `seed_pilot=true`, and `auto_continue=true`. Enable repository
+variable `LOC_MAPS_RECOVERY_ENABLED=true` for hourly recovery of safely paused
+full-harvest jobs. This recovery workflow is separate from weekly updates.
+
+The bootstrap restores the saved pilot only when no production checkpoint exists.
+It requires a complete pilot inventory, the incomplete-preview marker, and an exact
+match between each published item and its cached source mapping (apart from the
+metadata timestamp). Unknown or altered records stop bootstrap. The conversion
+retains source responses, cooldowns, and pilot history, resets withdrawal counters,
+and starts a new full inventory requiring two matching passes. Unfetched pilot
+items are fetched with the rest of the full inventory; no second pilot publication
+is needed. Once production state exists, all subsequent jobs use that state.
+
+Throttle responses double the persisted request interval, capped at 60 seconds.
+After 100 successful requests, it decreases by 20%, never below 6.1 seconds.
+Cooldowns end the job promptly; the hourly recovery checks the saved deadline and
+resumes only after it expires. It also recovers a safe pause at the 120-job chain
+limit. Completion requires no further dispatch. Failed or cancelled runs produce
+a failed recovery check requiring inspection; they are not blindly restarted.
+Disable `LOC_MAPS_RECOVERY_ENABLED` to stop scheduled recovery.
+
+The first successful checkpoint each UTC day is also saved in a draft release
+named `checkpoint-production-YYYY-MM-DD` (or `checkpoint-pilot-YYYY-MM-DD`). These
+are incomplete recovery snapshots, not collection releases, and survive Actions
+artifact expiry. More recent per-batch artifacts remain the preferred recovery
+source. If all artifacts expire, restoration falls back to a durable snapshot;
+it may repeat work since that snapshot. A failed bootstrap is never uploaded as
+production state. `status.json` distinguishes inventory completion from overall
+job completion and includes cache count, error count, pacing, and cooldown.

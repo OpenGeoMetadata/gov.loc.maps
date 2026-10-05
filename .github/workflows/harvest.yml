@@ -20,6 +20,10 @@ on:
         description: Retry inspected failed item requests
         type: boolean
         default: false
+      seed_pilot:
+        description: Explicitly seed first full harvest from verified pilot cache
+        type: boolean
+        default: false
       bootstrap_full:
         description: After the pilot PR, start the full production harvest
         type: boolean
@@ -45,6 +49,7 @@ jobs:
       AUTO_CONTINUE: ${{ inputs.auto_continue || github.event_name == 'schedule' }}
       ROUND: ${{ inputs.round || '1' }}
       RETRY_FAILED: ${{ inputs.retry_failed || 'false' }}
+      SEED_PILOT: ${{ inputs.seed_pilot || 'false' }}
       BOOTSTRAP_FULL: ${{ inputs.bootstrap_full || 'false' }}
       REPOSITORY: ${{ github.repository }}
     steps:
@@ -60,19 +65,20 @@ jobs:
           echo "$GITHUB_WORKSPACE/.venv/bin" >> "$GITHUB_PATH"
       - run: pytest -q
       - name: Restore state and pending metadata
+        id: restore
         run: python .github/scripts/automation.py restore
       - name: Harvest a bounded batch
         id: batch
         run: python .github/scripts/automation.py batch
       - name: Save a consistent checkpoint
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         run: |
           if test -f .state/state.sqlite; then
             loc-maps snapshot --archive dist/loc-state.tar.gz
             loc-maps status > dist/status.json
           fi
       - uses: actions/upload-artifact@v4
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         with:
           name: loc-state-${{ env.MODE == 'pilot' && 'pilot' || 'production' }}
           path: |
@@ -81,6 +87,16 @@ jobs:
           retention-days: 14
           if-no-files-found: error
           compression-level: 0
+      - uses: actions/upload-artifact@v4
+        if: always() && steps.restore.outcome == 'success'
+        with:
+          name: loc-status-${{ env.MODE == 'pilot' && 'pilot' || 'production' }}
+          path: dist/status.json
+          retention-days: 14
+          if-no-files-found: error
+      - name: Retain a durable daily recovery snapshot
+        if: success()
+        run: python .github/scripts/automation.py retain
       - name: Propose validated metadata and retain release snapshot
         if: steps.batch.outputs.status == 'complete'
         run: python .github/scripts/automation.py propose

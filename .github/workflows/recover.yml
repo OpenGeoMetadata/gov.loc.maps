@@ -1,0 +1,27 @@
+name: Recover paused LOC bootstrap
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '41 * * * *'
+permissions:
+  contents: read
+  actions: write
+concurrency:
+  group: loc-maps-harvest
+  cancel-in-progress: false
+jobs:
+  recover:
+    if: vars.LOC_MAPS_RECOVERY_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+      REPOSITORY: ${{ github.repository }}
+      MODE: full
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: '3.12'
+      - run: uv sync --frozen
+      - run: uv run python .github/scripts/automation.py recover

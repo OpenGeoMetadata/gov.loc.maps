@@ -63,3 +63,17 @@ def test_network_failure_retries(state):
 def test_untrusted_next_url():
     with pytest.raises(ValueError):
         api_url("https://example.com/maps/")
+
+
+def test_rate_limit_slows_next_session_and_recovers_gradually(state):
+    client, clock = clock_client(state, [response(429)])
+    with pytest.raises(Paused):
+        client.get("https://www.loc.gov/maps/")
+    assert state.get("request_interval") == 12.2
+    state.set("pause_until", 0)
+    state.set("next_request", 0)
+    resumed, clock = clock_client(state, [response()] * 100, budget=100)
+    for _ in range(100):
+        resumed.get("https://www.loc.gov/maps/")
+    assert clock[0] >= 1000 + 99 * 12.2 - 0.01
+    assert state.get("request_interval") == pytest.approx(9.76)

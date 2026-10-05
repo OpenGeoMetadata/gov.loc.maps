@@ -39,6 +39,7 @@ def fetch(state, client, retry_failed=False):
         .isoformat(timespec="seconds")
         .replace("+00:00", "Z")
     )
+    fetched_this_batch = 0
     for row in state.db.execute(
         "SELECT * FROM items WHERE last_seen=? ORDER BY COALESCE(fetched_at,''),url", (run["id"],)
     ).fetchall():
@@ -62,6 +63,9 @@ def fetch(state, client, retry_failed=False):
                     "UPDATE items SET cache=?,fetched_at=?,fetched_hash=?,attempts=0,error=NULL WHERE url=?",
                     (str(path), now(), row["hash"], row["url"]),
                 )
+            fetched_this_batch += 1
+            if fetched_this_batch % 25 == 0:
+                print(f"Fetched {fetched_this_batch} item details in this batch", flush=True)
         except (FetchError, ValueError) as exc:
             with state.db:
                 state.db.execute(

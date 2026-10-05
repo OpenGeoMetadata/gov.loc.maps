@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 from .client import Client, Paused
-from .common import write_json
+from .common import now, read_json, write_json
 from .inventory import enumerate_items
 from .pipeline import fetch, publish, transform
 from .snapshot import restore, snapshot
@@ -87,6 +87,11 @@ def main(argv=None):
                             "cached": state.db.execute(
                                 "SELECT COUNT(*) FROM items WHERE cache IS NOT NULL"
                             ).fetchone()[0],
+                            "job": read_json(state.root / "job.json", {}),
+                            "request_interval": state.get("request_interval", 6.1),
+                            "errors": state.db.execute(
+                                "SELECT COUNT(*) FROM items WHERE error IS NOT NULL"
+                            ).fetchone()[0],
                             "pause_until": state.get("pause_until", 0),
                         },
                         indent=2,
@@ -109,17 +114,22 @@ def main(argv=None):
             if args.command in {"publish", "run"}:
                 changed = publish(state, args.root, args.stage, args.dry_run)
                 print(json.dumps({"dry_run": args.dry_run, "changed_files": len(changed)}))
-            write_json(args.state / "job.json", {"status": "complete", "mode": args.mode})
+            write_json(
+                args.state / "job.json",
+                {"status": "complete", "mode": args.mode, "updated_at": now()},
+            )
             return 0
     except Paused as exc:
         write_json(
-            args.state / "job.json", {"status": "paused", "reason": str(exc), "mode": args.mode}
+            args.state / "job.json",
+            {"status": "paused", "reason": str(exc), "mode": args.mode, "updated_at": now()},
         )
         print(str(exc), file=sys.stderr)
         return 75
     except Exception as exc:
         write_json(
-            args.state / "job.json", {"status": "failed", "error": str(exc), "mode": args.mode}
+            args.state / "job.json",
+            {"status": "failed", "error": str(exc), "mode": args.mode, "updated_at": now()},
         )
         print(f"{type(exc).__name__}: {exc}", file=sys.stderr)
         return 1

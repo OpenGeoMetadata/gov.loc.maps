@@ -9,7 +9,8 @@ import sys
 import time
 from pathlib import Path
 
-from loc_maps.common import read_json
+from loc_maps.common import now, read_json, write_json
+from loc_maps.recovery import promote_pilot
 from loc_maps.snapshot import restore
 from loc_maps.state import State
 
@@ -27,8 +28,8 @@ def api(path, *args):
     return json.loads(command("gh", "api", path, *args))
 
 
-def load_state():
-    result = api(f"repos/{REPO}/actions/artifacts?name=loc-state-{CHANNEL}&per_page=100")
+def restore_channel(channel):
+    result = api(f"repos/{REPO}/actions/artifacts?name=loc-state-{channel}&per_page=100")
     artifacts = sorted(
         (a for a in result["artifacts"] if not a["expired"]), key=lambda a: a["id"], reverse=True
     )
@@ -42,7 +43,7 @@ def load_state():
             "--repo",
             REPO,
             "--name",
-            f"loc-state-{CHANNEL}",
+            f"loc-state-{channel}",
             "--dir",
             "dist/restore",
         )
@@ -52,7 +53,7 @@ def load_state():
         snapshots = [
             r
             for r in releases
-            if r["tag_name"].startswith(f"snapshot-{CHANNEL}-")
+            if r["tag_name"].startswith((f"snapshot-{channel}-", f"checkpoint-{channel}-"))
             and any(a["name"] == "loc-state.tar.gz" for a in r["assets"])
         ]
         if snapshots:
@@ -70,10 +71,26 @@ def load_state():
                 "dist/restore",
             )
             restore(Path("dist/restore/loc-state.tar.gz"), Path(".state"))
-        elif command("git", "ls-tree", "HEAD", "metadata-aardvark"):
-            raise RuntimeError(
-                "No recoverable checkpoint. Restore state before resuming; do not recreate lifecycle history."
-            )
+        else:
+            return False
+    return True
+
+
+def load_state():
+    recovered = restore_channel(CHANNEL)
+    if not recovered and MODE == "full" and os.environ.get("SEED_PILOT") == "true":
+        if not restore_channel("pilot"):
+            raise RuntimeError("No pilot checkpoint available for explicit bootstrap")
+        state = State(Path(".state"))
+        try:
+            promote_pilot(state, Path("."))
+        finally:
+            state.close()
+        recovered = True
+    if not recovered and command("git", "ls-tree", "HEAD", "metadata-aardvark"):
+        raise RuntimeError(
+            "No recoverable checkpoint. Restore state before resuming; do not recreate lifecycle history."
+        )
     branch_exists = bool(command("git", "ls-remote", "--heads", "origin", BRANCH))
     if branch_exists:
         command("git", "fetch", "origin", BRANCH)
@@ -91,13 +108,20 @@ def batch():
         state = State(Path(".state"))
         cooldown = max(0, state.get("pause_until", 0) - time.time())
         state.close()
-        if cooldown > 3700:
-            raise RuntimeError(
-                "LOC requested an extended cooldown; resume manually after it expires"
-            )
         if cooldown:
-            print(f"Respecting persisted LOC cooldown ({cooldown:.0f} seconds)", flush=True)
-            time.sleep(cooldown + 1)
+            write_json(
+                Path(".state/job.json"),
+                {
+                    "status": "paused",
+                    "mode": MODE,
+                    "reason": "Persisted LOC cooldown",
+                    "updated_at": now(),
+                },
+            )
+            with open(os.environ["GITHUB_OUTPUT"], "a") as output:
+                output.write("status=paused\n")
+            print(f"Cooldown active for {cooldown:.0f}s; hourly recovery will resume it")
+            return
     args = ["loc-maps", "run", "--mode", MODE, "--max-requests", "700", "--max-seconds", "4800"]
     if os.environ.get("CONTINUATION") != "true":
         args.append("--new-inventory")
@@ -219,6 +243,14 @@ def propose():
 
 
 def continue_run():
+    if Path(".state/state.sqlite").exists():
+        state = State(Path(".state"))
+        try:
+            if state.get("pause_until", 0) > time.time():
+                print("Cooldown active; scheduled recovery will resume after expiry")
+                return
+        finally:
+            state.close()
     current = int(os.environ.get("ROUND", "1"))
     if os.environ.get("AUTO_CONTINUE") != "true" or current >= 120:
         print(
@@ -247,7 +279,95 @@ def continue_run():
     )
 
 
+def retain_checkpoint():
+    """Keep the first checkpoint each UTC day beyond Actions artifact expiry."""
+    tag = f"checkpoint-{CHANNEL}-{now()[:10]}"
+    releases = api(f"repos/{REPO}/releases?per_page=100")
+    existing = next((r for r in releases if r["tag_name"] == tag), None)
+    if existing and any(a["name"] == "loc-state.tar.gz" for a in existing["assets"]):
+        return
+    if not existing:
+        command(
+            "gh",
+            "release",
+            "create",
+            tag,
+            "--repo",
+            REPO,
+            "--draft",
+            "--target",
+            os.environ["GITHUB_SHA"],
+            "--title",
+            f"Recovery checkpoint {CHANNEL} {now()[:10]}",
+            "--notes",
+            "Incomplete harvest recovery state, not a metadata release.",
+        )
+    command(
+        "gh",
+        "release",
+        "upload",
+        tag,
+        "dist/loc-state.tar.gz",
+        "dist/status.json",
+        "--repo",
+        REPO,
+        "--clobber",
+    )
+
+
+def recover_paused():
+    """Dispatch only an explicitly enabled, safely paused bootstrap harvest."""
+    runs = api(f"repos/{REPO}/actions/workflows/harvest.yml/runs?per_page=20")["workflow_runs"]
+    runs = [r for r in runs if r.get("conclusion") != "skipped"]
+    if not runs or any(r["status"] != "completed" for r in runs):
+        return
+    latest = runs[0]
+    if latest["conclusion"] != "success":
+        raise RuntimeError(f"Harvest needs inspection: {latest['html_url']}")
+    command(
+        "gh",
+        "run",
+        "download",
+        str(latest["id"]),
+        "--repo",
+        REPO,
+        "--name",
+        "loc-status-production",
+        "--dir",
+        "dist/recovery",
+    )
+    status = read_json(Path("dist/recovery/status.json"))
+    if (
+        status.get("job", {}).get("mode") != "full"
+        or status.get("job", {}).get("status") != "paused"
+    ):
+        return
+    if status.get("pause_until", 0) > time.time():
+        return
+    command(
+        "gh",
+        "workflow",
+        "run",
+        "harvest.yml",
+        "--repo",
+        REPO,
+        "--ref",
+        "main",
+        "-f",
+        "mode=full",
+        "-f",
+        "continuation=true",
+        "-f",
+        "auto_continue=true",
+    )
+
+
 if __name__ == "__main__":
-    {"restore": load_state, "batch": batch, "propose": propose, "continue": continue_run}[
-        sys.argv[1]
-    ]()
+    {
+        "restore": load_state,
+        "batch": batch,
+        "propose": propose,
+        "continue": continue_run,
+        "retain": retain_checkpoint,
+        "recover": recover_paused,
+    }[sys.argv[1]]()

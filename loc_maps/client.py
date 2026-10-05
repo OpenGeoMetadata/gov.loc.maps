@@ -59,7 +59,7 @@ class Client:
         if current + delay >= self.deadline:
             raise Paused("Job budget exhausted")
         self.sleep(delay)
-        self.state.set("next_request", self.clock() + 6.1)
+        self.state.set("next_request", self.clock() + self.state.get("request_interval", 6.1))
         self.remaining -= 1
 
     def pause(self, response):
@@ -71,6 +71,8 @@ class Client:
                 delay = parsedate_to_datetime(retry).timestamp() - self.clock()
             except (ValueError, TypeError):
                 delay = 3600
+        self.state.set("request_interval", min(60.0, self.state.get("request_interval", 6.1) * 2))
+        self.state.set("successful_requests", 0)
         self.state.set("pause_until", self.clock() + max(3600, delay))
         raise Paused(
             f"LOC returned {response.status_code} or an HTML challenge; paused at least one hour"
@@ -94,6 +96,13 @@ class Client:
                 data = response.json()
                 if not isinstance(data, dict) or data.get("error"):
                     raise FetchError("Invalid API response object")
+                successful = self.state.get("successful_requests", 0) + 1
+                if successful >= 100:
+                    self.state.set(
+                        "request_interval", max(6.1, self.state.get("request_interval", 6.1) * 0.8)
+                    )
+                    successful = 0
+                self.state.set("successful_requests", successful)
                 return data
             except (requests.RequestException, ValueError, FetchError) as exc:
                 last = exc
