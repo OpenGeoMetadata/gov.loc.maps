@@ -132,4 +132,33 @@ such as the Heezen-Tharp collection (`hdl.loc.gov/loc.gmd/eadgmd.gm017012`). The
 have no catalog `/item/` identifier and are explicitly counted in exclusions as
 `non-item-finding-aid`. HTTP, HTTPS, and protocol-relative variants normalize to
 one HTTPS URL. This exception is restricted to that reviewed finding-aid path;
-other unknown hosts and handle types still block inventory for inspection.
+other unknown hosts and handle types are retained for identifier review before publication.
+
+## Legacy catalog records and unresolved identifiers
+
+Legacy `catalog.loc.gov/vwebv/holdingsInfo?bibId=…` and
+`catalog.loc.gov/cgi-bin/Pwebrecon.cgi?BBID=…` links represent real map records.
+They normalize to one HTTPS holdings URL. When no `/item/` alias is supplied,
+use a stable `loc-maps-bibid:<number>` ID. The literal colon separates this
+namespace from percent-encoded `/item/` identifiers. Existing item IDs do not change.
+
+LOC's search API embeds catalog metadata for these entries. After the verified
+inventory, the fetch stage caches that complete search-result object and its
+embedded `item` and `resources` data, without requesting the catalog website as
+JSON or inventing a `/item/<bibId>/` URL. Provenance labels this source
+`loc-search-embedded-catalog`, and coverage reports count it separately from
+item-API responses. It is not claimed to provide fields absent from the source.
+
+Unknown identifiers, or catalog results without embedded metadata, are retained
+in `identifier-review.json` with their source metadata. They count toward inventory
+reconciliation but are not silently excluded or published. Supported records can
+continue through inventory and fetching; unresolved entries block transformation
+and publication, including publishing a previously staged build. Status reports
+show the unresolved count. Resolve these through source-backed identifier rules,
+then repeat inventory before publication. Reviewed non-item pages and finding aids
+remain separate, explicit exclusions.
+
+Three failed attempts on temporary network errors or JSON HTTP 5xx responses now
+persist a cooldown and pause for automatic recovery. HTTP 404, invalid metadata,
+and publication validation failures still require inspection. Rate-limit and HTML
+challenge responses retain their longer cooldown behavior.

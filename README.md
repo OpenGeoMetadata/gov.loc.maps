@@ -33,6 +33,10 @@ or atlas. Items without coordinates or downloadable images remain discoverable.
 LOC Maps returned 60,185 search results during initial research on 2026-10-04;
 that is neither a permanent total nor a count of individual sheets.
 
+Legacy catalog-only maps are retained as `loc-maps-bibid:<number>` records using
+LOC’s embedded catalog metadata. Unrecognized identifiers are retained in a review
+queue; they do not stop discovery and fetching, but do block publication.
+
 Search results also include descriptive web pages without `/item/` identifiers.
 These are accounted for in `reports/exclusions.json`, not silently discarded or
 turned into fabricated catalog items. Two complete inventory passes must agree

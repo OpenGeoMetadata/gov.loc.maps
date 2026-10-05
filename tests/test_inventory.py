@@ -121,9 +121,13 @@ def test_reviewed_finding_aid_is_counted_across_url_variants(state):
 
 
 @pytest.mark.parametrize("url", ["https://example.org/map", "https://hdl.loc.gov/loc.gmd/g1234"])
-def test_unreviewed_non_item_sources_still_block_inventory(state, url):
+def test_unreviewed_sources_are_retained_without_stopping_inventory(state, url):
     payload = page([], 1)
     payload["results"] = [{"url": url, "title": "Unknown source"}]
-    with pytest.raises(FetchError, match="Unrecognized inventory"):
-        enumerate_items(state, Pages([payload]))
-    assert state.active_run()["status"] == "enumerating"
+    enumerate_items(state, Pages([payload, payload]))
+    assert state.active_run()["status"] == "complete"
+    assert state.db.execute("SELECT COUNT(*) FROM items").fetchone()[0] == 0
+    from loc_maps.inventory import identifier_review
+
+    assert identifier_review(state)[0]["source"]["url"] == url
+    assert state.db.execute("SELECT COUNT(*) FROM exclusions").fetchone()[0] == 0
