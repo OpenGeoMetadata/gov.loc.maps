@@ -9,7 +9,17 @@ from jsonschema import ValidationError
 
 from . import MAPPING_VERSION
 from .client import FetchError, api_url
-from .common import canonical_url, digest, now, read_json, record_id, record_path, write_json
+from .common import (
+    catalog_bibid,
+    digest,
+    now,
+    read_json,
+    record_id,
+    record_path,
+    source_identity,
+    write_json,
+)
+from .inventory import write_identifier_review
 from .mapper import IMAGE, MANIFEST, THUMBNAIL, collection, map_item
 from .validation import validate_record, validate_tree
 
@@ -48,13 +58,23 @@ def fetch(state, client, retry_failed=False):
         if row["attempts"] >= 3:
             continue
         try:
-            payload = client.get(api_url(row["url"], "item,resources"))
+            if catalog_bibid(row["url"]):
+                summary = json.loads(row["summary"])
+                if not isinstance(summary.get("item"), dict) or not summary["item"]:
+                    raise FetchError("Catalog result lacks embedded catalog metadata")
+                payload = {
+                    "item": summary,
+                    "resources": summary.get("resources", []),
+                    "source_kind": "loc-search-embedded-catalog",
+                }
+            else:
+                payload = client.get(api_url(row["url"], "item,resources"))
             if not isinstance(payload.get("item"), dict) or not isinstance(
                 payload.get("resources", []), list
             ):
                 raise FetchError("Malformed item/resources response")
-            source_url = payload["item"].get("id") or payload["item"].get("url")
-            if not source_url or canonical_url(source_url) != row["url"]:
+            source_url = source_identity(payload["item"])
+            if source_url != row["url"]:
                 raise FetchError("Returned item identifier differs from requested item")
             path = Path("cache") / (digest(row["url"]) + ".json")
             write_json(state.root / path, payload)
@@ -93,8 +113,17 @@ def stable_record(record, previous, modified):
     return dict(record, gbl_mdModified_dt=modified)
 
 
+def require_resolved_identifiers(state):
+    issues = write_identifier_review(state)
+    if issues:
+        raise ValueError(
+            f"{len(issues)} unresolved identifiers; see identifier-review.json. Publication blocked."
+        )
+
+
 def transform(state, root: Path, stage: Path, allow_large_withdrawal=False):
     run = require_inventory(state)
+    require_resolved_identifiers(state)
     previous = {}
     for path in (root / "metadata-aardvark").rglob("*.json"):
         record = read_json(path)
@@ -148,6 +177,7 @@ def transform(state, root: Path, stage: Path, allow_large_withdrawal=False):
                 retrieved_at=row["fetched_at"],
                 source_sha256=digest(payload),
                 mapping_version=MAPPING_VERSION,
+                source_kind=payload.get("source_kind", "loc-item-api"),
             )
         except (ValueError, TypeError, KeyError, ValidationError) as exc:
             errors.append({"id": identifier, "url": row["url"], "error": str(exc)})
@@ -207,6 +237,9 @@ def transform(state, root: Path, stage: Path, allow_large_withdrawal=False):
             ).fetchone()[0],
         },
         "coverage": {
+            "embedded_catalog_records": sum(
+                p["source_kind"] == "loc-search-embedded-catalog" for p in provenance.values()
+            ),
             "source_geometry": sum(p["geometry"] == "source" for p in provenance.values()),
             "missing_geometry": sum(p["geometry"] == "missing" for p in provenance.values()),
             "unparsed_geometry": sum(p["geometry"] == "unparsed" for p in provenance.values()),
@@ -284,6 +317,7 @@ def transform(state, root: Path, stage: Path, allow_large_withdrawal=False):
 
 def publish(state, root: Path, stage: Path, dry_run=False):
     run = require_inventory(state)
+    require_resolved_identifiers(state)
     build = read_json(stage / "build.json")
     if not build or build["inventory_id"] != run["id"]:
         raise ValueError("Staging build does not match current inventory")

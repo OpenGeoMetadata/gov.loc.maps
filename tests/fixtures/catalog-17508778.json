@@ -1,0 +1,97 @@
+{
+  "access_restricted": false,
+  "aka": [
+    "http://lcweb2.loc.gov/natlib/africamaps/kml/83693418.kml",
+    "http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&BBID=17508778&v3=1"
+  ],
+  "campaigns": [],
+  "contributor": [
+    "integrated exploration and development services limited",
+    "ihs energy",
+    "petroconsultants s.a."
+  ],
+  "date": "1979-01-01",
+  "dates": [
+    "1979"
+  ],
+  "description": [
+    "Shows oil and gas leases, fields, and wells, offshore as well as onshore. Shows Western Sahara area under Moroccan control on some sheets. Depths shown by contours. Some sheets produced jointly by Integrated Exploration and Development Services Limited and Petroconsultants. Later sheets produced by IHS Energy. Includes location maps, insets, geological sketch maps, list of rightholders, and summary of activity."
+  ],
+  "digitized": true,
+  "extract_timestamp": "2021-11-18T22:37:56.517Z",
+  "group": [
+    "catalog-split-11",
+    "catalog",
+    "main-catalog-split-11",
+    "main-catalog"
+  ],
+  "hassegments": false,
+  "id": "http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&BBID=17508778&v3=1",
+  "image_url": [],
+  "index": 1,
+  "item": {
+    "call_number": [
+      "G8231.H8 s2000 .P4"
+    ],
+    "contributors": [
+      "Petroconsultants S.A.",
+      "Integrated Exploration and Development Services Limited.",
+      "IHS Energy."
+    ],
+    "created_published": [
+      "Geneva, Switzerland : Petroconsultants, 1979-"
+    ],
+    "date": "1979",
+    "format": [
+      "cartographic"
+    ],
+    "language": [
+      "eng"
+    ],
+    "medium": [
+      "<   > maps : some photocopies, some col.; 103 x 109 cm. or smaller."
+    ],
+    "notes": [
+      "Shows oil and gas leases, fields, and wells, offshore as well as onshore.",
+      "Shows Western Sahara area under Moroccan control on some sheets.",
+      "Depths shown by contours.",
+      "Some sheets produced jointly by Integrated Exploration and Development Services Limited and Petroconsultants.",
+      "Later sheets produced by IHS Energy.",
+      "Includes location maps, insets, geological sketch maps, list of rightholders, and summary of activity."
+    ],
+    "other_title": [
+      "Morocco, northern zone",
+      "Foreign Scouting Service",
+      "Global exploration & production service"
+    ],
+    "title": "Morocco."
+  },
+  "language": [
+    "english"
+  ],
+  "number": [
+    "2012-10-25t15:09:44"
+  ],
+  "number_source_modified": [
+    "2012-10-25t15:09:44"
+  ],
+  "original_format": [
+    "map"
+  ],
+  "other_title": [
+    "Morocco, northern zone",
+    "Foreign Scouting Service",
+    "Global exploration & production service"
+  ],
+  "partof": [
+    "catalog"
+  ],
+  "resources": [],
+  "shelf_id": "G8231.H8 s2000 .P4",
+  "site": [
+    "catalog"
+  ],
+  "timestamp": "2022-03-21T20:51:20.862Z",
+  "title": "Morocco.",
+  "url": "https://catalog.loc.gov/vwebv/holdingsInfo?bibId=17508778"
+}

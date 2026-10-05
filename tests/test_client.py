@@ -77,3 +77,19 @@ def test_rate_limit_slows_next_session_and_recovers_gradually(state):
         resumed.get("https://www.loc.gov/maps/")
     assert clock[0] >= 1000 + 99 * 12.2 - 0.01
     assert state.get("request_interval") == pytest.approx(9.76)
+
+
+@pytest.mark.parametrize("failure", [requests.Timeout(), response(500), response(503)])
+def test_temporary_outages_save_cooldown_instead_of_stopping_chain(state, failure):
+    client, clock = clock_client(state, [failure] * 3)
+    with pytest.raises(Paused):
+        client.get("https://www.loc.gov/maps/")
+    assert state.get("pause_until") >= clock[0] + 300
+    assert state.get("request_interval") == 12.2
+    assert client.session.get.call_count == 3
+
+
+def test_permanent_not_found_still_requires_inspection(state):
+    client, _ = clock_client(state, [response(404)] * 3)
+    with pytest.raises(FetchError):
+        client.get("https://www.loc.gov/item/missing/")

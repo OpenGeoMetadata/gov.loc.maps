@@ -4,7 +4,7 @@ import json
 from urllib.parse import urlencode, urlsplit
 
 from .client import FetchError, api_url
-from .common import canonical_url, digest, meaningful_summary, now
+from .common import catalog_bibid, digest, meaningful_summary, now, source_identity, write_json
 
 START = api_url("https://www.loc.gov/maps/")
 # Each query contributes up to 25 candidates; base pages fill any overlaps.
@@ -73,15 +73,19 @@ def enumerate_items(state, client, mode="full", new=False):
             if not isinstance(row, dict):
                 raise FetchError("Invalid inventory item")
             summary = meaningful_summary(row)
-            url = None
-            for candidate in (row.get("id"), row.get("url"), *(row.get("aka") or [])):
-                try:
-                    url = canonical_url(candidate or "")
-                    break
-                except ValueError:
-                    pass
+            summary.pop("_ogm_exclusion", None)
+            summary.pop("_ogm_unresolved", None)
+            url = source_identity(row)
+            if (
+                url
+                and catalog_bibid(url)
+                and (not isinstance(row.get("item"), dict) or not row["item"])
+            ):
+                summary["_ogm_unresolved"] = "Catalog identifier has no embedded catalog metadata"
             if url is None:
                 candidate = row.get("url") or row.get("id") or ""
+                if not isinstance(candidate, str):
+                    candidate = ""
                 parsed = urlsplit(candidate)
                 if parsed.hostname in {"www.loc.gov", "loc.gov"}:
                     reason = "non-item-web-page: no LOC /item/ identifier"
@@ -92,9 +96,17 @@ def enumerate_items(state, client, mode="full", new=False):
                     # These describe collections, not a catalog map with an /item/ ID.
                     reason = "non-item-finding-aid: LOC archival collection description"
                 else:
-                    raise FetchError(f"Unrecognized inventory identifier: {candidate}")
-                url = parsed._replace(scheme="https", fragment="").geturl()
-                summary["_ogm_exclusion"] = reason
+                    reason = None
+                if parsed.hostname and parsed.scheme in {"", "http", "https"}:
+                    url = parsed._replace(scheme="https", fragment="").geturl()
+                else:
+                    url = "urn:loc-identifier-review:" + digest(summary)
+                if reason:
+                    summary["_ogm_exclusion"] = reason
+                else:
+                    summary["_ogm_unresolved"] = (
+                        "No supported catalog identifier; source retained for review"
+                    )
             records.append((run["id"], run["pass"], url, json.dumps(summary), digest(summary)))
         if not results and pagination.get("next"):
             raise FetchError("Empty intermediate inventory page")
@@ -103,6 +115,7 @@ def enumerate_items(state, client, mode="full", new=False):
             state.db.execute(
                 "UPDATE runs SET expected=?, page=page+1 WHERE id=?", (total, run["id"])
             )
+        write_identifier_review(state)
         print(
             f"Inventory pass {run['pass']}, page {run['page'] + 1}: "
             f"saved {len(records)} results; LOC reports {total}",
@@ -110,7 +123,7 @@ def enumerate_items(state, client, mode="full", new=False):
         )
         if pilot:
             unique = state.db.execute(
-                "SELECT COUNT(*) FROM seen WHERE run=? AND json_extract(summary,'$._ogm_exclusion') IS NULL",
+                "SELECT COUNT(*) FROM seen WHERE run=? AND json_extract(summary,'$._ogm_exclusion') IS NULL AND json_extract(summary,'$._ogm_unresolved') IS NULL",
                 (run["id"],),
             ).fetchone()[0]
             next_index = run["page"] + 1
@@ -178,7 +191,14 @@ def finish(state, run, pilot=False):
         )
     )
     exclusions = [row for row in rows if json.loads(row["summary"]).get("_ogm_exclusion")]
-    rows = [row for row in rows if not json.loads(row["summary"]).get("_ogm_exclusion")]
+    rows = [
+        row
+        for row in rows
+        if not (
+            json.loads(row["summary"]).get("_ogm_exclusion")
+            or json.loads(row["summary"]).get("_ogm_unresolved")
+        )
+    ]
     if pilot:
         rows = rows[:200]
     with state.db:
@@ -210,3 +230,27 @@ def finish(state, run, pilot=False):
         # Item misses retain lifecycle history; old page payloads need not grow forever.
         state.db.execute("DELETE FROM seen WHERE run != ?", (run["id"],))
     return state.active_run()
+
+
+def identifier_review(state):
+    run = state.active_run()
+    if not run:
+        return []
+    return [
+        {
+            "url": row["url"],
+            "reason": json.loads(row["summary"])["_ogm_unresolved"],
+            "source": json.loads(row["summary"]),
+        }
+        for row in state.db.execute(
+            "SELECT url,summary FROM seen WHERE run=? AND pass=? "
+            "AND json_extract(summary,'$._ogm_unresolved') IS NOT NULL ORDER BY url",
+            (run["id"], run["pass"]),
+        )
+    ]
+
+
+def write_identifier_review(state):
+    issues = identifier_review(state)
+    write_json(state.root / "identifier-review.json", issues)
+    return issues

@@ -7,7 +7,7 @@ from pathlib import Path
 
 from .client import Client, Paused
 from .common import now, read_json, write_json
-from .inventory import enumerate_items
+from .inventory import enumerate_items, identifier_review
 from .pipeline import fetch, publish, transform
 from .snapshot import restore, snapshot
 from .state import locked_state
@@ -87,6 +87,7 @@ def main(argv=None):
                             "cached": state.db.execute(
                                 "SELECT COUNT(*) FROM items WHERE cache IS NOT NULL"
                             ).fetchone()[0],
+                            "unresolved_identifiers": len(identifier_review(state)),
                             "job": read_json(state.root / "job.json", {}),
                             "request_interval": state.get("request_interval", 6.1),
                             "errors": state.db.execute(
