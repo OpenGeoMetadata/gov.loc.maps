@@ -167,3 +167,15 @@ def test_daily_durable_checkpoint_is_not_replaced(automation):
     )
     automation.retain_checkpoint()
     automation.command.assert_not_called()
+
+
+def test_small_initial_batch_retains_pause_status(automation, monkeypatch, tmp_path):
+    monkeypatch.chdir(tmp_path)
+    monkeypatch.setenv("MAX_REQUESTS", "5")
+    monkeypatch.setenv("GITHUB_OUTPUT", str(tmp_path / "output"))
+    automation.subprocess = Mock()
+    automation.subprocess.run.return_value.returncode = 75
+    automation.batch()
+    args = automation.subprocess.run.call_args.args[0]
+    assert args[args.index("--max-requests") + 1] == "5"
+    assert (tmp_path / "output").read_text() == "status=paused\n"

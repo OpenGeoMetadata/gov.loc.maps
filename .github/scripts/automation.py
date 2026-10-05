@@ -122,7 +122,19 @@ def batch():
                 output.write("status=paused\n")
             print(f"Cooldown active for {cooldown:.0f}s; hourly recovery will resume it")
             return
-    args = ["loc-maps", "run", "--mode", MODE, "--max-requests", "700", "--max-seconds", "4800"]
+    budget = int(os.environ.get("MAX_REQUESTS", "700"))
+    if not 1 <= budget <= 700:
+        raise ValueError("Request budget must be between 1 and 700")
+    args = [
+        "loc-maps",
+        "run",
+        "--mode",
+        MODE,
+        "--max-requests",
+        str(budget),
+        "--max-seconds",
+        "4800",
+    ]
     if os.environ.get("CONTINUATION") != "true":
         args.append("--new-inventory")
     if os.environ.get("RETRY_FAILED") == "true":
