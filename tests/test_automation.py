@@ -191,3 +191,34 @@ def test_small_initial_batch_retains_pause_status(automation, monkeypatch, tmp_p
     args = automation.subprocess.run.call_args.args[0]
     assert args[args.index("--max-requests") + 1] == "5"
     assert (tmp_path / "output").read_text() == "status=paused\n"
+
+
+def test_checkpoint_selection_uses_creation_time_not_artifact_id(automation):
+    automation.api = Mock(
+        return_value={
+            "artifacts": [
+                {
+                    "id": 900,
+                    "created_at": "2026-10-05T03:02:45Z",
+                    "expired": False,
+                    "workflow_run": {"id": 1},
+                },
+                {
+                    "id": 800,
+                    "created_at": "2026-10-05T03:07:45Z",
+                    "expired": False,
+                    "workflow_run": {"id": 2},
+                },
+                {
+                    "id": 1000,
+                    "created_at": "2026-10-05T04:00:00Z",
+                    "expired": True,
+                    "workflow_run": {"id": 3},
+                },
+            ]
+        }
+    )
+    automation.restore = Mock()
+    assert automation.restore_channel("production")
+    assert automation.command.call_args.args[:4] == ("gh", "run", "download", "2")
+    automation.restore.assert_called_once()

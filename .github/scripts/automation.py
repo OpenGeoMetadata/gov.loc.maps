@@ -31,10 +31,16 @@ def api(path, *args):
 def restore_channel(channel):
     result = api(f"repos/{REPO}/actions/artifacts?name=loc-state-{channel}&per_page=100")
     artifacts = sorted(
-        (a for a in result["artifacts"] if not a["expired"]), key=lambda a: a["id"], reverse=True
+        (a for a in result["artifacts"] if not a["expired"]),
+        key=lambda a: (a["created_at"], a["id"]),
+        reverse=True,
     )
     if artifacts:
         run = str(artifacts[0]["workflow_run"]["id"])
+        print(
+            f"Restoring {channel} checkpoint from run {run}, created {artifacts[0]['created_at']}",
+            flush=True,
+        )
         command(
             "gh",
             "run",
