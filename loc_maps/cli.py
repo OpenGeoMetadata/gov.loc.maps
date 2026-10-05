@@ -5,7 +5,7 @@ import json
 import sys
 from pathlib import Path
 
-from .client import Client, Paused
+from .client import MIN_INTERVAL, Client, Paused
 from .common import now, read_json, write_json
 from .inventory import enumerate_items, identifier_review
 from .pipeline import fetch, publish, transform
@@ -89,7 +89,7 @@ def main(argv=None):
                             ).fetchone()[0],
                             "unresolved_identifiers": len(identifier_review(state)),
                             "job": read_json(state.root / "job.json", {}),
-                            "request_interval": state.get("request_interval", 6.1),
+                            "request_interval": state.get("request_interval", MIN_INTERVAL),
                             "errors": state.db.execute(
                                 "SELECT COUNT(*) FROM items WHERE error IS NOT NULL"
                             ).fetchone()[0],

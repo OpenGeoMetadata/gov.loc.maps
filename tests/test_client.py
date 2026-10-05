@@ -28,7 +28,7 @@ def test_global_limit_and_budget(state):
     client, clock = clock_client(state, [response(), response()], budget=2)
     client.get("https://www.loc.gov/maps/")
     client.get("https://www.loc.gov/maps/")
-    assert clock[0] >= 1006.1
+    assert clock[0] >= 1030.0
     with pytest.raises(Paused, match="budget"):
         client.get("https://www.loc.gov/maps/")
 
@@ -69,14 +69,14 @@ def test_rate_limit_slows_next_session_and_recovers_gradually(state):
     client, clock = clock_client(state, [response(429)])
     with pytest.raises(Paused):
         client.get("https://www.loc.gov/maps/")
-    assert state.get("request_interval") == 12.2
+    assert state.get("request_interval") == 60.0
     state.set("pause_until", 0)
     state.set("next_request", 0)
     resumed, clock = clock_client(state, [response()] * 100, budget=100)
     for _ in range(100):
         resumed.get("https://www.loc.gov/maps/")
-    assert clock[0] >= 1000 + 99 * 12.2 - 0.01
-    assert state.get("request_interval") == pytest.approx(9.76)
+    assert clock[0] >= 1000 + 99 * 60.0 - 0.01
+    assert state.get("request_interval") == pytest.approx(48.0)
 
 
 @pytest.mark.parametrize("failure", [requests.Timeout(), response(500), response(503)])
@@ -85,11 +85,58 @@ def test_temporary_outages_save_cooldown_instead_of_stopping_chain(state, failur
     with pytest.raises(Paused):
         client.get("https://www.loc.gov/maps/")
     assert state.get("pause_until") >= clock[0] + 300
-    assert state.get("request_interval") == 12.2
-    assert client.session.get.call_count == 3
+    assert state.get("request_interval") == 60.0
+    assert client.session.get.call_count == (
+        1 if getattr(failure, "status_code", None) == 503 else 3
+    )
 
 
 def test_permanent_not_found_still_requires_inspection(state):
     client, _ = clock_client(state, [response(404)] * 3)
     with pytest.raises(FetchError):
         client.get("https://www.loc.gov/item/missing/")
+
+
+def test_legacy_checkpoint_is_slowed_and_rest_follows_response(state):
+    state.set("request_interval", 12.2)
+    client, clock = clock_client(state, [])
+    starts = []
+
+    def slow_response(*args, **kwargs):
+        starts.append(clock[0])
+        clock[0] += 40
+        return response()
+
+    client.session.get.side_effect = slow_response
+    client.get("https://www.loc.gov/maps/")
+    client.get("https://www.loc.gov/maps/")
+    assert starts == [1000, 1070]
+    assert state.get("request_interval") == 30
+
+
+def test_repeated_overload_extends_persisted_cooldown(state):
+    client, clock = clock_client(state, [response(503), response(429)])
+    with pytest.raises(Paused):
+        client.get("https://www.loc.gov/maps/")
+    assert state.get("pause_until") == clock[0] + 3600
+    clock[0] = state.get("pause_until") + 1
+    with pytest.raises(Paused):
+        client.get("https://www.loc.gov/maps/")
+    assert state.get("pause_until") == clock[0] + 7200
+    assert client.session.get.call_count == 2
+
+
+def test_long_retry_after_is_honored(state):
+    overloaded = response(503)
+    overloaded.headers["Retry-After"] = "172800"
+    client, clock = clock_client(state, [overloaded])
+    with pytest.raises(Paused):
+        client.get("https://www.loc.gov/maps/")
+    assert state.get("pause_until") == clock[0] + 172800
+
+
+def test_successful_requests_never_speed_up_beyond_polite_floor(state):
+    state.set("successful_requests", 99)
+    client, _ = clock_client(state, [response()])
+    client.get("https://www.loc.gov/maps/")
+    assert state.get("request_interval") == 30
