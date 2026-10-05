@@ -126,3 +126,10 @@ source. If all artifacts expire, restoration falls back to a durable snapshot;
 it may repeat work since that snapshot. A failed bootstrap is never uploaded as
 production state. `status.json` distinguishes inventory completion from overall
 job completion and includes cache count, error count, pacing, and cooldown.
+
+LOC also returns Geography and Map Division archival collection finding aids,
+such as the Heezen-Tharp collection (`hdl.loc.gov/loc.gmd/eadgmd.gm017012`). These
+have no catalog `/item/` identifier and are explicitly counted in exclusions as
+`non-item-finding-aid`. HTTP, HTTPS, and protocol-relative variants normalize to
+one HTTPS URL. This exception is restricted to that reviewed finding-aid path;
+other unknown hosts and handle types still block inventory for inspection.

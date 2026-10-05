@@ -82,11 +82,19 @@ def enumerate_items(state, client, mode="full", new=False):
                     pass
             if url is None:
                 candidate = row.get("url") or row.get("id") or ""
-                if urlsplit(candidate).hostname not in {"www.loc.gov", "loc.gov"}:
+                parsed = urlsplit(candidate)
+                if parsed.hostname in {"www.loc.gov", "loc.gov"}:
+                    reason = "non-item-web-page: no LOC /item/ identifier"
+                elif parsed.hostname == "hdl.loc.gov" and parsed.path.startswith(
+                    "/loc.gmd/eadgmd."
+                ):
+                    # Reviewed LOC Geography and Map Division archival finding aids.
+                    # These describe collections, not a catalog map with an /item/ ID.
+                    reason = "non-item-finding-aid: LOC archival collection description"
+                else:
                     raise FetchError(f"Unrecognized inventory identifier: {candidate}")
-                # LOC mixes descriptive web pages into /maps/. Account for them explicitly.
-                url = candidate
-                summary["_ogm_exclusion"] = "non-item-web-page: no LOC /item/ identifier"
+                url = parsed._replace(scheme="https", fragment="").geturl()
+                summary["_ogm_exclusion"] = reason
             records.append((run["id"], run["pass"], url, json.dumps(summary), digest(summary)))
         if not results and pagination.get("next"):
             raise FetchError("Empty intermediate inventory page")

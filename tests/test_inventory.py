@@ -96,3 +96,34 @@ def test_lccn_alias_is_a_catalog_item(state):
         state.db.execute("SELECT url FROM items").fetchone()[0]
         == "https://www.loc.gov/item/2001627323/"
     )
+
+
+def test_reviewed_finding_aid_is_counted_across_url_variants(state):
+    first = page([1], 2)
+    first["results"].append(
+        {
+            "id": "http://hdl.loc.gov/loc.gmd/eadgmd.gm017012",
+            "url": "//hdl.loc.gov/loc.gmd/eadgmd.gm017012",
+            "title": "Heezen-Tharp collection",
+            "original_format": ["map"],
+        }
+    )
+    second = page([1], 2)
+    second["results"].append(
+        dict(first["results"][-1], url="https://hdl.loc.gov/loc.gmd/eadgmd.gm017012")
+    )
+    run = enumerate_items(state, Pages([first, second]))
+    assert run["status"] == "complete"
+    assert state.db.execute("SELECT COUNT(*) FROM items").fetchone()[0] == 1
+    exclusion = state.db.execute("SELECT * FROM exclusions").fetchone()
+    assert exclusion["url"] == "https://hdl.loc.gov/loc.gmd/eadgmd.gm017012"
+    assert exclusion["reason"].startswith("non-item-finding-aid:")
+
+
+@pytest.mark.parametrize("url", ["https://example.org/map", "https://hdl.loc.gov/loc.gmd/g1234"])
+def test_unreviewed_non_item_sources_still_block_inventory(state, url):
+    payload = page([], 1)
+    payload["results"] = [{"url": url, "title": "Unknown source"}]
+    with pytest.raises(FetchError, match="Unrecognized inventory"):
+        enumerate_items(state, Pages([payload]))
+    assert state.active_run()["status"] == "enumerating"
