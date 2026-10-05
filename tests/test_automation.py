@@ -6,7 +6,19 @@ import pytest
 
 
 @pytest.fixture
-def automation(monkeypatch):
+def automation(monkeypatch, tmp_path):
+    for name in (
+        "CONTINUATION",
+        "AUTO_CONTINUE",
+        "ROUND",
+        "RETRY_FAILED",
+        "MAX_REQUESTS",
+        "SEED_PILOT",
+        "BOOTSTRAP_FULL",
+        "GITHUB_OUTPUT",
+    ):
+        monkeypatch.delenv(name, raising=False)
+    monkeypatch.chdir(tmp_path)
     monkeypatch.setenv("REPOSITORY", "OpenGeoMetadata/gov.loc.maps")
     monkeypatch.setenv("MODE", "full")
     path = Path(__file__).parents[1] / ".github/scripts/automation.py"
