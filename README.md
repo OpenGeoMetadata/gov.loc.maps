@@ -15,13 +15,16 @@ Congress product**. It follows the publishing conventions of
 
 ## Publication status
 
-**Actual Aardvark records are available in the [incomplete pilot preview](https://github.com/OpenGeoMetadata/gov.loc.maps/tree/feature/pilot-preview/metadata-aardvark): 126 item records plus one collection record.** See [draft PR #1](https://github.com/OpenGeoMetadata/gov.loc.maps/pull/1) for review. The default branch does not yet contain production metadata; the preview is deliberately separate while the remaining harvest and release checks run.
+**The default branch contains an incomplete preview: 126 item records plus one
+collection record.** Browse [metadata-aardvark/](metadata-aardvark/). The full
+collection harvest is not yet complete; the collection record and preview report
+identify this limitation.
 
-The harvester and pilot are being established. A complete collection release is
-not yet available. Pilot records belong on `harvest/pilot` and must not be merged
-as a complete collection. The first production release requires the checks in
-[the release checklist](docs/release-checklist.md). Weekly updates remain disabled
-until that release is verified.
+The recovery workflow can seed a full harvest from the verified pilot cache,
+retaining all downloaded sources while requiring a new, complete inventory.
+See [recovery operations](docs/operations.md#recovering-the-merged-incomplete-preview).
+The first production release still requires [the release checklist](docs/release-checklist.md).
+Weekly updates remain disabled until that release is verified.
 
 ## Coverage
 
@@ -100,15 +103,16 @@ of the record ID's SHA-256 hash determine its directory. No `layers.json` is nee
 
 Large source responses, the SQLite checkpoint database, source hashes, retrieval
 times, and mapping provenance live under the ignored state directory. Workflow
-artifacts retain compressed snapshots for 14 days. Completed builds also create
-a draft GitHub release with a durable source snapshot. Snapshots contain SHA-256
+artifacts retain compressed snapshots for 14 days. Daily recovery checkpoints and completed builds also create
+draft GitHub releases with durable source snapshots. Snapshots contain SHA-256
 checksums and are validated before restore.
 
 ## Updates and safety
 
 - Search pages contain 100 results. A full inventory is verified by a second pass.
 - One process per checkpoint directory; workflow jobs also share one concurrency
-  group. All requests and retries use a persisted 6.1-second minimum interval.
+  group. All requests and retries use a persisted 6.1-second minimum interval,
+  increasing after throttling and recovering gradually after successful requests.
 - LOC currently documents 20 JSON API requests/minute. This project uses less
   than 10/minute. Throttling and HTML challenges pause requests for at least an
   hour, honoring longer `Retry-After` values. No proxy or challenge bypass is used.

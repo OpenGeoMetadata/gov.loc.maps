@@ -95,6 +95,11 @@ def enumerate_items(state, client, mode="full", new=False):
             state.db.execute(
                 "UPDATE runs SET expected=?, page=page+1 WHERE id=?", (total, run["id"])
             )
+        print(
+            f"Inventory pass {run['pass']}, page {run['page'] + 1}: "
+            f"saved {len(records)} results; LOC reports {total}",
+            flush=True,
+        )
         if pilot:
             unique = state.db.execute(
                 "SELECT COUNT(*) FROM seen WHERE run=? AND json_extract(summary,'$._ogm_exclusion') IS NULL",
