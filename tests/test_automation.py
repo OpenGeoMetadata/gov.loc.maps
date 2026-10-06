@@ -15,6 +15,7 @@ def automation(monkeypatch, tmp_path):
         "MAX_REQUESTS",
         "SEED_PILOT",
         "BOOTSTRAP_FULL",
+        "IMPORT_DISCOVERY_RUN",
         "GITHUB_OUTPUT",
     ):
         monkeypatch.delenv(name, raising=False)
@@ -282,3 +283,16 @@ def test_review_required_never_triggers_publication(automation, monkeypatch, tmp
     write_json(Path(".state/job.json"), {"status": "review_required"})
     automation.batch()
     assert output.read_text() == "status=review_required\n"
+
+
+def test_explicit_discovery_import_after_current_restore(automation, monkeypatch):
+    monkeypatch.setenv("IMPORT_DISCOVERY_RUN", "37391823056")
+    automation.restore_channel = Mock(return_value=True)
+    automation.State = Mock()
+    automation.import_checkpoint = Mock()
+    automation.load_state()
+    automation.import_checkpoint.assert_called_once_with(
+        automation.State.return_value, Path("dist/discovery-import/loc-state.tar.gz")
+    )
+    automation.State.return_value.close.assert_called_once()
+    assert any("37391823056" in call.args for call in automation.command.call_args_list)
