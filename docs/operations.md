@@ -17,7 +17,7 @@
 5. Set repository variable `LOC_MAPS_WEEKLY_ENABLED=true`. The weekly Monday
    08:23 UTC workflow opens or updates a review PR; it never pushes metadata to main.
 
-Auto-continuation is capped at 120 jobs per dispatch chain. Failures stop the chain;
+Explicitly enabled auto-continuation runs bounded jobs until completion. Failures stop the chain;
 budget exhaustion and persisted rate-limit pauses can resume. GitHub Actions
 availability, artifact storage, and organization workflow-token policy must allow
 these operations. Administrators must enable Actions permission to create PRs.
@@ -98,7 +98,7 @@ consistent. Never reset the checkpoint database merely because a run failed.
 The merged 126-item preview can be promoted explicitly without pretending that
 its 200-item pilot inventory covers the full collection. Dispatch `harvest.yml`
 with `mode=full`, `seed_pilot=true`, and `auto_continue=true`. Enable repository
-variable `LOC_MAPS_RECOVERY_ENABLED=true` for hourly recovery of safely paused
+variable `LOC_MAPS_RECOVERY_ENABLED=true` for backup recovery checks every 20 minutes for safely paused
 full-harvest jobs. This recovery workflow is separate from weekly updates.
 
 The bootstrap restores the saved pilot only when no production checkpoint exists.
@@ -112,9 +112,11 @@ is needed. Once production state exists, all subsequent jobs use that state.
 
 Throttle responses double the persisted request interval, capped at 300 seconds.
 After 100 successful requests, it decreases by 20%, never below 30 seconds of rest after each response.
-Cooldowns end the job promptly; the hourly recovery checks the saved deadline and
-resumes only after it expires. It also recovers a safe pause at the 120-job chain
-limit. Completion requires no further dispatch. Failed or cancelled runs produce
+A paused harvest queues its own continuation. Each job waits up to one hour for
+the saved cooldown without contacting LOC, then either harvests or checkpoints
+and queues another wait. The 160-minute job timeout accommodates a one-hour wait
+plus the 80-minute fetch budget and setup. There is no arbitrary total-job cutoff.
+Completion requires no further dispatch. Failed or cancelled runs produce
 a failed recovery check requiring inspection; they are not blindly restarted.
 Disable `LOC_MAPS_RECOVERY_ENABLED` to stop scheduled recovery.
 
@@ -182,3 +184,21 @@ At this pace 60,000 individual item requests alone need at least 500 hours (abou
 three weeks), plus inventory requests, response time, and cooldowns. Completion
 estimates should reflect actual checkpoint progress rather than treating slow but
 healthy harvesting as failure.
+
+
+## Continuation and fallback recovery
+
+Cooldown resumption does not depend solely on GitHub cron. The successful paused
+job saves its checkpoint before dispatching its next job, and that job enforces
+the saved deadline before making any LOC requests. This uses runner time while
+waiting, trading efficiency for a direct continuation path. Set `auto_continue=false`
+on a manually resumed job to stop the chain after that job; do not clear cooldowns.
+
+The backup recovery workflow checks at minutes 7, 27, and 47. Its own concurrency
+group prevents it from displacing a pending harvest. It checks for active harvests
+before dispatching and respects cooldowns. GitHub schedules and runner availability
+are external dependencies; the observed October 5 failure was a hosted runner
+allocation failure before any recovery step executed. A missing runner can still
+require manual recovery. Use the recovery workflow's optional `max_requests=3`
+input for a short verification batch; subsequent harvest continuations use the
+normal budget. A scheduled check never overrides a failed or cancelled harvest.

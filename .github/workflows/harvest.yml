@@ -10,7 +10,7 @@ on:
         type: boolean
         default: false
       auto_continue:
-        description: Continue bounded jobs until complete (maximum 120 jobs)
+        description: Continue bounded jobs and cooldown waits until complete
         type: boolean
         default: true
       round:
