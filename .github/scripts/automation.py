@@ -10,6 +10,7 @@ import time
 from pathlib import Path
 
 from loc_maps.common import now, read_json, write_json
+from loc_maps.discovery import import_checkpoint
 from loc_maps.recovery import promote_pilot
 from loc_maps.snapshot import restore
 from loc_maps.state import State
@@ -97,6 +98,27 @@ def load_state():
         raise RuntimeError(
             "No recoverable checkpoint. Restore state before resuming; do not recreate lifecycle history."
         )
+    recovery_run = os.environ.get("IMPORT_DISCOVERY_RUN", "")
+    if recovery_run:
+        if not recovery_run.isdigit() or CHANNEL != "production":
+            raise ValueError("Discovery import requires a production run ID")
+        command(
+            "gh",
+            "run",
+            "download",
+            recovery_run,
+            "--repo",
+            REPO,
+            "--name",
+            "loc-state-production",
+            "--dir",
+            "dist/discovery-import",
+        )
+        state = State(Path(".state"))
+        try:
+            import_checkpoint(state, Path("dist/discovery-import/loc-state.tar.gz"))
+        finally:
+            state.close()
     branch_exists = bool(command("git", "ls-remote", "--heads", "origin", BRANCH))
     if branch_exists:
         command("git", "fetch", "origin", BRANCH)
@@ -164,6 +186,11 @@ def batch():
         args.append("--retry-failed")
     result = subprocess.run(args, check=False)
     status = {0: "complete", 75: "paused"}.get(result.returncode, "failed")
+    if (
+        status == "complete"
+        and read_json(Path(".state/job.json"), {}).get("status") == "review_required"
+    ):
+        status = "review_required"
     with open(os.environ["GITHUB_OUTPUT"], "a") as output:
         output.write(f"status={status}\n")
     if status == "failed":

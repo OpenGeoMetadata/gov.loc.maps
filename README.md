@@ -155,3 +155,28 @@ access statements are preserved. See [LICENSE](LICENSE),
 - [LOC API limits](https://www.loc.gov/apis/json-and-yaml/working-within-limits/)
 - [OGM reference URIs](https://opengeometadata.org/reference-uris/)
 - [GeoBlacklight schema at the pinned revision](https://github.com/geoblacklight/geoblacklight/blob/691aed7c7762b498afdcc95147717d3ba1f8ebf0/schema/geoblacklight-schema-aardvark.json)
+
+### Incremental production acquisition
+
+Production `run` now keeps a durable union of discovered sources and alternates ten
+item-detail attempts with one search page. Page results and the next-page cursor
+commit together. Changing totals or membership never clear the queue. Existing
+inventory checkpoints migrate automatically; `import_discovery_run` can recover
+saved discoveries from an older production Actions checkpoint without replacing
+current caches, lifecycle history, request pacing, or cooldowns.
+
+The `status` output's `discovery` field reports the acquisition cursor, observed
+source totals, unique discoveries (including excluded/review sources), unresolved
+identifiers, and pending item details. Its cursor supersedes the legacy `run`
+inventory cursor. A second traversal adds discoveries missed as search pages move.
+Neither traversal proves complete coverage of a changing collection. After both
+traversals and all eligible item attempts, acquisition stops with
+`review_required`; per-item failures remain recorded for inspection. It does not
+publish, infer absences, or withdraw records. Publishing incremental acquisitions
+requires a separate reviewed coverage audit; the current strict publication gate
+intentionally rejects this state. The pilot workflow is unchanged.
+
+All search and item requests share the existing sequential client: at least 30
+seconds of rest after a response, persisted adaptive pacing, and immediate
+persisted cooldowns on blocking/overload responses. Recovery imports make no LOC
+requests. Ordinary continuations restore the newest checkpoint automatically.

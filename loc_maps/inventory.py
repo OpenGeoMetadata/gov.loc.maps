@@ -68,46 +68,7 @@ def enumerate_items(state, client, mode="full", new=False):
         if not pilot and run["expected"] is not None and run["expected"] != total:
             restart(state, run, "Inventory count changed during traversal")
             continue
-        records = []
-        for row in results:
-            if not isinstance(row, dict):
-                raise FetchError("Invalid inventory item")
-            summary = meaningful_summary(row)
-            summary.pop("_ogm_exclusion", None)
-            summary.pop("_ogm_unresolved", None)
-            url = source_identity(row)
-            if (
-                url
-                and catalog_bibid(url)
-                and (not isinstance(row.get("item"), dict) or not row["item"])
-            ):
-                summary["_ogm_unresolved"] = "Catalog identifier has no embedded catalog metadata"
-            if url is None:
-                candidate = row.get("url") or row.get("id") or ""
-                if not isinstance(candidate, str):
-                    candidate = ""
-                parsed = urlsplit(candidate)
-                if parsed.hostname in {"www.loc.gov", "loc.gov"}:
-                    reason = "non-item-web-page: no LOC /item/ identifier"
-                elif parsed.hostname == "hdl.loc.gov" and parsed.path.startswith(
-                    "/loc.gmd/eadgmd."
-                ):
-                    # Reviewed LOC Geography and Map Division archival finding aids.
-                    # These describe collections, not a catalog map with an /item/ ID.
-                    reason = "non-item-finding-aid: LOC archival collection description"
-                else:
-                    reason = None
-                if parsed.hostname and parsed.scheme in {"", "http", "https"}:
-                    url = parsed._replace(scheme="https", fragment="").geturl()
-                else:
-                    url = "urn:loc-identifier-review:" + digest(summary)
-                if reason:
-                    summary["_ogm_exclusion"] = reason
-                else:
-                    summary["_ogm_unresolved"] = (
-                        "No supported catalog identifier; source retained for review"
-                    )
-            records.append((run["id"], run["pass"], url, json.dumps(summary), digest(summary)))
+        records = [(run["id"], run["pass"], *row) for row in classify(results)]
         if not results and pagination.get("next"):
             raise FetchError("Empty intermediate inventory page")
         with state.db:
@@ -236,17 +197,19 @@ def identifier_review(state):
     run = state.active_run()
     if not run:
         return []
+    query = (
+        "SELECT url,summary FROM discovery WHERE json_extract(summary,'$._ogm_unresolved') IS NOT NULL ORDER BY url"
+        if state.get("incremental")
+        else "SELECT url,summary FROM seen WHERE run=? AND pass=? AND json_extract(summary,'$._ogm_unresolved') IS NOT NULL ORDER BY url"
+    )
+    params = () if state.get("incremental") else (run["id"], run["pass"])
     return [
         {
             "url": row["url"],
             "reason": json.loads(row["summary"])["_ogm_unresolved"],
             "source": json.loads(row["summary"]),
         }
-        for row in state.db.execute(
-            "SELECT url,summary FROM seen WHERE run=? AND pass=? "
-            "AND json_extract(summary,'$._ogm_unresolved') IS NOT NULL ORDER BY url",
-            (run["id"], run["pass"]),
-        )
+        for row in state.db.execute(query, params)
     ]
 
 
@@ -254,3 +217,45 @@ def write_identifier_review(state):
     issues = identifier_review(state)
     write_json(state.root / "identifier-review.json", issues)
     return issues
+
+
+def classify(results):
+    records = []
+    for row in results:
+        if not isinstance(row, dict):
+            raise FetchError("Invalid inventory item")
+        summary = meaningful_summary(row)
+        summary.pop("_ogm_exclusion", None)
+        summary.pop("_ogm_unresolved", None)
+        url = source_identity(row)
+        if (
+            url
+            and catalog_bibid(url)
+            and (not isinstance(row.get("item"), dict) or not row["item"])
+        ):
+            summary["_ogm_unresolved"] = "Catalog identifier has no embedded catalog metadata"
+        if url is None:
+            candidate = row.get("url") or row.get("id") or ""
+            if not isinstance(candidate, str):
+                candidate = ""
+            parsed = urlsplit(candidate)
+            if parsed.hostname in {"www.loc.gov", "loc.gov"}:
+                reason = "non-item-web-page: no LOC /item/ identifier"
+            elif parsed.hostname == "hdl.loc.gov" and parsed.path.startswith("/loc.gmd/eadgmd."):
+                # Reviewed LOC Geography and Map Division archival finding aids.
+                # These describe collections, not a catalog map with an /item/ ID.
+                reason = "non-item-finding-aid: LOC archival collection description"
+            else:
+                reason = None
+            if parsed.hostname and parsed.scheme in {"", "http", "https"}:
+                url = parsed._replace(scheme="https", fragment="").geturl()
+            else:
+                url = "urn:loc-identifier-review:" + digest(summary)
+            if reason:
+                summary["_ogm_exclusion"] = reason
+            else:
+                summary["_ogm_unresolved"] = (
+                    "No supported catalog identifier; source retained for review"
+                )
+        records.append((url, json.dumps(summary), digest(summary)))
+    return records

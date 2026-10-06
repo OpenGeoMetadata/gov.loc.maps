@@ -25,6 +25,10 @@ from .validation import validate_record, validate_tree
 
 
 def require_inventory(state):
+    if state.get("incremental"):
+        raise ValueError(
+            "Incremental coverage is unverified; publication requires a reviewed coverage audit"
+        )
     run = state.active_run()
     if not run or run["status"] != "complete":
         raise ValueError("A complete inventory is required; previous publication is untouched")
@@ -37,8 +41,8 @@ def needs_fetch(row, cutoff):
     )
 
 
-def fetch(state, client, retry_failed=False):
-    run = require_inventory(state)
+def fetch(state, client, retry_failed=False, *, incremental=False, limit=None):
+    run = state.active_run() if incremental else require_inventory(state)
     if retry_failed:
         with state.db:
             state.db.execute(
@@ -50,13 +54,17 @@ def fetch(state, client, retry_failed=False):
         .replace("+00:00", "Z")
     )
     fetched_this_batch = 0
+    processed = 0
     for row in state.db.execute(
         "SELECT * FROM items WHERE last_seen=? ORDER BY COALESCE(fetched_at,''),url", (run["id"],)
-    ).fetchall():
+    ):
+        if limit is not None and processed >= limit:
+            break
         if not needs_fetch(row, cutoff) and (state.root / row["cache"]).exists():
             continue
         if row["attempts"] >= 3:
             continue
+        processed += 1
         try:
             if catalog_bibid(row["url"]):
                 summary = json.loads(row["summary"])
@@ -83,6 +91,8 @@ def fetch(state, client, retry_failed=False):
                     "UPDATE items SET cache=?,fetched_at=?,fetched_hash=?,attempts=0,error=NULL WHERE url=?",
                     (str(path), now(), row["hash"], row["url"]),
                 )
+            if incremental:
+                print(f"Saved item details: {row['url']}", flush=True)
             fetched_this_batch += 1
             if fetched_this_batch % 25 == 0:
                 print(f"Fetched {fetched_this_batch} item details in this batch", flush=True)
@@ -101,9 +111,12 @@ def fetch(state, client, retry_failed=False):
     ]
     if errors:
         write_json(state.root / "errors.json", errors)
+    if errors and not incremental:
         raise FetchError(
             f"{len(errors)} items could not be fetched; retry with --retry-failed after inspection"
         )
+
+    return processed
 
 
 def stable_record(record, previous, modified):
