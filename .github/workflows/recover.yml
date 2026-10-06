@@ -1,13 +1,18 @@
 name: Recover paused LOC bootstrap
 on:
   workflow_dispatch:
+    inputs:
+      max_requests:
+        description: First recovered batch budget (continuations use the normal budget)
+        type: string
+        default: '700'
   schedule:
-    - cron: '41 * * * *'
+    - cron: '7,27,47 * * * *'
 permissions:
   contents: read
   actions: write
 concurrency:
-  group: loc-maps-harvest
+  group: loc-maps-recovery
   cancel-in-progress: false
 jobs:
   recover:
@@ -18,6 +23,7 @@ jobs:
       GH_TOKEN: ${{ github.token }}
       REPOSITORY: ${{ github.repository }}
       MODE: full
+      MAX_REQUESTS: ${{ inputs.max_requests || '700' }}
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6

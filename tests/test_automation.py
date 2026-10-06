@@ -29,7 +29,7 @@ def automation(monkeypatch, tmp_path):
     return module
 
 
-def test_continuation_preserves_mode_and_is_bounded(automation, monkeypatch):
+def test_continuation_preserves_mode_beyond_old_round_limit(automation, monkeypatch):
     monkeypatch.setenv("AUTO_CONTINUE", "true")
     monkeypatch.setenv("ROUND", "119")
     automation.continue_run()
@@ -38,7 +38,7 @@ def test_continuation_preserves_mode_and_is_bounded(automation, monkeypatch):
     automation.command.reset_mock()
     monkeypatch.setenv("ROUND", "120")
     automation.continue_run()
-    automation.command.assert_not_called()
+    assert "round=121" in automation.command.call_args.args
 
 
 def test_disabled_continuation_does_not_dispatch(automation, monkeypatch):
@@ -98,21 +98,36 @@ def test_existing_production_state_never_promoted(automation, monkeypatch):
     automation.promote_pilot.assert_not_called()
 
 
-def test_cooldown_exits_batch_without_network_or_sleep(automation, monkeypatch, tmp_path):
+def test_long_cooldown_waits_bounded_time_without_network(automation, monkeypatch, tmp_path):
     from loc_maps.state import State
 
     monkeypatch.chdir(tmp_path)
     output = tmp_path / "output"
     monkeypatch.setenv("GITHUB_OUTPUT", str(output))
     state = State(Path(".state"))
-    state.set("pause_until", automation.time.time() + 8000)
+    clock = [1000.0]
+    monotonic = [0.0]
+    sleeps = []
+
+    def sleep(seconds):
+        sleeps.append(seconds)
+        clock[0] += seconds
+        monotonic[0] += seconds
+
+    monkeypatch.setattr(automation.time, "time", lambda: clock[0])
+    monkeypatch.setattr(automation.time, "monotonic", lambda: monotonic[0])
+    monkeypatch.setattr(automation.time, "sleep", sleep)
+    state.set("pause_until", clock[0] + 8000)
     state.close()
     automation.subprocess = Mock()
     automation.batch()
     automation.subprocess.run.assert_not_called()
     assert output.read_text() == "status=paused\n"
+    assert sum(sleeps) == 3600
+    assert max(sleeps) <= 60
+    monkeypatch.setenv("AUTO_CONTINUE", "true")
     automation.continue_run()
-    automation.command.assert_not_called()
+    assert "continuation=true" in automation.command.call_args.args
 
 
 @pytest.mark.parametrize(
@@ -222,3 +237,36 @@ def test_checkpoint_selection_uses_creation_time_not_artifact_id(automation):
     assert automation.restore_channel("production")
     assert automation.command.call_args.args[:4] == ("gh", "run", "download", "2")
     automation.restore.assert_called_once()
+
+
+def test_short_cooldown_finishes_before_fetch(automation, monkeypatch, tmp_path):
+    from loc_maps.state import State
+
+    clock = [1000.0]
+    monkeypatch.setattr(automation.time, "time", lambda: clock[0])
+    monkeypatch.setattr(automation.time, "monotonic", lambda: clock[0])
+    monkeypatch.setattr(
+        automation.time, "sleep", lambda seconds: clock.__setitem__(0, clock[0] + seconds)
+    )
+    state = State(Path(".state"))
+    state.set("pause_until", 1090)
+    state.close()
+    assert automation.wait_for_cooldown()
+    assert clock[0] == 1090
+
+
+def test_recovery_can_dispatch_small_verification_batch(automation, monkeypatch):
+    from loc_maps.common import write_json
+
+    monkeypatch.setenv("MAX_REQUESTS", "3")
+    automation.api = Mock(
+        return_value={
+            "workflow_runs": [{"id": 123, "status": "completed", "conclusion": "success"}]
+        }
+    )
+    write_json(
+        Path("dist/recovery/status.json"),
+        {"job": {"mode": "full", "status": "paused"}, "pause_until": 0},
+    )
+    automation.recover_paused()
+    assert "max_requests=3" in automation.command.call_args.args

@@ -109,25 +109,42 @@ def load_state():
         )
 
 
-def batch():
-    if Path(".state/state.sqlite").exists():
-        state = State(Path(".state"))
-        cooldown = max(0, state.get("pause_until", 0) - time.time())
+def wait_for_cooldown():
+    """Wait at most one hour per job; never contact LOC during a cooldown."""
+    if not Path(".state/state.sqlite").exists():
+        return True
+    state = State(Path(".state"))
+    try:
+        pause_until = state.get("pause_until", 0)
+    finally:
         state.close()
-        if cooldown:
-            write_json(
-                Path(".state/job.json"),
-                {
-                    "status": "paused",
-                    "mode": MODE,
-                    "reason": "Persisted LOC cooldown",
-                    "updated_at": now(),
-                },
-            )
-            with open(os.environ["GITHUB_OUTPUT"], "a") as output:
-                output.write("status=paused\n")
-            print(f"Cooldown active for {cooldown:.0f}s; hourly recovery will resume it")
-            return
+    deadline = time.monotonic() + 3600
+    if pause_until > time.time():
+        print(
+            f"Respecting LOC cooldown until {pause_until}; waiting without LOC requests", flush=True
+        )
+    while pause_until > time.time():
+        remaining = deadline - time.monotonic()
+        if remaining <= 0:
+            return False
+        time.sleep(min(60, remaining, pause_until - time.time()))
+    return True
+
+
+def batch():
+    if not wait_for_cooldown():
+        write_json(
+            Path(".state/job.json"),
+            {
+                "status": "paused",
+                "mode": MODE,
+                "reason": "Persisted LOC cooldown; continuation will keep waiting",
+                "updated_at": now(),
+            },
+        )
+        with open(os.environ["GITHUB_OUTPUT"], "a") as output:
+            output.write("status=paused\n")
+        return
     budget = int(os.environ.get("MAX_REQUESTS", "700"))
     if not 1 <= budget <= 700:
         raise ValueError("Request budget must be between 1 and 700")
@@ -261,20 +278,12 @@ def propose():
 
 
 def continue_run():
-    if Path(".state/state.sqlite").exists():
-        state = State(Path(".state"))
-        try:
-            if state.get("pause_until", 0) > time.time():
-                print("Cooldown active; scheduled recovery will resume after expiry")
-                return
-        finally:
-            state.close()
     current = int(os.environ.get("ROUND", "1"))
-    if os.environ.get("AUTO_CONTINUE") != "true" or current >= 120:
-        print(
-            "Checkpoint saved. Manual resume required (auto-continuation disabled or 120-job limit reached)."
-        )
+    if os.environ.get("AUTO_CONTINUE") != "true":
+        print("Checkpoint saved. Automatic continuation disabled.")
         return
+    # Continue both work and cooldowns. The next bounded job checks the persisted
+    # deadline before making any request; cron is a fallback, not the only wakeup.
     command(
         "gh",
         "workflow",
@@ -362,6 +371,9 @@ def recover_paused():
         return
     if status.get("pause_until", 0) > time.time():
         return
+    budget = int(os.environ.get("MAX_REQUESTS", "700"))
+    if not 1 <= budget <= 700:
+        raise ValueError("Request budget must be between 1 and 700")
     command(
         "gh",
         "workflow",
@@ -377,6 +389,8 @@ def recover_paused():
         "continuation=true",
         "-f",
         "auto_continue=true",
+        "-f",
+        f"max_requests={budget}",
     )
 
 
