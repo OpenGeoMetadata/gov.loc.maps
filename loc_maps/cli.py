@@ -7,6 +7,8 @@ from pathlib import Path
 
 from .client import MIN_INTERVAL, Client, Paused
 from .common import now, read_json, write_json
+from .discovery import harvest
+from .discovery import status as discovery_status
 from .inventory import enumerate_items, identifier_review
 from .pipeline import fetch, publish, transform
 from .snapshot import restore, snapshot
@@ -83,6 +85,7 @@ def main(argv=None):
                     json.dumps(
                         {
                             "run": dict(run) if run else None,
+                            "discovery": discovery_status(state),
                             "items": state.db.execute("SELECT COUNT(*) FROM items").fetchone()[0],
                             "cached": state.db.execute(
                                 "SELECT COUNT(*) FROM items WHERE cache IS NOT NULL"
@@ -103,6 +106,18 @@ def main(argv=None):
                 snapshot(state, args.archive)
                 return 0
             client = Client(state, args.max_requests, args.max_seconds)
+            if args.command == "run" and args.mode != "pilot":
+                if args.retry_failed:
+                    with state.db:
+                        state.db.execute(
+                            "UPDATE items SET attempts=0,error=NULL WHERE error IS NOT NULL"
+                        )
+                harvest(state, client, args.mode)
+                write_json(
+                    args.state / "job.json",
+                    {"status": "review_required", "mode": args.mode, "updated_at": now()},
+                )
+                return 0
             if args.command in {"inventory", "run"}:
                 current = state.active_run()
                 new = args.new_inventory and (not current or current["applied"])

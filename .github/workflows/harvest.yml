@@ -28,6 +28,10 @@ on:
         description: Explicitly seed first full harvest from verified pilot cache
         type: boolean
         default: false
+      import_discovery_run:
+        description: Recover discoveries from an older production checkpoint run
+        type: string
+        default: ''
       bootstrap_full:
         description: After the pilot PR, start the full production harvest
         type: boolean
@@ -56,6 +60,7 @@ jobs:
       MAX_REQUESTS: ${{ inputs.max_requests || '700' }}
       SEED_PILOT: ${{ inputs.seed_pilot || 'false' }}
       BOOTSTRAP_FULL: ${{ inputs.bootstrap_full || 'false' }}
+      IMPORT_DISCOVERY_RUN: ${{ inputs.import_discovery_run || '' }}
       REPOSITORY: ${{ github.repository }}
     steps:
       - uses: actions/checkout@v4

@@ -270,3 +270,15 @@ def test_recovery_can_dispatch_small_verification_batch(automation, monkeypatch)
     )
     automation.recover_paused()
     assert "max_requests=3" in automation.command.call_args.args
+
+
+def test_review_required_never_triggers_publication(automation, monkeypatch, tmp_path):
+    from loc_maps.common import write_json
+
+    output = tmp_path / "output"
+    monkeypatch.setenv("GITHUB_OUTPUT", str(output))
+    monkeypatch.setattr(automation, "wait_for_cooldown", lambda: True)
+    monkeypatch.setattr(automation.subprocess, "run", Mock(return_value=Mock(returncode=0)))
+    write_json(Path(".state/job.json"), {"status": "review_required"})
+    automation.batch()
+    assert output.read_text() == "status=review_required\n"
