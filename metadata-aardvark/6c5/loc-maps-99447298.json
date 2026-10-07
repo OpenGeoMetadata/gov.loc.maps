@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Western and Atlantic Railroad Company",
+    "Description derived from published bibliography.",
+    "Library of Congress. Civil War maps (2nd ed.), 132.8",
+    "Publication statement: Buffalo, N.Y., Matthews, Northrup & Co., Art-Printing Works, [1864]",
+    "Scale ca. 1:350,000.",
+    "Shows location of battles of Lay's or Tanner's Ferry, Adairsville, and Cassville, roads, railroads, towns, drainage, and relief by hachures.",
+    "Shows location of battles of Lay's or Tanner's Ferry, Adairsville, and Cassville, roads, railroads, towns, drainage, and relief by hachures. Description derived from published bibliography. Scale ca. 1:350,000. Library of Congress. Civil War maps (2nd ed.), 132.8 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3923b.cw0132800",
+    "http://lccn.loc.gov/99447298",
+    "http://www.loc.gov/item/99447298/",
+    "http://www.loc.gov/resource/g3923b.cw0132800/",
+    "https://hdl.loc.gov/loc.gmd/g3923b.cw0132800",
+    "https://search.catalog.loc.gov/instances/a41a23c7-6c52-5613-a975-52286aee8567",
+    "https://www.loc.gov/item/99447298/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3923/g3923b/cw0132800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447298/\"}",
+  "dct_spatial_sm": [
+    "bartow county",
+    "georgia",
+    "gordon county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlanta Campaign",
+    "Atlanta Campaign--Maps",
+    "Bartow County (Ga.)--History--Civil War, 1861-1865--Maps",
+    "Gordon County (Ga.)--History--Civil War, 1861-1865--Maps",
+    "United States--Georgia--Bartow County",
+    "United States--Georgia--Gordon County"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Map of Rome, Adairsville and vicinity",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447298",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

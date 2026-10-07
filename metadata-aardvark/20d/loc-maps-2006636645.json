@@ -1,0 +1,49 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Homann, Johann Baptist, 1663-1724; Homann, Johann Christoph, 1703-1730",
+    "From: Schul-atlas.",
+    "Includes text: Benevole Spectator (Kindly observer) / by Johann Baptist Homann.",
+    "Includes text: Benevole Spectator (Kindly observer) / by Johann Baptist Homann. From: Schul-atlas. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [S.l.] : Johann Christoph Homann , [1743?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7400.ct001983",
+    "http://lccn.loc.gov/2006636645",
+    "http://www.loc.gov/item/2006636645/",
+    "http://www.loc.gov/resource/g7400.ct001983/",
+    "https://hdl.loc.gov/loc.gmd/g7400.ct001983",
+    "https://search.catalog.loc.gov/instances/48284534-6889-54f2-830c-5b5ec71bfd50",
+    "https://www.loc.gov/item/2006636645/"
+  ],
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7400/g7400/ct001983.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006636645/\"}",
+  "dct_spatial_sm": [
+    "asia"
+  ],
+  "dct_subject_sm": [
+    "Asia",
+    "Asia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1743",
+    "[S.l.] : Johann Christoph Homann , [1743?]"
+  ],
+  "dct_title_s": "Recentissima Asiae delineatio, qua imperia, ejus, regna, et status, unacum novissimis Russorum detectionibg circa Mare Caspium et Terram, Yedso alias dict",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006636645",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

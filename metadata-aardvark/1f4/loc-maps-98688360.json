@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ensign, Bridgman & Fanning",
+    "Description derived from published bibliography.",
+    "Insets: Plan of the New England States, on an enlarged scale. 37 x 23 cm.--Niagara Falls, Canada side. 8 x 12 cm.",
+    "LC Railroad maps, 85",
+    "Map of New England, part of eastern Canada, New York, Pennsylvania, New Jersey, Delaware, most of Maryland, and part of Virginia. Shows drainage, some relief by hachures, place names, and state boundaries. \"Names of rail roads which are designated by numbers on the annexed 'Plan of the New England States'\" appear at the right of the map.",
+    "Publication statement: New York, 1856.",
+    "Scale [ca. 1:3,000,000]."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3716p.rr000850",
+    "http://lccn.loc.gov/98688360",
+    "http://www.loc.gov/item/98688360/",
+    "http://www.loc.gov/resource/g3716p.rr000850/",
+    "https://hdl.loc.gov/loc.gmd/g3716p.rr000850",
+    "https://search.catalog.loc.gov/instances/b82affc8-6a62-5740-a035-11230825ff75",
+    "https://www.loc.gov/item/98688360/"
+  ],
+  "dct_issued_s": "1856",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3716/g3716p/rr000850.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688360/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "new england",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Middle Atlantic States--Maps",
+    "Railroads--New England--Maps",
+    "United States--Middle Atlantic States",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "dct_title_s": "Ensign, Bridgman & Fanning's rail road map of the Eastern States",
+  "gbl_dateRange_drsim": [
+    "[1856 TO 1856]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1856
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688360",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

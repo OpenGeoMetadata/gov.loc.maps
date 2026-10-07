@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotated in brown ink in upper left corner: 46.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes relief profile.",
+    "LC Luso-Hispanic World, 339",
+    "Maggs number annotated in pencil in lower right corner: 239.",
+    "Mounted on cloth backing.",
+    "Pen-and-ink.",
+    "Publication statement: [1792]",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Relief shown pictorially. Depths shown by soundings. Watermark: J. Whatman. Pen-and-ink. Mounted on cloth backing. Includes relief profile. Annotated in brown ink in upper left corner: 46. Maggs number annotated in pencil in lower right corner: 239. LC Luso-Hispanic World, 339 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermark: J. Whatman."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4922n.lh000339",
+    "http://lccn.loc.gov/91680693",
+    "http://www.loc.gov/item/91680693/",
+    "http://www.loc.gov/resource/g4922n.lh000339/",
+    "https://hdl.loc.gov/loc.gmd/g4922n.lh000339",
+    "https://search.catalog.loc.gov/instances/3a767a44-4238-5962-bd36-a12de7028dd1",
+    "https://www.loc.gov/item/91680693/"
+  ],
+  "dct_issued_s": "1792",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4922/g4922n/lh000339.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91680693/\"}",
+  "dct_spatial_sm": [
+    "cuba",
+    "naranjo bay"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Cuba--Naranjo Bay--Maps--Early works to 1800",
+    "Cuba--Naranjo Bay",
+    "Manuscript maps--Early works to 1800",
+    "Naranjo Bay (Cuba)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1792"
+  ],
+  "dct_title_s": "Plano del Puerto Naranjos cituado 4 leguas al oeste de Punta de Mulas en la costa del N. de la ysla de Cuba",
+  "gbl_dateRange_drsim": [
+    "[1792 TO 1792]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1792
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91680693",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

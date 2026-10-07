@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Worden, A. E.",
+    "Includes advertisements.",
+    "Includes advertisements. Available also through the Library of Congress web site as a raster image.",
+    "Publication statement: Fulton : A.E. Worden, [1903?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804f.ct001202",
+    "http://lccn.loc.gov/2004629163",
+    "http://www.loc.gov/item/2004629163/",
+    "http://www.loc.gov/resource/g3804f.ct001202/",
+    "https://hdl.loc.gov/loc.gmd/g3804f.ct001202",
+    "https://search.catalog.loc.gov/instances/58b4d3f6-f7c6-5025-a025-0bbe6befb7c8",
+    "https://www.loc.gov/item/2004629163/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804f/ct001202.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004629163/\"}",
+  "dct_spatial_sm": [
+    "fulton",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fulton (N.Y.)--Maps",
+    "United States--New York (State)--Fulton"
+  ],
+  "dct_temporal_sm": [
+    "1903",
+    "Fulton : A.E. Worden, [1903?]"
+  ],
+  "dct_title_s": "Street map of Fulton, N.Y. : with street numbers",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004629163",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

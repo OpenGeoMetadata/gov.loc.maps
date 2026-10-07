@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Senex, John, -1740; Whiston, William, 1667-1752",
+    "Includes text.",
+    "Includes text. LC copy stamped in blue ink in lower left margin: 82A. LC copy imperfect: Darkened, use-worn, losses along edges, mounted on cloth. Available also through the Library of Congress Web site as a raster image.",
+    "LC copy imperfect: Darkened, use-worn, losses along edges, mounted on cloth.",
+    "LC copy stamped in blue ink in lower left margin: 82A.",
+    "Publication statement: London : Sold by Iohn Senex, Book, Map & Globe-seller, at the Globe in Salisbury Court near Fleet Street, [1720?]; London : [I. Senex?], [1720?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3180.ct003811",
+    "http://lccn.loc.gov/2013593144",
+    "http://www.loc.gov/item/2013593144/",
+    "http://www.loc.gov/resource/g3180.ct003811/",
+    "https://hdl.loc.gov/loc.gmd/g3180.ct003811",
+    "https://search.catalog.loc.gov/instances/4d84f710-110e-5be8-82bf-f2b44a5048e7",
+    "https://www.loc.gov/item/2013593144/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3180/g3180/ct003811.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593144/\"}",
+  "dct_spatial_sm": [
+    "solar system"
+  ],
+  "dct_subject_sm": [
+    "Comets",
+    "Comets--Observations",
+    "Comets--Orbits--Charts, diagrams, etc",
+    "Newton, Isaac,--1642-1727",
+    "Solar system",
+    "Solar system--Early works to 1800",
+    "Solar system--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1720",
+    "London : Sold by Iohn Senex, Book, Map & Globe-seller, at the Globe in Salisbury Court near Fleet Street, [1720?]",
+    "London : [I. Senex?], [1720?]"
+  ],
+  "dct_title_s": "A scheme of the Solar system with the orbits of the planets and comets belonging thereto",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593144",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

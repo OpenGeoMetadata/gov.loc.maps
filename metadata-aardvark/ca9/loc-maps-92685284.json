@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Department of the Interior. Southwestern Pennsylvania Heritage Preservation Commission",
+    "Includes text, ancillary maps of central Johnstown and Altoona, location map, and col. ill.",
+    "Includes text, ancillary maps of central Johnstown and Altoona, location map, and col. ill. Text, location map, and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Hollidaysburg, Pa.?] : The Commission, [1992?]",
+    "Text, location map, and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824a.ct008288",
+    "http://lccn.loc.gov/92685284",
+    "http://www.loc.gov/item/92685284/",
+    "http://www.loc.gov/resource/g3824a.ct008288/",
+    "https://hdl.loc.gov/loc.gmd/g3824a.ct008288",
+    "https://search.catalog.loc.gov/instances/58339b10-8a86-5ce6-bf14-21e907396444",
+    "https://www.loc.gov/item/92685284/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824a/ct008288.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92685284/\"}",
+  "dct_spatial_sm": [
+    "altoona",
+    "altoona region",
+    "cambria county",
+    "johnstown",
+    "johnstown region",
+    "johnstown region (cambria county)",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Altoona (Pa.)--Maps",
+    "Altoona Region (Pa.)--Tours--Maps",
+    "Heritage tourism--Pennsylvania--Altoona Region--Maps",
+    "Heritage tourism--Pennsylvania--Johnstown Region (Cambria County)--Maps",
+    "Industrial archaeology--Pennsylvania--Altoona Region--Maps",
+    "Industrial archaeology--Pennsylvania--Johnstown Region (Cambria County)--Maps",
+    "Johnstown (Cambria County, Pa.)--Maps",
+    "Johnstown Region (Cambria County, Pa.)--Tours--Maps",
+    "United States--Pennsylvania--Altoona Region",
+    "United States--Pennsylvania--Johnstown Region (Cambria County)"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "[Hollidaysburg, Pa.?] : The Commission, [1992?]"
+  ],
+  "dct_title_s": "Southwestern Pennsylvania heritage route guide, Altoona-Johnstown : discover industry's legacy",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92685284",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

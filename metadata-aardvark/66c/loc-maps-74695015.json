@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: American Imprint Collection (Library of Congress); Miscellaneous Pamphlet Collection (Library of Congress); Spilsbury, John, 1739-1769",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Scale ca. 1:12,000,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 89 Available also through the Library of Congress Web site as a raster image. Vault. AACR2: 651/1 LAC scc 2019-04-12 no edits (3 cards)",
+    "LAC scc 2019-04-12 no edits (3 cards)",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 89",
+    "Publication statement: [n.p.] 1763",
+    "Relief shown pictorially.",
+    "Scale ca. 1:12,000,000.",
+    "Vault."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar008901",
+    "http://hdl.loc.gov/loc.gmd/g3300.ar008903",
+    "http://lccn.loc.gov/74695015",
+    "http://www.loc.gov/item/74695015/",
+    "http://www.loc.gov/resource/g3300.ar008901/",
+    "http://www.loc.gov/resource/g3300.ar008903/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar008901",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar008903",
+    "https://search.catalog.loc.gov/instances/f30f04b1-a665-5a64-a1a9-aa3e58a1e3f0",
+    "https://www.loc.gov/item/74695015/"
+  ],
+  "dct_issued_s": "1763",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar008901.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74695015/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1763"
+  ],
+  "dct_title_s": "A new map of North America from the latest discoveries",
+  "gbl_dateRange_drsim": [
+    "[1763 TO 1763]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1763
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74695015",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

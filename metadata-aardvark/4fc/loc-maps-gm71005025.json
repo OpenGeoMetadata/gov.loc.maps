@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Map of embankment project of the Yellow River",
+    "Map of embankment project of the Yellow River",
+    "[豫省黃河南岸堤垻工程圖]"
+  ],
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2; 650/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hummel, Arthur W. (Arthur William), Sr., 1884-1975",
+    "Hummel purchase 1930, no. 24.",
+    "Pictorial map.",
+    "Publication statement: [1875?]",
+    "Relief shown pictorially.",
+    "Scale not given.",
+    "Shows flood control system.",
+    "Unfinished manuscript.",
+    "Unfinished manuscript. Pictorial map. Shows flood control system. Relief shown pictorially. Hummel purchase 1930, no. 24. Scale not given. Available also through the Library of Congress Web site as a raster image. AACR2: 650/1; 651/2; 650/3"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7822y.ct003438",
+    "http://lccn.loc.gov/gm71005025",
+    "http://www.loc.gov/item/gm71005025/",
+    "http://www.loc.gov/resource/g7822y.ct003438/",
+    "https://hdl.loc.gov/loc.gmd/g7822y.ct003438",
+    "https://search.catalog.loc.gov/instances/11da3dd5-7b7c-5059-8a10-bd962469f04d",
+    "https://www.loc.gov/item/gm71005025/"
+  ],
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7822/g7822y/ct003438.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005025/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "yellow river"
+  ],
+  "dct_subject_sm": [
+    "China--Yellow River",
+    "Flood control--China--Yellow River--Maps",
+    "Yellow River (China)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1875",
+    "[1875?]"
+  ],
+  "dct_title_s": "[Yu sheng Huang He nan an di ba gong cheng tu]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005025",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

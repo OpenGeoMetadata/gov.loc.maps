@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Blue Ridge Parkway",
+    "Blue Ridge Parkway, Virginia and North Carolina, official map and guide",
+    "Panel title: Blue Ridge Parkway, Virginia and North Carolina, official map and guide"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 1996--404-952/40200. Reprint 1998.\"",
+    "\"*GPO: 1996--404-952/40200. Reprint 1998.\" Relief shown by spot heights. Text, col. ill., and table of park facilities on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Publication statement: [Washington, D.C.] : The Service, [1996]",
+    "Relief shown by spot heights.",
+    "Text, col. ill., and table of park facilities on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/98687071",
+    "http://www.loc.gov/item/98687071/",
+    "http://www.loc.gov/resource/g3902b.ct009605/",
+    "https://hdl.loc.gov/loc.gmd/g3902b.ct009605",
+    "https://search.catalog.loc.gov/instances/6b84450a-98e2-5a6e-beba-fe70ee4b7ac2",
+    "https://www.loc.gov/item/98687071/"
+  ],
+  "dct_issued_s": "1996",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902b/ct009605.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687071/\"}",
+  "dct_spatial_sm": [
+    "blue ridge parkway",
+    "north carolina",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Blue Ridge Parkway (N.C. and Va.)--Maps",
+    "United States--North Carolina--Blue Ridge Parkway",
+    "United States--Virginia--Blue Ridge Parkway"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "dct_title_s": "Blue Ridge Parkway, Virginia and North Carolina",
+  "gbl_dateRange_drsim": [
+    "[1996 TO 1996]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687071",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

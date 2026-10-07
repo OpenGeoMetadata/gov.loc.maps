@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "岳阳至长江入海及自江陰沿大运河至北京故宮水道彩色图"
+  ],
+  "dct_description_sm": [
+    "Content in Chinese.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of China.",
+    "Original resource extent: 1 scroll ; 31 x 945 centimeters.",
+    "Publication statement: [Place of publication not identified] : [Publisher not identified], [1736 to 1861]",
+    "The world-famous Beijing-Hangzhou Grand Canal is the oldest and longest artificial waterway in the world. Starting from Beijing in the north, it passes southwards to Hangzhou. Construction of the canal, which links some of China's most important river networks, began in the fifth century BC. By the 13th century, the total length of the canal was more than 2,000 kilometers. Today, its length is 1794 kilometers. This map, executed in the traditional painting style, shows its entire length in a single long scroll. It is one of the key representative historical maps of the Grand Canal. The map includes the sections of the Yangtze River from below the Jing River to its estuary and sections through the important cities of Shaoxing and Hangzhou, until it ultimately reaches the imperial city of Beijing. Currents, place names, sluices, and dams along the waterway are marked. Pictorial images of cities, mountains, and rivers are provided. Prefectures and counties, as well as rivers and lakes, are given textual notations. The transport routes of grain ships are clearly indicated at key navigation courses and lock gates. Details concerning distances are provided for every section of the waterway. Information on water conservancy is also provided in great detail. The Grand Canal was added to the UNESCO World Heritage List in June 2014.",
+    "Title devised, in English, by Library staff.",
+    "Title revised per Asian Division.--cc28 2023-01-06"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668277",
+    "http://www.loc.gov/item/2021668277/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_13531/",
+    "http://www.loc.gov/resource/wdl.13531/",
+    "https://hdl.loc.gov/loc.wdl/wdl.13531",
+    "https://www.loc.gov/item/2021668277/"
+  ],
+  "dct_issued_s": "1736",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_13531.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/13/53/1/wdl_13531/wdl_13531.pdf\"}, {\"label\": \"ZIP: wdl_13531.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/13/53/1/wdl_13531/wdl_13531.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:13:53:1:wdl_13531:006/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668277/\"}",
+  "dct_spatial_sm": [
+    "beijing",
+    "china",
+    "hebei province",
+    "jiangsu province",
+    "shandong province",
+    "tianjin",
+    "zhejiang province"
+  ],
+  "dct_subject_sm": [
+    "1736 to 1861",
+    "Canals",
+    "China--Beijing--Beijing",
+    "China--Hebei Province",
+    "China--Jiangsu Province",
+    "China--Shandong Province",
+    "China--Tianjin--Tianjin",
+    "China--Zhejiang Province",
+    "Grand Canal (China)",
+    "Shipping",
+    "Yangtze River (China)"
+  ],
+  "dct_temporal_sm": [
+    "1736"
+  ],
+  "dct_title_s": "Yueyang zhi Chang Jiang ru hai ji zi Jiangyin yan Da Yunhe zhi Beijing gu gong shui dao cai se tu",
+  "gbl_dateRange_drsim": [
+    "[1736 TO 1736]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1736
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668277",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

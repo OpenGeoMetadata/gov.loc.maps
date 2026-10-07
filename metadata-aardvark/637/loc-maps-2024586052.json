@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Blue Earth Bathymetry is an edited version of GEBCO (General Bathymetric Chart of the Oceans), a public domain dataset that combines ocean bottom and land elevation data of the entire world. Because GEBCO derives from a mix of sources and contains unsightly artifacts, I created Blue Earth as a smoother alternative for making small-scale maps. It is available as a free GeoTIFF DEM from which you can render seafloor maps much like those shown above. Blue Earth Bathymetry replaces CleanTOPO2, a similar product derived from less accurate sources that I released in 2006.\"--shadedrelief.com ; viewed on August 28, 2024.",
+    "1 digital georeferenced map.",
+    "1 digital georeferenced map. \"Blue Earth Bathymetry is an edited version of GEBCO (General Bathymetric Chart of the Oceans), a public domain dataset that combines ocean bottom and land elevation data of the entire world. Because GEBCO derives from a mix of sources and contains unsightly artifacts, I created Blue Earth as a smoother alternative for making small-scale maps. It is available as a free GeoTIFF DEM from which you can render seafloor maps much like those shown above. Blue Earth Bathymetry replaces CleanTOPO2, a similar product derived from less accurate sources that I released in 2006.\"--shadedrelief.com ; viewed on August 28, 2024. Title from ShadedRelief.com ; viewed on August 28, 2024. MARS acquisition no. : ACQ0010941.",
+    "Contributors: Patterson, Tom, cartographer",
+    "MARS acquisition no. : ACQ0010941.",
+    "Publication statement: [Virginia?] : Tom Patterson, June 22, 2020.",
+    "Title from ShadedRelief.com ; viewed on August 28, 2024."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024586052",
+    "http://www.loc.gov/item/2024586052/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586052/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586052",
+    "https://search.catalog.loc.gov/instances/6a5e5adb-ed7d-5704-9818-a3860d616a44",
+    "https://www.loc.gov/item/2024586052/",
+    "https://www.shadedrelief.com/blue-earth/"
+  ],
+  "dct_issued_s": "2020",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2024586052/\"}",
+  "dct_rights_sm": [
+    "Creative Commons Public Domain 4.0 International CC0 4.0 https://creativecommons.org/public-domain/cc0/"
+  ],
+  "dct_spatial_sm": [
+    "earth (planet)",
+    "oceans"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)",
+    "Ocean bottom--Maps",
+    "Oceans",
+    "Oceans--Maps",
+    "Submarine topography--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "dct_title_s": "Blue Earth bathymetry : generalized GEBCO data for seafloor mapping",
+  "gbl_dateRange_drsim": [
+    "[2020 TO 2020]"
+  ],
+  "gbl_displayNote_sm": [
+    "Unrestricted online access.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024586052",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

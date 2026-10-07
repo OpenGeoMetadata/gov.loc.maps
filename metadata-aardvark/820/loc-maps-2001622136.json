@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "1:100,000-scale digital line graph data, hydrography/transportation",
+    "One to one hundred thousand-scale digital line graph data, hydrography/transportation"
+  ],
+  "dct_description_sm": [
+    "Contributors: geological survey (u.s.). national mapping division",
+    "Publication statement: Washington, D.C. : Library of Congress, 2023.",
+    "Title devised by the cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2001622136",
+    "http://lccn.loc.gov/2023270516",
+    "http://www.loc.gov/item/2001622136/",
+    "http://www.loc.gov/item/2023270516/",
+    "http://www.loc.gov/resource/gdcdatasets.00198967506/",
+    "http://www.loc.gov/resource/gdcdatasets.2023270516/",
+    "http://www.loc.gov/resource/gdcdatasets.2023270516_documentation/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.00198967506",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2023270516",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2023270516_documentation",
+    "https://search.catalog.loc.gov/instances/34e5a0c1-3cec-5cca-add8-cea3644c2c0d",
+    "https://search.catalog.loc.gov/instances/597a3fca-9939-545b-9cdc-b298247c0a43",
+    "https://www.loc.gov/item/2001622136/"
+  ],
+  "dct_issued_s": "2019",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2001622136/\"}",
+  "dct_rights_sm": [
+    "The Library of Congress is providing access to \"Access: The Supplementary Index to Periodicals\" for educational and research purposes under a license from the rightsholder. The rightsholder has not made the collection available for commercial or consortia use. For rights information, please see \"LICENSE.TXT\" and \"Access2013SubscriberLtr_NEW.jpg\" files inside the data package. You are responsible for determining whether your use of the items in this collection is legal. You are also responsible for securing any permissions needed for use of protected items beyond that allowed by the license, fair use, or other statutory exemptions."
+  ],
+  "dct_spatial_sm": [
+    "northeastern states"
+  ],
+  "dct_subject_sm": [
+    "data sets",
+    "digital",
+    "hydrology",
+    "maps",
+    "northeastern states",
+    "topographic maps",
+    "transportation"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dct_title_s": "Dataset from Access : The supplementary index to periodicals",
+  "gbl_dateRange_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001622136",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

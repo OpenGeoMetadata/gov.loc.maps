@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title: Jamestown, the beginning",
+    "Jamestown, the beginning"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 2001--472-470/00430. Reprint 2001.\"",
+    "\"*GPO: 2001--472-470/00430. Reprint 2001.\" Panel title. Includes text, ill. (some col.), and map of \"English and American Indian communities in Virginia during the period 1607-1635.\" Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, ill. (some col.), and map of \"English and American Indian communities in Virginia during the period 1607-1635.\"",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [2001]",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884j.ct009364",
+    "http://lccn.loc.gov/2001627265",
+    "http://www.loc.gov/item/2001627265/",
+    "http://www.loc.gov/resource/g3884j.ct009364/",
+    "https://hdl.loc.gov/loc.gmd/g3884j.ct009364",
+    "https://search.catalog.loc.gov/instances/050bf570-29aa-5481-9be5-19909ce75817",
+    "https://www.loc.gov/item/2001627265/"
+  ],
+  "dct_issued_s": "2001",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884j/ct009364.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001627265/\"}",
+  "dct_spatial_sm": [
+    "colonial national historical park",
+    "jamestown",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Colonial National Historical Park (Va.)--Maps",
+    "Jamestown (Va.)--Maps",
+    "United States--Virginia--Colonial National Historical Park",
+    "United States--Virginia--Jamestown"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "dct_title_s": "Jamestown, Colonial National Historical Park, Virginia",
+  "gbl_dateRange_drsim": [
+    "[2001 TO 2001]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001627265",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

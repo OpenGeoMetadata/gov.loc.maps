@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Geologic map of the Klondike Bluffs 7.5ʹ quadrangle, Grand County, Utah",
+    "Kondike Bluffs Quadrangle, geologic map"
+  ],
+  "dct_description_sm": [
+    "\"Contains GIS files.\"",
+    "Also available on the World Wide Web.",
+    "Base from USGS Klondike Bluffs 7.5ʹ Quadrangle (1991).",
+    "Contributors: Doelling, Hellmut H., 1930- author.; Kuehne, Paul A., author.; Utah Geological Survey, cartographer.; Utah Geological Survey, publisher.",
+    "Includes a location map, a chart of adjoining 7.5ʹ quadrangle names, a stratigraphic column, geologic symbols, correlation of map units, bedrock units, and a cross section.",
+    "Includes bibliographical references in booklet (pages 25-31).",
+    "Project managers: Grant C. Willis ; GIS and cartography: Paul A. Kuehne and Lori J. Steadman.",
+    "Publication statement: Salt Lake City, UT : Utah Geological Survey, 2013.",
+    "Relief shown by contours and spot heights.",
+    "System requirements: Adobe Reader is required to view the PDF files. The ArcMap map document (MXD) and the ESRI file geodatabase in this digital dataset can only be viewed using ArcGIS software from ESRI. The other spatial data files in this digital dataset can be displayed using most GIS software.",
+    "System requirements: Adobe Reader is required to view the PDF files. The ArcMap map document (MXD) and the ESRI file geodatabase in this digital dataset can only be viewed using ArcGIS software from ESRI. The other spatial data files in this digital dataset can be displayed using most GIS software. Relief shown by contours and spot heights. Title from disc surface. \"Contains GIS files.\" Includes a location map, a chart of adjoining 7.5ʹ quadrangle names, a stratigraphic column, geologic symbols, correlation of map units, bedrock units, and a cross section. Project managers: Grant C. Willis ; GIS and cartography: Paul A. Kuehne and Lori J. Steadman. Base from USGS Klondike Bluffs 7.5ʹ Quadrangle (1991). Also available on the World Wide Web. This CD contains a 31 page booklet in PDF format. Includes bibliographical references in booklet (pages 25-31).",
+    "This CD contains a 31 page booklet in PDF format.",
+    "Title from disc surface."
+  ],
+  "dct_identifier_sm": [
+    "http://geology.utah.gov/online/m/m-258.pdf",
+    "http://lccn.loc.gov/2017590354",
+    "http://www.loc.gov/item/2017590354/",
+    "https://www.loc.gov/item/2017590354/"
+  ],
+  "dct_issued_s": "2013",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2017590354/\"}",
+  "dct_spatial_sm": [
+    "arches national park",
+    "grand county",
+    "utah"
+  ],
+  "dct_subject_sm": [
+    "Geology--Utah--Arches National Park--Maps",
+    "Geology--Utah--Grand County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_title_s": "Geologic map of the Klondike Bluffs quadrangle, Grand County, Utah",
+  "gbl_dateRange_drsim": [
+    "[2013 TO 2013]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017590354",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

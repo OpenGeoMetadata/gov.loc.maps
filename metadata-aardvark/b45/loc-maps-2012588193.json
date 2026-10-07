@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Forest Service map.\"",
+    "\"R8-RG 251.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes text, recreation site information, index to Geological Survey topographic maps, vicinity map, and col. ill.",
+    "Publication statement: Atlanta, GA : U.S. Dept. of Agriculture, Forest Service, Southern Region ; Denver, CO : USGS Information Services, 2008.",
+    "Segments of map separately titled: Oconee National Forest,--north half -- Oconee National Forest--south half.",
+    "Title from panel.",
+    "Title from panel. \"Forest Service map.\" Segments of map separately titled: Oconee National Forest,--north half -- Oconee National Forest--south half. Includes text, recreation site information, index to Geological Survey topographic maps, vicinity map, and col. ill. \"R8-RG 251.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2012588193",
+    "http://www.loc.gov/item/2012588193/",
+    "http://www.loc.gov/resource/g3922o.ct010070/",
+    "https://hdl.loc.gov/loc.gmd/g3922o.ct010070",
+    "https://search.catalog.loc.gov/instances/c57ae20d-5f61-5e14-9b2d-c2832f533752",
+    "https://www.loc.gov/item/2012588193/"
+  ],
+  "dct_issued_s": "2008",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922o/ct010070.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012588193/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "oconee national forest",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Oconee National Forest (Ga.)--Maps",
+    "Outdoor recreation--Georgia--Oconee National Forest--Maps",
+    "United States--Georgia--Oconee National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "dct_title_s": "Oconee National Forest, Georgia : 2008 : America's great outdoors",
+  "gbl_dateRange_drsim": [
+    "[2008 TO 2008]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012588193",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

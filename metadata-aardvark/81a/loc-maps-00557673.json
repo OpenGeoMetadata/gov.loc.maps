@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802704AI (C00054) 7-00.\"",
+    "\"Base 802704AI (C00054) 7-00.\" Also issued with shaded relief. Available also through the Library of Congress Web site as a raster image.",
+    "Also issued with shaded relief.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2000]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6875.ct001667",
+    "http://lccn.loc.gov/00557673",
+    "http://www.loc.gov/item/00557673/",
+    "http://www.loc.gov/resource/g6875.ct001667/",
+    "https://hdl.loc.gov/loc.gmd/g6875.ct001667",
+    "https://search.catalog.loc.gov/instances/0a1c9da2-d812-5d13-9bd6-37e85d278106",
+    "https://www.loc.gov/item/00557673/"
+  ],
+  "dct_issued_s": "2000",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6875/g6875/ct001667.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00557673/\"}",
+  "dct_spatial_sm": [
+    "slovenia"
+  ],
+  "dct_subject_sm": [
+    "Slovenia",
+    "Slovenia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_title_s": "Slovenia",
+  "gbl_dateRange_drsim": [
+    "[2000 TO 2000]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00557673",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

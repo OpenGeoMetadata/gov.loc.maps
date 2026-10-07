@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Bureau of Indian Affairs Office of Justice Services detention programs"
+  ],
+  "dct_description_sm": [
+    "\"August 27, 2025 at 8:58:28 AM EDT Info Updated\"--online resource.",
+    "\"January 11, 2024 at 10:20:21 AM EST Published Date\"--online resource.",
+    "\"June 3, 2025 at 3:41:42 PM EDT Data Updated\"--online resource.",
+    "\"There are 90 detention centers throughout Indian Country, of which, the Bureau of Indian Affairs (BIA) Office of Justice Services (OJS) staffs and operates a quarter of these facilities. The remainder are operated by Tribes through the PL 93-638, Self-Governance Compacts and a few are fully funded and operated by a tribe. Indian Country facilities are either long or short term holding facilities. Each facility is unique in operation and location. The BIA Corrections also operates transport programs for movement of inmates for certain locations as well as assist with long range transports, movement of inmates during evacuations, overcrowding, and etc, as needed.\"--online resource.",
+    "Contributors: United States. Bureau of Indian Affairs, cartographer",
+    "Dataset includes attributes: detention_program, district, program_type, population_served, classification_of_operations, mailing_address, mailing_city, mailing_state, mailing_zipcode, physical_city, physical_state, physical_zipcode, telephone, telephone_extension, telephone_2, telephone_3, fax, program_id, facility_id, tribes_served.",
+    "Description based on online resource, title from online resource (BIA OJS Detention Programs, viewed August 13, 2026)",
+    "Obtained via Government Deposit from Bureau of Indian Affairs in 2026",
+    "Publication statement: [Lakewood, CO] : Bureau of Indian Affairs ; 2025."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2026356117",
+    "http://www.loc.gov/item/2026356117/",
+    "http://www.loc.gov/resource/gdcdatasets.2026356117/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2026356117",
+    "https://onemap-bia-geospatial.hub.arcgis.com/datasets/BIA-Geospatial::bia-ojs-detention-programs/about",
+    "https://search.catalog.loc.gov/instances/36934904-08e0-4ba6-ab05-f69df2ff18e3",
+    "https://www.loc.gov/item/2026356117/"
+  ],
+  "dct_issued_s": "2025",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2026356117/\"}",
+  "dct_rights_sm": [
+    "Public Domain https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Correctional institutions--United States",
+    "Indigenous peoples--United States",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "dct_title_s": "BIA OJS detention programs",
+  "gbl_dateRange_drsim": [
+    "[2025 TO 2025]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2026356117",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

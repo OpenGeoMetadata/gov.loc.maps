@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Evans, G. G. (George G.)",
+    "DCP",
+    "Includes directory of \"Width of streets and avenues.\"",
+    "LC copy 1 mounted on cloth backing.",
+    "Publication statement: [Philadelphia : G.G. Evans], c1892.",
+    "Shows block numbers and major buildings.",
+    "Shows block numbers and major buildings. Includes directory of \"Width of streets and avenues.\" Available also through the Library of Congress Web site as a raster image. LC copy 1 mounted on cloth backing. 2 copies DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004460",
+    "http://lccn.loc.gov/88693394",
+    "http://www.loc.gov/item/88693394/",
+    "http://www.loc.gov/resource/g3850.ct004460/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004460",
+    "https://search.catalog.loc.gov/instances/9f6e4076-e2f1-5259-bfc5-8c40d9289fba",
+    "https://www.loc.gov/item/88693394/"
+  ],
+  "dct_issued_s": "1892",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004460.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693394/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "dct_title_s": "Map of the city of Washington : for use in Evans' visitors companion at our National Capitol",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693394",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Albany, N.Y.",
+    "Fire map of Albany, New York"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Scarlett & Van Wagoner, cartographer",
+    "Includes business and street indexes.",
+    "Includes business and street indexes. List of geographical atlases in the Library of Congress, 2267 Available also through the Library of Congress Web site as a raster image.",
+    "List of geographical atlases in the Library of Congress, 2267",
+    "Publication statement: Albany, N.Y. : Scarlett & Van Wagoner, [1891]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2020592808",
+    "http://www.loc.gov/item/2020592808/",
+    "http://www.loc.gov/resource/gmdatlases.2020592808-001/",
+    "http://www.loc.gov/resource/gmdatlases.2020592808-002/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2020592808-001",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2020592808-002",
+    "https://search.catalog.loc.gov/instances/a5c46512-bb5b-59a9-a74e-f9bd896d91b3",
+    "https://www.loc.gov/item/2020592808/"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:20:20:59:28:08:-0:01:2020592808-001:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2020592808/\"}",
+  "dct_spatial_sm": [
+    "albany",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fire insurance--New York (State)--Albany--Maps",
+    "Real property--New York (State)--Albany--Maps",
+    "United States--New York (State)--Albany"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "Scarlett and Van Wagoner's fire map of Albany, New York",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-2020592808",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

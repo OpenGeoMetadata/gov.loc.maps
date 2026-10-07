@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2003-63",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Kuchel, Charles Conrad, 1820-; Thompson, Zadock, 1796-1856",
+    "Copy annotated in pencil with names of some features.",
+    "Copy imperfect: Darkened, stained, mounted on cloth backing.",
+    "Includes indexes and ill.",
+    "Inset: Geological map of Vermont.",
+    "Prime meridian: Washington, D.C.",
+    "Publication statement: Hartford, Conn. : C. Kuchel's Lith., [1848?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows minor civil subdivisions. Prime meridian: Washington, D.C. Includes indexes and ill. Inset: Geological map of Vermont. Copy imperfect: Darkened, stained, mounted on cloth backing. Copy annotated in pencil with names of some features. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 2003-63",
+    "Shows minor civil subdivisions."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3750.ct005630",
+    "http://lccn.loc.gov/2003620495",
+    "http://www.loc.gov/item/2003620495/",
+    "http://www.loc.gov/resource/g3750.ct005630/",
+    "https://hdl.loc.gov/loc.gmd/g3750.ct005630",
+    "https://search.catalog.loc.gov/instances/b0d9fa33-56ff-574f-a8f3-cdad72160a3d",
+    "https://www.loc.gov/item/2003620495/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3750/g3750/ct005630.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003620495/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Geology--Vermont--Maps",
+    "United States--Vermont",
+    "Vermont--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1848",
+    "Hartford, Conn. : C. Kuchel's Lith., [1848?]"
+  ],
+  "dct_title_s": "Outlines of Vermont : adapted to Thompson's Geography & geology of Vermont for the use of schools and families",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003620495",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

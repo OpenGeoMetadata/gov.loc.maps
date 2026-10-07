@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Ascription of authorship through label on old folder.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Krafft, Johann Carl Philipp von, 1752-1804",
+    "Has watermark.",
+    "LC Maps of North America, 1750-1789, 1197",
+    "Manuscript, pen-and-ink; with writing partly in German script and partly in English.",
+    "Manuscript, pen-and-ink; with writing partly in German script and partly in English. Has watermark. Ascription of authorship through label on old folder. Proverbs in German and Latin on verso. Scale ca. 1:2,500. LC Maps of North America, 1750-1789, 1197 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Proverbs in German and Latin on verso.",
+    "Publication statement: 1779?]",
+    "Scale ca. 1:2,500.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3802v.ar119700",
+    "http://lccn.loc.gov/gm71002362",
+    "http://www.loc.gov/item/gm71002362/",
+    "http://www.loc.gov/resource/g3802v.ar119700/",
+    "https://hdl.loc.gov/loc.gmd/g3802v.ar119700",
+    "https://search.catalog.loc.gov/instances/d41bf07b-be67-5583-bd91-ba3bbae9b567",
+    "https://www.loc.gov/item/gm71002362/"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "engger",
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3802/g3802v/ar119700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002362/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "verplanck point"
+  ],
+  "dct_subject_sm": [
+    "United States--New York (State)--Verplanck Point",
+    "Verplanck Point, N.Y.--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1779",
+    "1779?]"
+  ],
+  "dct_title_s": "[Fort La Fayette on Verplancks Point, with British and Hessian troop positions",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002362",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

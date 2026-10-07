@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"February 1991 1005370-04.\"",
+    "\"February 1991 1005370-04.\" At head of title: Appendix B-2. \"Source: Arkansas general soil map. Base map compiled from 1:24,000 quadrangles and general highway maps.\" Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "\"Source: Arkansas general soil map. Base map compiled from 1:24,000 quadrangles and general highway maps.\"",
+    "At head of title: Appendix B-2.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: F[or]t, TX : USDA-SCS National Cartographic Center ; [Little Rock, Ark. : State Conservationist, distributor], 1991."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/92682561",
+    "http://www.loc.gov/item/92682561/",
+    "http://www.loc.gov/resource/g4002b.ct010908/",
+    "https://hdl.loc.gov/loc.gmd/g4002b.ct010908",
+    "https://search.catalog.loc.gov/instances/cb1f9b6b-62b5-534c-9ded-721edc376460",
+    "https://www.loc.gov/item/92682561/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4002/g4002b/ct010908.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92682561/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "buffalo river watershed",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soils--Arkansas--Buffalo River Watershed--Maps",
+    "United States--Arkansas--Buffalo River Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "General soil map, Buffalo River tributaries watershed : Marion, Newton, Pope, Searcy, and Van Buren counties, Arkansas",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92682561",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

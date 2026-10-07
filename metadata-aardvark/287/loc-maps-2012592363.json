@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chace, J., publisher; Page, J.Q., cartographer; Rease, W. H, lithographer",
+    "Includes illustrations, directories, decorative border, population table, and 18 insets of towns and villages.",
+    "LC Land ownership maps, 265",
+    "LC copy assembled, sectioned in six and mounted on cloth.",
+    "Publication statement: Phila. ; Portland, ME. : J. Chace Jr., publisher, N.E. cor. 4th & Chestnut Sts, 1858.; [Philadelphia] : lith. by W.H. Rease, N.E. cor. 4th & Chestnut Sts, [1858]",
+    "Relief shown by hachures.",
+    "Shows landowners.",
+    "Shows landowners. Relief shown by hachures. Includes illustrations, directories, decorative border, population table, and 18 insets of towns and villages. LC copy assembled, sectioned in six and mounted on cloth. LC Land ownership maps, 265 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3733a.la000265",
+    "http://lccn.loc.gov/2012592363",
+    "http://www.loc.gov/item/2012592363/",
+    "http://www.loc.gov/resource/g3733a.la000265/",
+    "https://hdl.loc.gov/loc.gmd/g3733a.la000265",
+    "https://search.catalog.loc.gov/instances/a53b5b57-e42e-58fc-9041-63d43ee60786",
+    "https://www.loc.gov/item/2012592363/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3733/g3733a/la000265.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592363/\"}",
+  "dct_spatial_sm": [
+    "androscoggin county",
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cities and towns--Maine--Androscoggin County--Maps",
+    "Landowners--Maine--Androscoggin County--Maps",
+    "Real property--Maine--Androscoggin County--Maps",
+    "United States--Maine--Androscoggin County"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "A topographical map of Androscoggin County, Maine",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592363",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

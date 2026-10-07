@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "113 sheet(s).",
+    "1914; Republished 1955.",
+    "1914; Republished 1955. 113 sheet(s). 35 X 29 cm. Bound. Other places as they appear on original: South Superior, Village of Superior.",
+    "35 X 29 cm. Bound. Other places as they appear on original: South Superior, Village of Superior.",
+    "Publication statement: Sanborn Map Company, 1914; Republished 1955"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4124sm.g097111955",
+    "http://www.loc.gov/item/sanborn09711_006/",
+    "http://www.loc.gov/resource/g4124sm.g097111955/",
+    "https://hdl.loc.gov/loc.gmd/g4124sm.g097111955",
+    "https://www.loc.gov/item/sanborn09711_006",
+    "https://www.loc.gov/item/sanborn09711_006/",
+    "https://www.loc.gov/resource/g4124sm.g097111955"
+  ],
+  "dct_issued_s": "1955",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn09711_006/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412m/g4124m/g4124sm/g097111955/09711_1955-0000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn09711_006/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "douglas county",
+    "south superior",
+    "superior",
+    "united states",
+    "village of superior",
+    "wisconsin"
+  ],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Superior, Douglas County, Wisconsin.",
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1955]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn09711_006",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

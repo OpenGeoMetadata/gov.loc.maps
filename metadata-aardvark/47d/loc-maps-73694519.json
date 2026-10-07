@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Looking south east.\"",
+    "AACR2: 100; 651/1; 710/1; 710/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Merchant's Lithographing Company; Ruger & Stoner; Ruger, A.",
+    "Includes ill. and index to points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 712",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Madison, Wis., Ruger & Stoner [1870]",
+    "Vault",
+    "Vault AACR2: 100; 651/1; 710/1; 710/2 \"Looking south east.\" Includes ill. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 712 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4084w.pm007120",
+    "http://lccn.loc.gov/73694519",
+    "http://www.loc.gov/item/73694519/",
+    "http://www.loc.gov/resource/g4084w.pm007120/",
+    "https://hdl.loc.gov/loc.gmd/g4084w.pm007120",
+    "https://search.catalog.loc.gov/instances/503028a3-93d4-5ed7-bdd5-87d9f97af4a7",
+    "https://www.loc.gov/item/73694519/"
+  ],
+  "dct_issued_s": "1870",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4084/g4084w/pm007120.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73694519/\"}",
+  "dct_spatial_sm": [
+    "ohio",
+    "united states",
+    "warren"
+  ],
+  "dct_subject_sm": [
+    "United States--Ohio--Warren",
+    "Warren (Ohio)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ],
+  "dct_title_s": "Bird's eye view of Warren, Trumbull County, Ohio 1870",
+  "gbl_dateRange_drsim": [
+    "[1870 TO 1870]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1870
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73694519",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

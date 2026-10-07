@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Title in Chinese reading: Shou shan quan tu",
+    "首善全圖"
+  ],
+  "dct_description_sm": [
+    "Content in Korean and Chinese.",
+    "Contributors: Kim, Jeongho Cartographer",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Korea.",
+    "Original resource extent: 1 leaf: 101.6 x 66.6 centimeters; woodblock print.",
+    "Publication statement: Seoul : Kim Jeongho, [1840 to 1850]",
+    "Suseon jeondo (Map of Seoul) is a wood-block print map of Seoul made by Kim Jeongho (1804--66), the leading geographer of the Joseon Dynasty in the 1840s. The word Suseon indicates Seoul, which was the capital and called Hanyang at that time, and jeondo means the complete map. An actual survey of the whole city by Kim Jeongho, the map shows major roads, facilities, villages, and other features of the capital in detail. The mountains, traditionally considered significant in connecting the sky with the authority of the king, are drawn larger than to scale. The map's historical and artistic value derives from its realistic description of the old Seoul and its delicacy as a work of art, making it famous as one of the finest depictions of the features of a traditional Korean city.",
+    "Title devised, in English, by Library staff.",
+    "Title revised per Asian Division.--cc28 2023-01-06"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668266",
+    "http://www.loc.gov/item/2021668266/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_04164/",
+    "http://www.loc.gov/resource/wdl.4164/",
+    "https://hdl.loc.gov/loc.wdl/wdl.4164",
+    "https://www.loc.gov/item/2021668266/"
+  ],
+  "dct_issued_s": "1840",
+  "dct_language_sm": [
+    "chi",
+    "korean"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_04164.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/04/16/4/wdl_04164/wdl_04164.pdf\"}, {\"label\": \"ZIP: wdl_04164.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/04/16/4/wdl_04164/wdl_04164.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:04:16:4:wdl_04164:00000002/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668266/\"}",
+  "dct_spatial_sm": [
+    "republic of korea",
+    "seoul"
+  ],
+  "dct_subject_sm": [
+    "1840 to 1850",
+    "Republic of Korea--Seoul"
+  ],
+  "dct_temporal_sm": [
+    "1840"
+  ],
+  "dct_title_s": "Susŏn chŏndo",
+  "gbl_dateRange_drsim": [
+    "[1840 TO 1840]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1840
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668266",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

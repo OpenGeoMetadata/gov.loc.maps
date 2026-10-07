@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Forest service map.\"",
+    "\"Forest service map.\" Includes table/index of recreation sites, vicinity map, and index to topographic maps. Forest information, descriptive index, and col. ill. on verso. \"R8-RG 1.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"R8-RG 1.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service",
+    "Forest information, descriptive index, and col. ill. on verso.",
+    "Includes table/index of recreation sites, vicinity map, and index to topographic maps.",
+    "Publication statement: [Atlanta, Ga.] : Forest Service, [2006]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2007631130",
+    "http://www.loc.gov/item/2007631130/",
+    "http://www.loc.gov/resource/g3972w.ct010711/",
+    "https://hdl.loc.gov/loc.gmd/g3972w.ct010711",
+    "https://search.catalog.loc.gov/instances/57defd82-48fe-5679-b8a1-bc4fdedda05a",
+    "https://www.loc.gov/item/2007631130/"
+  ],
+  "dct_issued_s": "2006",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3972/g3972w/ct010711.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007631130/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "united states",
+    "william b. bankhead national forest"
+  ],
+  "dct_subject_sm": [
+    "United States--Alabama--William B. Bankhead National Forest",
+    "William B. Bankhead National Forest (Ala.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "dct_title_s": "Bankhead National Forest, Alabama",
+  "gbl_dateRange_drsim": [
+    "[2006 TO 2006]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007631130",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

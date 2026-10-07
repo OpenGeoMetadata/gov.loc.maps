@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Map prepared using automated map construction.\"",
+    "\"Source: Data provided by State Soil Survey staff.\"",
+    "\"Source: Data provided by State Soil Survey staff.\" \"Map prepared using automated map construction.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Publication statement: Fort Worth, Tex. : National Cartographic Center, 1992."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/92682930",
+    "http://www.loc.gov/item/92682930/",
+    "http://www.loc.gov/resource/g4021j.ct011174/",
+    "https://hdl.loc.gov/loc.gmd/g4021j.ct011174",
+    "https://search.catalog.loc.gov/instances/51b78dc7-47db-5b50-8912-63fb552f5a03",
+    "https://www.loc.gov/item/92682930/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4021/g4021j/ct011174.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92682930/\"}",
+  "dct_spatial_sm": [
+    "oklahoma",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Great Plains Conservation Program--Maps",
+    "Soil conservation--Oklahoma--Maps",
+    "United States--Oklahoma"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Designated counties in Great Plains Conservation Program, P.L. 1021, Oklahoma",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92682930",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

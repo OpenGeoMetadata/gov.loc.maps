@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Harper & Brothers",
+    "DCP",
+    "LC copy torn, taped on verso, and annotated in ink in right lower margin: H[arper's] M[agazine] vol. 6--1852.",
+    "Oriented with north toward the upper right.",
+    "Part of text on verso.",
+    "Publication statement: [New York? : Harper & Bros., 1852]",
+    "Shows major streets.",
+    "Shows major streets. Oriented with north toward the upper right. Part of text on verso. Available also through the Library of Congress Web site as a raster image. LC copy torn, taped on verso, and annotated in ink in right lower margin: H[arper's] M[agazine] vol. 6--1852. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004372",
+    "http://lccn.loc.gov/88694041",
+    "http://www.loc.gov/item/88694041/",
+    "http://www.loc.gov/resource/g3850.ct004372/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004372",
+    "https://search.catalog.loc.gov/instances/d0b39b51-d1f5-55d6-aa0d-7510990a578b",
+    "https://www.loc.gov/item/88694041/"
+  ],
+  "dct_issued_s": "1852",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004372.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88694041/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "dct_title_s": "Map of Washington City",
+  "gbl_dateRange_drsim": [
+    "[1852 TO 1852]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1852
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88694041",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

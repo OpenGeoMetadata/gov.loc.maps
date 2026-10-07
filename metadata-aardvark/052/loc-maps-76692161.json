@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Circles shown half mile distances from City Hall.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map: Sampson, Davenport & Co., Map of Boston for 1883.",
+    "In bottom margin: City of Boston & district base maps, historical map-showing annexation dates 1883.",
+    "In four corners of margin: D-958.",
+    "Photocopy.",
+    "Photocopy. Base map: Sampson, Davenport & Co., Map of Boston for 1883. \"Circles shown half mile distances from City Hall.\" In four corners of margin: D-958. In bottom margin: City of Boston & district base maps, historical map-showing annexation dates 1883. Shows various annexations up to 1912. Scale 1:19,800; 100 rods to an in. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: [n.p., 1912?]",
+    "Scale 1:19,800; 100 rods to an in.",
+    "Shows various annexations up to 1912."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.ct005985",
+    "http://lccn.loc.gov/76692161",
+    "http://www.loc.gov/item/76692161/",
+    "http://www.loc.gov/resource/g3764b.ct005985/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ct005985",
+    "https://search.catalog.loc.gov/instances/80304543-68cd-54de-8b68-593f098f54a5",
+    "https://www.loc.gov/item/76692161/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/ct005985.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76692161/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Annexation (Municipal government)--Massachusetts--Boston--Maps",
+    "Boston (Mass.)--Maps",
+    "United States--Massachusetts--Boston",
+    "United States--Massachusetts--Boston--Annexation (Municipal government)"
+  ],
+  "dct_temporal_sm": [
+    "1912",
+    "[n.p., 1912?]"
+  ],
+  "dct_title_s": "Directory map showing small annexations, 1883",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76692161",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Civil War salted paper maps. AL-43.",
+    "Contributors: Michler, N. (Nathaniel), 1827-1881; Weyss, J. E.",
+    "Description derived from published bibliography.",
+    "LC Civil War maps (2nd ed.), 226",
+    "Map of Perryville and vicinity, annotated in blue and red crayon to show what may be the position of the Union and Confederate troops on October 9, the day after the battle of Perryville. Opposite of four of the five positions, marked in blue are written the names: \"Gilbert,\" \"Buell,\" \"McCook,\" and what appears to be \"MacCon.\"",
+    "Publication statement: [S.l. : s.n.], 1862.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Sun print. Map of Perryville and vicinity, annotated in blue and red crayon to show what may be the position of the Union and Confederate troops on October 9, the day after the battle of Perryville. Opposite of four of the five positions, marked in blue are written the names: \"Gilbert,\" \"Buell,\" \"McCook,\" and what appears to be \"MacCon.\" Description derived from published bibliography. Civil War salted paper maps. AL-43. LC Civil War maps (2nd ed.), 226 Available also through the Library of Congress Web site as a raster image.",
+    "Sun print."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3954p.cw0226000",
+    "http://lccn.loc.gov/2008621651",
+    "http://www.loc.gov/item/2008621651/",
+    "http://www.loc.gov/resource/g3954p.cw0226000/",
+    "https://hdl.loc.gov/loc.gmd/g3954p.cw0226000",
+    "https://search.catalog.loc.gov/instances/129dd854-c067-5711-8155-fd334c4373fd",
+    "https://www.loc.gov/item/2008621651/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd395/g3954/g3954p/cw0226000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008621651/\"}",
+  "dct_spatial_sm": [
+    "kentucky",
+    "perryville",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Perryville (Ky.)--Maps",
+    "United States--Kentucky--Perryville"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Topographical sketch of the battlefield of Chaplin hills, near Perryville, Kentucky. October 9th, 1862",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008621651",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

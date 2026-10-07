@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Henrie Knolls quadrangle, geologic map"
+  ],
+  "dct_description_sm": [
+    "\"Contains GIS files.\"",
+    "Base map from U.S. Geological Survey ; Project Manager: Donald L. Clark ; GIS and Cartography: Jay C. Hill, Kent D. Brown, and J. Buck Ehler.",
+    "Contributors: Biek, Robert F., author; Moore, David W. (David Warren), author; Nealey, L. David, author; Utah Geological Survey, cartographer",
+    "Funded by Utah Geological Survey and the U.S. Geological Survey, National Cooperative Mapping Program through U.S. Geological Survey STATEMAP award numbers 06HQAG0037",
+    "Includes bibliographical references (plate 2).",
+    "Plate 2 includes map unit descriptions, correlation of map units, lithologic column, map symbols, and cross-section.",
+    "Publication statement: Salt Lake City, Utah : Utah Geological Survey, 2011.",
+    "Relief shown by contours and spot heights.",
+    "System requirements: Adobe Acrobat Reader (latest version) and specialized GIS software to use the GIS files.",
+    "This CD contains GIS and ESRI files. Also included in PDF are 2 plates, the map and explanation sheet.",
+    "Title from disc jacket."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2017590350",
+    "http://ugspub.nr.utah.gov/publications/geologicmaps/M-252DM/M-252DM_Plate1r.pdf",
+    "http://ugspub.nr.utah.gov/publications/geologicmaps/M-252DM/M-252DM_Plate2.pdf",
+    "http://www.loc.gov/item/2017590350/",
+    "https://www.loc.gov/item/2017590350/"
+  ],
+  "dct_issued_s": "2011",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2017590350/\"}",
+  "dct_spatial_sm": [
+    "garfield county",
+    "iron county",
+    "kane county",
+    "utah"
+  ],
+  "dct_subject_sm": [
+    "Geology--Utah--Garfield County--Maps",
+    "Geology--Utah--Iron County--Maps",
+    "Geology--Utah--Kane County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_title_s": "Geologic map of the Henrie Knolls quadrangle, Garfield, Iron, and Kane counties, Utah",
+  "gbl_dateRange_drsim": [
+    "[2011 TO 2011]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017590350",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

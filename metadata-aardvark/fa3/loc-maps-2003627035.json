@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Carl Zimmermann was a first lieutenant in the Prussian Army who, in the early 1840s, developed a strong personal and professional interest in the conflict then being waged by the British Army in Afghanistan. In what became known as the First Anglo-Afghan War (1839-40), Britain tried to extend its control from India northwest into Afghanistan, but suffered a series of disastrous defeats at the hands of the Afghan tribes and eventually was forced to withdraw. In 1842 Zimmermann published Der Kriegs-Schauplatz in Inner-Asien (The theater of war in inner Asia), a book in which he attempted to bring the geographic knowledge that the British had accumulated about Afghanistan and its environs to a German audience. Zimmermann based this map on English sources, in particular Geographer to the Queen James Wyld's \"Notes to a Map of Afghanistan\" and East-India Company geographer John Walker's \"Skeleton Map of Afghanistan and the Countries on the North-West-Frontier of India.\"\" World Digital Library.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Schroeder, E. H.; Zimmermann, Carl",
+    "Publication statement: [S.l.], 1842."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7630.ct001043",
+    "http://lccn.loc.gov/2003627035",
+    "http://www.loc.gov/item/2003627035/",
+    "http://www.loc.gov/resource/g7630.ct001043/",
+    "https://hdl.loc.gov/loc.gmd/g7630.ct001043",
+    "https://search.catalog.loc.gov/instances/2029caae-95fb-5835-9487-916546c7d3b2",
+    "https://www.loc.gov/item/2003627035/"
+  ],
+  "dct_issued_s": "1842",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7630/g7630/ct001043.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003627035/\"}",
+  "dct_spatial_sm": [
+    "afghanistan",
+    "pakistan"
+  ],
+  "dct_subject_sm": [
+    "Afghanistan",
+    "Afghanistan--Maps",
+    "Pakistan",
+    "Pakistan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1842"
+  ],
+  "dct_title_s": "Übersichts-Blatt Afghanistan und den Ländern an der Nord-West Grenze Von Indien",
+  "gbl_dateRange_drsim": [
+    "[1842 TO 1842]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1842
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003627035",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

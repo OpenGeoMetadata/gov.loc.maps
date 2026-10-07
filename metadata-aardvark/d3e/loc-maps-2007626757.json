@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Atlas and plat book, Kalamazoo County, Michigan"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 2007-007",
+    "Annotations in pencil and red pencil on some maps.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Thrift Press (Rockford, Ill.)",
+    "Includes indexes.",
+    "Includes indexes. Annotations in pencil and red pencil on some maps. Available also through the Library of Congress Web site as a raster image. Vendor: John Carbonell Acquisitions control no. 2007-007",
+    "Publication statement: Rockford, Ill. : Thrift Press ; Kalamazoo, Mich. : Glen C. Wheaton, [1928?]",
+    "Vendor: John Carbonell"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4113km.gla00131",
+    "http://lccn.loc.gov/2007626757",
+    "http://www.loc.gov/item/2007626757/",
+    "http://www.loc.gov/resource/g4113km.gla00131/",
+    "https://hdl.loc.gov/loc.gmd/g4113km.gla00131",
+    "https://search.catalog.loc.gov/instances/dab26aaf-2ab3-5e30-908a-52ad5535f4a4",
+    "https://www.loc.gov/item/2007626757/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd411m/g4113m/g4113km/gla00131/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007626757/\"}",
+  "dct_spatial_sm": [
+    "kalamazoo county",
+    "michigan",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Kalamazoo County (Mich.)--Maps",
+    "Landowners--Michigan--Kalamazoo County--Maps",
+    "Real property--Michigan--Kalamazoo County--Maps",
+    "United States--Michigan--Kalamazoo County"
+  ],
+  "dct_temporal_sm": [
+    "1928",
+    "Rockford, Ill. : Thrift Press ; Kalamazoo, Mich. : Glen C. Wheaton, [1928?]"
+  ],
+  "dct_title_s": "Plat book of Kalamazoo County, Michigan : compiled from surveys and the public records of Kalamazoo County, Michigan",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007626757",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

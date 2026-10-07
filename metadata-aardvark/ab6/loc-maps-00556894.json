@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and ill.",
+    "Panel title.",
+    "Panel title. Includes text and ill. Text, location map, and ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington, D.C.?] : The Service, [1999?]",
+    "Text, location map, and ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3812s.ct006815",
+    "http://lccn.loc.gov/00556894",
+    "http://www.loc.gov/item/00556894/",
+    "http://www.loc.gov/resource/g3812s.ct006815/",
+    "https://hdl.loc.gov/loc.gmd/g3812s.ct006815",
+    "https://search.catalog.loc.gov/instances/a939c2df-a996-5217-8d49-43512af475c7",
+    "https://www.loc.gov/item/00556894/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3812/g3812s/ct006815.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00556894/\"}",
+  "dct_spatial_sm": [
+    "gateway national recreation area",
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "sandy hook",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gateway National Recreation Area (N.J. and N.Y.)--Maps",
+    "Outdoor recreation--New Jersey--Sandy Hook--Maps",
+    "Recreation areas--New Jersey--Sandy Hook--Maps",
+    "Sandy Hook (N.J.)--Maps",
+    "United States--New Jersey--Gateway National Recreation Area",
+    "United States--New Jersey--Sandy Hook",
+    "United States--New York (State)--Gateway National Recreation Area"
+  ],
+  "dct_temporal_sm": [
+    "1999",
+    "[Washington, D.C.?] : The Service, [1999?]"
+  ],
+  "dct_title_s": "Sandy Hook, Gateway National Recreation Area",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00556894",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

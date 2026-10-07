@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows block numbers and radial distances from the Capitol.",
+    "Also shows block numbers and radial distances from the Capitol. In lower margin: Copyright secured according to law. Includes notes and sector diagram. Available also through the Library of Congress Web site as a raster image. LC copy mounted on cloth backing. DCP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Entwistle, J. C.",
+    "DCP",
+    "In lower margin: Copyright secured according to law.",
+    "Includes notes and sector diagram.",
+    "LC copy mounted on cloth backing.",
+    "Publication statement: Washington, D.C. : J.C. Entwistle, 1876."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004414",
+    "http://lccn.loc.gov/88693466",
+    "http://www.loc.gov/item/88693466/",
+    "http://www.loc.gov/resource/g3850.ct004414/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004414",
+    "https://search.catalog.loc.gov/instances/9a464514-05df-5ca3-8444-0cb33b5146dc",
+    "https://www.loc.gov/item/88693466/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004414.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693466/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Entwistle's handy map of Washington and vicinity : showing public buildings, churches, hotels, places of amusement, and lines of street rail roads",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693466",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Scale 1:2,027,520\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Survey of India Creator.; Thuillier, H. R. (Henry Ravenshaw), 1838-1922 Contributor.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : color ; 39 x 45 centimeters.",
+    "Publication statement: Calcutta : Survey of India Offices, 1891-07.",
+    "The Survey of India was founded in 1767 in order to map the vast holdings of the British East India Company. It remained in operation following Indian independence and is currently the national mapping organization of the government of India, under the Department of Science and Technology. The present map shows portions of Baluchistan, Sind, Punjab, and neighboring regions. It was originally produced in July 1886. The version shown here is a reprint from 1891, with updated information on political boundaries and railroads. The map was reproduced by photozincography, a photolithographic process that used zinc plates. It was published at the direction of Colonel Sir Henry Ravenshaw Thuillier (1838--1922), then surveyor-general of India. Sir Henry was educated at the Addiscombe Military Seminary (also known as the East India Company Military Seminary) south of London, and led the Survey of India from 1886 to his retirement in 1895. Sir Henry's father, Sir Henry Edward Landor Thuillier, also led the Survey of India (from 1861 to 1878).",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668605",
+    "http://www.loc.gov/item/2021668605/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15029/",
+    "http://www.loc.gov/resource/wdl.15029/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15029",
+    "https://www.loc.gov/item/2021668605/"
+  ],
+  "dct_issued_s": "1891-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15029.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/02/9/wdl_15029/wdl_15029.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:9:wdl_15029:am002971c/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668605/\"}",
+  "dct_spatial_sm": [
+    "balochistan",
+    "pakistan",
+    "punjab",
+    "sindh"
+  ],
+  "dct_subject_sm": [
+    "1886 to 1891",
+    "Expeditions and surveys",
+    "Library of Congress Afghanistan Project",
+    "Pakistan--Balochistan",
+    "Pakistan--Punjab",
+    "Pakistan--Sindh",
+    "Survey of India"
+  ],
+  "dct_temporal_sm": [
+    "1891-01-01"
+  ],
+  "dct_title_s": "Skeleton Map of the Baluchistan and Sind Frontier.",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668605",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

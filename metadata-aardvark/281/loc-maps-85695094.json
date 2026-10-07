@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Compiled at the Regional Office Milwaukee, Wisconsin, 1971 ...\"",
+    "\"Forest Service map class A.\"",
+    "\"U.S. Government Printing Office: 1984 - 755 - 193.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service",
+    "Includes location map and source diagram.",
+    "Panel title: Allegheny National Forest.",
+    "Publication statement: [Washington, D.C.?] : The Service, [1984]",
+    "Relief shown by spot heights.",
+    "Relief shown by spot heights. Panel title: Allegheny National Forest. \"Forest Service map class A.\" \"Compiled at the Regional Office Milwaukee, Wisconsin, 1971 ...\" \"U.S. Government Printing Office: 1984 - 755 - 193.\" Includes location map and source diagram. Text, 9 campsite maps, indexed tables of recreation sites and trails, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text, 9 campsite maps, indexed tables of recreation sites and trails, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822a.ct007883r",
+    "http://hdl.loc.gov/loc.gmd/g3822a.ct007883v",
+    "http://lccn.loc.gov/85695094",
+    "http://www.loc.gov/item/85695094/",
+    "http://www.loc.gov/resource/g3822a.ct007883r/",
+    "http://www.loc.gov/resource/g3822a.ct007883v/",
+    "https://hdl.loc.gov/loc.gmd/g3822a.ct007883r",
+    "https://hdl.loc.gov/loc.gmd/g3822a.ct007883v",
+    "https://search.catalog.loc.gov/instances/f73060db-95e9-5a72-9daf-c414bf6076a6",
+    "https://www.loc.gov/item/85695094/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822a/ct007883r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85695094/\"}",
+  "dct_spatial_sm": [
+    "allegheny national forest",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Allegheny National Forest (Pa.)--Maps",
+    "Camp sites, facilities, etc.--Pennsylvania--Allegheny National Forest--Maps",
+    "United States--Pennsylvania--Allegheny National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Allegheny National Forest, Pennsylvania : 1973",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85695094",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

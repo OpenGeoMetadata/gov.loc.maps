@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"64.\"",
+    "\"XII.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771; Sayer, Robert, 1725-1794",
+    "Hand colored.",
+    "Hand colored. Relief shown by hachures. \"XII.\" \"64.\" Scale ca. 1:23,300. LC Maps of North America, 1750-1789, 2096 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "LC Maps of North America, 1750-1789, 2096",
+    "Publication statement: London, Printed for Robt. Sayer, map & printseller, 1775.",
+    "Relief shown by hachures.",
+    "Scale ca. 1:23,300.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/73697202",
+    "http://www.loc.gov/item/73697202/",
+    "http://www.loc.gov/resource/g5122b.ar209600/",
+    "https://hdl.loc.gov/loc.gmd/g5122b.ar209600",
+    "https://search.catalog.loc.gov/instances/25625ba2-91a0-58f5-b240-db5f7e296017",
+    "https://www.loc.gov/item/73697202/"
+  ],
+  "dct_issued_s": "1775",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5122/g5122b/ar209600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73697202/\"}",
+  "dct_spatial_sm": [
+    "bequia island",
+    "saint vincent",
+    "saint vincent and the grenadines",
+    "the grenadines"
+  ],
+  "dct_subject_sm": [
+    "Bequia Island (Saint Vincent and the Grenadines)--Maps--Early works to 1800",
+    "Saint Vincent and the Grenadines--Bequia Island"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_title_s": "Bequia or Becouya, the northernmost of the Granadilles,",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73697202",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

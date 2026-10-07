@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Richmond and Louisville Railroad",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 546",
+    "LC also has 1883 edition in covers.",
+    "Publication statement: New York, 1882.",
+    "Scale 1:760,920.",
+    "Shows eastern United States and includes relief by hachures, drainage, cities and towns, county boundaries, and the railroad network in red."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3866p.rr005460",
+    "http://lccn.loc.gov/98688790",
+    "http://www.loc.gov/item/98688790/",
+    "http://www.loc.gov/resource/g3866p.rr005460/",
+    "https://hdl.loc.gov/loc.gmd/g3866p.rr005460",
+    "https://search.catalog.loc.gov/instances/9b2d3ef8-1511-54a6-a02c-77a2b2ff14e8",
+    "https://www.loc.gov/item/98688790/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3866/g3866p/rr005460.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688790/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Southern States--Maps",
+    "Richmond and Louisville Railroad",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Map of the Richmond and Louisville R.R. connecting the railroads of Virginia with the railroads of Kentucky on the shortest route east and west of the Mississippi Valley to the Atlantic Ocean",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688790",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

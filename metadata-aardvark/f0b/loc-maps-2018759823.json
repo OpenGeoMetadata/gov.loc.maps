@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Меркаторская карта Цепи коральных островов Радака и Ралика. Ноября 1817 года"
+  ],
+  "dct_description_sm": [
+    ".",
+    ". Original map at: National Library of Russia From the atlas \"Атлас к путешествию лейтенанта Коцебу на корабле Рюрике в Южное море и в Берингов пролив.\"",
+    "Contributors: Kotzebue, Otto von, 1787-1846",
+    "From the atlas \"Атлас к путешествию лейтенанта Коцебу на корабле Рюрике в Южное море и в Берингов пролив.\"",
+    "Original map at: National Library of Russia",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], 1821-1823."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018759823",
+    "http://www.loc.gov/item/2018759823/",
+    "http://www.loc.gov/resource/gdc.2018759823/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.natl0008_01201",
+    "https://search.catalog.loc.gov/instances/18526080-5ac6-5dd8-beeb-1853e91bdb3c",
+    "https://www.loc.gov/item/2018759823/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018759823.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018759823/2018759823.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018759823:0012/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018759823/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation"
+  ],
+  "dct_temporal_sm": [
+    "1821/1823"
+  ],
+  "dct_title_s": "Merkatorskai︠a︡ karta T︠S︡epi koral'nykh ostrovov Radaka i Ralika. Noi︠a︡bri︠a︡ 1817 goda",
+  "gbl_dateRange_drsim": [
+    "[1821 TO 1823]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1821
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018759823",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

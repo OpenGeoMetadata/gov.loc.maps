@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Scale about 1:5,645,600\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Carnegie Institution of Washington Creator.; United States. Department of State Annotator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : annotated, color, mounted on linen ; 21 x 47 centimeters.",
+    "Publication statement: Washington, D.C. : A.B. Graham, 1905.",
+    "The name Turkestan means \"Land of the Turks\" in Persian. Turkestan has never corresponded to a national entity but has been used in the Persianate world and elsewhere to signify the domain of Turkic peoples in Central Asia. During the second half of the 19th century these lands were the setting for the intense political rivalry between Great Britain and Imperial Russia known as the Great Game. During this period, the Russian Empire conquered vast regions in Central Asia. It assigned much of its newly acquired territory to the newly established Governor-Generalship of Turkestan. Of note on this map are the Emirate of Bokhara and the Khanate of Khiva, which were not included in the governor-generalship. Both were made Russian protectorates, following their defeats at the hand of Russia. The Khanate of Kokand (corresponding roughly to the area marked as Ferghana) was conquered in 1876 and, rather than being afforded protectorate status, was annexed into the vast domains of the Governor-Generalship of Turkestan. Today the portion of this map that corresponds to Central Asia falls within the borders of the states of Turkmenistan, Tajikistan, Kazakhstan, Uzbekistan, and Kyrgyzstan, all former Soviet republics that gained independence following the dissolution of the Soviet Union in 1991. A handwritten note describes the consequences of the rising of the Aral and Caspian Seas, a process that would be dramatically reversed in the latter part of the 20th century, when the Aral Sea all but disappeared as a consequence of ill-conceived Soviet irrigation projects. The map is marked \"Loaned by the American Geographical Society to the Peace Conference at Versailles, 1918-1919.\"",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668606",
+    "http://www.loc.gov/item/2021668606/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15030/",
+    "http://www.loc.gov/resource/wdl.15030/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15030",
+    "https://www.loc.gov/item/2021668606/"
+  ],
+  "dct_issued_s": "1905-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15030.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/03/0/wdl_15030/wdl_15030.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:0:wdl_15030:am003323/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668606/\"}",
+  "dct_spatial_sm": [
+    "kazakhstan",
+    "russian federation",
+    "tajikistan",
+    "turkmenistan",
+    "uzbekistan"
+  ],
+  "dct_subject_sm": [
+    "1903 to 1919",
+    "Carnegie Institution of Washington",
+    "Davis, William Morris, 1850-1934",
+    "Expeditions and surveys",
+    "Huntington, Ellsworth, 1876-1947",
+    "Kazakhstan",
+    "Library of Congress Afghanistan Project",
+    "Pumpelly, Raphael, 1837-1923",
+    "Russian Federation",
+    "Tajikistan",
+    "Treaty of Versailles (1919)",
+    "Turkmenistan",
+    "Uzbekistan",
+    "World War, 1914-1918"
+  ],
+  "dct_temporal_sm": [
+    "1905-01-01"
+  ],
+  "dct_title_s": "Map of Southern Turkestan.",
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1905]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1905
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668606",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,48 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"October 1996 1008073.\"",
+    "\"October 1996 1008073.\" Includes reference and source notes. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Natural Resources Conservation Service",
+    "Includes reference and source notes.",
+    "Publication statement: [Fort Worth, Tex.?] : The Service, 1996."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/97680588",
+    "http://www.loc.gov/item/97680588/",
+    "http://www.loc.gov/resource/g4061c.ct011747/",
+    "https://hdl.loc.gov/loc.gmd/g4061c.ct011747",
+    "https://search.catalog.loc.gov/instances/e5b37463-95b8-5ac3-a65f-5bfee8483845",
+    "https://www.loc.gov/item/97680588/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd406/g4061/g4061c/ct011747.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97680588/\"}",
+  "dct_spatial_sm": [
+    "middle west",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Precipitation (Meteorology)--Middle West--Maps",
+    "United States--Middle West"
+  ],
+  "dct_temporal_sm": [
+    "1961 d1990"
+  ],
+  "dct_title_s": "Mean annual precipitation (1961-1990 normal) : [North Central United States]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97680588",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

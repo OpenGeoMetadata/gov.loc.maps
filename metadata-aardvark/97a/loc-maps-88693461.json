@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "All block numbers and some place-names are printed on small labels and pasted on in appropriate position.",
+    "Also shows block numbers and major buildings.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "Halved and mounted on cloth backing.",
+    "India ink.",
+    "Partial cadastral map showing some lots in suburban areas.",
+    "Partial cadastral map showing some lots in suburban areas. Also shows block numbers and major buildings. Title devised by cataloger. India ink. All block numbers and some place-names are printed on small labels and pasted on in appropriate position. Halved and mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "Publication statement: [1886?]",
+    "Title devised by cataloger.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004207",
+    "http://lccn.loc.gov/88693461",
+    "http://www.loc.gov/item/88693461/",
+    "http://www.loc.gov/resource/g3850.ct004207/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004207",
+    "https://search.catalog.loc.gov/instances/02d73410-416d-59c8-8c42-75d39d5c8ab3",
+    "https://www.loc.gov/item/88693461/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004207.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693461/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1886",
+    "[1886?]"
+  ],
+  "dct_title_s": "[Map of the city of Washington and suburbs, District of Columbia]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693461",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

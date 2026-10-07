@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Anville, Jean Baptiste Bourguignon d', 1697-1782; Jefferys, Thomas, -1771",
+    "Differs from other copy in that only boundaries are colored and some place names are highlighted. The boundary of Georgia is continuous.",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Differs from other copy in that only boundaries are colored and some place names are highlighted. The boundary of Georgia is continuous. Includes text on the \"French incroachments\" and \"English title to their settlements on the continent.\" Scale ca. 1:6,500,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 29 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Includes text on the \"French incroachments\" and \"English title to their settlements on the continent.\"",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 29",
+    "Publication statement: [London] 1755.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:6,500,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar002900",
+    "http://lccn.loc.gov/73696680",
+    "http://www.loc.gov/item/73696680/",
+    "http://www.loc.gov/resource/g3300.ar002900/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar002900",
+    "https://search.catalog.loc.gov/instances/40c18c31-eef9-58f6-b2b3-7280f44c36bb",
+    "https://www.loc.gov/item/73696680/"
+  ],
+  "dct_issued_s": "1755",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar002900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73696680/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1755"
+  ],
+  "dct_title_s": "North America",
+  "gbl_dateRange_drsim": [
+    "[1755 TO 1755]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1755
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73696680",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nihon yochi rotei zenzu",
+    "新刻日本輿地路程全圖"
+  ],
+  "dct_description_sm": [
+    "\"畑九兵衛鐫字.\"",
+    "\"長玄珠子王父製.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Nagakubo, Sekisui, 1717-1801, cartographer",
+    "Includes notes.",
+    "LC copy: Mounted on cloth.",
+    "Label attached to map: B. Map by Sekisui (115 years ago).",
+    "Oriented with north toward the upper right.",
+    "Publication statement: Naniwa : Asano Yahē, Kansei 3 [1791]",
+    "Relief shown pictorially.",
+    "Wood block print.",
+    "Wood block print. Oriented with north toward the upper right. Relief shown pictorially. Includes notes. Label attached to map: B. Map by Sekisui (115 years ago). LC copy: Mounted on cloth. Available also through the Library of Congress Web site as a raster image. \"畑九兵衛鐫字.\" \"長玄珠子王父製.\""
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm71005171",
+    "http://www.loc.gov/item/gm71005171/",
+    "http://www.loc.gov/resource/g7961p.ct011911/",
+    "https://hdl.loc.gov/loc.gmd/g7961p.ct011911",
+    "https://search.catalog.loc.gov/instances/715596b3-01c8-50a3-92a7-e1dab61fb7f8",
+    "https://www.loc.gov/item/gm71005171/"
+  ],
+  "dct_issued_s": "1791",
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7961/g7961p/ct011911.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005171/\"}",
+  "dct_spatial_sm": [
+    "japan"
+  ],
+  "dct_subject_sm": [
+    "Japan",
+    "Japan--Distances, etc.--Maps",
+    "Roads--Japan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1791"
+  ],
+  "dct_title_s": "Shinkoku Nihon yochi rotei zenzu",
+  "gbl_dateRange_drsim": [
+    "[1791 TO 1791]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1791
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005171",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

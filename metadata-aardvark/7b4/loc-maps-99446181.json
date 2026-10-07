@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map shows sites around the Commander Islands, within Russian maritime borders, where seals were taken by Canadian ships in 1892. A major diplomatic controversy over sealing in the Bering Sea arose in the late 19th century, particularly over the actions of Canadian sealers who conducted pelagic hunting (far out to sea) for seals that harmed female seals, and thus threatened the overall population numbers. The United States contended that with the Alaska Purchase in 1867 it had acquired from Russia exclusive fishing rights in the Bering Sea, which it sought to assert in order to protect its land-based sealing interests on the Pribilof Islands. Canada, whose international affairs were at that time still conducted by Great Britain, contended that it had a right to pelagic sealing in the Bering Sea derived from earlier conventions with Russia. A tribunal of arbitration was convened in Paris to settle the dispute; in 1893 it ruled in favor of Great Britain. This map is based upon information used by the British team to argue its case in the arbitration proceedings. It shows the routes of the Canadian sealing ships. The table in the upper right indicates that 219 seals were taken within a 30-mile limit of the Commander Islands; 3,817 were taken outside this zone, for a total of 4,036 seals.\" World Digital Library.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Publication statement: [S.l.], 1892."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7322c.mf000019",
+    "http://lccn.loc.gov/99446181",
+    "http://www.loc.gov/item/99446181/",
+    "http://www.loc.gov/resource/g7322c.mf000019/",
+    "https://hdl.loc.gov/loc.gmd/g7322c.mf000019",
+    "https://search.catalog.loc.gov/instances/c0700c5e-3939-5a16-bd15-c9637558d336",
+    "https://www.loc.gov/item/99446181/"
+  ],
+  "dct_issued_s": "1892",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7322/g7322c/mf000019.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446181/\"}",
+  "dct_spatial_sm": [
+    "commander islands",
+    "russia",
+    "russia (federation)",
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Commander Islands (Russia)--Maps",
+    "Russia (Federation)--Commander Islands",
+    "Sealing--Russia (Federation)--Commander Islands--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "dct_title_s": "Chart showing the locality where seals were taken adjacent to the Commander Islands in 1892 by eight Canadian sealing vessels",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446181",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

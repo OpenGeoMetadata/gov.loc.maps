@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes note.",
+    "LC Luso-Hispanic world, 114",
+    "Pen-and-ink and watercolor.",
+    "Prime meridian: Ferro.",
+    "Publication statement: [178-?]",
+    "Relief shown pictorially and by shading.",
+    "Relief shown pictorially and by shading. Prime meridian: Ferro. Pen-and-ink and watercolor. Includes note. LC Luso-Hispanic world, 114 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5202p.ct000321",
+    "http://lccn.loc.gov/2003682610",
+    "http://www.loc.gov/item/2003682610/",
+    "http://www.loc.gov/resource/g5202p.ct000321/",
+    "https://hdl.loc.gov/loc.gmd/g5202p.ct000321",
+    "https://search.catalog.loc.gov/instances/9cfc4172-373a-58f8-ac96-1312ffc6fb16",
+    "https://www.loc.gov/item/2003682610/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5202/g5202p/ct000321.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003682610/\"}",
+  "dct_spatial_sm": [
+    "argentina",
+    "brazil",
+    "paraná river region",
+    "uruguay river region"
+  ],
+  "dct_subject_sm": [
+    "Argentina--Paraná River Region",
+    "Brazil--Paraná River Region",
+    "Paraná River Region (Brazil-Argentina)--Maps, Manuscript--Early works to 1800",
+    "Uruguay River Region",
+    "Uruguay River Region--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "Plano corografico de los reconocimientos pertenecientes a la demarcacion del Art. 8o. del Trato. Preliminar de Limites de 11 de octe. de 1777 practicados por las segundas subdivisiones española y portuguesa en orden a desatar los dudas suscitadas entre sus respectivos comisarios : [region of Panará River and Uruguay River]",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003682610",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

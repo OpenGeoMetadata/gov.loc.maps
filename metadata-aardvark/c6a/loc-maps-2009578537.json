@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Istituto geografico militare (Italy), cartographer",
+    "Includes various editions of some sheets.",
+    "Publication statement: [Florence?] : Istituto geografico militare,",
+    "Relief shown by hachures, form lines, and spot heights.",
+    "Relief shown by hachures, form lines, and spot heights. Includes various editions of some sheets. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8340m.g2009578537",
+    "http://lccn.loc.gov/2009578537",
+    "http://www.loc.gov/item/2009578537/",
+    "http://www.loc.gov/resource/g8340m.g2009578537/",
+    "https://hdl.loc.gov/loc.gmd/g8340m.g2009578537",
+    "https://search.catalog.loc.gov/instances/a830458e-e50b-54bc-b24a-2634cd2dd034",
+    "https://www.loc.gov/item/2009578537/"
+  ],
+  "dct_issued_s": "1909",
+  "dct_language_sm": [
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8m/g8340m/g8340m/g2009578537/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009578537/\"}",
+  "dct_spatial_sm": [
+    "africa",
+    "eritrea",
+    "italy"
+  ],
+  "dct_subject_sm": [
+    "Eritrea",
+    "Eritrea--Maps",
+    "Italy--Colonies--Africa--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dct_title_s": "Carta della colonia Eritrea",
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1909
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009578537",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

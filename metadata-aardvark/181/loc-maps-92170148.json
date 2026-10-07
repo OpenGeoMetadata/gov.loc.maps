@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Binder's title.",
+    "Contributors: J. & C. Walker (Firm); Society for the Diffusion of Useful Knowledge (Great Britain)",
+    "Engraved by J. & C. Walker.",
+    "Includes index map.",
+    "Publication statement: [London : E. Stanford, 18--]",
+    "Shows boundaries and names for British possessions, states under British protection, and independent states, on a general map.",
+    "Shows boundaries and names for British possessions, states under British protection, and independent states, on a general map. Binder's title. Engraved by J. & C. Walker. Includes index map. Weber Collection 2186. Ms. contents by Albrecht Weber on flyleaf. Hand colored boundary lines on maps. Available also through the Library of Congress Web site as a raster image.",
+    "Weber Collection 2186. Ms. contents by Albrecht Weber on flyleaf. Hand colored boundary lines on maps."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/92170148",
+    "http://www.loc.gov/item/92170148/",
+    "http://www.loc.gov/resource/gmdatlases.92170148/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.92170148",
+    "https://search.catalog.loc.gov/instances/08cc5dd3-bc87-55fb-b3c5-3ecf1c7cd355",
+    "https://www.loc.gov/item/92170148/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/master:gmd:gmdatlases:92:17:01:48:92170148:ca000001/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/92170148/\"}",
+  "dct_spatial_sm": [
+    "india"
+  ],
+  "dct_subject_sm": [
+    "India",
+    "India--Administrative and political divisions--Maps",
+    "India--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[London : E. Stanford, 18--]"
+  ],
+  "dct_title_s": "Maps of India",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92170148",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

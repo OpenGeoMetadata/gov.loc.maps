@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows canal, proposed railroad routes, sawmill locations, and watercourses.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Kollner, Augustus, 1813-1906, printer; Larry's Creek Plank Road Company, cartographer",
+    "Includes note and unrolled scroll image as a title cartouche.",
+    "LC copy imperfect: Laminated, darkened, mounted on cloth backing, annotated in lead-pencil handwriting.",
+    "Publication statement: Phil'a [Philadelphia] : Lith'y of AKollner.; [Pennsylvania?] : Larry's Creek Plank Road Company, [1855?]",
+    "Shows numbered land property tracts (some with owner's name) and the proposed route of the Larry's Creek Plank Road in the Cogan House Valley and in adjacent townships of northern Lycoming County (Pa.).",
+    "Shows numbered land property tracts (some with owner's name) and the proposed route of the Larry's Creek Plank Road in the Cogan House Valley and in adjacent townships of northern Lycoming County (Pa.). Also shows canal, proposed railroad routes, sawmill locations, and watercourses. LC copy imperfect: Laminated, darkened, mounted on cloth backing, annotated in lead-pencil handwriting. Includes note and unrolled scroll image as a title cartouche. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823l.la002071",
+    "http://lccn.loc.gov/2012590199",
+    "http://www.loc.gov/item/2012590199/",
+    "http://www.loc.gov/resource/g3823l.la002071/",
+    "https://hdl.loc.gov/loc.gmd/g3823l.la002071",
+    "https://search.catalog.loc.gov/instances/ed0b5f30-dd72-516f-a054-874a78a211e9",
+    "https://www.loc.gov/item/2012590199/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823l/la002071.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590199/\"}",
+  "dct_spatial_sm": [
+    "cogan house",
+    "cogan house (township)",
+    "lycoming county",
+    "pennsylvania",
+    "township",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cogan House (Pa. : Township)--Maps",
+    "Landowners--Pennsylvania--Cogan House (Township)--Maps",
+    "Landowners--Pennsylvania--Lycoming County--Maps",
+    "Real property--Pennsylvania--Cogan House (Township)--Maps",
+    "Real property--Pennsylvania--Lycoming County--Maps",
+    "Roads--Pennsylvania--Cogan House (Township)--Maps",
+    "Roads--Pennsylvania--Lycoming County--Maps",
+    "Sawmills--Pennsylvania--Cogan House (Township)--Maps",
+    "Sawmills--Pennsylvania--Lycoming County--Maps",
+    "United States--Pennsylvania--Cogan House (Township)",
+    "United States--Pennsylvania--Lycoming County"
+  ],
+  "dct_temporal_sm": [
+    "1855",
+    "[Pennsylvania?] : Larry's Creek Plank Road Company, [1855?]"
+  ],
+  "dct_title_s": "Draft of the Larry's Creek Plank Road, Lycoming County, Penn'a : 18 miles long",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590199",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

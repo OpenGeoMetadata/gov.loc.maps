@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"735708 (R00672) 5-95.\"",
+    "Also covers Ingushetia.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes location map.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1995]",
+    "Relief shown by shading.",
+    "Relief shown by shading. \"735708 (R00672) 5-95.\" Also covers Ingushetia. Includes location map. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7063c.ct002754",
+    "http://lccn.loc.gov/95683822",
+    "http://www.loc.gov/item/95683822/",
+    "http://www.loc.gov/resource/g7063c.ct002754/",
+    "https://hdl.loc.gov/loc.gmd/g7063c.ct002754",
+    "https://search.catalog.loc.gov/instances/79fbbbba-4ec8-511b-bf81-081705f7cd09",
+    "https://www.loc.gov/item/95683822/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7063/g7063c/ct002754.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95683822/\"}",
+  "dct_spatial_sm": [
+    "chechni︠a",
+    "ingushetia",
+    "russia"
+  ],
+  "dct_subject_sm": [
+    "Chechni︠a︡ (Russia)--Maps",
+    "Ingushetia (Russia)--Maps",
+    "Russia--Chechni︠a︡",
+    "Russia--Ingushetia"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Chechnya",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95683822",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

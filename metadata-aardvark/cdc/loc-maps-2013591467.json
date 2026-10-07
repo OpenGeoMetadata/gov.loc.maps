@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This is not a complete collection of the maps, charts, &c., published by order of Congress. It contains such only as could be collected when this volume was bound--1843.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Congress",
+    "LC copy disbound.",
+    "Phillips, 1384",
+    "Publication statement: Washington : [United States Congress], 1843.",
+    "Relief shown by hachures and spot heights. Depths shown by soundings.",
+    "Relief shown by hachures and spot heights. Depths shown by soundings. \"This is not a complete collection of the maps, charts, &c., published by order of Congress. It contains such only as could be collected when this volume was bound--1843.\" LC copy disbound. Phillips, 1384 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700m.gct00284",
+    "http://lccn.loc.gov/2013591467",
+    "http://www.loc.gov/item/2013591467/",
+    "http://www.loc.gov/resource/g3700m.gct00284/",
+    "https://hdl.loc.gov/loc.gmd/g3700m.gct00284",
+    "https://search.catalog.loc.gov/instances/2a4b035d-e0d9-5e99-8da0-a07c91262bb9",
+    "https://www.loc.gov/item/2013591467/"
+  ],
+  "dct_issued_s": "1843",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370m/g3700m/g3700m/gct00284/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013591467/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "western hemisphere"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps",
+    "Western Hemisphere",
+    "Western Hemisphere--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1843"
+  ],
+  "dct_title_s": "A collection of maps, charts, drawings, surveys, etc, published from time to time, by order of the two houses of Congress : [United States, Western Hemisphere, and the world]",
+  "gbl_dateRange_drsim": [
+    "[1843 TO 1843]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1843
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013591467",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

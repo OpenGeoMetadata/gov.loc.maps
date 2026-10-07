@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Based on John Hinncks' West Point. 1783.",
+    "Contributors: Hinncks, John",
+    "LC Maps of North America, 1750-1789, 1206",
+    "Manuscript, pen-and-ink on tracing paper.",
+    "Manuscript, pen-and-ink on tracing paper. Oriented with north to the right. Relief shown by hachures. Shows fortifications. Based on John Hinncks' West Point. 1783. Scale ca. 1:20,000. LC Maps of North America, 1750-1789, 1206 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650/1; 651/2",
+    "Oriented with north to the right.",
+    "Publication statement: 1783.",
+    "Relief shown by hachures.",
+    "Scale ca. 1:20,000.",
+    "Shows fortifications.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804w.ar120600",
+    "http://lccn.loc.gov/gm71005426",
+    "http://www.loc.gov/item/gm71005426/",
+    "http://www.loc.gov/resource/g3804w.ar120600/",
+    "https://hdl.loc.gov/loc.gmd/g3804w.ar120600",
+    "https://search.catalog.loc.gov/instances/97dcfb5f-ac9b-5065-9ebc-3e1a97ddb3b3",
+    "https://www.loc.gov/item/gm71005426/"
+  ],
+  "dct_issued_s": "1783",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804w/ar120600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005426/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "west point"
+  ],
+  "dct_subject_sm": [
+    "Fortification--New York (State)--West Point--Maps--Early works to 1800",
+    "United States--New York (State)--West Point",
+    "West Point (N.Y.)--Buildings, structures, etc.--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1783"
+  ],
+  "dct_title_s": "Sketch of West Point",
+  "gbl_dateRange_drsim": [
+    "[1783 TO 1783]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1783
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005426",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

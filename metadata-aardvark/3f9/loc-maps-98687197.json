@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "3 copies",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Available also through the Library of Congress web site as a raster image. 3 copies",
+    "Contributors: United States. General Land Office",
+    "Publication statement: [S.l.], 1887."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4330.np000070",
+    "http://lccn.loc.gov/98687197",
+    "http://www.loc.gov/item/98687197/",
+    "http://www.loc.gov/resource/g4330.np000070/",
+    "https://hdl.loc.gov/loc.gmd/g4330.np000070",
+    "https://search.catalog.loc.gov/instances/8c821c3e-6e93-5b63-a167-19a5863eded9",
+    "https://www.loc.gov/item/98687197/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd433/g4330/g4330/np000070.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687197/\"}",
+  "dct_spatial_sm": [
+    "arizona",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Arizona--Maps",
+    "United States--Arizona"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "Territory of Arizona",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687197",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

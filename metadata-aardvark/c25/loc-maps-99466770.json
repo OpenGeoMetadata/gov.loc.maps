@@ -1,0 +1,47 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Available also through the Library of Congress web site as a raster image. Change call number to G6711.A3 1850 .I8",
+    "Change call number to G6711.A3 1850 .I8",
+    "Publication statement: Milano : presso F. Corbetta, [1850?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6710.hl000001",
+    "http://lccn.loc.gov/99466770",
+    "http://www.loc.gov/item/99466770/",
+    "http://www.loc.gov/resource/g6710.hl000001/",
+    "https://hdl.loc.gov/loc.gmd/g6710.hl000001",
+    "https://search.catalog.loc.gov/instances/f9953d2b-0462-54e8-a1c0-311b5360045d",
+    "https://www.loc.gov/item/99466770/"
+  ],
+  "dct_language_sm": [
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6710/g6710/hl000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466770/\"}",
+  "dct_spatial_sm": [
+    "italy"
+  ],
+  "dct_subject_sm": [
+    "Italy",
+    "Italy--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1850",
+    "Milano : presso F. Corbetta, [1850?]"
+  ],
+  "dct_title_s": "Italia",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466770",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

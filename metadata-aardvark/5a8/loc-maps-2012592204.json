@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright 1894 by R.E. Lowry, Eaton, O.\"",
+    "\"Copyright 1894 by R.E. Lowry, Eaton, O.\" Includes text, population statistical table, and tax duplication table. LC Land ownership maps, 605 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lowry, R. E. (Robert Eaton), 1846-; Swisher, James",
+    "Includes text, population statistical table, and tax duplication table.",
+    "LC Land ownership maps, 605",
+    "Publication statement: [Place of publication not identified] : [publisher not identified], [1894]; ©1894"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4083c.la000605",
+    "http://lccn.loc.gov/2012592204",
+    "http://www.loc.gov/item/2012592204/",
+    "http://www.loc.gov/resource/g4083c.la000605/",
+    "https://hdl.loc.gov/loc.gmd/g4083c.la000605",
+    "https://search.catalog.loc.gov/instances/0d7aac9f-18fd-5f7e-83c6-765776fcabfb",
+    "https://www.loc.gov/item/2012592204/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4083/g4083c/la000605.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592204/\"}",
+  "dct_spatial_sm": [
+    "champaign county",
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Ohio--Champaign County--Maps",
+    "Real property--Ohio--Champaign County--Maps",
+    "United States--Ohio--Champaign County"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "Map of Champaign County, Ohio",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592204",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

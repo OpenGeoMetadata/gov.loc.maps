@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Includes illus. and directory. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 538 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Contributors: Landis & Alsop",
+    "Includes illus. and directory.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 538",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Newark, N.J. [1901]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804b.pm005380",
+    "http://lccn.loc.gov/75694747",
+    "http://www.loc.gov/item/75694747/",
+    "http://www.loc.gov/resource/g3804b.pm005380/",
+    "https://hdl.loc.gov/loc.gmd/g3804b.pm005380",
+    "https://search.catalog.loc.gov/instances/e837b8e1-9a68-585a-9759-52b881ec2ffd",
+    "https://www.loc.gov/item/75694747/"
+  ],
+  "dct_issued_s": "1901",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804b/pm005380.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694747/\"}",
+  "dct_spatial_sm": [
+    "binghamton",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Binghamton (N.Y.)",
+    "United States--New York (State)--Binghamton"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "dct_title_s": "Binghamton, N.Y. 1901",
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1901
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694747",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

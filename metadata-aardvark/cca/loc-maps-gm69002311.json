@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Cadastral map, showing numbered blocks and owners of unsubdivided land.",
+    "Cadastral map, showing numbered blocks and owners of unsubdivided land. Scale 1:12,000; 1,000 ft. = 1 in. DCP AACR2",
+    "Contributors: Hart, F. W., joint author; Knight, W. J.; Union Engineering & Surveying Co",
+    "DCP",
+    "Publication statement: Baltimore, Union Engineering & Surveying Co. [1908]",
+    "Scale 1:12,000; 1,000 ft. = 1 in."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm69002311",
+    "http://www.loc.gov/item/gm69002311/",
+    "http://www.loc.gov/resource/g3850.la002293/",
+    "https://hdl.loc.gov/loc.gmd/g3850.la002293",
+    "https://search.catalog.loc.gov/instances/2f096e21-705e-5547-a85c-614dd78d47b2",
+    "https://www.loc.gov/item/gm69002311/"
+  ],
+  "dct_issued_s": "1908",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/la002293.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm69002311/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "dct_title_s": "Washington, District of Columbia, 1908 & '09",
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1908]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1908
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm69002311",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

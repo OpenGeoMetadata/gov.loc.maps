@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Sheaff, J. A.",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 72",
+    "Outline map showing major drainage, some relief by hachures, state boundaries, canals, and important place names. Finished and proposed railroads are indicated.",
+    "Publication statement: Philadelphia, [1840?]",
+    "Scale [ca. 1:2,200,000].",
+    "Shows table of distances and maximum grades."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3711p.rr000720",
+    "http://lccn.loc.gov/98688348",
+    "http://www.loc.gov/item/98688348/",
+    "http://www.loc.gov/resource/g3711p.rr000720/",
+    "https://hdl.loc.gov/loc.gmd/g3711p.rr000720",
+    "https://search.catalog.loc.gov/instances/3ad026af-4244-517f-b143-cdbf46e774a3",
+    "https://www.loc.gov/item/98688348/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3711/g3711p/rr000720.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688348/\"}",
+  "dct_spatial_sm": [
+    "northeastern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Northeastern States--Maps",
+    "United States--Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1840",
+    "Philadelphia, [1840?]"
+  ],
+  "dct_title_s": "Map of the projected railway from Harrisburg to Pittsburg [sic] with proposed extensions to Cleveland, Cincinnati and St. Louis, in connexion [sic] with the public works of Pennsylvania, Ohio, Indiana and Illinois",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688348",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

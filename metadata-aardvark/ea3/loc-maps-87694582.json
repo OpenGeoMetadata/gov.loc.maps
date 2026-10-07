@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This large, detailed, and colorful map is from the collection of the Panama Canal Zone Library, which was transferred to the Library of Congress in 1978. This collection contains various maps, plans, and diagrams detailing the history of Panama and the construction of the Panama Canal over the ten-year period of 1904 to 1914. This map shows the line of the planned lock canal with the summit elevations at 85 feet (25.9 meters) and represents the work for the Isthmian Canal Commission by Chief Engineer John Stevens. Stevens oversaw the engineering of the canal's lock system and the rerouting of the Panama Railroad. The map shows the line of the canal, contemporaneous and projected locations of the Panama railroad, dams, and bodies of water and their depths. The map also includes some soundings and relief. Land relief is shown by contours and hachures and is marked in meters. Distance scales are in statute miles and kilometers.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Isthmian Canal Commission (U.S.). Lock Canal Project",
+    "Publication statement: [Balboa Heights, Canal Zone?] : The Commission, 1906.",
+    "Relief shown by contours and hachures.",
+    "Transferred from the collection of the Canal Zone Library-Museum, 1980.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4872p.pcc00005",
+    "http://lccn.loc.gov/87694582",
+    "http://www.loc.gov/item/87694582/",
+    "http://www.loc.gov/resource/g4872p.pcc00005/",
+    "https://hdl.loc.gov/loc.gmd/g4872p.pcc00005",
+    "https://search.catalog.loc.gov/instances/e06a0a55-36f0-58b7-9ddc-bda792c4ea46",
+    "https://www.loc.gov/item/87694582/"
+  ],
+  "dct_issued_s": "1906",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4872/g4872p/pcc00005.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694582/\"}",
+  "dct_spatial_sm": [
+    "panama",
+    "panama canal"
+  ],
+  "dct_subject_sm": [
+    "Panama Canal (Panama)--Maps",
+    "Panama--Panama Canal"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "dct_title_s": "Map showing line of proposed lock canal with summit elevation at 85 feet : [Panama Canal]",
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1906
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694582",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

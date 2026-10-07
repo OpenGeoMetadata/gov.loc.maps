@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map of block bounded by Virginia Av., 3rd, G, and 4th streets S.E.",
+    "Cadastral map of block bounded by Virginia Av., 3rd, G, and 4th streets S.E. India ink with later notes and additions in lead pencil. Soiled and trimmed. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "DCP",
+    "India ink with later notes and additions in lead pencil.",
+    "Publication statement: [186-?]",
+    "Soiled and trimmed.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851g.la002226",
+    "http://lccn.loc.gov/88693132",
+    "http://www.loc.gov/item/88693132/",
+    "http://www.loc.gov/resource/g3851g.la002226/",
+    "https://hdl.loc.gov/loc.gmd/g3851g.la002226",
+    "https://search.catalog.loc.gov/instances/f462f9ad-5700-5f0c-aa1f-ad678ad8157d",
+    "https://www.loc.gov/item/88693132/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851g/la002226.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693132/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Square 796 : [Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693132",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bruff, Joseph Goldsborough, 1804-1889",
+    "LC Luso-Hispanic World, 581",
+    "Pen-and-ink, red ink, and pencil on tracing paper.",
+    "Publication statement: [1846]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Pen-and-ink, red ink, and pencil on tracing paper. LC Luso-Hispanic World, 581 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4414p.ct000600",
+    "http://lccn.loc.gov/2001620542",
+    "http://www.loc.gov/item/2001620542/",
+    "http://www.loc.gov/resource/g4414p.ct000600/",
+    "https://hdl.loc.gov/loc.gmd/g4414p.ct000600",
+    "https://search.catalog.loc.gov/instances/e2c1f03b-38ae-5427-8d0d-3f8e5e8929a1",
+    "https://www.loc.gov/item/2001620542/"
+  ],
+  "dct_issued_s": "1846",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4414/g4414p/ct000600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001620542/\"}",
+  "dct_spatial_sm": [
+    "mexico",
+    "parras de la fuente region"
+  ],
+  "dct_subject_sm": [
+    "Mexico--Parras de la Fuente Region",
+    "Parras de la Fuente Region (Mexico)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1846"
+  ],
+  "dct_title_s": "Reconnaissance of the country from Parras via Peña, Alamo de Parras, and the forks of the roads to Zacatecas and Durango, returning via Los Hornos, the road to Chihuahua and Pozo",
+  "gbl_dateRange_drsim": [
+    "[1846 TO 1846]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1846
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001620542",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Antiquissima orbis delineatio"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Briet, Philip, 1601-1668; Briet, Philip, 1601-1668, cartographer",
+    "Publication information from text.",
+    "Publication statement: [Paris] : [Sebastién and Gabriel Cramoisy], [1649]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Publication information from text. Available also through the Library of Congress web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct000217",
+    "http://lccn.loc.gov/97690001",
+    "http://www.loc.gov/item/97690001/",
+    "http://www.loc.gov/resource/g3200.ct000217/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct000217",
+    "https://search.catalog.loc.gov/instances/926334c4-bf7c-5906-85fa-2c30bf5a78e9",
+    "https://www.loc.gov/item/97690001/"
+  ],
+  "dct_issued_s": "1649",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct000217.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97690001/\"}",
+  "dct_spatial_sm": [
+    "earth"
+  ],
+  "dct_subject_sm": [
+    "Earth",
+    "Geography, Ancient--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1649"
+  ],
+  "dct_title_s": "Antiqvissima orbis delineatio",
+  "gbl_dateRange_drsim": [
+    "[1649 TO 1649]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1649
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97690001",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

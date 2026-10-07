@@ -1,0 +1,48 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Pearce & Best",
+    "Includes 20 views and a Table of Mountains.",
+    "Publication statement: [S.l.] : Pearce & Best, [187-]",
+    "Relief shown in hachures.",
+    "Relief shown in hachures. Includes 20 views and a Table of Mountains. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3900.ct002858",
+    "http://lccn.loc.gov/2009582408",
+    "http://www.loc.gov/item/2009582408/",
+    "http://www.loc.gov/resource/g3900.ct002858/",
+    "https://hdl.loc.gov/loc.gmd/g3900.ct002858",
+    "https://search.catalog.loc.gov/instances/2363c873-2b96-5724-8ad9-f40fefa51b05",
+    "https://www.loc.gov/item/2009582408/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3900/g3900/ct002858.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009582408/\"}",
+  "dct_spatial_sm": [
+    "north carolina"
+  ],
+  "dct_subject_sm": [
+    "North Carolina",
+    "North Carolina--Maps"
+  ],
+  "dct_temporal_sm": [
+    "187?"
+  ],
+  "dct_title_s": "Pearce's new map of the state of North Carolina : constructed from actual surveys, authentic public documents and private contributions",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009582408",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

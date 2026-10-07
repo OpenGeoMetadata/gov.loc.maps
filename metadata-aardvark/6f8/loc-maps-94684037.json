@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Surveyed in 1885-6\".",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Gannett, Henry, 1846-1914; Geological Survey (U.S.); Hoffman, J. D.; Howell, D. J.; Thompson, G. (Gilbert), 1839-1909; U.S. Coast and Geodetic Survey",
+    "DCP",
+    "LC copy torn, fold-lined.",
+    "Publication statement: [Washington?] : U.S. Geological Survey, [1886?]",
+    "Relief shown by contours.",
+    "Topographic map.",
+    "Topographic map. Relief shown by contours. \"Surveyed in 1885-6\". Available also through the Library of Congress Web site as a raster image. LC copy torn, fold-lined. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004431",
+    "http://lccn.loc.gov/94684037",
+    "http://www.loc.gov/item/94684037/",
+    "http://www.loc.gov/resource/g3850.ct004431/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004431",
+    "https://search.catalog.loc.gov/instances/d77da62f-6e9f-561a-8bc3-f64b3087ab71",
+    "https://www.loc.gov/item/94684037/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004431.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94684037/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Metropolitan Area",
+    "Washington (D.C.)--Maps",
+    "Washington Metropolitan Area--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1885 d1886",
+    "[Washington?] : U.S. Geological Survey, [1886?]"
+  ],
+  "dct_title_s": "Maryland--District of Columbia--Virginia, Washington sheet",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-94684037",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

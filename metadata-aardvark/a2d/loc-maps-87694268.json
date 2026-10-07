@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"4-R-40028.\"",
+    "\"October 1986.\"",
+    "\"October 1986.\" Alternate title in right lower margin: Passaic Co., N.J. : N4048.5--W7406/24X24.5 1979. UTM and state grids. Includes notes. \"4-R-40028.\" Available also through the Library of Congress Web site as a raster image.",
+    "Alternate title in right lower margin: Passaic Co., N.J. : N4048.5--W7406/24X24.5 1979.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes notes.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [Somerset, N.J. : State Conservationist, distributor], 1987.",
+    "UTM and state grids."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3813p.ct006880",
+    "http://lccn.loc.gov/87694268",
+    "http://www.loc.gov/item/87694268/",
+    "http://www.loc.gov/resource/g3813p.ct006880/",
+    "https://hdl.loc.gov/loc.gmd/g3813p.ct006880",
+    "https://search.catalog.loc.gov/instances/93794103-01a1-5d4b-a10d-c1ce55797fc4",
+    "https://www.loc.gov/item/87694268/"
+  ],
+  "dct_issued_s": "1986",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3813/g3813p/ct006880.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694268/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "passaic county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Passaic County (N.J.)--Maps",
+    "United States--New Jersey--Passaic County"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "dct_title_s": "Passaic County, New Jersey",
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694268",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

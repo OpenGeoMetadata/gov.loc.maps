@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "16 sheet(s).",
+    "Nov 1913.",
+    "Nov 1913. 16 sheet(s). Other places as they appear on original: East Spencer.",
+    "Other places as they appear on original: East Spencer.",
+    "Publication statement: Sanborn Map Company, Nov 1913"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3904sm.g3904sm_g064931913",
+    "http://www.loc.gov/item/sanborn06493_001/",
+    "http://www.loc.gov/resource/g3904sm.g3904sm_g064931913/",
+    "https://hdl.loc.gov/loc.gmd/g3904sm.g3904sm_g064931913",
+    "https://www.loc.gov/item/sanborn06493_001",
+    "https://www.loc.gov/item/sanborn06493_001/",
+    "https://www.loc.gov/resource/g3904sm.g3904sm_g064931913"
+  ],
+  "dct_issued_s": "1913-11",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn06493_001/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390m/g3904m/g3904sm/g3904sm_g064931913/06493_1913-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn06493_001/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "east spencer",
+    "north carolina",
+    "rowan county",
+    "spencer",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1913-11"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Spencer, Rowan County, North Carolina.",
+  "gbl_dateRange_drsim": [
+    "[1913 TO 1913]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1913
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn06493_001",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

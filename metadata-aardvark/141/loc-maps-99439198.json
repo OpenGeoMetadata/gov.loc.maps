@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Advanced sheet. Subject to correction.\"",
+    "\"Advanced sheet. Subject to correction.\" Detailed topographic map. Contour interval 10 feet. The base map is printed in brown, and place names are in black. Troop positions and movements are not indicated. Description derived from published bibliography. Scale 1:24,000. LC Civil War Maps (2nd ed.), 555.8 Available also through the Library of Congress web site as raster image.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Description derived from published bibliography.",
+    "Detailed topographic map. Contour interval 10 feet. The base map is printed in brown, and place names are in black. Troop positions and movements are not indicated.",
+    "LC Civil War Maps (2nd ed.), 555.8",
+    "Publication statement: [Washington 1934]",
+    "Scale 1:24,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882f.cw0555800",
+    "http://lccn.loc.gov/99439198",
+    "http://www.loc.gov/item/99439198/",
+    "http://www.loc.gov/resource/g3882f.cw0555800/",
+    "https://hdl.loc.gov/loc.gmd/g3882f.cw0555800",
+    "https://search.catalog.loc.gov/instances/e3e62d78-4fc0-59b4-96db-ea80eda01379",
+    "https://www.loc.gov/item/99439198/"
+  ],
+  "dct_issued_s": "1934",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882f/cw0555800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99439198/\"}",
+  "dct_spatial_sm": [
+    "fredericksburg",
+    "fredericksburg and spotsylvania county battlefields memorial national military park",
+    "spotsylvania",
+    "spotsylvania county battlefields memorial national military park",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park (Va.)--Maps",
+    "United States--Virginia--Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park",
+    "United States--Virginia--Spotsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1934"
+  ],
+  "dct_title_s": "Fredericksburg-Spotsylvania Battlefield National Monument, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1934 TO 1934]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1934
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99439198",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

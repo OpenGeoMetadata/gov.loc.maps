@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Franklin/Highlands area recreation map",
+    "Title in upper margin: Franklin/Highlands area recreation map"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Franklin Area Chamber of Commerce (N.C.); United States. Forest Service",
+    "Includes index to recreation areas, notes, and key to tourist signs.",
+    "Publication statement: Washington, D.C. : U.S.D.A. Forest Service, [2011?]",
+    "Text, descriptive index to recreation areas, and col. ill. on verso.",
+    "Title from panel.",
+    "Title from panel. Includes index to recreation areas, notes, and key to tourist signs. Text, descriptive index to recreation areas, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2011585850",
+    "http://www.loc.gov/item/2011585850/",
+    "http://www.loc.gov/resource/g3904f.ct009800/",
+    "https://hdl.loc.gov/loc.gmd/g3904f.ct009800",
+    "https://search.catalog.loc.gov/instances/4bb54e97-e3e5-5ca3-98ab-fce097ad2919",
+    "https://www.loc.gov/item/2011585850/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3904/g3904f/ct009800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011585850/\"}",
+  "dct_spatial_sm": [
+    "franklin region",
+    "franklin region (macon county)",
+    "highlands region",
+    "macon county",
+    "nantahala national forest",
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Recreation areas--North Carolina--Franklin Region (Macon County)--Maps",
+    "Recreation areas--North Carolina--Highlands Region--Maps",
+    "Recreation areas--North Carolina--Nantahala National Forest--Maps",
+    "United States--North Carolina--Franklin Region (Macon County)",
+    "United States--North Carolina--Highlands Region",
+    "United States--North Carolina--Nantahala National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "Washington, D.C. : U.S.D.A. Forest Service, [2011?]"
+  ],
+  "dct_title_s": "Franklin/Highlands and Nantahala National Forest recreation map",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011585850",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

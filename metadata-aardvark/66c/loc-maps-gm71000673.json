@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Wangenheim, Friedrich Adam Julius von",
+    "LC Maps of North America, 1750-1789, 1351",
+    "Manuscript, pen-and-ink and pencil on tracing paper.",
+    "Manuscript, pen-and-ink and pencil on tracing paper. Oriented with north toward the upper right. Relief shown by hachures. Title in French. Map in English and French. Scale ca. 1:38,000. LC Maps of North America, 1750-1789, 1351 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651",
+    "Oriented with north toward the upper right.",
+    "Publication statement: [1777]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:38,000.",
+    "Title in French. Map in English and French.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3834w.ar135100",
+    "http://lccn.loc.gov/gm71000673",
+    "http://www.loc.gov/item/gm71000673/",
+    "http://www.loc.gov/resource/g3834w.ar135100/",
+    "https://hdl.loc.gov/loc.gmd/g3834w.ar135100",
+    "https://search.catalog.loc.gov/instances/8fa8b517-8683-5bd9-b77f-7e689cc8a1bc",
+    "https://www.loc.gov/item/gm71000673/"
+  ],
+  "dct_issued_s": "1777",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd383/g3834/g3834w/ar135100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000673/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "united states",
+    "wilmington"
+  ],
+  "dct_subject_sm": [
+    "United States--Delaware--Wilmington",
+    "Wilmington (Del.)--History--Revolution, 1775-1783--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "dct_title_s": "Plan du camp retranchè à Wilmington pour y couvrir notre hospital apres la Battaille de Brandywine",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000673",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

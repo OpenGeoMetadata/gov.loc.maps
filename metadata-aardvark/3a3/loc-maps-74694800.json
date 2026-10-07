@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mynde, James, 1702-1771; Phelps, James; W. Mount and T. Page, publisher",
+    "Indexed for points of interest.",
+    "LC Maps of North America, 1750-1789, 1806",
+    "Oriented with north toward the lower left.",
+    "Publication statement: London, Printed and sold by William Mount and Thomas Page [1758?]",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Relief shown pictorially. Depths shown by soundings. Oriented with north toward the lower left. Indexed for points of interest. Scale ca. 1:13,500. LC Maps of North America, 1750-1789, 1806 Available also through the Library of Congress Web site as a raster image. AACR2: 650/1",
+    "Scale ca. 1:13,500."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4924h.ar180600",
+    "http://lccn.loc.gov/74694800",
+    "http://www.loc.gov/item/74694800/",
+    "http://www.loc.gov/resource/g4924h.ar180600/",
+    "https://hdl.loc.gov/loc.gmd/g4924h.ar180600",
+    "https://search.catalog.loc.gov/instances/29d60612-db7d-5c7f-a82c-13360be11d58",
+    "https://www.loc.gov/item/74694800/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4924/g4924h/ar180600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694800/\"}",
+  "dct_spatial_sm": [
+    "cuba",
+    "havana"
+  ],
+  "dct_subject_sm": [
+    "Cuba--Havana",
+    "Harbors--Cuba--Havana--Maps--Early works to 1800",
+    "Havana (Cuba)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1758",
+    "London, Printed and sold by William Mount and Thomas Page [1758?]"
+  ],
+  "dct_title_s": "A new and correct chart of the harbour of Havana on the island of Cuba with a plan of ye city &c",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694800",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hine, Charles De Lano, 1867-1927",
+    "Gift; E.R. True; June 1961.",
+    "Oriented with north toward the upper right.",
+    "Pen-and-ink and watercolors.",
+    "Publication statement: 1889.",
+    "Relief shown by contours and shading.",
+    "Relief shown by contours and shading. Oriented with north toward the upper right. Pen-and-ink and watercolors. Title and date printed on card affixed to recto at lower left; personal name handwritten in ink on card. Sheet fold-lined, slightly torn at left edge, stained on verso. Available also through the Library of Congress Web site as a raster image. Gift; E.R. True; June 1961.",
+    "Sheet fold-lined, slightly torn at left edge, stained on verso.",
+    "Title and date printed on card affixed to recto at lower left; personal name handwritten in ink on card."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804w.ct000249",
+    "http://lccn.loc.gov/2001621188",
+    "http://www.loc.gov/item/2001621188/",
+    "http://www.loc.gov/resource/g3804w.ct000249/",
+    "https://hdl.loc.gov/loc.gmd/g3804w.ct000249",
+    "https://search.catalog.loc.gov/instances/38791aa3-d8e8-51e2-9093-7c62c9a4073e",
+    "https://www.loc.gov/item/2001621188/"
+  ],
+  "dct_issued_s": "1889",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804w/ct000249.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001621188/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "west point"
+  ],
+  "dct_subject_sm": [
+    "United States--New York (State)--West Point",
+    "West Point (N.Y.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "dct_title_s": "Route sketch of part of U.S. Military Reservation, West Point, N.Y.",
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2001621188",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

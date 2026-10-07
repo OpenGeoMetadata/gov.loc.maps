@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base map provided by United States Geological Survey.\"",
+    "\"This document was prepared primarily by stereoscopic analysis of high altitude aerial photographs.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: U.S. Fish and Wildlife Service; United States. Soil Conservation Service",
+    "Includes location map, sheet index, and reliability diagram.",
+    "Map information as of 1979-1980.",
+    "Map information as of 1979-1980. Relief shown by spot heights. Depths shown by contours. \"This document was prepared primarily by stereoscopic analysis of high altitude aerial photographs.\" Title in margin at top: National wetlands reconnaissance survey. \"Base map provided by United States Geological Survey.\" Includes location map, sheet index, and reliability diagram. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington, D.C.] : U.S. Fish and Wildlife Service, [1981-1982]",
+    "Relief shown by spot heights. Depths shown by contours.",
+    "Title in margin at top: National wetlands reconnaissance survey."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/93683287",
+    "http://www.loc.gov/item/93683287/",
+    "http://www.loc.gov/resource/gmdsetmaps.93683287/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.93683287",
+    "https://search.catalog.loc.gov/instances/b0108565-a12c-5227-80c5-9de149de0244",
+    "https://www.loc.gov/item/93683287/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:93:68:32:87:93683287:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/93683287/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States--Florida",
+    "Wetland ecology--Florida--Maps",
+    "Wetlands--Florida--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1981/1982"
+  ],
+  "dct_title_s": "1:250,000-scale wetland map of national wetlands reconnaissance survey : [Florida]",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1982]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93683287",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

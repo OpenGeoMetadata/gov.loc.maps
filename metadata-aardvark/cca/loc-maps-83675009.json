@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chŏng, Sang-gi, 1678-1752",
+    "Form AACR2: ga37 2007-12-03",
+    "Phillips, 10046",
+    "Publication statement: [18--?]",
+    "Purchase; Langdon Warner; 1929, no. 3",
+    "Romanized.",
+    "Romanized. Phillips, 10046 Available also through the Library of Congress Web site as a raster image. Purchase; Langdon Warner; 1929, no. 3 Form AACR2: ga37 2007-12-03"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7900m.gct00160",
+    "http://lccn.loc.gov/83675009",
+    "http://www.loc.gov/item/83675009/",
+    "http://www.loc.gov/resource/g7900m.gct00160/",
+    "https://hdl.loc.gov/loc.gmd/g7900m.gct00160",
+    "https://search.catalog.loc.gov/instances/8724bc0a-c247-5912-b77a-a6faa789252c",
+    "https://www.loc.gov/item/83675009/"
+  ],
+  "dct_language_sm": [
+    "korean"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7m/g7900m/g7900m/gct00160/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83675009/\"}",
+  "dct_spatial_sm": [
+    "korea"
+  ],
+  "dct_subject_sm": [
+    "Korea",
+    "Korea--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[18--?]"
+  ],
+  "dct_title_s": "[Chosŏn chido]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83675009",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

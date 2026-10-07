@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chevenard, L.; Longchamps, géographe",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Inset: Suplement pour les possessions des colonies Anglaises au sud de la Louisiane. Scale ca. 1:3,800,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Inset: Suplement pour les possessions des colonies Anglaises au sud de la Louisiane.",
+    "Publication statement: [Paris] 1776.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:3,800,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar014000",
+    "http://lccn.loc.gov/77694925",
+    "http://www.loc.gov/item/77694925/",
+    "http://www.loc.gov/resource/g3300.ar014000/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar014000",
+    "https://search.catalog.loc.gov/instances/aa649aa1-660f-5817-a0b4-30e19eb8c648",
+    "https://www.loc.gov/item/77694925/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar014000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77694925/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "North America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "Carte des possessions des colonies Anglaises dans le continent de l'Amérique Septentrionale et partie de la Louisiane",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77694925",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

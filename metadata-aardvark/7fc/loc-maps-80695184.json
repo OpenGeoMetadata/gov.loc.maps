@@ -1,0 +1,76 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2; 651/3; 650/4; 650/5; 650/6",
+    "Also covers Blackstone and Millville.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Nelson, Newell; Taft, William H. (William Howard), 1857-1930",
+    "From the President William Howard Taft papers.",
+    "Hand colored.",
+    "Hand colored. Relief shown by hachures. Also covers Blackstone and Millville. Shows householders' names. From the President William Howard Taft papers. Includes statistical data. Scale not given. Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Lacks small internal sections. LC copy annotated in pencil. Vault AACR2: 651/1; 651/2; 651/3; 650/4; 650/5; 650/6",
+    "Includes statistical data.",
+    "LC copy annotated in pencil.",
+    "LC copy imperfect: Lacks small internal sections.",
+    "Publication statement: [s.l. : s.n.], 1831",
+    "Relief shown by hachures.",
+    "Scale not given.",
+    "Shows householders' names.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764m.ct004101",
+    "http://lccn.loc.gov/80695184",
+    "http://www.loc.gov/item/80695184/",
+    "http://www.loc.gov/resource/g3764m.ct004101/",
+    "https://hdl.loc.gov/loc.gmd/g3764m.ct004101",
+    "https://search.catalog.loc.gov/instances/8f94bbfb-6528-5147-a9ea-a7ab9c629170",
+    "https://www.loc.gov/item/80695184/"
+  ],
+  "dct_issued_s": "1831",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764m/ct004101.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80695184/\"}",
+  "dct_spatial_sm": [
+    "blackstone",
+    "mandon",
+    "massachusetts",
+    "mendon",
+    "millville",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Blackstone (Mass.)--Maps",
+    "Mendon (Mass.)--Maps",
+    "Millville (Mass.)--Maps",
+    "Real property--Massachusetts--Blackstone--Maps",
+    "Real property--Massachusetts--Mandon--Maps",
+    "Real property--Massachusetts--Millville--Maps",
+    "United States--Massachusetts--Blackstone",
+    "United States--Massachusetts--Mandon",
+    "United States--Massachusetts--Millville"
+  ],
+  "dct_temporal_sm": [
+    "1831"
+  ],
+  "dct_title_s": "A map of Mendon, Worcester County, Mass",
+  "gbl_dateRange_drsim": [
+    "[1831 TO 1831]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1831
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80695184",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

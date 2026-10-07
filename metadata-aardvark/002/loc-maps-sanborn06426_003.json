@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "3 sheet(s).",
+    "Feb 1896.",
+    "Feb 1896. 3 sheet(s).",
+    "Publication statement: Sanborn Map Company, Feb 1896"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3904hm.g3904hm_g064261896",
+    "http://www.loc.gov/item/sanborn06426_003/",
+    "http://www.loc.gov/resource/g3904hm.g3904hm_g064261896/",
+    "https://hdl.loc.gov/loc.gmd/g3904hm.g3904hm_g064261896",
+    "https://www.loc.gov/item/sanborn06426_003",
+    "https://www.loc.gov/item/sanborn06426_003/",
+    "https://www.loc.gov/resource/g3904hm.g3904hm_g064261896"
+  ],
+  "dct_issued_s": "1896-02",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn06426_003/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390m/g3904m/g3904hm/g3904hm_g064261896/06426_1896-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn06426_003/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "catawba county",
+    "hickory",
+    "north carolina",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1896-02"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Hickory, Catawba County, North Carolina.",
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1896
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn06426_003",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

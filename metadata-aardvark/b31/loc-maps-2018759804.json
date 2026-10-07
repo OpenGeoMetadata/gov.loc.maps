@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Схема образования речной террасы. Геологический разрез поймы р.Зеи на правом берегу"
+  ],
+  "dct_description_sm": [
+    "Contributors: Bulgakov, A. I.",
+    "From the atlas \"Chertezhi, grafiki, diagrammy k dokladu gorod Alekseevsk na Zee\".",
+    "From the atlas \"Chertezhi, grafiki, diagrammy k dokladu gorod Alekseevsk na Zee\". Original map at: National Library of Russia From the atlas \"Атлас чертежей, графиков, диаграмм к докладу город Алексеевск на р.Зее.\"",
+    "From the atlas \"Атлас чертежей, графиков, диаграмм к докладу город Алексеевск на р.Зее.\"",
+    "Original map at: National Library of Russia",
+    "Publication statement: Blagoveshchensk, Russia : Tipo-lit. Blagoveshchensk; Torg. d. I. Ia. Churin i Ko., 1912."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018759804",
+    "http://www.loc.gov/item/2018759804/",
+    "http://www.loc.gov/resource/gdc.2018759804/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.natl0003_00601",
+    "https://search.catalog.loc.gov/instances/922f47c6-b0c8-59b8-8f55-b1658866457e",
+    "https://www.loc.gov/item/2018759804/"
+  ],
+  "dct_issued_s": "1912",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018759804.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018759804/2018759804.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018759804:0006/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018759804/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Atlases",
+    "Maps",
+    "Russian Federation",
+    "Siberia"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dct_title_s": "Skhema obrazovanii︠a︡ rechnoĭ terrasy. Geologicheskiĭ razrez poĭmy r.Zei na pravom beregu",
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018759804",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

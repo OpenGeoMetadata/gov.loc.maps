@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cram, George Franklin, 1841-1928",
+    "Description derived from published bibliography.",
+    "Indexed township and county map showing relief by hachures, drainage, and cities and towns. Railroad lines are distinguished by color.",
+    "LC Railroad maps, 184",
+    "Publication statement: Chicago, 1895.",
+    "Scale 1:1,025,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4001p.rr001840",
+    "http://lccn.loc.gov/98688446",
+    "http://www.loc.gov/item/98688446/",
+    "http://www.loc.gov/resource/g4001p.rr001840/",
+    "https://hdl.loc.gov/loc.gmd/g4001p.rr001840",
+    "https://search.catalog.loc.gov/instances/11ff9691-4704-535b-b3f2-b2dffae58a5c",
+    "https://www.loc.gov/item/98688446/"
+  ],
+  "dct_issued_s": "1895",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4001/g4001p/rr001840.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688446/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Arkansas--Maps",
+    "United States--Arkansas"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dct_title_s": "Cram's township and rail road map of Arkansas",
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688446",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

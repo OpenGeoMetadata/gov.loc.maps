@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: klettner, edgar; livraria do globo; modelski, andrew m.; thofehrn, hans a."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi77105875/",
+    "https://www.loc.gov/item/hlas-bi77105875/"
+  ],
+  "dct_issued_s": "1974",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_publisher_sm": [
+    "Livraria do Globo,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi77105875/\"}",
+  "dct_spatial_sm": [
+    "brazil"
+  ],
+  "dct_subject_sm": [
+    "maps and cartography",
+    "porto alegre, brazil (city)",
+    "porto alegre, brazil (city) -- maps and cartography",
+    "porto alegre, brazil (city) -- road maps",
+    "porto alegre, brazil (city) -- tourism",
+    "road maps",
+    "tourism",
+    "tourism -- maps and cartography"
+  ],
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "dct_title_s": "Planta da cidade de Pôrto Alegre. Apresentação gráfica do cartógrafo Edgar Klettner; colaboração dos desenhistas Lydio Costa de Andrade, Dorival Rosa de Azevedo e Vacil de Araújo Rosa; executada na Seção de Cartografia da Livraria do Globo S.A",
+  "gbl_dateRange_drsim": [
+    "[1974 TO 1974]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1974
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi77105875",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

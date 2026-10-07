@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base map drainage modified 1974.\"",
+    "\"Lambert conformal conic projection based on standard parallels 33⁰ and 45⁰.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map \"Compiled in 1963. Edition of 1966.\"",
+    "Contributors: Geological Survey (U.S.); Water Resources Council (U.S.)",
+    "Includes text and table of hydrologic units.",
+    "Publication statement: Reston, Va., 1974.",
+    "Relief shown by spot heights.",
+    "Relief shown by spot heights. \"Lambert conformal conic projection based on standard parallels 33⁰ and 45⁰.\" \"Base map drainage modified 1974.\" Base map \"Compiled in 1963. Edition of 1966.\" Includes text and table of hydrologic units. Scale 1:500,000; 1 in. equals approx. 8 miles. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale 1:500,000; 1 in. equals approx. 8 miles."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/76691412",
+    "http://www.loc.gov/item/76691412/",
+    "http://www.loc.gov/resource/g3891c.ct009397/",
+    "https://hdl.loc.gov/loc.gmd/g3891c.ct009397",
+    "https://search.catalog.loc.gov/instances/69a74d7f-0dc7-5a9f-a2b1-550eb9c321cb",
+    "https://www.loc.gov/item/76691412/"
+  ],
+  "dct_issued_s": "1974",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3891/g3891c/ct009397.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76691412/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Hydrology--West Virginia--Maps",
+    "United States--West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "dct_title_s": "Hydrologic unit map--1974, State of West Virginia",
+  "gbl_dateRange_drsim": [
+    "[1974 TO 1974]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1974
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76691412",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Appears in the author's A complete atlas, or distinct view of the known world. 1752.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bowen, Emanuel, -1767",
+    "Hand colored.",
+    "Hand colored. Oriented with north toward the upper left. Appears in the author's A complete atlas, or distinct view of the known world. 1752. Scale ca. 1:95,000. LC Maps of North America, 1750-1789, 2147 LC Treasure maps, 14 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "LC Maps of North America, 1750-1789, 2147",
+    "LC Treasure maps, 14",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [London, 1752]",
+    "Scale ca. 1:95,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g9120.ar214701",
+    "http://lccn.loc.gov/gm71006430",
+    "http://www.loc.gov/item/gm71006430/",
+    "http://www.loc.gov/resource/g9120.ar214701/",
+    "https://hdl.loc.gov/loc.gmd/g9120.ar214701",
+    "https://search.catalog.loc.gov/instances/799ec36f-2ae4-5dd5-9ff4-1d01f53e12b6",
+    "https://www.loc.gov/item/gm71006430/"
+  ],
+  "dct_issued_s": "1750",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd9/g9120/g9120/ar214701.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71006430/\"}",
+  "dct_spatial_sm": [
+    "bermuda islands"
+  ],
+  "dct_subject_sm": [
+    "Bermuda Islands",
+    "Bermuda Islands--Maps--Early works to 1800",
+    "Shipwrecks--Bermuda Islands--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1750"
+  ],
+  "dct_title_s": "A new & accurate map of Bermudas or Sommer's Islands, taken from an actual survey; wherein the errors of former charts are corrected",
+  "gbl_dateRange_drsim": [
+    "[1750 TO 1750]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1750
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71006430",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

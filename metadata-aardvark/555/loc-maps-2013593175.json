@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Gerber, E. B.; Mendel, Edward, 1827-1884",
+    "Includes business directories, distance table, population statistical tables, views of public, residential, and commercial buildings.",
+    "Includes business directories, distance table, population statistical tables, views of public, residential, and commercial buildings. Insets: Plat of Cromwell -- Plat of Brimfield -- Plat of Wolf Lake -- Map of Kendallville -- Plat of Rome -- Plat of Akawa -- Plat of Wildman's add. to Wolcottville -- Map of Ligonier -- Map of Albion. LC Land ownership maps, 161 Available also through the Library of Congress Web site as a raster image.",
+    "Insets: Plat of Cromwell -- Plat of Brimfield -- Plat of Wolf Lake -- Map of Kendallville -- Plat of Rome -- Plat of Akawa -- Plat of Wildman's add. to Wolcottville -- Map of Ligonier -- Map of Albion.",
+    "LC Land ownership maps, 161",
+    "Publication statement: Philadelphia : E.B. Gerber, [between 1860 and 1869]; [Chicago] : engraved, printed, colored, and mounted by Edw. Mendel."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4093n.la000161",
+    "http://lccn.loc.gov/2013593175",
+    "http://www.loc.gov/item/2013593175/",
+    "http://www.loc.gov/resource/g4093n.la000161/",
+    "https://hdl.loc.gov/loc.gmd/g4093n.la000161",
+    "https://search.catalog.loc.gov/instances/63d4917b-8aff-505d-8b02-3ed0303562be",
+    "https://www.loc.gov/item/2013593175/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409/g4093/g4093n/la000161.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593175/\"}",
+  "dct_spatial_sm": [
+    "indiana",
+    "noble county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Indiana--Noble County--Maps",
+    "Real property--Indiana--Noble County--Maps",
+    "United States--Indiana--Noble County"
+  ],
+  "dct_temporal_sm": [
+    "1860",
+    "Philadelphia : E.B. Gerber, [between 1860 and 1869]"
+  ],
+  "dct_title_s": "Map of Noble County, Indiana",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593175",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

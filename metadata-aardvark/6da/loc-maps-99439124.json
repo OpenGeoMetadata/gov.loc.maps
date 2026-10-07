@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Confederate imprint.",
+    "Confederate imprint. Map of the environs of Richmond showing location and dates of battles, roads, railroads, towns, names of counties, drainage, and the names of a few residents. Description derived from published bibliography. Scale ca. 1:160,000. LC Civil War Maps (2nd ed.), 639 Available also through the Library of Congress web site as raster image.",
+    "Contributors: Sheppard, Edwin",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 639",
+    "Map of the environs of Richmond showing location and dates of battles, roads, railroads, towns, names of counties, drainage, and the names of a few residents.",
+    "Publication statement: Richmond, Hoyer & Ludwig, [1862]",
+    "Scale ca. 1:160,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881s.cw0639000",
+    "http://lccn.loc.gov/99439124",
+    "http://www.loc.gov/item/99439124/",
+    "http://www.loc.gov/resource/g3881s.cw0639000/",
+    "https://hdl.loc.gov/loc.gmd/g3881s.cw0639000",
+    "https://search.catalog.loc.gov/instances/46f9c8fb-0114-57e8-a71d-63495add0075",
+    "https://www.loc.gov/item/99439124/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881s/cw0639000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99439124/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Map showing the battle grounds of the Chickahominy, and the positions of the subsequent engagements in the retreat of the Federal army towards James River and all the other points of interest in connection with the siege of Richmond from the most reliable information to be obtained by Edwin Sheppard",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99439124",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

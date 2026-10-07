@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to act of Congress in the year 1860 ... \"",
+    "\"No. 11.\"",
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Colton, J. H. (Joseph Hutchins), 1800-1893",
+    "Cover title: Colton's new topographical map of the eastern portion of the State of North Carolina.",
+    "Inset: Plan of the sea coast from Virginia to Florida.",
+    "LC Civil War maps (2nd ed.) 304.85",
+    "Publication statement: N[ew] Y[ork] : Colton, 1863.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Cover title: Colton's new topographical map of the eastern portion of the State of North Carolina. \"No. 11.\" \"Entered according to act of Congress in the year 1860 ... \" Inset: Plan of the sea coast from Virginia to Florida. Scale 1:506,880; 8 miles to an in. LC Civil War maps (2nd ed.) 304.85 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1",
+    "Scale 1:506,880; 8 miles to an in."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3900.cw0304850",
+    "http://lccn.loc.gov/78695156",
+    "http://www.loc.gov/item/78695156/",
+    "http://www.loc.gov/resource/g3900.cw0304850/",
+    "https://hdl.loc.gov/loc.gmd/g3900.cw0304850",
+    "https://search.catalog.loc.gov/instances/7352fc61-4802-560d-98fe-8f7145618590",
+    "https://www.loc.gov/item/78695156/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3900/g3900/cw0304850.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78695156/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "North Carolina--Maps",
+    "United States--North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Colton's New topographical map of the eastern portion of the state of North Carolina : with part of Virginia & South Carolina, from the latest & best authorities",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78695156",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

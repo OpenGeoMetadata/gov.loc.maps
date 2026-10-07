@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "From The Gentleman's magazine and historical chronicle (November, 1776), vol. 46.",
+    "Publication statement: [London, 1776]",
+    "Shows Fairfield, New Haven, and New London counties in Connecticut, towns, roads, rivers, and place names in Connecticut, Rhode Island and part of Long Island. Includes copper mine near Simsbury, Conn. Also shows relief.",
+    "Shows Fairfield, New Haven, and New London counties in Connecticut, towns, roads, rivers, and place names in Connecticut, Rhode Island and part of Long Island. Includes copper mine near Simsbury, Conn. Also shows relief. From The Gentleman's magazine and historical chronicle (November, 1776), vol. 46. Available also through the Library of Congress web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3780.ar081900",
+    "http://lccn.loc.gov/99466764",
+    "http://www.loc.gov/item/99466764/",
+    "http://www.loc.gov/resource/g3780.ar081900/",
+    "https://hdl.loc.gov/loc.gmd/g3780.ar081900",
+    "https://search.catalog.loc.gov/instances/7f83973a-584d-54cd-a125-0833f54f9774",
+    "https://www.loc.gov/item/99466764/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd378/g3780/g3780/ar081900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466764/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "rhode island",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Connecticut--Maps",
+    "Rhode Island--Maps",
+    "United States--Connecticut",
+    "United States--Rhode Island"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "A map of Connecticut and Rhode Island with Long Island Sound, &c",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466764",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

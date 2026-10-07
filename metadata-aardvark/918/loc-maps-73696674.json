@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Homann Erben (Firm)",
+    "From the authors' Städt-Atlas. 1762.",
+    "Publication statement: Nürnberg, 1756.",
+    "Relief shown pictorially and by hachures.",
+    "Relief shown pictorially and by hachures. From the authors' Städt-Atlas. 1762. Scales vary. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scales vary.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3404a.ct008123",
+    "http://lccn.loc.gov/73696674",
+    "http://www.loc.gov/item/73696674/",
+    "http://www.loc.gov/resource/g3404a.ct008123/",
+    "https://hdl.loc.gov/loc.gmd/g3404a.ct008123",
+    "https://search.catalog.loc.gov/instances/e0335f4f-bf5d-5b58-9131-c894bb271f73",
+    "https://www.loc.gov/item/73696674/"
+  ],
+  "dct_issued_s": "1756",
+  "dct_language_sm": [
+    "eng",
+    "fre",
+    "ger",
+    "gerfreeng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3404/g3404a/ct008123.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73696674/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "halifax",
+    "louisbourg",
+    "lousibourg",
+    "nova scotia",
+    "québec",
+    "québec (province)"
+  ],
+  "dct_subject_sm": [
+    "Canada--Nova Scotia--Halifax",
+    "Canada--Nova Scotia--Lousibourg",
+    "Canada--Québec (Province)--Québec",
+    "Cities and towns--Canada--Maps--Early works to 1800",
+    "Halifax (N.S.)--Maps--Early works to 1800",
+    "Louisbourg (N.S.)--Maps--Early works to 1800",
+    "Québec (Québec)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1756"
+  ],
+  "dct_title_s": "Vorstellung einiger Gegenden und Plaetze in Nord-America unter Franzoesisch und Englische Jurisdiction gehoerig",
+  "gbl_dateRange_drsim": [
+    "[1756 TO 1756]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1756
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73696674",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

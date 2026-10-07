@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Fort Necessity then and now",
+    "Title in upper margin: Fort Necessity then and now"
+  ],
+  "dct_description_sm": [
+    "\"*GPO:2002--491-282/40155. Reprint 2002.\"",
+    "\"*GPO:2002--491-282/40155. Reprint 2002.\" Panel title. Includes text and ill. (some col.). Text, map of \"Anglo-French Dispute 1753-1755\" [Northern States], and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and ill. (some col.).",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [2002]",
+    "Text, map of \"Anglo-French Dispute 1753-1755\" [Northern States], and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822f.ct007903",
+    "http://lccn.loc.gov/2002620715",
+    "http://www.loc.gov/item/2002620715/",
+    "http://www.loc.gov/resource/g3822f.ct007903/",
+    "https://hdl.loc.gov/loc.gmd/g3822f.ct007903",
+    "https://search.catalog.loc.gov/instances/09586551-8d3b-5d82-aa14-e566af071185",
+    "https://www.loc.gov/item/2002620715/"
+  ],
+  "dct_issued_s": "2002",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822f/ct007903.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002620715/\"}",
+  "dct_spatial_sm": [
+    "fort necessity national battlefield",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Necessity National Battlefield (Pa.)--Maps",
+    "United States--History--French and Indian War, 1754-1763--Territorial questions--Maps",
+    "United States--Pennsylvania--Fort Necessity National Battlefield"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "dct_title_s": "Fort Necessity National Battlefield, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[2002 TO 2002]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002620715",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

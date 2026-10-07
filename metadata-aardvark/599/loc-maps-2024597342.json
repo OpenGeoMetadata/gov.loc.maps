@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes notes.",
+    "Mounted on cloth.",
+    "Pen-and-ink.",
+    "Publication statement: [Virginia?] : [producer not identified], [approximately 1800-1882?]",
+    "vcFY24",
+    "vcFY24 Includes notes. Pen-and-ink. Mounted on cloth. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597342",
+    "http://www.loc.gov/item/2024597342/",
+    "http://www.loc.gov/resource/g3883f.ct006749/",
+    "https://hdl.loc.gov/loc.gmd/g3883f.ct006749",
+    "https://search.catalog.loc.gov/instances/96554f49-ada2-5d11-9525-e6fc2b71da79",
+    "https://www.loc.gov/item/2024597342/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd388:g3883:g3883f:ct006749/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597342/\"}",
+  "dct_spatial_sm": [
+    "frederick county",
+    "frederick county (va.)",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Frederick County (Va.)--Surveys--Maps",
+    "United States--Virginia--Frederick County (Va.)"
+  ],
+  "dct_temporal_sm": [
+    "1800/1882",
+    "[Virginia?] : [producer not identified], [approximately 1800-1882?]"
+  ],
+  "dct_title_s": "[Map of Frederick County, Va.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597342",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

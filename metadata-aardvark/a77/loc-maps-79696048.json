@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hawley, Joseph R. (Joseph Roswell), 1826-1905",
+    "From the papers of Joseph Roswell Hawley.",
+    "LC Civil War maps (2nd ed.) 117.5",
+    "Manuscript; pen-and-ink.",
+    "Manuscript; pen-and-ink. From the papers of Joseph Roswell Hawley. Scale not given. LC Civil War maps (2nd ed.) 117.5 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [186-?]",
+    "Scale not given.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3934f.cw0117500",
+    "http://lccn.loc.gov/79696048",
+    "http://www.loc.gov/item/79696048/",
+    "http://www.loc.gov/resource/g3934f.cw0117500/",
+    "https://hdl.loc.gov/loc.gmd/g3934f.cw0117500",
+    "https://search.catalog.loc.gov/instances/b45ac835-3058-5f8f-8a0f-89eb7565e38f",
+    "https://www.loc.gov/item/79696048/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3934/g3934f/cw0117500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79696048/\"}",
+  "dct_spatial_sm": [
+    "fernandina",
+    "fernandina region",
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fernandina (Fla.)--Maps",
+    "United States--Florida--Fernandina Region"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "[Map of Fernandina region, Florida]",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79696048",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

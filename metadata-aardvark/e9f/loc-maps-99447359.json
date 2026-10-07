@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: McGregor, Charles",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 239",
+    "Publication statement: Nashua, N. H., c1900.",
+    "Scale ca. 1:8250.",
+    "Shows fortifications, relief by hachures, vegetation, drainage, roads, railroad, houses, and contains an index to artillery batteries and principal points of action. The index includes the number and type of Confederate and Union guns, and the names of the Union battery commanders",
+    "Shows fortifications, relief by hachures, vegetation, drainage, roads, railroad, houses, and contains an index to artillery batteries and principal points of action. The index includes the number and type of Confederate and Union guns, and the names of the Union battery commanders Description derived from published bibliography. Scale ca. 1:8250. LC Civil War Maps (2nd ed.), 239 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4014p.cw0239000",
+    "http://lccn.loc.gov/99447359",
+    "http://www.loc.gov/item/99447359/",
+    "http://www.loc.gov/resource/g4014p.cw0239000/",
+    "https://hdl.loc.gov/loc.gmd/g4014p.cw0239000",
+    "https://search.catalog.loc.gov/instances/9fab7a06-9d9c-5826-a7dd-75ad4542aa62",
+    "https://www.loc.gov/item/99447359/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4014/g4014p/cw0239000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447359/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "port hudson",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Port Hudson (La.)--Maps",
+    "United States--Louisiana--Port Hudson"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Port Hudson Compiled from government surveys and other sources and drawn by Charles McGregor, Historian of the 15th N.H. Volunterrs. [Lith. by] Geo. H. Walker & Co., Boston",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447359",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

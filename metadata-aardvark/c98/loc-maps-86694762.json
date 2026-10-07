@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no.: 17-82",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Adlum, John, 1759-1836; Bingham, William, 1752-1804",
+    "From the William Bingham estate maps.",
+    "Pen-and-ink, pencil, and watercolor.",
+    "Publication statement: [179-?]",
+    "Sectional title label affixed on verso of each sheet.",
+    "Shows lots, boundaries, numbers, and dimensions.",
+    "Shows lots, boundaries, numbers, and dimensions. From the William Bingham estate maps. Sectional title label affixed on verso of each sheet. Pen-and-ink, pencil, and watercolor. Some sheets include note and inset. Available also through the Library of Congress Web site as a raster image. Acquisitions control no.: 17-82 Vault",
+    "Some sheets include note and inset.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823p.la002159",
+    "http://lccn.loc.gov/86694762",
+    "http://www.loc.gov/item/86694762/",
+    "http://www.loc.gov/resource/g3823p.la002159/",
+    "https://hdl.loc.gov/loc.gmd/g3823p.la002159",
+    "https://search.catalog.loc.gov/instances/88b30ede-b42f-549d-9b8c-7680ceaa002e",
+    "https://www.loc.gov/item/86694762/"
+  ],
+  "dct_issued_s": "1790",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823p/la002159.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86694762/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "potter county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boundaries (Estates)--Pennsylvania--Potter County--Maps--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "Real property--Pennsylvania--Potter County--Maps--Early works to 1800",
+    "United States--Pennsylvania--Potter County"
+  ],
+  "dct_temporal_sm": [
+    "1790"
+  ],
+  "dct_title_s": "[Land ownership map of the William Bingham estate in Potter County, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1790 TO 1790]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1790
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86694762",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

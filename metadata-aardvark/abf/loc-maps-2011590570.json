@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Forest Service Map.\"",
+    "\"R8-RG-204.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes text, index to topographic map and indexed list to recreation sites.",
+    "Publication statement: Atlanta, Ga. : USDA Forest Service, Southern Region, 2011.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Title from panel. \"Forest Service Map.\" Includes text, index to topographic map and indexed list to recreation sites. Text, vicinity map and col. ill. on verso. \"R8-RG-204.\" Available also through the Library of Congress Web site as a raster image.",
+    "Text, vicinity map and col. ill. on verso.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2011590570",
+    "http://www.loc.gov/item/2011590570/",
+    "http://www.loc.gov/resource/g4032s.ct011480/",
+    "https://hdl.loc.gov/loc.gmd/g4032s.ct011480",
+    "https://search.catalog.loc.gov/instances/79e8c446-ee28-51ca-88c9-d88dfb3e3a3e",
+    "https://www.loc.gov/item/2011590570/"
+  ],
+  "dct_issued_s": "2011",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032s/ct011480.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011590570/\"}",
+  "dct_spatial_sm": [
+    "sam houston national forest",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Sam Houston National Forest (Tex.)--Maps",
+    "United States--Texas--Sam Houston National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_title_s": "Sam Houston National Forest, Texas 2011",
+  "gbl_dateRange_drsim": [
+    "[2011 TO 2011]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011590570",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

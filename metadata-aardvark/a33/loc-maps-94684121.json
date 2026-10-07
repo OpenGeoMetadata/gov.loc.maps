@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1994--301-085/80096. Reprint 1994\"; some copies have \"*GPO: 1994--301-085/00062. Reprint 1994.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and location map.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1994]",
+    "Relief shown by shading.",
+    "Relief shown by shading. \"*GPO: 1994--301-085/80096. Reprint 1994\"; some copies have \"*GPO: 1994--301-085/00062. Reprint 1994.\" Panel title. Title at top: Delaware Water Gap. Includes text and location map. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text and col. ill. on verso.",
+    "Title at top: Delaware Water Gap."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3812d.ct006760",
+    "http://lccn.loc.gov/94684121",
+    "http://www.loc.gov/item/94684121/",
+    "http://www.loc.gov/resource/g3812d.ct006760/",
+    "https://hdl.loc.gov/loc.gmd/g3812d.ct006760",
+    "https://search.catalog.loc.gov/instances/7300f44c-83a3-54e6-9a13-07c8f6ff3d46",
+    "https://www.loc.gov/item/94684121/"
+  ],
+  "dct_issued_s": "1994",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3812/g3812d/ct006760.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94684121/\"}",
+  "dct_spatial_sm": [
+    "delaware water gap national recreation area",
+    "new jersey",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware Water Gap National Recreation Area (N.J. and Pa.)--Maps",
+    "United States--New Jersey--Delaware Water Gap National Recreation Area",
+    "United States--Pennsylvania--Delaware Water Gap National Recreation Area"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_title_s": "Delaware Water Gap National Recreation Area, Pennsylvania and New Jersey, official map and guide",
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94684121",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

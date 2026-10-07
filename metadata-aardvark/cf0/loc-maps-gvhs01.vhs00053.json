@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden diary, 1861-1865 (v. 6, p. 21).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary page.",
+    "Publication statement: [1861-1865]",
+    "Robert Knox Sneden scrapbook (Mss5:7 Sn237:1), Virginia Historical Society.",
+    "Shows the southern border of South Carolina, northern border of Georgia, and eastern borders of Alabama and Tennessee, with railroads, towns, forts, prisons, landforms, and waterways.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00053",
+    "http://www.loc.gov/item/001-CABIB20003007/",
+    "http://www.loc.gov/item/gvhs01.vhs00053/",
+    "http://www.loc.gov/resource/gvhs01.vhs00053/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00053",
+    "https://www.loc.gov/item/gvhs01.vhs00053/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00053.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00053/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "confederate states of america",
+    "georgia",
+    "south carolina",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Alabama--History--Civil War, 1861-1865--Maps",
+    "Confederate States of America--Transportation",
+    "Georgia--History--Civil War, 1861-1865--Maps",
+    "Railroads--Confederate States of America",
+    "South Carolina--History--Civil War, 1861-1865--Maps",
+    "Tennessee--History--Civil War, 1861-1865--Maps",
+    "United States--Alabama",
+    "United States--Georgia",
+    "United States--History--Civil War, 1861-1865--Prisoners and prisons",
+    "United States--History--Civil War, 1861-1865--Transportation--Maps",
+    "United States--South Carolina",
+    "United States--Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "1861/1865"
+  ],
+  "dct_title_s": "[Map of South Carolina, Georgia, Alabama, and Tennessee.]",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00053",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

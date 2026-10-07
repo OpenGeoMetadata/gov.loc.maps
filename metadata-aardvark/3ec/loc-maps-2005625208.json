@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Miller, M. E.",
+    "In pencil on verso: 465 crossed out.",
+    "LC Civil War maps (2nd ed.), H324",
+    "Oriented with north toward the right.",
+    "Oriented with north toward the right. Pen-and-ink on tracing cloth, sectioned in 2, and mounted on cloth. In pencil on verso: 465 crossed out. LC Civil War maps (2nd ed.), H324 Available also through the Library of Congress web site as raster image.",
+    "Pen-and-ink on tracing cloth, sectioned in 2, and mounted on cloth.",
+    "Publication statement: [188-?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3893r.cwh00324",
+    "http://lccn.loc.gov/2005625208",
+    "http://www.loc.gov/item/2005625208/",
+    "http://www.loc.gov/resource/g3893r.cwh00324/",
+    "https://hdl.loc.gov/loc.gmd/g3893r.cwh00324",
+    "https://search.catalog.loc.gov/instances/b2c994e8-df6b-55b4-873f-de963901a448",
+    "https://www.loc.gov/item/2005625208/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3893/g3893r/cwh00324.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625208/\"}",
+  "dct_spatial_sm": [
+    "raleigh county",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Raleigh County, (W. Va.)--Maps, Manuscript",
+    "Real property--West Virginia--Raleigh County--Maps",
+    "United States--West Virginia--Raleigh County"
+  ],
+  "dct_temporal_sm": [
+    "188?"
+  ],
+  "dct_title_s": "Copy of map of Ellen Smith 10,000 acres, Raleigh Co., W. Va. from actual transit survey",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625208",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

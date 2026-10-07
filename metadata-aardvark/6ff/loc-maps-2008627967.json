@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Donn, John M., 1871-1931; Hawaii Territory Survey; Wall, Walter E.",
+    "Publication statement: [S.l.] Hawaii Territory Survey, 1903.",
+    "Relief shown by hachures and spot heights.",
+    "Relief shown by hachures and spot heights. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4382k.ct002423",
+    "http://hdl.loc.gov/loc.gmd/g4382k.ct002424",
+    "http://hdl.loc.gov/loc.gmd/g4382k.ct002425",
+    "http://lccn.loc.gov/2008627967",
+    "http://www.loc.gov/item/2008627967/",
+    "http://www.loc.gov/resource/g4382k.ct002423/",
+    "http://www.loc.gov/resource/g4382k.ct002424/",
+    "http://www.loc.gov/resource/g4382k.ct002425/",
+    "https://hdl.loc.gov/loc.gmd/g4382k.ct002423",
+    "https://hdl.loc.gov/loc.gmd/g4382k.ct002424",
+    "https://hdl.loc.gov/loc.gmd/g4382k.ct002425",
+    "https://search.catalog.loc.gov/instances/fe1a4ff8-43d9-51db-b75e-5a32dcdf1399",
+    "https://www.loc.gov/item/2008627967/"
+  ],
+  "dct_issued_s": "1903",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd438/g4382/g4382k/ct002423.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008627967/\"}",
+  "dct_spatial_sm": [
+    "hawaii",
+    "kauai",
+    "kauai county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Kauai (Hawaii)--Maps",
+    "Kauai County (Hawaii)--Maps",
+    "United States--Hawaii--Kauai",
+    "United States--Hawaii--Kauai County"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dct_title_s": "Kauai, Hawaiian Islands, 1903 / $c Walter E. Wall, surveyor ; compiled by John M. Donn",
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1903]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008627967",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

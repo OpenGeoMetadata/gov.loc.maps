@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Геогностическая карта местностей Иркутского, Верхоленского и Балаганского округов, исследованных А. Чекановским"
+  ],
+  "dct_description_sm": [
+    "Bez setki koord. Krasnymi fonami pokaz. rasprostr. gornykh porod.",
+    "Irkutsk Oblast geography.",
+    "Na karte naneseny mesta dobychi i mestonakhozhdenii︠a︡ poleznykh iskopaemykh, peshchery, provaly, soli︠a︡nye kli︠u︡chi, obvaly, mesta slabogo i kratkovremennogo zamerzanii︠a︡ Baĭkala.",
+    "Original map at: Russian State Library",
+    "Publication statement: Irkutsk, Russia : Siberian Branch of the Russian Geographic Society, 1873.",
+    "The first geological (geognostic) maps in Russia were produced in the 1850s. This map of the Irkutsk region was published by the Siberian Department of the Imperial Russian Geographic Society under the leadership of Academician F.B. Schmidt. It shows the location of mines and minerals, caves, gaps, salt deposits, springs, landslides, and patterns of freezing on Lake Baikal. The colors denote different types of rock. World Digital Library.",
+    "Без сетки коорд. Красными фонами показ. распростр. горных пород.",
+    "На карте нанесены места добычи и местонахождения полезных ископаемых, пещеры, провалы, соляные ключи, обвалы, места слабого и кратковременного замерзания Байкала."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694065",
+    "http://www.loc.gov/item/2018694065/",
+    "http://www.loc.gov/resource/gdc.2018694065/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0056",
+    "https://search.catalog.loc.gov/instances/3fcc5612-d784-5a6b-9c82-5f95158a2fb2",
+    "https://www.loc.gov/item/2018694065/"
+  ],
+  "dct_issued_s": "1873",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694065.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694065/2018694065.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694065:smf0056/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694065/\"}",
+  "dct_spatial_sm": [
+    "irkutsk oblast",
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Far East",
+    "Geography",
+    "Irkutsk Oblast",
+    "Irkutsk Province",
+    "Russia",
+    "Russian Federation",
+    "Siberia",
+    "maps"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "dct_title_s": "Geognosticheskai︠a︡ karta mestnosteĭ Irkutskogo, Verkholenskogo i Balaganskogo okrugov, issledovannykh A. Chekanovskim",
+  "gbl_dateRange_drsim": [
+    "[1873 TO 1873]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1873
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694065",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

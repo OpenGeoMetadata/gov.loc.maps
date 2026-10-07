@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Ancillary maps: Guam and Commonwealth of the Northern Mariana Islands -- American Samoa -- Puerto Rico and U.S. Virgin Islands.",
+    "Contributors: United States. Bureau of the Census. Geography Division, cartographer",
+    "Includes location map and lists of senate and house membership by state.",
+    "Insets: [Alaska] -- [Hawaii].",
+    "Publication statement: [Washington, D.C.] : U.S. Census Bureau, [2019?]",
+    "Scale of original 1:5,000,000.",
+    "Scale of original 1:5,000,000. Includes location map and lists of senate and house membership by state. Insets: [Alaska] -- [Hawaii]. Ancillary maps: Guam and Commonwealth of the Northern Mariana Islands -- American Samoa -- Puerto Rico and U.S. Virgin Islands."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024586007",
+    "http://www.loc.gov/item/2024586007/",
+    "http://www.loc.gov/resource/gmddigstackspublic.2024586007/",
+    "https://hdl.loc.gov/loc.gmd/gmddigstackspublic.2024586007",
+    "https://search.catalog.loc.gov/instances/54f69ddb-fb03-5c0a-9cdf-d1dede1442a3",
+    "https://www.loc.gov/item/2024586007/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2024586007.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmddigstackspublic/20/24/58/60/07/2024586007/2024586007.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmddigstackspublic:20:24:58:60:07:2024586007:2024586007/full/pct:25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024586007/\"}",
+  "dct_rights_sm": [
+    "Public domain https://creativecommons.org/public-domain/"
+  ],
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Election districts--United States--Maps",
+    "United States",
+    "United States.--Congress.--House--Election districts--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2019 d2021",
+    "[Washington, D.C.] : U.S. Census Bureau, [2019?]"
+  ],
+  "dct_title_s": "Congressional districts of the 116th Congress of the United States, January 2019-2021",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024586007",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

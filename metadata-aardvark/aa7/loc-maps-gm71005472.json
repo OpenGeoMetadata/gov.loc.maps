@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 110; 651/1; 651/2; 650/3; 650/4",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cóvens et Mortier; Klockhoff, H.",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Oriented with north toward the lower left. Shows land grants and purchases in northeastern New York State and granted townships in Vermont and parts of New Hampshire, and Massachusetts. Scale ca. 1:768,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 828 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 110; 651/1; 651/2; 650/3; 650/4",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 828",
+    "Oriented with north toward the lower left.",
+    "Publication statement: [Amsterdam] 1780.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:768,000.",
+    "Shows land grants and purchases in northeastern New York State and granted townships in Vermont and parts of New Hampshire, and Massachusetts.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3715.ar082800",
+    "http://lccn.loc.gov/gm71005472",
+    "http://www.loc.gov/item/gm71005472/",
+    "http://www.loc.gov/resource/g3715.ar082800/",
+    "https://hdl.loc.gov/loc.gmd/g3715.ar082800",
+    "https://search.catalog.loc.gov/instances/4b85e551-ca0b-563c-a85b-75d7d22e7cc2",
+    "https://www.loc.gov/item/gm71005472/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3715/g3715/ar082800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005472/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "new england",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Land grants--New York (State)",
+    "Middle Atlantic States",
+    "Middle Atlantic States--Administrative and political divisions",
+    "New England",
+    "Real property--New York (State)",
+    "United States--Middle Atlantic States",
+    "United States--New England",
+    "United States--New York (State)"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "A chorographical map of the Northern Department of North-America,",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005472",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

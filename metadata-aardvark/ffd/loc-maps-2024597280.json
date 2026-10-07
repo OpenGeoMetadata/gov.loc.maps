@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "North oriented towards the upper left.",
+    "Publication statement: [Russell County, Va.?] : [producer not identified], [1899]",
+    "Red and black pen-and-ink, and blue and red marker on tracing linen.",
+    "Relief shown by hachures.",
+    "Shows districts, creeks and rivers, railroads, and mountains.",
+    "Three census office stamps dated 1899 on verso.",
+    "Title from verso.",
+    "vcFY24",
+    "vcFY24 Shows districts, creeks and rivers, railroads, and mountains. Relief shown by hachures. Title from verso. North oriented towards the upper left. Red and black pen-and-ink, and blue and red marker on tracing linen. Three census office stamps dated 1899 on verso. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597280",
+    "http://www.loc.gov/item/2024597280/",
+    "http://www.loc.gov/resource/g3883r.ct006732/",
+    "https://hdl.loc.gov/loc.gmd/g3883r.ct006732",
+    "https://search.catalog.loc.gov/instances/1ab66084-7eed-536f-bd23-e0020aa4bd0e",
+    "https://www.loc.gov/item/2024597280/"
+  ],
+  "dct_issued_s": "1899",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd388:g3883:g3883r:ct006732/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597280/\"}",
+  "dct_spatial_sm": [
+    "russell county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Virginia--Russell County--Maps",
+    "Russell County (Va.)--Administrative and political divisions--Maps",
+    "United States--Virginia--Russell County"
+  ],
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "dct_title_s": "Russell Co., Va",
+  "gbl_dateRange_drsim": [
+    "[1899 TO 1899]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1899
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597280",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Mappa da Comarca de Villa Rica / Jose Joaquim da Rocha"
+  ],
+  "dct_description_sm": [
+    "Content in Portuguese.",
+    "Contributors: Rocha, José Joaquim da, approximately 1740-1804 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 manuscript map : color ; 41 x 80 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1779.",
+    "This map showing the district of Villa Rica in Brazil's Minas Gerais state is the work of José Joaquim da Rocha (1737?-1807). Rocha was a Brazilian military engineer, painter, and cartographer who contributed works to many important churches and monasteries around Salvador and Minas Gerais. His map shows details of individual comarcas (judicial districts) and parochial districts, and an illustration of an Indian. Rocha was accused of participation in the Minas Conspiracy (Inconfidência Mineira) of 1789, a movement seeking independence from Portugal, and of involvement with its leader, Joaquim José da Silva Xavier, also known as Tiradentes. In the trials that followed the failure of the conspiracy, it was alleged that Rocha had given Tiradentes a map containing vital information about Minas Gerais, but this charge was not proven.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668330",
+    "http://www.loc.gov/item/2021668330/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00854/",
+    "http://www.loc.gov/resource/wdl.854/",
+    "https://hdl.loc.gov/loc.wdl/wdl.854",
+    "https://www.loc.gov/item/2021668330/"
+  ],
+  "dct_issued_s": "1779-01-01",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00854.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/85/4/wdl_00854/wdl_00854.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:85:4:wdl_00854:cart1090219/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668330/\"}",
+  "dct_spatial_sm": [
+    "brazil",
+    "minas gerais"
+  ],
+  "dct_subject_sm": [
+    "1779",
+    "Brazil--Minas Gerais",
+    "Manuscript maps"
+  ],
+  "dct_temporal_sm": [
+    "1779-01-01"
+  ],
+  "dct_title_s": "Map of the District of Villa Rica.",
+  "gbl_dateRange_drsim": [
+    "[1779 TO 1779]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1779
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668330",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

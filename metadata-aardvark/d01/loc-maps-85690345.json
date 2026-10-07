@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Alternate title: Projections for southern hemisphere.",
+    "Alternate title: Projections for southern hemisphere. Stamped on verso: Namcheong, painter. Available also through the Library of Congress Web site as a raster image. Vault",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [188-?]",
+    "Stamped on verso: Namcheong, painter.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3221c.ct007276",
+    "http://lccn.loc.gov/85690345",
+    "http://www.loc.gov/item/85690345/",
+    "http://www.loc.gov/resource/g3221c.ct007276/",
+    "https://hdl.loc.gov/loc.gmd/g3221c.ct007276",
+    "https://search.catalog.loc.gov/instances/e798b349-dabc-508c-9322-89c62b322eec",
+    "https://www.loc.gov/item/85690345/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3221/g3221c/ct007276.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85690345/\"}",
+  "dct_spatial_sm": [
+    "southern hemisphere"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "Southern Hemisphere",
+    "Winds--Southern Hemisphere--Charts, diagrams, etc"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Southern hemisphere",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85690345",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

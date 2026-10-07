@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-15447.\"",
+    "\"Contour interval 50 feet.\"",
+    "\"Source: USGS Topo Quad Sheets 1:24,000.\"",
+    "\"Source: USGS Topo Quad Sheets 1:24,000.\" \"Contour interval 50 feet.\" Oriented with north to the left. Includes location map. \"1-15447.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Oriented with north to the left.",
+    "Publication statement: Lanham, MD : USDA-SCS 1980."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882f.ct009045",
+    "http://lccn.loc.gov/81690290",
+    "http://www.loc.gov/item/81690290/",
+    "http://www.loc.gov/resource/g3882f.ct009045/",
+    "https://hdl.loc.gov/loc.gmd/g3882f.ct009045",
+    "https://search.catalog.loc.gov/instances/d330938c-be93-5069-a96c-2968232c2cc8",
+    "https://www.loc.gov/item/81690290/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882f/ct009045.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690290/\"}",
+  "dct_spatial_sm": [
+    "flat rock creek watershed",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Flat Rock Creek Watershed (Va.)--Maps",
+    "United States--Virginia--Flat Rock Creek Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Flat Rock Creek watershed, Lunenburg County, Virginia : December 1979",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-81690290",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

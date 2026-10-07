@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Laid down a ... of 100 chains to an inch.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Oriented with north toward left.",
+    "Pen-and-ink. Mounted on cloth with slight losses along right border, and annotations made in pencil on verso.",
+    "Publication statement: [Mississippi?] : [producer not identified], [1813?]",
+    "Stamped on verso: Transferred from the Chief Engineers Office, War Department, Nov 4, 1931.",
+    "Title supplied by cataloger.",
+    "Title supplied by cataloger. Oriented with north toward left. Pen-and-ink. Mounted on cloth with slight losses along right border, and annotations made in pencil on verso. Stamped on verso: Transferred from the Chief Engineers Office, War Department, Nov 4, 1931. \"Laid down a ... of 100 chains to an inch.\" Available also through the Library of Congress Web site as a raster image. vcFY24",
+    "vcFY24"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597696",
+    "http://www.loc.gov/item/2024597696/",
+    "http://www.loc.gov/resource/g4042m.ct007489/",
+    "https://hdl.loc.gov/loc.gmd/g4042m.ct007489",
+    "https://search.catalog.loc.gov/instances/281755e7-8642-577a-a9ad-22bb741767bd",
+    "https://www.loc.gov/item/2024597696/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd404/g4042/g4042m/ct007489.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597696/\"}",
+  "dct_spatial_sm": [
+    "mississippi river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mississippi River--Maps",
+    "United States--Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "1813",
+    "[Mississippi?] : [producer not identified], [1813?]"
+  ],
+  "dct_title_s": "[Mouth of Mississippi River]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597696",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

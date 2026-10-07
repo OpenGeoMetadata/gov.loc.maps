@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Minimal level cataloging record.",
+    "Publication statement: [S.l : s.n., 1814]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Minimal level cataloging record. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804p.ct006648",
+    "http://lccn.loc.gov/2012588030",
+    "http://www.loc.gov/item/2012588030/",
+    "http://www.loc.gov/resource/g3804p.ct006648/",
+    "https://hdl.loc.gov/loc.gmd/g3804p.ct006648",
+    "https://search.catalog.loc.gov/instances/e067277b-7296-53d2-83f2-dd871d3c01f9",
+    "https://www.loc.gov/item/2012588030/"
+  ],
+  "dct_issued_s": "1814",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804p/ct006648.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012588030/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "lake",
+    "new york",
+    "new york (state)",
+    "ontario",
+    "ontario, lake",
+    "plattsburgh",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--Ontario--Ontario, Lake",
+    "New York--History--War of 1812--Maps",
+    "Ontario, Lake (N.Y. and Ont.)--History--War of 1812--Maps",
+    "Plattsburg, Battle of, Plattsburgh, N.Y., 1814--Maps",
+    "Plattsburgh (N.Y.)--History--War of 1812--Maps",
+    "United States--New York (State)--Ontario, Lake",
+    "United States--New York (State)--Plattsburgh"
+  ],
+  "dct_temporal_sm": [
+    "1814"
+  ],
+  "dct_title_s": "Plan of the siege of Plattsburg and capture of the British fleet on Lake Champlain the 11th Sptr. 1814 : to accompany B. Tanner's print of Macdonough's victory",
+  "gbl_dateRange_drsim": [
+    "[1814 TO 1814]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1814
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012588030",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

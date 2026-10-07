@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States Holocaust Memorial Museum",
+    "DCP",
+    "Each map is a color-coded floorplan.",
+    "Each map is a color-coded floorplan. Panel title. Title at upper left: United States Holocaust Memorial Museum. Includes text and color-coded diagram of exhibition floors. Text, location map, and ill. on verso. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Includes text and color-coded diagram of exhibition floors.",
+    "Panel title.",
+    "Publication statement: Washington : U.S. Holocaust Memorial Museum, [1994?]",
+    "Text, location map, and ill. on verso.",
+    "Title at upper left: United States Holocaust Memorial Museum."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852u.ct005263",
+    "http://lccn.loc.gov/94684318",
+    "http://www.loc.gov/item/94684318/",
+    "http://www.loc.gov/resource/g3852u.ct005263/",
+    "https://hdl.loc.gov/loc.gmd/g3852u.ct005263",
+    "https://search.catalog.loc.gov/instances/02db94aa-2b31-52e1-9404-6a5be72658b5",
+    "https://www.loc.gov/item/94684318/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852u/ct005263.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94684318/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Museums--Washington (D.C.)--Designs and plans",
+    "United States Holocaust Memorial Museum--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1994",
+    "Washington : U.S. Holocaust Memorial Museum, [1994?]"
+  ],
+  "dct_title_s": "Visitor's guide, United States Holocaust Memorial Museum, Washington, D.C.",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94684318",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

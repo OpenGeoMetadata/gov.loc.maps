@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2; 651/3; 650/4; 650/5; 700/2; 710/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Armero, F. (Francisco); Carrafa, J.; Moreno, Miguel; Spain. Dirección de Hidrografía",
+    "Depths shown by soundings.",
+    "Includes table of abbreviations.",
+    "LC copy annotated in pencil.",
+    "LC copy annotated in pencil. Reference meridian: Cádiz. Depths shown by soundings. Includes table of abbreviations. Scale not given. Available also through the Library of Congress Web site as a raster image. AACR2: 650/1; 651/2; 651/3; 650/4; 650/5; 700/2; 710/3",
+    "Publication statement: Madrid, Dirección de Hidrografía, 1846.",
+    "Reference meridian: Cádiz.",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3862c.ct008851",
+    "http://lccn.loc.gov/77693270",
+    "http://www.loc.gov/item/77693270/",
+    "http://www.loc.gov/resource/g3862c.ct008851/",
+    "https://hdl.loc.gov/loc.gmd/g3862c.ct008851",
+    "https://search.catalog.loc.gov/instances/18b33e12-fae6-5bfd-9fe9-80c63f32e86b",
+    "https://www.loc.gov/item/77693270/"
+  ],
+  "dct_issued_s": "1846",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3862/g3862c/ct008851.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77693270/\"}",
+  "dct_spatial_sm": [
+    "america, gulf of",
+    "gulf coast",
+    "gulf of america",
+    "gulf states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "America, Gulf of--Maps",
+    "Coasts--Gulf States--Maps",
+    "Gulf Coast (U.S.)--Maps",
+    "Nautical charts--America, Gulf of",
+    "Nautical charts--Gulf Coast (U.S.)",
+    "United States--America, Gulf of",
+    "United States--Gulf States"
+  ],
+  "dct_temporal_sm": [
+    "1846"
+  ],
+  "dct_title_s": "Carta de las costas de la Escambia, Alabama y bocas del Rio Misisipi, la Luisiana, Tejas, con la provincia del Nuevo Santander, en el Golfo de Mejico",
+  "gbl_dateRange_drsim": [
+    "[1846 TO 1846]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1846
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77693270",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

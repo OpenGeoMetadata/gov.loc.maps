@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by soundings.",
+    "LC Luso-Hispanic World, 519",
+    "Maggs number annotated in pencil in lower right margin: 223.",
+    "Mounted on cloth backing.",
+    "Oriented with north to the left.",
+    "Pen-and-ink.",
+    "Prime meridian: Tenerife.",
+    "Publication statement: [17--?]",
+    "Shows Fort-de-France Bay including village of Fort-de-France and other villages.",
+    "Shows Fort-de-France Bay including village of Fort-de-France and other villages. Depths shown by soundings. Prime meridian: Tenerife. Oriented with north to the left. Watermark: Daisylike flower. Pen-and-ink. Mounted on cloth backing. Maggs number annotated in pencil in lower right margin: 223. LC Luso-Hispanic World, 519 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermark: Daisylike flower."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5082f.lh000518",
+    "http://lccn.loc.gov/90683859",
+    "http://www.loc.gov/item/90683859/",
+    "http://www.loc.gov/resource/g5082f.lh000518/",
+    "https://hdl.loc.gov/loc.gmd/g5082f.lh000518",
+    "https://search.catalog.loc.gov/instances/5e536026-b1f5-5964-a763-9fffc8c7af4d",
+    "https://www.loc.gov/item/90683859/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5082/g5082f/lh000518.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90683859/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "fort-de-france bay",
+    "france bay",
+    "martinique"
+  ],
+  "dct_subject_sm": [
+    "Fort-de-France Bay (Martinique)--Maps--Early works to 1800",
+    "Martinique--Fort-de-France Bay"
+  ],
+  "dct_temporal_sm": [
+    "1700",
+    "[17--?]"
+  ],
+  "dct_title_s": "Fuerte Real y su baya situado en la Ysla Martinica por la vanda del oestte en 12 grados y 36 minutos de latitd. nortte y en 316 grads. y 14 mins. (desde Tenerife) de longitud",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90683859",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

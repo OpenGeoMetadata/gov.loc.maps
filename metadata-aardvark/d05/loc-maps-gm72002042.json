@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Paterson, Daniel, 1738-1825",
+    "Includes penciled note and listing of the composition of \"Detachments.\"",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 118",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Includes penciled note and listing of the composition of \"Detachments.\" Scale ca. 1:6,500,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 118 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [1767]",
+    "Scale ca. 1:6,500,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3301r.ar011800",
+    "http://lccn.loc.gov/gm72002042",
+    "http://www.loc.gov/item/gm72002042/",
+    "http://www.loc.gov/resource/g3301r.ar011800/",
+    "https://hdl.loc.gov/loc.gmd/g3301r.ar011800",
+    "https://search.catalog.loc.gov/instances/05d757f7-496c-5930-9e0a-c867ce1512bc",
+    "https://www.loc.gov/item/gm72002042/"
+  ],
+  "dct_issued_s": "1767",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3301/g3301r/ar011800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm72002042/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "Military bases--North America",
+    "North America",
+    "North America--Defenses"
+  ],
+  "dct_temporal_sm": [
+    "1767"
+  ],
+  "dct_title_s": "Cantonment of His Majesty's forces in N. America according to the disposition now made & to be compleated as soon as practicable taken from the general distribution dated at New York 29th. March 1766",
+  "gbl_dateRange_drsim": [
+    "[1767 TO 1767]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1767
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm72002042",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

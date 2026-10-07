@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 36\" in the upper left corner.",
+    "At head of title: U.S. Coast Surveys, A. D. Bache, Superintendent.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: United States Coast Survey",
+    "Description derived from published bibliography.",
+    "From its Report of the Superintendent of the Coast Survey, showing the progress of the survey during the year 1862 (Washington, Government Printing Office, 1864). Map 36.",
+    "From its Report of the Superintendent of the Coast Survey, showing the progress of the survey during the year 1862 (Washington, Government Printing Office, 1864). Map 36. At head of title: U.S. Coast Surveys, A. D. Bache, Superintendent. \"No. 36\" in the upper left corner. Description derived from published bibliography. Scale 1:20,000. LC Civil War Maps (2nd ed.), 36.1 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 36.1",
+    "Publication statement: [Washington U.S. Coast Survey] 1862.",
+    "Scale 1:20,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4042m.cw0036100",
+    "http://lccn.loc.gov/99447103",
+    "http://www.loc.gov/item/99447103/",
+    "http://www.loc.gov/resource/g4042m.cw0036100/",
+    "https://hdl.loc.gov/loc.gmd/g4042m.cw0036100",
+    "https://search.catalog.loc.gov/instances/cb2b571f-75e2-5ebb-9554-e5c76eeea558",
+    "https://www.loc.gov/item/99447103/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd404/g4042/g4042m/cw0036100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447103/\"}",
+  "dct_spatial_sm": [
+    "mississippi river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mississippi River--Maps",
+    "United States--Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "South West pass of the Mississippi River",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447103",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

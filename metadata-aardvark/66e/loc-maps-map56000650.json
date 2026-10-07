@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Dallas. Public Library. Texas and Local History Department; First National Bank in Dallas",
+    "LMP",
+    "Pictorial map.",
+    "Pictorial map. Scale ca. 1:2,200,000. Available also through the Library of Congress Web site as a raster image. LMP AACR2: 650/1; 651/2",
+    "Publication statement: [Dallas] First National Bank in Dallas [1955]",
+    "Scale ca. 1:2,200,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4031e.ct000787",
+    "http://lccn.loc.gov/map56000650",
+    "http://www.loc.gov/item/map56000650/",
+    "http://www.loc.gov/resource/g4031e.ct000787/",
+    "https://hdl.loc.gov/loc.gmd/g4031e.ct000787",
+    "https://search.catalog.loc.gov/instances/ebd1cb74-f9d0-5dd4-8fbd-e65c96697d87",
+    "https://www.loc.gov/item/map56000650/"
+  ],
+  "dct_issued_s": "1955",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4031/g4031e/ct000787.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/map56000650/\"}",
+  "dct_spatial_sm": [
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Authors, American--Homes and haunts--Texas--Maps",
+    "Literary landmarks--Texas--Maps",
+    "Texas--Intellectual life--Maps",
+    "Texas--Maps, Pictorial",
+    "United States--Texas"
+  ],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "dct_title_s": "Literary map of Texas",
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1955]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map56000650",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

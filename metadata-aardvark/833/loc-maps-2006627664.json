@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: A. Hoen & Co; Arnold, Ralph 1875-1961",
+    "Lower left corner \"Compiled from city engineer's map and county records by Ralph Arnold, 1905.\"",
+    "Lower right corner \"Well data compiled by W.L.Walker from locations by Charles A. Blackmar and other sources.\"",
+    "Publication statement: Baltimore : A. Hoen & Co. , 1906",
+    "Relief shown by contour lines and spot heights.",
+    "Relief shown by contour lines and spot heights. Upper left corner \"U.S. Geological Survey, Charles D. Walcott, director.\" Lower left corner \"Compiled from city engineer's map and county records by Ralph Arnold, 1905.\" Upper right corner \"Bulletin No. 309, PL. XIX.\" Lower right corner \"Well data compiled by W.L.Walker from locations by Charles A. Blackmar and other sources.\" Available also through the Library of Congress Web site as a raster image.",
+    "Upper left corner \"U.S. Geological Survey, Charles D. Walcott, director.\"",
+    "Upper right corner \"Bulletin No. 309, PL. XIX.\""
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4364l.ct001799",
+    "http://lccn.loc.gov/2006627664",
+    "http://www.loc.gov/item/2006627664/",
+    "http://www.loc.gov/resource/g4364l.ct001799/",
+    "https://hdl.loc.gov/loc.gmd/g4364l.ct001799",
+    "https://search.catalog.loc.gov/instances/04864b5a-7cec-5636-b072-5e04dc37f0cb",
+    "https://www.loc.gov/item/2006627664/"
+  ],
+  "dct_issued_s": "1906",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4364/g4364l/ct001799.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006627664/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "los angeles",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Oil fields--Los Angeles (Calif.)--Maps",
+    "United States--California--Los Angeles"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "dct_title_s": "Street and section map of the Los Angeles oil fields, California",
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1906
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006627664",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title: China",
+    "China"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geographia Map Company; Gross, Alexander, 1879-1958",
+    "Publication statement: New York : Geographia Map Co., [190-?]",
+    "Publisher's map list on cover and \"Map of the far east and the Pacific area\" on verso.",
+    "Title from panel.",
+    "Title from panel. Publisher's map list on cover and \"Map of the far east and the Pacific area\" on verso. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7820.ct005340",
+    "http://lccn.loc.gov/2006458819",
+    "http://www.loc.gov/item/2006458819/",
+    "http://www.loc.gov/resource/g7820.ct005340/",
+    "https://hdl.loc.gov/loc.gmd/g7820.ct005340",
+    "https://search.catalog.loc.gov/instances/fe0275f9-2237-5186-a968-7f511dd6773e",
+    "https://www.loc.gov/item/2006458819/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7820/g7820/ct005340.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006458819/\"}",
+  "dct_spatial_sm": [
+    "china"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Large scale map of China and adjacent countries",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006458819",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

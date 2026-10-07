@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Appeared in Sanson's Cartes générales de la géographie ... 1676.",
+    "Appeared in Sanson's Cartes générales de la géographie ... 1676. Relief shown pictorially. Phillips, 486 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mariette, Pierre, 1603-1657; Sanson, Nicolas, 1600-1667",
+    "Phillips, 486",
+    "Publication statement: Paris : Chez Pierre Mariette, 1656.",
+    "Relief shown pictorially."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4410.ma001001",
+    "http://lccn.loc.gov/2004629014",
+    "http://www.loc.gov/item/2004629014/",
+    "http://www.loc.gov/resource/g4410.ma001001/",
+    "https://hdl.loc.gov/loc.gmd/g4410.ma001001",
+    "https://search.catalog.loc.gov/instances/5baf4765-1d19-57a9-a88e-b4799aefd4b8",
+    "https://www.loc.gov/item/2004629014/"
+  ],
+  "dct_issued_s": "1656",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4410/g4410/ma001001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004629014/\"}",
+  "dct_spatial_sm": [
+    "central america",
+    "mexico"
+  ],
+  "dct_subject_sm": [
+    "Central America",
+    "Central America--Maps--Early works to 1800",
+    "Mexico",
+    "Mexico--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1656"
+  ],
+  "dct_title_s": "Mexicque, ou Nouvelle Espagne, Nouvlle. Gallice, Iucatan &c. : et autres provinces jusques a l'Isthme de Panama, ou sont les Audiences de Mexico, de Guadalaiara, et de Guatimala",
+  "gbl_dateRange_drsim": [
+    "[1656 TO 1656]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1656
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004629014",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

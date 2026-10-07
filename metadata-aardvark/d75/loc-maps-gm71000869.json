@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Maps of North America, 1750-1789, 1456",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Sectioned and mounted on cloth backing. Relief shown by shading. Scale ca. 1:3,000. LC Maps of North America, 1750-1789, 1456 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [1781?]",
+    "Relief shown by shading.",
+    "Scale ca. 1:3,000.",
+    "Sectioned and mounted on cloth backing.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884p.ar145600",
+    "http://lccn.loc.gov/gm71000869",
+    "http://www.loc.gov/item/gm71000869/",
+    "http://www.loc.gov/resource/g3884p.ar145600/",
+    "https://hdl.loc.gov/loc.gmd/g3884p.ar145600",
+    "https://search.catalog.loc.gov/instances/16e227ab-4673-5f58-9f8f-e2e380bc7ad7",
+    "https://www.loc.gov/item/gm71000869/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884p/ar145600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000869/\"}",
+  "dct_spatial_sm": [
+    "portsmouth",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Portsmouth (Va.)--History--Revolution, 1775-1783--Maps, Manuscript--Early works to 1800",
+    "United States--Virginia--Portsmouth"
+  ],
+  "dct_temporal_sm": [
+    "1781",
+    "[1781?]"
+  ],
+  "dct_title_s": "Plan des ouvrages de Portsmouth en Virginie",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000869",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

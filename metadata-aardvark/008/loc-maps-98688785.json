@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hotchkiss, Jedediah, 1828-1899; Potomac, Fredericksburg, and Piedmont Railroad",
+    "Description derived from published bibliography.",
+    "LC Civil War maps (2nd ed.), H266",
+    "LC Railroad maps, 541",
+    "Publication statement: [1876]",
+    "Scale 1:48,000.",
+    "Sketch map of part of Virginia from Fredericksburg to Orange Court House. Shows relief by form lines, drainage, cities and towns, and the line of survey in red. Chartered as the Fredericksburg and Gordonsville Rail Road. See entry 412.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883o.rr005410",
+    "http://lccn.loc.gov/98688785",
+    "http://www.loc.gov/item/98688785/",
+    "http://www.loc.gov/resource/g3883o.rr005410/",
+    "https://hdl.loc.gov/loc.gmd/g3883o.rr005410",
+    "https://search.catalog.loc.gov/instances/fffe0e2c-518a-5cf6-97a9-bb93b5616a87",
+    "https://www.loc.gov/item/98688785/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883o/rr005410.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688785/\"}",
+  "dct_spatial_sm": [
+    "orange county",
+    "spotsylvania county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Potomac, Fredericksburg, and Piedmont Railroad",
+    "Railroads--Virginia--Orange County--Maps",
+    "Railroads--Virginia--Spotsylvania County--Maps",
+    "United States--Virginia--Orange County",
+    "United States--Virginia--Spotsylvania County"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Potomac, Fredericksburg, & Piedmont R.R. from Fredg., to O.C.H. 38 miles, by C. M. Braxton,",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688785",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

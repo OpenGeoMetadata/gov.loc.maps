@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hotchkiss, Jedediah, 1828-1899; New River Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Civil War maps (2nd ed.) H265",
+    "LC Railroad maps, 480",
+    "Publication statement: [188-]",
+    "Scale ca. 1:180,700.",
+    "Sketch map of part of West Virginia. Dashed red line across the map indicates the \"Proposed New River R.R.\" Shows counties and names the line of railroads.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881p.rr004800",
+    "http://lccn.loc.gov/98688730",
+    "http://www.loc.gov/item/98688730/",
+    "http://www.loc.gov/resource/g3881p.rr004800/",
+    "https://hdl.loc.gov/loc.gmd/g3881p.rr004800",
+    "https://search.catalog.loc.gov/instances/bf23bc24-41d7-5070-9a3c-c2b1eb2a4906",
+    "https://www.loc.gov/item/98688730/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881p/rr004800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688730/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "New River Railroad Company--Maps",
+    "Railroads--Virginia--Maps",
+    "Railroads--West Virginia--Maps",
+    "United States--Virginia",
+    "United States--West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1880 d1889"
+  ],
+  "dct_title_s": "Route of the New River R.R., 188-",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688730",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2000-19",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Baker, J. H., surveyor general; Brooke, Peter Langford",
+    "Includes index and col. coat of arms.",
+    "Located in Parish of Saint John.",
+    "Located in Parish of Saint John. Includes index and col. coat of arms. Available also through the Library of Congress Web site as a raster image. Vault Acquisitions control no. 2000-19",
+    "Publication statement: [1821]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/00558608",
+    "http://www.loc.gov/item/00558608/",
+    "http://www.loc.gov/resource/g5053s.lh002020/",
+    "https://hdl.loc.gov/loc.gmd/g5053s.lh002020",
+    "https://search.catalog.loc.gov/instances/b23c985b-7ce6-51c8-87e0-59d7f3fcfeed",
+    "https://www.loc.gov/item/00558608/"
+  ],
+  "dct_issued_s": "1821",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5053/g5053s/lh002020.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00558608/\"}",
+  "dct_spatial_sm": [
+    "antigua and barbuda",
+    "saint john"
+  ],
+  "dct_subject_sm": [
+    "Antigua and Barbuda--Saint John",
+    "Plantations--Antigua and Barbuda--Saint John--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1821"
+  ],
+  "dct_title_s": "A plan of the stock estate called Olivers in the division of St. John's, Antigua, the property of Peter Langford Brooke, Esq",
+  "gbl_dateRange_drsim": [
+    "[1821 TO 1821]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1821
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00558608",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

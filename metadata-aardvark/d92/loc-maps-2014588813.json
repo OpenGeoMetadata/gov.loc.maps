@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contains 16 wind roses.",
+    "Contributors: Cavallini, Giovanni Battista, active 1630-1669",
+    "Creator could be Giovanni Battista Cavallini, his son Pietro, or the Cavallini workshop.",
+    "Includes 3 bar scales in unidentified units and many illustrations throughout.",
+    "LC Nautical charts on vellum, 20",
+    "Oriented with north to the right.",
+    "Pen-and-ink and goauche.",
+    "Publication statement: In Liuorno : Cavallini, anno. 1678.",
+    "Title devised by cataloguer.",
+    "Title devised by cataloguer. Oriented with north to the right. Contains 16 wind roses. Creator could be Giovanni Battista Cavallini, his son Pietro, or the Cavallini workshop. Pen-and-ink and goauche. Includes 3 bar scales in unidentified units and many illustrations throughout. LC Nautical charts on vellum, 20 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5672m.ct003910",
+    "http://lccn.loc.gov/2014588813",
+    "http://www.loc.gov/item/2014588813/",
+    "http://www.loc.gov/resource/g5672m.ct003910/",
+    "https://hdl.loc.gov/loc.gmd/g5672m.ct003910",
+    "https://search.catalog.loc.gov/instances/4ea405af-3d9a-585a-aa26-e9cac69c774b",
+    "https://www.loc.gov/item/2014588813/"
+  ],
+  "dct_issued_s": "1678",
+  "dct_language_sm": [
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5672/g5672m/ct003910.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2014588813/\"}",
+  "dct_spatial_sm": [
+    "mediterranean region",
+    "mediterranean sea"
+  ],
+  "dct_subject_sm": [
+    "Mediterranean Region",
+    "Mediterranean Region--Maps--Early works to 1800",
+    "Mediterranean Sea",
+    "Seaports--Mediterranean Sea--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1678"
+  ],
+  "dct_title_s": "[Chart of the Mediterranean, the coast of Portugal, and the northwest coast of Africa]",
+  "gbl_dateRange_drsim": [
+    "[1678 TO 1678]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1678
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2014588813",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

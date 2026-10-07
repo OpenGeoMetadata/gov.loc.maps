@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Folded title: Pisgah National Forest, North Carolina.",
+    "Folded title: Pisgah National Forest, North Carolina. Relief shown by spot heights. Includes col. illus., table of recreation facilities, location map, and inset. Text and col. illus. on verso. Scale ca. 1:260,000. Available also through the Library of Congress Web site as a raster image.",
+    "Includes col. illus., table of recreation facilities, location map, and inset.",
+    "Publication statement: [Atlanta] 1970.",
+    "Relief shown by spot heights.",
+    "Scale ca. 1:260,000.",
+    "Text and col. illus. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm71002112",
+    "http://www.loc.gov/item/gm71002112/",
+    "http://www.loc.gov/resource/g3902p.ct009702/",
+    "https://hdl.loc.gov/loc.gmd/g3902p.ct009702",
+    "https://search.catalog.loc.gov/instances/819d31fc-1c09-5750-af2b-e6ed3e6368da",
+    "https://www.loc.gov/item/gm71002112/"
+  ],
+  "dct_issued_s": "1970",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902p/ct009702.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002112/\"}",
+  "dct_spatial_sm": [
+    "n.c",
+    "north carolina",
+    "pisgah national forest",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Outdoor recreation--North Carolina--Pisgah National Forest--Maps",
+    "Pisgah National Forest, N.C.--Maps",
+    "United States--North Carolina--Pisgah National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "dct_title_s": "Pisgah National Forest",
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1970]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1970
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002112",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

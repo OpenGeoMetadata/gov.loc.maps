@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 246.1 Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Poole, A. F.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 246.1",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [n.p.] c1896."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3734m.pm002461",
+    "http://lccn.loc.gov/75693245",
+    "http://www.loc.gov/item/75693245/",
+    "http://www.loc.gov/resource/g3734m.pm002461/",
+    "https://hdl.loc.gov/loc.gmd/g3734m.pm002461",
+    "https://search.catalog.loc.gov/instances/93e79b3d-0ec9-5f80-b0e9-22500011ab2b",
+    "https://www.loc.gov/item/75693245/"
+  ],
+  "dct_issued_s": "1896",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3734/g3734m/pm002461.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693245/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "monhegan",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Monhegan (Me.)",
+    "United States--Maine--Monhegan"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dct_title_s": "Monhegan, Me",
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1896
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693245",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

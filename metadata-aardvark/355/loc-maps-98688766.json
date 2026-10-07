@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Allen, Lane & Scott; Pennsylvania Railroad",
+    "Description derived from published bibliography.",
+    "Inset: [Map of Middle Atlantic region.] 23 x 25 cm.",
+    "LC Railroad maps, 520",
+    "Map of the United States showing major drainage, relief by hachures, and the railroad network with names of lines and stations. Emphasizes with heavy black lines the Pennsylvania Railroad in the northeastern states.",
+    "Publication statement: [n.p.], 1893.",
+    "Scale ca. 1:4,500,000.",
+    "Ticket information on the verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr005200",
+    "http://lccn.loc.gov/98688766",
+    "http://www.loc.gov/item/98688766/",
+    "http://www.loc.gov/resource/g3701p.rr005200/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr005200",
+    "https://search.catalog.loc.gov/instances/b4ada762-2cc0-5a22-8a7e-9de4dab7c436",
+    "https://www.loc.gov/item/98688766/"
+  ],
+  "dct_issued_s": "1893",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr005200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688766/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pennsylvania Railroad--Maps",
+    "Railroads--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "dct_title_s": "General map of the Pennsylvania Railroad and its connections",
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688766",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

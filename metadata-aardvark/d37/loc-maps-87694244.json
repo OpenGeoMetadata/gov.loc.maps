@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing block and lot numbers in the area of Northwest D.C. bounded by N, Ninth, G, and Fifteenth streets.",
+    "Cadastral map showing block and lot numbers in the area of Northwest D.C. bounded by N, Ninth, G, and Fifteenth streets. Pen-and-ink, lead-pencil, and watercolor. Indexed for and color-coded to landowners' names. Copy torn and fold-lined. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 351 Vault DCP",
+    "Copy torn and fold-lined.",
+    "DCP",
+    "Indexed for and color-coded to landowners' names.",
+    "Pen-and-ink, lead-pencil, and watercolor.",
+    "Phillips. Washington 351",
+    "Publication statement: [1805?]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851g.la002221",
+    "http://lccn.loc.gov/87694244",
+    "http://www.loc.gov/item/87694244/",
+    "http://www.loc.gov/resource/g3851g.la002221/",
+    "https://hdl.loc.gov/loc.gmd/g3851g.la002221",
+    "https://search.catalog.loc.gov/instances/ed71a48c-5191-5dc6-a8d5-e971069a71a9",
+    "https://www.loc.gov/item/87694244/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851g/la002221.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694244/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Landowners--Washington (D.C.)--Maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1805",
+    "[1805?]"
+  ],
+  "dct_title_s": "Plan of part of the city of Washington on which is exhibited the division of lots : made under a commission from the High Court of Chancery of the state of Maryland and directed to Dan'l Carroll of Duddington, Thomas Peter, and Nicholas King",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694244",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

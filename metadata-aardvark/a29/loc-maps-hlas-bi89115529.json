@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: karto + grafik verlagsgesellschaft; modelski, andrew m."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi89115529/",
+    "https://www.loc.gov/item/hlas-bi89115529/"
+  ],
+  "dct_issued_s": "1985",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_publisher_sm": [
+    "Karto + Grafik Verlagsgesellschaft mbH,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi89115529/\"}",
+  "dct_spatial_sm": [
+    "germany"
+  ],
+  "dct_subject_sm": [
+    "cap-haïtien, haiti (city)",
+    "cap-haïtien, haiti (city) -- geography",
+    "cap-haïtien, haiti (city) -- maps and cartography",
+    "geography",
+    "maps and cartography",
+    "port-au-prince, haiti (city)",
+    "port-au-prince, haiti (city) -- geography",
+    "port-au-prince, haiti (city) -- maps and cartography",
+    "santo domingo, dominican republic (city)",
+    "santo domingo, dominican republic (city) -- geography",
+    "santo domingo, dominican republic (city) -- maps and cartography"
+  ],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "dct_title_s": "Hildebrand's Urlaubskarte: Massstab 1:816,000",
+  "gbl_dateRange_drsim": [
+    "[1985 TO 1985]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi89115529",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

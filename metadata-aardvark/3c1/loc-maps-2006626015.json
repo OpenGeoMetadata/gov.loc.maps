@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Copy 2 imperfect: damaged, includes pen annotation \"West.\"",
+    "Publication statement: [S.l. : s.n.], 1852",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. LC Copy 2 imperfect: damaged, includes pen annotation \"West.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3893h.ct001434",
+    "http://lccn.loc.gov/2006626015",
+    "http://www.loc.gov/item/2006626015/",
+    "http://www.loc.gov/resource/g3893h.ct001434/",
+    "https://hdl.loc.gov/loc.gmd/g3893h.ct001434",
+    "https://search.catalog.loc.gov/instances/fbed457f-bac2-5a67-badb-d30bef6ce4b1",
+    "https://www.loc.gov/item/2006626015/"
+  ],
+  "dct_issued_s": "1852",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3893/g3893h/ct001434.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006626015/\"}",
+  "dct_spatial_sm": [
+    "hancock county",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Hancock County (W. Va.)--Maps",
+    "United States--West Virginia--Hancock County"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "dct_title_s": "Map of Hancock County Virginia, 1852",
+  "gbl_dateRange_drsim": [
+    "[1852 TO 1852]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1852
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006626015",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"GPO: 1982--361-578/127.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service; United States. National Park Service",
+    "Includes text and col. ill.",
+    "Panel title.",
+    "Panel title. Includes text and col. ill. Text on verso. \"GPO: 1982--361-578/127.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington?] : National Park Service : Forest Service, [1982]",
+    "Text on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3866g.ct008857",
+    "http://lccn.loc.gov/82693641",
+    "http://www.loc.gov/item/82693641/",
+    "http://www.loc.gov/resource/g3866g.ct008857/",
+    "https://hdl.loc.gov/loc.gmd/g3866g.ct008857",
+    "https://search.catalog.loc.gov/instances/7b18e063-6af2-5de1-ad90-98c6c7d2c625",
+    "https://www.loc.gov/item/82693641/"
+  ],
+  "dct_issued_s": "1982",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3866/g3866g/ct008857.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82693641/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Forest reserves--Southern States--Maps",
+    "National parks and reserves--Southern States--Maps",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "dct_title_s": "Southeast, national parks and national forests",
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1982]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82693641",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"May 1981 4-R-37603.\"",
+    "\"Prepared 1981.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes note.",
+    "Legend title: Prime farmland in Georgia.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1981.",
+    "Shows quality of farmlands for agricultural crops.",
+    "Shows quality of farmlands for agricultural crops. \"Prepared 1981.\" Legend title: Prime farmland in Georgia. Includes note. \"May 1981 4-R-37603.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82693719",
+    "http://www.loc.gov/item/82693719/",
+    "http://www.loc.gov/resource/g3921j.ct009983/",
+    "https://hdl.loc.gov/loc.gmd/g3921j.ct009983",
+    "https://search.catalog.loc.gov/instances/2b4d4b26-1e62-569c-b046-91d6000e1553",
+    "https://www.loc.gov/item/82693719/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3921/g3921j/ct009983.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82693719/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Agricultural resources--Georgia--Maps",
+    "Land capability for agriculture--Georgia--Maps",
+    "Soil productivity--Georgia--Maps",
+    "United States--Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Prime farmlands of the State of Georgia",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82693719",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

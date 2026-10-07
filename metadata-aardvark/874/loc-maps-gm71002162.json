@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This rudimentary sketch map, Charles-Town, Capitale de la Caroline (Charleston, capital of Carolina), drawn by an unknown French cartographer in 1780, shows the city of Charleston, South Carolina, enclosed by walls with the Ashley River to the left and the Cooper River to the right. Fort Johnson appears at bottom right, guarding the southwest entrance to the harbor. Shute's Folly is the triangular island east of the city. Some sources say that \"folly\" referred to a marshy Carolina sea island; Joseph Shute owned the land in the 1730s. Castle Pinckney was built on the island in 1808-11 and it was one of a few horseshoe forts still in active use during the American Civil War of 1861-65. Relief is shown by hachures. 1780 and 1781 were eventful years for Charleston in the Revolutionary War. The British siege of the city began on April 2, 1780, and Major General Benjamin Lincoln offered its unconditional surrender on May 14. Charleston had repulsed previous attacks by the British in 1776 and 1779. The British victory resulted in 3,000 American soldiers being taken prisoner and in the capture of a large store of munitions. At this time, General Charles Cornwallis was in command of more than 8,000 British troops in the South. The main British force marched north to help counter an expected French campaign in New York State, but the guerilla tactics of the Patriot forces in South Carolina in 1780-81 ultimately caused British forces to withdraw to Virginia, leading to the Yorktown campaign of 1781. Lord Cornwallis surrendered at Yorktown on October 19, 1781, ironically to the same general, Benjamin Lincoln, who the previous year had been forced to surrender the city of Charleston. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 440; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Maps of North America, 1750-1789, 1540",
+    "Publication statement: [n.p., 1780]",
+    "Scale ca. 1:12,500.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3914c.ar154000",
+    "http://lccn.loc.gov/gm71002162",
+    "http://www.loc.gov/item/gm71002162/",
+    "http://www.loc.gov/resource/g3914c.ar154000/",
+    "https://hdl.loc.gov/loc.gmd/g3914c.ar154000",
+    "https://search.catalog.loc.gov/instances/b4fea0e5-ff73-5708-9555-3eeecb6f730b",
+    "https://www.loc.gov/item/gm71002162/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3914/g3914c/ar154000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002162/\"}",
+  "dct_spatial_sm": [
+    "charleston",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Charleston (S.C.)--Maps--Early works to 1800",
+    "United States--South Carolina--Charleston"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "Charles-Town, capitale de la Caroline",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002162",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

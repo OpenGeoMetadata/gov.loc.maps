@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"2020-02257-vis-02 12-22\".",
+    "Contributors: United States. Central Intelligence Agency, cartographer, publisher",
+    "Government deposit; Central Intelligence Agency; 2026.",
+    "Includes location map.",
+    "Publication statement: [Langley, Virginia] : [Central Intelligence Agency], [2022]",
+    "Relief shown by spot heights and shading.",
+    "Relief shown by spot heights and shading. Includes location map. \"2020-02257-vis-02 12-22\". Government deposit; Central Intelligence Agency; 2026."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2026464054",
+    "http://www.loc.gov/item/2026464054/",
+    "http://www.loc.gov/resource/gmddigstackspublic.2026464054/",
+    "https://hdl.loc.gov/loc.gmd/gmddigstackspublic.2026464054",
+    "https://search.catalog.loc.gov/instances/f6a2324c-b28a-4be3-9969-66494955c3cb",
+    "https://www.loc.gov/item/2026464054/"
+  ],
+  "dct_issued_s": "2022",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmddigstackspublic/20/26/46/40/54/2026464054/CostaRica_Physiography.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2026464054/\"}",
+  "dct_rights_sm": [
+    "Public Domain https://creativecommons.org/publicdomain/"
+  ],
+  "dct_spatial_sm": [
+    "costa rica"
+  ],
+  "dct_subject_sm": [
+    "Costa Rica",
+    "Costa Rica--Geography",
+    "Geomorphology--Costa Rica",
+    "National parks and reserves--Costa Rica"
+  ],
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "dct_title_s": "Costa Rica : physiography",
+  "gbl_dateRange_drsim": [
+    "[2022 TO 2022]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2026464054",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

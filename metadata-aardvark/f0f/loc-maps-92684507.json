@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"724842 (R00434) 4-92.\"",
+    "\"724842 (R00434) 4-92.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington : Central Intelligence Agency, 1992]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7631e.ct001103",
+    "http://lccn.loc.gov/92684507",
+    "http://www.loc.gov/item/92684507/",
+    "http://www.loc.gov/resource/g7631e.ct001103/",
+    "https://hdl.loc.gov/loc.gmd/g7631e.ct001103",
+    "https://search.catalog.loc.gov/instances/ba234b70-5191-5f3a-8be4-4626dca3011b",
+    "https://www.loc.gov/item/92684507/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7631/g7631e/ct001103.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92684507/\"}",
+  "dct_spatial_sm": [
+    "afghanistan"
+  ],
+  "dct_subject_sm": [
+    "Afghanistan",
+    "Afghanistan--Languages--Maps",
+    "Ethnology--Afghanistan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Ethnolinguistic groups in Afghanistan",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92684507",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

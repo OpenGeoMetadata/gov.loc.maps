@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Drawn by John Young.\"",
+    "At head of title: Routes in Oregon and California. Map no. 2.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Abbot, Henry L.; Davis, Jefferson, 1808-1889; Siebert, Selmar; United States. War Department; Williamson, R. S. (Robert Stockton), 1824-1882; Young, John (Topographical engineer)",
+    "Description derived from published bibliography.",
+    "From U.S. War Department, Explorations and Surveys for a Railroad Route from the Mississippi River to the Pacific Ocean. Topographical Maps... to Illustrate the Various Reports... (Washington, 1859)",
+    "LC Railroad maps, 170",
+    "Publication statement: [Washington, D.C.], Engd. by Selmar Siebert, [1859]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. At head of title: Routes in Oregon and California. Map no. 2. \"Drawn by John Young.\" From U.S. War Department, Explorations and Surveys for a Railroad Route from the Mississippi River to the Pacific Ocean. Topographical Maps... to Illustrate the Various Reports... (Washington, 1859) Description derived from published bibliography. Scale 1:760,320. LC Railroad maps, 170 Available also through the Library of Congress Web site as a raster image.",
+    "Scale 1:760,320."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4290.rr001700",
+    "http://lccn.loc.gov/98688434",
+    "http://www.loc.gov/item/98688434/",
+    "http://www.loc.gov/resource/g4290.rr001700/",
+    "https://hdl.loc.gov/loc.gmd/g4290.rr001700",
+    "https://search.catalog.loc.gov/instances/63647088-a1f7-5038-aac4-3775bcf7ea05",
+    "https://www.loc.gov/item/98688434/"
+  ],
+  "dct_issued_s": "1859",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd429/g4290/g4290/rr001700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688434/\"}",
+  "dct_spatial_sm": [
+    "oregon",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Discoveries in geography--Oregon--Maps",
+    "Oregon--Maps",
+    "Railroads--Oregon--Maps",
+    "United States--Oregon"
+  ],
+  "dct_temporal_sm": [
+    "1859"
+  ],
+  "dct_title_s": "From the northern boundary of California to the Columbia River : from explorations and surveys",
+  "gbl_dateRange_drsim": [
+    "[1859 TO 1859]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1859
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688434",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

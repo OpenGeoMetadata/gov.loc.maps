@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Indexed.",
+    "LC Luso-Hispanic World, 992",
+    "Maggs number annotated in pencil in lower right corner: 192.",
+    "Mounted on cloth backing.",
+    "Oriented with north toward the lower left.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [17--?]",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Shows coast of Venezuela in the vicinity of Araya.",
+    "Shows coast of Venezuela in the vicinity of Araya. Relief shown pictorially. Depths shown by soundings. Oriented with north toward the lower left. Watermark: Upper portion of Strasburg fleur-de-lis? Pen-and-ink and watercolor. Mounted on cloth backing. Indexed. Maggs number annotated in pencil in lower right corner: 192. LC Luso-Hispanic World, 992 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermark: Upper portion of Strasburg fleur-de-lis?"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5284a.lh000992",
+    "http://lccn.loc.gov/90682956",
+    "http://www.loc.gov/item/90682956/",
+    "http://www.loc.gov/resource/g5284a.lh000992/",
+    "https://hdl.loc.gov/loc.gmd/g5284a.lh000992",
+    "https://search.catalog.loc.gov/instances/0f21b2fb-9bfb-58f7-9e07-59d6ced4e569",
+    "https://www.loc.gov/item/90682956/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5284/g5284a/lh000992.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90682956/\"}",
+  "dct_spatial_sm": [
+    "araya",
+    "atlantic coast",
+    "venezuela"
+  ],
+  "dct_subject_sm": [
+    "Araya (Venezuela)--Maps, Manuscript--Early works to 1800",
+    "Atlantic Coast (Venezuela)--Maps, Manuscript--Early works to 1800",
+    "Coasts--Venezuela--Araya--Maps--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "Venezuela--Araya",
+    "Venezuela--Atlantic Coast"
+  ],
+  "dct_temporal_sm": [
+    "1700",
+    "[17--?]"
+  ],
+  "dct_title_s": "Plano de la vista del surgidero de Araya",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90682956",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "Focuses on a small portion of the Rappahannock River close to the line dividing Culpeper and Fauquier counties, Va., and about 8 miles (as indentified by Sneden) from Brandy Station where the Battle of Kelly's Ford occurred on 7 November 1863. Confederate positions are noted as well as the placement of the 3rd, 5th, and 6th corps of the Union Army of the Potomac.",
+    "In the Robert Knox Sneden diary, 1861-1865 (v. 5, p. 23).",
+    "Lower left corner of map: \"Copy from Official Plan made for 3rd Corps by R.K. Sneden.\"",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary page.",
+    "Publication statement: [1861-1865]",
+    "Robert Knox Sneden scrapbook (Mss5:7 Sn237:1), Virginia Historical Society.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00050",
+    "http://www.loc.gov/item/001-CABIB20002991/",
+    "http://www.loc.gov/item/gvhs01.vhs00050/",
+    "http://www.loc.gov/resource/gvhs01.vhs00050/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00050",
+    "https://www.loc.gov/item/gvhs01.vhs00050/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00050.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00050/\"}",
+  "dct_spatial_sm": [
+    "culpeper county",
+    "fauquier county",
+    "rappahannock river",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Culpeper County (Va.)--History--Civil War, 1861-1865--Maps",
+    "Fauquier County (Va.)--History--Civil War, 1861-1865--Maps",
+    "Kelly's Ford, Battle of, Va",
+    "Kelly's Ford, Battle of, Va., 1863",
+    "Rappahannock River (Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia--Culpeper County",
+    "United States--Virginia--Fauquier County",
+    "United States--Virginia--Rappahannock River",
+    "United States.--Army of the Potomac.--Corps, 3rd",
+    "United States.--Army of the Potomac.--Corps, 5th",
+    "United States.--Army of the Potomac.--Corps, 6th"
+  ],
+  "dct_temporal_sm": [
+    "1861/1865"
+  ],
+  "dct_title_s": "Plan of the Battle of Kelly's Ford, Va. : fought 7th November 1863.",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00050",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

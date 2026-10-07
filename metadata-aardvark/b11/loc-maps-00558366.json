@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"October 1994 1008056.\"",
+    "\"Source: Original map scale 1:250,000. Bureau of the Census 1990 Tiger line data and information form SCS field personnel.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartography and Geographic Information Systems Center (U.S.); United States. Natural Resources Conservation Service",
+    "Includes location map.",
+    "Includes location map. \"October 1994 1008056.\" \"Source: Original map scale 1:250,000. Bureau of the Census 1990 Tiger line data and information form SCS field personnel.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Fort Worth, TX : USDA, NRCS, National Cartography & GIS Center ; [Columbus, Ohio : State Conservationist, distributor], 1995."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/00558366",
+    "http://www.loc.gov/item/00558366/",
+    "http://www.loc.gov/resource/g4082l.ct011884/",
+    "https://hdl.loc.gov/loc.gmd/g4082l.ct011884",
+    "https://search.catalog.loc.gov/instances/7cd1ce07-4478-5d63-ab8e-995619c9ae68",
+    "https://www.loc.gov/item/00558366/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4082/g4082l/ct011884.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00558366/\"}",
+  "dct_spatial_sm": [
+    "east fork",
+    "little miami river",
+    "little miami river, east fork, watershed",
+    "ohio",
+    "united states",
+    "watershed"
+  ],
+  "dct_subject_sm": [
+    "Little Miami River, East Fork, Watershed (Ohio)--Maps",
+    "United States--Ohio--Little Miami River, East Fork, Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "East Fork Little Miami River Watershed : Brown, Clermont, Clinton, Highland, and Warren counties, Ohio",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00558366",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

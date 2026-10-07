@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Available also through the Library of Congress web site as a raster image. 2 copies",
+    "Contributors: Eastern National Park and Monument Association",
+    "Publication statement: [S.l., 196-]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3732m.npr00047",
+    "http://hdl.loc.gov/loc.gmd/g3732m.npv00047",
+    "http://lccn.loc.gov/98687185",
+    "http://www.loc.gov/item/98687185/",
+    "http://www.loc.gov/resource/g3732m.npr00047/",
+    "http://www.loc.gov/resource/g3732m.npv00047/",
+    "https://hdl.loc.gov/loc.gmd/g3732m.npr00047",
+    "https://hdl.loc.gov/loc.gmd/g3732m.npv00047",
+    "https://search.catalog.loc.gov/instances/5bc29af7-e204-52db-b4b9-42212a2e7c10",
+    "https://www.loc.gov/item/98687185/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3732/g3732m/npr00047.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687185/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "mount desert island",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mount Desert Island (Me.)--Maps",
+    "United States--Maine--Mount Desert Island"
+  ],
+  "dct_temporal_sm": [
+    "196?"
+  ],
+  "dct_title_s": "Trails of Acadia",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687185",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

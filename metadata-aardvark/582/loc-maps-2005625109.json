@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "LC Civil War maps (2nd ed.), H202",
+    "Pen-and-ink and pencil on tracing linen, sectioned in 3, and mounted on cloth.",
+    "Publication statement: [1893]",
+    "Shows names of counties, major cities and towns, and rivers.",
+    "Shows names of counties, major cities and towns, and rivers. Title, date, and scale from Stephenson's Civil War maps, 1989. Pen-and-ink and pencil on tracing linen, sectioned in 3, and mounted on cloth. LC Civil War maps (2nd ed.), H202 Available also through the Library of Congress web site as raster image.",
+    "Title, date, and scale from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4360.cwh00202",
+    "http://lccn.loc.gov/2005625109",
+    "http://www.loc.gov/item/2005625109/",
+    "http://www.loc.gov/resource/g4360.cwh00202/",
+    "https://hdl.loc.gov/loc.gmd/g4360.cwh00202",
+    "https://search.catalog.loc.gov/instances/8f61fdab-7607-50fb-9479-feda5ee85c14",
+    "https://www.loc.gov/item/2005625109/"
+  ],
+  "dct_issued_s": "1893",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4360/g4360/cwh00202.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625109/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "California--Maps, Manuscript",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "dct_title_s": "[Base map of California]",
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625109",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cleveland and Mahoning Rail Road Company; Mueller, J. (John)",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 384",
+    "Publication statement: Philadelphia, [1853]",
+    "Scale ca. 1:2,050,000.",
+    "Sketch map of the north-central and middle Atlantic states showing the railroad network, major cities, rivers, and state boundaries. Tables of distances appear on both sides of title. Chartered on February 22, 1848."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3711p.rr003840",
+    "http://lccn.loc.gov/98688635",
+    "http://www.loc.gov/item/98688635/",
+    "http://www.loc.gov/resource/g3711p.rr003840/",
+    "https://hdl.loc.gov/loc.gmd/g3711p.rr003840",
+    "https://search.catalog.loc.gov/instances/050e1827-3dd3-524e-a769-a184bfe5a8d8",
+    "https://www.loc.gov/item/98688635/"
+  ],
+  "dct_issued_s": "1853",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3711/g3711p/rr003840.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688635/\"}",
+  "dct_spatial_sm": [
+    "northeastern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cleveland and Mahoning Rail Road Company--Maps",
+    "Railroads--Northeastern States--Maps",
+    "United States--Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "dct_title_s": "Map of the Cleveland and Mahoning Rail Road and its connections, Edward Warner Chief Engineer, 1853",
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1853
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688635",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

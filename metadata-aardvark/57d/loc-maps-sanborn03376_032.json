@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "013. Key map to edition. Other places as they appear on original: Westwego, Part as Marrero, Harvey.",
+    "1937 - Jan 1950; Vol. 7.",
+    "78 sheet(s)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.loc.gov/item/sanborn03376_032/"
+  ],
+  "dct_issued_s": "1951",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn03376_032/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401m/g4014m/g4014nm/g03376195007/03376_07_1950-0000A.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn03376_032/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "Harvey",
+    "Louisiana",
+    "Marrero",
+    "New Orleans",
+    "Orleans Parish",
+    "United States",
+    "Westwego"
+  ],
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana.",
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1951]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete.",
+    "Catalog access is public. Item-level access restrictions have not been refreshed since the historical package; consult the LOC catalog for current access."
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn03376_032",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

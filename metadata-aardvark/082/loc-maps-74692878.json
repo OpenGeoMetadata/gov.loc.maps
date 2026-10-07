@@ -1,0 +1,83 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 651/2; 651/3; 651/4; 651/5; 651/6; 651/7; 651/8; 700/1; 710/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Holland, Samuel, 1728-1801; Jefferys, Thomas, -1771; Robert Sayer and John Bennett (Firm)",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Shows administrative divisions. Insets: A chart of the mouth of Hudson's River, from Sandy Hook to New York.--A plan of the city of New York.--Plan of Amboy, with its environs, from an actual survey. Scale ca. 1:650,000. LC Maps of North America, 1750-1789, 1043 Available also through the Library of Congress Web site as a raster image. LC copy deteriorated in margins. Vault AACR2: 100; 651/1; 651/2; 651/3; 651/4; 651/5; 651/6; 651/7; 651/8; 700/1; 710/2",
+    "Insets: A chart of the mouth of Hudson's River, from Sandy Hook to New York.--A plan of the city of New York.--Plan of Amboy, with its environs, from an actual survey.",
+    "LC Maps of North America, 1750-1789, 1043",
+    "LC copy deteriorated in margins.",
+    "Publication statement: London, Robt. Sayer & John Bennett, 1775 [i.e. 1776]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:650,000.",
+    "Shows administrative divisions.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3800.ar104300",
+    "http://lccn.loc.gov/74692878",
+    "http://www.loc.gov/item/74692878/",
+    "http://www.loc.gov/resource/g3800.ar104300/",
+    "https://hdl.loc.gov/loc.gmd/g3800.ar104300",
+    "https://search.catalog.loc.gov/instances/9aa57c37-9fef-50ab-91d5-3e0a1b6fa355",
+    "https://www.loc.gov/item/74692878/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3800/g3800/ar104300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692878/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "new york city",
+    "northeastern states",
+    "perth amboy",
+    "québec",
+    "québec (province)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--Québec (Province)",
+    "New Jersey--Administrative and political divisions--Maps--Early works to 1800",
+    "New Jersey--Maps--Early works to 1800",
+    "New York (N.Y.)--Maps--Early works to 1800",
+    "New York (State)--Administrative and political divisions--Maps--Early works to 1800",
+    "New York (State)--Maps--Early works to 1800",
+    "Northeastern States--Maps--Early works to 1800",
+    "Perth Amboy (N.J.)--Maps--Early works to 1800",
+    "Québec (Province)--Maps--Early works to 1800",
+    "United States--New Jersey",
+    "United States--New Jersey--Perth Amboy",
+    "United States--New York (State)",
+    "United States--New York (State)--New York",
+    "United States--Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "The provinces of New York and New Jersey; with part of Pensilvania, and the province of Quebec",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692878",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

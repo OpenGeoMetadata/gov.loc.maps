@@ -1,0 +1,49 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Author, title, and selected routes annotated in ink. Annotated with red crayon: Superseded Aug. 1919; and, in ink: 5 year prog. map.",
+    "Author, title, and selected routes annotated in ink. Annotated with red crayon: Superseded Aug. 1919; and, in ink: 5 year prog. map. Base map: Tennessee / Department of the Interior, U.S. Geological Survey ; R.B. Marshall, chief geographer ; A.F. Hassan, cartographer, printed 1916. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map: Tennessee / Department of the Interior, U.S. Geological Survey ; R.B. Marshall, chief geographer ; A.F. Hassan, cartographer, printed 1916.",
+    "Contributors: Tennessee. Department of Highways; Tennessee. State Highway Commission",
+    "Publication statement: [Nashville] : The Department, [1917?]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/89695238",
+    "http://www.loc.gov/item/89695238/",
+    "http://www.loc.gov/resource/g3961p.ct010523/",
+    "https://hdl.loc.gov/loc.gmd/g3961p.ct010523",
+    "https://search.catalog.loc.gov/instances/8aaeb910-37d6-5fb9-93ca-7910c4badb5c",
+    "https://www.loc.gov/item/89695238/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3961/g3961p/ct010523.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89695238/\"}",
+  "dct_spatial_sm": [
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Roads--Tennessee--Maps",
+    "United States--Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "1917",
+    "[Nashville] : The Department, [1917?]"
+  ],
+  "dct_title_s": "Map showing federal aid road system as adapted by State Highway Commission, April 23rd 1917, Nashville, Tenn",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89695238",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

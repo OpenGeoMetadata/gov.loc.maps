@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Conserved; 002645.20 1976 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Contributors: Beck & Pauli; Stoner, J. J.",
+    "Includes illus. and index to points of interest.",
+    "Includes illus. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1068 Available also through the Library of Congress Web site as a raster image. Conserved; 002645.20 1976 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda AACR2",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1068",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Madison, Wis. [1882]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4264c.pm010680",
+    "http://lccn.loc.gov/75693047",
+    "http://www.loc.gov/item/75693047/",
+    "http://www.loc.gov/resource/g4264c.pm010680/",
+    "https://hdl.loc.gov/loc.gmd/g4264c.pm010680",
+    "https://search.catalog.loc.gov/instances/f1cab3d6-1760-5ebe-bff1-437ebb73a6c1",
+    "https://www.loc.gov/item/75693047/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd426/g4264/g4264c/pm010680.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693047/\"}",
+  "dct_spatial_sm": [
+    "cheyenne",
+    "united states",
+    "wyoming"
+  ],
+  "dct_subject_sm": [
+    "Cheyenne (Wyo.)",
+    "United States--Wyoming--Cheyenne"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Bird's eye view of Cheyenne, Wyo. county seat of Laramie Co. 1882",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693047",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

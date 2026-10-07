@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Minimal level cataloging record.",
+    "Pen-and-ink, and pencil.",
+    "Publication statement: 1812.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Shows the Miami's surprise attack on Lt. Col. Campbell's camp in Marion city region on December 18th, 1812. Title devised by cataloger. Pen-and-ink, and pencil. Minimal level cataloging record. Available also through the Library of Congress Web site as a raster image.",
+    "Shows the Miami's surprise attack on Lt. Col. Campbell's camp in Marion city region on December 18th, 1812.",
+    "Title devised by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4092m.ct004326",
+    "http://lccn.loc.gov/2012591022",
+    "http://www.loc.gov/item/2012591022/",
+    "http://www.loc.gov/resource/g4092m.ct004326/",
+    "https://hdl.loc.gov/loc.gmd/g4092m.ct004326",
+    "https://search.catalog.loc.gov/instances/49de148a-323a-56c6-a962-73a76ff31bf8",
+    "https://www.loc.gov/item/2012591022/"
+  ],
+  "dct_issued_s": "1812",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409/g4092/g4092m/ct004326.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012591022/\"}",
+  "dct_spatial_sm": [
+    "indiana",
+    "marion (region)",
+    "marion region",
+    "mississinewa, battle of, ind., 1812",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Marion Region (Ind.)--Maps",
+    "Mississinewa, Battle of, Ind., 1812--Maps",
+    "United States--Indiana--Marion (Region)",
+    "United States--Indiana--Mississinewa, Battle of, Ind., 1812"
+  ],
+  "dct_temporal_sm": [
+    "1812"
+  ],
+  "dct_title_s": "[Map of the camp of Lt. Col. John R. Campbell on the bank of the Mississinewa River, December 18, 1812 with details of attack by indians.]",
+  "gbl_dateRange_drsim": [
+    "[1812 TO 1812]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1812
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012591022",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

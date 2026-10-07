@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Kansas title collection drawer 22",
+    "Alternate supplied title: Kansas title collection--various subjects Roads gas ads"
+  ],
+  "dct_description_sm": [
+    "Publication statement: [Various places] : [various publishers], [approximately 1920-1979]",
+    "This record covers single road maps of Kansas distributed by various gas companies which are not represented in the LC database by separate catalog records. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single road maps of Kansas distributed by various gas companies which are not represented in the LC database by separate catalog records. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589154",
+    "http://www.loc.gov/item/2022589154/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ks-022/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ks-022",
+    "https://search.catalog.loc.gov/instances/4abda48b-ae94-56cf-8c50-33df8666496e",
+    "https://www.loc.gov/item/2022589154/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ks:-0:22:ks-022:ks-022-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589154/\"}",
+  "dct_spatial_sm": [
+    "kansas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Roads--Kansas--Maps",
+    "United States--Kansas"
+  ],
+  "dct_temporal_sm": [
+    "1920/1979",
+    "[Various places] : [various publishers], [approximately 1920-1979]"
+  ],
+  "dct_title_s": "[Maps of Kansas--various subjects Roads gas ads]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022589154",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

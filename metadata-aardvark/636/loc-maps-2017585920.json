@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Joutel, Henri, 1640?-1735; Joutel, Henri, 1640?-1735, cartographer",
+    "Includes illustrations, including an Illustrated cartouche and a view of Niagara Falls, and an index.",
+    "LC copy mounted on cloth.",
+    "Phillips, A list of maps of America, p. 367",
+    "Publication statement: [London] : [Printed for A. Bell], 1713.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Includes illustrations, including an Illustrated cartouche and a view of Niagara Falls, and an index. LC copy mounted on cloth. Phillips, A list of maps of America, p. 367 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ct007386",
+    "http://lccn.loc.gov/2017585920",
+    "http://www.loc.gov/item/2017585920/",
+    "http://www.loc.gov/resource/g3300.ct007386/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ct007386",
+    "https://search.catalog.loc.gov/instances/97a0e41a-7e40-5a4f-849d-e83c2af01ff4",
+    "https://www.loc.gov/item/2017585920/"
+  ],
+  "dct_issued_s": "1713",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ct007386.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585920/\"}",
+  "dct_spatial_sm": [
+    "mississippi river",
+    "north america",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mississippi River--Discovery and exploration--Maps--Early works to 1800",
+    "North America",
+    "North America--Maps--Early works to 1800",
+    "United States--Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "1713"
+  ],
+  "dct_title_s": "A new map of the country of Louisiana and of ye river Missisipi in North America : discou'd by Mons. de la Salle in ye years 1681 and 1686 as allso of several other rivers before unknown and falling into ye Bay of St. Lewis",
+  "gbl_dateRange_drsim": [
+    "[1713 TO 1713]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1713
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585920",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lotter, Matthäus Albrecht, 1741-1810; Sauthier, Claude Joseph",
+    "Hand colored.",
+    "Hand colored. Prime meridian: New York. Relief shown pictorially. Shows administrative divisions in New York and New Jersey. Scale ca. 1:1,040,000. LC Maps of North America, 1750-1789, 1048 Available also through the Library of Congress Web site as a raster image. LC copy mounted on cloth and paper backing. Vault AACR2",
+    "LC Maps of North America, 1750-1789, 1048",
+    "LC copy mounted on cloth and paper backing.",
+    "Prime meridian: New York.",
+    "Publication statement: Augsburg, 1777.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:1,040,000.",
+    "Shows administrative divisions in New York and New Jersey.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3800.ar104801",
+    "http://lccn.loc.gov/74692641",
+    "http://www.loc.gov/item/74692641/",
+    "http://www.loc.gov/resource/g3800.ar104801/",
+    "https://hdl.loc.gov/loc.gmd/g3800.ar104801",
+    "https://search.catalog.loc.gov/instances/9dadd146-432e-548c-927d-8afce9666eec",
+    "https://www.loc.gov/item/74692641/"
+  ],
+  "dct_issued_s": "1777",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3800/g3800/ar104801.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692641/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "northeastern states",
+    "québec",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Jersey--Administrative and political divisions--Maps--Early works to 1800",
+    "New Jersey--Maps--Early works to 1800",
+    "New York (State)--Administrative and political divisions--Maps--Early works to 1800",
+    "New York (State)--Maps--Early works to 1800",
+    "Northeastern States--Maps--Early works to 1800",
+    "Québec (Province)--Maps--Early works to 1800",
+    "United States--New Jersey",
+    "United States--New York (State)",
+    "United States--Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "dct_title_s": "A map of the provinces of New-York and New Jersey, with a part of Pennsylvania and the Province of Quebec",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692641",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

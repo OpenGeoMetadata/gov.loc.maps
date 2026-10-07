@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Le Bresil : suivant les nouvelles observations de Messrs. de l'Academie Royale"
+  ],
+  "dct_description_sm": [
+    "As seen in this map, much of Brazil was still uncharted territory in the early 18th century. The annotations about the rivers, native peoples, and mines of the interior provide limited information. The map was printed in Leiden by Pieter van der Aa (1659-1733), a Dutch publisher and bookseller who specialized in reissuing maps acquired from earlier mapmakers. Van der Aa's major work was the elaborate Galerie Agréable du Monde (The pleasurable gallery of the world), a compendium of some 3,000 plates in 66 parts, bound in 27 volumes, and published in 1729.",
+    "Content in French.",
+    "Contributors: Aa, Pieter van der, 1659-1733 Printer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 map ; 22 x 32 centimeters.",
+    "Publication statement: Leiden : [publisher not identified], 1729.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668297",
+    "http://www.loc.gov/item/2021668297/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00138/",
+    "http://www.loc.gov/resource/wdl.138/",
+    "https://hdl.loc.gov/loc.wdl/wdl.138",
+    "https://www.loc.gov/item/2021668297/"
+  ],
+  "dct_issued_s": "1729-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00138.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/13/8/wdl_00138/wdl_00138.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:13:8:wdl_00138:cart163395/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668297/\"}",
+  "dct_spatial_sm": [
+    "brazil"
+  ],
+  "dct_subject_sm": [
+    "1729",
+    "Brazil",
+    "Northeastern Brazil"
+  ],
+  "dct_temporal_sm": [
+    "1729-01-01"
+  ],
+  "dct_title_s": "Brazil: According to New Surveys by Messrs. of the Royal Academy of Sciences, etc..",
+  "gbl_dateRange_drsim": [
+    "[1729 TO 1729]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1729
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668297",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

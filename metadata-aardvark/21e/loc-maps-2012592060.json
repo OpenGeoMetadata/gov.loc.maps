@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Jackson County, Texas"
+  ],
+  "dct_description_sm": [
+    "\"Aug 19th '96.\"",
+    "Annotated in red pencil.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint",
+    "Blueprint Shows land ownership. Annotated in red pencil. Business card affixed at the bottom: McCory & Lee, real estate, loans, abstracts, fire insurance. \"Aug 19th '96.\" LC Land ownership maps, 1023 Available also through the Library of Congress Web site as a raster image.",
+    "Business card affixed at the bottom: McCory & Lee, real estate, loans, abstracts, fire insurance.",
+    "Contributors: Texas. General Land Office",
+    "LC Land ownership maps, 1023",
+    "Publication statement: Austin, Tex. : General Land Office, 1896.",
+    "Shows land ownership."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033j.la001023",
+    "http://lccn.loc.gov/2012592060",
+    "http://www.loc.gov/item/2012592060/",
+    "http://www.loc.gov/resource/g4033j.la001023/",
+    "https://hdl.loc.gov/loc.gmd/g4033j.la001023",
+    "https://search.catalog.loc.gov/instances/8f611215-db67-55b2-ac89-a8fded37f4d9",
+    "https://www.loc.gov/item/2012592060/"
+  ],
+  "dct_issued_s": "1896",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033j/la001023.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592060/\"}",
+  "dct_spatial_sm": [
+    "jackson county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Jackson County (Tex.)--Maps",
+    "Landowners--Texas--Jackson County--Maps",
+    "Real property--Texas--Jackson County--Maps",
+    "United States--Texas--Jackson County"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dct_title_s": "Jackson Co",
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1896
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592060",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

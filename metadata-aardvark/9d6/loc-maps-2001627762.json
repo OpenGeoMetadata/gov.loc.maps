@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by index map: Red River index, Ark.-Tex. to Mississippi River : index of 1996 mosaics. 1 sheet ; 36 x 53 cm.",
+    "Also shows \"proposed\" in red.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers",
+    "Geographic coverage complete in 17 sheets.",
+    "Geographic coverage complete in 17 sheets. Shows 1967 mileage and 1989 post-project river mileage. Also shows \"proposed\" in red. Sheets separately numbered, e.g. Sheet 1 of 17, file no. R-7-109. Accompanied by index map: Red River index, Ark.-Tex. to Mississippi River : index of 1996 mosaics. 1 sheet ; 36 x 53 cm. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington, D.C.] : The Corps, [1996]",
+    "Sheets separately numbered, e.g. Sheet 1 of 17, file no. R-7-109.",
+    "Shows 1967 mileage and 1989 post-project river mileage."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2001627762",
+    "http://www.loc.gov/item/2001627762/",
+    "http://www.loc.gov/resource/gmdsetmaps.2001627762/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2001627762",
+    "https://search.catalog.loc.gov/instances/2069be0e-5af8-5254-a1ea-57d7840da44f",
+    "https://www.loc.gov/item/2001627762/"
+  ],
+  "dct_issued_s": "1996",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:20:01:62:77:62:2001627762:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001627762/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "red river",
+    "red river (la.)",
+    "red river (tex.)",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hydraulic engineering--Red River (Tex.-La.)--Maps",
+    "Red River (Tex.-La.)--Remote-sensing maps",
+    "United States--Louisiana--Red River (La.)",
+    "United States--Texas--Red River (Tex.)"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "dct_title_s": "Red River mosaics semi-controlled, scale 1:24,000 photography flown Nov. 1996",
+  "gbl_dateRange_drsim": [
+    "[1996 TO 1996]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001627762",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

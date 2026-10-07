@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Conserved; 002645.18 1976 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Contributors: Chicago Lithographing Co; Ruger, A.",
+    "Includes ill. and index to points of interest.",
+    "Includes ill. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 231 Available also through the Library of Congress Web site as a raster image. Conserved; 002645.18 1976 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda Vault AACR2: 100; 651/1; 710/1",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 231",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [Chicago] Chicago Lithographing Co. [1869]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4204t.pm002310",
+    "http://lccn.loc.gov/73693411",
+    "http://www.loc.gov/item/73693411/",
+    "http://www.loc.gov/resource/g4204t.pm002310/",
+    "https://hdl.loc.gov/loc.gmd/g4204t.pm002310",
+    "https://search.catalog.loc.gov/instances/286f1a71-aa52-56fc-8210-1ef1b9686231",
+    "https://www.loc.gov/item/73693411/"
+  ],
+  "dct_issued_s": "1869",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd420/g4204/g4204t/pm002310.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693411/\"}",
+  "dct_spatial_sm": [
+    "kansas",
+    "topeka",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Topeka (Kan.)",
+    "United States--Kansas--Topeka"
+  ],
+  "dct_temporal_sm": [
+    "1869"
+  ],
+  "dct_title_s": "Bird's eye view of the city of Topeka, the capital of Kansas 1869",
+  "gbl_dateRange_drsim": [
+    "[1869 TO 1869]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1869
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693411",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

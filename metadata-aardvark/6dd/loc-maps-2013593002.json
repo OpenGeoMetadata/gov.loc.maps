@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Atlas universel 34e.\"",
+    "\"This map, published in Paris in 1842, shows the Asian provinces of the Ottoman Empire, Persia (present-day Iran), Afghanistan, and the Arabian Peninsula. The map appeared in Atlas universel de géographie ancienne et moderne (Universal atlas of ancient and modern geography) by the cartographer and engraver Pierre M. Lapie (1779-1850). Lapie was a member of the corps of topographical engineers in the French army, where he rose to the rank of colonel. He eventually became head of the topographical section in the Ministry of War. He was assisted by his son Alexandre Emile Lapie (flourished 1809-50), also a French military cartographer, who worked with his father over a period of many years. The map provides scales of distance in five different units: myriameters (10,000 meters), leagues, nautical leagues, miles, and, curiously, hours of walking or marching required to cover a given distance. Paris is given as the prime meridian.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lapie, M. (Pierre), 1779-1850; Tardieu, Pierre Antoine, 1784-1869",
+    "LC copy annotated in pencil: From Atlas unversel de geographie, M. Lapie et fils, P.C. Lehnby, Paris, 1841.",
+    "LC copy stamped: \"626888.\"",
+    "Prime meridian: Paris.",
+    "Publication statement: [Paris] : Imprimé chez Kaeppelin, [1842]",
+    "Relief shown by hachures.",
+    "Shows colored country borders."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7420.ct003759",
+    "http://lccn.loc.gov/2013593002",
+    "http://www.loc.gov/item/2013593002/",
+    "http://www.loc.gov/resource/g7420.ct003759/",
+    "https://hdl.loc.gov/loc.gmd/g7420.ct003759",
+    "https://search.catalog.loc.gov/instances/4d6fa716-2cb8-5be5-a49a-34756de14394",
+    "https://www.loc.gov/item/2013593002/"
+  ],
+  "dct_issued_s": "1842",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7420/g7420/ct003759.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593002/\"}",
+  "dct_spatial_sm": [
+    "middle east"
+  ],
+  "dct_subject_sm": [
+    "Middle East",
+    "Middle East--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1842"
+  ],
+  "dct_title_s": "Carte de la Turquie D'Asie de la Perse de l'Afghanistan et de l'Arabie",
+  "gbl_dateRange_drsim": [
+    "[1842 TO 1842]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1842
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593002",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

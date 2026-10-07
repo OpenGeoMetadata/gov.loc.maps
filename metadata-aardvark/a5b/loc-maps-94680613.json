@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Galveston District",
+    "Includes text, distance table, sheet index, text on commerce and ecology and other information, graph, table of signs, and col. ill.",
+    "Maps separately marked, e.g. Map A, Map B, Map C.",
+    "Panel title.",
+    "Pictorial map.",
+    "Pictorial map. Panel title. Maps separately marked, e.g. Map A, Map B, Map C. Includes text, distance table, sheet index, text on commerce and ecology and other information, graph, table of signs, and col. ill. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Galveston, Tex.] : The District, [1993?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3862g.ct008855",
+    "http://lccn.loc.gov/94680613",
+    "http://www.loc.gov/item/94680613/",
+    "http://www.loc.gov/resource/g3862g.ct008855/",
+    "https://hdl.loc.gov/loc.gmd/g3862g.ct008855",
+    "https://search.catalog.loc.gov/instances/e2de9d6c-b99b-5dee-9d49-6192be4ec981",
+    "https://www.loc.gov/item/94680613/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3862/g3862g/ct008855.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94680613/\"}",
+  "dct_spatial_sm": [
+    "gulf intracoastal waterway",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gulf Intracoastal Waterway--Maps, Pictorial",
+    "United States--Gulf Intracoastal Waterway"
+  ],
+  "dct_temporal_sm": [
+    "1993",
+    "[Galveston, Tex.] : The District, [1993?]"
+  ],
+  "dct_title_s": "Your Gulf Intracoastal Waterway",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94680613",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

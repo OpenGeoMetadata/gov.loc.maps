@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"American Revolution Bicentennial, 1776-1976.\"",
+    "\"BiC-25.\"",
+    "\"No. 340.\"",
+    "\"Polyconic projection.\"",
+    "\"The Magnetic observations by C. A. Schott Assistant in Sept. 1860.\"",
+    "AACR2: 110; 650/2; 700/1; 710/2",
+    "Also covers adjacent part of Cape Cod Bay.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bache, A. D. (Alexander Dallas), 1806-1867; National Ocean Survey; U.S. Coast and Geodetic Survey",
+    "Facsimile.",
+    "Includes sailing information.",
+    "Publication statement: Washington : U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Ocean Survey, [1976]",
+    "Relief shown by hachures. Depths shown by contours and soundings.",
+    "Scale 1:50,000.",
+    "Title in lower margin: Wellfleet Harbor.",
+    "Title in lower margin: Wellfleet Harbor. Facsimile. \"The Magnetic observations by C. A. Schott Assistant in Sept. 1860.\" Relief shown by hachures. Depths shown by contours and soundings. \"Polyconic projection.\" \"American Revolution Bicentennial, 1776-1976.\" \"No. 340.\" \"BiC-25.\" Also covers adjacent part of Cape Cod Bay. Includes sailing information. Scale 1:50,000. Available also through the Library of Congress Web site as a raster image. AACR2: 110; 650/2; 700/1; 710/2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3762w.ct005886",
+    "http://lccn.loc.gov/79695324",
+    "http://www.loc.gov/item/79695324/",
+    "http://www.loc.gov/resource/g3762w.ct005886/",
+    "https://hdl.loc.gov/loc.gmd/g3762w.ct005886",
+    "https://search.catalog.loc.gov/instances/043ef246-ca4d-5e37-80f9-b3adaf520a7b",
+    "https://www.loc.gov/item/79695324/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3762/g3762w/ct005886.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79695324/\"}",
+  "dct_spatial_sm": [
+    "cape cod bay",
+    "massachusetts",
+    "united states",
+    "wellfleet harbor"
+  ],
+  "dct_subject_sm": [
+    "Nautical charts--Massachusetts--Cape Cod Bay--Facsimiles",
+    "Nautical charts--Massachusetts--Wellfleet Harbor--Facsimiles",
+    "United States--Massachusetts--Cape Cod Bay"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "Wellfleet Harbor, Massachusetts",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79695324",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

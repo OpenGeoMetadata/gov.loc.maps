@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Lower Merion maps",
+    "Main Line atlases/maps collection"
+  ],
+  "dct_description_sm": [
+    "Collection of maps of Lower Merion, Main Line, and Montgomery County, Pennsylvania.",
+    "Contributors: Lower Merion Historical Society.",
+    "Mode of access: World Wide Web.",
+    "Publication statement: Lower Merion, Pa. : The Society, [2001?-",
+    "Title from web page (viewed on Aug. 15, 2002)."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2002628044",
+    "http://www.loc.gov/item/2002628044/",
+    "http://www.lowermerion.org/maps.html",
+    "https://www.loc.gov/item/2002628044/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2002628044/\"}",
+  "dct_spatial_sm": [
+    "lower merion",
+    "main line",
+    "montgomery county",
+    "pennsylvania",
+    "township"
+  ],
+  "dct_subject_sm": [
+    "Internet resource--Maps",
+    "Lower Merion (Pa. : Township)--Maps",
+    "Main Line (Pa.)--Maps",
+    "Montgomery County (Pa.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2001",
+    "Lower Merion, Pa. : The Society, [2001?-"
+  ],
+  "dct_title_s": "Main Line maps collection",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002628044",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

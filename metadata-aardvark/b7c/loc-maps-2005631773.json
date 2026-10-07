@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2005-111",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beers, D. G. (Daniel G.); Beers, S. N.; Stone & Stewart",
+    "Includes indexes.",
+    "Includes indexes. LC copy imperfect: Wanting cover. Minor liquid staining throughout. LeGear. Atlases of the United States, 5667 Available also through the Library of Congress Web site as a raster image. Vendor: John Carbonell (eBay auction) Acquisitions control no. 2005-111",
+    "LC copy imperfect: Wanting cover. Minor liquid staining throughout.",
+    "LeGear. Atlases of the United States, 5667",
+    "Publication statement: Philadelphia : Stone & Stewart, 1866.",
+    "Vendor: John Carbonell (eBay auction)"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2005631773",
+    "http://www.loc.gov/item/2005631773/",
+    "http://www.loc.gov/resource/gmdatlases.2005631773/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2005631773",
+    "https://search.catalog.loc.gov/instances/3e83fdb4-60a1-5991-a5d1-b456fdf6f405",
+    "https://www.loc.gov/item/2005631773/"
+  ],
+  "dct_issued_s": "1866",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:20:05:63:17:73:2005631773:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005631773/\"}",
+  "dct_spatial_sm": [
+    "broome county",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Broome County (N.Y.)--Directories",
+    "Broome County (N.Y.)--Maps",
+    "Landowners--New York (State)--Broome County--Maps",
+    "Real property--New York (State)--Broome County--Maps",
+    "United States--New York (State)--Broome County"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "dct_title_s": "New topographical atlas of Broome County, New York",
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1866
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005631773",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

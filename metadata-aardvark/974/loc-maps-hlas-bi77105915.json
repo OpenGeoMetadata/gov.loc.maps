@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: modelski, andrew m."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi77105915/",
+    "https://www.loc.gov/item/hlas-bi77105915/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "s.n.,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi77105915/\"}",
+  "dct_spatial_sm": [
+    "cuba"
+  ],
+  "dct_subject_sm": [
+    "city planning",
+    "city planning -- cuba",
+    "cuba",
+    "maps and cartography",
+    "maps and cartography -- cuba",
+    "political geography",
+    "political geography -- cuba"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "División político-administrativa",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi77105915",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In pencil on verso: 490.",
+    "LC Civil War maps (2nd ed.), H325",
+    "On verso, obscured by mounting: Lot no. 10 of Moore & Beckley.",
+    "Pen-and-ink and pencil on paper, mounted on cloth.",
+    "Pen-and-ink and pencil on paper, mounted on cloth. On verso, obscured by mounting: Lot no. 10 of Moore & Beckley. In pencil on verso: 490. LC Civil War maps (2nd ed.), H325 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: [188-?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3893r.cwh00325",
+    "http://lccn.loc.gov/2005625209",
+    "http://www.loc.gov/item/2005625209/",
+    "http://www.loc.gov/resource/g3893r.cwh00325/",
+    "https://hdl.loc.gov/loc.gmd/g3893r.cwh00325",
+    "https://search.catalog.loc.gov/instances/f8941e75-38a4-5a10-b7f8-ffe2b4477f48",
+    "https://www.loc.gov/item/2005625209/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3893/g3893r/cwh00325.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625209/\"}",
+  "dct_spatial_sm": [
+    "raleigh county",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Raleigh County, (W. Va.)--Maps, Manuscript",
+    "Real property--West Virginia--Raleigh County--Maps",
+    "United States--West Virginia--Raleigh County"
+  ],
+  "dct_temporal_sm": [
+    "188?"
+  ],
+  "dct_title_s": "Map showing location lot no. 10 of Moore & Beckley patent, Raleigh Co., W. Va. (10,000 a. included)",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625209",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

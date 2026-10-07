@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Atlas of Porter County, Indiana :",
+    "Atlas of Porter County, Indiana : illustrated"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 2007-164",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lee and Lee",
+    "Includes index and advertisements.",
+    "Includes index and advertisements. LC copy imperfect: Front board and t.p. separated from binding. Available also through the Library of Congress Web site as a raster image. Vendor: John Carbonell (eBay auction) Acquisitions control no. 2007-164",
+    "LC copy imperfect: Front board and t.p. separated from binding.",
+    "Publication statement: Chicago : Lee and Lee, 1895.",
+    "Vendor: John Carbonell (eBay auction)"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4093pm.gla00070",
+    "http://lccn.loc.gov/2007626933",
+    "http://www.loc.gov/item/2007626933/",
+    "http://www.loc.gov/resource/g4093pm.gla00070/",
+    "https://hdl.loc.gov/loc.gmd/g4093pm.gla00070",
+    "https://search.catalog.loc.gov/instances/103f8b72-81b8-51ce-9f50-619ea2dcdc29",
+    "https://www.loc.gov/item/2007626933/"
+  ],
+  "dct_issued_s": "1895",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409m/g4093m/g4093pm/gla00070/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007626933/\"}",
+  "dct_spatial_sm": [
+    "indiana",
+    "porter county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Indiana--Porter County--Maps",
+    "Porter County (Ind.)--Maps",
+    "Real property--Indiana--Porter County--Maps",
+    "United States--Indiana--Porter County"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dct_title_s": "Lee and Lee's atlas of Porter County, Indiana : illustrated",
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007626933",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

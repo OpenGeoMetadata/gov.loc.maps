@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Brasil"
+  ],
+  "dct_description_sm": [
+    "Content in Italian.",
+    "Contributors: Gastaldi, Giacomo, 1500?-1565? Cartographer.; Ramusio, Giovanni Battista, 1485-1557 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 engraved map: 26.3 x 36.4 centimeters.",
+    "Publication statement: Venice, Italy : [publisher not identified], 1565.",
+    "This early map of Brazil is by Jacopo Gastaldi (circa 1500-circa 1565), a Piedmontese cartographer who worked in Venice and rose to the position of cosmographer of the Venetian Republic. Gastaldi produced maps and illustrations for parts of Delle Navigationi et Viaggi (Travels and voyages), a compilation of travel writings by the Venetian diplomat and geographer Giovanni Battista Ramusio (1485-1557). Ramusio's work contained more than 50 memoirs, including the writings of Marco Polo.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668321",
+    "http://www.loc.gov/item/2021668321/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00807/",
+    "http://www.loc.gov/resource/wdl.807/",
+    "https://hdl.loc.gov/loc.wdl/wdl.807",
+    "https://www.loc.gov/item/2021668321/"
+  ],
+  "dct_issued_s": "1565-01-01",
+  "dct_language_sm": [
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00807.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/80/7/wdl_00807/wdl_00807.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:80:7:wdl_00807:cart395872/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668321/\"}",
+  "dct_spatial_sm": [
+    "argentina",
+    "brazil",
+    "uruguay"
+  ],
+  "dct_subject_sm": [
+    "1565",
+    "Argentina",
+    "Brazil",
+    "Commerce",
+    "Indians of South America",
+    "Silver River (Argentina and Uruguay)",
+    "São Francisco River",
+    "Uruguay"
+  ],
+  "dct_temporal_sm": [
+    "1565-01-01"
+  ],
+  "dct_title_s": "Brazil.",
+  "gbl_dateRange_drsim": [
+    "[1565 TO 1565]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1565
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668321",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

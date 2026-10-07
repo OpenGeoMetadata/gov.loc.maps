@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Montrésor, John, 1736-1799",
+    "Has watermarks.",
+    "In upper left corner: No. 12.",
+    "Includes list of troops and \"References.\"",
+    "LC Maps of North America, 1750-1789, 1335",
+    "Manuscript, pen-and-ink, pencil, and watercolor.",
+    "Manuscript, pen-and-ink, pencil, and watercolor. Title on verso: Batle [sic] of Brandy Wine. American battles. Has watermarks. Relief shown by shading. Unfinished map showing topography and deployment of troops. Stamped on verso: Montrésor. In upper left corner: No. 12. Includes list of troops and \"References.\" Scale ca. 1:14,500. LC Maps of North America, 1750-1789, 1335 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [1777]",
+    "Relief shown by shading.",
+    "Scale ca. 1:14,500.",
+    "Stamped on verso: Montrésor.",
+    "Title on verso: Batle [sic] of Brandy Wine. American battles.",
+    "Unfinished map showing topography and deployment of troops.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824c.ar302700",
+    "http://lccn.loc.gov/gm71000927",
+    "http://www.loc.gov/item/gm71000927/",
+    "http://www.loc.gov/resource/g3824c.ar302700/",
+    "https://hdl.loc.gov/loc.gmd/g3824c.ar302700",
+    "https://search.catalog.loc.gov/instances/99b808e8-9488-5ac4-b986-6e74e2a86756",
+    "https://www.loc.gov/item/gm71000927/"
+  ],
+  "dct_issued_s": "1777",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824c/ar302700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000927/\"}",
+  "dct_spatial_sm": [
+    "chadds ford",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Brandywine, Battle of, Pa., 1777--Maps, Manuscript--Early works to 1800",
+    "United States--Pennsylvania--Chadds Ford"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "dct_title_s": "Battle of Brandywine, 11th Septr. 1777, in which the rebels were defeated by the Army under the command of Genl. Sir Willm. Howe",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000927",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Baker, Robert (Surveyor); Jefferys, Thomas, -1771",
+    "Hand colored.",
+    "Hand colored. Relief shown by hachures. Depths shown in fathoms. Shows parish boundaries, mileage from St. John's anchorages, hazards to navigation, and cultural features. Includes listing of acreage by parish and inset of \"English Harbor.\" Scale ca. 1:54,000. LC Maps of North America, 1750-1789, 2003 Available also through the Library of Congress Web site as a raster image. LC copy sectioned and mounted on cloth backing. Vault AACR2: 100; 651/1; 651/2",
+    "Includes listing of acreage by parish and inset of \"English Harbor.\"",
+    "LC Maps of North America, 1750-1789, 2003",
+    "LC copy sectioned and mounted on cloth backing.",
+    "Publication statement: [London, between 1775 and 1778]",
+    "Relief shown by hachures. Depths shown in fathoms.",
+    "Scale ca. 1:54,000.",
+    "Shows parish boundaries, mileage from St. John's anchorages, hazards to navigation, and cultural features.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/73697228",
+    "http://www.loc.gov/item/73697228/",
+    "http://www.loc.gov/resource/g5050.ar200300/",
+    "https://hdl.loc.gov/loc.gmd/g5050.ar200300",
+    "https://search.catalog.loc.gov/instances/ad08b003-6eb9-50e0-874e-ed2e507239c0",
+    "https://www.loc.gov/item/73697228/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5050/g5050/ar200300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73697228/\"}",
+  "dct_spatial_sm": [
+    "antigua"
+  ],
+  "dct_subject_sm": [
+    "Antigua",
+    "Antigua--Administrative and political divisions--Maps--Early works to 1800",
+    "Antigua--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1775",
+    "[London, between 1775 and 1778]"
+  ],
+  "dct_title_s": "Antigua",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73697228",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

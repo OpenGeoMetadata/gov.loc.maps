@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beaucosté, E.",
+    "LC Luso-Hispanic World, 383",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1807?]",
+    "Relief shown by shading. Depths shown by soundings.",
+    "Relief shown by shading. Depths shown by soundings. Pen-and-ink and watercolor. LC Luso-Hispanic World, 383 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4952s.lh000383",
+    "http://lccn.loc.gov/2008628124",
+    "http://www.loc.gov/item/2008628124/",
+    "http://www.loc.gov/resource/g4952s.lh000383/",
+    "https://hdl.loc.gov/loc.gmd/g4952s.lh000383",
+    "https://search.catalog.loc.gov/instances/e2a7145b-3637-5740-b026-f07047bb9b02",
+    "https://www.loc.gov/item/2008628124/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4952/g4952s/lh000383.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008628124/\"}",
+  "dct_spatial_sm": [
+    "dominican republic",
+    "samaná bay"
+  ],
+  "dct_subject_sm": [
+    "Dominican Republic--Samaná Bay",
+    "Nautical charts--Dominican Republic--Samaná Bay",
+    "Samaná Bay (Dominican Republic)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1807",
+    "[1807?]"
+  ],
+  "dct_title_s": "Carte de l'entrée de la rade et Port Napoléon dans la Baye de Samana, Isle St. Domingue",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008628124",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

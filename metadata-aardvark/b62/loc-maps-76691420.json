@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 650/2; 651/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Contributors: Cameron Co., Tex. County Surveyor; Cocke, J. J.",
+    "Hand colored.",
+    "Hand colored. Cadastral map. Shows Spanish, Mexican, and Texas grants, and land ownership. Scale 1:131,960; 4,000 varas to the in. Available also through the Library of Congress Web site as a raster image. AACR2: 650/1; 650/2; 651/3",
+    "Publication statement: [Brownsville] 1884.",
+    "Scale 1:131,960; 4,000 varas to the in.",
+    "Shows Spanish, Mexican, and Texas grants, and land ownership."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/76691420",
+    "http://www.loc.gov/item/76691420/",
+    "http://www.loc.gov/resource/g4033c.la002382r/",
+    "http://www.loc.gov/resource/g4033c.la002382v/",
+    "https://hdl.loc.gov/loc.gmd/g4033c.la002382r",
+    "https://hdl.loc.gov/loc.gmd/g4033c.la002382v",
+    "https://search.catalog.loc.gov/instances/d942cd13-87d3-58d6-99c2-f87fdfd5f44c",
+    "https://www.loc.gov/item/76691420/"
+  ],
+  "dct_issued_s": "1884",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033c/la002382r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76691420/\"}",
+  "dct_spatial_sm": [
+    "cameron county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cameron County (Tex.)--Maps",
+    "Land grants--Texas--Cameron County--Maps",
+    "Real property--Texas--Cameron County--Maps",
+    "United States--Texas--Cameron County"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_title_s": "Map of the county of Cameron, Texas",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76691420",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

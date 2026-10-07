@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Плоская карта группы коральных островов графа Румянцова. Генваря 1817 года"
+  ],
+  "dct_description_sm": [
+    ".",
+    ". Original map at: National Library of Russia From the atlas \"Атлас к путешествию лейтенанта Коцебу на корабле Рюрике в Южное море и в Берингов пролив.\"",
+    "Contributors: Kotzebue, Otto von, 1787-1846",
+    "From the atlas \"Атлас к путешествию лейтенанта Коцебу на корабле Рюрике в Южное море и в Берингов пролив.\"",
+    "Original map at: National Library of Russia",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], 1821-1823."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018759825",
+    "http://www.loc.gov/item/2018759825/",
+    "http://www.loc.gov/resource/gdc.2018759825/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.natl0008_01401",
+    "https://search.catalog.loc.gov/instances/be31b200-3953-5e8e-a73f-552b8ca18adb",
+    "https://www.loc.gov/item/2018759825/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018759825.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018759825/2018759825.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018759825:0014/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018759825/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation"
+  ],
+  "dct_temporal_sm": [
+    "1821/1823"
+  ],
+  "dct_title_s": "Ploskai︠a︡ karta gruppy koral'nykh ostrovov grafa Rumi︠a︡nt︠s︡ova. Genvari︠a︡ 1817 goda",
+  "gbl_dateRange_drsim": [
+    "[1821 TO 1823]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1821
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018759825",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

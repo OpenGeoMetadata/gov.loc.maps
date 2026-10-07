@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Matthews-Northrup Company; New York Central and Hudson River Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 488",
+    "Outline map of the northeastern United States showing major drainage, cities and towns, with named railroads distinguished by color.",
+    "Publication statement: [n.p.], 1900.",
+    "Scale ca. 1:2,300,000.",
+    "Title page: Thirty-first annual report of the board of directors of the New York Central and Hudson River Railroad Company to the stockholders for the year ended June 30, 1900."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3711p.rr004880",
+    "http://lccn.loc.gov/98688736",
+    "http://www.loc.gov/item/98688736/",
+    "http://www.loc.gov/resource/g3711p.rr004880/",
+    "https://hdl.loc.gov/loc.gmd/g3711p.rr004880",
+    "https://search.catalog.loc.gov/instances/8659d678-7abd-5052-9c66-6eeed7f67d12",
+    "https://www.loc.gov/item/98688736/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3711/g3711p/rr004880.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688736/\"}",
+  "dct_spatial_sm": [
+    "northeastern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New York Central and Hudson River Railroad Company--Maps",
+    "Railroads--Northeastern States--Maps",
+    "United States--Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "New York Central and Hudson River Railroad",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688736",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

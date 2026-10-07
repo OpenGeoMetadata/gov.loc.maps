@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Joan Vinckeboons (1617-70) was a Dutch cartographer and engraver born into a family of artists of Flemish origin. He was employed by the Dutch West India Company and for more than 30 years produced maps for use by Dutch mercantile and military shipping. He was a business partner of Joan Blaeu, one of the most important map and atlas publishers of the day. Vinckeboons drew a series of 200 manuscript maps that were used in the production of atlases, including Blaeu's Atlas Maior. This pen-and-ink and watercolor map from around 1650 shows the Lesser Antilles, the arc of islands in the Caribbean Sea extending northward from the coast of South America. The map is oriented with north to the right. The islands named include Trinidad, Granada (present-day Grenada), Santa Lucia (Saint Lucia), Dominica, Martinique, Guadeloupe, Antigua, and Barbuda. The South American mainland is called Nueva Andalusia (New Andalusia), the province of the Spanish Empire that included present-day Colombia and Venezuela. The map was once part of a manuscript atlas belonging to the Dutch firm of Gerard Hulst van Keulen, which published sea atlases and navigational handbooks for over two centuries. With the demise of the firm, the atlas was acquired and broken up by the Amsterdam book dealer Frederik Muller, who in 1887 sold 13 maps from the atlas attributed to Vinckeboons to the collector and bibliographer Henry Harrisse. This map is part of the Henry Harrisse Collection in the Library of Congress.\" World Digital Library.",
+    "Acquisitions control no. 99-13",
+    "Attributed to Joan Vinckeboons by comparison with his other maps in Henry Harrisse collection.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Vinckeboons, Joan",
+    "Depths shown by soundings.",
+    "Oriented with north to the right.",
+    "Publication statement: [ca. 1650]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5000.ct000878",
+    "http://lccn.loc.gov/99443222",
+    "http://www.loc.gov/item/99443222/",
+    "http://www.loc.gov/resource/g5000.ct000878/",
+    "https://hdl.loc.gov/loc.gmd/g5000.ct000878",
+    "https://search.catalog.loc.gov/instances/edaf381b-3be0-51de-abcc-b1ef60643de0",
+    "https://www.loc.gov/item/99443222/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5000/g5000/ct000878.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99443222/\"}",
+  "dct_spatial_sm": [
+    "antilles",
+    "antilles, lesser",
+    "lesser"
+  ],
+  "dct_subject_sm": [
+    "Antilles, Lesser",
+    "Antilles, Lesser--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1650",
+    "[ca. 1650]"
+  ],
+  "dct_title_s": "[Map of Lesser Antilles]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99443222",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

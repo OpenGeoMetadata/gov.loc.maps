@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824",
+    "Hand colored.",
+    "Hand colored. Includes descriptive index and inset of \"Charlestown harbour,\" ca. 1:430,000. Scale ca. 1:11,800. LC Maps of North America, 1750-1789, 1554 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1",
+    "Includes descriptive index and inset of \"Charlestown harbour,\" ca. 1:430,000.",
+    "LC Maps of North America, 1750-1789, 1554",
+    "Publication statement: [London] 1780.",
+    "Scale ca. 1:11,800.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3914c.ar155401",
+    "http://lccn.loc.gov/gm71000644",
+    "http://www.loc.gov/item/gm71000644/",
+    "http://www.loc.gov/resource/g3914c.ar155401/",
+    "https://hdl.loc.gov/loc.gmd/g3914c.ar155401",
+    "https://search.catalog.loc.gov/instances/2a0460c6-c932-5502-bae3-0a778327450c",
+    "https://www.loc.gov/item/gm71000644/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3914/g3914c/ar155401.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000644/\"}",
+  "dct_spatial_sm": [
+    "charleston",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Charleston (S.C.)--History--Siege, 1780--Maps--Early works to 1800",
+    "United States--South Carolina--Charleston"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "A sketch of the operations before Charlestown, the capital of South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000644",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

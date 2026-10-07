@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by index map: Proposed Great Smoky Mountains National Park, North Carolina-Tennessee. [1] sheet : hand col. ; 70 x 81 cm.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Includes boundary diagram and index to adjoining sheets.",
+    "LC copy incomplete: Sheet 30 wanting.",
+    "Map sheets separately numbered 6-29 and subtitled in upper right margin, e.g.: Tennessee, Tennessee-North Carolina, North Carolina-Tennessee, North Carolina.",
+    "Maps attributed to various topographers.",
+    "Publication statement: [Reston, Va.] : Dept. of the Interior, U.S. Geological Survey, 1928-1930.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Maps attributed to various topographers. Map sheets separately numbered 6-29 and subtitled in upper right margin, e.g.: Tennessee, Tennessee-North Carolina, North Carolina-Tennessee, North Carolina. LC copy incomplete: Sheet 30 wanting. Accompanied by index map: Proposed Great Smoky Mountains National Park, North Carolina-Tennessee. [1] sheet : hand col. ; 70 x 81 cm. Includes boundary diagram and index to adjoining sheets. Available also through the Library of Congress web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3902gm.gnp00001",
+    "http://lccn.loc.gov/99446123",
+    "http://www.loc.gov/item/99446123/",
+    "http://www.loc.gov/resource/g3902gm.gnp00001/",
+    "https://hdl.loc.gov/loc.gmd/g3902gm.gnp00001",
+    "https://search.catalog.loc.gov/instances/53010d68-af84-5661-8935-0750a5160d01",
+    "https://www.loc.gov/item/99446123/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390m/g3902m/g3902gm/gnp00001/ns000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446123/\"}",
+  "dct_spatial_sm": [
+    "great smoky mountains national park",
+    "north carolina",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Great Smoky Mountains National Park (N.C. and Tenn.)--Maps",
+    "Great Smoky Mountains National Park (N.C. and Tenn.)--Planning--Maps",
+    "United States--North Carolina--Great Smoky Mountains National Park",
+    "United States--Tennessee--Great Smoky Mountains National Park"
+  ],
+  "dct_temporal_sm": [
+    "1928/1930"
+  ],
+  "dct_title_s": "Proposed Great Smoky Mountains National Park",
+  "gbl_dateRange_drsim": [
+    "[1928 TO 1930]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1928
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-99446123",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

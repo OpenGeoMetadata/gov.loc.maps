@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Norris Peters Co",
+    "DCP",
+    "Includes numbered directory of parade units by state.",
+    "LC copy mounted on cloth backing.",
+    "Publication statement: [Washington, D.C.? : s.n., 1917]",
+    "Shows parade route and formation areas in central Washington.",
+    "Shows parade route and formation areas in central Washington. Includes numbered directory of parade units by state. Available also through the Library of Congress Web site as a raster image. LC copy mounted on cloth backing. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851e.ct004639",
+    "http://lccn.loc.gov/87694153",
+    "http://www.loc.gov/item/87694153/",
+    "http://www.loc.gov/resource/g3851e.ct004639/",
+    "https://hdl.loc.gov/loc.gmd/g3851e.ct004639",
+    "https://search.catalog.loc.gov/instances/4a39ada5-ef8f-5812-993d-0843a4712815",
+    "https://www.loc.gov/item/87694153/"
+  ],
+  "dct_issued_s": "1917",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct004639.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694153/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Parades--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Wilson, Woodrow,--1856-1924--Inaugurations--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "dct_title_s": "Map of the city of Washington, inaugural ceremonies, March 5th, 1917",
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1917]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1917
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694153",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

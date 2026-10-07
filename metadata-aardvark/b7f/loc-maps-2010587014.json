@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"West longitude from London.\"",
+    "Accompanied by text: Historical and geographical description of the Province of Pennsylvania in North America. [8] p. ; 21 cm.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "From The London magazine: or, Gentleman's monthly intelligencer (April, 1780), vol. 64.",
+    "Publication statement: [London : s.n., 1780]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Shows towns, roads, forts, rivers, streams, and waterfalls as far west as \"Chambers Town.\" Includes adjacent part of New Jersey. From The London magazine: or, Gentleman's monthly intelligencer (April, 1780), vol. 64. \"West longitude from London.\" Accompanied by text: Historical and geographical description of the Province of Pennsylvania in North America. [8] p. ; 21 cm. Available also through the Library of Congress Web site as a raster image.",
+    "Shows towns, roads, forts, rivers, streams, and waterfalls as far west as \"Chambers Town.\" Includes adjacent part of New Jersey."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3820.ar129800",
+    "http://lccn.loc.gov/2010587014",
+    "http://www.loc.gov/item/2010587014/",
+    "http://www.loc.gov/resource/g3820.ar129800/",
+    "https://hdl.loc.gov/loc.gmd/g3820.ar129800",
+    "https://search.catalog.loc.gov/instances/bd77fb6c-68e5-568a-89ac-92d6d3e2f7a4",
+    "https://www.loc.gov/item/2010587014/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3820/g3820/ar129800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010587014/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pennsylvania--Maps--Early works to 1800",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "A new and accurate map of the Province of Pennsylvania, in North America : from the best authorities",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010587014",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

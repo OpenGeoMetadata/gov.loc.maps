@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Grønlandia Antiqua"
+  ],
+  "dct_description_sm": [
+    "Content in Danish.",
+    "Contributors: Egede, Hans, 1686-1758 Artist.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Royal Library (The), Denmark.",
+    "Original resource extent: 48 x 60 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1737-01-04.",
+    "This map of Greenland is by Hans Poulsen Egede (1686--1758), the Norwegian-born Lutheran clergyman and missionary known as the \"Apostle of Greenland.\" Egede made two journeys, in 1723 and in 1724, to explore the west coast of Greenland with the goals of mapping the coastline and obtaining information about the ancient Norse settlements on the island. Egede lived and worked in Greenland from 1721 to 1736. Upon his return to Denmark, he had this map made and published a book, Omstændelig og udførlig relation, angaaende den grønlandske missions begyndelse og fortsættelse, samt hvad ellers mere der ved landets recognoscering (Relation, about the beginning and continuation of the Greenland missions; Copenhagen, 1738), in which he described his many initial difficulties. The map is extensively annotated in Danish and includes a scene at the lower right apparently depicting Inuits and Europeans in a fight with bows and arrows. The cartouche reads: \"A new outline of the western side of Old Greenland from 60 to 67 degrees surveyed in 1723 and 1724 and along the land and in the fiords diligently reconnoitered by Hans Egede, first Royal Danish Missionary in Greenland. Copenhagen, 4 January, 1737.\"",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668471",
+    "http://www.loc.gov/item/2021668471/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_11258/",
+    "http://www.loc.gov/resource/wdl.11258/",
+    "https://hdl.loc.gov/loc.wdl/wdl.11258",
+    "https://www.loc.gov/item/2021668471/"
+  ],
+  "dct_issued_s": "1737-01-01",
+  "dct_language_sm": [
+    "danish"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_11258.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/25/8/wdl_11258/wdl_11258.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:25:8:wdl_11258:511883/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668471/\"}",
+  "dct_spatial_sm": [
+    "denmark",
+    "greenland"
+  ],
+  "dct_subject_sm": [
+    "1723 to 1724",
+    "Denmark--Greenland",
+    "Exploration and encounters",
+    "Indigenous peoples",
+    "Manuscript maps",
+    "Missionaries"
+  ],
+  "dct_temporal_sm": [
+    "1737-01-01"
+  ],
+  "dct_title_s": "Map of Greenland.",
+  "gbl_dateRange_drsim": [
+    "[1737 TO 1737]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1737
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668471",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

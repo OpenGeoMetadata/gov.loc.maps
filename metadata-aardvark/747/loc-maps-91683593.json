@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 23-86",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Moraleda, José Manuel de",
+    "Includes ancillary map \"Plano de la rada de Sn. Juan Bautista en la parte N.E. de la Isla de Juan Fernandez de Tierra\" and view \"Vista, para el reconocimiento de la entrada de Valdivia ...\"",
+    "Oriented with north toward the upper left.",
+    "Prime meridian: Cádiz.",
+    "Publication statement: [Spain? : s.n., 1788?]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Shows Corral Bay near the mouth of Valdivia River.",
+    "Shows Corral Bay near the mouth of Valdivia River. Relief shown by hachures. Depths shown by soundings. Prime meridian: Cádiz. Oriented with north toward the upper left. Includes ancillary map \"Plano de la rada de Sn. Juan Bautista en la parte N.E. de la Isla de Juan Fernandez de Tierra\" and view \"Vista, para el reconocimiento de la entrada de Valdivia ...\" Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 23-86 Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5332c.ct003221",
+    "http://lccn.loc.gov/91683593",
+    "http://www.loc.gov/item/91683593/",
+    "http://www.loc.gov/resource/g5332c.ct003221/",
+    "https://hdl.loc.gov/loc.gmd/g5332c.ct003221",
+    "https://search.catalog.loc.gov/instances/73e2a712-d427-5051-b2db-555f2d604960",
+    "https://www.loc.gov/item/91683593/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5332/g5332c/ct003221.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91683593/\"}",
+  "dct_spatial_sm": [
+    "chile",
+    "corral bay",
+    "pacific coast"
+  ],
+  "dct_subject_sm": [
+    "Chile--Corral Bay",
+    "Chile--Pacific Coast",
+    "Coasts--Chile--Corral Bay--Maps--Early works to 1800",
+    "Corral Bay (Chile)--Maps--Early works to 1800",
+    "Pacific Coast (Chile)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1788",
+    "[Spain? : s.n., 1788?]"
+  ],
+  "dct_title_s": "Plano del puerto de Valdivia en la costa oeste de la América meridional",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91683593",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

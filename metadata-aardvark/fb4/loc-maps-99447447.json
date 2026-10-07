@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At top of map: Panorama of the seat of war.",
+    "At top of map: Panorama of the seat of war. View of the coast from Currituck Sound, North Carolina, to Savannah, Georgia, indicating towns, roads, railroads, and rivers. The shelling of Fort Hatteras is shown. Includes a table of distances from Cape Hatteras. Description derived from published bibliography. Scale not given. LC Civil War Maps (2nd ed.), 304.5 Available also through the Library of Congress web site as raster image.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Bachmann, John",
+    "Description derived from published bibliography.",
+    "Includes a table of distances from Cape Hatteras.",
+    "LC Civil War Maps (2nd ed.), 304.5",
+    "Publication statement: [New York, John Bachmann, c1861]",
+    "Scale not given.",
+    "View of the coast from Currituck Sound, North Carolina, to Savannah, Georgia, indicating towns, roads, railroads, and rivers. The shelling of Fort Hatteras is shown."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3871a.cw0304500",
+    "http://lccn.loc.gov/99447447",
+    "http://www.loc.gov/item/99447447/",
+    "http://www.loc.gov/resource/g3871a.cw0304500/",
+    "https://hdl.loc.gov/loc.gmd/g3871a.cw0304500",
+    "https://search.catalog.loc.gov/instances/29f147c1-48b0-5cbe-9717-f6bbbc85d1c7",
+    "https://www.loc.gov/item/99447447/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd387/g3871/g3871a/cw0304500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447447/\"}",
+  "dct_spatial_sm": [
+    "southeast atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Southeast Atlantic States--Aerial views",
+    "United States--Southeast Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Birds eye view of North and South Carolina and part of Georgia",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447447",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base Source: General Highway Map dated November 1978, Maryland Department of Transportation.\"",
+    "\"Base Source: General Highway Map dated November 1978, Maryland Department of Transportation.\" Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Hyattsville, MD : USDA-SCS, 1979."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842p.ct008712",
+    "http://lccn.loc.gov/82696041",
+    "http://www.loc.gov/item/82696041/",
+    "http://www.loc.gov/resource/g3842p.ct008712/",
+    "https://hdl.loc.gov/loc.gmd/g3842p.ct008712",
+    "https://search.catalog.loc.gov/instances/c431e4e8-605b-59a4-b5ec-9dee5d37593a",
+    "https://www.loc.gov/item/82696041/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842p/ct008712.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82696041/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "patapsco river watershed",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States--Maryland--Patapsco River Watershed",
+    "Watersheds--Maryland--Patapsco River Watershed--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Patapsco River Basin study, subwatershed areas",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82696041",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

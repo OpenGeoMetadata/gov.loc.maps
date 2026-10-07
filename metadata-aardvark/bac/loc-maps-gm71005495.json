@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Imbert, J. Leopold; Mondhare (Firm)",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Includes inset of Isles Lucayes, Cuba, la Jamaique, Saint Dominigue. Scale ca. 1:3,500,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1",
+    "Includes inset of Isles Lucayes, Cuba, la Jamaique, Saint Dominigue.",
+    "Publication statement: Paris, Chez Mondhare, 1777.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:3,500,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar015300",
+    "http://lccn.loc.gov/gm71005495",
+    "http://www.loc.gov/item/gm71005495/",
+    "http://www.loc.gov/resource/g3300.ar015300/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar015300",
+    "https://search.catalog.loc.gov/instances/c2d7d8d5-ca21-505f-8fce-a4ee851e9e68",
+    "https://www.loc.gov/item/gm71005495/"
+  ],
+  "dct_issued_s": "1777",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar015300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005495/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "North America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "dct_title_s": "Carte des possessions angloises dans l'Amerique Septentrionale, pour servir d'intelligence à la guerre presente. Traduite de l'Anglois,",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005495",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

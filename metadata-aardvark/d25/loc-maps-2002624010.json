@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows parts of the Aleutian Islands and Eastern Europe.",
+    "Also shows parts of the Aleutian Islands and Eastern Europe. Relief shown pictorially. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Schmidt, Jacob (Jacob F.); Treskot, Johann, 1719-1786",
+    "Publication statement: [St. Petersburg : s.n.], 1776.",
+    "Relief shown pictorially."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7000.ct000746",
+    "http://lccn.loc.gov/2002624010",
+    "http://www.loc.gov/item/2002624010/",
+    "http://www.loc.gov/resource/g7000.ct000746/",
+    "https://hdl.loc.gov/loc.gmd/g7000.ct000746",
+    "https://search.catalog.loc.gov/instances/68d8f335-3227-5819-9252-a8e0cb34a267",
+    "https://www.loc.gov/item/2002624010/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7000/g7000/ct000746.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002624010/\"}",
+  "dct_spatial_sm": [
+    "alaska",
+    "aleutian islands",
+    "eastern europe",
+    "europe, eastern",
+    "russia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Aleutian Islands (Alaska)--Maps--Early works to 1800",
+    "Europe, Eastern",
+    "Europe, Eastern--Maps--Early works to 1800",
+    "Russia",
+    "Russia--Maps--Early works to 1800",
+    "United States--Alaska--Aleutian Islands"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "Tabula geographica generalis Imperii Russici ad normam novissimarum observationum astronomicarum concinnata",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002624010",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

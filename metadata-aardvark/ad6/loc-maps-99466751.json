@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Rand McNally and Company",
+    "Publication statement: Chicago, 1898."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5700.ct000372",
+    "http://lccn.loc.gov/99466751",
+    "http://www.loc.gov/item/99466751/",
+    "http://www.loc.gov/resource/g5700.ct000372/",
+    "https://hdl.loc.gov/loc.gmd/g5700.ct000372",
+    "https://search.catalog.loc.gov/instances/b7351142-73ef-57aa-bbe4-37674f11dcae",
+    "https://www.loc.gov/item/99466751/"
+  ],
+  "dct_issued_s": "1898",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5700/g5700/ct000372.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466751/\"}",
+  "dct_spatial_sm": [
+    "europe"
+  ],
+  "dct_subject_sm": [
+    "Europe",
+    "Europe--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "dct_title_s": "Europe",
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1898]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1898
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466751",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

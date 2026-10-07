@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Tioga-Hammond & Cowanesque lakes",
+    "Tioga-Hammond and Cowanesque lakes",
+    "Title within map border: Tioga-Hammond & Cowanesque lakes"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers",
+    "Includes notes, 5 recreation-area insets, table of recreation facilities, ill., and advertisement.",
+    "Publication statement: Tioga, PA : US Army Corps of Engineers, [2004?]",
+    "Regional outdoor recreation map.",
+    "Regional outdoor recreation map. Title from panel. Includes notes, 5 recreation-area insets, table of recreation facilities, ill., and advertisement. Text, location map, phone directory, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text, location map, phone directory, and col. ill. on verso.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822t.ct008075",
+    "http://lccn.loc.gov/2005626430",
+    "http://www.loc.gov/item/2005626430/",
+    "http://www.loc.gov/resource/g3822t.ct008075/",
+    "https://hdl.loc.gov/loc.gmd/g3822t.ct008075",
+    "https://search.catalog.loc.gov/instances/59bd0c16-dfd3-5de9-b654-212866893515",
+    "https://www.loc.gov/item/2005626430/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822t/ct008075.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005626430/\"}",
+  "dct_spatial_sm": [
+    "cowanesque lake",
+    "cowanesque lake region",
+    "hammond lake",
+    "hammond lake region",
+    "pennsylvania",
+    "tioga lake",
+    "tioga lake region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cowanesque Lake (Pa.)--Maps",
+    "Hammond Lake (Pa.)--Maps",
+    "Outdoor recreation--Pennsylvania--Cowanesque Lake--Maps",
+    "Outdoor recreation--Pennsylvania--Hammond Lake Region--Maps",
+    "Outdoor recreation--Pennsylvania--Tioga Lake Region--Maps",
+    "Recreation areas--Pennsylvania--Cowanesque Lake Region--Maps",
+    "Recreation areas--Pennsylvania--Hammond Lake Region--Maps",
+    "Recreation areas--Pennsylvania--Tioga Lake Region--Maps",
+    "Tioga Lake (Pa.)--Maps",
+    "United States--Pennsylvania--Cowanesque Lake Region",
+    "United States--Pennsylvania--Hammond Lake Region",
+    "United States--Pennsylvania--Tioga Lake Region"
+  ],
+  "dct_temporal_sm": [
+    "2004",
+    "Tioga, PA : US Army Corps of Engineers, [2004?]"
+  ],
+  "dct_title_s": "Tioga-Hammond & Cowanesque lakes : create outdoor memories here",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005626430",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

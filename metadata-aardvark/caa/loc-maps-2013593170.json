@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1873 by Willard, Kingman & Mc. Conahy in the Office of the Librarian of Congress at Washington.\"",
+    "\"Entered according to Act of Congress in the year 1873 by Willard, Kingman & Mc. Conahy in the Office of the Librarian of Congress at Washington.\" Includes business directories and distance table. Insets: Columbia City -- Churubusco -- Millersburg -- Etna -- Coesse -- Larwill -- Springfield -- Collins. LC Land ownership maps, 176 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Willard, Kingman & McConahy; Worley & Bracher",
+    "Includes business directories and distance table.",
+    "Insets: Columbia City -- Churubusco -- Millersburg -- Etna -- Coesse -- Larwill -- Springfield -- Collins.",
+    "LC Land ownership maps, 176",
+    "Publication statement: [Indiana] : Willard, Kingman & McConahy, 1873."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4093w.la000176",
+    "http://lccn.loc.gov/2013593170",
+    "http://www.loc.gov/item/2013593170/",
+    "http://www.loc.gov/resource/g4093w.la000176/",
+    "https://hdl.loc.gov/loc.gmd/g4093w.la000176",
+    "https://search.catalog.loc.gov/instances/ef68232b-bc16-51d8-9d0e-9efda09c722e",
+    "https://www.loc.gov/item/2013593170/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409/g4093/g4093w/la000176.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593170/\"}",
+  "dct_spatial_sm": [
+    "indiana",
+    "united states",
+    "whitley county"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Indiana--Whitley County--Maps",
+    "Real property--Indiana--Whitley County--Maps",
+    "United States--Indiana--Whitley County"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Map of Whitley County, Indiana",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593170",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

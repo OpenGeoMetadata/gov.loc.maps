@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of the city of New York and island of Manhattan, as laid out by the commissioners appointed by the legislature, April 3d, 1807"
+  ],
+  "dct_description_sm": [
+    "\"Entered according to act of Congress Novr. 16th 1811.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cohen, P.E. Manhattan in maps, p. 100-105",
+    "Contributors: Bridges, William, -1814; Maverick, Peter, 1780-1831",
+    "Haskell, D.C. Manhattan maps, 652",
+    "Includes index to points of interest, and text.",
+    "Oriented with north toward the upper right.",
+    "Publication statement: [New York : s.n.], 1811.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows ward boundaries, selected buildingsm and landowner's names. \"Entered according to act of Congress Novr. 16th 1811.\" Oriented with north toward the upper right. Includes index to points of interest, and text. Haskell, D.C. Manhattan maps, 652 Cohen, P.E. Manhattan in maps, p. 100-105 Stokes, I.N.P. Iconography of Manhattan Island, p. 542-549 Available also through the Library of Congress Web site as a raster image.",
+    "Shows ward boundaries, selected buildingsm and landowner's names.",
+    "Stokes, I.N.P. Iconography of Manhattan Island, p. 542-549"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct000812",
+    "http://lccn.loc.gov/2005625335",
+    "http://www.loc.gov/item/2005625335/",
+    "http://www.loc.gov/resource/g3804n.ct000812/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct000812",
+    "https://search.catalog.loc.gov/instances/06c9e286-73ef-5f90-9919-333bc85175fb",
+    "https://www.loc.gov/item/2005625335/"
+  ],
+  "dct_issued_s": "1811",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct000812.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625335/\"}",
+  "dct_spatial_sm": [
+    "manhattan",
+    "manhattan (new york)",
+    "new york",
+    "new york (state)",
+    "new york city",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Manhattan (New York, N.Y.)--Maps",
+    "New York (N.Y.)--Administrative and political divisions--Maps",
+    "New York (N.Y.)--Maps",
+    "Streets--New York (State)--New York--Planning--Maps",
+    "United States--New York (State)--Manhattan (New York)",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1811"
+  ],
+  "dct_title_s": "This map of the city of New York and island of Manhattan, as laid out by the commissioners appointed by the legislature, April 3d, 1807 is respectfully dedicated to the mayor, aldermen and commonalty thereof",
+  "gbl_dateRange_drsim": [
+    "[1811 TO 1811]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1811
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625335",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

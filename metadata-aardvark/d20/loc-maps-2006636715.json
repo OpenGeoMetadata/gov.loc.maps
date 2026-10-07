@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Approved Chas R. Suter, 1st Lt., U.S. Engrs., Chf. Engr., D. S.\"",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Boyd, Charles; Mills, Robert, 1781-1855",
+    "Description derived from published bibliography.",
+    "LC Civil War maps (2nd ed.), S134",
+    "Pen and ink tracing of map in Robert Mills's Atlas of the State of South Carolina . . . Baltimore, F. Lucas, Jr. [1825]",
+    "Publication statement: [1825]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Title, scale, and date from Stephenson's Civil War Maps, 1989. Description derived from published bibliography. Pen and ink tracing of map in Robert Mills's Atlas of the State of South Carolina . . . Baltimore, F. Lucas, Jr. [1825] \"Approved Chas R. Suter, 1st Lt., U.S. Engrs., Chf. Engr., D. S.\" LC Civil War maps (2nd ed.), S134 Available also through the Library of Congress web site as raster image.",
+    "Title, scale, and date from Stephenson's Civil War Maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3913c.cws00134",
+    "http://lccn.loc.gov/2006636715",
+    "http://www.loc.gov/item/2006636715/",
+    "http://www.loc.gov/resource/g3913c.cws00134/",
+    "https://hdl.loc.gov/loc.gmd/g3913c.cws00134",
+    "https://search.catalog.loc.gov/instances/b9a09594-a87c-5f0c-b856-7fa194e55dbd",
+    "https://www.loc.gov/item/2006636715/"
+  ],
+  "dct_issued_s": "1825",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3913/g3913c/cws00134.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006636715/\"}",
+  "dct_spatial_sm": [
+    "chester county",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Chester County (S.C.)--Maps, Manuscript",
+    "United States--South Carolina--Chester County"
+  ],
+  "dct_temporal_sm": [
+    "1825"
+  ],
+  "dct_title_s": "Chester District, South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1825 TO 1825]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1825
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006636715",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

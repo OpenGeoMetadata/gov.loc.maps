@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes notes.",
+    "Includes notes. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1981."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/96686217",
+    "http://www.loc.gov/item/96686217/",
+    "http://www.loc.gov/resource/g4081j.ct011823/",
+    "https://hdl.loc.gov/loc.gmd/g4081j.ct011823",
+    "https://search.catalog.loc.gov/instances/3e9ce232-8703-504e-b42e-1da4f4ce28d0",
+    "https://www.loc.gov/item/96686217/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4081/g4081j/ct011823.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96686217/\"}",
+  "dct_spatial_sm": [
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pastures--Ohio--Maps",
+    "Soil erosion--Ohio--Maps",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Pastureland erosion in Ohio : percentage of pastureland exceeding acceptable levels of annual soil loss",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96686217",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

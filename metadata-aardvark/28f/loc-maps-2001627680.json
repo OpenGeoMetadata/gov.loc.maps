@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"211, L. Sheet 2.\"",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: United States. Army. Corps of Engineers",
+    "Ink on tracing cloth.",
+    "LC Civil War Maps (2nd ed.), 523",
+    "Publication statement: [186-]",
+    "Relief shown by form lines.",
+    "Relief shown by form lines. Shows parts of Arlington and Fairfax counties, part of the defenses of Washington, roads, railroads, towns, vegetation, houses, fences, names of residents, and drainage. \"211, L. Sheet 2.\" Ink on tracing cloth. LC Civil War Maps (2nd ed.), 523 Available also through the Library of Congress web site as raster image.",
+    "Shows parts of Arlington and Fairfax counties, part of the defenses of Washington, roads, railroads, towns, vegetation, houses, fences, names of residents, and drainage."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883a.cw0523000",
+    "http://lccn.loc.gov/2001627680",
+    "http://www.loc.gov/item/2001627680/",
+    "http://www.loc.gov/resource/g3883a.cw0523000/",
+    "https://hdl.loc.gov/loc.gmd/g3883a.cw0523000",
+    "https://search.catalog.loc.gov/instances/c22e51af-4c99-5d8b-a968-39fb39562d69",
+    "https://www.loc.gov/item/2001627680/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883a/cw0523000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001627680/\"}",
+  "dct_spatial_sm": [
+    "arlington county",
+    "fairfax county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Arlington County (Va.)--Maps, Manuscript",
+    "Fairfax County (Va.)--Maps, Manuscript",
+    "Landowners--Virginia--Arlington County--Maps",
+    "Landowners--Virginia--Fairfax County--Maps",
+    "United States--Virginia--Arlington County",
+    "United States--Virginia--Fairfax County"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "[Detailed map of part of Virginia from Alexandria to the Potomac River above Washington, D.C. 186-]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001627680",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

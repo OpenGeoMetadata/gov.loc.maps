@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Jacksonville, Tampa and Key West System; Matthews-Northrup Company",
+    "Publication statement: [S.l.], 1891."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3931p.ct000135",
+    "http://lccn.loc.gov/2003627029",
+    "http://www.loc.gov/item/2003627029/",
+    "http://www.loc.gov/resource/g3931p.ct000135/",
+    "https://hdl.loc.gov/loc.gmd/g3931p.ct000135",
+    "https://search.catalog.loc.gov/instances/45f72bcf-45ea-5149-8d2f-f9af7130ad07",
+    "https://www.loc.gov/item/2003627029/"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3931/g3931p/ct000135.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003627029/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Florida--Maps",
+    "United States--Florida"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "Standard guide\" map of the state of Florida",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003627029",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,81 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Blaskowitz, Charles; Collins, John, -1795; Murray, James, 1721-1794",
+    "In pencil, lower left margin: No. 10.",
+    "Includes descriptive notes and \"References to Crown Point.\"",
+    "LC Maps of North America, 1750-1789, 1074",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Relief shown pictorially and by shading. Sectioned and mounted on cloth backing. In pencil, lower left margin: No. 10. Includes descriptive notes and \"References to Crown Point.\" Scale ca. 1:127,000. LC Maps of North America, 1750-1789, 1074 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [1765]",
+    "Relief shown pictorially and by shading.",
+    "Scale ca. 1:127,000.",
+    "Sectioned and mounted on cloth backing.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3802c.ar107400",
+    "http://lccn.loc.gov/73691803",
+    "http://www.loc.gov/item/73691803/",
+    "http://www.loc.gov/resource/g3802c.ar107400/",
+    "https://hdl.loc.gov/loc.gmd/g3802c.ar107400",
+    "https://search.catalog.loc.gov/instances/7b6bc808-92ce-521a-9a33-c62b983e2cdd",
+    "https://www.loc.gov/item/73691803/"
+  ],
+  "dct_issued_s": "1765",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3802/g3802c/ar107400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691803/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "champlain",
+    "champlain, lake",
+    "crown point",
+    "lake",
+    "new york",
+    "new york (state)",
+    "québec",
+    "québec (province)",
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Canada--Québec (Province)",
+    "Champlain, Lake--Maps, Manuscript--Early works to 1800",
+    "Crown Point (N.Y.)--Buildings, structures, etc.--Maps--Early works to 1800",
+    "Fortification--New York (State)--Crown Point--Maps--Early works to 1800",
+    "New York (State)--Boundaries--Québec (Province)--Maps--Early works to 1800",
+    "Québec (Province)--Boundaries--New York (State)--Maps--Early works to 1800",
+    "Québec (Province)--Boundaries--Vermont--Maps--Early works to 1800",
+    "United States--Champlain, Lake",
+    "United States--New York (State)--Crown Point",
+    "United States--Vermont",
+    "Vermont--Boundaries--Québec (Province)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1765"
+  ],
+  "dct_title_s": "A survey of Lake Champlain including Crown Point and St. Iohn's on which is fixed the line of forty five degrees north lattit. terminating the boundarys betwe[e]n the provinces of Quebec and New York agre[e]able to his Majesty's proclamation done by order and instruction of the Honourable James Murray, esqr., Governor of the Province of Quebec and the Honourable His Majestys Council",
+  "gbl_dateRange_drsim": [
+    "[1765 TO 1765]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1765
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691803",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

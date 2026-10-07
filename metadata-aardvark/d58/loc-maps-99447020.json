@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Cartoon map illustrating Gen. Winfield Scott's plan to crush the Confederacy, economically. It is sometimes called the \"Anaconda plan.\"",
+    "Cartoon map illustrating Gen. Winfield Scott's plan to crush the Confederacy, economically. It is sometimes called the \"Anaconda plan.\" Description derived from published bibliography. Scale not given. LC Civil War Maps (2nd ed.), 11 Available also through the Library of Congress web site as raster image.",
+    "Contributors: Elliott, J. B.",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 11",
+    "Publication statement: [S.l.] 1861.",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701s.cw0011000",
+    "http://lccn.loc.gov/99447020",
+    "http://www.loc.gov/item/99447020/",
+    "http://www.loc.gov/resource/g3701s.cw0011000/",
+    "https://hdl.loc.gov/loc.gmd/g3701s.cw0011000",
+    "https://search.catalog.loc.gov/instances/b7a7f8fa-aa40-514c-bc5f-60707d3c0578",
+    "https://www.loc.gov/item/99447020/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701s/cw0011000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447020/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Scott's great snake. Entered according to Act of Congress in the year 1861",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447020",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

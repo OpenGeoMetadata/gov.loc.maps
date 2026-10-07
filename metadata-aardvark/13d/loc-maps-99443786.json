@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Covers the New River Gorge National River, the Gauley River National Recreation Area, and the Bluestone National Scenic River.",
+    "Covers the New River Gorge National River, the Gauley River National Recreation Area, and the Bluestone National Scenic River. Tourist information and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington, D.C.] : The Service, [1996?]",
+    "Tourist information and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/99443786",
+    "http://www.loc.gov/item/99443786/",
+    "http://www.loc.gov/resource/g3892n.ct009499/",
+    "https://hdl.loc.gov/loc.gmd/g3892n.ct009499",
+    "https://search.catalog.loc.gov/instances/8dc53d2b-928d-54fa-b593-98c6e857f6b8",
+    "https://www.loc.gov/item/99443786/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3892/g3892n/ct009499.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99443786/\"}",
+  "dct_spatial_sm": [
+    "bluestone national scenic river",
+    "gauley river national recreation area",
+    "new river gorge national park",
+    "new river gorge national park and preserve",
+    "preserve",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Outdoor recreation--West Virginia--Bluestone National Scenic River--Maps",
+    "Outdoor recreation--West Virginia--Gauley River National Recreation Area--Maps",
+    "Outdoor recreation--West Virginia--New River Gorge National Park and Preserve--Maps",
+    "United States--West Virginia--Bluestone National Scenic River",
+    "United States--West Virginia--Gauley River National Recreation Area",
+    "United States--West Virginia--New River Gorge National Park and Preserve"
+  ],
+  "dct_temporal_sm": [
+    "1996",
+    "[Washington, D.C.] : The Service, [1996?]"
+  ],
+  "dct_title_s": "New River Gorge National River",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99443786",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

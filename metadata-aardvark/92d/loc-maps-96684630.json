@@ -1,0 +1,75 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Colton's map of Virginia",
+    "New topographical map of the states of Virginia, Maryland and Delaware"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 91-37",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Colton, J. H. (Joseph Hutchins), 1800-1893",
+    "Includes population statistical tables.",
+    "Prime meridians: Greenwich and Washington.",
+    "Publication statement: New York : J.H. Colton, 1862.",
+    "Publisher's map list on cover endpaper.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Prime meridians: Greenwich and Washington. Publisher's map list on cover endpaper. Includes population statistical tables. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 91-37"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3790.ct001187",
+    "http://lccn.loc.gov/96684630",
+    "http://www.loc.gov/item/96684630/",
+    "http://www.loc.gov/resource/g3790.ct001187/",
+    "https://hdl.loc.gov/loc.gmd/g3790.ct001187",
+    "https://search.catalog.loc.gov/instances/38b58282-0452-5a75-8934-f14f2265363e",
+    "https://www.loc.gov/item/96684630/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd379/g3790/g3790/ct001187.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96684630/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "maryland",
+    "middle atlantic states",
+    "tennessee",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Delaware--Maps",
+    "Maryland--Maps",
+    "Middle Atlantic States--Maps",
+    "Tennessee--Maps",
+    "United States--Delaware",
+    "United States--Maryland",
+    "United States--Middle Atlantic States",
+    "United States--Tennessee",
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Colton's new topographical map of the states of Virginia, Maryland and Delaware : showing also eastern Tennessee & parts of other adjoining states, all the fortifications, military stations, rail roads, common roads, and other internal improvements",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96684630",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

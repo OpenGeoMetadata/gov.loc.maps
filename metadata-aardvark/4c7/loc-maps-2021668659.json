@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte du Liban d'après les reconnaissances de la brigade topographique du corps expéditionnaire de Syrie en 1860-1861"
+  ],
+  "dct_description_sm": [
+    "\"Scale 1:200,000\"--Note extracted from World Digital Library.",
+    "Content in French.",
+    "Contributors: Blondel, Antoine-Lucien, 1801-1883 Associated Name.; Depot of War (France) Sponsor.; Randon, Jacques Louis César Alexandre, comte, 1795-1871 Associated Name.; Schieble, Erhard, 1821-1880 Engraver.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : color, mounted on cloth ; 90 x 68 centimeters.",
+    "Publication statement: Paris : Lemercier & Company, 1913.",
+    "Reference extracted from World Digital Library: Thomas Collelo, ed. Lebanon: A Country Study. Washington: GPO for the Library of Congress, 1987.",
+    "This map of Lebanon showing part of Syria with Damascus was made by French military cartographers in 1862. It is based on information gathered by the topographic unit in the expeditionary corps sent by France to Lebanon in 1860-61. Lebanon was at that time part of the Ottoman Empire and the central region known as Mount Lebanon was mainly populated by Christians and Druzes. A Maronite peasant uprising in 1858 led to fighting between the two groups, which culminated in the massacre in 1860 by the Druze of about 10,000 Maronite Catholics as well as Greek Catholics and Greek Orthodox. France, exercising its traditional role as the European protector of the Christians of the Middle East, sent a force of 6,000 soldiers to Lebanon, which landed in Beirut on August 16, 1860. The troops remained in the country until June 1861 and succeeded in restoring order. The map shows district borders, cities and towns, railroads, mosques, Christian convents or monasteries, and rivers and other geographic features. Relief is shown by hachures. Heights are indicated in meters. The map has two distance scales: kilometers and nautical miles. The table in the lower right lists all of the districts of Lebanon, with their populations broken down by the seven religions represented in the region: Maronites, \"schismatic Greeks\" (i.e., Orthodox who recognized the authority of the Greek patriarch of Constantinople), Greek Catholics, Druze, Métoualis (an old term for Lebanese Shiites), Muslims (Sunnis), and Jews. Maronites were the largest group, accounting for 208,180 of the total population of 487,600.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668659",
+    "http://www.loc.gov/item/2021668659/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15664/",
+    "http://www.loc.gov/resource/wdl.15664/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15664",
+    "https://www.loc.gov/item/2021668659/"
+  ],
+  "dct_issued_s": "1913-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15664.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/66/4/wdl_15664/wdl_15664.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:66:4:wdl_15664:am004846/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668659/\"}",
+  "dct_spatial_sm": [
+    "israel",
+    "lebanon",
+    "syrian arab republic"
+  ],
+  "dct_subject_sm": [
+    "1860 to 1861",
+    "Israel",
+    "Lebanon",
+    "Ottoman Empire, 1288-1918",
+    "Population--Statistics",
+    "Syrian Arab Republic",
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1913-01-01"
+  ],
+  "dct_title_s": "Map of Lebanon According to Reconnaissance Information Collected by the Topographical Group from the Syria Expedition of 1860-1861.",
+  "gbl_dateRange_drsim": [
+    "[1913 TO 1913]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1913
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668659",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Longitude west from London.\"",
+    "AACR2: 100; 440; 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Harrison, John, active 1784-1792; Kitchin, Thomas, 1718-1784; Terry, Garnet",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"Longitude west from London.\" Scale ca. 1:17,000,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 440; 651",
+    "Publication statement: [London] Engraved for Jno. Harrison, 1787.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:17,000,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar019203",
+    "http://lccn.loc.gov/74693114",
+    "http://www.loc.gov/item/74693114/",
+    "http://www.loc.gov/resource/g3300.ar019203/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar019203",
+    "https://search.catalog.loc.gov/instances/97f9d730-b53f-57d9-b7e1-1d2c80f57388",
+    "https://www.loc.gov/item/74693114/"
+  ],
+  "dct_issued_s": "1787",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar019203.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693114/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "North America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1787"
+  ],
+  "dct_title_s": "North America drawn from the latest and best authorities",
+  "gbl_dateRange_drsim": [
+    "[1787 TO 1787]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1787
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693114",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

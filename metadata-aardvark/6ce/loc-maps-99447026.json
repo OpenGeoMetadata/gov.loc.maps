@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Census Office, Department of the Interior, Washington, Sept. 9th, 1861. After a careful examination of the above very interesting map I am prepared to state that it not only furnishes the evidences of great care in its execution, but can be relied on as corresponding with the official returns of the 8th Census. [Signed in facsimile] Jos. C. G. Kennedy, Superintendent.\"",
+    "\"Entered according to Act of Congress, A.D. 1861 by Henry S. Graham.\"",
+    "\"Entered according to Act of Congress, A.D. 1861 by Henry S. Graham.\" \"Sold for the benefit of the sick and wounded soldiers of the U.S. Army.\" \"Census Office, Department of the Interior, Washington, Sept. 9th, 1861. After a careful examination of the above very interesting map I am prepared to state that it not only furnishes the evidences of great care in its execution, but can be relied on as corresponding with the official returns of the 8th Census. [Signed in facsimile] Jos. C. G. Kennedy, Superintendent.\" Map indicates by gray patterns, the percentage of slaves in each county. \"It should be observed, that several counties appear comparatively light. This arises from the preponderance of whites and free blacks in the large towns in those counties. . . The figures in each county represent the percentage of slaves. . .\" \"Scale of shade\" printed in lower right corner. Includes population table based on census of 1860. Description derived from published bibliography. Scale ca. 1:3,000,000. LC Civil War Maps (2nd ed.), 13.2 Available also through the Library of Congress web site as raster image.",
+    "\"Scale of shade\" printed in lower right corner.",
+    "\"Sold for the benefit of the sick and wounded soldiers of the U.S. Army.\"",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Hergesheimer, E. (Edwin)",
+    "Description derived from published bibliography.",
+    "Includes population table based on census of 1860.",
+    "LC Civil War Maps (2nd ed.), 13.2",
+    "Map indicates by gray patterns, the percentage of slaves in each county. \"It should be observed, that several counties appear comparatively light. This arises from the preponderance of whites and free blacks in the large towns in those counties. . . The figures in each county represent the percentage of slaves. . .\"",
+    "Publication statement: Washington Henry S. Graham 1861.",
+    "Scale ca. 1:3,000,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3861e.cw0013200",
+    "http://lccn.loc.gov/99447026",
+    "http://www.loc.gov/item/99447026/",
+    "http://www.loc.gov/resource/g3861e.cw0013200/",
+    "https://hdl.loc.gov/loc.gmd/g3861e.cw0013200",
+    "https://search.catalog.loc.gov/instances/39bebd56-4389-5725-8c85-6ee2945ab88d",
+    "https://www.loc.gov/item/99447026/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3861/g3861e/cw0013200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447026/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Slavery--Southern States--Maps",
+    "Southern States--Maps",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Map showing the distribution of the slave population of the southern states of the United States. Compiled from the census of 1860",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447026",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

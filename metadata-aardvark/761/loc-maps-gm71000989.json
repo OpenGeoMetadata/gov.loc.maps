@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map from around 1780 shows the fighting in New York and New Jersey in 1776, the first full year of the American Revolutionary War. The inset in the upper left shows the campaign in and around Philadelphia in the following year. The main map shows the site of the British landings on Staten Island in preparation for the New York campaign; troop movements and the sites of battles on Long Island, in Westchester County, and on Manhattan Island; and towns and roads in southeastern New York and eastern New Jersey. The index, entitled \"Explanation,\" describes the main events of the campaign and identifies by letters encampments and the skirmishes and battles between the British-Hessian forces and the Continental Army that occurred between August 22 and November 20, 1776. Notable sites include Point F, at which the colonial militia triumphed in September 1776 at Vanderwater's Height (present-day Morningside Heights, Manhattan), and Points Q and R, which mark British victories at Fort Washington, New York on November 16 and at Fort Lee, New Jersey on November 18. The inset map of the Philadelphia campaign shows important events that took place between the British landing on the Elk River on August 15, 1777 and the Battle of Germantown on October 4 of that year. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 440; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes descriptive index entitled \"Explanation\" and inset \"Campaign of MDCCLXXVII,\" ca. 1:410,000.",
+    "LC Maps of North America, 1750-1789, 1058",
+    "Publication statement: [London? 1780?]",
+    "Scale ca. 1:185,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3791s.ar105800",
+    "http://lccn.loc.gov/gm71000989",
+    "http://www.loc.gov/item/gm71000989/",
+    "http://www.loc.gov/resource/g3791s.ar105800/",
+    "https://hdl.loc.gov/loc.gmd/g3791s.ar105800",
+    "https://search.catalog.loc.gov/instances/c38369ff-1210-59c8-8b03-987a49c9278a",
+    "https://www.loc.gov/item/gm71000989/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd379/g3791/g3791s/ar105800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000989/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Middle Atlantic States--History--Revolution, 1775-1783--Maps--Early works to 1800",
+    "United States--Middle Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1780",
+    "[London? 1780?]"
+  ],
+  "dct_title_s": "Campaign of MDCCLXXVI",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000989",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

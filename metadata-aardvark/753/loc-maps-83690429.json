@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by fact sheet (1 leaf ; 28 x 22 cm.)",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Conserved; 04-86-403 1986 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Contributors: King, Porter",
+    "LC Civil War maps (2nd ed.) 564.9",
+    "Pencil, pen-and-ink, and watercolor on tracing paper.",
+    "Publication statement: [1861]",
+    "Shows 1st battle of Bull Run.",
+    "Shows 1st battle of Bull Run. Pencil, pen-and-ink, and watercolor on tracing paper. Title in pencil on matte board. Accompanied by fact sheet (1 leaf ; 28 x 22 cm.) LC Civil War maps (2nd ed.) 564.9 Available also through the Library of Congress Web site as a raster image. Conserved; 04-86-403 1986 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda Vault",
+    "Title in pencil on matte board.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884m.cw0564900",
+    "http://lccn.loc.gov/83690429",
+    "http://www.loc.gov/item/83690429/",
+    "http://www.loc.gov/resource/g3884m.cw0564900/",
+    "https://hdl.loc.gov/loc.gmd/g3884m.cw0564900",
+    "https://search.catalog.loc.gov/instances/430fdb35-c8cc-504b-97cf-71088aafcf4c",
+    "https://www.loc.gov/item/83690429/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884m/cw0564900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83690429/\"}",
+  "dct_spatial_sm": [
+    "manassas",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Bull Run, 1st Battle of, Va., 1861--Maps, Manuscript",
+    "United States--Virginia--Manassas"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Plan of Bull Run",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83690429",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

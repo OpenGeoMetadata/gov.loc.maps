@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from county general highway map.\"",
+    "\"May 1991 1006602.\"",
+    "\"May 1991 1006602.\" \"This general soil map is suitable for broad planning purposes only.\" \"Base compiled from county general highway map.\" \"Source: Original draft by State Soil Survey Staff.\" Includes location map, table of \"Proportion of units in Anderson County,\" and descriptive legend. Table \"Soil interpretations for selected uses\" and other tables on verso. Available also through the Library of Congress Web site as a raster image.",
+    "\"Source: Original draft by State Soil Survey Staff.\"",
+    "\"This general soil map is suitable for broad planning purposes only.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); Texas A & M University System; Texas Agricultural Experiment Station; Texas Agricultural Extension Service; United States. Soil Conservation Service",
+    "Includes location map, table of \"Proportion of units in Anderson County,\" and descriptive legend.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [Temple, Tex. : State Conservationist, distributor], 1991.",
+    "Table \"Soil interpretations for selected uses\" and other tables on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/92682949",
+    "http://www.loc.gov/item/92682949/",
+    "http://www.loc.gov/resource/g4033a.ct011492/",
+    "https://hdl.loc.gov/loc.gmd/g4033a.ct011492",
+    "https://search.catalog.loc.gov/instances/6399d5d9-0266-50e0-b1e6-1914527b1cc8",
+    "https://www.loc.gov/item/92682949/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033a/ct011492.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92682949/\"}",
+  "dct_spatial_sm": [
+    "anderson county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soils--Texas--Anderson County--Maps",
+    "United States--Texas--Anderson County"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "General soil map, Anderson County, Texas",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92682949",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

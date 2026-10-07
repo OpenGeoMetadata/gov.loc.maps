@@ -1,0 +1,109 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Colton's Persia, Arabia, &c"
+  ],
+  "dct_description_sm": [
+    "Content in English.",
+    "Contributors: Colton, G. Woolworth (George Woolworth), 1827-1901 Creator.; J.H. Colton & Company Copyright Holder.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map : color ; 31 x 36 centimeters.",
+    "Publication statement: New York City : Johnson and Browning, 1865.",
+    "This map showing the Arabian Peninsula, Persia (present-day Iran), Afghanistan, Baluchistan (present-day Iran and Pakistan), and adjacent territories was copyrighted in 1855 by J.H. Colton & Company of New York. Coloring is used to indicate borders and certain provinces or settled areas. The map shows cities, mountains, and roads, and includes some notes on topographical features. The old Qatari city of al-Zabarah is shown. The map appeared in other editions of Colton's General Atlas and reflects the general level of geographic knowledge of the Middle East in mid-19th-century America. Supplementing the map is a one-page political and social description of Persia and its history and geography. It augments other Colton maps found in the World Digital Library covering the same region. J.H. Colton & Company was founded in New York City, most likely in 1831, by Joseph Hutchins Colton (1800--93), a Massachusetts native who had only a basic education and little or no formal training in geography or cartography. He built the firm into a major publisher of maps and atlases by purchasing the copyrights to other maps and republishing them before it began creating its own maps and atlases. In the 1850s, the firm became the G.W. & C.B. Colton Company, after Colton brought his sons, George Woolworth Colton (1827--1901) and Charles B. Colton (1832--1916), into the business. As in this example, virtually all Colton maps were framed by decorative borders of intertwining vines, flowers, or geometric shapes. The work was entered according to Act of Congress in the year 1855 in the United States District Court of the Southern District of New York and published by Johnson and Browning of New York City, sometimes a collaborator, sometimes a competitor of the Colton firm.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668594",
+    "http://www.loc.gov/item/2021668594/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_14762/",
+    "http://www.loc.gov/resource/wdl.14762/",
+    "https://hdl.loc.gov/loc.wdl/wdl.14762",
+    "https://www.loc.gov/item/2021668594/"
+  ],
+  "dct_issued_s": "1865-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_14762.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/14/76/2/wdl_14762/wdl_14762.pdf\"}, {\"label\": \"ZIP: wdl_14762.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/14/76/2/wdl_14762/wdl_14762.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:76:2:wdl_14762:1073-II/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668594/\"}",
+  "dct_spatial_sm": [
+    "afghanistan",
+    "armenia",
+    "azerbaijan",
+    "bahrain",
+    "cyprus",
+    "egypt",
+    "eritrea",
+    "iran, islamic republic of",
+    "iraq",
+    "israel",
+    "jordan",
+    "kuwait",
+    "lebanon",
+    "oman",
+    "pakistan",
+    "qatar",
+    "sudan",
+    "syrian arab republic",
+    "tajikistan",
+    "turkey",
+    "turkmenistan",
+    "united arab emirates",
+    "uzbekistan",
+    "yemen"
+  ],
+  "dct_subject_sm": [
+    "1855",
+    "Afghanistan",
+    "Arabian Gulf",
+    "Arabian Peninsula",
+    "Armenia",
+    "Azerbaijan",
+    "Bahrain",
+    "Cyprus",
+    "Egypt",
+    "Eritrea",
+    "Iran, Islamic Republic of",
+    "Iraq",
+    "Israel",
+    "Jordan",
+    "Kuwait",
+    "Lebanon",
+    "Oman",
+    "Pakistan",
+    "Persian Gulf",
+    "Qatar",
+    "Red Sea",
+    "Sudan",
+    "Syrian Arab Republic",
+    "Tajikistan",
+    "Turkey",
+    "Turkmenistan",
+    "United Arab Emirates",
+    "Uzbekistan",
+    "Yemen"
+  ],
+  "dct_temporal_sm": [
+    "1865-01-01"
+  ],
+  "dct_title_s": "Colton's Persia, Arabia, Et cetera.",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668594",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

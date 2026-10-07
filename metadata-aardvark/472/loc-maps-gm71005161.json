@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Complete map of Hubei Province",
+    "Complete map of Hubei Province",
+    "鄂省全图 /"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Yan, Shusen, active 19th century",
+    "Publication statement: Wuchang : [s.n.], Qing Dongzhi yuan nian [1862]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:450,000.",
+    "Wood block print.",
+    "Wood block print. Relief shown pictorially. Scale ca. 1:450,000. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7823h.ct002593",
+    "http://lccn.loc.gov/gm71005161",
+    "http://www.loc.gov/item/gm71005161/",
+    "http://www.loc.gov/resource/g7823h.ct002593/",
+    "https://hdl.loc.gov/loc.gmd/g7823h.ct002593",
+    "https://search.catalog.loc.gov/instances/eb19e50d-4b16-5603-b9c1-089ee8adecbf",
+    "https://www.loc.gov/item/gm71005161/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7823/g7823h/ct002593.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005161/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "hubei sheng"
+  ],
+  "dct_subject_sm": [
+    "China--Hubei Sheng",
+    "Hubei Sheng (China)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "E sheng quan tu",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005161",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

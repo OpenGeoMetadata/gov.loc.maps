@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Albers equal area projection.\"",
+    "\"Sheet number 26-27.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Publication statement: Reston, Va., 1976.",
+    "Relief shown by spot heights.",
+    "Relief shown by spot heights. \"Albers equal area projection.\" \"Sheet number 26-27.\" Scale 1:2,000,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale 1:2,000,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/77690151",
+    "http://www.loc.gov/item/77690151/",
+    "http://www.loc.gov/resource/g4030.ct011245/",
+    "https://hdl.loc.gov/loc.gmd/g4030.ct011245",
+    "https://search.catalog.loc.gov/instances/5e08bf56-43f4-55d0-a34f-add0cd590506",
+    "https://www.loc.gov/item/77690151/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4030/g4030/ct011245.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77690151/\"}",
+  "dct_spatial_sm": [
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Texas--Maps",
+    "United States--Texas"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "National atlas: Southern Texas",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77690151",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright Library, 28 Jan. 1865.\"",
+    "\"Deposited [for copyright] July 27, 1864. Recorded vol. 39, page 496\" and \"No. 41\" are written in the right margin.",
+    "\"Deposited [for copyright] July 27, 1864. Recorded vol. 39, page 496\" and \"No. 41\" are written in the right margin. \"Copyright Library, 28 Jan. 1865.\" \"Entered according to Act of Congress in the year 1864 by L. Prang & Co.\" General map printed in brown ink. Description derived from published bibliography. Scale ca. 1:800,000. LC Civil War Maps (2nd ed.), 129.8 Available also through the Library of Congress web site as raster image.",
+    "\"Entered according to Act of Congress in the year 1864 by L. Prang & Co.\"",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Louis Prang and Company",
+    "Description derived from published bibliography.",
+    "General map printed in brown ink.",
+    "LC Civil War Maps (2nd ed.), 129.8",
+    "Publication statement: Boston, L. Prang & Co., c1864.",
+    "Scale ca. 1:800,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3920.cw0129800",
+    "http://lccn.loc.gov/99447293",
+    "http://www.loc.gov/item/99447293/",
+    "http://www.loc.gov/resource/g3920.cw0129800/",
+    "https://hdl.loc.gov/loc.gmd/g3920.cw0129800",
+    "https://search.catalog.loc.gov/instances/d28f2c3e-d2b3-54a4-8948-430862cdda72",
+    "https://www.loc.gov/item/99447293/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3920/g3920/cw0129800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447293/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--Maps",
+    "United States--Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "The army map of Georgia",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447293",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

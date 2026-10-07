@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nova Virginiae tabula"
+  ],
+  "dct_description_sm": [
+    "Accompanied by LC jacket note.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hondius, Hendrik, 1573-1650, cartographer",
+    "Copied ? from John Smith map.",
+    "Includes illustrations and coat-of-arms.",
+    "Oriented with north to right.",
+    "Publication statement: Amstelodami : ex officina Henrici Hondii, [1642?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Oriented with north to right. Accompanied by LC jacket note. Copied ? from John Smith map. Includes illustrations and coat-of-arms. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.ct006341",
+    "http://lccn.loc.gov/2017590615",
+    "http://www.loc.gov/item/2017590615/",
+    "http://www.loc.gov/resource/g3880.ct006341/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct006341",
+    "https://search.catalog.loc.gov/instances/da8855cc-abcf-5c91-9466-10943c6335f3",
+    "https://www.loc.gov/item/2017590615/"
+  ],
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ct006341.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017590615/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1642",
+    "Amstelodami : ex officina Henrici Hondii, [1642?]"
+  ],
+  "dct_title_s": "Nova Virginiae tabvla",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017590615",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

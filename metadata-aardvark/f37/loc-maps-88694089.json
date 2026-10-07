@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At upper right: No. 21.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: H.C. Carey & I. Lea (Firm); Young & Delleker",
+    "DCP",
+    "Includes text and statistical tables.",
+    "LC copy stained, fold-lined, and accompanied by typewritten information card: [From] American atlas, published by H.C. Car[e]y & I. Leo [sic], Philadelphia, 1827.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Philadelphia : H.C. Carey & I. Lea, 1827]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Title at head of text: District of Columbia. Oriented with north toward the upper left. Includes text and statistical tables. At upper right: No. 21. Available also through the Library of Congress Web site as a raster image. LC copy stained, fold-lined, and accompanied by typewritten information card: [From] American atlas, published by H.C. Car[e]y & I. Leo [sic], Philadelphia, 1827. Vault DCP",
+    "Title at head of text: District of Columbia.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004200",
+    "http://lccn.loc.gov/88694089",
+    "http://www.loc.gov/item/88694089/",
+    "http://www.loc.gov/resource/g3850.ct004200/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004200",
+    "https://search.catalog.loc.gov/instances/3c31853a-cec2-5bcf-90e2-5eec0c66d953",
+    "https://www.loc.gov/item/88694089/"
+  ],
+  "dct_issued_s": "1827",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88694089/\"}",
+  "dct_spatial_sm": [
+    "arlington county",
+    "district of columbia",
+    "united states",
+    "virginia",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Arlington County (Va.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--Virginia--Arlington County",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "dct_title_s": "Geographical, statistical, and historical map of the District of Columbia",
+  "gbl_dateRange_drsim": [
+    "[1827 TO 1827]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1827
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88694089",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "LandScan HD Sudan",
+    "Sudan LandScan High Definition data"
+  ],
+  "dct_description_sm": [
+    "\"LandScan HD is developed for individual countries around the world and provides gridded population estimates at 3 arc-second resolution. The LandScan HD model incorporates current land use and infrastructure data from a variety of sources, applies facility occupancy estimates from ORNL's Population Density Tables (PDT) project, and leverages novel image processing algorithms developed at ORNL to rapidly map building structures and neighborhood areas using high-performance computing environments. In this way, LandScan HD is developed using a 'bottom-up' approach where high resolution population estimates are not dependent on a recently conducted, high quality census. This approach is particularly useful for parts of the world that regularly experience large changes in population distribution due to rapid growth, natural hazards, or conflict. LandScan HD was developed for the U.S. Department of Defense and is used for rapid consequence and risk assessment as well as emergency planning and management\"--XML metadata file.",
+    "Publication statement: [Oak Ridge, Tennessee] : Oak Ridge National Laboratory, Geospatial Science and Human Security Division, Human Geography Group, 2023",
+    "Source: National Geospatial-Intelligence Agency (NGA) via the EnhancedView Web-Hosting Service (EVWHS)/Global Enhanced GEOINT Delivery (G-EGD).",
+    "The temporal extent is defined as the range of dates of the images used to identify areas of human settlement.",
+    "The temporal extent is defined as the range of dates of the images used to identify areas of human settlement. \"LandScan HD is developed for individual countries around the world and provides gridded population estimates at 3 arc-second resolution. The LandScan HD model incorporates current land use and infrastructure data from a variety of sources, applies facility occupancy estimates from ORNL's Population Density Tables (PDT) project, and leverages novel image processing algorithms developed at ORNL to rapidly map building structures and neighborhood areas using high-performance computing environments. In this way, LandScan HD is developed using a 'bottom-up' approach where high resolution population estimates are not dependent on a recently conducted, high quality census. This approach is particularly useful for parts of the world that regularly experience large changes in population distribution due to rapid growth, natural hazards, or conflict. LandScan HD was developed for the U.S. Department of Defense and is used for rapid consequence and risk assessment as well as emergency planning and management\"--XML metadata file. Source: National Geospatial-Intelligence Agency (NGA) via the EnhancedView Web-Hosting Service (EVWHS)/Global Enhanced GEOINT Delivery (G-EGD)."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2025367534",
+    "http://www.loc.gov/item/2025367534/",
+    "http://www.loc.gov/resource/gdcdatasets.2025367534/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2025367534",
+    "https://search.catalog.loc.gov/instances/8e827d2b-a9b6-442b-a223-a7b4c3bead6c",
+    "https://www.loc.gov/item/2025367534/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2025367534/\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 International License DLC http://creativecommons.org/licenses/by/4.0"
+  ],
+  "dct_spatial_sm": [
+    "sudan"
+  ],
+  "dct_subject_sm": [
+    "Population density--Sudan",
+    "Sudan"
+  ],
+  "dct_temporal_sm": [
+    "2009 d2022"
+  ],
+  "dct_title_s": "Sudan LandScan HD data",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2025367534",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

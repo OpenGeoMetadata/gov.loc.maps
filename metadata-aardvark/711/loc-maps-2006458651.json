@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Pen-and-ink and watercolor. Ocean areas colored blue.",
+    "Publication statement: [18--?]",
+    "Title from cover.",
+    "Title from cover. Pen-and-ink and watercolor. Ocean areas colored blue. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7900m.gct00157",
+    "http://lccn.loc.gov/2006458651",
+    "http://www.loc.gov/item/2006458651/",
+    "http://www.loc.gov/resource/g7900m.gct00157/",
+    "https://hdl.loc.gov/loc.gmd/g7900m.gct00157",
+    "https://search.catalog.loc.gov/instances/e4b65faf-ed81-5d8d-9dce-47ebbfcda500",
+    "https://www.loc.gov/item/2006458651/"
+  ],
+  "dct_language_sm": [
+    "korean"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7m/g7900m/g7900m/gct00157/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006458651/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "japan",
+    "korea",
+    "ryukyu islands"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Maps, Manuscript",
+    "Japan",
+    "Japan--Maps, Manuscript",
+    "Korea",
+    "Korea--Maps, Manuscript",
+    "Ryukyu Islands",
+    "Ryukyu Islands--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "18??",
+    "[18--?]"
+  ],
+  "dct_title_s": "Yŏjido",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006458651",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

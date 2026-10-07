@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers",
+    "Includes \"Profile,\" text, and illus.",
+    "Includes \"Profile,\" text, and illus. Text, illus., and tables on verso. Scale ca. 1:2,250,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: Little Rock, Ark. [1968]",
+    "Scale ca. 1:2,250,000.",
+    "Text, illus., and tables on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm71001185",
+    "http://www.loc.gov/item/gm71001185/",
+    "http://www.loc.gov/resource/g4052a.ct011710/",
+    "https://hdl.loc.gov/loc.gmd/g4052a.ct011710",
+    "https://search.catalog.loc.gov/instances/37584c28-f01c-5358-b1cb-f9c199c7c1fa",
+    "https://www.loc.gov/item/gm71001185/"
+  ],
+  "dct_issued_s": "1968",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4052/g4052a/ct011710.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71001185/\"}",
+  "dct_spatial_sm": [
+    "arkansas river",
+    "arkansas river watershed",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Arkansas River Watershed--Maps",
+    "Arkansas River--Maps",
+    "United States--Arkansas River",
+    "United States--Arkansas River Watershed",
+    "Water resources development--Arkansas River--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "dct_title_s": "Arkansas River and tributaries, multiple purpose plan, Arkansas and Oklahoma",
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1968]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71001185",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Gibbes, Charles Drayton; Sherman & Smith",
+    "Publication statement: New York, 1851.",
+    "Vault",
+    "With text: accompaniment to Gibbes' new map of the gold region, California. Region of California. Stockton, Calif., J.D. Gibbes; New York, Sherman & Smith, 1851 (16 p.)",
+    "With text: accompaniment to Gibbes' new map of the gold region, California. Region of California. Stockton, Calif., J.D. Gibbes; New York, Sherman & Smith, 1851 (16 p.) Available also through the Library of Congress web site as a raster image. 2 copies Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4360.ct000186",
+    "http://lccn.loc.gov/98687170",
+    "http://www.loc.gov/item/98687170/",
+    "http://www.loc.gov/resource/g4360.ct000186/",
+    "https://hdl.loc.gov/loc.gmd/g4360.ct000186",
+    "https://search.catalog.loc.gov/instances/0dfd8d84-13c0-5518-b7b3-58a25ada272d",
+    "https://www.loc.gov/item/98687170/"
+  ],
+  "dct_issued_s": "1851",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4360/g4360/ct000186.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687170/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gold mines and mining--California--Maps",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "dct_title_s": "A new map of the gold region in California",
+  "gbl_dateRange_drsim": [
+    "[1851 TO 1851]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1851
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687170",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Date and title from Stephenson's Civil War maps, 1989.",
+    "LC Civil War maps (2nd ed.), H82",
+    "Pencil over pencil grid on brown tracing paper, mounted between transparent paper. The lower right corner is lacking, leaving part of the title which reads \"Highla\" and \"5 mi to.\"",
+    "Publication statement: [1861]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Date and title from Stephenson's Civil War maps, 1989. Pencil over pencil grid on brown tracing paper, mounted between transparent paper. The lower right corner is lacking, leaving part of the title which reads \"Highla\" and \"5 mi to.\" LC Civil War maps (2nd ed.), H82 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883h.cwh00082",
+    "http://lccn.loc.gov/2003629682",
+    "http://www.loc.gov/item/2003629682/",
+    "http://www.loc.gov/resource/g3883h.cwh00082/",
+    "https://hdl.loc.gov/loc.gmd/g3883h.cwh00082",
+    "https://search.catalog.loc.gov/instances/ef743a0d-d242-59fb-ad6d-a60cfecaa124",
+    "https://www.loc.gov/item/2003629682/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883h/cwh00082.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003629682/\"}",
+  "dct_spatial_sm": [
+    "highland county",
+    "pendleton county",
+    "united states",
+    "virginia",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Highland County (Va.)--Maps, Manuscript",
+    "Pendleton County (W. Va.)--Maps, Manuscript",
+    "United States--Virginia--Highland County",
+    "United States--West Virginia--Pendleton County"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "[Map of parts of Highland County, Va., and Pendleton County, W. Va.]",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003629682",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

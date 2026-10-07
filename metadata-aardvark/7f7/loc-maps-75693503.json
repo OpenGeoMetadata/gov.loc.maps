@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 700/1; 700/2; 700/5",
+    "Also shows shoals, banks, and other navigational hazards off the coast of Nova Scotia and in the Caribbean area.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Anville, Jean Baptiste Bourguignon d', 1697-1782; Bolton, Solomon, -approximately 1768; Gravelot, Hubert François, 1699-1773; Postlethwayt, Malachy, 1707?-1767; Seale, Richard William; Walker, Anthony, 1726-1765",
+    "Includes inset of northeastern Canada, historical and descriptive notes, and text \"Pursuant to the last Treaty of Peace concluded at Paris, Feb. 10, 1763.\"",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 14",
+    "Publication statement: [London] 1763.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Shows provinces, cities and towns, forts, Indian villages and tribal territory. Also shows shoals, banks, and other navigational hazards off the coast of Nova Scotia and in the Caribbean area. Sheets form plates I-IV of \"Mr. Postlethwayte's dictionary of trade & commerce.\" Includes inset of northeastern Canada, historical and descriptive notes, and text \"Pursuant to the last Treaty of Peace concluded at Paris, Feb. 10, 1763.\" Scale ca. 1:6,250,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 14 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 700/1; 700/2; 700/5",
+    "Scale ca. 1:6,250,000.",
+    "Sheets form plates I-IV of \"Mr. Postlethwayte's dictionary of trade & commerce.\"",
+    "Shows provinces, cities and towns, forts, Indian villages and tribal territory.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar001400",
+    "http://lccn.loc.gov/75693503",
+    "http://www.loc.gov/item/75693503/",
+    "http://www.loc.gov/resource/g3300.ar001400/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar001400",
+    "https://search.catalog.loc.gov/instances/146c3a6c-ef21-57f5-927e-9b759e3956ed",
+    "https://www.loc.gov/item/75693503/"
+  ],
+  "dct_issued_s": "1763",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar001400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693503/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1763"
+  ],
+  "dct_title_s": "North America",
+  "gbl_dateRange_drsim": [
+    "[1763 TO 1763]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1763
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693503",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Wit, Frederik de, cartographer",
+    "Includes two ancillary polar hemispheres and illustrations.",
+    "LC copy foldlined, with three pin holes in lower margin. Hand coloring to delineate continental boundaries only.",
+    "Publication statement: Amstelodami : Ex officina F. de Wit, [1680?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Includes two ancillary polar hemispheres and illustrations. LC copy foldlined, with three pin holes in lower margin. Hand coloring to delineate continental boundaries only. Shirley, Rodney W. Mapping of the world. 1983, 499 Available also through the Library of Congress Web site as a raster image.",
+    "Shirley, Rodney W. Mapping of the world. 1983, 499"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct007075",
+    "http://lccn.loc.gov/2017585710",
+    "http://www.loc.gov/item/2017585710/",
+    "http://www.loc.gov/resource/g3200.ct007075/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct007075",
+    "https://search.catalog.loc.gov/instances/af3127bb-5333-5356-8718-8381c66dd506",
+    "https://www.loc.gov/item/2017585710/"
+  ],
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct007075.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585710/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)"
+  ],
+  "dct_temporal_sm": [
+    "1680",
+    "Amstelodami : Ex officina F. de Wit, [1680?]"
+  ],
+  "dct_title_s": "Nova totius terrarum orbis tabula",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585710",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to act of Congress in the year 1857 by Robert Pearsall Smith...\"",
+    "\"Entered according to act of Congress in the year 1857 by Robert Pearsall Smith...\" Includes 24 local maps, indexes and insets. LC copy signed on verso by Robert Pearsall Smith. LC Land ownership maps, 270 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hopkins, Griffith Morgan, Jr; Smith, Robert Pearsall, 1827-1898",
+    "Includes 24 local maps, indexes and insets.",
+    "LC Land ownership maps, 270",
+    "LC copy signed on verso by Robert Pearsall Smith.",
+    "Publication statement: Philadelphia : Lee & Marsh, 1857."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3733l.la000270",
+    "http://lccn.loc.gov/2011589601",
+    "http://www.loc.gov/item/2011589601/",
+    "http://www.loc.gov/resource/g3733l.la000270/",
+    "https://hdl.loc.gov/loc.gmd/g3733l.la000270",
+    "https://search.catalog.loc.gov/instances/bf990296-51e3-505d-8162-c9c53be301b2",
+    "https://www.loc.gov/item/2011589601/"
+  ],
+  "dct_issued_s": "1857",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3733/g3733l/la000270.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011589601/\"}",
+  "dct_spatial_sm": [
+    "lincoln county",
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Maine--Lincoln County--Maps",
+    "Real property--Maine--Lincoln County--Maps",
+    "United States--Maine--Lincoln County"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_title_s": "A topographical map of Lincoln Co. Maine : from actual surveys",
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1857
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011589601",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "4 sheet(s).",
+    "Oct 1900.",
+    "Oct 1900. 4 sheet(s). Other places as they appear on original: Pilot Knob.",
+    "Other places as they appear on original: Pilot Knob.",
+    "Publication statement: Sanborn Map Company, Oct 1900"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4164im.g4164im_g047101900",
+    "http://www.loc.gov/item/sanborn04710_003/",
+    "http://www.loc.gov/resource/g4164im.g4164im_g047101900/",
+    "https://hdl.loc.gov/loc.gmd/g4164im.g4164im_g047101900",
+    "https://www.loc.gov/item/sanborn04710_003",
+    "https://www.loc.gov/item/sanborn04710_003/",
+    "https://www.loc.gov/resource/g4164im.g4164im_g047101900"
+  ],
+  "dct_issued_s": "1900-10",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn04710_003/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd416m/g4164m/g4164im/g4164im_g047101900/04710_1900-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn04710_003/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "iron county",
+    "ironton",
+    "missouri",
+    "pilot knob",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1900-10"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Ironton, Iron County, Missouri.",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn04710_003",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

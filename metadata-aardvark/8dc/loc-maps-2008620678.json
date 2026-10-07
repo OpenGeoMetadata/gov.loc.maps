@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"106318--37 (Face p. 719).\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Federal Writers' Project; United States. Government Printing Office",
+    "DCP",
+    "Folded tourist map showing partial street system.",
+    "Folded tourist map showing partial street system. Removed from textual publication: Washington, city and capital / Federal Writers' Project, Works Progress Administration, 1937. Includes index to points of interest. \"106318--37 (Face p. 719).\" Available also through the Library of Congress Web site as a raster image. DCP",
+    "Includes index to points of interest.",
+    "Publication statement: [Washington, D.C. : U.S. Government Printing Office, 1937].",
+    "Removed from textual publication: Washington, city and capital / Federal Writers' Project, Works Progress Administration, 1937."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852g.ct004995",
+    "http://lccn.loc.gov/2008620678",
+    "http://www.loc.gov/item/2008620678/",
+    "http://www.loc.gov/resource/g3852g.ct004995/",
+    "https://hdl.loc.gov/loc.gmd/g3852g.ct004995",
+    "https://search.catalog.loc.gov/instances/36632196-9855-5429-a1cf-f04f6fefc641",
+    "https://www.loc.gov/item/2008620678/"
+  ],
+  "dct_issued_s": "1937",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852g/ct004995.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008620678/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "georgetown",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Georgetown (Washington, D.C.)--Maps",
+    "Historic sites--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Georgetown"
+  ],
+  "dct_temporal_sm": [
+    "1937"
+  ],
+  "dct_title_s": "Georgetown 1937",
+  "gbl_dateRange_drsim": [
+    "[1937 TO 1937]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1937
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008620678",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

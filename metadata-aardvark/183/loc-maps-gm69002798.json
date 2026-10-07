@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Floods in Rocky Mount, North Carolina : How to avoid damage",
+    "Title on panel: Floods in Rocky Mount, North Carolina : How to avoid damage"
+  ],
+  "dct_description_sm": [
+    "AACR2: 110; 650/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: North Carolina. Department of Water and Air Resources; United States. Army. Corps of Engineers, cartographer",
+    "Includes \"Flood elevations\" diagram and illustrations.",
+    "Includes \"Flood elevations\" diagram and illustrations. Location map and text on verso. Available also through the Library of Congress Web site as a raster image. AACR2: 110; 650/1",
+    "Location map and text on verso.",
+    "Publication statement: [Washington, DC] : United States, Army, Corps of Engineers, 1968."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm69002798",
+    "http://www.loc.gov/item/gm69002798/",
+    "http://www.loc.gov/resource/g3904r.ct009794/",
+    "https://hdl.loc.gov/loc.gmd/g3904r.ct009794",
+    "https://search.catalog.loc.gov/instances/428c2618-b2ad-5b68-98d2-5fe27bf6a685",
+    "https://www.loc.gov/item/gm69002798/"
+  ],
+  "dct_issued_s": "1968",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3904/g3904r/ct009794.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm69002798/\"}",
+  "dct_spatial_sm": [
+    "franklin county",
+    "nash county",
+    "north carolina",
+    "rocky mount",
+    "stony creek",
+    "tar river",
+    "tar river (person county-beaufort county)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Floods--North Carolina--Rocky Mount--Maps",
+    "Floods--North Carolina--Stony Creek (Franklin County and Nash County)--Maps",
+    "Floods--North Carolina--Tar River--Maps",
+    "United States--North Carolina--Rocky Mount",
+    "United States--North Carolina--Tar River (Person County-Beaufort County)"
+  ],
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "dct_title_s": "Tar River and Stony Creek at Rocky Mount, N.C",
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1968]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm69002798",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

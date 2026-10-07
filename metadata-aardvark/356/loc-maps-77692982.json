@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 440",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Has watermark.",
+    "Includes index to points of interest and descriptive notes.",
+    "LC Maps of North America, 1750-1789, 1665",
+    "Manuscript, pen-and-ink.",
+    "Publication statement: 1781?]",
+    "Relief shown by hachures.",
+    "Scale 1:600; 50 ft. to an in.",
+    "Shows Fort George.",
+    "Title from manuscript catalog of Peter Force map collection.",
+    "Title from manuscript catalog of Peter Force map collection. Manuscript, pen-and-ink. Has watermark. Relief shown by hachures. Shows Fort George. Includes index to points of interest and descriptive notes. Scale 1:600; 50 ft. to an in. LC Maps of North America, 1750-1789, 1665 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 440",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3934p.ar166500",
+    "http://lccn.loc.gov/77692982",
+    "http://www.loc.gov/item/77692982/",
+    "http://www.loc.gov/resource/g3934p.ar166500/",
+    "https://hdl.loc.gov/loc.gmd/g3934p.ar166500",
+    "https://search.catalog.loc.gov/instances/6e37433b-1379-54cf-b2fb-957e3b6a3b16",
+    "https://www.loc.gov/item/77692982/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3934/g3934p/ar166500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77692982/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "fort george",
+    "fort george (fort)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort George (Fla. : Fort)--Maps, Manuscript--Early works to 1800",
+    "United States--Florida--Fort George (Fort)"
+  ],
+  "dct_temporal_sm": [
+    "1781",
+    "1781?]"
+  ],
+  "dct_title_s": "[Bay of Pensacola, fortification",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77692982",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

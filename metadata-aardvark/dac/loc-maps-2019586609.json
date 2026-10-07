@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Title of index map: Index map of Connecticut 1:25,000 A.M.S. V816"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service, cartographer",
+    "Most sheets include index to adjoining sheets and boundaries diagram.",
+    "Publication statement: Washington, D.C. : published by Army Map Service, [approximately 1943-1965]",
+    "Relief shown by contours and spot heights. Depths shown by contours.",
+    "Relief shown by contours and spot heights. Depths shown by contours. Most sheets include index to adjoining sheets and boundaries diagram. Various editions of some sheets. Available also through the Library of Congress Web site as a raster image.",
+    "Various editions of some sheets."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2019586609",
+    "http://www.loc.gov/item/2019586609/",
+    "http://www.loc.gov/resource/gmdsetmaps.2019586609/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2019586609",
+    "https://search.catalog.loc.gov/instances/60475124-7434-5320-a7e4-0030e026e250",
+    "https://www.loc.gov/item/2019586609/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:20:19:58:66:09:2019586609:cs000106r/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2019586609/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Connecticut--Maps",
+    "United States--Connecticut"
+  ],
+  "dct_temporal_sm": [
+    "1943/1965",
+    "Washington, D.C. : published by Army Map Service, [approximately 1943-1965]"
+  ],
+  "dct_title_s": "Connecticut 1:25,000",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2019586609",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

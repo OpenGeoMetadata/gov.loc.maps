@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hartmann, Georg Julius von, 1774-1856",
+    "Includes view of \"View of the Sierra over Aroyo de los Molinos.\"",
+    "Minimal level cataloging record.",
+    "Pen and ink.",
+    "Publication statement: 1811.",
+    "Relief shown pictorially and by contours.",
+    "Relief shown pictorially and by contours. Pen and ink. Includes view of \"View of the Sierra over Aroyo de los Molinos.\" Minimal level cataloging record. Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6564a.hl000016",
+    "http://lccn.loc.gov/2010589547",
+    "http://www.loc.gov/item/2010589547/",
+    "http://www.loc.gov/resource/g6564a.hl000016/",
+    "https://hdl.loc.gov/loc.gmd/g6564a.hl000016",
+    "https://search.catalog.loc.gov/instances/f0c25710-4f6c-5412-a822-b76a20a5a5b7",
+    "https://www.loc.gov/item/2010589547/"
+  ],
+  "dct_issued_s": "1811",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6564/g6564a/hl000016.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010589547/\"}",
+  "dct_spatial_sm": [
+    "arroyomolinos de la vera",
+    "spain"
+  ],
+  "dct_subject_sm": [
+    "Arroyo de Molinos, Battle of, Arroyomolinos de la Vera, Spain, 1811--Maps",
+    "Arroyomolinos de la Vera (Spain)--Maps",
+    "Girard, Jean-Baptiste,--1680-1733",
+    "Hill, Rowland Hill,--Viscount,--1772-1842",
+    "Peninsular War, 1807-1814--Spain--Maps",
+    "Spain--Arroyomolinos de la Vera"
+  ],
+  "dct_temporal_sm": [
+    "1811"
+  ],
+  "dct_title_s": "Sketch of the surprise of the French troups under General Girard by Lt. Gen. Hill of the allied army near Arrojo de los Molinos, 28th Obr. 1811",
+  "gbl_dateRange_drsim": [
+    "[1811 TO 1811]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1811
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010589547",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

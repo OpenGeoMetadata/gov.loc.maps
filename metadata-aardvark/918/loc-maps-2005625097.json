@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In pencil on verso: 479.",
+    "LC Civil War maps (2nd ed.), H190",
+    "Pen-and-ink and pencil (some col.) over 1/2 inch pencil grid, mounted on cloth.",
+    "Publication statement: [186-]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Title, date, and scale from Stephenson's Civil War maps, 1989. Pen-and-ink and pencil (some col.) over 1/2 inch pencil grid, mounted on cloth. In pencil on verso: 479. LC Civil War maps (2nd ed.), H190 Available also through the Library of Congress web site as raster image.",
+    "Title, date, and scale from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884s.cwh00190",
+    "http://lccn.loc.gov/2005625097",
+    "http://www.loc.gov/item/2005625097/",
+    "http://www.loc.gov/resource/g3884s.cwh00190/",
+    "https://hdl.loc.gov/loc.gmd/g3884s.cwh00190",
+    "https://search.catalog.loc.gov/instances/21826e15-b355-5479-825a-9ad48954197c",
+    "https://www.loc.gov/item/2005625097/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884s/cwh00190.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625097/\"}",
+  "dct_spatial_sm": [
+    "strasburg region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Strasburg Region (Va.)--Maps, Manuscript",
+    "United States--Virginia--Strasburg Region"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "[Map of the vicinity of Strasburg, Virginia]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625097",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cocheco Railroad; Parrott, George B.",
+    "Description derived from published bibliography.",
+    "Earlier records have the rail road spelled Cochecho. Name was chhanged name to Cocheco in the late 1800's.",
+    "LC Railroad maps, 387",
+    "Map shows Massachusetts, New Hampshire, and Vermont. Includes a table of distances and indicates \"constructed & completed\" and \"contemplated & chartered\" railroads. The Cocheco line was chartered on July 2, 1847.",
+    "Publication statement: Boston, [1848]",
+    "Scale ca. 1:530,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3721p.rr003870",
+    "http://lccn.loc.gov/98688638",
+    "http://www.loc.gov/item/98688638/",
+    "http://www.loc.gov/resource/g3721p.rr003870/",
+    "https://hdl.loc.gov/loc.gmd/g3721p.rr003870",
+    "https://search.catalog.loc.gov/instances/45e12cb4-bbbc-5231-9581-97864236bab3",
+    "https://www.loc.gov/item/98688638/"
+  ],
+  "dct_issued_s": "1848",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd372/g3721/g3721p/rr003870.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688638/\"}",
+  "dct_spatial_sm": [
+    "new england",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cocheco Railroad",
+    "Railroads--New England--Maps",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "dct_title_s": "Map of rail road routes from Rouse's Point to Portsmouth and Boston; compiled for the Cochecho [sic] Railroad Co. November, 1848",
+  "gbl_dateRange_drsim": [
+    "[1848 TO 1848]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1848
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688638",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

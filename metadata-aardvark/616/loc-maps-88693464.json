@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows parks and block numbers.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Entwistle, J. C.",
+    "DCP",
+    "Includes notes and sector diagram.",
+    "LC copy darkened, stained, rubber-stamped, annotated in pencil, and mounted on cloth backing.",
+    "Publication statement: Washington, D.C. : J.C. Entwistle, 1879.",
+    "Shows radial distances from the Capitol.",
+    "Shows radial distances from the Capitol. Also shows parks and block numbers. Includes notes and sector diagram. Available also through the Library of Congress Web site as a raster image. LC copy darkened, stained, rubber-stamped, annotated in pencil, and mounted on cloth backing. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004405",
+    "http://lccn.loc.gov/88693464",
+    "http://www.loc.gov/item/88693464/",
+    "http://www.loc.gov/resource/g3850.ct004405/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004405",
+    "https://search.catalog.loc.gov/instances/ec395791-3cc5-5e36-9b6a-a4217813d344",
+    "https://www.loc.gov/item/88693464/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004405.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693464/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Entwistle's handy map of Washington and vicinity : showing public buildings, churches, hotels, places of amusement, and lines of street rail roads",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693464",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

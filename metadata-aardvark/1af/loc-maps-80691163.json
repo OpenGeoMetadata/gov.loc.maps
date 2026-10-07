@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ruger, Edward; Tennessee Valley Authority",
+    "In lower left corner: Series 1, Vol. XXXVIII.",
+    "In upper right corner: 2.",
+    "In upper right corner: 2. In lower left corner: Series 1, Vol. XXXVIII. Photocopy; blue line print. Relief shown by hachures. Original published ca. 1864. Stamped on: 453 754 6.--28. Includes \"Authorities.\" Scale ca. 1:80,000. LC Civil War maps (2nd ed.) 129.87 Available also through the Library of Congress Web site as a raster image. AACR2: 650/1; 710/1",
+    "Includes \"Authorities.\"",
+    "LC Civil War maps (2nd ed.) 129.87",
+    "Original published ca. 1864.",
+    "Photocopy; blue line print.",
+    "Publication statement: [Knoxville, Tenn. : Tennessee Valley Authority, 1974?]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:80,000.",
+    "Stamped on: 453 754 6.--28."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3961s.cw0129870",
+    "http://lccn.loc.gov/80691163",
+    "http://www.loc.gov/item/80691163/",
+    "http://www.loc.gov/resource/g3961s.cw0129870/",
+    "https://hdl.loc.gov/loc.gmd/g3961s.cw0129870",
+    "https://search.catalog.loc.gov/instances/b6ee20c1-b3ad-56fe-909e-37379746bd86",
+    "https://www.loc.gov/item/80691163/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3961/g3961s/cw0129870.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80691163/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlanta Campaign",
+    "Atlanta Campaign, 1864--Maps",
+    "Georgia--History--Civil War, 1861-1865--Maps",
+    "United States--Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1974",
+    "[Knoxville, Tenn. : Tennessee Valley Authority, 1974?]"
+  ],
+  "dct_title_s": "Map illustrating the first epoch of the Atlanta Campaign : embracing the region from the Tennessee River to the Oostanaula River, showing the positions held and lines of works erected by the enemy, also the lines of works erected by the United States forces, the lines of march traversed by them and their relative location in line of battle when attacking the enemy, commanding United States forces, Major-General W. T. Sherman, commanding rebel forces, Lieut. General J. E. Johnston",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80691163",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

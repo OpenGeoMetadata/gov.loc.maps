@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: modelski, andrew m.",
+    "Historical cartographic study of Haiti directed by Guy Lasserre, Paul Moral, and Pierre Usselmann"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi89105531/",
+    "https://www.loc.gov/item/hlas-bi89105531/"
+  ],
+  "dct_issued_s": "1985",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_publisher_sm": [
+    "Centre d'études de géographie tropicale (CEGET), CNRS: Université de Bordeaux III,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi89105531/\"}",
+  "dct_spatial_sm": [
+    "france"
+  ],
+  "dct_subject_sm": [
+    "atlases",
+    "atlases -- haiti",
+    "haiti",
+    "historical geography",
+    "historical geography -- haiti",
+    "maps and cartography",
+    "maps and cartography -- haiti"
+  ],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "dct_title_s": "Atlas d'Haïti",
+  "gbl_dateRange_drsim": [
+    "[1985 TO 1985]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi89105531",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

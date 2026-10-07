@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Delaware, Maryland, Virginia",
+    "Title from label on verso: Delaware, Maryland, Virginia"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Arrowsmith, John, 1790-1873, engraver, publisher; Burr, David H., 1803-1875; Burr, David H., 1803-1875, cartographer",
+    "LC Railroad maps, 70",
+    "LC copy sectioned in 8 and mounted on cloth. Printed label on verso: no. 5, Delaware, Maryland, Virginia.",
+    "Prime meridians: Washington and Greenwich.",
+    "Publication statement: [London] : [J. Arrowsmith], [1839]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Prime meridians: Washington and Greenwich. LC copy sectioned in 8 and mounted on cloth. Printed label on verso: no. 5, Delaware, Maryland, Virginia. LC Railroad maps, 70 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g37093.rr000700",
+    "http://lccn.loc.gov/98688346",
+    "http://www.loc.gov/item/98688346/",
+    "http://www.loc.gov/resource/g37093.rr000700/",
+    "https://hdl.loc.gov/loc.gmd/g37093.rr000700",
+    "https://search.catalog.loc.gov/instances/2ea56cc6-5ace-5eeb-b96e-39dd1267de4a",
+    "https://www.loc.gov/item/98688346/"
+  ],
+  "dct_issued_s": "1839",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g37093/g37093/rr000700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688346/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Middle Atlantic States--Maps",
+    "Postal service--United States--Maps",
+    "Railroads--Middle Atlantic States--Maps",
+    "Roads--Middle Atlantic States--Maps",
+    "United States--Middle Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1839"
+  ],
+  "dct_title_s": "Map of Virginia, Maryland and Delaware exhibiting the post offices, post roads, canals, rail roads &c",
+  "gbl_dateRange_drsim": [
+    "[1839 TO 1839]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1839
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688346",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

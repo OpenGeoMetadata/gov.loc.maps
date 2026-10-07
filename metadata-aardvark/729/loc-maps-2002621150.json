@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Covers coast of Gulf of Mexico from Saint Joseph Bay, Florida, to Galveston Bay, Texas.",
+    "Covers coast of Gulf of Mexico from Saint Joseph Bay, Florida, to Galveston Bay, Texas. Depths shown by soundings. Pen-and-ink and watercolor. Map backed with cloth. Imperfect: Stains and creases. Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by soundings.",
+    "Imperfect: Stains and creases.",
+    "Map backed with cloth.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1732?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3862c.ct000660",
+    "http://lccn.loc.gov/2002621150",
+    "http://www.loc.gov/item/2002621150/",
+    "http://www.loc.gov/resource/g3862c.ct000660/",
+    "https://hdl.loc.gov/loc.gmd/g3862c.ct000660",
+    "https://search.catalog.loc.gov/instances/8e31740a-98fb-5929-b788-f9560ca7815b",
+    "https://www.loc.gov/item/2002621150/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3862/g3862c/ct000660.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002621150/\"}",
+  "dct_spatial_sm": [
+    "gulf coast",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gulf Coast (U.S.)--Maps, Manuscript--Early works to 1800",
+    "United States--Gulf Coast"
+  ],
+  "dct_temporal_sm": [
+    "1732",
+    "[1732?]"
+  ],
+  "dct_title_s": "Carte de la côte de la Louisiane depuis la Baye St. Joseph, jusqu'à celle de St. Bernard où tous les ports et bons mouillages sont marquez par des ancres; avec la quantité de piés d'eau que l'on y trouve",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002621150",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

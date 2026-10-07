@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ferguson, W. E.; Old Colony Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 506",
+    "Map of eastern Massachusetts covering the area from Boston to Wood's Hole and west to Providence, R.I. Shows drainage, place names and counties, and indicates mileage between stations. The Old Colony Railroad is double-tracked from Boston, south to South Braintree. The line was incorporated in 1844.",
+    "Publication statement: [Boston], 1850.",
+    "Scale ca. 1:150,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3761p.rr005060",
+    "http://lccn.loc.gov/98688753",
+    "http://www.loc.gov/item/98688753/",
+    "http://www.loc.gov/resource/g3761p.rr005060/",
+    "https://hdl.loc.gov/loc.gmd/g3761p.rr005060",
+    "https://search.catalog.loc.gov/instances/c7894ac3-a3de-559c-b450-4ac0ae4ce1d3",
+    "https://www.loc.gov/item/98688753/"
+  ],
+  "dct_issued_s": "1850",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3761/g3761p/rr005060.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688753/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Old Colony Railroad Company--Maps",
+    "Railroads--Massachusetts--Maps",
+    "United States--Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "dct_title_s": "Map of the Old Colony Rail Road with its branches & connecting roads, prepared under the direction of the Committee of Investigation, Jany. 1850, S. Dwight Eaton, Engr",
+  "gbl_dateRange_drsim": [
+    "[1850 TO 1850]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1850
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688753",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

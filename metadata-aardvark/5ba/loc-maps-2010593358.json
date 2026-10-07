@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Gibson, J. (John), active 1750-1792",
+    "From Gentleman's magazine and historical chronicle. June 1759, v. 29.",
+    "LC Maps of North America, 1750-1789, 2014",
+    "Publication statement: [London : Printed by E. Cave, 1759]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. From Gentleman's magazine and historical chronicle. June 1759, v. 29. LC Maps of North America, 1750-1789, 2014 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5070.ar201400",
+    "http://lccn.loc.gov/2010593358",
+    "http://www.loc.gov/item/2010593358/",
+    "http://www.loc.gov/resource/g5070.ar201400/",
+    "https://hdl.loc.gov/loc.gmd/g5070.ar201400",
+    "https://search.catalog.loc.gov/instances/8b943e9e-f6ed-593b-8a1f-64cbb3c09001",
+    "https://www.loc.gov/item/2010593358/"
+  ],
+  "dct_issued_s": "1759",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5070/g5070/ar201400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010593358/\"}",
+  "dct_spatial_sm": [
+    "galante",
+    "guadeloupe",
+    "marie",
+    "marie-galante"
+  ],
+  "dct_subject_sm": [
+    "Guadeloupe",
+    "Guadeloupe--Maps--Early works to 1800",
+    "Guadeloupe--Marie-Galante",
+    "Marie-Galante (Guadeloupe)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1759"
+  ],
+  "dct_title_s": "A new and accurate map of the isles of Guadaloupe, Marie-Galante &c. from the best authorities",
+  "gbl_dateRange_drsim": [
+    "[1759 TO 1759]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1759
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010593358",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

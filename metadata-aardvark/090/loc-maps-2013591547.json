@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Title on one sheet: Louisiane, district Attacapa",
+    "Title on one sheet: Plan d'une partie du Vermillion, district Attacapas",
+    "Title on one sheet: Plan d'une partie du Vermillon",
+    "Title on one sheet: Plan d'une partie du Vermillon, district Attacapa",
+    "Title on one sheet: Plan d'une partie du district des Attacapa",
+    "Title on six sheets: Louisiane, Attacapa"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Gonsoulin, François; Trudeau, Charles Laveau, approximately 1750-1816",
+    "LC Luso-Hispanic World, 911",
+    "One sheet signed by Carlos Trudeau.",
+    "Orientation varies.",
+    "Pen-and-ink on paper, some sheets light blue. All but one sheet mounted on cloth.",
+    "Plan d'une Partie Conserved; 000453.8 1972 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Publication statement: [1795-1814]",
+    "Shows land grants in the Bayou Teche region and in Vermilion Parish, most surveyed by François Gonsoulin.",
+    "Shows land grants in the Bayou Teche region and in Vermilion Parish, most surveyed by François Gonsoulin. Title from LC Luso-Hispanic World. Orientation varies. Pen-and-ink on paper, some sheets light blue. All but one sheet mounted on cloth. Two sheets are untitled. One sheet signed by Carlos Trudeau. LC Luso-Hispanic World, 911 Available also through the Library of Congress Web site as a raster image. Plan d'une Partie Conserved; 000453.8 1972 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Title from LC Luso-Hispanic World.",
+    "Two sheets are untitled."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4012tm.gct00213",
+    "http://lccn.loc.gov/2013591547",
+    "http://www.loc.gov/item/2013591547/",
+    "http://www.loc.gov/resource/g4012tm.gct00213/",
+    "https://hdl.loc.gov/loc.gmd/g4012tm.gct00213",
+    "https://search.catalog.loc.gov/instances/17985362-ce96-57e9-9524-c29d8350ec0f",
+    "https://www.loc.gov/item/2013591547/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401m/g4012m/g4012tm/gct00213/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013591547/\"}",
+  "dct_spatial_sm": [
+    "bayou teche region",
+    "louisiana",
+    "united states",
+    "vermilion parish"
+  ],
+  "dct_subject_sm": [
+    "Land grants--Louisiana--Bayou Teche Region--Maps",
+    "Land grants--Louisiana--Vermilion Parish--Maps",
+    "United States--Louisiana--Bayou Teche Region",
+    "United States--Louisiana--Vermilion Parish"
+  ],
+  "dct_temporal_sm": [
+    "1795/1814"
+  ],
+  "dct_title_s": "[Attakapa Region land grants, Louisiana]",
+  "gbl_dateRange_drsim": [
+    "[1795 TO 1814]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1795
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013591547",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

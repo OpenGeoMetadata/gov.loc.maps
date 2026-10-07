@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 17\" in the upper left corner.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Chart of the Potamac River from Washington, D. C., to its entrance into the Chesapeake Bay. Chart indicates soundings, lighhouses, and the shore line configuration.",
+    "Contributors: United States Coast Survey",
+    "Description derived from published bibliography.",
+    "Includes many more soundings in the Potamac River.",
+    "LC Civil War Maps (2nd ed.), 35.2",
+    "Publication statement: [Washington, D. C., Office of the Coast Survey,] 1862.",
+    "Scale 1:40,000 and 1:60,000.",
+    "Sheets 1 to 3 published at the scale of 1:60,000; sheet 4 is at 1:40,000.",
+    "Sheets 1 to 3 titled as above; sheet 4 titled \"Preliminary chart of the Potomac River (in four sheets)\"",
+    "Some sheets verified by J.E. Hilgard.",
+    "Various issues of each sheet, some colored.",
+    "Various issues of each sheet, some colored. Sheets 1 to 3 titled as above; sheet 4 titled \"Preliminary chart of the Potomac River (in four sheets)\" Sheets 1 to 3 published at the scale of 1:60,000; sheet 4 is at 1:40,000. Chart of the Potamac River from Washington, D. C., to its entrance into the Chesapeake Bay. Chart indicates soundings, lighhouses, and the shore line configuration. \"No. 17\" in the upper left corner. Some sheets verified by J.E. Hilgard. Includes many more soundings in the Potamac River. Description derived from published bibliography. Scale 1:40,000 and 1:60,000. LC Civil War Maps (2nd ed.), 35.2 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3792p.cw003520a",
+    "http://hdl.loc.gov/loc.gmd/g3792p.cw003520b",
+    "http://hdl.loc.gov/loc.gmd/g3792p.cw003520c",
+    "http://hdl.loc.gov/loc.gmd/g3792p.cw003520d",
+    "http://lccn.loc.gov/99447102",
+    "http://www.loc.gov/item/99447102/",
+    "http://www.loc.gov/resource/g3792p.cw003520a/",
+    "http://www.loc.gov/resource/g3792p.cw003520b/",
+    "http://www.loc.gov/resource/g3792p.cw003520c/",
+    "http://www.loc.gov/resource/g3792p.cw003520d/",
+    "https://hdl.loc.gov/loc.gmd/g3792p.cw003520a",
+    "https://hdl.loc.gov/loc.gmd/g3792p.cw003520b",
+    "https://hdl.loc.gov/loc.gmd/g3792p.cw003520c",
+    "https://hdl.loc.gov/loc.gmd/g3792p.cw003520d",
+    "https://search.catalog.loc.gov/instances/ef193057-45c8-5964-9258-0205a376f5eb",
+    "https://www.loc.gov/item/99447102/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd379/g3792/g3792p/cw003520a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447102/\"}",
+  "dct_spatial_sm": [
+    "potomac river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Potomac River--Maps",
+    "United States--Potomac River"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Potamac River (in four sheets)",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447102",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

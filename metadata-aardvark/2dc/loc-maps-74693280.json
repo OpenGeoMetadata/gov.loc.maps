@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 64.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bowen, Emanuel, 1693 or 1694-1767",
+    "From the author's A complete atlas or distinct view of the known world. 1752.",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"No. 64.\" From the author's A complete atlas or distinct view of the known world. 1752. Scale ca. 1:95,000 and ca. 1:110,000. LC Maps of North America, 1750-1789, 2147 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "LC Maps of North America, 1750-1789, 2147",
+    "Publication statement: [London, 1752]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:95,000 and ca. 1:110,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g9120.ar214700",
+    "http://lccn.loc.gov/74693280",
+    "http://www.loc.gov/item/74693280/",
+    "http://www.loc.gov/resource/g9120.ar214700/",
+    "https://hdl.loc.gov/loc.gmd/g9120.ar214700",
+    "https://search.catalog.loc.gov/instances/5d78a706-603e-5ac8-8c37-b7486554e169",
+    "https://www.loc.gov/item/74693280/"
+  ],
+  "dct_issued_s": "1752",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd9/g9120/g9120/ar214700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693280/\"}",
+  "dct_spatial_sm": [
+    "bermuda islands",
+    "saint kitts"
+  ],
+  "dct_subject_sm": [
+    "Bermuda Islands",
+    "Bermuda Islands--Maps--Early works to 1800",
+    "Saint Kitts",
+    "Saint Kitts--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1752"
+  ],
+  "dct_title_s": "A new & accurate map of Bermudas or Sommer's Islands, taken from an actual survey; wherein the errors of former charts are corrected. An accurate map of the island of St. Christopher, vulgarly called St. Kits, containing all the towns, parishes, forts &c",
+  "gbl_dateRange_drsim": [
+    "[1752 TO 1752]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1752
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693280",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

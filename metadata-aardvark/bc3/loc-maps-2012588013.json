@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 35 and scale of 60 feet to an inch.\"",
+    "\"Office of Chief of Engineers, War Department. 5810 620\" on verso.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. War Department. Office of the Chief of Engineers",
+    "Minimal level cataloging record.",
+    "Pen-and-ink, pencil, and watercolor.",
+    "Publication statement: 1814.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Pen-and-ink, pencil, and watercolor. \"No. 35 and scale of 60 feet to an inch.\" \"Office of Chief of Engineers, War Department. 5810 620\" on verso. Minimal level cataloging record. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct004126",
+    "http://lccn.loc.gov/2012588013",
+    "http://www.loc.gov/item/2012588013/",
+    "http://www.loc.gov/resource/g3804n.ct004126/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct004126",
+    "https://search.catalog.loc.gov/instances/b31b6221-64af-53a7-b216-fbbedd0ead17",
+    "https://www.loc.gov/item/2012588013/"
+  ],
+  "dct_issued_s": "1814",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct004126.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012588013/\"}",
+  "dct_spatial_sm": [
+    "fort greene",
+    "fort greene (new york)",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Greene (New York, N.Y.)--Maps",
+    "United States--New York (State)--Fort Greene (New York)"
+  ],
+  "dct_temporal_sm": [
+    "1814"
+  ],
+  "dct_title_s": "Fort Green, New York",
+  "gbl_dateRange_drsim": [
+    "[1814 TO 1814]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1814
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012588013",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

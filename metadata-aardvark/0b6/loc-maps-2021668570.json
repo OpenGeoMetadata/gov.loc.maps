@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Kidera: Uganda 1: 50,000"
+  ],
+  "dct_description_sm": [
+    "\"From the Uganda National Fisheries Resources Research Institute. Digitized at the National Library of Uganda with support from the Carnegie Corporation of New York.\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Fairey Air Surveys Limited Contributor.; Great Britain. Overseas Surveys Directorate Creator.; Uganda Copyright Holder.; Uganda. Department of Lands and Surveys Contributor.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Uganda.",
+    "Original resource extent: 1 map ; 83 x 64 centimeters.",
+    "Publication statement: Entebbe, Uganda : Great Britain. Overseas Surveys Directorate, 1964.",
+    "This map of the Kidera region in the Kayunga District of Uganda was published by the Directorate of Overseas Surveys for the government of Uganda in 1964. It is based on aerial surveys carried out in 1959 and 1960 and on field survey data. The Victoria Nile flows northwestward from Lake Victoria into Lake Kyoga. The river then exits the lake and flows westward to Lake Albert. This map shows the point at which the river enters Lake Kyoga. Physical features depicted include woodlands and forest and swampland and papyrus islands. Also indicated on the map are roads, a cotton-buying post, schools, hospitals, local administrative offices, a leper village, and the routes of ferries and canoe ferries across both the Victoria Nile and Lake Kyoga. Individual dwellings on this extremely detailed survey map are indicated by dots. An index grid in the lower left identifies adjoining sheets to this map. The map scale is 1:50,000. Distances are shown in miles and kilometers; elevations are in feet. Lake Kyoga is 129 kilometers long and is characterized by its shallow depth and swampy shoreline, overgrown with papyrus.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668570",
+    "http://www.loc.gov/item/2021668570/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_14269/",
+    "http://www.loc.gov/resource/wdl.14269/",
+    "https://hdl.loc.gov/loc.wdl/wdl.14269",
+    "https://www.loc.gov/item/2021668570/"
+  ],
+  "dct_issued_s": "1964-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_14269.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/14/26/9/wdl_14269/wdl_14269.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:26:9:wdl_14269:NaFiRRI_0038/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668570/\"}",
+  "dct_spatial_sm": [
+    "uganda",
+    "western"
+  ],
+  "dct_subject_sm": [
+    "1964",
+    "Kyoga, Lake (Uganda)",
+    "Nile River",
+    "Uganda--Western"
+  ],
+  "dct_temporal_sm": [
+    "1964-01-01"
+  ],
+  "dct_title_s": "Kidera, Uganda.",
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1964]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1964
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668570",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

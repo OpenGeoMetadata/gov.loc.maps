@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Harbour of Saint Augustín in East Florida"
+  ],
+  "dct_description_sm": [
+    "Annotated in pencil in lower margin: 214337.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Pen-and-ink.",
+    "Publication statement: 1805-1806.",
+    "Relief shown by hachures and spot heights. Depths shown by soundings.",
+    "Relief shown by hachures and spot heights. Depths shown by soundings. Pen-and-ink. Watermark. Annotated in pencil in lower margin: 214337. Scale approximately 1:32,500. Available also through the Library of Congress Web site as a raster image.",
+    "Scale approximately 1:32,500.",
+    "Watermark."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3934s.ct003705",
+    "http://lccn.loc.gov/2012590239",
+    "http://www.loc.gov/item/2012590239/",
+    "http://www.loc.gov/resource/g3934s.ct003705/",
+    "https://hdl.loc.gov/loc.gmd/g3934s.ct003705",
+    "https://search.catalog.loc.gov/instances/8c029d75-71ce-5068-88e4-1ee3446af3b6",
+    "https://www.loc.gov/item/2012590239/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3934/g3934s/ct003705.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590239/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "saint augustine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Saint Augustine (Fla.)--Maps",
+    "United States--Florida--Saint Augustine"
+  ],
+  "dct_temporal_sm": [
+    "1805/1806"
+  ],
+  "dct_title_s": "The harbour of St. Augustín in East Florida",
+  "gbl_dateRange_drsim": [
+    "[1805 TO 1806]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1805
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590239",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

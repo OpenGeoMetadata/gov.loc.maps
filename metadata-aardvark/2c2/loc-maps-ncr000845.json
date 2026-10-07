@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Marshall, Howard W. (Photographer)",
+    "Copy of U.S. Army Corps of Engineers survey map from the Buckingham Collection of the Nevada Historical Society; Camp Winfield Scott was built in 1865 by the U.S. Army",
+    "Publication statement: July, 1978"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.afc/afc96ran.45069",
+    "http://www.loc.gov/item/afc1991021.afc1991021_45069/",
+    "http://www.loc.gov/item/ncr000845/",
+    "http://www.loc.gov/resource/afc1991021.afc1991021_45069/",
+    "https://hdl.loc.gov/loc.afc/afc96ran.45069",
+    "https://www.loc.gov/item/ncr000845/"
+  ],
+  "dct_issued_s": "1978-07-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:afc:afc1991021:afc1991021_45069/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/ncr000845/\"}",
+  "dct_rights_sm": [
+    "No known restrictions on use or reproduction."
+  ],
+  "dct_subject_sm": [
+    "Army camps",
+    "Camp Winfield Scott",
+    "Ethnography",
+    "Fort Scott Ranch",
+    "Historic photos",
+    "Maps"
+  ],
+  "dct_temporal_sm": [
+    "1978-07-01"
+  ],
+  "dct_title_s": "Map of Camp Winfield Scott, 1870",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-ncr000845",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

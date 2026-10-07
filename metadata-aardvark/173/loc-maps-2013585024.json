@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotated in pencil on verso: 42.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Contributors: Pintado, Vicente Sebastián, 1774-1829",
+    "Described in: Vicente Sebastián Pintado, Surveyor General of Spanish West Florida, 1805-17 : the man and his maps / by John R. Hébert. Imago mundi, v. 39, pp. 50-72. 1987. p. 63, no. 14.",
+    "From the papers of Vicente Sebastián Pintado.",
+    "LC Luso-Hispanic World, 934",
+    "Pen-and-ink and pencil; unfinished.",
+    "Publication statement: [ca. 1805]",
+    "Shows area now part of East Feliciana and Saint Helena Parishes.",
+    "Shows area now part of East Feliciana and Saint Helena Parishes. Cadastral map. Title from John R. Hébert's list of maps. Pen-and-ink and pencil; unfinished. Watermarks: Budgen and fleur-de-lis in a shield surmounted by a crown over the letters GR. From the papers of Vicente Sebastián Pintado. Described in: Vicente Sebastián Pintado, Surveyor General of Spanish West Florida, 1805-17 : the man and his maps / by John R. Hébert. Imago mundi, v. 39, pp. 50-72. 1987. p. 63, no. 14. Annotated in pencil on verso: 42. LC Luso-Hispanic World, 934 Available also through the Library of Congress Web site as a raster image.",
+    "Title from John R. Hébert's list of maps.",
+    "Watermarks: Budgen and fleur-de-lis in a shield surmounted by a crown over the letters GR."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4013e.lh000934",
+    "http://lccn.loc.gov/2013585024",
+    "http://www.loc.gov/item/2013585024/",
+    "http://www.loc.gov/resource/g4013e.lh000934/",
+    "https://hdl.loc.gov/loc.gmd/g4013e.lh000934",
+    "https://search.catalog.loc.gov/instances/b3e6c9be-4e4b-5a67-8428-d415cd8af81f",
+    "https://www.loc.gov/item/2013585024/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4013/g4013e/lh000934.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013585024/\"}",
+  "dct_spatial_sm": [
+    "east feliciana parish",
+    "louisiana",
+    "saint helena parish",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "East Feliciana Parish (La.)--Maps",
+    "Manuscript maps",
+    "Real property--Louisiana--East Feliciana Parish--Maps",
+    "Real property--Louisiana--Saint Helena Parish--Maps",
+    "Saint Helena Parish (La.)--Maps",
+    "United States--Louisiana--East Feliciana Parish",
+    "United States--Louisiana--Saint Helena Parish"
+  ],
+  "dct_temporal_sm": [
+    "1805",
+    "[ca. 1805]"
+  ],
+  "dct_title_s": "[Map of area of Spanish West Florida bounded by the Comite River on the west and the Amite River on the east]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013585024",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

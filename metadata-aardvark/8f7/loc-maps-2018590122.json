@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Barker, W. (William), active 1795-1803, engraver; Carey, Mathew, 1760-1839; Carey, Mathew, 1760-1839, cartographer",
+    "LC copy trimmed to neat lines.",
+    "Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, 40",
+    "Prime meridian: Philadelphia.",
+    "Prime meridian: Philadelphia. LC copy trimmed to neat lines. Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, 40 Wheat, J.C. Maps and charts published in America before 1800, 483 Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Philadelphia] : [Mathew Carey], [1795?]",
+    "Wheat, J.C. Maps and charts published in America before 1800, 483"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3830.ct006087",
+    "http://hdl.loc.gov/loc.gmd/g3830.ct006088",
+    "http://hdl.loc.gov/loc.gmd/g3830.ct006090",
+    "http://hdl.loc.gov/loc.gmd/g3830.tr000040",
+    "http://lccn.loc.gov/2018590122",
+    "http://www.loc.gov/item/2018590122/",
+    "http://www.loc.gov/resource/g3830.ct006087/",
+    "http://www.loc.gov/resource/g3830.ct006088/",
+    "http://www.loc.gov/resource/g3830.ct006090/",
+    "http://www.loc.gov/resource/g3830.tr000040/",
+    "https://hdl.loc.gov/loc.gmd/g3830.ct006087",
+    "https://hdl.loc.gov/loc.gmd/g3830.ct006088",
+    "https://hdl.loc.gov/loc.gmd/g3830.ct006090",
+    "https://hdl.loc.gov/loc.gmd/g3830.tr000040",
+    "https://search.catalog.loc.gov/instances/34a2912b-c10d-547d-b8de-56bb38b66a21",
+    "https://www.loc.gov/item/2018590122/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd383/g3830/g3830/tr000040.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018590122/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware--Maps--Early works to 1800",
+    "United States--Delaware"
+  ],
+  "dct_temporal_sm": [
+    "1795",
+    "[Philadelphia] : [Mathew Carey], [1795?]"
+  ],
+  "dct_title_s": "Delaware from the best authorities",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018590122",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

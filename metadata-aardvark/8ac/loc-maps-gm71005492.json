@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bonne, Rigobert, 1727-1794; Lattré, Jean",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. In upper margin: XXXIV. Theatre de la guerre en Amerique. A 32. Scale ca. 1:10,300,000. Available also through the Library of Congress Web site as a raster image. LC copy annotated in black ink: 42. Vault AACR2",
+    "In upper margin: XXXIV. Theatre de la guerre en Amerique. A 32.",
+    "LC copy annotated in black ink: 42.",
+    "Publication statement: Paris, Chez Lattré, 1779.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:10,300,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar016500",
+    "http://lccn.loc.gov/gm71005492",
+    "http://www.loc.gov/item/gm71005492/",
+    "http://www.loc.gov/resource/g3300.ar016500/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar016500",
+    "https://search.catalog.loc.gov/instances/814b7fae-4604-5ee1-94eb-9028f94b5575",
+    "https://www.loc.gov/item/gm71005492/"
+  ],
+  "dct_issued_s": "1779",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar016500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005492/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "North America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1779"
+  ],
+  "dct_title_s": "Théatre de la guerre en Amerique, avec les Isles Antilles; projetté et assujettie aux observations,",
+  "gbl_dateRange_drsim": [
+    "[1779 TO 1779]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1779
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005492",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

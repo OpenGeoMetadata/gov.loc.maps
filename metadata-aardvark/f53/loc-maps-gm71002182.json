@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Carte Générale de l'Océan Atlantique ou Occidental (General map of the Atlantic or Western Ocean) is a Mercator projection map created in 1792 by the French marine cartographic office under government order. It was made to serve the needs of French vessels. The map is a nautical chart that shows exact latitude and longitude in the Western Ocean (North Atlantic) down to the Equator, with the prime meridian running through Paris and all other longitudinal readings calibrated accordingly. Water depth is shown by soundings. This map may have been used by a particular ship on a voyage from France to the Caribbean, as a red line indicates a course from Brest to Fort-Dauphin (present-day Fort-Liberté, Haiti) over the space of five weeks. Numerous cities, towns, islands, and geographical features are indicated on both sides of the Atlantic, from eastern North America to the Caribbean and northeastern South America, and from Western Europe to West Africa. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "\"No. 20.\"",
+    "AACR2: 110; 440; 651/1; 650/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: France. Dépôt des cartes et plans de la marine",
+    "Depths shown by soundings.",
+    "LC copy annotated in red to plot voyage from Brest to \"F. Dauphin\" in Haiti.",
+    "Mercator projection.",
+    "Prime meridian: Paris.",
+    "Publication statement: [Paris, 1792]",
+    "Scale ca. 1:12,000,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g9110.ct001242",
+    "http://lccn.loc.gov/gm71002182",
+    "http://www.loc.gov/item/gm71002182/",
+    "http://www.loc.gov/resource/g9110.ct001242/",
+    "https://hdl.loc.gov/loc.gmd/g9110.ct001242",
+    "https://search.catalog.loc.gov/instances/46627685-d6d4-56a4-a1eb-d0fd0e7466ba",
+    "https://www.loc.gov/item/gm71002182/"
+  ],
+  "dct_issued_s": "1792",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd9/g9110/g9110/ct001242.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002182/\"}",
+  "dct_spatial_sm": [
+    "north atlantic ocean"
+  ],
+  "dct_subject_sm": [
+    "Nautical charts--North Atlantic Ocean--Early works to 1800",
+    "North Atlantic Ocean",
+    "North Atlantic Ocean--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1792"
+  ],
+  "dct_title_s": "Carte générale de l'Océan Atlantique ou Occidental,",
+  "gbl_dateRange_drsim": [
+    "[1792 TO 1792]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1792
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002182",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

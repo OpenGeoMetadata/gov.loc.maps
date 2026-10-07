@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Appalachian Ranger District (N.C.)",
+    "Includes list of trails, text, inset, location map, index to topographic maps, and col. ill.",
+    "Publication statement: Atlanta, : Forest Service, [2003]",
+    "Relief from contours and spot heights.",
+    "Relief from contours and spot heights. Title from panel. Includes list of trails, text, inset, location map, index to topographic maps, and col. ill. Available also through the Library of Congress Web site as a raster image.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2007632719",
+    "http://www.loc.gov/item/2007632719/",
+    "http://www.loc.gov/resource/g3902p.ct009691/",
+    "https://hdl.loc.gov/loc.gmd/g3902p.ct009691",
+    "https://search.catalog.loc.gov/instances/f5fc3f93-fade-525b-ba77-ac87cdecf35b",
+    "https://www.loc.gov/item/2007632719/"
+  ],
+  "dct_issued_s": "2003",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902p/ct009691.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007632719/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "pisgah national forest",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Trails--North Carolina--Pisgah National Forest--Maps",
+    "United States--North Carolina--Pisgah National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_title_s": "South Toe River, Mount Mitchell & Big Ivy Trail maps, North Carolina",
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007632719",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

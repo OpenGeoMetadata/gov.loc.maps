@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Geologic map of the Ogden quadrangle, Interim geologic map"
+  ],
+  "dct_description_sm": [
+    "\"Project manager: Douglas A. Sprinkel ; GIS and cartography: Zachary W. Anderson and J. Buck Ehler.\"",
+    "Contributors: Coogan, James C., cartographer.; King, Jonathan K., creator.; Utah Geological Survey. publisher.",
+    "Includes bibliographical references (pages 95-112).",
+    "Includes lithologic columns and cross sections.",
+    "Publication statement: Salt Lake City, Utah : Utah Geological Survey, 2016.",
+    "Relief shown by contours.",
+    "Relief shown by contours. Includes bibliographical references (pages 95-112). \"Project manager: Douglas A. Sprinkel ; GIS and cartography: Zachary W. Anderson and J. Buck Ehler.\" Includes lithologic columns and cross sections."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2017590378",
+    "http://ugspub.nr.utah.gov/publications/open_file_reports/ofr-653.pdf",
+    "http://www.loc.gov/item/2017590378/",
+    "https://www.loc.gov/item/2017590378/"
+  ],
+  "dct_issued_s": "2016",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2017590378/\"}",
+  "dct_spatial_sm": [
+    "ogden region",
+    "ogden valley",
+    "utah",
+    "wyoming"
+  ],
+  "dct_subject_sm": [
+    "Geology--Utah--Maps",
+    "Geology--Utah--Ogden Region--Maps",
+    "Geology--Utah--Ogden Valley--Maps",
+    "Geology--Wyoming--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_title_s": "Interim geologic map of the Ogden 30ʹx60ʹ quadrangle, Box Elder, Cache, Davis, Morgan, Rich, and Summit Counties, Utah, and Uinta County, Wyoming",
+  "gbl_dateRange_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017590378",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Description of map of battlefield\" is printed below the map.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Wade (Jennie) Museum",
+    "Description derived from published bibliography.",
+    "In its Gettysburg in paragraph with map. Gettysburg, Jennie Wade Museum [19-?]",
+    "In its Gettysburg in paragraph with map. Gettysburg, Jennie Wade Museum [19-?] Map indicates avenues, public roads, turnpikes, railroad, drainage, woodland, houses, and names of residents. Troop positions are not depicted. \"Description of map of battlefield\" is printed below the map. Description derived from published bibliography. Scale ca. 1:23,700. LC Civil War Maps (2nd ed.), 352.8 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 352.8",
+    "Map indicates avenues, public roads, turnpikes, railroad, drainage, woodland, houses, and names of residents. Troop positions are not depicted.",
+    "Publication statement: [Gettysburg, 19--?]",
+    "Scale ca. 1:23,700."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822g.cw0352800",
+    "http://lccn.loc.gov/99448792",
+    "http://www.loc.gov/item/99448792/",
+    "http://www.loc.gov/resource/g3822g.cw0352800/",
+    "https://hdl.loc.gov/loc.gmd/g3822g.cw0352800",
+    "https://search.catalog.loc.gov/instances/7f2b77fc-e3c3-5691-b73d-37d09ae1a81c",
+    "https://www.loc.gov/item/99448792/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822g/cw0352800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448792/\"}",
+  "dct_spatial_sm": [
+    "gettysburg national military park",
+    "pennsylvania",
+    "pennyslvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gettysburg National Military Park (Pa.)--Maps",
+    "United States--Pennyslvania--Gettysburg National Military Park"
+  ],
+  "dct_temporal_sm": [
+    "19??",
+    "[Gettysburg, 19--?]"
+  ],
+  "dct_title_s": "Map of the battlefield of Gettysburg",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448792",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

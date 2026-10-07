@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2; 650/3; 650/4",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes \"Reference\" and \"Some remarks in sailing into this harbour.\"",
+    "LC Luso-Hispanic World, 371",
+    "LC Maps of North America, 1750-1789, 1844",
+    "Manuscript, pen-and-ink and watercolor, on tracing paper.",
+    "Publication statement: [1765?]",
+    "Relief shown pictorially. Soundings shown in fathoms.",
+    "Scale ca. 1:15,500.",
+    "Title on verso: Plan & chart, St. Jago de Cuba, 81.",
+    "Title on verso: Plan & chart, St. Jago de Cuba, 81. Manuscript, pen-and-ink and watercolor, on tracing paper. Relief shown pictorially. Soundings shown in fathoms. Includes \"Reference\" and \"Some remarks in sailing into this harbour.\" Scale ca. 1:15,500. LC Maps of North America, 1750-1789, 1844 LC Luso-Hispanic World, 371 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650/1; 651/2; 650/3; 650/4",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4922s.ar184400",
+    "http://lccn.loc.gov/73691504",
+    "http://www.loc.gov/item/73691504/",
+    "http://www.loc.gov/resource/g4922s.ar184400/",
+    "https://hdl.loc.gov/loc.gmd/g4922s.ar184400",
+    "https://search.catalog.loc.gov/instances/44f89232-210b-51d6-b295-52df57de5141",
+    "https://www.loc.gov/item/73691504/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4922/g4922s/ar184400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691504/\"}",
+  "dct_spatial_sm": [
+    "cuba",
+    "santiago bay",
+    "santiago de cuba",
+    "santiago de cuba bay"
+  ],
+  "dct_subject_sm": [
+    "Cuba--Santiago Bay",
+    "Cuba--Santiago de Cuba",
+    "Harbors--Cuba--Santiago de Cuba--Maps--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "Nautical charts--Cuba--Santiago de Cuba Bay--Early works to 1800",
+    "Santiago de Cuba Bay (Cuba)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1765",
+    "[1765?]"
+  ],
+  "dct_title_s": "A Sketch of the harbour of St. Iago de Cuba",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691504",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

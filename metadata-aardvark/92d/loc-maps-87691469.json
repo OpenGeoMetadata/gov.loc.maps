@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows block numbers and public lands.",
+    "Also shows block numbers and public lands. Oriented with north toward the upper left. Indexed for points of interest. Available also through the Library of Congress Web site as a raster image. LC copy lacks corner section. DCP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Norris Peters Co; Office of the Engineer Commissioner D.C.",
+    "DCP",
+    "Indexed for points of interest.",
+    "LC copy lacks corner section.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Washington? : s.n.], 1914"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004484",
+    "http://lccn.loc.gov/87691469",
+    "http://www.loc.gov/item/87691469/",
+    "http://www.loc.gov/resource/g3850.ct004484/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004484",
+    "https://search.catalog.loc.gov/instances/773af65d-b61e-5c5f-a362-423799e6208f",
+    "https://www.loc.gov/item/87691469/"
+  ],
+  "dct_issued_s": "1914",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004484.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691469/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "dct_title_s": "Map of the permanent system of highways, District of Columbia",
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1914
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87691469",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

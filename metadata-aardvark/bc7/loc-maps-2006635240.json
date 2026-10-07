@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Gridley, sc.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Carey, Mathew, 1760-1839; Gridley, Enoch G.",
+    "From: Carey's General atlas, 1818.",
+    "Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, 42",
+    "Prime meridian: Philadelphia and London.",
+    "Publication statement: [S.l., 1818?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. \"Gridley, sc.\" From: Carey's General atlas, 1818. Prime meridian: Philadelphia and London. Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, 42 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3920.ct001898",
+    "http://lccn.loc.gov/2006635240",
+    "http://www.loc.gov/item/2006635240/",
+    "http://www.loc.gov/resource/g3920.ct001898/",
+    "https://hdl.loc.gov/loc.gmd/g3920.ct001898",
+    "https://search.catalog.loc.gov/instances/c27e2bac-f398-5b18-9987-25af18df3f91",
+    "https://www.loc.gov/item/2006635240/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3920/g3920/ct001898.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006635240/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--Maps",
+    "United States--Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1818",
+    "[S.l., 1818?]"
+  ],
+  "dct_title_s": "The state of Georgia",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006635240",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

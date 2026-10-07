@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Colby's atlas of Maine, 1886-7"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 2007-190",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bourquin, F. (Frederick), 1808-; Bracher, Wm. (William); Colby & Stuart; George N. Colby & Co",
+    "Copyright: 1884, Geo. N. Colby & Co.",
+    "Copyright: 1884, Geo. N. Colby & Co. Includes index, brief history of Maine, and statistics. Available also through the Library of Congress Web site as a raster image. Vendor: High Ridge Books Acquisitions control no. 2007-190",
+    "Includes index, brief history of Maine, and statistics.",
+    "Publication statement: Houlton, Me. : Colby & Stuart, 1887",
+    "Vendor: High Ridge Books"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3730m.gla00110",
+    "http://lccn.loc.gov/2007633507",
+    "http://www.loc.gov/item/2007633507/",
+    "http://www.loc.gov/resource/g3730m.gla00110/",
+    "https://hdl.loc.gov/loc.gmd/g3730m.gla00110",
+    "https://search.catalog.loc.gov/instances/d159e5c1-3b08-5a96-8ddb-33ed20e168c9",
+    "https://www.loc.gov/item/2007633507/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373m/g3730m/g3730m/gla00110/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007633507/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Counties--Maine--Maps",
+    "Maine--Directories",
+    "Maine--History",
+    "Maine--Maps",
+    "Maine--Statistics",
+    "United States--Maine"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "Colby's atlas of the state of Maine : including statistics and descriptions of its history, educational system, geology, rail roads, natural resources, summer resorts and manufacturing interests",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007633507",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

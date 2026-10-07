@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from USGS National atlas, 1970 edition.\"",
+    "\"Revised November 1989 1000220.\"",
+    "\"Revised November 1989 1000220.\" \"Base compiled from USGS National atlas, 1970 edition.\" \"Source: Data compiled by SCS field personnel.\" Includes index to soil and water conservation districts. Available also through the Library of Congress Web site as a raster image.",
+    "\"Source: Data compiled by SCS field personnel.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes index to soil and water conservation districts.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [Temple, Tex. : State Conservationist, distributor], 1990."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/92682543",
+    "http://www.loc.gov/item/92682543/",
+    "http://www.loc.gov/resource/g4031j.ct011281/",
+    "https://hdl.loc.gov/loc.gmd/g4031j.ct011281",
+    "https://search.catalog.loc.gov/instances/34e4cb8a-d3c3-53a2-9e6a-1d35ebc7e0bf",
+    "https://www.loc.gov/item/92682543/"
+  ],
+  "dct_issued_s": "1989",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4031/g4031j/ct011281.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92682543/\"}",
+  "dct_spatial_sm": [
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soil conservation districts--Texas--Maps",
+    "United States--Texas",
+    "United States.--Soil Conservation Service--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "dct_title_s": "SCS administrative divisions and offices, Texas",
+  "gbl_dateRange_drsim": [
+    "[1989 TO 1989]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1989
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92682543",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cottle County, Texas"
+  ],
+  "dct_description_sm": [
+    "\"Austin, Texas Aug 29th 1891. W.L. McGaughey Commissioner of the General Land Office.\"",
+    "\"Geo. D. Barnard & Co. Photo & Litho. St. Louis Mo.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: McGaughey, W. L.; Texas. General Land Office",
+    "LC Land ownership maps, 939",
+    "LC copies mounted on paper.",
+    "Publication statement: Austin, Tex. : Texas General Land Office, 1891.",
+    "Shows land ownership.",
+    "Shows land ownership. \"Austin, Texas Aug 29th 1891. W.L. McGaughey Commissioner of the General Land Office.\" \"Geo. D. Barnard & Co. Photo & Litho. St. Louis Mo.\" LC copies mounted on paper. LC Land ownership maps, 939 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033c.la000939",
+    "http://lccn.loc.gov/2012592045",
+    "http://www.loc.gov/item/2012592045/",
+    "http://www.loc.gov/resource/g4033c.la000939/",
+    "https://hdl.loc.gov/loc.gmd/g4033c.la000939",
+    "https://search.catalog.loc.gov/instances/4570ba75-af28-59a3-9f48-e573f3bc5f9b",
+    "https://www.loc.gov/item/2012592045/"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033c/la000939.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592045/\"}",
+  "dct_spatial_sm": [
+    "cottle county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cottle County (Tex.)--Maps",
+    "Landowners--Texas--Cottle County--Maps",
+    "Real property--Texas--Cottle County--Maps",
+    "United States--Texas--Cottle County"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "Cottle Co",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592045",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

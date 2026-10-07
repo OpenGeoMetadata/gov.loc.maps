@@ -1,0 +1,82 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Turquie d'Europe et partie de celle d'Asie divisée par grandes Provinces et Gouvernemts"
+  ],
+  "dct_description_sm": [
+    "\"Scale 1:3,700,000\"--Note extracted from World Digital Library.",
+    "Content in French.",
+    "Contributors: Janvier, Jean, flourished 1746-1782, Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National and University Library \"St Kliment Ohridski\" -- Skopje.",
+    "Original resource extent: 1 map ; 50 x 37 centimeters.",
+    "Publication statement: Paris : [publisher not identified], [1750 to 1759]",
+    "This mid-18th century French map shows the Balkan Peninsula, most of Anatolia (present-day Turkey), and the Mediterranean islands of Cyprus and Crete. The map bears the inscription \"Sr. Janvier\" (\"Le Sieur Janvier\"), a designation that refers to a cartographer active in Paris between 1746 and 1776 whose name was either Jean or Robert Janvier. The map offers a striking view of the European territories of the Ottoman Empire. Although past the peak of its power, the empire still controlled Albania, Bosnia, Bulgaria, Greece, Macedonia, Romania, and Serbia. The borders of these territories are demarcated by colored inks, and their names given in French. Countries bordering the Adriatic Sea (called the Gulf of Venice on the map) are shown, including parts of present-day Croatia that were then part of Venice, Dalmatia (also controlled by Venice at that time), and the Republic of Ragusa (present-day Dubrovnik, Croatia, and environs). Three distance scales are provided: Turkish miles, French leagues, and marine leagues.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668533",
+    "http://www.loc.gov/item/2021668533/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_11813/",
+    "http://www.loc.gov/resource/wdl.11813/",
+    "https://hdl.loc.gov/loc.wdl/wdl.11813",
+    "https://www.loc.gov/item/2021668533/"
+  ],
+  "dct_issued_s": "1750-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_11813.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/81/3/wdl_11813/wdl_11813.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:81:3:wdl_11813:KKR-18/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668533/\"}",
+  "dct_spatial_sm": [
+    "albania",
+    "bosnia and herzegovina",
+    "bulgaria",
+    "croatia",
+    "cyprus",
+    "former yugoslav republic of macedonia",
+    "greece",
+    "hungary",
+    "italy",
+    "romania",
+    "turkey"
+  ],
+  "dct_subject_sm": [
+    "1750 to 1759",
+    "Albania",
+    "Balkan Peninsula",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Former Yugoslav Republic of Macedonia",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Romania",
+    "Turkey"
+  ],
+  "dct_temporal_sm": [
+    "1750-01-01"
+  ],
+  "dct_title_s": "European Turkey and Part of Asian Turkey, Divided into Large Provinces and Governorships.",
+  "gbl_dateRange_drsim": [
+    "[1750 TO 1750]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1750
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668533",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

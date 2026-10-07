@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Europa exactissime descripta"
+  ],
+  "dct_description_sm": [
+    "\"Scale approximately 1:13,215,000\"--Note extracted from World Digital Library.",
+    "Content in Latin.",
+    "Contributors: Hondius, Hendrik, 1597-1651 Cartographer.; Louis XIII, King of France, 1601-1643 Dedicatee.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map : color ; 36 x 49 centimeters.",
+    "Publication statement: Amsterdam : Hendrik Hondius, 1620.",
+    "This decorative map of Europe dates from around 1620 and is by Hendrik Hondius (also seen as Henricus Hondius, 1597--1651). Hondius was the son of Jodocus Hondius (1563--1612), a Flemish cartographer and engraver who settled in Amsterdam around 1593 and established a business producing maps and atlases. He is known for reestablishing the rightful famous reputation of Gerardus Mercator. In 1604 Hondius acquired the plates for Mercator's world atlas and in 1606 published a new edition of this famous work. After their father's death in 1612, Henricus and his brother Jodocus carried on the family business. With his brother-in-law Johann Jansson, Henricus continued publication of what became known as the Mercator-Hondius atlas. Frisland, a mythical island near Iceland, appears on this and most charts of the North Atlantic from the 1560s until the 1660s. The map of Europe was completely redrawn and updated in later editions. It is decorated with two cartouches, pictures of animals including a pride of Barbary lions in North Africa, sailing ships, a sea monster, and trees. The cartouche at top right dedicates the map to \"Ludovico XIII Galliarum et Navarrae Regi Christianissimo Europe hanc Tabulam\" (The most Christian king of France and Navarre, Louis XIII).",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668709",
+    "http://www.loc.gov/item/2021668709/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_17586/",
+    "http://www.loc.gov/resource/wdl.17586/",
+    "https://hdl.loc.gov/loc.wdl/wdl.17586",
+    "https://www.loc.gov/item/2021668709/"
+  ],
+  "dct_issued_s": "1620-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_17586.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/17/58/6/wdl_17586/wdl_17586.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:58:6:wdl_17586:181/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668709/\"}",
+  "dct_subject_sm": [
+    "1620"
+  ],
+  "dct_temporal_sm": [
+    "1620-01-01"
+  ],
+  "dct_title_s": "Europe, Very Precisely Represented.",
+  "gbl_dateRange_drsim": [
+    "[1620 TO 1620]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1620
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668709",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

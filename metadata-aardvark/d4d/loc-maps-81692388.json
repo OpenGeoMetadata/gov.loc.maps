@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes text, ill., \"Glossary,\" and location maps.",
+    "Panel title: Off road vehicle use map, Cherokee National Forest, Tennessee.",
+    "Publication statement: [Atlanta, Ga.] : U.S. Dept. of Agriculture, Forest Service, Southern Region, 1981.",
+    "Relief shown by spot heights.",
+    "Relief shown by spot heights. Panel title: Off road vehicle use map, Cherokee National Forest, Tennessee. Includes text, ill., \"Glossary,\" and location maps. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81692388",
+    "http://www.loc.gov/item/81692388/",
+    "http://www.loc.gov/resource/g3962c.ct010550/",
+    "https://hdl.loc.gov/loc.gmd/g3962c.ct010550",
+    "https://search.catalog.loc.gov/instances/1598184e-af05-5ea1-91a9-dfd362e26c6b",
+    "https://www.loc.gov/item/81692388/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3962/g3962c/ct010550.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81692388/\"}",
+  "dct_spatial_sm": [
+    "cherokee national forest",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cherokee National Forest (Tenn.)--Maps",
+    "Off-road vehicles--Tennessee--Cherokee National Forest--Maps",
+    "United States--Tennessee--Cherokee National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Cherokee National Forest, Tennessee : off-road vehicle use map",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81692388",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

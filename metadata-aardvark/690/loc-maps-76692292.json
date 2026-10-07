@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Power, Wm. (William), active 18th century",
+    "LC Maps of North America, 1750-1789, 1305",
+    "Manuscript; pen and ink on printed form.",
+    "On lower half of sheet: In pursuance of an Act of the General Assembly of the State of Pennsylvania ... and by order of the Surveyor General ... I have surveyed ... 500 acres of land ... on the west side of the Allegheny River, in the county of Westmoreland. [Signed] Wm. Power D.S.",
+    "Publication statement: [1785]",
+    "Scale not given.",
+    "Title from verso.",
+    "Title from verso. Manuscript; pen and ink on printed form. On lower half of sheet: In pursuance of an Act of the General Assembly of the State of Pennsylvania ... and by order of the Surveyor General ... I have surveyed ... 500 acres of land ... on the west side of the Allegheny River, in the county of Westmoreland. [Signed] Wm. Power D.S. Scale not given. LC Maps of North America, 1750-1789, 1305 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823w.ar130500",
+    "http://lccn.loc.gov/76692292",
+    "http://www.loc.gov/item/76692292/",
+    "http://www.loc.gov/resource/g3823w.ar130500/",
+    "https://hdl.loc.gov/loc.gmd/g3823w.ar130500",
+    "https://search.catalog.loc.gov/instances/cb02716a-9b21-5a48-b482-73aec9dcf672",
+    "https://www.loc.gov/item/76692292/"
+  ],
+  "dct_issued_s": "1785",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823w/ar130500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76692292/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states",
+    "westmoreland county"
+  ],
+  "dct_subject_sm": [
+    "United States--Pennsylvania--Westmoreland County",
+    "Westmoreland County (Pa.)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1785"
+  ],
+  "dct_title_s": "Survey of lot no. 121 in district no.7",
+  "gbl_dateRange_drsim": [
+    "[1785 TO 1785]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1785
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76692292",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

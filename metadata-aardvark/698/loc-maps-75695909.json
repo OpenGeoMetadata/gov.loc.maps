@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Forest Service map class A.\"",
+    "\"Indian meridian and 5th principal meridian.\"",
+    "\"Polyconic projection.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes location map.",
+    "Publication statement: [Atlanta] 1964.",
+    "Relief shown by hachures and spot heights.",
+    "Relief shown by hachures and spot heights. \"Polyconic projection.\" \"Indian meridian and 5th principal meridian.\" \"Forest Service map class A.\" Includes location map. Scale ca. 1:63,360. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale ca. 1:63,360."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/75695909",
+    "http://www.loc.gov/item/75695909/",
+    "http://www.loc.gov/resource/g4002o.ct010929/",
+    "https://hdl.loc.gov/loc.gmd/g4002o.ct010929",
+    "https://search.catalog.loc.gov/instances/d3c9ddf0-2728-5787-952d-7fa4f8466abd",
+    "https://www.loc.gov/item/75695909/"
+  ],
+  "dct_issued_s": "1964",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4002/g4002o/ct010929.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75695909/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "oklahoma",
+    "ouachita national forest",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ouachita National Forest (Ark. and Okla.)--Maps",
+    "United States--Arkansas--Ouachita National Forest",
+    "United States--Oklahoma--Ouachita National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "dct_title_s": "Ouachita National Forest (Tiak Ranger District), Oklahoma",
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1964]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1964
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75695909",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

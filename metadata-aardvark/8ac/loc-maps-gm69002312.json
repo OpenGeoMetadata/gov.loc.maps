@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co",
+    "Includes 3 insets.",
+    "Includes 3 insets. Scale 1:1,267,000; miles 20 to 1 in. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: New York, 1886.",
+    "Scale 1:1,267,000; miles 20 to 1 in."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3790.ct006402",
+    "http://lccn.loc.gov/gm69002312",
+    "http://www.loc.gov/item/gm69002312/",
+    "http://www.loc.gov/resource/g3790.ct006402/",
+    "https://hdl.loc.gov/loc.gmd/g3790.ct006402",
+    "https://search.catalog.loc.gov/instances/0ac47c7f-2ddc-52b3-bff7-22dc8fc804ba",
+    "https://www.loc.gov/item/gm69002312/"
+  ],
+  "dct_issued_s": "1886",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd379/g3790/g3790/ct006402.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm69002312/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Middle Atlantic States--Maps",
+    "United States--Middle Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "dct_title_s": "Colton's Delaware, Maryland, Virginia and West Virginia",
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1886]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1886
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm69002312",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

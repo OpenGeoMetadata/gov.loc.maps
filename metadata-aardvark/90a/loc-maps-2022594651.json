@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Massachusetts title collection--Boston subjects vicinity 1950-1964",
+    "Alternate supplied title: Massachusetts title collection--drawer 75"
+  ],
+  "dct_description_sm": [
+    "Publication statement: [Various places] : [various publishers], [1950-1964]",
+    "This record covers single maps of the Boston region, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and may also include some multi-sheet single maps, and plates from atlases, books or periodicals. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "Title supplied by cataloger.",
+    "Title supplied by cataloger. This record covers single maps of the Boston region, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and may also include some multi-sheet single maps, and plates from atlases, books or periodicals. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022594651",
+    "http://www.loc.gov/item/2022594651/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ma-075/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ma-075",
+    "https://search.catalog.loc.gov/instances/d59a6971-7446-5f07-8944-7a86736ca1c8",
+    "https://www.loc.gov/item/2022594651/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ma:-0:75:ma-075:ma-075-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022594651/\"}",
+  "dct_spatial_sm": [
+    "boston metropolitan area",
+    "boston region",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Massachusetts--Boston Metropolitan Area--Maps",
+    "Massachusetts--Boston Region--Maps",
+    "United States--Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1950/1964"
+  ],
+  "dct_title_s": "[Maps of Massachusetts--Boston subjects vicinity 1950-1964]",
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1964]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022594651",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

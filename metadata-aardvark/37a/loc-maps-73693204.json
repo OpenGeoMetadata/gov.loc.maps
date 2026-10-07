@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 527.1 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 710/1",
+    "Contributors: Beck & Pauli; Fowler & Evans; Fowler, T. M. (Thaddeus Mortimer), 1842-1922",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 527.1",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Asbury Park, N.J., Fowler & Evans [1882]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814s.pm005271",
+    "http://lccn.loc.gov/73693204",
+    "http://www.loc.gov/item/73693204/",
+    "http://www.loc.gov/resource/g3814s.pm005271/",
+    "https://hdl.loc.gov/loc.gmd/g3814s.pm005271",
+    "https://search.catalog.loc.gov/instances/6ad4a24e-0f69-5dd8-a98a-86e0cf2a217e",
+    "https://www.loc.gov/item/73693204/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814s/pm005271.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693204/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "somerville",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Somerville (N.J.)--Maps",
+    "United States--New Jersey--Somerville"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Somerville, New Jersey 1882",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693204",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

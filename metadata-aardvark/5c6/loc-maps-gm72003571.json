@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2; 650/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Imperfect: Edges torn.",
+    "LC Maps of North America, 1750-1789, 1261",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Imperfect: Edges torn. Shows rivers, roads, and bridges of Monmouth and Ocean counties. Scale ca. 1:80,000; 100 chains to 1 in. LC Maps of North America, 1750-1789, 1261 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1; 651/2; 650/3",
+    "Publication statement: [177-?]",
+    "Scale ca. 1:80,000; 100 chains to 1 in.",
+    "Shows rivers, roads, and bridges of Monmouth and Ocean counties.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3813m.ar126100",
+    "http://lccn.loc.gov/gm72003571",
+    "http://www.loc.gov/item/gm72003571/",
+    "http://www.loc.gov/resource/g3813m.ar126100/",
+    "https://hdl.loc.gov/loc.gmd/g3813m.ar126100",
+    "https://search.catalog.loc.gov/instances/057e9836-ec98-5b96-a330-42db953e1466",
+    "https://www.loc.gov/item/gm72003571/"
+  ],
+  "dct_issued_s": "1770",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3813/g3813m/ar126100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm72003571/\"}",
+  "dct_spatial_sm": [
+    "monmouth county",
+    "new jersey",
+    "ocean county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps--Early works to 1800",
+    "Roads--New Jersey--Monmouth County--Maps--Early works to 1800",
+    "Roads--New Jersey--Ocean County--Maps--Early works to 1800",
+    "United States--New Jersey--Monmouth County",
+    "United States--New Jersey--Ocean County"
+  ],
+  "dct_temporal_sm": [
+    "1770"
+  ],
+  "dct_title_s": "Part of New Jersey",
+  "gbl_dateRange_drsim": [
+    "[1770 TO 1770]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1770
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm72003571",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Reduced in size from the two-page Map as it appears in the Standard Guide.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Foster & Reynolds (Washington, D.C.)",
+    "Covers central Washington.",
+    "Covers central Washington. Panel title: Information, what to see in Washington : there is also herein a map of Washington. \"Reduced in size from the two-page Map as it appears in the Standard Guide.\" Includes text, ill., and advertisements. Text and ill. on verso. Available also through the Library of Congress Web site as a raster image. DCP",
+    "DCP",
+    "Includes text, ill., and advertisements.",
+    "Panel title: Information, what to see in Washington : there is also herein a map of Washington.",
+    "Publication statement: [Washington] : Foster & Reynolds, c1906.",
+    "Text and ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004466",
+    "http://lccn.loc.gov/87691450",
+    "http://www.loc.gov/item/87691450/",
+    "http://www.loc.gov/resource/g3850.ct004466/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004466",
+    "https://search.catalog.loc.gov/instances/253adb90-0c2f-5f00-8654-82fa9de1a6fd",
+    "https://www.loc.gov/item/87691450/"
+  ],
+  "dct_issued_s": "1906",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004466.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691450/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Central business districts--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "dct_title_s": "Standard Guide ready reference map of Washington",
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1906
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87691450",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

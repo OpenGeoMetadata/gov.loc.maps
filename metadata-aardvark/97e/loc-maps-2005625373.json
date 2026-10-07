@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: August Gast & Co; Texas. General Land Office",
+    "LC Land ownership maps, 984",
+    "Publication statement: St. Louis : August Gast & Co., 1879.",
+    "Shows landownership.",
+    "Shows landownership. LC Land ownership maps, 984 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033g.la000984",
+    "http://lccn.loc.gov/2005625373",
+    "http://www.loc.gov/item/2005625373/",
+    "http://www.loc.gov/resource/g4033g.la000984/",
+    "https://hdl.loc.gov/loc.gmd/g4033g.la000984",
+    "https://search.catalog.loc.gov/instances/fa57f552-76f1-5040-a412-58e6acf2eabf",
+    "https://www.loc.gov/item/2005625373/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033g/la000984.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625373/\"}",
+  "dct_spatial_sm": [
+    "gillespie county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gillespie County (Tex.)--Maps",
+    "Landowners--Texas--Gillespie County--Maps",
+    "Real property--Texas--Gillespie County--Maps",
+    "United States--Texas--Gillespie County"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Gillespie County [Texas]",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625373",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

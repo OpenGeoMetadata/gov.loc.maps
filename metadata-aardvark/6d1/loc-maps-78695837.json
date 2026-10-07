@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base map from FIARBC Maps, revised October 1954.\"",
+    "\"Note-Existing stations shown as of December 31, 1953.\"",
+    "\"Note-Existing stations shown as of December 31, 1953.\" \"Base map from FIARBC Maps, revised October 1954.\" \"Plate no. 2.\" Scale ca. 1:2,900,000. Available also through the Library of Congress Web site as a raster image. AACR2: 110; 650/1; 650/2",
+    "\"Plate no. 2.\"",
+    "AACR2: 110; 650/1; 650/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Publication statement: Austin, Tex. : The Survey, [1954?].",
+    "Scale ca. 1:2,900,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/78695837",
+    "http://www.loc.gov/item/78695837/",
+    "http://www.loc.gov/resource/g4052a.ct011686/",
+    "https://hdl.loc.gov/loc.gmd/g4052a.ct011686",
+    "https://search.catalog.loc.gov/instances/8b6be22e-c8a5-58f0-be3f-c1c2cfbdb078",
+    "https://www.loc.gov/item/78695837/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4052/g4052a/ct011686.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78695837/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "arkansas river watershed",
+    "louisiana",
+    "missouri",
+    "red river watershed",
+    "texas",
+    "united states",
+    "white river watershed"
+  ],
+  "dct_subject_sm": [
+    "Hydrological stations--Arkansas River Watershed--Maps",
+    "Hydrological stations--Red River Watershed (Tex.-La.)--Maps",
+    "Hydrological stations--White River Watershed, Ark. and Mo.--Maps",
+    "United States--Arkansas River Watershed",
+    "United States--Arkansas--Red River Watershed",
+    "United States--Arkansas--White River Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1954",
+    "Austin, Tex. : The Survey, [1954?]."
+  ],
+  "dct_title_s": "Arkansas-White-Red River basins, hydrologic data program, discharge, suspended sediment, and chemical quality stations",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78695837",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

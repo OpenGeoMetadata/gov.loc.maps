@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "3943 U.S. Copyright Office",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Iowa Railroad",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 436",
+    "Map of the midwestern states showing drainage, township and counties, land grants, railroads with named lines. Includes geographical description and advertising.",
+    "Publication statement: New York, 1871.",
+    "Scale Entered according to act of Congress in the year 1857 1:1,250,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4061p.rr004360",
+    "http://lccn.loc.gov/98688687",
+    "http://www.loc.gov/item/98688687/",
+    "http://www.loc.gov/resource/g4061p.rr004360/",
+    "https://hdl.loc.gov/loc.gmd/g4061p.rr004360",
+    "https://search.catalog.loc.gov/instances/31080422-b5b0-5e59-8698-9f4cfaa1717d",
+    "https://www.loc.gov/item/98688687/"
+  ],
+  "dct_issued_s": "1871",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd406/g4061/g4061p/rr004360.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688687/\"}",
+  "dct_spatial_sm": [
+    "middle west",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Iowa Railroad",
+    "Railroad land grants--Middle West--Maps",
+    "Railroads--Middle West--Maps",
+    "United States--Middle West"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "dct_title_s": "Map showing location of lands belonging to the Iowa Rail Road Land Company Iowa Falls, and Sioux City R.R. Land Company Sioux City, and Pacific Land Company & Elkhorn Land Company, J. T. McAlvin, Del. I.R.R. Land Department, Cedar Rapids, Iowa, 1871",
+  "gbl_dateRange_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1871
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688687",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

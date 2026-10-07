@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Texas. General Land Office; Walsh, W. C. (William C.), 1836-1924",
+    "LC Land ownership maps, 958",
+    "LC Land ownership maps, 958 Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: St. Louis : A. Gast & Co., 1880."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033d.la000958",
+    "http://lccn.loc.gov/2009583506",
+    "http://www.loc.gov/item/2009583506/",
+    "http://www.loc.gov/resource/g4033d.la000958/",
+    "https://hdl.loc.gov/loc.gmd/g4033d.la000958",
+    "https://search.catalog.loc.gov/instances/fc431201-0515-5a33-a6f1-b8645aca44f4",
+    "https://www.loc.gov/item/2009583506/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033d/la000958.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009583506/\"}",
+  "dct_spatial_sm": [
+    "duval county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Duval County (Tex.)--Maps",
+    "Landowners--Texas--Duval County--Maps",
+    "Real property--Texas--Duval County--Maps",
+    "United States--Texas--Duval County"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Map of Duval Co",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009583506",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

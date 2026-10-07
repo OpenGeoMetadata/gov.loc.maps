@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte de Tartarie: dressée sur les Relations de plusieurs Voyageurs de différentes Nations et sur quelques Observations qui ont été faites dans ce pais la"
+  ],
+  "dct_description_sm": [
+    "\"Scale around 1:11,000,000\"--Note extracted from World Digital Library.",
+    "Content in French.",
+    "Contributors: Cóvens, Johannes, 1697-1774 Contributor.; L'Isle, Guillaume de, 1675-1726 Cartographer.; Mortier, Corneille, 1699-1783 Contributor.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : hand color ; 47 x 61 centimeters.",
+    "Publication statement: Amsterdam : Covens and Mortier, 1757.",
+    "The French cartographer Guillaume de l'Isle (1675-1726) was admitted into the French Académie Royale des Sciences when he was 27 years old and subsequently became the first person to receive the title Premier Géographe du Roi (principal geographer to the king). At the time de l'Isle was engaged in cartographic research, the prestige of a cartographer and the authority of his maps were gauged by the veracity of the cartographer's sources, i.e., the explorers and travelers who reported details of their travels to geographers and cartographers in Europe. De l'Isle's map covers much of Asia as well as portions of Scandinavia and of Russia east of the Ural Mountains. Vast areas depicted in the map, such as Siberia and the regions north of the Arctic Circle in Asia, were only visited by European explorers starting in the 17th century. Many of de l'Isle's maps were reissued by the publishing house of Cornelis Mortier and Johannes Coven in Amsterdam in their Atlas Nouveau, which was published in multiple editions, the earliest of which dates to 1733. The map shown here is a later version of a map that was published in 1706, during de l'Isle's lifetime. The map shows forested areas, drainage, and other natural features, as well as the Great Wall of China, roads, and political boundaries. Distance scales are given in French, Russian, Chinese, and Persian units of measurement. The decorative title cartouche features native male figures and horses.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668613",
+    "http://www.loc.gov/item/2021668613/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15038/",
+    "http://www.loc.gov/resource/wdl.15038/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15038",
+    "https://www.loc.gov/item/2021668613/"
+  ],
+  "dct_issued_s": "1757-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15038.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/03/8/wdl_15038/wdl_15038.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668613/\"}",
+  "dct_subject_sm": [
+    "1757",
+    "Library of Congress Afghanistan Project"
+  ],
+  "dct_temporal_sm": [
+    "1757-01-01"
+  ],
+  "dct_title_s": "Map of the Great Tartary. Established upon the Accounts of Several Travelers from Various Nations and Several Observations Made in that Country.",
+  "gbl_dateRange_drsim": [
+    "[1757 TO 1757]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1757
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668613",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

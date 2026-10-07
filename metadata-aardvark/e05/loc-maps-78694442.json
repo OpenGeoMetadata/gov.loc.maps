@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 700/2",
+    "Accompanied by: Index to the new plan of Philadelphia and adjoining districts, with references to find the streets, public buildings, etc. (vi, 44, 16 p. ; 15 cm.)",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Allen, William, active 19th century; Dawson, E. B.; Tanner, Henry Schenck, 1786-1858",
+    "Hand colored.",
+    "Hand colored. Relief shown by hachures. Shows wards and built-up. Indexed. Accompanied by: Index to the new plan of Philadelphia and adjoining districts, with references to find the streets, public buildings, etc. (vi, 44, 16 p. ; 15 cm.) Scale ca. 1:6,000. Available also through the Library of Congress Web site as a raster image. AACR2: 100; 651/1; 700/2",
+    "Indexed.",
+    "Publication statement: Philadelphia : H.S. Tanner, 1830.",
+    "Relief shown by hachures.",
+    "Scale ca. 1:6,000.",
+    "Shows wards and built-up."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824p.ct003972",
+    "http://lccn.loc.gov/78694442",
+    "http://www.loc.gov/item/78694442/",
+    "http://www.loc.gov/resource/g3824p.ct003972/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.ct003972",
+    "https://search.catalog.loc.gov/instances/a49ea803-ecb6-59a8-ac10-3483665be892",
+    "https://www.loc.gov/item/78694442/"
+  ],
+  "dct_issued_s": "1830",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ct003972.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78694442/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "philadelphia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Philadelphia (Pa.)--Maps",
+    "United States--Pennsylvania--Philadelphia"
+  ],
+  "dct_temporal_sm": [
+    "1830"
+  ],
+  "dct_title_s": "Plan of the city of Philadelphia and adjoining districts : shewing the existing and contemplated improvements",
+  "gbl_dateRange_drsim": [
+    "[1830 TO 1830]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1830
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78694442",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

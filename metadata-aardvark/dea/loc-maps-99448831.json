@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 3\" is printed below the map title and bar scales.",
+    "At head of title: U.S. Coast Survey.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Description derived from published bibliography.",
+    "From Message of the President of the United States, and accompanying documents, to the two houses of Congress, at the commencement of the first session of the thirty-ninth Congress.-Report of the Secretary of the Navy (Washington, Government Printing Office, 1865). fol. p. 256.",
+    "From Message of the President of the United States, and accompanying documents, to the two houses of Congress, at the commencement of the first session of the thirty-ninth Congress.-Report of the Secretary of the Navy (Washington, Government Printing Office, 1865). fol. p. 256. At head of title: U.S. Coast Survey. \"No. 3\" is printed below the map title and bar scales. Printed in upper left margin: 39th Cong. 1st sess.-Annual Report of the Secretary of the Navy. Map shows Battery Bee and forts Moultrie, Beauregard, and Marshall. Included are 21 profiles of the defensive works. A \"List of guns\" appears in the lower left corner. Description derived from published bibliography. Scale ca. 1:4000. LC Civil War Maps (2nd ed.), 384.7 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 384.7",
+    "Map shows Battery Bee and forts Moultrie, Beauregard, and Marshall. Included are 21 profiles of the defensive works. A \"List of guns\" appears in the lower left corner.",
+    "Printed in upper left margin: 39th Cong. 1st sess.-Annual Report of the Secretary of the Navy.",
+    "Publication statement: [Washington, Government Printing Office, 1865]",
+    "Scale ca. 1:4000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3912s.cw0384700",
+    "http://lccn.loc.gov/99448831",
+    "http://www.loc.gov/item/99448831/",
+    "http://www.loc.gov/resource/g3912s.cw0384700/",
+    "https://hdl.loc.gov/loc.gmd/g3912s.cw0384700",
+    "https://search.catalog.loc.gov/instances/4cc61c20-5885-5638-848e-f6dc2c0e829d",
+    "https://www.loc.gov/item/99448831/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3912/g3912s/cw0384700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448831/\"}",
+  "dct_spatial_sm": [
+    "south carolina",
+    "sullivan island",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fortification--South Carolina--Maps",
+    "United States--South Carolina--Sullivan Island"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Defences of Charleston S.C. Fortifications on Sullivan's Island",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448831",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

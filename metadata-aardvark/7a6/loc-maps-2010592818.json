@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotations in pencil and ink on some maps.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Consolidated Pub. Co. (Minneapolis, Minn.); E.P. Noll & Co; P.A. & J.W. Myers (Firm)",
+    "Includes indexes.",
+    "LeGear. Atlases of the United States, 5007",
+    "Map of city of Big Rapids folded and glued in between p. 20-21.",
+    "Map of city of Big Rapids folded and glued in between p. 20-21. Includes indexes. Annotations in pencil and ink on some maps. LeGear. Atlases of the United States, 5007 Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Minneapolis, Minn. : Consolidated Pub. Co., 1900"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4113mm.gla00197",
+    "http://lccn.loc.gov/2010592818",
+    "http://www.loc.gov/item/2010592818/",
+    "http://www.loc.gov/resource/g4113mm.gla00197/",
+    "https://hdl.loc.gov/loc.gmd/g4113mm.gla00197",
+    "https://search.catalog.loc.gov/instances/d4f77a37-d3fa-590d-8bc2-b5c502f31460",
+    "https://www.loc.gov/item/2010592818/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd411m/g4113m/g4113mm/gla00197/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010592818/\"}",
+  "dct_spatial_sm": [
+    "mecosta county",
+    "michigan",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Michigan--Mecosta County--Maps",
+    "Mecosta County (Mich.)--Directories",
+    "Mecosta County (Mich.)--Maps",
+    "Real property--Michigan--Mecosta County--Maps",
+    "United States--Michigan--Mecosta County"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Plat book of Mecosta County, Michigan",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010592818",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

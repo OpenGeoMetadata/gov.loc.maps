@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base map drainage modified 1974.\"",
+    "\"Lambert conformal conic projection based on standard parallels 33⁰ and 45⁰.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map \"Compiled in 1958. Edition of 1960.\"",
+    "Contributors: Geological Survey (U.S.); Water Resources Council (U.S.)",
+    "Includes text and table of hydrologic units.",
+    "Publication statement: Reston, Va., 1974.",
+    "Relief shown by spot heights.",
+    "Relief shown by spot heights. \"Lambert conformal conic projection based on standard parallels 33⁰ and 45⁰.\" \"Base map drainage modified 1974.\" Base map \"Compiled in 1958. Edition of 1960.\" Includes text and table of hydrologic units. Scale 1:500,000; 1 in. equals approx. 8 miles. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale 1:500,000; 1 in. equals approx. 8 miles."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3731c.ct005483",
+    "http://lccn.loc.gov/76695069",
+    "http://www.loc.gov/item/76695069/",
+    "http://www.loc.gov/resource/g3731c.ct005483/",
+    "https://hdl.loc.gov/loc.gmd/g3731c.ct005483",
+    "https://search.catalog.loc.gov/instances/d3d9590a-fb15-5f5f-87ba-3c3337df12a8",
+    "https://www.loc.gov/item/76695069/"
+  ],
+  "dct_issued_s": "1974",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3731/g3731c/ct005483.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76695069/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hydrology--Maine--Maps",
+    "United States--Maine"
+  ],
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "dct_title_s": "Hydrologic unit map--1974, State of Maine",
+  "gbl_dateRange_drsim": [
+    "[1974 TO 1974]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1974
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76695069",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

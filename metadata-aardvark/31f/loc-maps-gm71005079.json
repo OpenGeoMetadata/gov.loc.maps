@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "山海輿地全圖"
+  ],
+  "dct_description_sm": [
+    "\"Sankai yochi zenzu (A complete map of the mountains and oceans of the world) is a Japanese map of the world, created around 1785 by Sekisui Nagakubo (1717-1801). The map is based on the 1602 edition of Matteo Ricci's Great Universal Geographic Map in Chinese, first produced in 1584. It is a hand-colored wood-block print, showing the world's continents and seas, with relief shown pictorially. An alternative title, Chikyū bankoku sankai yochi zenzusetsu (A complete illustration of the globe, all the countries, and the mountains and oceans of the earth), appears at the head of the text on the top of the map. Nagakubo was an official, geographer, cartographer, and Confucian scholar, who in 1779 made the first Japanese map of the Japanese islands to use the Western system of longitudinal and latitudinal lines. Copies of Ricci's world map were very popular in Japan during the early 18th century, and several versions of it, with different scales and features, were produced by Nagakubo. Although by the late 18th century newer and more accurate world maps by Dutch cartographers were introduced to Japan, copies of Ricci's map remained in demand, in part because of conservative resistance to the use of double globes or hemispheres, which were employed in the newer maps.\" World Digital Library.",
+    "AACR2",
+    "At head of text: Chikyū bankoku sankai yochi zenzu setsu.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Based on Matteo Ricci's World map which was published in China in 1602.",
+    "Contributors: Nagakubo, Sekisui, 1717-1801; Ricci, Matteo, 1552-1610",
+    "Includes text.",
+    "Publication statement: Naniwa : Akitaya Taemon : Amiya Mohei, [1785?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:27,000,000 at the equator.",
+    "Shows continents and oceans of the world at about 1600.",
+    "Vault",
+    "Wood block print, hand colored."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct001813",
+    "http://lccn.loc.gov/gm71005079",
+    "http://www.loc.gov/item/gm71005079/",
+    "http://www.loc.gov/resource/g3200.ct001813/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct001813",
+    "https://search.catalog.loc.gov/instances/5e2ffeff-a67a-5570-897a-62f7dfdf94c6",
+    "https://www.loc.gov/item/gm71005079/"
+  ],
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct001813.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005079/\"}",
+  "dct_spatial_sm": [
+    "earth"
+  ],
+  "dct_subject_sm": [
+    "Earth"
+  ],
+  "dct_temporal_sm": [
+    "1785",
+    "Naniwa : Akitaya Taemon : Amiya Mohei, [1785?]"
+  ],
+  "dct_title_s": "Sankai yochi zenzu",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005079",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

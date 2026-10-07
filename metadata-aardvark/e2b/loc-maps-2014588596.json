@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Goos, Pieter, approximately 1616-1675",
+    "Includes illustrations.",
+    "Publication statement: t'Amsterdam : Gedruckt bij Pieter Goos, [approximately 1660]",
+    "Shows the west coast of North America from Belle Isle, Newfoundland, both coasts of South America, mediterranean Europe, and the east coast of Africa.",
+    "Shows the west coast of North America from Belle Isle, Newfoundland, both coasts of South America, mediterranean Europe, and the east coast of Africa. Includes illustrations. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3201p.ct004090",
+    "http://lccn.loc.gov/2014588596",
+    "http://www.loc.gov/item/2014588596/",
+    "http://www.loc.gov/resource/g3201p.ct004090/",
+    "https://hdl.loc.gov/loc.gmd/g3201p.ct004090",
+    "https://search.catalog.loc.gov/instances/876dd1ea-68e6-5733-bc29-b24cc78d0b5a",
+    "https://www.loc.gov/item/2014588596/"
+  ],
+  "dct_language_sm": [
+    "dut"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201p/ct004090.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2014588596/\"}",
+  "dct_spatial_sm": [
+    "earth",
+    "west indies"
+  ],
+  "dct_subject_sm": [
+    "Earth",
+    "West Indies",
+    "West Indies--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1660",
+    "t'Amsterdam : Gedruckt bij Pieter Goos, [approximately 1660]"
+  ],
+  "dct_title_s": "West-Indische paskaert waer in de graden der breedde over weder zijden vande middellijn wassende so vergrooten dat die geproportioneert sijn tegen hunne nevenstaende graden der lengde. vertonende behalve Europaes zuydelijcste alle de seekusten van Africa en America, begrepen in 't Octroy bij de H.M.H. Staten Generael der vereenigde Nederl. verleent aende Generale West Indische Compagnie",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2014588596",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

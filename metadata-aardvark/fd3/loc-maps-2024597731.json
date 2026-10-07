@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Sherburne, Jonathan W., -1830, cartographer",
+    "Depths shown by soundings.",
+    "Includes note.",
+    "Mounted on cloth in 2 parts.",
+    "Oriented with north toward left.",
+    "Pen-and-ink on tracing paper.",
+    "Publication statement: [South Carolina?] : [producer not identified], 1825.",
+    "Shows times of high water at full and change.",
+    "Shows times of high water at full and change. Depths shown by soundings. Oriented with north toward left. Title supplied by cataloger. Pen-and-ink on tracing paper. Stamped at lower right: U.S.C. and G. Survey, Library and Archives, acc. no 1823. Mounted on cloth in 2 parts. Includes note. Slight losses along right border. In ink on bordered blue label: 866 1825. Available also through the Library of Congress Web site as a raster image.",
+    "Slight losses along right border. In ink on bordered blue label: 866 1825.",
+    "Stamped at lower right: U.S.C. and G. Survey, Library and Archives, acc. no 1823.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597731",
+    "http://www.loc.gov/item/2024597731/",
+    "http://www.loc.gov/resource/g3912c.ct006896/",
+    "https://hdl.loc.gov/loc.gmd/g3912c.ct006896",
+    "https://search.catalog.loc.gov/instances/d02cfb4e-1d03-5fdf-b6cc-2308e0c437c3",
+    "https://www.loc.gov/item/2024597731/"
+  ],
+  "dct_issued_s": "1825",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd391:g3912:g3912c:ct006896/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597731/\"}",
+  "dct_spatial_sm": [
+    "charleston",
+    "charleston harbor",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Charleston (S.C.)--Maps",
+    "Charleston Harbor (S.C.)--Maps",
+    "United States--South Carolina--Charleston Harbor"
+  ],
+  "dct_temporal_sm": [
+    "1825"
+  ],
+  "dct_title_s": "[Manuscript map of the Charleston Harbor]",
+  "gbl_dateRange_drsim": [
+    "[1825 TO 1825]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1825
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597731",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

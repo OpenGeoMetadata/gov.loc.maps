@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-13,446.\"",
+    "\"Source: U.S.G.S. 1:500,000 Base Map.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Indexed for study areas.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1981.",
+    "Shows flood hazard and flood insurance study areas.",
+    "Shows flood hazard and flood insurance study areas. \"Source: U.S.G.S. 1:500,000 Base Map.\" Indexed for study areas. \"1-13,446.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3751c.ct005732",
+    "http://lccn.loc.gov/82690609",
+    "http://www.loc.gov/item/82690609/",
+    "http://www.loc.gov/resource/g3751c.ct005732/",
+    "https://hdl.loc.gov/loc.gmd/g3751c.ct005732",
+    "https://search.catalog.loc.gov/instances/a155b0c0-6bbd-5cb5-b5ab-7d417dd25d7c",
+    "https://www.loc.gov/item/82690609/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3751/g3751c/ct005732.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82690609/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Flood control--Vermont--Maps",
+    "Flood forecasting--Vermont--Maps",
+    "Flood insurance--Vermont--Maps",
+    "Floodplain management--Vermont--Maps",
+    "Floodplains--Vermont--Maps",
+    "United States--Vermont"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Flood plain management assistance program status as of October 1, 1981 : Vermont",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82690609",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

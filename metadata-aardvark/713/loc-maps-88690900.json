@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral survey map.",
+    "Cadastral survey map. India ink and watercolor. Soiled, fold-lined, and turn along fold lines. Includes notes and table of survey data. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "Contributors: Bouscaren, W. S.; Taggart, Hugh T. (Hugh Thomas), 1844-1914",
+    "DCP",
+    "Includes notes and table of survey data.",
+    "India ink and watercolor.",
+    "Publication statement: 1905.",
+    "Soiled, fold-lined, and turn along fold lines.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/88690900",
+    "http://www.loc.gov/item/88690900/",
+    "http://www.loc.gov/resource/g3852l.la002378/",
+    "https://hdl.loc.gov/loc.gmd/g3852l.la002378",
+    "https://search.catalog.loc.gov/instances/5e15544d-591a-52be-bd89-23704b170ad2",
+    "https://www.loc.gov/item/88690900/"
+  ],
+  "dct_issued_s": "1797",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852l/la002378.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690900/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "long meadows",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Campbell, William,--active 18th century--Estate--Maps--Early works to 1800",
+    "Long Meadows (Washington, D.C.)--Maps, Manuscript--Early works to 1800",
+    "Long Meadows (Washington, D.C.)--Surveys--Maps--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "Real property--Washington (D.C.)--Maps--Early works to 1800",
+    "Stoddert, Benjamin,--1751-1813--Estate--Maps--Early works to 1800",
+    "Stoddert, Rebecca--Estate--Maps--Early works to 1800",
+    "United States--District of Columbia--Washington--Long Meadows"
+  ],
+  "dct_temporal_sm": [
+    "1797"
+  ],
+  "dct_title_s": "Map of Long Meadows, embracing the re-survey of the Wilderness, Queen's Hazard, and parts of Inclosure, Grange, and Mure and Chance : as per deed recorded in liber B, folio 684, from Benjamin Stoddert and wife Rebecca to William Campbell : deed dated March 26th 1797, recorded April 20th 1797 : [N.E. Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1797 TO 1797]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1797
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690900",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

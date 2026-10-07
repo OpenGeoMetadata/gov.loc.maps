@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Contributors: Henry Seibert & Bros; Mosher, Stephen",
+    "Hand colored.",
+    "Hand colored. Cadastral map. Includes text, \"Guide map to Woodsburgh,\" col. illus., and advertisements. Available also through the Library of Congress Web site as a raster image. LC copy annotated in red ink.",
+    "Includes text, \"Guide map to Woodsburgh,\" col. illus., and advertisements.",
+    "LC copy annotated in red ink.",
+    "Publication statement: [N.p.] 1871."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804w.ct006685",
+    "http://lccn.loc.gov/77693693",
+    "http://www.loc.gov/item/77693693/",
+    "http://www.loc.gov/resource/g3804w.ct006685/",
+    "https://hdl.loc.gov/loc.gmd/g3804w.ct006685",
+    "https://search.catalog.loc.gov/instances/1d5df8a6-1161-5e2d-8b60-c2f63c862f95",
+    "https://www.loc.gov/item/77693693/"
+  ],
+  "dct_issued_s": "1871",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804w/ct006685.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77693693/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "woodsburgh"
+  ],
+  "dct_subject_sm": [
+    "United States--New York (State)--Woodsburgh",
+    "Woodsburgh, N.Y.--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "dct_title_s": "Map of Woodsburgh, Long Island",
+  "gbl_dateRange_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1871
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77693693",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

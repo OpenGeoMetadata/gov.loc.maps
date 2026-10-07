@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: International Soil Reference and Information Centre, cartographer",
+    "Dataset includes data files (105 GeoTIFFs).",
+    "Publication statement: Wageningen, Netherlands : ISRIC World Soil Information, 2019.",
+    "This dataset includes global soil salinity layers for the years 1986, 1992, 2000, 2002, 2005, 2009 and 2016. The maps were generated with a random forest classifier that was trained using seven soil properties maps, thermal infrared imagery and the ECe point data from the WoSIS database."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024586049",
+    "http://www.loc.gov/item/2024586049/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586049_1986/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586049_1992/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586049_2000/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586049_2002/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586049_2005/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586049_2009/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586049_2016/",
+    "https://data.isric.org/geonetwork/srv/api/records/c59d0162-a258-4210-af80-777d7929c512",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586049_1986",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586049_1992",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586049_2000",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586049_2002",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586049_2005",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586049_2009",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586049_2016",
+    "https://search.catalog.loc.gov/instances/be39a917-75d4-5276-bc08-bdb00b6f7a7d",
+    "https://www.loc.gov/item/2024586049/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2024586049/\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 International https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)",
+    "Soils, Salts in--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1986 d2016"
+  ],
+  "dct_title_s": "Global soil salinity map",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024586049",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

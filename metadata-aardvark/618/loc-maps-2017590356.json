@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Ephraim quadrangle, Utah, geologic map"
+  ],
+  "dct_description_sm": [
+    "\"Contains GIS files.\"",
+    "Contributors: Doelling, Hellmut H., 1930- creator.; Kuehne, Paul A., creator.; Sprinkel, Douglas A., creator.; Utah Geological Survey. cartographer.",
+    "Includes bibliographical references in text (pages 12-14).",
+    "Includes quadrangle location map, index map.",
+    "Plate 2 includes geologic symbols, correlation of units, lithologic column.",
+    "Project manager: Donald L. Clark ; GIS and cartography: Paul A. Kuehne and Lori J. Steadman.",
+    "Publication statement: Salt Lake City, Utah : Utah Geological Survey, 2016.",
+    "Relief shown by contours and spot heights.",
+    "System requirements: Adobe Acrobat reader. Specialized GIS software is required to use the GIS files.",
+    "This CD contains GIS files in ESRI file geodatabase and shapefile formats. Also included in PDF format are 2 plates -- a geologic map with an explanation plate -- and a 14 page booklet describing the geology of the quadrangle.",
+    "Title from disc surface."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2017590356",
+    "http://ugspub.nr.utah.gov/publications/geologicmaps/7-5quadrangles/m-275.pdf",
+    "http://www.loc.gov/item/2017590356/",
+    "https://www.loc.gov/item/2017590356/"
+  ],
+  "dct_issued_s": "2016",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2017590356/\"}",
+  "dct_spatial_sm": [
+    "ephraim",
+    "sanpete county",
+    "utah"
+  ],
+  "dct_subject_sm": [
+    "Geology--Utah--Ephraim--Maps",
+    "Geology--Utah--Sanpete County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_title_s": "Geologic map of the Ephraim quadrangle, Sanpete County, Utah",
+  "gbl_dateRange_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017590356",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

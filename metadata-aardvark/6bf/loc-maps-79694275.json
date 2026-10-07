@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Experimental printing.\"",
+    "\"Imagery recorded ... October 25, 1973.\"",
+    "\"Projection based on perspective image, 20,000-meter universal transverse Mercator grid ...\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); United States. National Aeronautics and Space Administration",
+    "Covers Sanibel Island region.",
+    "Includes text, location map, and index to topographic and satellite image map coverage.",
+    "Publication statement: Reston, Va. : The Survey, 1977.",
+    "Scale 1:500,000.",
+    "Title in lower right corner: Sanibel Island, N2557W08206, 1973.",
+    "Title in lower right corner: Sanibel Island, N2557W08206, 1973. \"Imagery recorded ... October 25, 1973.\" \"Projection based on perspective image, 20,000-meter universal transverse Mercator grid ...\" Covers Sanibel Island region. \"Experimental printing.\" Includes text, location map, and index to topographic and satellite image map coverage. Scale 1:500,000. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/79694275",
+    "http://www.loc.gov/item/79694275/",
+    "http://www.loc.gov/resource/g3932s.ct010330/",
+    "https://hdl.loc.gov/loc.gmd/g3932s.ct010330",
+    "https://search.catalog.loc.gov/instances/81bed3b9-ad3f-5aba-b1a0-483d1df60369",
+    "https://www.loc.gov/item/79694275/"
+  ],
+  "dct_issued_s": "1977",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3932/g3932s/ct010330.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79694275/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "sanibel island region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Sanibel Island Region (Fla.)--Remote-sensing maps",
+    "United States--Florida--Sanibel Island Region"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_title_s": "Sanibel Island, Florida, satellite image map : NASA LANDSAT-1, 1:500,000, N2557W08206",
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79694275",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

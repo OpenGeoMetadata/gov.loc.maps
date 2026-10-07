@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from USGS national atlas, 1970 edition.\"",
+    "\"July 1981 4-R-34844. Revised October 1976 Base 4-R-33577.\"",
+    "\"July 1981 4-R-34844. Revised October 1976 Base 4-R-33577.\" \"Base compiled from USGS national atlas, 1970 edition.\" \"Source: U.S. Census 1980. Texas 27.1% change, 1970 to 1980.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"Source: U.S. Census 1980. Texas 27.1% change, 1970 to 1980.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1981."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82692891",
+    "http://www.loc.gov/item/82692891/",
+    "http://www.loc.gov/resource/g4031e.ct011270/",
+    "https://hdl.loc.gov/loc.gmd/g4031e.ct011270",
+    "https://search.catalog.loc.gov/instances/1f97e8e0-26f8-5844-813e-ad55760dd76b",
+    "https://www.loc.gov/item/82692891/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4031/g4031e/ct011270.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82692891/\"}",
+  "dct_spatial_sm": [
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Texas--Population--Maps",
+    "United States--Texas"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Population changes, 1970-1980, Texas",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82692891",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

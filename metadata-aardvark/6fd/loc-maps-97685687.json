@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Fort Washington, Fort Washington Park, Maryland",
+    "Title on verso: Fort Washington, Fort Washington Park, Maryland"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 1997--417-648/60060. Reprint 1995.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Covers entire park.",
+    "Covers entire park. \"*GPO: 1997--417-648/60060. Reprint 1995.\" Panel title. Includes text and col. ill. Text, 2 maps of fort vicinity, map of \"British advance on Washington 1814,\" and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Includes text and col. ill.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1997]",
+    "Text, 2 maps of fort vicinity, map of \"British advance on Washington 1814,\" and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842f.ct008798",
+    "http://lccn.loc.gov/97685687",
+    "http://www.loc.gov/item/97685687/",
+    "http://www.loc.gov/resource/g3842f.ct008798/",
+    "https://hdl.loc.gov/loc.gmd/g3842f.ct008798",
+    "https://search.catalog.loc.gov/instances/6af57aab-5c48-5c2c-a5fd-a4b63cbb2fe5",
+    "https://www.loc.gov/item/97685687/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842f/ct008798.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97685687/\"}",
+  "dct_spatial_sm": [
+    "fort washington park",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Washington Park (Md.)--Maps",
+    "United States--Maryland--Fort Washington Park"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Fort Washington, Fort Washington Park, Maryland, official map and guide",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97685687",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

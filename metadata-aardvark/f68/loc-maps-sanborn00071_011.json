@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "1925 ; Republished 1956 Vol.3.",
+    "1925 ; Republished 1956 Vol.3. 48 sheet(s). 35 X 29cm. Bound. Other places as they appear on original: Chickasaw, Plateau, Prichard, Toulminville, Whistler.",
+    "35 X 29cm. Bound. Other places as they appear on original: Chickasaw, Plateau, Prichard, Toulminville, Whistler.",
+    "48 sheet(s).",
+    "Publication statement: Sanborn Map Company, 1925 ; Republished 1956 Vol.3"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3974mm.g3974mm_g00071195603",
+    "http://www.loc.gov/item/sanborn00071_011/",
+    "http://www.loc.gov/resource/g3974mm.g3974mm_g00071195603/",
+    "https://hdl.loc.gov/loc.gmd/g3974mm.g3974mm_g00071195603",
+    "https://www.loc.gov/item/sanborn00071_011",
+    "https://www.loc.gov/item/sanborn00071_011/",
+    "https://www.loc.gov/resource/g3974mm.g3974mm_g00071195603"
+  ],
+  "dct_issued_s": "1956",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn00071_011/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397m/g3974m/g3974mm/g3974mm_g00071195603/00071_03_1956-0000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn00071_011/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "alabama",
+    "chickasaw",
+    "mobile",
+    "mobile county",
+    "plateau",
+    "prichard",
+    "toulminville",
+    "united states",
+    "whistler"
+  ],
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Mobile, Mobile County, Alabama.",
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1956]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn00071_011",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

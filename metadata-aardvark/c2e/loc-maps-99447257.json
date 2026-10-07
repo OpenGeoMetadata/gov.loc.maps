@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Farragut, David Glasgow, 1801-1870; Weir, Robert, 1836-1905",
+    "Description derived from published bibliography.",
+    "Detailed map showing five positions and the tracks of the vessels during the sea battle, obstructions, channels, banks, and shoals.",
+    "Detailed map showing five positions and the tracks of the vessels during the sea battle, obstructions, channels, banks, and shoals. Includes small views of the \"Iron-clad Tennessee,\" Federal ship colliding with the Ram Tennessee, a vessel sailing past what appears to be Mobile Point, and a general view of the battle. Inset: [Diagram] showing points of collision of different vessels upon the Ram [Tennessee]. 19 x 15 cm. Description derived from published bibliography. Scale ca. 1:22,500. LC Civil War Maps (2nd ed.), 110 Available also through the Library of Congress web site as raster image.",
+    "Includes small views of the \"Iron-clad Tennessee,\" Federal ship colliding with the Ram Tennessee, a vessel sailing past what appears to be Mobile Point, and a general view of the battle.",
+    "Inset: [Diagram] showing points of collision of different vessels upon the Ram [Tennessee]. 19 x 15 cm.",
+    "LC Civil War Maps (2nd ed.), 110",
+    "Publication statement: N.Y. Lith. by Hatch & Co. 1864",
+    "Scale ca. 1:22,500."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3972m.cw0110000",
+    "http://lccn.loc.gov/99447257",
+    "http://www.loc.gov/item/99447257/",
+    "http://www.loc.gov/resource/g3972m.cw0110000/",
+    "https://hdl.loc.gov/loc.gmd/g3972m.cw0110000",
+    "https://search.catalog.loc.gov/instances/aa8d941b-9dbe-5c0d-958e-7eea3e3bbdd8",
+    "https://www.loc.gov/item/99447257/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3972/g3972m/cw0110000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447257/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "mobile bay region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mobile Bay Region (Ala.)--History--Civil War, 1861-1865--Maps",
+    "United States--Alabama--Mobile Bay Region"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Chart showing the entrance of Rear Admiral Farragut into Mobile Bay. 5th of August 1864",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447257",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

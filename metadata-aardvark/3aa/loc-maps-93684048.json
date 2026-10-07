@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from USGS base map.\"",
+    "\"Base compiled from USGS base map.\" \"October 1975 4-R-35241.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"October 1975 4-R-35241.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartography and Geographic Information Systems Center (U.S.); United States. Soil Conservation Service",
+    "Publication statement: Fort Worth, TX. : USDA-SCS-National Cartography & GIS Center, 1993."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3861j.ct008847",
+    "http://lccn.loc.gov/93684048",
+    "http://www.loc.gov/item/93684048/",
+    "http://www.loc.gov/resource/g3861j.ct008847/",
+    "https://hdl.loc.gov/loc.gmd/g3861j.ct008847",
+    "https://search.catalog.loc.gov/instances/95e7e86f-deb6-5e5c-89ee-3618e3205f64",
+    "https://www.loc.gov/item/93684048/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3861/g3861j/ct008847.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93684048/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Agricultural geography--Southern States--Maps",
+    "Physical geography--Southern States--Maps",
+    "Soil moisture--Southern States--Maps",
+    "Soil temperature--Southern States--Maps",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "Soil moisture regime and soil temperature regime, South Technical Service Center area",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93684048",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Doolittle, Amos, 1754-1832, engraver; Porter, Augustus, 1769-1849, cartographer",
+    "LC copy annotated in bottom right corner: Note. The plate of this map was engraved in the winter of 1794 & the many improvements since made are not noticed.",
+    "List of maps of America in the Library of Congress, page 640",
+    "Publication statement: [New Haven, Conn.?] : [publisher not identified], [1794]",
+    "Shows the survey of the purchase divided into ranges and townships.",
+    "Wheat, J.C. Maps and charts published in America before 1800, 361",
+    "vcFY24",
+    "vcFY24 Shows the survey of the purchase divided into ranges and townships. LC copy annotated in bottom right corner: Note. The plate of this map was engraved in the winter of 1794 & the many improvements since made are not noticed. Wheat, J.C. Maps and charts published in America before 1800, 361 List of maps of America in the Library of Congress, page 640 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597373",
+    "http://www.loc.gov/item/2024597373/",
+    "http://www.loc.gov/resource/g3803o.ct005657/",
+    "https://hdl.loc.gov/loc.gmd/g3803o.ct005657",
+    "https://search.catalog.loc.gov/instances/0b7551a9-c847-5c5d-93cb-58c18fc6c907",
+    "https://www.loc.gov/item/2024597373/"
+  ],
+  "dct_issued_s": "1794",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3803:g3803o:ct005657/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597373/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "ontario county",
+    "ontario county (n.y.)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ontario County (N.Y.)--Surveys--Maps--Early works to 1800",
+    "United States--New York (State)--Ontario County (N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "1794"
+  ],
+  "dct_title_s": "A map of Mesrs. Gorham & Phelps's purchase, now the county of Ontario in the state of New York",
+  "gbl_dateRange_drsim": [
+    "[1794 TO 1794]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1794
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597373",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

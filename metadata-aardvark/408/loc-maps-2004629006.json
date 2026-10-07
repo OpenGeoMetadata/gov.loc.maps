@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Calcografia camerale (Rome, Italy); Cassini, Gio. Ma. (Giovanni Maria), 1745-approximately 1824",
+    "From author's Nuovo atlante geografico universale delineate suelle ultime osservazioni. -- Roma : Presso la Calcografia Camerale, 1792-1801.",
+    "Publication statement: Roma : Presso la Calcografia Camerale, 1798.",
+    "Relief shown pictorially.",
+    "Shows eastern Mexico, southeastern United States, Cuba, Jamaica, Central America, and northwestern Colombia.",
+    "Shows eastern Mexico, southeastern United States, Cuba, Jamaica, Central America, and northwestern Colombia. Relief shown pictorially. From author's Nuovo atlante geografico universale delineate suelle ultime osservazioni. -- Roma : Presso la Calcografia Camerale, 1792-1801. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3292l.ma001005",
+    "http://lccn.loc.gov/2004629006",
+    "http://www.loc.gov/item/2004629006/",
+    "http://www.loc.gov/resource/g3292l.ma001005/",
+    "https://hdl.loc.gov/loc.gmd/g3292l.ma001005",
+    "https://search.catalog.loc.gov/instances/3add2179-bc8a-5d1a-a262-4299abfe9061",
+    "https://www.loc.gov/item/2004629006/"
+  ],
+  "dct_issued_s": "1798",
+  "dct_language_sm": [
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3292/g3292l/ma001005.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004629006/\"}",
+  "dct_spatial_sm": [
+    "latin america"
+  ],
+  "dct_subject_sm": [
+    "Latin America",
+    "Latin America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1798"
+  ],
+  "dct_title_s": "La parte orientale dell'antico e nuovo Messico con la Florida e la Bassa Luigiana dellineata sulle ultime osservazioni",
+  "gbl_dateRange_drsim": [
+    "[1798 TO 1798]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1798
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004629006",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

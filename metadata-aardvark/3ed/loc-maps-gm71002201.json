@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Maps of North America, 1750-1789, 1290",
+    "Manuscript, pen-and-ink.",
+    "Publication statement: [177-?]",
+    "Scale not given.",
+    "Title on verso: Fortified camp at Elizh. Town, Jersey ...",
+    "Title on verso: Fortified camp at Elizh. Town, Jersey ... Manuscript, pen-and-ink. Scale not given. LC Maps of North America, 1750-1789, 1290 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814e.ar129000",
+    "http://lccn.loc.gov/gm71002201",
+    "http://www.loc.gov/item/gm71002201/",
+    "http://www.loc.gov/resource/g3814e.ar129000/",
+    "https://hdl.loc.gov/loc.gmd/g3814e.ar129000",
+    "https://search.catalog.loc.gov/instances/e1879ce7-5890-5e44-b1c2-299467542dda",
+    "https://www.loc.gov/item/gm71002201/"
+  ],
+  "dct_issued_s": "1770",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814e/ar129000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002201/\"}",
+  "dct_spatial_sm": [
+    "elizabeth",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Elizabeth (N.J.)--Buildings, structures, etc.--Maps, Manuscript--Early works to 1800",
+    "Fortification--New Jersey--Elizabeth--Maps, Manuscript--Early works to 1800",
+    "United States--New Jersey--Elizabeth"
+  ],
+  "dct_temporal_sm": [
+    "1770"
+  ],
+  "dct_title_s": "Draught of an intrenched camp proposed to be erected near Elisabeth Town",
+  "gbl_dateRange_drsim": [
+    "[1770 TO 1770]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1770
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002201",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 440; 651/1; 651/2; 700/1",
+    "Ascribed on label: Probably by Ensign De Berniere and Captain Brown.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Browne, William, Captain; De Berniere, Henry",
+    "LC Maps of North America, 1750-1789, 892",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: [1775?]",
+    "Relief shown by hachures.",
+    "Scale not given.",
+    "Title from P. L. Phillips' List of maps of America.",
+    "Title from P. L. Phillips' List of maps of America. Manuscript, pen-and-ink and watercolor. Relief shown by hachures. Typewritten label on verso: Map of the environs of Boston showing roads from Roxbury to Dorchester, Milton, Jamaica, Cambridge, and Walter T., Brooklyn and N. York. 1775. Ascribed on label: Probably by Ensign De Berniere and Captain Brown. Scale not given. LC Maps of North America, 1750-1789, 892 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 440; 651/1; 651/2; 700/1",
+    "Typewritten label on verso: Map of the environs of Boston showing roads from Roxbury to Dorchester, Milton, Jamaica, Cambridge, and Walter T., Brooklyn and N. York. 1775.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.ar089200",
+    "http://lccn.loc.gov/gm71000939",
+    "http://www.loc.gov/item/gm71000939/",
+    "http://www.loc.gov/resource/g3764b.ar089200/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ar089200",
+    "https://search.catalog.loc.gov/instances/f766dca6-c189-5398-aea7-afe28d06539f",
+    "https://www.loc.gov/item/gm71000939/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/ar089200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000939/\"}",
+  "dct_spatial_sm": [
+    "boston region",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston Region (Mass.)--Maps, Manuscript--Early works to 1800",
+    "Roads--Massachusetts--Boston Region--Maps--Early works to 1800",
+    "United States--Massachusetts--Boston Region"
+  ],
+  "dct_temporal_sm": [
+    "1775",
+    "[1775?]"
+  ],
+  "dct_title_s": "Map of the environs of Roxbury showing roads to Jamaica, Cambridge, Dorchester, Milton, etc",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000939",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Everts, Ensign & Everts, cartographer",
+    "Includes maps of New York and the United States, illustrations of public buildings and homes, portraits of some residents, history of Broome County, business directories, and advertisements.",
+    "LC copy rebound and encapsulated.",
+    "List of geographical atlases in the Library of Congress, 15857",
+    "Publication statement: Phila. : Thos. Hunter pr., [1876]; Philadelphia : Everts, Ensign & Everts, 714 & 716 Filbert St., 1876.",
+    "Shows landowners.",
+    "Shows landowners. Includes maps of New York and the United States, illustrations of public buildings and homes, portraits of some residents, history of Broome County, business directories, and advertisements. LC copy rebound and encapsulated. List of geographical atlases in the Library of Congress, 15857 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map47000526",
+    "http://www.loc.gov/item/map47000526/",
+    "http://www.loc.gov/resource/gmdatlases.map47000526/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.map47000526",
+    "https://search.catalog.loc.gov/instances/44c27e27-a020-51d7-a76e-7ade5856198f",
+    "https://www.loc.gov/item/map47000526/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:ma:p4:70:00:52:6:map47000526:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map47000526/\"}",
+  "dct_spatial_sm": [
+    "broome county",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Broome County (N.Y.)--Biography--Dictionaries",
+    "Broome County (N.Y.)--History",
+    "Landowners--New York (State)--Broome County--Maps",
+    "Real property--New York (State)--Broome County--Maps",
+    "United States--New York (State)--Broome County"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Combination atlas map of Broome County, New York",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map47000526",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

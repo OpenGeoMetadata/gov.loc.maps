@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: A. Williams & Co",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 368.1",
+    "Publication statement: Boston : A. Williams & Co., 1861.",
+    "Shows forts, towns, roads, railroads, rivers, and islands.",
+    "Shows forts, towns, roads, railroads, rivers, and islands. Description derived from published bibliography. LC Civil War Maps (2nd ed.), 368.1 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3912s.cw0368100",
+    "http://lccn.loc.gov/2007630407",
+    "http://www.loc.gov/item/2007630407/",
+    "http://www.loc.gov/resource/g3912s.cw0368100/",
+    "https://hdl.loc.gov/loc.gmd/g3912s.cw0368100",
+    "https://search.catalog.loc.gov/instances/975d65af-8d21-5969-9928-d411406ceb23",
+    "https://www.loc.gov/item/2007630407/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3912/g3912s/cw0368100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007630407/\"}",
+  "dct_spatial_sm": [
+    "saint helena sound",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coasts--South Carolina--Maps",
+    "Saint Helena Sound (S.C.)--Maps",
+    "United States--South Carolina",
+    "United States--South Carolina--Saint Helena Sound"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Map of St. Helena Sound, and the coast between Charleston and Savannah",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007630407",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

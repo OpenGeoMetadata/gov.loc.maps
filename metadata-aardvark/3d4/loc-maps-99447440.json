@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Confederate imprint.",
+    "Confederate imprint. Map of parts of Illinois, Missouri, and Kentucky in the environs of Cairo and New Madrid, showing roads, railroads, towns, troop positions at New Madrid, drainage, and fortifications at Cairo, Illinois, and Birds Point, Missouri. The following handwritten note appears to the left of the map: Dear Mr. Phillips: I send you some interesting maps. Two of local origins and scarce. This one must I suppose have been intended for correspondence. Yours truly William Beer. Description derived from published bibliography. Scale 1:316,800. LC Civil War Maps (2nd ed.), 296.5 Available also through the Library of Congress web site as raster image.",
+    "Contributors: Beer, William; Manouvrier, J.",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 296.5",
+    "Map of parts of Illinois, Missouri, and Kentucky in the environs of Cairo and New Madrid, showing roads, railroads, towns, troop positions at New Madrid, drainage, and fortifications at Cairo, Illinois, and Birds Point, Missouri.",
+    "Publication statement: 30, Camp St. N.O., J. Manouvrier, [1862]",
+    "Scale 1:316,800.",
+    "The following handwritten note appears to the left of the map: Dear Mr. Phillips: I send you some interesting maps. Two of local origins and scarce. This one must I suppose have been intended for correspondence. Yours truly William Beer."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4160.cw0296500",
+    "http://lccn.loc.gov/99447440",
+    "http://www.loc.gov/item/99447440/",
+    "http://www.loc.gov/resource/g4160.cw0296500/",
+    "https://hdl.loc.gov/loc.gmd/g4160.cw0296500",
+    "https://search.catalog.loc.gov/instances/bd56367c-bcd1-51cc-ae63-4e75fb767af7",
+    "https://www.loc.gov/item/99447440/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd416/g4160/g4160/cw0296500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447440/\"}",
+  "dct_spatial_sm": [
+    "missouri",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Missouri--Maps",
+    "United States--Missouri"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Map of the present seat of war in Missouri",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447440",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

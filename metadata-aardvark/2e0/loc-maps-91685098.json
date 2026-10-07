@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1991--281-954/20161. Reprint 1991.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Everglades Natural History Association; United States. National Park Service",
+    "Covers Dry Tortugas.",
+    "Covers Dry Tortugas. \"*GPO: 1991--281-954/20161. Reprint 1991.\" Depths shown by gradient tints. Panel title. Title at upper left: Fort Jefferson. Includes text. Map of Fort Jefferson, text, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by gradient tints.",
+    "Includes text.",
+    "Map of Fort Jefferson, text, and col. ill. on verso.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1991]",
+    "Title at upper left: Fort Jefferson."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/91685098",
+    "http://www.loc.gov/item/91685098/",
+    "http://www.loc.gov/resource/g3932d.ct010268/",
+    "https://hdl.loc.gov/loc.gmd/g3932d.ct010268",
+    "https://search.catalog.loc.gov/instances/33c457a0-e0cf-5a00-b6a6-2ff95d76b58c",
+    "https://www.loc.gov/item/91685098/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3932/g3932d/ct010268.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91685098/\"}",
+  "dct_spatial_sm": [
+    "dry tortugas",
+    "dry tortugas national park",
+    "florida",
+    "fort jefferson",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Dry Tortugas (Fla.)--Maps",
+    "Dry Tortugas National Park (Fla.)--Maps",
+    "Fort Jefferson (Fla.)--Maps",
+    "United States--Florida--Dry Tortugas",
+    "United States--Florida--Dry Tortugas National Park",
+    "United States--Florida--Fort Jefferson"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "Fort Jefferson National Monument, Florida",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91685098",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

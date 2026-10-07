@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Hampden County, Massachusetts"
+  ],
+  "dct_description_sm": [
+    "\"Entered according to act of Congress in the year 1855 by Henry F. Walling, in the Clerk's office of the District Court of Massachusetts.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Baker, T. W., contributor; Walling, Henry Francis, 1825-1888, cartographer",
+    "Includes 17 insets of cities and towns and geological map of the county.",
+    "LC Land ownership maps, 313",
+    "LC copy varnished, sectioned in six and mounted on cloth.",
+    "Publication statement: Boston : H. A. Haley, 106 Washington St., Boston, 1857.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Includes 17 insets of cities and towns and geological map of the county. \"Entered according to act of Congress in the year 1855 by Henry F. Walling, in the Clerk's office of the District Court of Massachusetts.\" LC copy varnished, sectioned in six and mounted on cloth. LC Land ownership maps, 313 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3763h.la000313",
+    "http://lccn.loc.gov/2012592248",
+    "http://www.loc.gov/item/2012592248/",
+    "http://www.loc.gov/resource/g3763h.la000313/",
+    "https://hdl.loc.gov/loc.gmd/g3763h.la000313",
+    "https://search.catalog.loc.gov/instances/dc6c5f1e-5431-52b3-81ef-ab8d73db4a56",
+    "https://www.loc.gov/item/2012592248/"
+  ],
+  "dct_issued_s": "1857",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3763/g3763h/la000313.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592248/\"}",
+  "dct_spatial_sm": [
+    "hampden county",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hampden County (Mass.)--Maps",
+    "Landowners--Massachusetts--Hampden County--Maps",
+    "Real property--Massachusetts--Hampden County--Maps",
+    "United States--Massachusetts--Hampden County"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_title_s": "Map of Hampden County, Massachusetts",
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1857
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592248",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

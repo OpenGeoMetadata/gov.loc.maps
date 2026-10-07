@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC copy mounted on cloth backing.",
+    "Publication statement: [Beijing : s.n., [1900?]",
+    "Shows British legation quarter in yellow, French in blue, U.S. in green and ivory, German in red, and Japanese in light green.",
+    "Shows British legation quarter in yellow, French in blue, U.S. in green and ivory, German in red, and Japanese in light green. LC copy mounted on cloth backing. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7824b.ct001941",
+    "http://lccn.loc.gov/2006458552",
+    "http://www.loc.gov/item/2006458552/",
+    "http://www.loc.gov/resource/g7824b.ct001941/",
+    "https://hdl.loc.gov/loc.gmd/g7824b.ct001941",
+    "https://search.catalog.loc.gov/instances/6883cc74-a8f7-5935-9ce6-0058bfaf8571",
+    "https://www.loc.gov/item/2006458552/"
+  ],
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7824/g7824b/ct001941.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006458552/\"}",
+  "dct_spatial_sm": [
+    "beijing",
+    "china"
+  ],
+  "dct_subject_sm": [
+    "Beijing (China)--History--Siege, 1900--Maps",
+    "Beijing (China)--Maps",
+    "China--Beijing",
+    "China--History--Boxer Rebellion, 1899-1901--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1900",
+    "[Beijing : s.n., [1900?]"
+  ],
+  "dct_title_s": "Jing cheng ge guo zan fen jie zhi quan tu",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006458552",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress the 3rd day of April 1827, by P. Hawkes of the State of Pennsylvania.\"",
+    "\"Entered according to Act of Congress the 3rd day of April 1827, by P. Hawkes of the State of Pennsylvania.\" Includes text, compass rose, and ill. of Capitol. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 149 Vault DCP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Calvert, T. H.; Hawkes, P.; Warr, John, approximately 1798-",
+    "DCP",
+    "Includes text, compass rose, and ill. of Capitol.",
+    "Phillips. Washington 149",
+    "Publication statement: [Philadelphia?] : P. Hawkes, [1827]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct004256",
+    "http://lccn.loc.gov/87695599",
+    "http://www.loc.gov/item/87695599/",
+    "http://www.loc.gov/resource/g3851p.ct004256/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct004256",
+    "https://search.catalog.loc.gov/instances/046d49fd-096d-5950-be37-27d918f2dc37",
+    "https://www.loc.gov/item/87695599/"
+  ],
+  "dct_issued_s": "1827",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct004256.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695599/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Distances, etc.--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "dct_title_s": "Compendious chart exhibiting, at one view, the names of about thirteen hundred of the principal ports and places in the world, with their bearings per compass, and their distances expressed in geographical miles, from the city of Washington",
+  "gbl_dateRange_drsim": [
+    "[1827 TO 1827]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1827
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695599",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

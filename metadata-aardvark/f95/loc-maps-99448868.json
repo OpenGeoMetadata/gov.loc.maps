@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Civil War salted paper maps. AL-57.",
+    "Contributors: Abbot, Henry L.",
+    "Description derived from published bibliography.",
+    "Library of Congress. Civil War maps (2nd ed.), 600",
+    "Principal rivers are hand-colored blue.",
+    "Principal rivers are hand-colored blue. Description derived from published bibliography. Civil War salted paper maps. AL-57. Scale ca. 1:95,000. Library of Congress. Civil War maps (2nd ed.), 600 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: [S.l., 1862]",
+    "Scale ca. 1:95,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883y.cw0600000",
+    "http://lccn.loc.gov/99448868",
+    "http://www.loc.gov/item/99448868/",
+    "http://www.loc.gov/resource/g3883y.cw0600000/",
+    "https://hdl.loc.gov/loc.gmd/g3883y.cw0600000",
+    "https://search.catalog.loc.gov/instances/f04d804d-aebe-5310-998b-030d8dd6c74d",
+    "https://www.loc.gov/item/99448868/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883y/cw0600000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448868/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "williamsburg",
+    "york county",
+    "yorktown"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia--Williamsburg",
+    "United States--Virginia--York County",
+    "United States--Virginia--Yorktown",
+    "Virginia--History--Civil War, 1861-1865--Campaigns--Maps",
+    "Williamsburg, Battle of, Williamsburg, Va",
+    "Williamsburg, Battle of, Williamsburg, Va., 1862--Maps",
+    "York County (Va.)--History--Civil War, 1861-1865--Maps",
+    "Yorktown (Va.)--History--Siege, 1862--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "[Yorktown to Williamsburg]",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448868",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

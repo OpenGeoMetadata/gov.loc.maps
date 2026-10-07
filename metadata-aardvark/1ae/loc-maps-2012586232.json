@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Walling, Henry Francis, 1825-1888",
+    "Includes business directories, statistics, distance chart, and twelve illustrations of houses and other structures.",
+    "Insets: Bridport -- Bristol -- East Middlebury -- Ferrisburgh -- Lincoln -- Middlebury -- Monkton -- New Haven -- North Ferrisburgh -- Orwell -- Salisbury -- Shoreham -- Starksboro -- Vergennes -- Weybridge.",
+    "LC Land ownership maps, 1182",
+    "LC copy shellacked, sectioned into 4, and mounted on cloth. Darkened, with some losses and stains.",
+    "Publication statement: Boston ; New York : Wm. E. Baker & Co. Publishers, 1857.",
+    "Publisher data pasted on sheet.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows landowners. Publisher data pasted on sheet. Includes business directories, statistics, distance chart, and twelve illustrations of houses and other structures. Insets: Bridport -- Bristol -- East Middlebury -- Ferrisburgh -- Lincoln -- Middlebury -- Monkton -- New Haven -- North Ferrisburgh -- Orwell -- Salisbury -- Shoreham -- Starksboro -- Vergennes -- Weybridge. LC copy shellacked, sectioned into 4, and mounted on cloth. Darkened, with some losses and stains. LC Land ownership maps, 1182 Available also through the Library of Congress Web site as a raster image.",
+    "Shows landowners."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3753a.la001182",
+    "http://lccn.loc.gov/2012586232",
+    "http://www.loc.gov/item/2012586232/",
+    "http://www.loc.gov/resource/g3753a.la001182/",
+    "https://hdl.loc.gov/loc.gmd/g3753a.la001182",
+    "https://search.catalog.loc.gov/instances/12ae13ca-bffe-5f65-a283-3bc5f376b7da",
+    "https://www.loc.gov/item/2012586232/"
+  ],
+  "dct_issued_s": "1857",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3753/g3753a/la001182.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012586232/\"}",
+  "dct_spatial_sm": [
+    "addison county",
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Addison County (Vt.)--Maps",
+    "Landowners--Vermont--Addison County--Maps",
+    "Real property--Vermont--Addison County--Maps",
+    "United States--Vermont--Addison County"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_title_s": "Map of Addison County, Vermont",
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1857
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012586232",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States Coast Survey, cartographer, publisher",
+    "Depths shown by soundings.",
+    "Includes notes.",
+    "LC copy mounted on cloth. Accompanied by manuscript note providing approximate date of map.",
+    "Publication statement: [Washington, D.C.] : U.S. Coast Survey, [approximately 1836-1878?]",
+    "vcFY25",
+    "vcFY25 Depths shown by soundings. Includes notes. LC copy mounted on cloth. Accompanied by manuscript note providing approximate date of map. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024598509",
+    "http://www.loc.gov/item/2024598509/",
+    "http://www.loc.gov/resource/g3802n.ct005651/",
+    "https://hdl.loc.gov/loc.gmd/g3802n.ct005651",
+    "https://search.catalog.loc.gov/instances/452d1bf9-13dd-5ca7-8374-f26a2f6f5952",
+    "https://www.loc.gov/item/2024598509/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3802:g3802n:ct005651/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024598509/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "new york harbor",
+    "new york harbor (n.j.)",
+    "new york harbor (n.y.)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New York Harbor (N.Y. and N.J.)--Maps",
+    "United States--New Jersey--New York Harbor (N.J.)",
+    "United States--New York (State)--New York Harbor (N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "1836/1878",
+    "[Washington, D.C.] : U.S. Coast Survey, [approximately 1836-1878?]"
+  ],
+  "dct_title_s": "New York Bay and Harbour",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024598509",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

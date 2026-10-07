@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Forest service map.\"",
+    "\"St. Stephens meridian.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geometronics Service Center (U.S.); United States. Forest Service. Southern Region",
+    "Includes location maps, index maps, col. ill., text, and tables of recreation sites.",
+    "Publication statement: [Atlanta, Ga.] : United States Dept. of Agriculture, Forest Service, Southern Region, [1986]",
+    "The Black Creek and Biloxi districts map \"Compiled and drawn at the Regional Office, Atlanta, Georgia, 1965 ... Revised in 1983 by the USFS Geometronics Service Center from 1982 field review by the Southern Region. Land status current as of November 1986.\" The Chickasawhay Ranger District map \"Compiled in the Regional Office, Region 8, Atlanta, Georgia in 1964 ... Revised in 1983 by the USFS Geometronics Service Center from 1983 field review by the Southern Region. Land status current as of March 1985.\"",
+    "The Black Creek and Biloxi districts map \"Compiled and drawn at the Regional Office, Atlanta, Georgia, 1965 ... Revised in 1983 by the USFS Geometronics Service Center from 1982 field review by the Southern Region. Land status current as of November 1986.\" The Chickasawhay Ranger District map \"Compiled in the Regional Office, Region 8, Atlanta, Georgia in 1964 ... Revised in 1983 by the USFS Geometronics Service Center from 1983 field review by the Southern Region. Land status current as of March 1985.\" \"Forest service map.\" \"St. Stephens meridian.\" Includes location maps, index maps, col. ill., text, and tables of recreation sites. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/94680913",
+    "http://www.loc.gov/item/94680913/",
+    "http://www.loc.gov/resource/g3982d.ct010804/",
+    "https://hdl.loc.gov/loc.gmd/g3982d.ct010804",
+    "https://search.catalog.loc.gov/instances/9f9fe1e6-f575-5cca-96f6-3c311dbed6b7",
+    "https://www.loc.gov/item/94680913/"
+  ],
+  "dct_issued_s": "1986",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3982/g3982d/ct010804.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94680913/\"}",
+  "dct_spatial_sm": [
+    "de soto national forest",
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "De Soto National Forest (Miss.)--Maps",
+    "United States--Mississippi--De Soto National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "dct_title_s": "De Soto National Forest, Mississippi",
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94680913",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes col. illus., location map, and table of recreation areas.",
+    "Publication statement: [Atlanta] 1972.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Includes col. illus., location map, and table of recreation areas. Text on verso. Scale ca. 1:253,440. Available also through the Library of Congress Web site as a raster image.",
+    "Scale ca. 1:253,440.",
+    "Text on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm72001937",
+    "http://www.loc.gov/item/gm72001937/",
+    "http://www.loc.gov/resource/g3922c.ct010001/",
+    "https://hdl.loc.gov/loc.gmd/g3922c.ct010001",
+    "https://search.catalog.loc.gov/instances/a40c2b9d-0f55-50b2-9a7c-62ff7faabe40",
+    "https://www.loc.gov/item/gm72001937/"
+  ],
+  "dct_issued_s": "1972",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922c/ct010001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm72001937/\"}",
+  "dct_spatial_sm": [
+    "chattahoochee national forest",
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Chattahoochee National Forest, Ga.--Maps",
+    "Outdoor recreation--Georgia--Chattahoochee National Forest--Maps",
+    "United States--Georgia--Chattahoochee National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "dct_title_s": "Chattahoochee National Forest",
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1972]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm72001937",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

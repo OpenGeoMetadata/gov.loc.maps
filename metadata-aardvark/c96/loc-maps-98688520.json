@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Vaughan, David, active 1849-1864",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 261",
+    "Map of New York and parts of adjacent states showing drainage, relief by hachures, county boundaries, cities and towns. Different colors indicate railroads in operation, in progress of construction, and proposed.",
+    "Publication statement: [Albany, 1855]",
+    "Scale ca. 1:1,000,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3801p.rr002610",
+    "http://lccn.loc.gov/98688520",
+    "http://www.loc.gov/item/98688520/",
+    "http://www.loc.gov/resource/g3801p.rr002610/",
+    "https://hdl.loc.gov/loc.gmd/g3801p.rr002610",
+    "https://search.catalog.loc.gov/instances/c252cc3e-28a9-57cb-8f80-b8636c36de35",
+    "https://www.loc.gov/item/98688520/"
+  ],
+  "dct_issued_s": "1855",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3801/g3801p/rr002610.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688520/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--New York (State)--Maps",
+    "United States--New York (State)"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "dct_title_s": "Map of the state of New-York showing its water and rail road lines. Jan 1855, by direction of John T. Clark State Engineer & Surveyor",
+  "gbl_dateRange_drsim": [
+    "[1855 TO 1855]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1855
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688520",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

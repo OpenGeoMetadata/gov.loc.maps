@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Map of the waterways in Guangdong Province",
+    "Map of the waterways in Guangdong Province",
+    "[廣東通省水道圖]"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hummel, Arthur W. (Arthur William), Sr., 1884-1975",
+    "Copy imperfect: portions of right side of map missing.",
+    "Hummel purchase 1930, no. 11.",
+    "Pen-and-ink and watercolor.",
+    "Pictorial map.",
+    "Previous call number: G7823.G8A5 1817 .G8 Vault Oversize",
+    "Publication statement: [After 1815]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:200,000.",
+    "Shows mountains, rivers, coasts, islands, towns, villages, roads, passes, drainage, and settlement patterns of Guangdong Province including the Leizhou Peninsula and the Hainan Island.",
+    "Shows mountains, rivers, coasts, islands, towns, villages, roads, passes, drainage, and settlement patterns of Guangdong Province including the Leizhou Peninsula and the Hainan Island. Relief shown pictorially. Pictorial map. Pen-and-ink and watercolor. Title supplied. Copy imperfect: portions of right side of map missing. Hummel purchase 1930, no. 11. Scale ca. 1:200,000. Available also through the Library of Congress Web site as a raster image. Previous call number: G7823.G8A5 1817 .G8 Vault Oversize AACR2",
+    "Title supplied."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7823g.ct003406",
+    "http://lccn.loc.gov/gm71002467",
+    "http://www.loc.gov/item/gm71002467/",
+    "http://www.loc.gov/resource/g7823g.ct003406/",
+    "https://hdl.loc.gov/loc.gmd/g7823g.ct003406",
+    "https://search.catalog.loc.gov/instances/4b32247b-7d64-51ed-b3ad-f74e875e435d",
+    "https://www.loc.gov/item/gm71002467/"
+  ],
+  "dct_issued_s": "1815",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7823/g7823g/ct003406.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002467/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "guangdong sheng"
+  ],
+  "dct_subject_sm": [
+    "China--Guangdong Sheng",
+    "Guangdong Sheng (China)--Maps, Manuscript",
+    "Guangdong Sheng (China)--Maps, Pictorial"
+  ],
+  "dct_temporal_sm": [
+    "1815"
+  ],
+  "dct_title_s": "[Guangdong tong sheng shui dao tu]",
+  "gbl_dateRange_drsim": [
+    "[1815 TO 1815]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1815
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002467",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

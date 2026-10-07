@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "LC Civil War maps (2nd ed.), H81",
+    "Pencil on lined paper, 1 sheet cut in two and pasted together, mounted on cloth. Some staining at upper left.",
+    "Title and scale from Stephenson's Civil War maps, 1989.",
+    "Title and scale from Stephenson's Civil War maps, 1989. Pencil on lined paper, 1 sheet cut in two and pasted together, mounted on cloth. Some staining at upper left. LC Civil War maps (2nd ed.), H81 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3892r.cwh00081",
+    "http://lccn.loc.gov/2003629681",
+    "http://www.loc.gov/item/2003629681/",
+    "http://www.loc.gov/resource/g3892r.cwh00081/",
+    "https://hdl.loc.gov/loc.gmd/g3892r.cwh00081",
+    "https://search.catalog.loc.gov/instances/adc2f7db-3b5c-5489-a741-d77a2bbc293c",
+    "https://www.loc.gov/item/2003629681/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3892/g3892r/cwh00081.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003629681/\"}",
+  "dct_spatial_sm": [
+    "randolph county",
+    "rich mountain region",
+    "rich mountain region (randolph county)",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "Roads--West Virginia--Rich Mountain Region (Randolph County)--Maps",
+    "United States--West Virginia--Rich Mountain Region (Randolph County)"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "[Pencil sketch of the road from Slaven's Cabin to the top of Cheat Mountain in the area of the battle of Rich Mountain, July 11-12, 1861]",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003629681",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

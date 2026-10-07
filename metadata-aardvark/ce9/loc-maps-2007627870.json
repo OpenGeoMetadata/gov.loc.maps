@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Indexed.",
+    "Nautical chart.",
+    "Nautical chart. Relief shown by shading and land forms. Depths shown by soundings. Oriented with north toward the lower left. Pen-and-ink and watercolors. Indexed. Six pieces mounted on map showing corrections. Available also through the Library of Congress Web site as a raster image.",
+    "Oriented with north toward the lower left.",
+    "Pen-and-ink and watercolors.",
+    "Publication statement: [1803?]",
+    "Relief shown by shading and land forms. Depths shown by soundings.",
+    "Six pieces mounted on map showing corrections."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4944m.ct001979",
+    "http://lccn.loc.gov/2007627870",
+    "http://www.loc.gov/item/2007627870/",
+    "http://www.loc.gov/resource/g4944m.ct001979/",
+    "https://hdl.loc.gov/loc.gmd/g4944m.ct001979",
+    "https://search.catalog.loc.gov/instances/e6fc6f65-73d2-5010-af21-9df06b7672c1",
+    "https://www.loc.gov/item/2007627870/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4944/g4944m/ct001979.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007627870/\"}",
+  "dct_spatial_sm": [
+    "haiti",
+    "môle saint",
+    "môle saint-nicolas",
+    "nicolas"
+  ],
+  "dct_subject_sm": [
+    "Haiti--Môle Saint-Nicolas",
+    "Môle Saint-Nicolas (Haiti)--Maps, Manuscript",
+    "Nautical charts--Haiti--Môle Saint-Nicolas"
+  ],
+  "dct_temporal_sm": [
+    "1803",
+    "[1803?]"
+  ],
+  "dct_title_s": "Plan du cap et Mole S. Nicolas",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007627870",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

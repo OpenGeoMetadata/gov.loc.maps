@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hawley, Joseph R. (Joseph Roswell), 1826-1905; Krebs, Charles G.; Lindenkohl, A.; Lindenkohl, H. (Henry); U.S. Coast and Geodetic Survey",
+    "General map. Does not show military operations.",
+    "Includes list of authorities.",
+    "LC Civil War maps (2nd ed.) 474, S176",
+    "Publication statement: [Washington : U.S. Coast Survey Office, 1862?]",
+    "Relief shown by hachures. Depths shown by contours and soundings.",
+    "Relief shown by hachures. Depths shown by contours and soundings. General map. Does not show military operations. Includes list of authorities. LC Civil War maps (2nd ed.) 474, S176 Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.cw0474000",
+    "http://hdl.loc.gov/loc.gmd/g3880.cw0474001",
+    "http://hdl.loc.gov/loc.gmd/g3880.cws00176",
+    "http://lccn.loc.gov/79696050",
+    "http://www.loc.gov/item/79696050/",
+    "http://www.loc.gov/resource/g3880.cw0474000/",
+    "http://www.loc.gov/resource/g3880.cw0474001/",
+    "http://www.loc.gov/resource/g3880.cws00176/",
+    "https://hdl.loc.gov/loc.gmd/g3880.cw0474000",
+    "https://hdl.loc.gov/loc.gmd/g3880.cw0474001",
+    "https://hdl.loc.gov/loc.gmd/g3880.cws00176",
+    "https://search.catalog.loc.gov/instances/20106ed1-9ad7-5906-90f8-d825ae2c88b8",
+    "https://www.loc.gov/item/79696050/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/cw0474000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79696050/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862",
+    "[Washington : U.S. Coast Survey Office, 1862?]"
+  ],
+  "dct_title_s": "Military map of south-eastern Virginia",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79696050",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

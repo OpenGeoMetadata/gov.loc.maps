@@ -1,0 +1,49 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: modelski, andrew m.; united states. central intelligence agency"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi83105398/",
+    "https://www.loc.gov/item/hlas-bi83105398/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Central Intelligence Agency,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi83105398/\"}",
+  "dct_spatial_sm": [
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "el salvador",
+    "maps and cartography",
+    "maps and cartography -- el salvador"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "El Salvador",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi83105398",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

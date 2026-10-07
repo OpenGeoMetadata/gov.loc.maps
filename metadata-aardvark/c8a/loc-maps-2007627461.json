@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Map of the boundary lines at various epochs between Guatemala and Mexico, projected by Miles Rock. Guatemala Commission of the Boundary with Mexico, Guatemala City, January 12, 1895.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mueller, A. H.",
+    "Publication statement: Philadelphia: [s.n., 1895].",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. \"Map of the boundary lines at various epochs between Guatemala and Mexico, projected by Miles Rock. Guatemala Commission of the Boundary with Mexico, Guatemala City, January 12, 1895.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4811f.ct002031",
+    "http://lccn.loc.gov/2007627461",
+    "http://www.loc.gov/item/2007627461/",
+    "http://www.loc.gov/resource/g4811f.ct002031/",
+    "https://hdl.loc.gov/loc.gmd/g4811f.ct002031",
+    "https://search.catalog.loc.gov/instances/66b02761-9b87-59eb-993b-527521e45a27",
+    "https://www.loc.gov/item/2007627461/"
+  ],
+  "dct_issued_s": "1895",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4811/g4811f/ct002031.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007627461/\"}",
+  "dct_spatial_sm": [
+    "guatemala",
+    "mexico"
+  ],
+  "dct_subject_sm": [
+    "Guatemala",
+    "Guatemala--Boundaries--Mexico--Maps",
+    "Mexico",
+    "Mexico--Boundaries--Guatemala--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dct_title_s": "Map of the republic of Guatemala",
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007627461",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

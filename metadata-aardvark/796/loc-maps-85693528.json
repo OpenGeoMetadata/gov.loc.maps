@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from latest general highway maps.\"",
+    "\"September 1981 4-R-37679. Revised November 1979 4-R-09651.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service., cartographer",
+    "Includes location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1981.",
+    "Shows drainage and floodwater control, planned dike and grade stabilization structure.",
+    "Shows drainage and floodwater control, planned dike and grade stabilization structure. \"September 1981 4-R-37679. Revised November 1979 4-R-09651.\" \"Base compiled from latest general highway maps.\" Includes location map. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/85693528",
+    "http://www.loc.gov/item/85693528/",
+    "http://www.loc.gov/resource/g4032b.ct011370/",
+    "https://hdl.loc.gov/loc.gmd/g4032b.ct011370",
+    "https://search.catalog.loc.gov/instances/64ccc3f3-0d76-5dc4-afb0-fc26f554ae5c",
+    "https://www.loc.gov/item/85693528/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032b/ct011370.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85693528/\"}",
+  "dct_spatial_sm": [
+    "big creek",
+    "big creek (falls county)",
+    "big creek (limestone county)",
+    "falls county",
+    "limestone county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Big Creek (Limestone County-Falls County, Tex.)--Maps",
+    "Flood control--Texas--Big Creek (Limestone County-Falls County)--Maps",
+    "United States--Texas--Big Creek (Falls County)",
+    "United States--Texas--Big Creek (Limestone County)",
+    "Watershed management--Texas--Big Creek (Limestone County-Falls County)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Project map, Big Creek (Tri-county) Watershed of the Brazos River Watershed, portions of TX-SWCD-31 and 24 in Falls, Limestone and McLennan Counties, Texas",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85693528",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

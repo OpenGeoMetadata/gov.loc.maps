@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-16931.\"",
+    "\"Base Source: Virginia State Family of Maps base series.\"",
+    "Also covers Greene County.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: [Lanham, Md.?] : The Service, [1982]",
+    "Shows Soil Conservation Service field, area, and state offices.",
+    "Shows Soil Conservation Service field, area, and state offices. Also covers Greene County. \"Base Source: Virginia State Family of Maps base series.\" Includes location map. \"1-16931.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.ct008935",
+    "http://lccn.loc.gov/82696194",
+    "http://www.loc.gov/item/82696194/",
+    "http://www.loc.gov/resource/g3880.ct008935/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct008935",
+    "https://search.catalog.loc.gov/instances/482713b2-7072-58da-a67a-38614bee00a1",
+    "https://www.loc.gov/item/82696194/"
+  ],
+  "dct_issued_s": "1982",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ct008935.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82696194/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "dct_title_s": "Virginia, area 2 : Albemarle, Arlington, Caroline, Culpeper, Fairfax, Fauquier, Fluvanna, Hanover, King George, Loudoun, Louisa, Madison, Nelson, Orange, Prince William, Rappahannock, Spotsylvania, Stafford Counties, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1982]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82696194",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bache, A. D. (Alexander Dallas), 1806-1867; Krebs, Charles G.; Lindenkohl, A.; United States Coast Survey",
+    "Description derived from published bibliography.",
+    "LC Civil War maps (2nd ed.), 129.5",
+    "LC Copy in ink at upper margin: Library of the Department of State.",
+    "LC Copy lacks red overprint. This copy has been hand colored to show railroads in red and the boundaries of Georgia in Blue, South Carolina and Florida in red, and Alabama in yellow.",
+    "Publication statement: [S.l. : s.n.], 1865.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Description derived from published bibliography. LC Copy lacks red overprint. This copy has been hand colored to show railroads in red and the boundaries of Georgia in Blue, South Carolina and Florida in red, and Alabama in yellow. LC Copy in ink at upper margin: Library of the Department of State. LC Civil War maps (2nd ed.), 129.5 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3920.cw0129500",
+    "http://lccn.loc.gov/2008628280",
+    "http://www.loc.gov/item/2008628280/",
+    "http://www.loc.gov/resource/g3920.cw0129500/",
+    "https://hdl.loc.gov/loc.gmd/g3920.cw0129500",
+    "https://search.catalog.loc.gov/instances/c7755614-adcc-5b6b-908d-3b8fafe78d58",
+    "https://www.loc.gov/item/2008628280/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3920/g3920/cw0129500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008628280/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--Maps",
+    "South Carolina--Maps",
+    "United States--Georgia",
+    "United States--South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Southern Georgia and part of South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008628280",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

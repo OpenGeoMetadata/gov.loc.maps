@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Snedecor, V. Gayle (Victoria Gayle) 1824-1888",
+    "Includes two inset maps, one indexed: Greensboro.",
+    "Includes two inset maps, one indexed: Greensboro. LC Land ownership maps, 2 Available also through the Library of Congress Web site as a raster image.",
+    "LC Land ownership maps, 2",
+    "Publication statement: [S.l. : s.n.], 1856."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3973g.la000002",
+    "http://lccn.loc.gov/2006626024",
+    "http://www.loc.gov/item/2006626024/",
+    "http://www.loc.gov/resource/g3973g.la000002/",
+    "https://hdl.loc.gov/loc.gmd/g3973g.la000002",
+    "https://search.catalog.loc.gov/instances/346d134a-942e-5810-87d6-5c8a5b742477",
+    "https://www.loc.gov/item/2006626024/"
+  ],
+  "dct_issued_s": "1856",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3973/g3973g/la000002.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006626024/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "greene county",
+    "greensboro",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Greene County (Ala.)--Maps",
+    "Greensboro (Ala.)--Maps",
+    "United States--Alabama--Greene County",
+    "United States--Alabama--Greensboro"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "dct_title_s": "Snedecor's map of Greene County, Alabama, 1858",
+  "gbl_dateRange_drsim": [
+    "[1856 TO 1856]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1856
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006626024",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

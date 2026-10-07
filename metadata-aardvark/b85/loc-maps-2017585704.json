@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Price, Charles, 1679?-1733, cartographer",
+    "Hemispheres centered with poles about a third of the way from the bottom for the southern hemisphere, and a third of the way from the top for the northern hemisphere.",
+    "Includes illustrations, including the sun and moon and advertisements.",
+    "Publication statement: [London] : Sold by G. Willdey at the great-toy shop next to the dog tavern in Ludgate Street where may be had several other maps of this size, 1714.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Hemispheres centered with poles about a third of the way from the bottom for the southern hemisphere, and a third of the way from the top for the northern hemisphere. Includes illustrations, including the sun and moon and advertisements. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct009343",
+    "http://lccn.loc.gov/2017585704",
+    "http://www.loc.gov/item/2017585704/",
+    "http://www.loc.gov/resource/g3200.ct009343/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct009343",
+    "https://search.catalog.loc.gov/instances/230c58a4-1cdf-5f3a-9f7a-4147a25cd583",
+    "https://www.loc.gov/item/2017585704/"
+  ],
+  "dct_issued_s": "1714",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct009343.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585704/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)"
+  ],
+  "dct_temporal_sm": [
+    "1714"
+  ],
+  "dct_title_s": "A new and correct map of the world projected upon the plane of the horizon laid down from the newest discoveries and most exact observations",
+  "gbl_dateRange_drsim": [
+    "[1714 TO 1714]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1714
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585704",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

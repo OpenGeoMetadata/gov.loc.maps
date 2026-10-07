@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "Covers parts of Pennsylvania, Maryland, and Virginia, focusing on the Gettysburg area south through Sharpsburg and Frederick City, Md., and ending around Harpers Ferry, Va. [now W.Va.]. At the end of June 1863, Union and Confederate troops were moving towards Gettysburg, Pa. The conflict at Gettysburg was fought July 1-3 with Confederate troops retreating south after that time. Sneden includes dates at various locations to place troops in time.",
+    "In the Robert Knox Sneden diary, 1861-1865 (v. 4, p. 542).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary page.",
+    "Publication statement: [1861-1865]",
+    "Robert Knox Sneden scrapbook (Mss5:7 Sn237:1), Virginia Historical Society.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00047",
+    "http://www.loc.gov/item/001-CABIB20002956/",
+    "http://www.loc.gov/item/gvhs01.vhs00047/",
+    "http://www.loc.gov/resource/gvhs01.vhs00047/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00047",
+    "https://www.loc.gov/item/gvhs01.vhs00047/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00047.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00047/\"}",
+  "dct_spatial_sm": [
+    "gettysburg",
+    "harpers ferry",
+    "maryland",
+    "pennsylvania",
+    "sharpsburg",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Gettysburg (Pa.)--History--Civil War, 1861-1865--Maps",
+    "Gettysburg, Battle of, Gettysburg, Pa",
+    "Gettysburg, Battle of, Gettysburg, Pa., 1863",
+    "Harpers Ferry (W. Va.)--History--Civil War, 1861-1865--Maps",
+    "Sharpsburg (Md.)--History--Civil War, 1861-1865--Maps",
+    "United States--Maryland--Sharpsburg",
+    "United States--Pennsylvania--Gettysburg",
+    "United States--West Virginia--Harpers Ferry"
+  ],
+  "dct_temporal_sm": [
+    "1861/1865"
+  ],
+  "dct_title_s": "Map shewing [sic] movements of Union and Rebel armies from 30th June to 13th July 1863.",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00047",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

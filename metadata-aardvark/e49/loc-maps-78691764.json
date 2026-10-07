@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 30.2",
+    "Map of Pasadena, \"Copyright 1903, by W. W. Benedict and W. S. Woodworth,\" and indexes on verso.",
+    "Map of Pasadena, \"Copyright 1903, by W. W. Benedict and W. S. Woodworth,\" and indexes on verso. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 30.2 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [n.p., 1903?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4364p.pm000302",
+    "http://lccn.loc.gov/78691764",
+    "http://www.loc.gov/item/78691764/",
+    "http://www.loc.gov/resource/g4364p.pm000302/",
+    "https://hdl.loc.gov/loc.gmd/g4364p.pm000302",
+    "https://search.catalog.loc.gov/instances/2845ab7a-5954-5b5f-bb6c-80ae6f9ff289",
+    "https://www.loc.gov/item/78691764/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4364/g4364p/pm000302.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78691764/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "pasadena",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pasadena (Calif.)",
+    "United States--California--Pasadena"
+  ],
+  "dct_temporal_sm": [
+    "1903",
+    "[n.p., 1903?]"
+  ],
+  "dct_title_s": "Bird's eye view of Pasadena and vicinity",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78691764",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

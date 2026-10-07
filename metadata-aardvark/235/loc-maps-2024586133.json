@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisition Control Number: ACQ0011972",
+    "Contributors: Kelso, Nathaniel Vaughn, cartographer; Natural Earth (Firm), cartographer; Patterson, Tom (Cartographer) cartographer",
+    "Cultural and physical vector data available at 1:10m, 1:50m, and 1:110 million scales.",
+    "Data is available in both shapefile and GeoPackage format.",
+    "Data is available in both shapefile and GeoPackage format. Cultural and physical vector data available at 1:10m, 1:50m, and 1:110 million scales. Acquisition Control Number: ACQ0011972",
+    "Publication statement: [United States] : Natural Earth, 2009-2025."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024586133",
+    "http://www.loc.gov/item/2024586133/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586133_gpkg/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586133_shp/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586133_gpkg",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586133_shp",
+    "https://search.catalog.loc.gov/instances/c3fadb7f-05dc-570d-992a-e79ee325e706",
+    "https://www.loc.gov/item/2024586133/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2024586133/\"}",
+  "dct_rights_sm": [
+    "Public Domain. https://www.naturalearthdata.com/about/terms-of-use/"
+  ],
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)"
+  ],
+  "dct_temporal_sm": [
+    "2009/2025"
+  ],
+  "dct_title_s": "Natural Earth Data vector layers",
+  "gbl_dateRange_drsim": [
+    "[2009 TO 2025]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024586133",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

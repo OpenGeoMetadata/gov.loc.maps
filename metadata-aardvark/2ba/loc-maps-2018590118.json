@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Arrowsmith, Aaron, 1750-1823; Arrowsmith, Aaron, 1750-1823, cartographer",
+    "LC copy trimmed along lower margin. Annotated in pencil within map, to emphasize certain features. Some place names higlighted with yellow water color.",
+    "Prime meridians: London and Philadelphia.",
+    "Publication statement: [Philadelphia] : [Thomas and Andrews], [1812]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Prime meridians: London and Philadelphia. LC copy trimmed along lower margin. Annotated in pencil within map, to emphasize certain features. Some place names higlighted with yellow water color. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3830.ct006092",
+    "http://lccn.loc.gov/2018590118",
+    "http://www.loc.gov/item/2018590118/",
+    "http://www.loc.gov/resource/g3830.ct006092/",
+    "https://hdl.loc.gov/loc.gmd/g3830.ct006092",
+    "https://search.catalog.loc.gov/instances/eae5a9f0-6634-5212-aefc-9b6cb7f5400a",
+    "https://www.loc.gov/item/2018590118/"
+  ],
+  "dct_issued_s": "1812",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd383/g3830/g3830/ct006092.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018590118/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware--Maps",
+    "United States--Delaware"
+  ],
+  "dct_temporal_sm": [
+    "1812"
+  ],
+  "dct_title_s": "Delaware",
+  "gbl_dateRange_drsim": [
+    "[1812 TO 1812]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1812
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018590118",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

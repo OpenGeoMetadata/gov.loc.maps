@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Contains GIS files.\"",
+    "\"Project manager: Douglas A. Sprinkel ; GIS preparation and cartography: Jay C. Hill Basia Matyjasik and David J. Maxwell.\"",
+    "Contributors: Rowley, Peter D., author.; Utah Geological Survey, cartographer.",
+    "Includes bibliographical references in text.",
+    "Includes text, map of adjoining quadrangles, and location map.",
+    "Plate 2 includes Stratigraphic column, Map symbols, Correlation of map units and cross sections.",
+    "Publication statement: Salt Lake City, Utah : Utah Geological Survey, 2013.",
+    "Relief shown by contours.",
+    "System requirements: Adobe Acrobat Reader, Specialized GIS software to view GIS files.",
+    "This CD contains 2 plates, a geologic map at 1:24,000 scale and explanation plate, and a 38 page booklet in PDF format."
+  ],
+  "dct_identifier_sm": [
+    "http://geology.utah.gov/online/m/m-263.pdf",
+    "http://lccn.loc.gov/2017590333",
+    "http://www.loc.gov/item/2017590333/",
+    "https://www.loc.gov/item/2017590333/"
+  ],
+  "dct_issued_s": "2013",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2017590333/\"}",
+  "dct_spatial_sm": [
+    "iron county",
+    "utah"
+  ],
+  "dct_subject_sm": [
+    "Geology--Utah--Iron County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_title_s": "Geologic map of the Brian Head quadrangle, Iron County, Utah",
+  "gbl_dateRange_drsim": [
+    "[2013 TO 2013]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017590333",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

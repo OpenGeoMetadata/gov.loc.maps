@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "AACR2 Bird's-eye-view. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 318 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Contributors: Bailey, O. H. (Oakley Hoopes), 1843-1947; Hazen, J. C., joint author; J. Knauber & Co",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 318",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Boston [1877]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764p.pm003180",
+    "http://lccn.loc.gov/75694598",
+    "http://www.loc.gov/item/75694598/",
+    "http://www.loc.gov/resource/g3764p.pm003180/",
+    "https://hdl.loc.gov/loc.gmd/g3764p.pm003180",
+    "https://search.catalog.loc.gov/instances/a22ed0c2-1d13-5d45-a05f-8423906c089b",
+    "https://www.loc.gov/item/75694598/"
+  ],
+  "dct_issued_s": "1877",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764p/pm003180.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694598/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "peabody",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Peabody (Mass.)--Maps",
+    "United States--Massachusetts--Peabody"
+  ],
+  "dct_temporal_sm": [
+    "1877"
+  ],
+  "dct_title_s": "View of Peabody, Mass. 1877",
+  "gbl_dateRange_drsim": [
+    "[1877 TO 1877]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1877
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694598",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

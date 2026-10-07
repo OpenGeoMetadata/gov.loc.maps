@@ -1,0 +1,48 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Pen-and-ink, watercolor, and pencil.",
+    "Pen-and-ink, watercolor, and pencil. Available also through the Library of Congress web site as a raster image. Vault",
+    "Publication statement: [185-]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4282n.ct000262",
+    "http://lccn.loc.gov/98687153",
+    "http://www.loc.gov/item/98687153/",
+    "http://www.loc.gov/resource/g4282n.ct000262/",
+    "https://hdl.loc.gov/loc.gmd/g4282n.ct000262",
+    "https://search.catalog.loc.gov/instances/d9752e83-4848-5c9a-8c3e-e49e81ae21b8",
+    "https://www.loc.gov/item/98687153/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd428/g4282/g4282n/ct000262.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687153/\"}",
+  "dct_spatial_sm": [
+    "nisqually plains",
+    "united states",
+    "washington (state)"
+  ],
+  "dct_subject_sm": [
+    "United States--Washington (State)--Nisqually Plains"
+  ],
+  "dct_temporal_sm": [
+    "185?"
+  ],
+  "dct_title_s": "[Map of Nisqually Plains]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687153",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 312.3 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Contributors: O.H. Bailey & Co",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 312.3",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Boston [1897]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764n.pm003123",
+    "http://lccn.loc.gov/74693149",
+    "http://www.loc.gov/item/74693149/",
+    "http://www.loc.gov/resource/g3764n.pm003123/",
+    "https://hdl.loc.gov/loc.gmd/g3764n.pm003123",
+    "https://search.catalog.loc.gov/instances/3640569f-30e7-5243-a226-e4291c4df5c4",
+    "https://www.loc.gov/item/74693149/"
+  ],
+  "dct_issued_s": "1897",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764n/pm003123.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693149/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "newton",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Newton (Mass.)",
+    "United States--Massachusetts--Newton"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "dct_title_s": "Wards 1 and 7, Newton, Massachusetts 1897",
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693149",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

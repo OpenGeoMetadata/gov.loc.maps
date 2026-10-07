@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by soundings.",
+    "Pen-and-ink with ink wash on eight irregularly shaped sheets of paper, following the course of the river. Some spots of red pigment, apparently accidental. Mounted on cloth backed paper sectioned into two for folding.",
+    "Publication statement: [New Brunswick?] : [Producer not indicated], [1780?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Depths shown by soundings. Pen-and-ink with ink wash on eight irregularly shaped sheets of paper, following the course of the river. Some spots of red pigment, apparently accidental. Mounted on cloth backed paper sectioned into two for folding. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2017593658",
+    "http://www.loc.gov/item/2017593658/",
+    "http://www.loc.gov/resource/g3732s.ct008228/",
+    "https://hdl.loc.gov/loc.gmd/g3732s.ct008228",
+    "https://search.catalog.loc.gov/instances/93579f9e-b31f-5829-a283-0becab5d9c86",
+    "https://www.loc.gov/item/2017593658/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3732/g3732s/ct008228.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017593658/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "maine",
+    "new brunswick",
+    "saint john river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--New Brunswick--Saint John River",
+    "Saint John River (Me. and N.B.)--Maps--Early works to 1800",
+    "United States--Maine--Saint John River"
+  ],
+  "dct_temporal_sm": [
+    "1780",
+    "[New Brunswick?] : [Producer not indicated], [1780?]"
+  ],
+  "dct_title_s": "Draught of St. Johns River in the Bay of Funday",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017593658",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

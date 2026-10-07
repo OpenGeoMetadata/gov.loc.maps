@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771; Sayer, Robert, 1725-1794; [Holland, Samuel] 1728-1801",
+    "Hand colored.",
+    "LC Maps of North America, 1750-1789, 1039",
+    "LC copy incomplete, shows only northern New York and Quebec.",
+    "Publication statement: London, Printed for Robt. Sayer ... and T. Jefferys, 1768?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:650,000.",
+    "Title in upper margin: A chorographical map of the country between Albany, Oswego, Fort Frontenac, and les Trois Rivières ... Drawn from authentic surveys by Thomas Jefferys, geographer to His Majesty.",
+    "Title in upper margin: A chorographical map of the country between Albany, Oswego, Fort Frontenac, and les Trois Rivières ... Drawn from authentic surveys by Thomas Jefferys, geographer to His Majesty. Hand colored. Relief shown pictorially. Scale ca. 1:650,000. LC Maps of North America, 1750-1789, 1039 Available also through the Library of Congress Web site as a raster image. LC copy incomplete, shows only northern New York and Quebec. Vault AACR2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3800.ar103901",
+    "http://lccn.loc.gov/74692649",
+    "http://www.loc.gov/item/74692649/",
+    "http://www.loc.gov/resource/g3800.ar103901/",
+    "https://hdl.loc.gov/loc.gmd/g3800.ar103901",
+    "https://search.catalog.loc.gov/instances/3e3ad0c6-c0b4-5ff7-bc29-7f3f9ae4765c",
+    "https://www.loc.gov/item/74692649/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3800/g3800/ar103901.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692649/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "new york",
+    "new york (state)",
+    "québec",
+    "québec (province)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--Québec (Province)",
+    "New York (State)--Maps--Early works to 1800",
+    "Québec (Province)--Maps--Early works to 1800",
+    "United States--New York (State)"
+  ],
+  "dct_temporal_sm": [
+    "1768",
+    "London, Printed for Robt. Sayer ... and T. Jefferys, 1768?]"
+  ],
+  "dct_title_s": "[The provinces of New York, and New Jersey; with part of Pensilvania, and the governments of Trois Rivières, and Montreal:",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692649",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Content in English.",
+    "Contributors: Holdich, Thomas Hungerford, Sir, 1843-1929 Cartographer.; Royal Geographical Society (Great Britain) Associated Name.; Weller, Edward, died 1884 Lithographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "In the early 1880s, Great Britain (which at that time effectively controlled the foreign policy of Afghanistan) and the Russian Empire opened negotiations to define the northern border of Afghanistan. The two sides formed a joint Afghan Boundary Commission, which began work in the fall of 1885. This map shows the routes taken by the members of the commission in the Badghis area (present-day Badghis Province) in the northwestern part of the country, on the border with present-day Turkmenistan, which at that time was part of the Russian Empire. The map shows rivers and populated places. Relief is shown by hachures; the height of mountains is given in feet. The scale is one inch to 24 miles (2.54 centimeters to 38.62 kilometers). The map was drawn by Major T.H. Holdich, an officer with the Royal Engineers of the British Army in India, and was prepared for a paper on the Afghan Boundary Commission that was read to the Royal Geographical Society in London in March 1885. The map was produced by lithographer Edward Weller (1819-84), a London-based cartographer and engraver who was the unofficial geographer of the Royal Geographical Society.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : color ; 20 x 17 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1885.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668596",
+    "http://www.loc.gov/item/2021668596/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15020/",
+    "http://www.loc.gov/resource/wdl.15020/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15020",
+    "https://www.loc.gov/item/2021668596/"
+  ],
+  "dct_issued_s": "1885-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15020.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/02/0/wdl_15020/wdl_15020.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:0:wdl_15020:am002879c/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668596/\"}",
+  "dct_spatial_sm": [
+    "afghanistan",
+    "bādghīs"
+  ],
+  "dct_subject_sm": [
+    "1879 to 1880",
+    "Afghan Boundary Commission",
+    "Afghanistan--Bādghīs",
+    "Expeditions and surveys",
+    "Library of Congress Afghanistan Project",
+    "Territorial questions"
+  ],
+  "dct_temporal_sm": [
+    "1885-01-01"
+  ],
+  "dct_title_s": "Preliminary Map of the Routes Followed by the Members of the Afghan Boundary Commission.",
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1885]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1885
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668596",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Low-flow characteristics of streams in Maryland and Delaware"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base-map publication statement in lower margin of county maps: Interior--Geological Survey, Reston, Va.--1980--W40516.",
+    "Contributors: Carpenter, David H. (Hydrologist); Delaware Geological Survey; Geological Survey (U.S.); Hayes, Donald C.; Maryland Geological Survey; Maryland. Water Resources Administration",
+    "In upper margin at right: Carpenter, D.H., and Hayes, D., 1994. Low-flow characteristics of streams in Maryland and Delaware.",
+    "Includes notes and location map.",
+    "LC sheets possibly removed from book or from slipcase accompanying a book.",
+    "Plates 2 thru 10 each cover a single Eastern-Shore county in Maryland. Plate 1 has variant title and covers the entire states of Maryland and Delaware at scale 1:500,000.",
+    "Plates 2 thru 10 each cover a single Eastern-Shore county in Maryland. Plate 1 has variant title and covers the entire states of Maryland and Delaware at scale 1:500,000. Relief shown by spot heights on county maps. In upper margin at right: Carpenter, D.H., and Hayes, D., 1994. Low-flow characteristics of streams in Maryland and Delaware. Base-map publication statement in lower margin of county maps: Interior--Geological Survey, Reston, Va.--1980--W40516. Includes notes and location map. Available also through the Library of Congress Web site as a raster image. LC sheets possibly removed from book or from slipcase accompanying a book.",
+    "Publication statement: [Reston, Va.?] : U.S. Geological Survey, [1994]",
+    "Relief shown by spot heights on county maps."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/96687726",
+    "http://www.loc.gov/item/96687726/",
+    "http://www.loc.gov/resource/gmdsetmaps.96687726/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.96687726",
+    "https://search.catalog.loc.gov/instances/0c793f86-d2b0-529b-ac36-17daa5e9c817",
+    "https://www.loc.gov/item/96687726/"
+  ],
+  "dct_issued_s": "1994",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:96:68:77:26:96687726:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/96687726/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "eastern shore",
+    "eastern shore (md.)",
+    "eastern shore (va.)",
+    "maryland",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Soils--Eastern Shore (Md. and Va.)--Maps",
+    "Soils--Maryland--Maps",
+    "Stream-gaging stations--Delaware--Maps",
+    "Stream-gaging stations--Maryland--Maps",
+    "United States--Maryland--Eastern Shore (Md.)",
+    "United States--Virginia--Eastern Shore (Va.)"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_title_s": "Map showing extent of type A and type D soils, [name of] County, Maryland",
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96687726",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

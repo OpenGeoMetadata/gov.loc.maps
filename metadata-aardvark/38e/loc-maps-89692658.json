@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Graham, Andrew B.; Harlow, M. B. (Michael B.); Howell & Taylor",
+    "Copyright: M.B. Harlow.",
+    "D20751 U.S. Copyright Office",
+    "D20751 U.S. Copyright Office Shows selected buildings. In lower right corner: Howell & Taylor, Wash., D.C. Copyright: M.B. Harlow. Includes text. Available also through the Library of Congress Web site as a raster image. DCP",
+    "DCP",
+    "In lower right corner: Howell & Taylor, Wash., D.C.",
+    "Includes text.",
+    "Publication statement: [Alexandria, Va.] : M.B. Harlow, c1900",
+    "Shows selected buildings."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/89692658",
+    "http://www.loc.gov/item/89692658/",
+    "http://www.loc.gov/resource/g3884a.ct009283/",
+    "https://hdl.loc.gov/loc.gmd/g3884a.ct009283",
+    "https://search.catalog.loc.gov/instances/9f9f114b-960a-55da-b81d-984cc7479ee9",
+    "https://www.loc.gov/item/89692658/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884a/ct009283.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89692658/\"}",
+  "dct_spatial_sm": [
+    "alexandria",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Alexandria (Va.)--Maps",
+    "United States--Virginia--Alexandria"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Alexandria City showing connections with Washington",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89692658",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

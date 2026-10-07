@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "At Gettysburg",
+    "Title in upper margin: At Gettysburg"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 1997--417-648/60052. Reprint 1992.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, index to points of interest, and col. ill.",
+    "Oblique airphoto taken from aircraft.",
+    "Oblique airphoto taken from aircraft. \"*GPO: 1997--417-648/60052. Reprint 1992.\" Panel title. Includes text, index to points of interest, and col. ill. Text and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1997]",
+    "Text and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822e.ct007944",
+    "http://lccn.loc.gov/97685710",
+    "http://www.loc.gov/item/97685710/",
+    "http://www.loc.gov/resource/g3822e.ct007944/",
+    "https://hdl.loc.gov/loc.gmd/g3822e.ct007944",
+    "https://search.catalog.loc.gov/instances/785fe1e6-2376-544e-92ef-1d83dd68ab2c",
+    "https://www.loc.gov/item/97685710/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822e/ct007944.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97685710/\"}",
+  "dct_spatial_sm": [
+    "eisenhower national historic site",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Eisenhower National Historic Site (Pa.)--Aerial views",
+    "Eisenhower National Historic Site (Pa.)--Remote-sensing images",
+    "United States--Pennsylvania--Eisenhower National Historic Site"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Eisenhower National Historic Site, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97685710",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

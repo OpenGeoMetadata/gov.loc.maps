@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"January 1833.\"",
+    "\"January 1833.\" Relief shown by hachures. Pen-and-ink and watercolor. Available also through the Library of Congress Web site as a raster image. Vault Acquisitions control no. 99-43",
+    "Acquisitions control no. 99-43",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Van Schaack, Mary",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: 1833.",
+    "Relief shown by hachures.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct007149",
+    "http://lccn.loc.gov/99463787",
+    "http://www.loc.gov/item/99463787/",
+    "http://www.loc.gov/resource/g3200.ct007149/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct007149",
+    "https://search.catalog.loc.gov/instances/d381b0b1-7622-5544-8357-43ff341c92f9",
+    "https://www.loc.gov/item/99463787/"
+  ],
+  "dct_issued_s": "1833",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct007149.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99463787/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)",
+    "World maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1833"
+  ],
+  "dct_title_s": "The world",
+  "gbl_dateRange_drsim": [
+    "[1833 TO 1833]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1833
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99463787",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

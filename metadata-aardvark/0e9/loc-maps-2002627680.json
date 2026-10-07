@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"761266AI 2-02.\"",
+    "\"Background image composed of AVHRR imagery, Landsat TM (bands 7, 4, 2), and DTED level 1.\"",
+    "\"DI Cartography and Design Centers/MPG 386487AI 10-02.\"",
+    "Ancillary maps: Physical features -- Population density -- Economic activity -- Distribution of ethnoreligious groups and key tribal areas -- Annual rainfall -- Land use.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency. Cartography Center; United States. Central Intelligence Agency. Design Center",
+    "Includes comparative area map, 2 location maps, text, and historical timeline.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2002]",
+    "Relief shown by shading.",
+    "Relief shown by shading. \"DI Cartography and Design Centers/MPG 386487AI 10-02.\" \"761266AI 2-02.\" \"Background image composed of AVHRR imagery, Landsat TM (bands 7, 4, 2), and DTED level 1.\" Includes comparative area map, 2 location maps, text, and historical timeline. Ancillary maps: Physical features -- Population density -- Economic activity -- Distribution of ethnoreligious groups and key tribal areas -- Annual rainfall -- Land use. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7540.ct000822",
+    "http://lccn.loc.gov/2002627680",
+    "http://www.loc.gov/item/2002627680/",
+    "http://www.loc.gov/resource/g7540.ct000822/",
+    "https://hdl.loc.gov/loc.gmd/g7540.ct000822",
+    "https://search.catalog.loc.gov/instances/95aac8dd-33d4-5b78-8906-03c0248807b7",
+    "https://www.loc.gov/item/2002627680/"
+  ],
+  "dct_issued_s": "2002",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7540/g7540/ct000822.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002627680/\"}",
+  "dct_spatial_sm": [
+    "republic",
+    "yemen"
+  ],
+  "dct_subject_sm": [
+    "Ethnic groups--Yemen--Maps",
+    "Land use--Yemen--Maps",
+    "Population density--Yemen--Maps",
+    "Rain and rainfall--Yemen--Maps",
+    "Yemen",
+    "Yemen (Republic)--Economic conditions--Maps",
+    "Yemen (Republic)--Maps, Physical",
+    "Yemen (Republic)--Religion--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "dct_title_s": "Yemen",
+  "gbl_dateRange_drsim": [
+    "[2002 TO 2002]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002627680",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

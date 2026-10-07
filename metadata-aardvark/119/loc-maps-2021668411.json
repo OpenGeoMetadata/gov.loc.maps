@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Content in Latin.",
+    "Contributors: Hondius, Jodocus, 1563-1612 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map; black and white; 11.60 x 8.50 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1598.",
+    "This 1616 map is a reprint of a map originally published in 1598 by Jodocus Hondius (1563-1612), a Flemish cartographer and engraver who settled in Amsterdam in about 1593 and established a business that produced globes and the first large maps of the world. The map covers the territory from west of the Gulf of Suez to the eastern side of the Arabian Peninsula, and from the mouth of the Euphrates River to Aden. The only cities indicated on the western coast of the Persian or Arabian Gulf are Qatar (\"Catara\"), \"Godo,\" and \"Catiffa.\" The map shows sandbanks around the coast and rivers at Medina and Mecca. Few towns and regions are shown, and there is a range of mountains in the center of the peninsula. Al Qatif is repeated as the town \"Catiffa\" and the region \"Elcatif.\" The peninsula opposite Bahrain Island, shown unnamed, is marked as where \"Catara\" is found. The commonly noted rivers of the Arabian coast are shown as very close together. The Arabian Gulf is called \"Persicus Sinus\" (Persian Gulf) and there is no name given for the Red Sea. The Ayaman area is shown as the most populated area on the map. The cartographer uses castles to denote cities and dotted lines to show the division of the Arabian Peninsula into three parts.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668411",
+    "http://www.loc.gov/item/2021668411/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_02921/",
+    "http://www.loc.gov/resource/wdl.2921/",
+    "https://hdl.loc.gov/loc.wdl/wdl.2921",
+    "https://www.loc.gov/item/2021668411/"
+  ],
+  "dct_issued_s": "1598-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_02921.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/02/92/1/wdl_02921/wdl_02921.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:92:1:wdl_02921:1049/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668411/\"}",
+  "dct_spatial_sm": [
+    "bahrain",
+    "iraq",
+    "kuwait",
+    "oman",
+    "qatar",
+    "saudi arabia",
+    "united arab emirates",
+    "yemen"
+  ],
+  "dct_subject_sm": [
+    "1598",
+    "Arabian Gulf",
+    "Arabian Peninsula",
+    "Bahrain",
+    "Iraq",
+    "Kuwait",
+    "Oman",
+    "Persian Gulf",
+    "Qatar",
+    "Saudi Arabia",
+    "United Arab Emirates",
+    "Yemen"
+  ],
+  "dct_temporal_sm": [
+    "1598-01-01"
+  ],
+  "dct_title_s": "Arabia.",
+  "gbl_dateRange_drsim": [
+    "[1598 TO 1598]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1598
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668411",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

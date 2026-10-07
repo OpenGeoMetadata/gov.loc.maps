@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "1934 - 1937 Vol. 5, 1937.",
+    "1934 - 1937 Vol. 5, 1937. 99 sheet(s). Key map to edition. Bound.",
+    "99 sheet(s).",
+    "Key map to edition. Bound.",
+    "Publication statement: Sanborn Map Company, 1934 - 1937 Vol. 5, 1937"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4084cm.g4084cm_g06645193705",
+    "http://www.loc.gov/item/sanborn06645_020/",
+    "http://www.loc.gov/resource/g4084cm.g4084cm_g06645193705/",
+    "https://hdl.loc.gov/loc.gmd/g4084cm.g4084cm_g06645193705",
+    "https://www.loc.gov/item/sanborn06645_020",
+    "https://www.loc.gov/item/sanborn06645_020/",
+    "https://www.loc.gov/resource/g4084cm.g4084cm_g06645193705"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn06645_020/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408m/g4084m/g4084cm/g4084cm_g06645193705/06645_05_1937-0000a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn06645_020/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "cincinnati",
+    "hamilton county",
+    "ohio",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1934/1937"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Cincinnati, Hamilton County, Ohio.",
+  "gbl_dateRange_drsim": [
+    "[1934 TO 1937]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1934
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn06645_020",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

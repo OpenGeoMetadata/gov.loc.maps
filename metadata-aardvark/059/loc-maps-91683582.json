@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 8-85A",
+    "Annotated in brown ink in upper right margin: 191.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Boisseau, Jean, active 1637-1658",
+    "Publication statement: Paris : Chez Iean Boisseau, enlumineur du Roy pour les cartes géographiques, [1643?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Annotated in brown ink in upper right margin: 191. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 8-85A Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3400.ct007540",
+    "http://lccn.loc.gov/91683582",
+    "http://www.loc.gov/item/91683582/",
+    "http://www.loc.gov/resource/g3400.ct007540/",
+    "https://hdl.loc.gov/loc.gmd/g3400.ct007540",
+    "https://search.catalog.loc.gov/instances/82803050-a629-508f-baec-d791f704c20c",
+    "https://www.loc.gov/item/91683582/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3400/g3400/ct007540.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91683582/\"}",
+  "dct_spatial_sm": [
+    "canada"
+  ],
+  "dct_subject_sm": [
+    "Canada",
+    "Canada--Maps--Early works to 1800",
+    "Early maps"
+  ],
+  "dct_temporal_sm": [
+    "1643",
+    "Paris : Chez Iean Boisseau, enlumineur du Roy pour les cartes géographiques, [1643?]"
+  ],
+  "dct_title_s": "Description de la Nouvelle France, ou, sont remarquées les diverses habitations des françois, despuis la première descouverte jusques à present, receuillie et dressée sur diverses relations modernes, 1643",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91683582",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

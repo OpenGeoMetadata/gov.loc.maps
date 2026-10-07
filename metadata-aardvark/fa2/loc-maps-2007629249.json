@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "LC Civil War maps (2nd ed.), S116",
+    "Pencil sketch showing towns, railroads, roads, and drainage.",
+    "Publication statement: [1863]",
+    "Title and date from Stephenson's Civil War Maps, 1989.",
+    "Title and date from Stephenson's Civil War Maps, 1989. Pencil sketch showing towns, railroads, roads, and drainage. LC Civil War maps (2nd ed.), S116 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3984v.cws00116",
+    "http://lccn.loc.gov/2007629249",
+    "http://www.loc.gov/item/2007629249/",
+    "http://www.loc.gov/resource/g3984v.cws00116/",
+    "https://hdl.loc.gov/loc.gmd/g3984v.cws00116",
+    "https://search.catalog.loc.gov/instances/2825f7c8-2178-5765-b577-4e6220b98253",
+    "https://www.loc.gov/item/2007629249/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3984/g3984v/cws00116.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007629249/\"}",
+  "dct_spatial_sm": [
+    "jackson",
+    "mississippi",
+    "united states",
+    "vicksburg"
+  ],
+  "dct_subject_sm": [
+    "Jackson (Miss.)--Maps, Manuscript",
+    "United States--Mississippi--Jackson",
+    "United States--Mississippi--Vicksburg",
+    "Vicksburg (Miss.)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "[Map of the environs of Vicksburg and Jackson, Mississippi.]",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007629249",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

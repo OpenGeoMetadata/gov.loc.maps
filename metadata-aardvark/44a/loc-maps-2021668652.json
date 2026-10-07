@@ -1,0 +1,80 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte geographiqve de la Novvelle Franse faictte par le Sievr de Champlain Saint Tongois cappitaine ordinaire povr le Roy en la marine"
+  ],
+  "dct_description_sm": [
+    "Content in French.",
+    "Contributors: Champlain, Samuel de, 1567-1635 Creator.; Pelletier, David Engraver.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "New France was born more than four centuries ago as a result of the determination and talents of Samuel de Champlain (1574--1635), a native of Saintonge, France. Champlain embarked for Canada from Honfleur on March 15, 1603, and reached Tadoussac after a 40-day Atlantic crossing. He first explored some 50--60 kilometers up the Saguenay River. He then traveled up the Saint Lawrence River to a location near present-day Montreal, collecting information from the Indians about the geography of the land he sought to explore. In the summer of 1608 he started building the Habitation de Québec, the trading post that became Quebec City. This created a base for the French to settle on the continent and explore inland. Upon his return to France, Champlain went to the royal court to present his plans for a North American colony. He offered the king a few tokens from his time in Canada: a porcupine hair belt, two small birds, and a fish head. Presented here is the magnificent map of the country that Champlain showed to the king. He showed the same map to the Count of Soissons to obtain his approval for his plans. In 1612 Champlain had the map engraved for inclusion in his account of his travels, which was published by Jean Berjon the following year. Oriented to the magnetic north (that of the compass) rather than the geographical north (indicated by the oblique line across the map), the map highlights the places Champlain visited, including the coasts of Newfoundland and Acadia (present-day Nova Scotia) and the Saint Lawrence River and its main tributaries. To the west, the Ottawa River--also known as Rivière des Algonquins (Algonquin River)--appears on the map. It was reconnoitered by a young French explorer and interpreter, Nicolas de Vignau. In the far west are two lakes, drawn based on the information gathered from the Indians, connected by a sault de au (old French for \"waterfall\"), i.e., Niagara Falls. The first known mentions of a few names appear on the map, for example Percé, Cap-Chat (labeled Cap de Chate, named after Aymar de Chaste, lieutenant-general of New France in 1603), the Batiscan River, Lake Champlain, and Lake Saint-Pierre. The map also indicates the areas inhabited by different Native American tribes at the time: the Iroquois south of Lake Champlain, the Montagnais on the south bank of the Saint Lawrence River, the Algonquins on the Ottawa River, the Etchemin and Souriquois on the Atlantic coast, and the Hurons in the Great Lakes region. On the bottom border, as well as elsewhere on the map, are depictions of plants, fruit, vegetables and sea animals showing the untapped riches of this land that the French were claiming. Two Native American couples also are portrayed in poses typical of the time.",
+    "Original resource at: National Library and Archives of Quebec.",
+    "Original resource extent: 1 map : black-and-white ; 35 x 77 centimeters.",
+    "Publication statement: Paris : Jean Berjon, 1612.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668652",
+    "http://www.loc.gov/item/2021668652/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15555/",
+    "http://www.loc.gov/resource/wdl.15555/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15555",
+    "https://www.loc.gov/item/2021668652/"
+  ],
+  "dct_issued_s": "1612-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15555.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/55/5/wdl_15555/wdl_15555.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:55:5:wdl_15555:3816241/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668652/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "new brunswick",
+    "newfoundland and labrador",
+    "nova scotia",
+    "prince edward island",
+    "quebec"
+  ],
+  "dct_subject_sm": [
+    "1612",
+    "Animals",
+    "Canada--New Brunswick",
+    "Canada--Newfoundland and Labrador",
+    "Canada--Nova Scotia",
+    "Canada--Prince Edward Island",
+    "Canada--Quebec",
+    "Clothing and dress",
+    "Exploration and encounters",
+    "Indians of North America",
+    "Indigenous peoples",
+    "New France",
+    "Plants",
+    "Saguenay-Lac-Saint-Jean (Québec)",
+    "Saint Lawrence River",
+    "Saint Lawrence River Valley",
+    "Saint Lawrence, Gulf of"
+  ],
+  "dct_temporal_sm": [
+    "1612-01-01"
+  ],
+  "dct_title_s": "Geographical Map of New France Made by Mr. de Champlain of Saintonge, Ordinary Captain for the King's Navy.",
+  "gbl_dateRange_drsim": [
+    "[1612 TO 1612]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1612
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668652",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

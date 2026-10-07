@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanying benthic habitat classification manual entitled: Benthic habitats of the main Hawaiian Islands: Interim product 2003.",
+    "Also available online via NOAA's Biogeography Program home page and available also as printed atlas.",
+    "Contributors: Center for Coastal Monitoring and Assessment (U.S.). Biogeography Program.",
+    "Eight metadata files included on CD-ROM.",
+    "Electronic text, map, numeric and image data.",
+    "LC copy wanting documentation when received in CF&M.",
+    "Provides a benthic habitat classification manual, a benthic habitat map for the nearshore waters of the main Hawaiian Islands, and supplemental geospatial data. Twenty-seven distinct benthic habitat types within eleven zones were mapped directly into a geographic information system (GIS) using visual interpretation of orthorectified aerial photographs and hyperspectral imagery. Benthic features were mapped that covered an area of 790 km². In all, 204 km² of unconsolidated sediment, 171 km² of submerged vegetation, and 415 km² of coral reef and colonized hardbottom were mapped.",
+    "Publication statement: [Silver Spring, Md. : U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Ocean Service, National Centers for Coastal Ocean Science, Center for Coastal Monitoring and Assessment, Biogeography Program, 2003]",
+    "System requirements: IBM-compatible PC; CD-ROM drive; web browsers; ArcView GIS (ArcView 3.1 or higher); Adobe Acrobat Reader and PKZIP Shareware.",
+    "Title from title screen."
+  ],
+  "dct_identifier_sm": [
+    "http://biogeo.nos.noaa.gov/products/hawaii%5Fcd/",
+    "http://lccn.loc.gov/2004627047",
+    "http://www.loc.gov/item/2004627047/",
+    "https://www.loc.gov/item/2004627047/"
+  ],
+  "dct_issued_s": "2003",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2004627047/\"}",
+  "dct_spatial_sm": [
+    "hawaii"
+  ],
+  "dct_subject_sm": [
+    "Aquatic habitats--Hawaii--Aerial photographs--Data processing",
+    "Aquatic habitats--Hawaii--Classification",
+    "Benthos--Habitat--Hawaii--Aerial photographs",
+    "Benthos--Habitat--Hawaii--Classification",
+    "Benthos--Habitat--Hawaii--Maps",
+    "Coral reef ecology--Hawaii",
+    "Hawaii--Aerial photographs--Data processing"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_title_s": "Benthic habitats of the main Hawaiian Islands",
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004627047",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

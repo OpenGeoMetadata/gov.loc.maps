@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "AACR2 Oriented with north to the right. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 153 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Poole Brothers",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 153",
+    "Oriented with north to the right.",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Chicago, c1898."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4104c.pm001530",
+    "http://lccn.loc.gov/75693212",
+    "http://www.loc.gov/item/75693212/",
+    "http://www.loc.gov/resource/g4104c.pm001530/",
+    "https://hdl.loc.gov/loc.gmd/g4104c.pm001530",
+    "https://search.catalog.loc.gov/instances/091fe3b8-5c92-5889-9218-da377f9c9b79",
+    "https://www.loc.gov/item/75693212/"
+  ],
+  "dct_issued_s": "1898",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410/g4104/g4104c/pm001530.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693212/\"}",
+  "dct_spatial_sm": [
+    "chicago",
+    "illinois",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Central business districts--Illinois--Chicago--Maps",
+    "Chicago (Ill.)--Maps",
+    "United States--Illinois--Chicago"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "dct_title_s": "Bird's-eye-view of the business district of Chicago",
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1898]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1898
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693212",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

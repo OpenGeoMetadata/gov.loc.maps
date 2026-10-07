@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Northrup, William P.",
+    "Copyright no. \"C1. F 22761.\"",
+    "Description derived from published bibliography.",
+    "Library of Congress. Civil War maps (2nd ed.), 509.4",
+    "Map of eastern Virginia and parts of North Carolina, Maryland, West Virginia, and Pennsylvania, showing \"battles in which New York regiments were engaged,\" \"railroads at time of war,\" and \"turnpikes and plank roads.\" Union states are colored yellow, and Confederate states are green.",
+    "Map of eastern Virginia and parts of North Carolina, Maryland, West Virginia, and Pennsylvania, showing \"battles in which New York regiments were engaged,\" \"railroads at time of war,\" and \"turnpikes and plank roads.\" Union states are colored yellow, and Confederate states are green. Copyright no. \"C1. F 22761.\" Description derived from published bibliography. Scale ca. 1:366,000. Library of Congress. Civil War maps (2nd ed.), 509.4 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: Buffalo, N.Y., The Matthews-Northrup Works, c1912.",
+    "Scale ca. 1:366,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881s.cw0509400",
+    "http://lccn.loc.gov/99448898",
+    "http://www.loc.gov/item/99448898/",
+    "http://www.loc.gov/resource/g3881s.cw0509400/",
+    "https://hdl.loc.gov/loc.gmd/g3881s.cw0509400",
+    "https://search.catalog.loc.gov/instances/bdba2801-6089-5223-8548-9705d1199f26",
+    "https://www.loc.gov/item/99448898/"
+  ],
+  "dct_issued_s": "1912",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881s/cw0509400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448898/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "north carolina",
+    "pennsylvania",
+    "united states",
+    "virginia",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Maryland--History--Civil War, 1861-1865--Maps",
+    "North Carolina--History--Civil War, 1861-1865--Maps",
+    "Pennsylvania--History--Civil War, 1861-1865--Maps",
+    "United States--Maryland",
+    "United States--North Carolina",
+    "United States--Pennsylvania",
+    "United States--Virginia",
+    "United States--West Virginia",
+    "Virginia--History--Civil War, 1861-1865--Maps",
+    "West Virginia--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dct_title_s": "Map of Virginia and neighboring states showing the location of battles in the Civil War 1861-1865",
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448898",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

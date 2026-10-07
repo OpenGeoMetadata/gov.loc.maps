@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: [Lanham? Md.] : The Service, [1979?]",
+    "Shows flood control dams, reservoirs, and benefited areas.",
+    "Shows flood control dams, reservoirs, and benefited areas. Includes location map. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3742b.ct005509",
+    "http://lccn.loc.gov/81690286",
+    "http://www.loc.gov/item/81690286/",
+    "http://www.loc.gov/resource/g3742b.ct005509/",
+    "https://hdl.loc.gov/loc.gmd/g3742b.ct005509",
+    "https://search.catalog.loc.gov/instances/20b98bc3-8567-572e-a5eb-7257aeb461ce",
+    "https://www.loc.gov/item/81690286/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd374/g3742/g3742b/ct005509.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690286/\"}",
+  "dct_spatial_sm": [
+    "baker river watershed",
+    "new hampshire",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Flood control--New Hampshire--Baker River watershed--Maps",
+    "United States--New Hampshire--Baker River watershed"
+  ],
+  "dct_temporal_sm": [
+    "1979",
+    "[Lanham? Md.] : The Service, [1979?]"
+  ],
+  "dct_title_s": "Project map, Baker River watershed, Grafton County, New Hampshire",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690286",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

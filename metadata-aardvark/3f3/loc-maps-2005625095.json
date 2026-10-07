@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Colored pencils, mounted on cloth.",
+    "In pencil on verso: 316.",
+    "Library of Congress. Civil War maps (2nd ed.), H188",
+    "Publication statement: [186-]",
+    "Relief shown by hachures.",
+    "Shows names of some residents.",
+    "Shows names of some residents. Relief shown by hachures. Title, date, and scale from Stephenson's Civil War maps, 1989. Colored pencils, mounted on cloth. In pencil on verso: 316. Library of Congress. Civil War maps (2nd ed.), H188 Available also through the Library of Congress web site as raster image.",
+    "Title, date, and scale from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882f.cwh00188",
+    "http://lccn.loc.gov/2005625095",
+    "http://www.loc.gov/item/2005625095/",
+    "http://www.loc.gov/resource/g3882f.cwh00188/",
+    "https://hdl.loc.gov/loc.gmd/g3882f.cwh00188",
+    "https://search.catalog.loc.gov/instances/eb0c5392-c5df-54a7-aa4c-6ced0dfad6c0",
+    "https://www.loc.gov/item/2005625095/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882f/cwh00188.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625095/\"}",
+  "dct_spatial_sm": [
+    "fishers hill region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Fishers Hill Region (Va.)--Maps",
+    "Landowners--Virginia--Fishers Hill Region--Maps",
+    "United States--Virginia--Fishers Hill Region"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "[Five sketches along the Valley Pike in the vicinity of Fishers Hill, Strasburg, Cottontown, Mount Hope, Toms Brook, etc.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625095",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

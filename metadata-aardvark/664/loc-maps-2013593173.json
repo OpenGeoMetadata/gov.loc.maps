@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the 1865 by C.O. Titus in the Clerks Office of the District Court of the Eastern District of Pennsylvania.\"",
+    "\"Entered according to Act of Congress in the 1865 by C.O. Titus in the Clerks Office of the District Court of the Eastern District of Pennsylvania.\" Includes distance table, business directories, statistical table (1860 census), views of public and commercial buildings. Insets: Bridgeport -- Allison Ville -- Vertland -- Popular Grove -- Augusta -- Board Ripple -- West Newton -- Clermont -- Lanesville -- New Brethel -- Acton -- Cumber -- Oakland -- Southport -- Millarsville -- Spring Valley -- Mt. Jackson -- Wellington -- Hosbrook. LC Land ownership maps, 158 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bourquin, F. (Frederick), 1808-; Warner, A.; Worley & Bracher",
+    "Includes distance table, business directories, statistical table (1860 census), views of public and commercial buildings.",
+    "Insets: Bridgeport -- Allison Ville -- Vertland -- Popular Grove -- Augusta -- Board Ripple -- West Newton -- Clermont -- Lanesville -- New Brethel -- Acton -- Cumber -- Oakland -- Southport -- Millarsville -- Spring Valley -- Mt. Jackson -- Wellington -- Hosbrook.",
+    "LC Land ownership maps, 158",
+    "Publication statement: Philadelphia : C.O. Titus, Publisher, 1866."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4093m.la000158",
+    "http://lccn.loc.gov/2013593173",
+    "http://www.loc.gov/item/2013593173/",
+    "http://www.loc.gov/resource/g4093m.la000158/",
+    "https://hdl.loc.gov/loc.gmd/g4093m.la000158",
+    "https://search.catalog.loc.gov/instances/432dadf4-aa27-51df-9e63-431fe4cc9d7b",
+    "https://www.loc.gov/item/2013593173/"
+  ],
+  "dct_issued_s": "1866",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409/g4093/g4093m/la000158.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593173/\"}",
+  "dct_spatial_sm": [
+    "indiana",
+    "marion county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Indiana--Marion County--Maps",
+    "Real property--Indiana--Marion County--Maps",
+    "United States--Indiana--Marion County"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "dct_title_s": "Map of Marion County, Indiana",
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1866
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593173",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes index to troop positions.",
+    "LC Maps of North America, 1750-1789, 1282",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Relief shown by hachures. Includes index to troop positions. Scale ca. 1:24,000. LC Maps of North America, 1750-1789, 1282 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: [1778?]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:24,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3812m.ar128200",
+    "http://lccn.loc.gov/gm71002212",
+    "http://www.loc.gov/item/gm71002212/",
+    "http://www.loc.gov/resource/g3812m.ar128200/",
+    "https://hdl.loc.gov/loc.gmd/g3812m.ar128200",
+    "https://search.catalog.loc.gov/instances/afb18a62-3524-5407-9cbb-03685e87550a",
+    "https://www.loc.gov/item/gm71002212/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3812/g3812m/ar128200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002212/\"}",
+  "dct_spatial_sm": [
+    "monmouth",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Monmouth, Battle of, Freehold, N.J., 1778--Maps--Early works to 1800",
+    "United States--New Jersey--Monmouth"
+  ],
+  "dct_temporal_sm": [
+    "1778",
+    "[1778?]"
+  ],
+  "dct_title_s": "Battle of Monmouth, June 28, 1778",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002212",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Eng. by Worley & Bracher.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing drainage, section lines and numbers, land ownership, landowners' names, roads, railroads, etc.",
+    "Cadastral map showing drainage, section lines and numbers, land ownership, landowners' names, roads, railroads, etc. \"Eng. by Worley & Bracher.\" Indexed. LC Land ownership maps, 372 Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Warner & Foote; Worley & Bracher",
+    "Indexed.",
+    "LC Land ownership maps, 372",
+    "Publication statement: Red Wing, Minn. : Warner & Foote, 1878."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4143f.la000372",
+    "http://lccn.loc.gov/2012593029",
+    "http://www.loc.gov/item/2012593029/",
+    "http://www.loc.gov/resource/g4143f.la000372/",
+    "https://hdl.loc.gov/loc.gmd/g4143f.la000372",
+    "https://search.catalog.loc.gov/instances/d100de68-5deb-517c-9e05-76945c358955",
+    "https://www.loc.gov/item/2012593029/"
+  ],
+  "dct_issued_s": "1878",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd414/g4143/g4143f/la000372.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593029/\"}",
+  "dct_spatial_sm": [
+    "freeborn county",
+    "minnesota",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Freeborn County (Minn.)--Maps",
+    "Landowners--Minnesota--Freeborn County--Maps",
+    "Real property--Minnesota--Freeborn County--Maps",
+    "United States--Minnesota--Freeborn County"
+  ],
+  "dct_temporal_sm": [
+    "1878"
+  ],
+  "dct_title_s": "Map of Freeborn County, Minnesota : drawn from actual surveys and the county records",
+  "gbl_dateRange_drsim": [
+    "[1878 TO 1878]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1878
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593029",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

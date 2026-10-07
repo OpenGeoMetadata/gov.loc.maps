@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bradley & Company; Kaufmann, Charles D.; Varte, P. C.",
+    "Facsimile.",
+    "From Charles D. Kaufmann's Street atlas of Philadelphia by wards. 1895.",
+    "Includes index to points of interest and ill.",
+    "Pictorial map.",
+    "Publication statement: Phil[adelphi]a : Bradley & Co., [1895]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:18,000.",
+    "Title in lower margin: Philadelphia in 1796.",
+    "Title in lower margin: Philadelphia in 1796. Facsimile. Relief shown by hachures. Pictorial map. From Charles D. Kaufmann's Street atlas of Philadelphia by wards. 1895. Includes index to points of interest and ill. Scale ca. 1:18,000. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824p.ct008329",
+    "http://lccn.loc.gov/80691193",
+    "http://www.loc.gov/item/80691193/",
+    "http://www.loc.gov/resource/g3824p.ct008329/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.ct008329",
+    "https://search.catalog.loc.gov/instances/d1c35fa2-f91e-5e4c-8c12-2ad5dee9859d",
+    "https://www.loc.gov/item/80691193/"
+  ],
+  "dct_issued_s": "1895",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ct008329.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80691193/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "philadelphia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Philadelphia (Pa.)--Maps--Early works to 1800--Facsimiles",
+    "United States--Pennsylvania--Philadelphia"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dct_title_s": "To the citizens of Philadelphia, this plan of the city and its environs is respectfully dedicated by the editor",
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80691193",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

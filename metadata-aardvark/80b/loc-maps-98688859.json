@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Submitted to the Bureau of Topographical Engineers, with reports dated March 31st & September 22d, 1832. James D. Graham, Captain, U.S. Topl. Engs.\"",
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Humphreys, A. A. (Andrew Atkinson), 1810-1883; Winchester and Potomac Railroad Company",
+    "Description derived from published bibliography.",
+    "From Documents Concerning Winchester and Potomac Railroad, 24th Congress, 2d session., House doc. 465, serial 331.",
+    "LC Railroad maps, 619",
+    "Publication statement: [n.p., 1832?]",
+    "Scale 1:63,360.",
+    "Topographic map surveyed in strips along the railroad routes. Shows property owners and covers an area between the Shenandoah and Potomac Rivers to Winchester. Includes table showing \"a summary of the routes surveyed for the Winchester and Potomac Rail Road, State of Virginia.\""
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883f.rr006190",
+    "http://lccn.loc.gov/98688859",
+    "http://www.loc.gov/item/98688859/",
+    "http://www.loc.gov/resource/g3883f.rr006190/",
+    "https://hdl.loc.gov/loc.gmd/g3883f.rr006190",
+    "https://search.catalog.loc.gov/instances/1d0a3072-4b99-57be-a4d3-7b99bc6f97e9",
+    "https://www.loc.gov/item/98688859/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883f/rr006190.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688859/\"}",
+  "dct_spatial_sm": [
+    "frederick county",
+    "jefferson county",
+    "united states",
+    "virginia",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Virginia--Frederick County--Maps",
+    "Railroads--West Virginia--Jefferson County--Maps",
+    "United States--Virginia--Frederick County",
+    "United States--West Virginia--Jefferson County",
+    "Winchester and Potomac Railroad Company--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1831",
+    "[n.p., 1832?]"
+  ],
+  "dct_title_s": "Map of the routes examined and surveyed for the Winchester and Potomac Rail Road, State of Virginia, under the direction of Capt. J. D. Graham, U.S. Top. Eng., 1831 and 1832; surveyed by Lts. A. D. Mackay and E. French, 1st Arty., assistants in 1831, and Lts. E. French and J. F. Izard, assistants in 1832; drawn from the original plot by Lt. Humphreys, 2d Artillery",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688859",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Woodford, E. M.",
+    "General map showing selected buildings and residences with names of owners.",
+    "General map showing selected buildings and residences with names of owners. Relief shown by hachures. Pen-and-ink and watercolor. Includes insets of villages of Goshen and West Goshen. Imperfect: Brittle, torn, soiled, creased, annotated in pencil, mounted on cloth backing. Available also through the Library of Congress Web site as a raster image.",
+    "Imperfect: Brittle, torn, soiled, creased, annotated in pencil, mounted on cloth backing.",
+    "Includes insets of villages of Goshen and West Goshen.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: 1852.",
+    "Relief shown by hachures."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3784g.la002054",
+    "http://lccn.loc.gov/2011589312",
+    "http://www.loc.gov/item/2011589312/",
+    "http://www.loc.gov/resource/g3784g.la002054/",
+    "https://hdl.loc.gov/loc.gmd/g3784g.la002054",
+    "https://search.catalog.loc.gov/instances/6bcf19f4-cc79-5d85-ad2d-14d251f99140",
+    "https://www.loc.gov/item/2011589312/"
+  ],
+  "dct_issued_s": "1852",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd378/g3784/g3784g/la002054.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011589312/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "goshen",
+    "goshen (town)",
+    "town",
+    "united states",
+    "west goshen"
+  ],
+  "dct_subject_sm": [
+    "Goshen (Conn. : Town)--Maps",
+    "Goshen (Conn.)--Maps",
+    "Landowners--Connecticut--Goshen (Town)--Maps",
+    "Landowners--Connecticut--Goshen--Maps",
+    "Landowners--Connecticut--West Goshen--Maps",
+    "Real property--Connecticut--Goshen (Town )--Maps",
+    "Real property--Connecticut--Goshen--Maps",
+    "Real property--Connecticut--West Goshen--Maps",
+    "United States--Connecticut--Goshen",
+    "United States--Connecticut--Goshen (Town)",
+    "West Goshen (Conn.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "dct_title_s": "Map of the town of Goshen, Litchfield County, Connecticut",
+  "gbl_dateRange_drsim": [
+    "[1852 TO 1852]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1852
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011589312",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army of the Cumberland. Topographical Engineers Office",
+    "From Vincent's subdivision map of the city of Atlanta, Dekalb County, state of Georgia. Savannah : Edward A. Vincent, 185-.",
+    "From Vincent's subdivision map of the city of Atlanta, Dekalb County, state of Georgia. Savannah : Edward A. Vincent, 185-. Includes numbered building index. LC copy imperfect: Fold-lined, mounted on paper. LC Civil War maps (2nd ed.), S44 Available also through the Library of Congress Web site as a raster image.",
+    "Includes numbered building index.",
+    "LC Civil War maps (2nd ed.), S44",
+    "LC copy imperfect: Fold-lined, mounted on paper.",
+    "Publication statement: [Chattanooga, Tenn.?] : Topl. Engr. Office, Hd. Qrs. A. C., in the field, 1864."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3924a.cws00044",
+    "http://lccn.loc.gov/2006459234",
+    "http://www.loc.gov/item/2006459234/",
+    "http://www.loc.gov/resource/g3924a.cws00044/",
+    "https://hdl.loc.gov/loc.gmd/g3924a.cws00044",
+    "https://search.catalog.loc.gov/instances/9a082904-5c46-53d6-a572-bb11959168d3",
+    "https://www.loc.gov/item/2006459234/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3924/g3924a/cws00044.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006459234/\"}",
+  "dct_spatial_sm": [
+    "atlanta",
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlanta (Ga.)--Maps",
+    "United States--Georgia--Atlanta"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Atlanta : from Vincent's subdivision map, published by the City Council",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006459234",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

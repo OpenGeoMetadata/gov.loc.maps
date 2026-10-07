@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Генеральная карта Байкальского озера Составлена по описи Гидрографической Экспедиции Байкальского озера с 1897 по 1902 г."
+  ],
+  "dct_description_sm": [
+    "Contributors: Antonov; Gidrograficheskai︠a︡ ėkspedit︠s︡ii︠a︡",
+    "Original map at: National Library of Russia",
+    "Otmecheny: naselennye punkty po poberezh'i︠u︡ Baĭkala (4 gruppy), stant︠s︡ii na Zabaĭkal'skoĭ zheleznoĭ doroge, monastyri, mai︠a︡ki s ukazaniem dal'nosti ikh vidimosti, banki ėkspedit︠s︡ii; rastitel'nost', bolota, rel'ef sushi shtrikhami s otmetkami vysot v futakh, kompasnye.",
+    "Publication statement: Saint Petersburg, Russia : Fotometallotip. masterskai︠a︡ Glavn.Gidrogr.upravlenii︠a︡, 1924-",
+    "T︠S︡vetnai︠a︡. Kartograficheskai︠a︡ setka po dolgote cherez 1°, po shirote cherez 2°; schet dolgot ot Grinvicha.",
+    "T︠S︡vetnai︠a︡. Kartograficheskai︠a︡ setka po dolgote cherez 1°, po shirote cherez 2°; schet dolgot ot Grinvicha. Otmecheny: naselennye punkty po poberezh'i︠u︡ Baĭkala (4 gruppy), stant︠s︡ii na Zabaĭkal'skoĭ zheleznoĭ doroge, monastyri, mai︠a︡ki s ukazaniem dal'nosti ikh vidimosti, banki ėkspedit︠s︡ii; rastitel'nost', bolota, rel'ef sushi shtrikhami s otmetkami vysot v futakh, kompasnye. Original map at: National Library of Russia Цветная. Картографическая сетка по долготе через 1°, по широте через 2°; счет долгот от Гринвича. Отмечены: населенные пункты по побережью Байкала (4 группы), станции на Забайкальской железной дороге, монастыри, маяки с указанием дальности их видимости, банки экспедиции; растительность, болота, рельеф суши штрихами с отметками высот в футах, компасные.",
+    "Отмечены: населенные пункты по побережью Байкала (4 группы), станции на Забайкальской железной дороге, монастыри, маяки с указанием дальности их видимости, банки экспедиции; растительность, болота, рельеф суши штрихами с отметками высот в футах, компасные.",
+    "Цветная. Картографическая сетка по долготе через 1°, по широте через 2°; счет долгот от Гринвича."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693930",
+    "http://www.loc.gov/item/2018693930/",
+    "http://www.loc.gov/resource/gdc.2018693930/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.nmap058",
+    "https://search.catalog.loc.gov/instances/d78d6f0b-85c1-553a-bbe3-8127fe172bcd",
+    "https://www.loc.gov/item/2018693930/"
+  ],
+  "dct_issued_s": "1924",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693930.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693930/2018693930.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693930:nmap058/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693930/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Gidrografii︠a︡",
+    "Russian Federation",
+    "Siberia",
+    "maps"
+  ],
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "dct_title_s": "General'nai︠a︡ karta Baĭkal'skogo ozera Sostavlena po opisi Gidrograficheskoĭ Ėkspedit︠s︡ii Baĭkal'skogo ozera s 1897 po 1902 g.",
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1924]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1924
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693930",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

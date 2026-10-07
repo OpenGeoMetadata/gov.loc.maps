@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Cum priuilegio decennali\".",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ortelius, Abraham, 1527-1598, cartographer",
+    "Has no text on verso.",
+    "Includes illustrated cartouche and illustrations.",
+    "LC copy mounted on cloth.",
+    "Publication statement: [Antwerp] : [Christophe Plantin?], 1587.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. \"Cum priuilegio decennali\". Includes illustrated cartouche and illustrations. Has no text on verso. LC copy mounted on cloth. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2017585859",
+    "http://www.loc.gov/item/2017585859/",
+    "http://www.loc.gov/resource/g3290.ct007258/",
+    "https://hdl.loc.gov/loc.gmd/g3290.ct007258",
+    "https://search.catalog.loc.gov/instances/f5458fa5-7d53-5ca9-8867-cdf82b1bdc2f",
+    "https://www.loc.gov/item/2017585859/"
+  ],
+  "dct_issued_s": "1587",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3290/g3290/ct007258.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585859/\"}",
+  "dct_spatial_sm": [
+    "america",
+    "western hemisphere"
+  ],
+  "dct_subject_sm": [
+    "America",
+    "America--Maps--Early works to 1800",
+    "Western Hemisphere"
+  ],
+  "dct_temporal_sm": [
+    "1587"
+  ],
+  "dct_title_s": "Americae sive novi orbis, nova descriptio",
+  "gbl_dateRange_drsim": [
+    "[1587 TO 1587]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1587
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585859",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

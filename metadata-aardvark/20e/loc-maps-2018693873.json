@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Карта представляющая изобретения Российскими Мореплавателями на Северной части Америки с около лежащими местами учинённые"
+  ],
+  "dct_description_sm": [
+    "Contributors: Treskot, Johann, 1719-1786",
+    "Grav. rezt︠s︡om. Vodi︠a︡noĭ znak. Rest. Zagolovok v khudozh. Kartushe.",
+    "Grav. rezt︠s︡om. Vodi︠a︡noĭ znak. Rest. Zagolovok v khudozh. Kartushe. Pokazany marshruty plavaniĭ: kapitana V.I. Beringa v 1728 do 66.30 s.sh. i dr., kapitana A.I. Chirikova; na territorii Ameriki: uchastki poberezh'i︠a︡ otkrytye raznymi issledovateli︠a︡mi: geodezistom M.S. Gvozdevym v 1730g., kapitanom V. Beringom v 1741 g., kapitanom. Original map at: National Library of Russia Грав. резцом. Водяной знак. Рест. Заголовок в худож. Картуше. Показаны маршруты плаваний: капитана В.И. Беринга в 1728 до 66.30 с.ш. и др., капитана А.И. Чирикова; на территории Америки: участки побережья открытые разными исследователями: геодезистом М.С. Гвоздевым в 1730г., капитаном В. Берингом в 1741 г., капитаном.",
+    "Original map at: National Library of Russia",
+    "Pokazany marshruty plavaniĭ: kapitana V.I. Beringa v 1728 do 66.30 s.sh. i dr., kapitana A.I. Chirikova; na territorii Ameriki: uchastki poberezh'i︠a︡ otkrytye raznymi issledovateli︠a︡mi: geodezistom M.S. Gvozdevym v 1730g., kapitanom V. Beringom v 1741 g., kapitanom.",
+    "Publication statement: Saint Petersburg, Russia : AN, 1745-1758.",
+    "Грав. резцом. Водяной знак. Рест. Заголовок в худож. Картуше.",
+    "Показаны маршруты плаваний: капитана В.И. Беринга в 1728 до 66.30 с.ш. и др., капитана А.И. Чирикова; на территории Америки: участки побережья открытые разными исследователями: геодезистом М.С. Гвоздевым в 1730г., капитаном В. Берингом в 1741 г., капитаном."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693873",
+    "http://www.loc.gov/item/2018693873/",
+    "http://www.loc.gov/resource/gdc.2018693873/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.nmap001",
+    "https://search.catalog.loc.gov/instances/63f56041-3849-572a-91b1-c371333db972",
+    "https://www.loc.gov/item/2018693873/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693873.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693873/2018693873.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693873:nmap001/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693873/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Bering Vitus (1680-1741)",
+    "Chirikov, Alekseĭ Il'ich (1703-1748)",
+    "De Font, ėkspedit︠s︡ii︠a︡ 1640",
+    "Dreĭk,Frensis(ok.1545-1596)",
+    "Gvozdev Mikhail Spiridonovich",
+    "Moreplavateli,angliĭskie",
+    "Moreplavateli,russkie",
+    "Moreplavateli.ispanskie",
+    "Russian Federation",
+    "Беринг Витус (1680-1741)",
+    "Гвоздев Михаил Спиридонович",
+    "Де Фонт, экспедиция 1640",
+    "Дрейк,Френсис(ок.1545-1596)",
+    "Мореплаватели,английские",
+    "Мореплаватели,русские",
+    "Мореплаватели.испанские",
+    "Чириков, Алексей Ильич (1703-1748)"
+  ],
+  "dct_temporal_sm": [
+    "1745/1758"
+  ],
+  "dct_title_s": "Karta predstavli︠a︡i︠u︡shchai︠a︡ izobretenii︠a︡ Rossiĭskimi Moreplavateli︠a︡mi na Severnoĭ chasti Ameriki s okolo lezhashchimi mestami uchinënnye",
+  "gbl_dateRange_drsim": [
+    "[1745 TO 1758]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1745
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693873",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

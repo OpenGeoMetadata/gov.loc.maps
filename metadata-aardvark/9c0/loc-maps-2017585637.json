@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Janvier, Jean Denis, cartographer",
+    "Includes illustrations.",
+    "Publication statement: A Paris : Ches Lattre graveur, rue Saint Jacques, 1774.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Includes illustrations. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct009326",
+    "http://lccn.loc.gov/2017585637",
+    "http://www.loc.gov/item/2017585637/",
+    "http://www.loc.gov/resource/g3200.ct009326/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct009326",
+    "https://search.catalog.loc.gov/instances/8e3538ca-5088-5e79-8081-fb2027a33269",
+    "https://www.loc.gov/item/2017585637/"
+  ],
+  "dct_issued_s": "1774",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct009326.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585637/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)"
+  ],
+  "dct_temporal_sm": [
+    "1774"
+  ],
+  "dct_title_s": "Mappe monde, ou description du globe terrestre : assujettie aux observations astronomiques",
+  "gbl_dateRange_drsim": [
+    "[1774 TO 1774]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1774
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585637",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

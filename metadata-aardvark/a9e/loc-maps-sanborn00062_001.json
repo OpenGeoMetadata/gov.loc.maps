@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 sheet(s).",
+    "Jan 1930.",
+    "Jan 1930. 2 sheet(s).",
+    "Publication statement: Sanborn Map Company, Jan 1930"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3974jm.g3974jm_g000621930",
+    "http://www.loc.gov/item/sanborn00062_001/",
+    "http://www.loc.gov/resource/g3974jm.g3974jm_g000621930/",
+    "https://hdl.loc.gov/loc.gmd/g3974jm.g3974jm_g000621930",
+    "https://www.loc.gov/item/sanborn00062_001",
+    "https://www.loc.gov/item/sanborn00062_001/",
+    "https://www.loc.gov/resource/g3974jm.g3974jm_g000621930"
+  ],
+  "dct_issued_s": "1930-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn00062_001/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397m/g3974m/g3974jm/g3974jm_g000621930/00062_1930-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn00062_001/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "alabama",
+    "clarke county",
+    "jackson",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1930-01"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Jackson, Clarke County, Alabama.",
+  "gbl_dateRange_drsim": [
+    "[1930 TO 1930]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1930
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn00062_001",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hole, William, -1624; Smith, John, 1580-1631",
+    "Facsimile.",
+    "Facsimile. Ninth state. Relief shown pictorially. Oriented with north to the right. Scale ca. 1:1,290,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Ninth state.",
+    "Oriented with north to the right.",
+    "Publication statement: [London, 1624. n.p., 19--?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:1,290,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.ct008917",
+    "http://lccn.loc.gov/73694566",
+    "http://www.loc.gov/item/73694566/",
+    "http://www.loc.gov/resource/g3880.ct008917/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct008917",
+    "https://search.catalog.loc.gov/instances/e3a8b2ba-78fb-5435-a7c6-77ee8b3e596b",
+    "https://www.loc.gov/item/73694566/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ct008917.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73694566/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps--Early works to 1800--Facsimiles"
+  ],
+  "dct_temporal_sm": [
+    "1900",
+    "[London, 1624. n.p., 19--?]"
+  ],
+  "dct_title_s": "Virginia,",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73694566",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

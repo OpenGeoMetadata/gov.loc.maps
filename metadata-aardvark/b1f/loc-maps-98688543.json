@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cappeller, W. S. (William S.)",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 285",
+    "Publication statement: Columbus, 1887.",
+    "Scale ca. 1:580,000.",
+    "Shows drainage, cities and towns, county boundaries, canals, distances between stations, and single- and double-track lines."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4081p.rr002850",
+    "http://lccn.loc.gov/98688543",
+    "http://www.loc.gov/item/98688543/",
+    "http://www.loc.gov/resource/g4081p.rr002850/",
+    "https://hdl.loc.gov/loc.gmd/g4081p.rr002850",
+    "https://search.catalog.loc.gov/instances/15257348-079b-5dba-9a6e-df1476f60bfe",
+    "https://www.loc.gov/item/98688543/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4081/g4081p/rr002850.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688543/\"}",
+  "dct_spatial_sm": [
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Ohio--Maps",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "Railroad map of Ohio published by the State, prepared by commissioner of railroads & telegraphs",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688543",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

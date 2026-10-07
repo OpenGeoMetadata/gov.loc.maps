@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "1980 Experimental perspective map Cache, OK"
+  ],
+  "dct_description_sm": [
+    "\"This work was supported by the Defense Mapping Agency under the task entitled: Software for Automated Cartography.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States Army Engineer Topographic Laboratories. Automated Cartography Branch",
+    "Includes text and 7 diagrams.",
+    "Publication statement: Fort Belvoir, VA : USAETL, 1980.",
+    "Relief shown by shading.",
+    "Relief shown by shading. Includes text and 7 diagrams. \"This work was supported by the Defense Mapping Agency under the task entitled: Software for Automated Cartography.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2013592460",
+    "http://www.loc.gov/item/2013592460/",
+    "http://www.loc.gov/resource/g4024c.c011237/",
+    "http://www.loc.gov/resource/g4024c.ct011237/",
+    "https://hdl.loc.gov/loc.gmd/g4024c.c011237",
+    "https://search.catalog.loc.gov/instances/6e4b732b-ac29-5278-8220-a2eb9d8a0685",
+    "https://www.loc.gov/item/2013592460/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4024/g4024c/ct011237.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013592460/\"}",
+  "dct_spatial_sm": [
+    "cache",
+    "oklahoma",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cache (Okla.)--Maps",
+    "United States--Oklahoma--Cache"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Experimental perspective map, Cache, OK :",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013592460",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

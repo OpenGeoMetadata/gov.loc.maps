@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "In top margin of most pages: Johnson's Clark Co. atlas",
+    "Johnson's Clark Co. atlas",
+    "Johnson's Clark County, Missouri atlas",
+    "Johnson's illustrated and historical atlas, Clark County, Missouri"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 2009-005",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Johnson, G. C.; Western Atlas Co",
+    "Includes indexes, advertisements, brief history of Clark County, and brief biographies and portraits of early Clark County residents.",
+    "Includes indexes, advertisements, brief history of Clark County, and brief biographies and portraits of early Clark County residents. LC copy imperfect: Front board and back board separated from binding. Available also through the Library of Congress Web site as a raster image. Vendor: John Carbonell Acquisitions control no. 2009-005",
+    "LC copy imperfect: Front board and back board separated from binding.",
+    "Publication statement: Keokuk, Iowa : Western Atlas Co., 1896.",
+    "Vendor: John Carbonell"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4163cm.gla00169",
+    "http://lccn.loc.gov/map56000496",
+    "http://www.loc.gov/item/map56000496/",
+    "http://www.loc.gov/resource/g4163cm.gla00169/",
+    "https://hdl.loc.gov/loc.gmd/g4163cm.gla00169",
+    "https://search.catalog.loc.gov/instances/1aa23711-de67-56ac-bcb6-05a24a34abb2",
+    "https://www.loc.gov/item/map56000496/"
+  ],
+  "dct_issued_s": "1896",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd416m/g4163m/g4163cm/gla00169/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/map56000496/\"}",
+  "dct_spatial_sm": [
+    "clark county",
+    "missouri",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Clark County (Mo.)--Biography",
+    "Clark County (Mo.)--Biography--Portraits",
+    "Clark County (Mo.)--Directories",
+    "Clark County (Mo.)--History",
+    "Clark County (Mo.)--Maps",
+    "Landowners--Missouri--Clark County--Maps",
+    "Real property--Missouri--Clark County--Maps",
+    "United States--Missouri--Clark County"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dct_title_s": "Johnson's atlas, Clark County, Missouri",
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1896
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map56000496",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

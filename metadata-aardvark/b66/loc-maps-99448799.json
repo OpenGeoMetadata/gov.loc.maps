@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"For sale by Woeltje & Cutting, 115 Pearl Street, New York.\"",
+    "\"For sale by Woeltje & Cutting, 115 Pearl Street, New York.\" Copyright no. 18292, Aug. 4, 1888. This map is based on the map surveyed by Frank O. Maxson under the direction of John B. Bachelder (entry no. 327), but with the addition of hachures. Names of land owners are overprinted in red. Cavalry positions are not noted. Description derived from published bibliography. Scale 1:12,000. LC Civil War Maps (2nd ed.), 357.3 Available also through the Library of Congress web site as raster image.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Woeltje and Cutting",
+    "Copyright no. 18292, Aug. 4, 1888.",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 357.3",
+    "Publication statement: N.Y., The American Graphic Co. [1888]",
+    "Scale 1:12,000.",
+    "This map is based on the map surveyed by Frank O. Maxson under the direction of John B. Bachelder (entry no. 327), but with the addition of hachures. Names of land owners are overprinted in red. Cavalry positions are not noted."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824g.cw0357300",
+    "http://lccn.loc.gov/99448799",
+    "http://www.loc.gov/item/99448799/",
+    "http://www.loc.gov/resource/g3824g.cw0357300/",
+    "https://hdl.loc.gov/loc.gmd/g3824g.cw0357300",
+    "https://search.catalog.loc.gov/instances/7f6de75c-d3f9-524f-bd11-38d904819f72",
+    "https://www.loc.gov/item/99448799/"
+  ],
+  "dct_issued_s": "1888",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824g/cw0357300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448799/\"}",
+  "dct_spatial_sm": [
+    "gettysburg",
+    "pennyslvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gettysburg, Battle of, Gettysburg, Pa",
+    "Gettysburg, Battle of, Gettysburg, Pa., 1863--Maps",
+    "United States--Pennyslvania--Gettysburg"
+  ],
+  "dct_temporal_sm": [
+    "1888"
+  ],
+  "dct_title_s": "Map of the field of operations of Gregg's (Union) & Stuart's (Confederate) cavalry at the battle of Gettysburg, July 3, 1863",
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1888]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1888
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448799",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Kroll Map Company, inc",
+    "Publication statement: [S.l.], 1922."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4284s.ct000269",
+    "http://lccn.loc.gov/98687155",
+    "http://www.loc.gov/item/98687155/",
+    "http://www.loc.gov/resource/g4284s.ct000269/",
+    "https://hdl.loc.gov/loc.gmd/g4284s.ct000269",
+    "https://search.catalog.loc.gov/instances/cd40325c-ae42-5759-9306-92bda939ea26",
+    "https://www.loc.gov/item/98687155/"
+  ],
+  "dct_issued_s": "1922",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd428/g4284/g4284s/ct000269.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687155/\"}",
+  "dct_spatial_sm": [
+    "seattle",
+    "united states",
+    "washington",
+    "washington (state)"
+  ],
+  "dct_subject_sm": [
+    "Seattle (Wash.)--Maps",
+    "United States--Washington (State)--Seattle"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "dct_title_s": "Foot traffic in Seattle, Washington, Wednesday, April 26th, 1922",
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1922
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687155",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

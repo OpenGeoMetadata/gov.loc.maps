@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Kitchin, Thomas, 1718-1784",
+    "From The London magazine, or, Gentleman's monthly intelligencer. December 1758, v. 27.",
+    "In upper margin: For the Lond. Magazine.",
+    "LC Maps of North America, 1750-1789, 2047",
+    "LC copy 2 imperfect: Portion of lower left corner missing.",
+    "Publication statement: [London : Printed for R. Baldwin, 1758]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. In upper margin: For the Lond. Magazine. From The London magazine, or, Gentleman's monthly intelligencer. December 1758, v. 27. LC copy 2 imperfect: Portion of lower left corner missing. LC Maps of North America, 1750-1789, 2047 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5080.ar204700",
+    "http://hdl.loc.gov/loc.gmd/g5080.ar204701",
+    "http://hdl.loc.gov/loc.gmd/g5080.ar204702",
+    "http://lccn.loc.gov/2010593366",
+    "http://www.loc.gov/item/2010593366/",
+    "http://www.loc.gov/resource/g5080.ar204700/",
+    "http://www.loc.gov/resource/g5080.ar204701/",
+    "http://www.loc.gov/resource/g5080.ar204702/",
+    "https://hdl.loc.gov/loc.gmd/g5080.ar204700",
+    "https://hdl.loc.gov/loc.gmd/g5080.ar204701",
+    "https://hdl.loc.gov/loc.gmd/g5080.ar204702",
+    "https://search.catalog.loc.gov/instances/101d3f64-6f7f-52e3-bc95-f21390911869",
+    "https://www.loc.gov/item/2010593366/"
+  ],
+  "dct_issued_s": "1758",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5080/g5080/ar204700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010593366/\"}",
+  "dct_spatial_sm": [
+    "martinique"
+  ],
+  "dct_subject_sm": [
+    "Martinique",
+    "Martinique--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1758"
+  ],
+  "dct_title_s": "An accurate map of the island of Martinico",
+  "gbl_dateRange_drsim": [
+    "[1758 TO 1758]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1758
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010593366",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

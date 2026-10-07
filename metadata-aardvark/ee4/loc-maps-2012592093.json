@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Approved and declared to be the official map of Sacramento County by order of Board of Supervisors ... 1885.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral maps showing drainage, roads, railroads, land ownership, landowners' names, ranchos, township and section lines, political townships, etc.",
+    "Contributors: Britton & Rey; Shepherd, Fred. A.",
+    "Includes distance table, \"Statistics,\" inset map, and 3 Sacramento views: State Capitol, Plaza, and State Agricultural Society's pavillion.",
+    "LC Land ownership maps, 34",
+    "Publication statement: S[an] F[rancisco, Calif.] : Britton & Rey, 1885.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Cadastral maps showing drainage, roads, railroads, land ownership, landowners' names, ranchos, township and section lines, political townships, etc. \"Approved and declared to be the official map of Sacramento County by order of Board of Supervisors ... 1885.\" Includes distance table, \"Statistics,\" inset map, and 3 Sacramento views: State Capitol, Plaza, and State Agricultural Society's pavillion. LC Land ownership maps, 34 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4363s.la000034",
+    "http://lccn.loc.gov/2012592093",
+    "http://www.loc.gov/item/2012592093/",
+    "http://www.loc.gov/resource/g4363s.la000034/",
+    "https://hdl.loc.gov/loc.gmd/g4363s.la000034",
+    "https://search.catalog.loc.gov/instances/3426ab4e-ddd9-513e-9d7c-e6f91eaae383",
+    "https://www.loc.gov/item/2012592093/"
+  ],
+  "dct_issued_s": "1885",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4363/g4363s/la000034.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592093/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "sacramento county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--California--Sacramento County--Maps",
+    "Real property--California--Sacramento County--Maps",
+    "Sacramento County (Calif.)--Maps",
+    "United States--California--Sacramento County"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "dct_title_s": "Official map of Sacramento County, California",
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1885]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1885
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592093",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright 1897 by E. Frank Peterson.\"",
+    "\"The names of owners of land have been corrected up to October 29, 1897.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing drainage, section lines and numbers, land ownership, landowners' names, roads, railroads, etc.",
+    "Contributors: Peterson, E. Frank",
+    "Includes notes and insets of \"Bryant,\" \"Hazel,\" \"Castlewood,\" and \"Estelline.\"",
+    "LC Land ownership maps, 852",
+    "Publication statement: Vermillion, S.C. : E. Frank Peterson, c1897.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Cadastral map showing drainage, section lines and numbers, land ownership, landowners' names, roads, railroads, etc. \"Copyright 1897 by E. Frank Peterson.\" \"The names of owners of land have been corrected up to October 29, 1897.\" Includes notes and insets of \"Bryant,\" \"Hazel,\" \"Castlewood,\" and \"Estelline.\" LC Land ownership maps, 852 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4183h.la000852",
+    "http://lccn.loc.gov/2012593117",
+    "http://www.loc.gov/item/2012593117/",
+    "http://www.loc.gov/resource/g4183h.la000852/",
+    "https://hdl.loc.gov/loc.gmd/g4183h.la000852",
+    "https://search.catalog.loc.gov/instances/9a7899a5-7606-5787-8c73-bca70d84374d",
+    "https://www.loc.gov/item/2012593117/"
+  ],
+  "dct_issued_s": "1897",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd418/g4183/g4183h/la000852.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593117/\"}",
+  "dct_spatial_sm": [
+    "hamlin county",
+    "south dakota",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hamlin County (S.D.)--Maps",
+    "Landowners--South Dakota--Hamlin County--Maps",
+    "Real property--South Dakota--Hamlin County--Maps",
+    "United States--South Dakota--Hamlin County"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "dct_title_s": "Map of Hamlin County, South Dakota : compiled and drawn from a special survey and official records",
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593117",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

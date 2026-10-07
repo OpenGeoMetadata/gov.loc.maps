@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brion de la Tour, Louis, 1743-1803",
+    "Publication statement: Paris : chez le Sr. Desnes, 1764.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6040.ct002419",
+    "http://lccn.loc.gov/2009579457",
+    "http://www.loc.gov/item/2009579457/",
+    "http://www.loc.gov/resource/g6040.ct002419/",
+    "https://hdl.loc.gov/loc.gmd/g6040.ct002419",
+    "https://search.catalog.loc.gov/instances/12c6b657-78b8-5a8e-90ab-6b92497e11ca",
+    "https://www.loc.gov/item/2009579457/"
+  ],
+  "dct_issued_s": "1764",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6040/g6040/ct002419.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009579457/\"}",
+  "dct_spatial_sm": [
+    "switzerland"
+  ],
+  "dct_subject_sm": [
+    "Switzerland",
+    "Switzerland--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "dct_title_s": "La Suisse, diviseé en ses cantons, ses alliés, et sujèts, et. distingée en pays Catholiques, Protestans et mixtes",
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1764
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009579457",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

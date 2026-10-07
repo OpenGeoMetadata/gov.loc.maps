@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image. Updated and corrected to LCCN fom unk81003716 on 2020-09-23 by",
+    "Contributors: G.M. Hopkins & Co., cartographer",
+    "Publication statement: Philadelphia : G.M. Hopkins, 1891.",
+    "Updated and corrected to LCCN fom unk81003716 on 2020-09-23 by"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2020593259",
+    "http://www.loc.gov/item/2020593259/",
+    "http://www.loc.gov/resource/gmdatlases.2020593259/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2020593259",
+    "https://search.catalog.loc.gov/instances/c0315af6-0045-5f30-acfb-e10172d8a453",
+    "https://www.loc.gov/item/2020593259/"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:20:20:59:32:59:2020593259:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2020593259/\"}",
+  "dct_spatial_sm": [
+    "buffalo",
+    "new york",
+    "new york (n.y.)",
+    "new york city",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Buffalo (N.Y.)--Maps",
+    "Real property--New York (N.Y.)--Buffalo--Maps",
+    "United States--New York (N.Y.)--Buffalo"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "Atlas of the city of Buffalo, N.Y.",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2020593259",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geil, Samuel; Smith, Robert Pearsall, 1827-1898",
+    "Includes \"Plan of the city of Buffalo,\" statistical charts, notes, and illustrations.",
+    "LC Land ownership maps, 493",
+    "LC copy lightly hand colored, showing boundaries. Sectioned in four and mounted on cloth.",
+    "Publication statement: Philada. : Robert Pearsall Smith, Publisher ; Buffalo : John Angell, Publisher, 1854.",
+    "Shows landowners.",
+    "Shows landowners. Includes \"Plan of the city of Buffalo,\" statistical charts, notes, and illustrations. LC copy lightly hand colored, showing boundaries. Sectioned in four and mounted on cloth. LC Land ownership maps, 493 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3803e.la000493",
+    "http://lccn.loc.gov/2012593657",
+    "http://www.loc.gov/item/2012593657/",
+    "http://www.loc.gov/resource/g3803e.la000493/",
+    "https://hdl.loc.gov/loc.gmd/g3803e.la000493",
+    "https://search.catalog.loc.gov/instances/f5d88b78-6b76-5b50-aa77-7411f13d0615",
+    "https://www.loc.gov/item/2012593657/"
+  ],
+  "dct_issued_s": "1854",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3803/g3803e/la000493.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593657/\"}",
+  "dct_spatial_sm": [
+    "erie county",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Erie County (N.Y.)--Maps",
+    "Landowners--New York (State)--Erie County--Maps",
+    "Real property--New York (State)--Erie County--Maps",
+    "United States--New York (State)--Erie County"
+  ],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "dct_title_s": "Map of Erie County, New York : from actual surveys",
+  "gbl_dateRange_drsim": [
+    "[1854 TO 1854]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1854
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593657",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

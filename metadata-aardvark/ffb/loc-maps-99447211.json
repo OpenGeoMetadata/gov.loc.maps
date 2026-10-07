@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Hains, Peter C.; Houston, D. C. (David Crawford), 1835-1893",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 238",
+    "Map indicates fortifications, drainage, hachures, vegetation, roads, and houses. Positions of Confederate batteries are shown with the number of guns in each. Inset contains a keyed list of the Union batteries giving the number and type of guns in each position, and the names of the battery commanders.",
+    "Map indicates fortifications, drainage, hachures, vegetation, roads, and houses. Positions of Confederate batteries are shown with the number of guns in each. Inset contains a keyed list of the Union batteries giving the number and type of guns in each position, and the names of the battery commanders. Description derived from published bibliography. Scale ca. 1:,950. LC Civil War Maps (2nd ed.), 238 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: [S.l.] Published by authority of the Hon. the Secretary of War., office of the Chief of Engineers, U.S. Army 1875.",
+    "Scale ca. 1:,950."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4014p.cw0238000",
+    "http://lccn.loc.gov/99447211",
+    "http://www.loc.gov/item/99447211/",
+    "http://www.loc.gov/resource/g4014p.cw0238000/",
+    "https://hdl.loc.gov/loc.gmd/g4014p.cw0238000",
+    "https://search.catalog.loc.gov/instances/d575b71c-6b1b-531f-ae17-5f70248c073a",
+    "https://www.loc.gov/item/99447211/"
+  ],
+  "dct_issued_s": "1875",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4014/g4014p/cw0238000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447211/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "port hudson",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Port Hudson (La.)--Maps",
+    "United States--Louisiana--Port Hudson"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "dct_title_s": "Map of Port Hudson and vicinity",
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1875
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447211",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

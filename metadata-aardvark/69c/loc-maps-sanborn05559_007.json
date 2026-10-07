@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "030. 2 skeleton maps. Other places as they appear on original: Morristown Suburbs, Whippany, Morris Plains, Mount Tabor.",
+    "1918 - Oct 1950.",
+    "1918 - Oct 1950. 70 sheet(s). 030. 2 skeleton maps. Other places as they appear on original: Morristown Suburbs, Whippany, Morris Plains, Mount Tabor.",
+    "70 sheet(s).",
+    "Publication statement: Sanborn Map Company, 1918 - Oct 1950"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814mm.g3814mm_g055591950",
+    "http://www.loc.gov/item/sanborn05559_007/",
+    "http://www.loc.gov/resource/g3814mm.g3814mm_g055591950/",
+    "https://hdl.loc.gov/loc.gmd/g3814mm.g3814mm_g055591950",
+    "https://www.loc.gov/item/sanborn05559_007",
+    "https://www.loc.gov/item/sanborn05559_007/",
+    "https://www.loc.gov/resource/g3814mm.g3814mm_g055591950"
+  ],
+  "dct_issued_s": "1950",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn05559_007/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381m/g3814m/g3814mm/g3814mm_g055591950/05559_1950-0000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn05559_007/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "morris county",
+    "morris plains",
+    "morristown",
+    "morristown suburbs",
+    "mount tabor",
+    "new jersey",
+    "united states",
+    "whippany"
+  ],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Morristown, Morris County, New Jersey.",
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1950]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn05559_007",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

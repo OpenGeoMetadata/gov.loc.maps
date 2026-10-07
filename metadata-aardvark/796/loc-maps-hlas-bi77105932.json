@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: instituto geográfico nacional (guatemala); modelski, andrew m.; obiols del cid, ricardo"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi77105932/",
+    "https://www.loc.gov/item/hlas-bi77105932/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "Instituto Geográfico Nacional,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi77105932/\"}",
+  "dct_spatial_sm": [
+    "guatemala"
+  ],
+  "dct_subject_sm": [
+    "climatology",
+    "climatology -- guatemala",
+    "climatology -- maps and cartography",
+    "guatemala",
+    "maps and cartography",
+    "maps and cartography -- guatemala"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "Mapa climatológico preliminar de la República de Guatemala, según el sistema Thornthwaite. Elaborado mediante proceso electrónico en el Instituto Geográfico Nacional (IGN), con base en las estadísticas meteorológicas del Observatorio Nacional y contando con la asistencia técnica de sus personeros",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi77105932",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

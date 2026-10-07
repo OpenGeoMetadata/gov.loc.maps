@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Henry, John, 1704 or 1705-1773; Jefferys, Thomas, -1771",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Depths shown by soundings. Prime meridian: Williamsburg. Includes text. Scale ca. 1:400,000. LC Maps of North America, 1750-1789, 1440 Available also through the Library of Congress Web site as a raster image. LC copy sectioned and mounted on cloth backing. AACR2",
+    "Includes text.",
+    "LC Maps of North America, 1750-1789, 1440",
+    "LC copy sectioned and mounted on cloth backing.",
+    "Prime meridian: Williamsburg.",
+    "Publication statement: London, Thos. Jefferys, 1770.",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Scale ca. 1:400,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.ct000431",
+    "http://lccn.loc.gov/74693087",
+    "http://www.loc.gov/item/74693087/",
+    "http://www.loc.gov/resource/g3880.ct000431/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct000431",
+    "https://search.catalog.loc.gov/instances/f1fea78f-9e99-50ac-9b90-1d395c130c88",
+    "https://www.loc.gov/item/74693087/"
+  ],
+  "dct_issued_s": "1770",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ct000431.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693087/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1770"
+  ],
+  "dct_title_s": "A new and accurate map of Virginia wherein most of the counties are laid down from actual surveys. With a concise account of the number of inhabitants, the trade, soil, and produce of that Province",
+  "gbl_dateRange_drsim": [
+    "[1770 TO 1770]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1770
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693087",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

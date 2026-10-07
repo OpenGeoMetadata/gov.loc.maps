@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "2 copies Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, 286 Available also through the Library of Congress web site as a raster image.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: United States. General Land Office; Wilson, Joseph S.",
+    "Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, 286",
+    "Publication statement: [S.l., 1866]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4281g.ct000265",
+    "http://lccn.loc.gov/98687151",
+    "http://www.loc.gov/item/98687151/",
+    "http://www.loc.gov/resource/g4281g.ct000265/",
+    "https://hdl.loc.gov/loc.gmd/g4281g.ct000265",
+    "https://search.catalog.loc.gov/instances/5d0212d8-6c27-50e6-bf5c-694808ca9848",
+    "https://www.loc.gov/item/98687151/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd428/g4281/g4281g/ct000265.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687151/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "washington",
+    "washington (state)"
+  ],
+  "dct_subject_sm": [
+    "United States--Washington (State)",
+    "Washington (State)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Map of public surveys in the territory of Washington",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687151",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

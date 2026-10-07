@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Luso-Hispanic World, 347",
+    "LC Maps of North America, 1750-1789, 1807",
+    "Manuscript, pen-and-ink and watercolor, on tracing paper.",
+    "Publication statement: [1758?]",
+    "Scale ca. 1:75,000 and 1:200,000.",
+    "Soundings shown in fathoms.",
+    "Title on verso: Havana & Vera Cruz, 128.",
+    "Title on verso: Havana & Vera Cruz, 128. Manuscript, pen-and-ink and watercolor, on tracing paper. Soundings shown in fathoms. Scale ca. 1:75,000 and 1:200,000. LC Maps of North America, 1750-1789, 1807 LC Luso-Hispanic World, 347 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650/1; 651/2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4924h.ar180700",
+    "http://lccn.loc.gov/73691502",
+    "http://www.loc.gov/item/73691502/",
+    "http://www.loc.gov/resource/g4924h.ar180700/",
+    "https://hdl.loc.gov/loc.gmd/g4924h.ar180700",
+    "https://search.catalog.loc.gov/instances/a7f18f97-480a-5639-8758-3bb1938b03fc",
+    "https://www.loc.gov/item/73691502/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4924/g4924h/ar180700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691502/\"}",
+  "dct_spatial_sm": [
+    "cuba",
+    "havana",
+    "llave",
+    "mexico",
+    "vera cruz region",
+    "veracruz",
+    "veracruz region",
+    "veracruz-llave"
+  ],
+  "dct_subject_sm": [
+    "Cuba--Havana",
+    "Harbors--Cuba--Havana--Maps--Early works to 1800",
+    "Mexico--Veracruz-Llave--Vera Cruz Region",
+    "Veracruz Region (Veracruz-Llave, Mexico)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1758",
+    "[1758?]"
+  ],
+  "dct_title_s": "Havana. Vera Cruz",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691502",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

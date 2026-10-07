@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 8.\"",
+    "\"Tom. XIV.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: [Bellin, Jacques Nicolas] 1703-1772",
+    "Publication statement: [Paris? 1757?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. \"Tom. XIV.\" \"No. 8.\" Scale ca. 1:2,300,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:2,300,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842c.ct004154",
+    "http://lccn.loc.gov/74692504",
+    "http://www.loc.gov/item/74692504/",
+    "http://www.loc.gov/resource/g3842c.ct004154/",
+    "https://hdl.loc.gov/loc.gmd/g3842c.ct004154",
+    "https://search.catalog.loc.gov/instances/fc071f8c-bbc8-505d-9a89-21006f2ab144",
+    "https://www.loc.gov/item/74692504/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842c/ct004154.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692504/\"}",
+  "dct_spatial_sm": [
+    "chesapeake bay region",
+    "maryland",
+    "middle atlantic states",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Chesapeake Bay Region (Md. and Va.)--Maps--Early works to 1800",
+    "Maryland--Maps--Early works to 1800",
+    "Middle Atlantic States--Maps--Early works to 1800",
+    "United States--Maryland",
+    "United States--Maryland--Chesapeake Bay Region",
+    "United States--Middle Atlantic States",
+    "United States--Virginia",
+    "United States--Virginia--Chesapeake Bay Region",
+    "Virginia--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1757",
+    "[Paris? 1757?]"
+  ],
+  "dct_title_s": "Carte de la baye de Chesapeack et pays voisins,",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692504",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Surveys made in any part of the State. Maps of all counties ... and additions. Established in 1872.\"",
+    "Acquisitions control no. 2005-135.",
+    "Annotates in brown pencil and black ink.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: E.P. Noll & Co; Whitty, P.",
+    "Includes area map.",
+    "Michael D. Heaston.",
+    "Publication statement: Philadelphia, PA. : E.P. Noll & Co., [1890?]",
+    "Shows land ownership.",
+    "Shows land ownership. Annotates in brown pencil and black ink. Tears along the border. Includes area map. \"Surveys made in any part of the State. Maps of all counties ... and additions. Established in 1872.\" Available also through the Library of Congress Web site as a raster image. Michael D. Heaston. Acquisitions control no. 2005-135.",
+    "Tears along the border."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2013592008",
+    "http://www.loc.gov/item/2013592008/",
+    "http://www.loc.gov/resource/g4033h.la002381/",
+    "https://hdl.loc.gov/loc.gmd/g4033h.la002381",
+    "https://search.catalog.loc.gov/instances/21a83f39-c00b-5db4-8d48-31236f8c3270",
+    "https://www.loc.gov/item/2013592008/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033h/la002381.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013592008/\"}",
+  "dct_spatial_sm": [
+    "hardin county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hardin County (Tex.)--Maps",
+    "Landowners--Texas--Hardin County--Maps",
+    "Real property--Texas--Hardin County--Maps",
+    "United States--Texas--Hardin County"
+  ],
+  "dct_temporal_sm": [
+    "1890",
+    "Philadelphia, PA. : E.P. Noll & Co., [1890?]"
+  ],
+  "dct_title_s": "Hardin County, Texas",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013592008",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

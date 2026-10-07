@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Philadelphia Publishing Company",
+    "Description derived from published bibliography.",
+    "General map of the South and adjoining states showing state boundaries, cities and towns, projected and completed railroads, and forts.",
+    "General map of the South and adjoining states showing state boundaries, cities and towns, projected and completed railroads, and forts. Stamped in the lower right corner: Library of Congress, City of Washington, Copyright, Jul 8 1893. 32155 yl. Description derived from published bibliography. Scale ca. 1:4,500,000. LC Civil War Maps (2nd ed.), 14.85 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 14.85",
+    "Publication statement: New York and Philadelphia Philadelphia Publishing Company c1893",
+    "Scale ca. 1:4,500,000.",
+    "Stamped in the lower right corner: Library of Congress, City of Washington, Copyright, Jul 8 1893. 32155 yl."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3860.cw0014850",
+    "http://lccn.loc.gov/99447046",
+    "http://www.loc.gov/item/99447046/",
+    "http://www.loc.gov/resource/g3860.cw0014850/",
+    "https://hdl.loc.gov/loc.gmd/g3860.cw0014850",
+    "https://search.catalog.loc.gov/instances/05d9b84e-a999-58c6-aaa6-8a7108b0cb6f",
+    "https://www.loc.gov/item/99447046/"
+  ],
+  "dct_issued_s": "1893",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3860/g3860/cw0014850.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447046/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Southern States--Maps",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "dct_title_s": "The theatre of war or the stage as set for the opening scenes of 1861",
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447046",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"The Georgia Rail-Road extends from Augusta Geo. The head of navigation on the Savannah River to the Western and Atlantic Rail-Road-which it joins--near Decatur. Length 165 miles. Length of W & A R.R. 130 miles-making the total distance from the navigable waters of the Atlantic to those of the Mississippi 295 miles.- The greatest rise on this route is 36 feet per mile and no satisfactory power required on the whole line.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Georgia Rail Road Company; Thomson, J. Edgar (John Edgar), 1808-1874",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 416",
+    "Map of the southeastern United States indicating drainage, relief by hachures, place names, roads, canals in blue, Georgia Railroad in red, \"R.R. completed & in progress\" in yellow. \"R.R. chartered & proposed\" in brown. Probably made to accompany his Report of the Engineer in Chief, May 13, 1839. Created by Act of December 21, 1836. See also items 613 and 614.",
+    "Publication statement: Phila[delphia], [1839]",
+    "Scale 1:2,000,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3866p.rr004160",
+    "http://lccn.loc.gov/98688667",
+    "http://www.loc.gov/item/98688667/",
+    "http://www.loc.gov/resource/g3866p.rr004160/",
+    "https://hdl.loc.gov/loc.gmd/g3866p.rr004160",
+    "https://search.catalog.loc.gov/instances/82b698e2-a906-5287-9c57-32f411985dcf",
+    "https://www.loc.gov/item/98688667/"
+  ],
+  "dct_issued_s": "1839",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3866/g3866p/rr004160.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688667/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia Railroad--Maps",
+    "Railroads--Southern States--Maps",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1839"
+  ],
+  "dct_title_s": "A map of the Georgia Rail Road and the several lines of railroad connecting with it, Febr. 1839",
+  "gbl_dateRange_drsim": [
+    "[1839 TO 1839]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1839
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688667",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

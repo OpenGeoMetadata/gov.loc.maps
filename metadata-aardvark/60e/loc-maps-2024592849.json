@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "In pencil in upper margin: four maps taken from S. d'Anania's L'universale fabrica del mondo, Venezia, 1582.",
+    "Mounted on cloth backed paper.",
+    "On map of Asia: Cū. del.",
+    "Publication information from book title page.",
+    "Publication statement: [In Venetia] : [Presso il Muschio, ad instanza di Aniello San Vito di Napoli], [1582]",
+    "Relief shown pictorially.",
+    "Title supplied by cataloger.",
+    "vcFY24",
+    "vcFY24 Relief shown pictorially. Title supplied by cataloger. Publication information from book title page. On map of Asia: Cū. del. In pencil in upper margin: four maps taken from S. d'Anania's L'universale fabrica del mondo, Venezia, 1582. Mounted on cloth backed paper. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024592849",
+    "http://www.loc.gov/item/2024592849/",
+    "http://www.loc.gov/resource/g5700.ct007010/",
+    "https://hdl.loc.gov/loc.gmd/g5700.ct007010",
+    "https://search.catalog.loc.gov/instances/0ad47baf-698e-56a4-b2b4-9422448e30d8",
+    "https://www.loc.gov/item/2024592849/"
+  ],
+  "dct_issued_s": "1582",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2024592849/\"}",
+  "dct_spatial_sm": [
+    "africa",
+    "america",
+    "asia",
+    "europe"
+  ],
+  "dct_subject_sm": [
+    "Africa",
+    "Africa--Maps--Early works to 1800",
+    "America",
+    "America--Maps--Early works to 1800",
+    "Asia",
+    "Asia--Maps--Early works to 1800",
+    "Europe",
+    "Europe--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1582"
+  ],
+  "dct_title_s": "[Maps from L'universale fabrica del mondo]",
+  "gbl_dateRange_drsim": [
+    "[1582 TO 1582]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1582
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024592849",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

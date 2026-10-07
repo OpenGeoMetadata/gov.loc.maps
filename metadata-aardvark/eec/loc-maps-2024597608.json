@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Carey, Mathew, 1760-1839; Lewis, Samuel, 1753 or 1754-1822, cartographer",
+    "Prime meridian: Philadelphia.",
+    "Publication statement: Philadephia : Mathew Carey, [1795?]",
+    "Wheat, J.C. Maps and charts published in America before 1800 (2nd rev. ed.), 442",
+    "vcFY24",
+    "vcFY24 Prime meridian: Philadelphia. Wheat, J.C. Maps and charts published in America before 1800 (2nd rev. ed.), 442 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597608",
+    "http://www.loc.gov/item/2024597608/",
+    "http://www.loc.gov/resource/g3820.ct005961/",
+    "http://www.loc.gov/resource/g3820.ct005962/",
+    "http://www.loc.gov/resource/g3820.ct005963/",
+    "https://hdl.loc.gov/loc.gmd/g3820.ct005961",
+    "https://hdl.loc.gov/loc.gmd/g3820.ct005962",
+    "https://hdl.loc.gov/loc.gmd/g3820.ct005963",
+    "https://search.catalog.loc.gov/instances/58cf912a-1f24-53b2-9300-d6777eaaf28a",
+    "https://www.loc.gov/item/2024597608/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3820:g3820:ct005961/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597608/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pennsylvania--Maps--Early works to 1800",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1795",
+    "Philadephia : Mathew Carey, [1795?]"
+  ],
+  "dct_title_s": "The state of Pennsylvania : reduced with permission from Reading Howell's map",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597608",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Spielmann & Brush, cartographer",
+    "LC copy: all leaves mounted on cloth.",
+    "LC copy: all leaves mounted on cloth. List of geographical atlases in the Library of Congress, 15757 Available also through the Library of Congress Web site as a raster image. Available also through the Library of Congress Web site as a raster image.",
+    "List of geographical atlases in the Library of Congress, 15757",
+    "Publication statement: Hoboken, N.J. : Spielmann & Brush, 1873.; Newark, N.J. : W.A. Kipp, lith. [1873]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map49000086",
+    "http://www.loc.gov/item/map49000086/",
+    "http://www.loc.gov/resource/gmdatlases.map49000086/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.map49000086",
+    "https://search.catalog.loc.gov/instances/70cc106e-e29d-5baa-9c10-6a3ae7af328b",
+    "https://www.loc.gov/item/map49000086/"
+  ],
+  "dct_issued_s": "1873",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:ma:p4:90:00:08:6:map49000086:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map49000086/\"}",
+  "dct_spatial_sm": [
+    "albany",
+    "hoboken",
+    "new jersey",
+    "new york",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fire insurance--New Jersey--Hoboken--Maps",
+    "Real property--New York (State)--Albany--Maps",
+    "United States--New Jersey--Hoboken"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "dct_title_s": "Insurance map of the city of Hoboken, N.J.",
+  "gbl_dateRange_drsim": [
+    "[1873 TO 1873]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1873
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-map49000086",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"36041 4-62.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "In right lower margin: Pravda, 23 February 1962.",
+    "In right lower margin: Pravda, 23 February 1962. \"36041 4-62.\" Indexed. Scale not given. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Indexed.",
+    "Publication statement: [Washington : Central Intelligence Agency, 1962]",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7001g.ct002926",
+    "http://lccn.loc.gov/78694965",
+    "http://www.loc.gov/item/78694965/",
+    "http://www.loc.gov/resource/g7001g.ct002926/",
+    "https://hdl.loc.gov/loc.gmd/g7001g.ct002926",
+    "https://search.catalog.loc.gov/instances/a15cd647-b9bc-5242-b334-d0ed8b0c5b35",
+    "https://www.loc.gov/item/78694965/"
+  ],
+  "dct_issued_s": "1962",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7001/g7001g/ct002926.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78694965/\"}",
+  "dct_spatial_sm": [
+    "soviet union"
+  ],
+  "dct_subject_sm": [
+    "Regional planning districts--Soviet Union--Maps",
+    "Soviet Union",
+    "Soviet Union--Economic policy--1959-1965--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "dct_title_s": "USSR, major economic regions, February 1962",
+  "gbl_dateRange_drsim": [
+    "[1962 TO 1962]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78694965",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

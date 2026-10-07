@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base map prepared by the U.S. Geological Survey.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map series: 7.5 minute series (topographic).",
+    "Contributors: Geological Survey (U.S.); Geometronics Service Center (U.S.); United States. Forest Service",
+    "Each sheet separately titled in right upper and right lower margins.",
+    "In left upper margin: United States, Department of the Interior, Geological Survey, modified for USDA Forest Service use.",
+    "Includes notes and index map.",
+    "Publication statement: [Washington? : U.S. Forest Service, 1985]",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Title from base of index map. Each sheet separately titled in right upper and right lower margins. Base map series: 7.5 minute series (topographic). \"Base map prepared by the U.S. Geological Survey.\" In left upper margin: United States, Department of the Interior, Geological Survey, modified for USDA Forest Service use. UTM grid. Includes notes and index map. Available also through the Library of Congress Web site as a raster image.",
+    "Title from base of index map.",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/85695485",
+    "http://www.loc.gov/item/85695485/",
+    "http://www.loc.gov/resource/gmdsetmaps.85695485/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.85695485",
+    "https://search.catalog.loc.gov/instances/7b52233f-5e7b-52aa-9d7b-dfb612c5643c",
+    "https://www.loc.gov/item/85695485/"
+  ],
+  "dct_issued_s": "1985",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:85:69:54:85:85695485:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/85695485/\"}",
+  "dct_spatial_sm": [
+    "allegheny national forest",
+    "allegheny national forest (pa.)",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Allegheny National Forest (Pa.)--Maps",
+    "United States--Pennsylvania--Allegheny National Forest (Pa.)"
+  ],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "dct_title_s": "Allegheny National Forest",
+  "gbl_dateRange_drsim": [
+    "[1985 TO 1985]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-85695485",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

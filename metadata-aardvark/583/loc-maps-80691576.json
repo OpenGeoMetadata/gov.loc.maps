@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"76657 7-69.\"",
+    "\"76657 7-69.\" Relief shown by shading and spot heights. Includes inset of \"Border history and claims.\" Scale 1:7,200,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: [United States. Central Intelligence Agency]",
+    "Includes inset of \"Border history and claims.\"",
+    "Publication statement: [Washington : Central Intelligence Agency, 1969]",
+    "Relief shown by shading and spot heights.",
+    "Scale 1:7,200,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7821f.ct002171",
+    "http://lccn.loc.gov/80691576",
+    "http://www.loc.gov/item/80691576/",
+    "http://www.loc.gov/resource/g7821f.ct002171/",
+    "https://hdl.loc.gov/loc.gmd/g7821f.ct002171",
+    "https://search.catalog.loc.gov/instances/b96c922a-7224-5f3b-b663-1b2904ab9130",
+    "https://www.loc.gov/item/80691576/"
+  ],
+  "dct_issued_s": "1969",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7821/g7821f/ct002171.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80691576/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "soviet union"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Boundaries--Soviet Union--Maps",
+    "Soviet Union",
+    "Soviet Union--Boundaries--China--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "dct_title_s": "China-U.S.S.R. border, western sector",
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1969]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80691576",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-15516.\"",
+    "\"November 1979.\"",
+    "\"November 1979.\" Oriented with north to the left. Includes location map. \"1-15516.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Oriented with north to the left.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1980."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3752o.ct005701",
+    "http://lccn.loc.gov/81690342",
+    "http://www.loc.gov/item/81690342/",
+    "http://www.loc.gov/resource/g3752o.ct005701/",
+    "https://hdl.loc.gov/loc.gmd/g3752o.ct005701",
+    "https://search.catalog.loc.gov/instances/3995d76b-309a-5978-a100-68a7011e5be7",
+    "https://www.loc.gov/item/81690342/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3752/g3752o/ct005701.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690342/\"}",
+  "dct_spatial_sm": [
+    "dead creek watershed",
+    "otter creek watershed",
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Soil erosion--Vermont--Dead Creek watershed--Maps",
+    "Soil erosion--Vermont--Otter Creek watershed--Maps",
+    "United States--Vermont--Dead Creek watershed",
+    "United States--Vermont--Otter Creek watershed"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Potential soil erodibility, lower Otter and Dead Creeks watershed, Addison County, Vermont",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690342",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

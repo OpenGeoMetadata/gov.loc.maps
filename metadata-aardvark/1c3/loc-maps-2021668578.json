@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Ankole District: Uganda 1: 250,000"
+  ],
+  "dct_description_sm": [
+    "\"From the Uganda National Fisheries Resources Research Institute. Digitized at the National Library of Uganda with support from the Carnegie Corporation of New York.\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Great Britain. Army. East African Engineers. East African and Southern Rhodesian Base Survey Company, 157th Contributor.; Middlemas, N. A. Associated Name.; Uganda. Survey, Land, and Mines Department Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Uganda.",
+    "Original resource extent: 1 map ; 65 x 82 centimeters.",
+    "Publication statement: Entebbe, Uganda : Great Britain. Army. East African Engineers. East African and Southern Rhodesian Base Survey Company, 157th, 1945-09.",
+    "This map of Ankole District, Uganda Protectorate (present-day Uganda) was issued in 1945 by the Survey, Land and Mines Department of the protectorate, based on surveys carried out by the director of surveys. Located in southwestern Uganda, the district extended eastward from the shores of Lake Edward. To the south it was bordered by Tanganyika Territory (present-day Tanzania) and the Belgian trust territory of Ruanda (present-day Rwanda). Shown are international, inter-colonial, provincial, district, and county boundaries; roads of different classes; telegraph lines; telephone, postal, and telegraph offices; towns and administrative centers; trading centers; Protestant and Roman Catholic missions; and other sites. Natural features shown include rivers and streams, swamps, and water holes and springs. Elevations are indicated in feet above sea level. The scale of the map is 1:250,000. Ankole takes its name from the Kingdom of Ankole, one of the traditional kingdoms of Uganda. Ankole District has since been divided into six smaller administrative units: Bushenyi District, Ntungamo District, Mbarara District, Kiruhura District, Ibanda District, and Isingiro District.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668578",
+    "http://www.loc.gov/item/2021668578/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_14277/",
+    "http://www.loc.gov/resource/wdl.14277/",
+    "https://hdl.loc.gov/loc.wdl/wdl.14277",
+    "https://www.loc.gov/item/2021668578/"
+  ],
+  "dct_issued_s": "1945-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_14277.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/14/27/7/wdl_14277/wdl_14277.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:27:7:wdl_14277:NaFiRRI_0050/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668578/\"}",
+  "dct_spatial_sm": [
+    "uganda",
+    "western"
+  ],
+  "dct_subject_sm": [
+    "1945-09",
+    "Military maps",
+    "Uganda--Western",
+    "World War, 1939-1945"
+  ],
+  "dct_temporal_sm": [
+    "1945-01-01"
+  ],
+  "dct_title_s": "Ankole District, Uganda.",
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1945]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1945
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668578",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

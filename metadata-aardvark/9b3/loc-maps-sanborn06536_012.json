@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "1929; Republished 1958.",
+    "1929; Republished 1958. 90 sheet(s). 35 X 29 cm. Bound. Other places as they appear on original: South West Fargo, West Fargo.",
+    "35 X 29 cm. Bound. Other places as they appear on original: South West Fargo, West Fargo.",
+    "90 sheet(s).",
+    "Publication statement: Sanborn Map Company, 1929; Republished 1958"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4174fm.g065361958",
+    "http://www.loc.gov/item/sanborn06536_012/",
+    "http://www.loc.gov/resource/g4174fm.g065361958/",
+    "https://hdl.loc.gov/loc.gmd/g4174fm.g065361958",
+    "https://www.loc.gov/item/sanborn06536_012",
+    "https://www.loc.gov/item/sanborn06536_012/",
+    "https://www.loc.gov/resource/g4174fm.g065361958"
+  ],
+  "dct_issued_s": "1958",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn06536_012/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd417m/g4174m/g4174fm/g065361958/06536_1958-0000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn06536_012/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "cass county",
+    "fargo",
+    "north dakota",
+    "south west fargo",
+    "united states",
+    "west fargo"
+  ],
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Fargo, Cass County, North Dakota.",
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1958]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn06536_012",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

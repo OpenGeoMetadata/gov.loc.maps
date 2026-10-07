@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Tanner, Henry Schenck, 1786-1858",
+    "Description derived from published bibliography.",
+    "Entered according to Act of Congress, in the year 1835.",
+    "From his A New Universal Atlas . . . (Philadelphia, 1936). For a description of this atlas see P. L. Phillips' A List of Geographical Atlases in the Library of Congress (Washington, Govt. Print. Off., 1909) v. 1, no 774.",
+    "LC Railroad maps, 3",
+    "Publication statement: [n.p., 1835]",
+    "Scale ca. 1:8,000,000.",
+    "The map covers the eastern half of the United States. Shows roads, canals, and railroads. Indicates state boundaries and many cities."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.rr000030",
+    "http://lccn.loc.gov/98688302",
+    "http://www.loc.gov/item/98688302/",
+    "http://www.loc.gov/resource/g3700.rr000030/",
+    "https://hdl.loc.gov/loc.gmd/g3700.rr000030",
+    "https://search.catalog.loc.gov/instances/c79658e3-4574-5cb7-8af6-9ad9f97d9144",
+    "https://www.loc.gov/item/98688302/"
+  ],
+  "dct_issued_s": "1835",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/rr000030.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688302/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1835"
+  ],
+  "dct_title_s": "United States",
+  "gbl_dateRange_drsim": [
+    "[1835 TO 1835]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1835
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688302",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

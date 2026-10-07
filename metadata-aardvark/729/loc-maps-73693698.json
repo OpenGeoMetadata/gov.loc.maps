@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Longitude occidentale du méridien de Paris.\"",
+    "\"Tome I, no. 40.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bellin, Jacques Nicolas, 1703-1772",
+    "From the author's Le petit atlas maritime. 1764.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 111",
+    "Publication statement: [Paris, 1764]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. \"Longitude occidentale du méridien de Paris.\" \"Tome I, no. 40.\" From the author's Le petit atlas maritime. 1764. Scale ca. 1:10,000,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 111 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:10,000,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar011101",
+    "http://hdl.loc.gov/loc.gmd/g3300.ar011102",
+    "http://lccn.loc.gov/73693698",
+    "http://www.loc.gov/item/73693698/",
+    "http://www.loc.gov/resource/g3300.ar011101/",
+    "http://www.loc.gov/resource/g3300.ar011102/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar011101",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar011102",
+    "https://search.catalog.loc.gov/instances/381a4e1b-1410-5f90-ae53-16435084ae20",
+    "https://www.loc.gov/item/73693698/"
+  ],
+  "dct_issued_s": "1764",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar011101.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693698/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "north america",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Louisiana",
+    "North America",
+    "United States--Louisiana"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "dct_title_s": "La Louisiane et pays voisins",
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1764
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693698",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

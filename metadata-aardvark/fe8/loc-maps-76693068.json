@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 700/1; 700/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 824 Available also through the Library of Congress Web site as a raster image. AACR2: 100; 700/1; 700/2",
+    "Contributors: Downs, A. E. (Albert E.); Fowler, T. M. (Thaddeus Mortimer), 1842-1922; Moyer, James B.",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 824",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Morrisville, Pa., T. M. Fowler & J. B. Moyer [1892]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824p.pm008240",
+    "http://lccn.loc.gov/76693068",
+    "http://www.loc.gov/item/76693068/",
+    "http://www.loc.gov/resource/g3824p.pm008240/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.pm008240",
+    "https://search.catalog.loc.gov/instances/14de8dba-19e2-5ec4-a341-75cce6e188b5",
+    "https://www.loc.gov/item/76693068/"
+  ],
+  "dct_issued_s": "1892",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/pm008240.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76693068/\"}",
+  "dct_spatial_sm": [
+    "peckville",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Peckville (Pa.)",
+    "United States--Pennsylvania--Peckville"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "dct_title_s": "Peckville, Lackawanna County, Pa. 1892",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76693068",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

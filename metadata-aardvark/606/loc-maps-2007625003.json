@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Gallery of Art (U.S.)",
+    "DCP",
+    "Includes text, color-key to museum collections, index of sculptures in garden, and building cross-section.",
+    "Maps of 7 floors of the 2 museum buildings and of the museum sculpture garden.",
+    "Maps of 7 floors of the 2 museum buildings and of the museum sculpture garden. Title from panel. Includes text, color-key to museum collections, index of sculptures in garden, and building cross-section. Text, location map (The Mall), historical time-line, and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Publication statement: [Washington, D.C. : National Gallery of Art, 2006?]",
+    "Text, location map (The Mall), historical time-line, and ill. (some col.) on verso.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852n.ct005184",
+    "http://lccn.loc.gov/2007625003",
+    "http://www.loc.gov/item/2007625003/",
+    "http://www.loc.gov/resource/g3852n.ct005184/",
+    "https://hdl.loc.gov/loc.gmd/g3852n.ct005184",
+    "https://search.catalog.loc.gov/instances/643b8b6c-065c-51cd-bb5b-f2817eec7dd6",
+    "https://www.loc.gov/item/2007625003/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852n/ct005184.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007625003/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Art museums--Washington (D.C.)--Designs and plans",
+    "National Gallery of Art (U.S.)--Maps",
+    "Sculpture gardens--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "[Washington, D.C. : National Gallery of Art, 2006?]"
+  ],
+  "dct_title_s": "Map and visitors guide, National Gallery of Art, Washington",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007625003",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

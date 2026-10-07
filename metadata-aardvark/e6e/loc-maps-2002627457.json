@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Dwight, C. S.",
+    "Date, title, and scale from Stephenson's Civil War maps, 1989.",
+    "Imperfect: section of lower right cut away and large ink blot at upper left.",
+    "In upper left: No. 7.",
+    "LC Land ownership maps, 1206",
+    "Library of Congress. Civil War maps (2nd ed.), H49",
+    "Pen-and-ink on tracing linen, on a 3/4-inch grid, sectioned in 2 and mounted on cloth.",
+    "Publication statement: [186-]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows the names of some residents. Date, title, and scale from Stephenson's Civil War maps, 1989. Pen-and-ink on tracing linen, on a 3/4-inch grid, sectioned in 2 and mounted on cloth. Imperfect: section of lower right cut away and large ink blot at upper left. In upper left: No. 7. Library of Congress. Civil War maps (2nd ed.), H49 LC Land ownership maps, 1206 Available also through the Library of Congress web site as raster image.",
+    "Shows the names of some residents."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883n.cwh00049",
+    "http://lccn.loc.gov/2002627457",
+    "http://www.loc.gov/item/2002627457/",
+    "http://www.loc.gov/resource/g3883n.cwh00049/",
+    "https://hdl.loc.gov/loc.gmd/g3883n.cwh00049",
+    "https://search.catalog.loc.gov/instances/c48f2db9-6124-50f4-a605-ddd636324e15",
+    "https://www.loc.gov/item/2002627457/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883n/cwh00049.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002627457/\"}",
+  "dct_spatial_sm": [
+    "amherst county",
+    "nelson county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Amherst County (Va.)--Maps",
+    "Landowners--Virginia--Amherst County--Maps",
+    "Landowners--Virginia--Nelson County--Maps",
+    "Nelson County (Va.)--Maps",
+    "United States--Virginia--Amherst County",
+    "United States--Virginia--Nelson County"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "[Map of Nelson and Amherst counties, Va.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002627457",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

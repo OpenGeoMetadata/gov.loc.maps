@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Black, brown, blue, and red inks.",
+    "DCP",
+    "Depths shown by contours and soundings.",
+    "Depths shown by contours and soundings. Black, brown, blue, and red inks. Rubber-stamped: From collection of David Dixon Porter. Faced with gauze, halved, and mounted on cloth backing. Includes notes and index of buildings. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "Faced with gauze, halved, and mounted on cloth backing.",
+    "Includes notes and index of buildings.",
+    "Publication statement: [1881?]",
+    "Rubber-stamped: From collection of David Dixon Porter.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852w.ct002580",
+    "http://lccn.loc.gov/88693003",
+    "http://www.loc.gov/item/88693003/",
+    "http://www.loc.gov/resource/g3852w.ct002580/",
+    "https://hdl.loc.gov/loc.gmd/g3852w.ct002580",
+    "https://search.catalog.loc.gov/instances/8364c878-a663-52e6-83c4-93b8c28bacf1",
+    "https://www.loc.gov/item/88693003/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852w/ct002580.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693003/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington navy yard"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "United States--District of Columbia--Washington Navy Yard",
+    "Washington Navy Yard--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1881",
+    "[1881?]"
+  ],
+  "dct_title_s": "Plan of the Navy Yard at Washington, D.C. : showing the position and dimensions of all the buildings as they were June 1st 1881",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693003",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

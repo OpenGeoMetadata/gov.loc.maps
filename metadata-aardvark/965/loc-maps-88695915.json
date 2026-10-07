@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Berwick Hotel text and ill. on cover.",
+    "Contributors: Rand McNally and Company",
+    "Cover title: Auto trail map of New Jersey and vicinity.",
+    "Cover title: Auto trail map of New Jersey and vicinity. Includes pictorial index of \"Trail markings.\" Berwick Hotel text and ill. on cover. Available also through the Library of Congress Web site as a raster image.",
+    "Includes pictorial index of \"Trail markings.\"",
+    "Publication statement: [New York?] : Rand McNally & Co. ; Newark, N.J. : Berwick Hotel [distributor, 1920?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct006577",
+    "http://lccn.loc.gov/88695915",
+    "http://www.loc.gov/item/88695915/",
+    "http://www.loc.gov/resource/g3804n.ct006577/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct006577",
+    "https://search.catalog.loc.gov/instances/bf8c3d3c-6f02-5c77-90ba-01dc36e9e1c7",
+    "https://www.loc.gov/item/88695915/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct006577.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88695915/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "new york (state)",
+    "new york region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Roads--Middle Atlantic States--Maps",
+    "Roads--New York Region--Maps",
+    "United States--Middle Atlantic States",
+    "United States--New York (State)--New York Region"
+  ],
+  "dct_temporal_sm": [
+    "1920",
+    "[New York?] : Rand McNally & Co. ; Newark, N.J. : Berwick Hotel [distributor, 1920?]"
+  ],
+  "dct_title_s": "Rand McNally official 1920 auto trails map, New York City and vicinity",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88695915",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

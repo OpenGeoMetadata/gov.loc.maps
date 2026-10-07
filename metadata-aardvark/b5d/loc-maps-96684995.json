@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"In 1868, President Daniel Bashiel Warner of the Republic of Liberia sent Benjamin J.K. Anderson, a Liberian government official, into the interior of the country to negotiate a treaty with the King of Musardo. Warner's objective was to improve ties with the peoples of the interior and to try to associate them, economically and culturally, with the coastal colonies established by immigrants from the United States. Traveling through dense forest, Anderson made careful notes about the people, customs, and natural resources of the areas through which he passed. On the basis of his official report about his journey, the Liberian government moved to assert limited control over the region that Anderson had explored. This map, part of the collection given to the Library of Congress by the American Colonization Society, shows Anderson's route. In 1874, Anderson made a second expedition to the Liberian interior.\" World Digital Library.",
+    "Annotated in pencil with notes about elevation and the St. Paul River settlements.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Anderson, Benjamin J. K., 1834-",
+    "Gift; 1968; American Colonization Society;",
+    "Publication statement: [S.l. : s.n., 1869?]",
+    "Relief shown by hachures.",
+    "Shows Anderson's route from Monrovia to Musardu west of the Saint Paul River.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8882s.lm000004",
+    "http://lccn.loc.gov/96684995",
+    "http://www.loc.gov/item/96684995/",
+    "http://www.loc.gov/resource/g8882s.lm000004/",
+    "https://hdl.loc.gov/loc.gmd/g8882s.lm000004",
+    "https://search.catalog.loc.gov/instances/d9742493-d69e-5c30-bf02-2e92678673da",
+    "https://www.loc.gov/item/96684995/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8882/g8882s/lm000004.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96684995/\"}",
+  "dct_spatial_sm": [
+    "liberia",
+    "saint paul river region"
+  ],
+  "dct_subject_sm": [
+    "Liberia--Saint Paul River Region",
+    "Saint Paul River Region (Liberia)--Discovery and exploration--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1869",
+    "[S.l. : s.n., 1869?]"
+  ],
+  "dct_title_s": "Map of a journey to Musardu, the capital of the Western Mandingoes",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96684995",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

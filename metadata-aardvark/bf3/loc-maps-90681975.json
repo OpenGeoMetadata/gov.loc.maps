@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Tulsa District",
+    "Includes indexes/tables of facilities, inset, location/route map, and col. ill.",
+    "Inquiries regarding Lake Texoma and its uses are welcomed by the Resident Engineer, US Army Corps of Engineers, Dension Dam, Rt. 4, Box 493, Denison, TX 75020.",
+    "Panel title.",
+    "Publication statement: [Tulsa, Okla.] : The District, [1989?]",
+    "Relief shown by gradient tints.",
+    "Relief shown by gradient tints. Panel title. Inquiries regarding Lake Texoma and its uses are welcomed by the Resident Engineer, US Army Corps of Engineers, Dension Dam, Rt. 4, Box 493, Denison, TX 75020. Includes indexes/tables of facilities, inset, location/route map, and col. ill. Text and col. ill. of recreational activities on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text and col. ill. of recreational activities on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/90681975",
+    "http://www.loc.gov/item/90681975/",
+    "http://www.loc.gov/resource/g4022t.ct011216/",
+    "https://hdl.loc.gov/loc.gmd/g4022t.ct011216",
+    "https://search.catalog.loc.gov/instances/0ffd5b97-74a1-5ecd-ba7b-ab2b2f0a66a7",
+    "https://www.loc.gov/item/90681975/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4022/g4022t/ct011216.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90681975/\"}",
+  "dct_spatial_sm": [
+    "lake",
+    "oklahoma",
+    "texas",
+    "texoma",
+    "texoma, lake",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Outdoor recreation--Texoma, Lake (Okla. and Tex.)--Maps",
+    "Texoma, Lake (Okla. and Tex.)--Maps",
+    "United States--Oklahoma--Texoma, Lake",
+    "United States--Texas--Texoma, Lake"
+  ],
+  "dct_temporal_sm": [
+    "1989",
+    "[Tulsa, Okla.] : The District, [1989?]"
+  ],
+  "dct_title_s": "Lake Texoma : Denison Dam, Red River, Texas & Oklahoma",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90681975",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

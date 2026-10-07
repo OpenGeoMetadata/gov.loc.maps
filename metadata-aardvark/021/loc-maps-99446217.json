@@ -1,0 +1,49 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This automobile guide shows the main highway route between Vancouver, Canada, and San Diego, California, circa 1915. The map lists the distance in miles from Vancouver to cities along the way, and highlights in red lettering the major intermediate stops, such as Seattle, Portland, San Francisco (Oakland), Bakersfield, and Los Angeles. Major civic expositions occurring in San Francisco and San Diego in 1915, which stimulated significant motor travel that year, are noted in red as well. Parts of the route include the Pacific Highway as well as follow segments of the Spanish-era El Camino Real (The Royal Road), but much of the route takes a more inland course, traversing the Willamette Valley of Oregon and the Central Valley of California. Side roads to Bend, Oregon; Stockton, California; and the Mojave Desert are shown branching off the main route. The map also marks approximate state boundaries for Washington, Oregon, and California, and it suggests places for overnight stops. Advertisements for local hotels and garages are included along the margins, placed for ease of use adjacent to each major city on the map. The populations of selected cities and towns are listed. Also shown are schematic boundaries for significant geographical features, such as Puget Sound, the Columbia River, and San Francisco Bay.\" World Digital Library.",
+    "27883 U.S. Copyright Office",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Publication statement: [S.l., 1915?]",
+    "Shows roads from Vancouver to San Diego."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4231p.mf000064",
+    "http://lccn.loc.gov/99446217",
+    "http://www.loc.gov/item/99446217/",
+    "http://www.loc.gov/resource/g4231p.mf000064/",
+    "https://hdl.loc.gov/loc.gmd/g4231p.mf000064",
+    "https://search.catalog.loc.gov/instances/95d72070-8969-5c99-bee6-ad1958ae8a19",
+    "https://www.loc.gov/item/99446217/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd423/g4231/g4231p/mf000064.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446217/\"}",
+  "dct_spatial_sm": [
+    "pacific states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Roads--Pacific States--Maps",
+    "United States--Pacific States"
+  ],
+  "dct_temporal_sm": [
+    "1915",
+    "[S.l., 1915?]"
+  ],
+  "dct_title_s": "Western motor car route guide",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446217",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Call no. cited in LC Civil War maps (2nd ed.): G3884.M25S5 1861 .B6 Vault",
+    "Confederate imprint",
+    "Contributors: Bowen, James L.; Enquirer Book and Job Press (Richmond, Va.); Hoyer & Ludwig; Warder & Catlett",
+    "From T.B. Warder and James M. Catlett's Battle of Young's Branch or Manassas Plain, fought July 21, 1861. Richmond, Va. : Enquirer Book and Job Press, 1862.",
+    "Includes index to Confederate units and topographic profile.",
+    "Library of Congress. Civil War maps (2nd ed.), 562.3",
+    "Publication statement: [Richmond, Va. : Enquirer Book and Job Press, 1862]",
+    "Relief shown by hachures.",
+    "Shows troop positions, houses and names of residents, and places where \"distinguished man fell.\"",
+    "Vault",
+    "Vault Confederate imprint Call no. cited in LC Civil War maps (2nd ed.): G3884.M25S5 1861 .B6 Vault Shows troop positions, houses and names of residents, and places where \"distinguished man fell.\" Relief shown by hachures. From T.B. Warder and James M. Catlett's Battle of Young's Branch or Manassas Plain, fought July 21, 1861. Richmond, Va. : Enquirer Book and Job Press, 1862. Includes index to Confederate units and topographic profile. Library of Congress. Civil War maps (2nd ed.), 562.3 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884m.cw0562300",
+    "http://lccn.loc.gov/89692757",
+    "http://www.loc.gov/item/89692757/",
+    "http://www.loc.gov/resource/g3884m.cw0562300/",
+    "https://hdl.loc.gov/loc.gmd/g3884m.cw0562300",
+    "https://search.catalog.loc.gov/instances/cf28f3e7-1f41-5e18-a801-cb57f0e5abea",
+    "https://www.loc.gov/item/89692757/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884m/cw0562300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89692757/\"}",
+  "dct_spatial_sm": [
+    "manassas",
+    "manassas region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Bull Run, 1st Battle of, Va",
+    "Bull Run, 1st Battle of, Va., 1861--Maps",
+    "Manassas (Va.)--Maps",
+    "United States--Virginia--Manassas Region"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Battle field of Young's Branch or Manassa[s], battle fought July 21, 1861",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89692757",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"10,000 meter universal transverse Mercator grid, zone 16.\"",
+    "\"August 1979 4-R-37204.\"",
+    "\"Base compiled from U.S.G.S. quadrangle sheets and Florida county general highway map, polyconic projection.\"",
+    "\"Base compiled from U.S.G.S. quadrangle sheets and Florida county general highway map, polyconic projection.\" \"10,000 meter universal transverse Mercator grid, zone 16.\" Includes text and location map. \"August 1979 4-R-37204.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes text and location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1980."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81690359",
+    "http://www.loc.gov/item/81690359/",
+    "http://www.loc.gov/resource/g3933h.ct010344/",
+    "https://hdl.loc.gov/loc.gmd/g3933h.ct010344",
+    "https://search.catalog.loc.gov/instances/622bfdc6-63eb-5999-8727-98aff99849ce",
+    "https://www.loc.gov/item/81690359/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3933/g3933h/ct010344.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690359/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "holmes county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Sewage lagoons--Florida--Holmes County--Maps",
+    "Soil mechanics--Florida--Holmes County--Maps",
+    "United States--Florida--Holmes County"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Holmes County, Florida : soil interpretive map of limitations for sewage lagoons",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690359",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

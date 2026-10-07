@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"51280.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes location map.",
+    "Publication statement: [Washington, 1965]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. \"51280.\" Includes location map. Scale ca. 1:1,000,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale ca. 1:1,000,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7780.ct002737",
+    "http://lccn.loc.gov/75695011",
+    "http://www.loc.gov/item/75695011/",
+    "http://www.loc.gov/resource/g7780.ct002737/",
+    "https://hdl.loc.gov/loc.gmd/g7780.ct002737",
+    "https://search.catalog.loc.gov/instances/c7181f08-58b6-51d5-9f37-a4f5ad5afdfd",
+    "https://www.loc.gov/item/75695011/"
+  ],
+  "dct_issued_s": "1965",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7780/g7780/ct002737.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75695011/\"}",
+  "dct_spatial_sm": [
+    "bhutan"
+  ],
+  "dct_subject_sm": [
+    "Bhutan",
+    "Bhutan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "dct_title_s": "Bhutan. 3-65",
+  "gbl_dateRange_drsim": [
+    "[1965 TO 1965]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1965
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75695011",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

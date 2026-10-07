@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Delaware. State Board of Agriculture; Smith, John L., 1846-",
+    "Hand colored.",
+    "Hand colored. Includes text. Scale 1:316,800; 5 miles to in. Available also through the Library of Congress Web site as a raster image. Available also through the Library of Congress Web site as a raster image. AACR2: 100; 651/1",
+    "Includes text.",
+    "Publication statement: Dover : State Board of Agriculture, c1903.",
+    "Scale 1:316,800; 5 miles to in."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3830.ct008436",
+    "http://lccn.loc.gov/78696292",
+    "http://www.loc.gov/item/78696292/",
+    "http://www.loc.gov/resource/g3830.ct008436/",
+    "https://hdl.loc.gov/loc.gmd/g3830.ct008436",
+    "https://search.catalog.loc.gov/instances/2789e8f2-9e86-53a1-8fab-773746e09321",
+    "https://www.loc.gov/item/78696292/"
+  ],
+  "dct_issued_s": "1903",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd383/g3830/g3830/ct008436.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78696292/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware--Maps",
+    "United States--Delaware"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dct_title_s": "An invitation to Delaware",
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1903]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78696292",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

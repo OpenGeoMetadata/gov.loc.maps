@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "LC Maps of North America, 1750-1789, 879",
+    "Manuscript, pen-and-ink.",
+    "Manuscript, pen-and-ink. Cadastral map. Scale ca. 1:60,000. LC Maps of North America, 1750-1789, 879 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [178-?]",
+    "Scale ca. 1:60,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3754c.ar087900",
+    "http://lccn.loc.gov/74692126",
+    "http://www.loc.gov/item/74692126/",
+    "http://www.loc.gov/resource/g3754c.ar087900/",
+    "https://hdl.loc.gov/loc.gmd/g3754c.ar087900",
+    "https://search.catalog.loc.gov/instances/d4ae3705-5025-56f5-9300-3809490e896e",
+    "https://www.loc.gov/item/74692126/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3754/g3754c/ar087900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692126/\"}",
+  "dct_spatial_sm": [
+    "cabot",
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Cabot (Vt.)--Maps, Manuscript--Early works to 1800",
+    "United States--Vermont--Cabot"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "The Above is a plan of the town of Cabot, State of Vermont",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692126",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

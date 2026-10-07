@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Tabula Geographica Regni Chile"
+  ],
+  "dct_description_sm": [
+    "Content in Latin.",
+    "Contributors: Ovalle, Alonso de, 1601-1651 Cartographer.; Society of Jesus Associated Name.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Chile.",
+    "Original resource extent: 1 map ; 23 x 13 centimeters.",
+    "Publication statement: Rome : Francesco Cavallo, 1646.",
+    "This map by the Chilean Jesuit priest Alonso de Ovalle (1601--51) appears in his book Histórica Relación del Reyno de Chile (Historical narration about the kingdom of Chile), considered the first history of the country. The map is the result of a major descriptive effort begun during Ovalle's first trip to Europe, as \"Procurator\" of Chile, in 1641. At the time, the Jesuits needed support for their missionary work in the south of Chile, and Ovalle was commissioned to recruit help and raise money. Answering the need for information about the country, Ovalle's book and map were published in Rome in 1646, in both Spanish and Italian editions. The printer was Francesco Cavallo; Ovalle dedicated the work to Pope Innocent X. The book highlighted Jesuit missionary activities and focused on the physical, social, and cultural aspects of Chile during the first 40 years of the 17th century. It provided detailed topographical and ethnological descriptions of the southern settlements. Ovalle's map complemented the text with illustrations of volcanoes, rivers, and lakes, along with decorative images of wildlife and vegetation and scenes of people engaged in various social and commercial activities. The figure of a native with a tail is a puzzling, unexplained detail. From a cartographic perspective, the map contains errors. In his statement to the reader (Ad Lectorem), Ovalle admits uncertainties and the absence of longitudes. The orientation of the map is unusual. North (septentrio) is on the left, placing Tierra del Fuego on the right. The Strait of Magellan divides the mainland from \"Terra Incognita,\" the as-yet unknown Antarctica, which is placed in the upper right-hand corner, to the southeast of the South American continent.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668423",
+    "http://www.loc.gov/item/2021668423/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_03968/",
+    "http://www.loc.gov/resource/wdl.3968/",
+    "https://hdl.loc.gov/loc.wdl/wdl.3968",
+    "https://www.loc.gov/item/2021668423/"
+  ],
+  "dct_issued_s": "1646-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_03968.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/03/96/8/wdl_03968/wdl_03968.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:03:96:8:wdl_03968:mc0000066/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668423/\"}",
+  "dct_spatial_sm": [
+    "chile"
+  ],
+  "dct_subject_sm": [
+    "1641",
+    "Chile",
+    "Exploration and encounters",
+    "Magellan, Strait of (Chile and Argentina)",
+    "Tierra del Fuego (Argentina)"
+  ],
+  "dct_temporal_sm": [
+    "1646-01-01"
+  ],
+  "dct_title_s": "Geographic Chart of the Kingdom of Chile.",
+  "gbl_dateRange_drsim": [
+    "[1646 TO 1646]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1646
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668423",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

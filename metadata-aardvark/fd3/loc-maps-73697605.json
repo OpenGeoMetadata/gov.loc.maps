@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 651/2; 651/3; 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Campbell, Archibald, Sir, 1739-1791; Faden, William, 1749-1836",
+    "Includes 2 insets of \"Continuation of Savanna River, from Ebenezer to Augusta\" and index of \"References to the attack of Savannah on the 28th December 1778.\"",
+    "LC Maps of North America, 1750-1789, 1570",
+    "Oriented with north toward the upper right.",
+    "Publication statement: London, Wm. Faden, 1780.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Oriented with north toward the upper right. Includes 2 insets of \"Continuation of Savanna River, from Ebenezer to Augusta\" and index of \"References to the attack of Savannah on the 28th December 1778.\" Scale ca. 1:110,000. LC Maps of North America, 1750-1789, 1570 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 651/2; 651/3; 700/1",
+    "Scale ca. 1:110,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3922s.ar157001",
+    "http://lccn.loc.gov/73697605",
+    "http://www.loc.gov/item/73697605/",
+    "http://www.loc.gov/resource/g3922s.ar157001/",
+    "https://hdl.loc.gov/loc.gmd/g3922s.ar157001",
+    "https://search.catalog.loc.gov/instances/194ef8e2-5a05-5746-a7ea-d77b43f92d1b",
+    "https://www.loc.gov/item/73697605/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922s/ar157001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73697605/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "savannah river valley",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--Boundaries--South Carolina--Maps--Early works to 1800",
+    "Savannah River Valley (Ga. and S.C.)--Maps--Early works to 1800",
+    "South Carolina--Boundaries--Georgia--Maps--Early works to 1800",
+    "United States--Georgia",
+    "United States--Georgia--Savannah River Valley",
+    "United States--South Carolina",
+    "United States--South Carolina--Savannah River Valley"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "Sketch of the northern frontiers of Georgia, extending from the mouth of the River Savannah to the town of Augusta,",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73697605",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

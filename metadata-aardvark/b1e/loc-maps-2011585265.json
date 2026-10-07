@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Arrowsmith, Aaron, 1750-1823",
+    "Minimal level cataloging record.",
+    "Publication statement: London : A. Arrowsmith, 1802.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Minimal level cataloging record. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8200.ct003367",
+    "http://hdl.loc.gov/loc.gmd/g8200.ct003484",
+    "http://lccn.loc.gov/2011585265",
+    "http://www.loc.gov/item/2011585265/",
+    "http://www.loc.gov/resource/g8200.ct003367/",
+    "http://www.loc.gov/resource/g8200.ct003484/",
+    "https://hdl.loc.gov/loc.gmd/g8200.ct003367",
+    "https://hdl.loc.gov/loc.gmd/g8200.ct003484",
+    "https://search.catalog.loc.gov/instances/9f6badda-8cb4-54f0-999f-7932da136965",
+    "https://www.loc.gov/item/2011585265/"
+  ],
+  "dct_issued_s": "1802",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8200/g8200/ct003484.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011585265/\"}",
+  "dct_spatial_sm": [
+    "africa"
+  ],
+  "dct_subject_sm": [
+    "Africa",
+    "Africa--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1802"
+  ],
+  "dct_title_s": "Africa : to the committee and members of the British association discovering the interior parts of Africa this map is with their permission most respectfully inscribed",
+  "gbl_dateRange_drsim": [
+    "[1802 TO 1802]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1802
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011585265",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

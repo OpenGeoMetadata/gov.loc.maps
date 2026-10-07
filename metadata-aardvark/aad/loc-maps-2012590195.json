@@ -1,0 +1,79 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1865 by A. Pomeroy & S.W. Treat in the ... Eastern District of Pennsylvania.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Borough/village insets: Hydetown -- Tryonville -- Titusville -- Guys Mills P.O. -- Townville, Kingsley P.O. -- Meadville -- Cochranton -- Adamsville -- Harmonsburg -- Blooming Valley -- Espyville -- Hartstown -- Evansburg -- Linesville -- Jamestown -- Turnersville -- Spring Cors. -- Conneautville -- Cussewago -- Lyttle's Cors. -- Venango -- Saegertown -- Shermanville -- Woodcock -- Cambridge -- Riceville -- Centreville -- Spartansburgh.",
+    "Contributors: A. Pomeroy & S.W. Treat; Beers, F. W. (Frederick W.); Bourquin, F. (Frederick), 1808-; Shearer, William Otis; Worley & Bracher",
+    "County map showing rural buildings, householders' names, warranty-deed tracts, tract numbers, warrantees' names, and tract acreages; the borough insets and many of the village insets show real-property tracts (lots), owners' names, and building coverage.",
+    "County map showing rural buildings, householders' names, warranty-deed tracts, tract numbers, warrantees' names, and tract acreages; the borough insets and many of the village insets show real-property tracts (lots), owners' names, and building coverage. Hand col. to emphasize township/borough boundaries and areas. \"Entered according to Act of Congress in the year 1865 by A. Pomeroy & S.W. Treat in the ... Eastern District of Pennsylvania.\" LC copy imperfect: Brittle, shellacked, hemmed at outer edges, annotated in red ink to show specific locations, annotated on cloth backing in black wash: Crawford Co., Pa. Includes business directories, table of road distances, and ill. of prominent buildings. Borough/village insets: Hydetown -- Tryonville -- Titusville -- Guys Mills P.O. -- Townville, Kingsley P.O. -- Meadville -- Cochranton -- Adamsville -- Harmonsburg -- Blooming Valley -- Espyville -- Hartstown -- Evansburg -- Linesville -- Jamestown -- Turnersville -- Spring Cors. -- Conneautville -- Cussewago -- Lyttle's Cors. -- Venango -- Saegertown -- Shermanville -- Woodcock -- Cambridge -- Riceville -- Centreville -- Spartansburgh. LC Land ownership maps, 732 Available also through the Library of Congress Web site as a raster image.",
+    "Hand col. to emphasize township/borough boundaries and areas.",
+    "Includes business directories, table of road distances, and ill. of prominent buildings.",
+    "LC Land ownership maps, 732",
+    "LC copy imperfect: Brittle, shellacked, hemmed at outer edges, annotated in red ink to show specific locations, annotated on cloth backing in black wash: Crawford Co., Pa.",
+    "Publication statement: Philadelphia : A. Pomeroy & S.W. Treat, 1865"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823c.la000732",
+    "http://lccn.loc.gov/2012590195",
+    "http://www.loc.gov/item/2012590195/",
+    "http://www.loc.gov/resource/g3823c.la000732/",
+    "https://hdl.loc.gov/loc.gmd/g3823c.la000732",
+    "https://search.catalog.loc.gov/instances/2e124dd2-6a92-5c47-b3bc-458e4e8271ee",
+    "https://www.loc.gov/item/2012590195/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823c/la000732.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590195/\"}",
+  "dct_spatial_sm": [
+    "conneautville",
+    "crawford county",
+    "meadville",
+    "pennsylvania",
+    "titusville",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cities and towns--Pennsylvania--Crawford County--Maps",
+    "Conneautville (Pa.)--Maps",
+    "Crawford County (Pa.)--Maps",
+    "Landowners--Pennsylvania--Crawford County--Maps",
+    "Meadville (Crawford County, Pa.)--Maps",
+    "Real property--Pennsylvania--Conneautville--Maps",
+    "Real property--Pennsylvania--Crawford County--Maps",
+    "Real property--Pennsylvania--Meadville (Crawford County)--Maps",
+    "Real property--Pennsylvania--Titusville--Maps",
+    "Titusville (Pa.)--Maps",
+    "United States--Pennsylvania--Conneautville",
+    "United States--Pennsylvania--Crawford County",
+    "United States--Pennsylvania--Crawford County--Meadville",
+    "United States--Pennsylvania--Titusville",
+    "Villages--Pennsylvania--Crawford County--Maps",
+    "Warranty of title--Pennsylvania--Crawford County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Map of Crawford Co., Pennsylvania : from actual surveys",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590195",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

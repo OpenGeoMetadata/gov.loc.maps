@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and illus.",
+    "Publication statement: [Washington, U.S. Govt. Print. Off., 1973]",
+    "Scale not given.",
+    "Shows \"First Fort Davis, 1854-1862\" and \"Fort Davis, 1867-1891.\"",
+    "Text and illus. on verso.",
+    "Title from verso.",
+    "Title from verso. Shows \"First Fort Davis, 1854-1862\" and \"Fort Davis, 1867-1891.\" Includes text and illus. Text and illus. on verso. Scale not given. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/73695972",
+    "http://www.loc.gov/item/73695972/",
+    "http://www.loc.gov/resource/g4034f.ct011590/",
+    "https://hdl.loc.gov/loc.gmd/g4034f.ct011590",
+    "https://search.catalog.loc.gov/instances/a1be1397-e918-54d6-8ab8-523216f7b861",
+    "https://www.loc.gov/item/73695972/"
+  ],
+  "dct_issued_s": "1973",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4034/g4034f/ct011590.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73695972/\"}",
+  "dct_spatial_sm": [
+    "fort davis",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Davis (Tex. : Fort)--Maps",
+    "United States--Texas--Fort Davis--Fort"
+  ],
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "dct_title_s": "Fort Davis",
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1973]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1973
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73695972",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

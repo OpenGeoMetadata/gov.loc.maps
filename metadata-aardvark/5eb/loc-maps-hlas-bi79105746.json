@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: buenos aires, argentina (prov.). ministerio de asuntos agrarios; buenos aires, argentina (prov.). ministerio de obras públicas; consejo federal de inversiones (argentina); modelski, andrew m."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi79105746/",
+    "https://www.loc.gov/item/hlas-bi79105746/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "s.n.,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi79105746/\"}",
+  "dct_spatial_sm": [
+    "argentina"
+  ],
+  "dct_subject_sm": [
+    "buenos aires, argentina (prov.)",
+    "buenos aires, argentina (prov.) -- geology",
+    "buenos aires, argentina (prov.) -- maps and cartography",
+    "buenos aires, argentina (prov.) -- natural resources",
+    "geology",
+    "geology -- maps and cartography",
+    "maps and cartography",
+    "natural resources"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "Mapa geológico de la Prov. de Bs. As.: programa para la planificación del uso de los recursos naturales. Por CFI, MOP, MAA",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi79105746",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

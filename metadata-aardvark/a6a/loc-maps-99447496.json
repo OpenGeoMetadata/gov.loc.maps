@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Burk & McFetridge",
+    "Description derived from published bibliography.",
+    "Inset: Site of Gen. Gregg's cavalry operations. Three miles east of Gettysburg. Uncolored. Scale. 1:63,360. 13 x 7 cm.",
+    "Inset: Site of Gen. Gregg's cavalry operations. Three miles east of Gettysburg. Uncolored. Scale. 1:63,360. 13 x 7 cm. Lower right corner: Compliments of Holtzworth Bros., propr's of the Ziegler and Holtzworth Livery, in rear of Eagle Hotel, Gettysburg, Pa. Shows drainage, vegetation, roads, railroads, fences, dwellings with names of inhabitants, and land owned by the United States. Union and Confederate positions are shown, with names of corps and divisions, sometimes including names of commanding officers, and location of artillery. See entry no. 334 for an earlier version of this map. Description derived from published bibliography. Scale 1:15,840. LC Civil War Maps (2nd ed.), 329 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 329",
+    "Lower right corner: Compliments of Holtzworth Bros., propr's of the Ziegler and Holtzworth Livery, in rear of Eagle Hotel, Gettysburg, Pa.",
+    "Publication statement: Phila., Burk & McFetridge Co., lith., [18--?]",
+    "Scale 1:15,840.",
+    "See entry no. 334 for an earlier version of this map.",
+    "Shows drainage, vegetation, roads, railroads, fences, dwellings with names of inhabitants, and land owned by the United States. Union and Confederate positions are shown, with names of corps and divisions, sometimes including names of commanding officers, and location of artillery."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824g.cw0329000",
+    "http://lccn.loc.gov/99447496",
+    "http://www.loc.gov/item/99447496/",
+    "http://www.loc.gov/resource/g3824g.cw0329000/",
+    "https://hdl.loc.gov/loc.gmd/g3824g.cw0329000",
+    "https://search.catalog.loc.gov/instances/e4122b01-3f9f-5e6b-b5ab-7040de8d4f5d",
+    "https://www.loc.gov/item/99447496/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824g/cw0329000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447496/\"}",
+  "dct_spatial_sm": [
+    "gettysburg",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gettysburg (Pa.), Battle of, 1863",
+    "Gettysburg, Battle of, Gettysburg, Pa., 1863--Maps",
+    "United States--Pennsylvania--Gettysburg"
+  ],
+  "dct_temporal_sm": [
+    "1863",
+    "Phila., Burk & McFetridge Co., lith., [18--?]"
+  ],
+  "dct_title_s": "Gettysburg and vicinity, showing the lines of battle, July, 1863",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447496",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

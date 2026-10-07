@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"June 1907.\"",
+    "Accompanied by index map. (1 map : photocopy ; 58 x 85 cm.)",
+    "Annotated in yellow pencil on every sheet: 19-6.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint.",
+    "Cadastral map covering Panama Canal between K.46 and K.59.",
+    "Cadastral map covering Panama Canal between K.46 and K.59. \"June 1907.\" Title from accompanying index map. Blueprint. Issued as loose-leaf text. Accompanied by index map. (1 map : photocopy ; 58 x 85 cm.) Map no. A192, A193(1), A194(2), A195(3), A196(4), A197(5), A198(6), A199(7), A200(8), A201(9), A202(10), A203(11), A204(12), A205(13), A206(14), A207(15), A208(15 1/2), A209(16), A210(17), A211(18), and A212(19). Annotated in yellow pencil on every sheet: 19-6. Available also through the Library of Congress Web site as a raster image. Transferred from the collection of the Canal Zone Library-Museum, 1980. Vault",
+    "Contributors: Isthmian Canal Commission (U.S.). Office of the Resident Engineer",
+    "Issued as loose-leaf text.",
+    "Map no. A192, A193(1), A194(2), A195(3), A196(4), A197(5), A198(6), A199(7), A200(8), A201(9), A202(10), A203(11), A204(12), A205(13), A206(14), A207(15), A208(15 1/2), A209(16), A210(17), A211(18), and A212(19).",
+    "Publication statement: Empire [Canal Zone] : Isthmian Canal Commission, 1907.",
+    "Title from accompanying index map.",
+    "Transferred from the collection of the Canal Zone Library-Museum, 1980.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/83694727",
+    "http://www.loc.gov/item/83694727/",
+    "http://www.loc.gov/resource/gmdsetmaps.83694727/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.83694727",
+    "https://search.catalog.loc.gov/instances/25d239a0-8192-5b63-9d2b-50e00098ea07",
+    "https://www.loc.gov/item/83694727/"
+  ],
+  "dct_issued_s": "1907",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:83:69:47:27:83694727:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/83694727/\"}",
+  "dct_spatial_sm": [
+    "panama",
+    "panama canal"
+  ],
+  "dct_subject_sm": [
+    "Panama--Panama Canal",
+    "Real property--Panama--Panama Canal--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dct_title_s": "Plans showing location of buildings in the encampments, Culebra Division, scale 1:1000 : [Panama Canal]",
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83694727",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

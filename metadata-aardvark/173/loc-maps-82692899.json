@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from state base map ...\"",
+    "\"June 1981 4-R-37632.\"",
+    "\"June 1981 4-R-37632.\" Shows major physical divisions. \"Base compiled from state base map ...\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service; University of Tennessee, Knoxville. Agricultural Experiment Station",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1981.",
+    "Shows major physical divisions."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82692899",
+    "http://www.loc.gov/item/82692899/",
+    "http://www.loc.gov/resource/g3961c.ct010515/",
+    "https://hdl.loc.gov/loc.gmd/g3961c.ct010515",
+    "https://search.catalog.loc.gov/instances/03a01d12-11a0-53a7-83f2-41d07cc91ca5",
+    "https://www.loc.gov/item/82692899/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3961/g3961c/ct010515.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82692899/\"}",
+  "dct_spatial_sm": [
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Physical geography--Tennessee--Maps",
+    "United States--Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Major land resource area, Tennessee",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82692899",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Knight, J. Hamilton",
+    "LC Land ownership maps, 835",
+    "LC copy imperfect: Torn and repaired in left margin.",
+    "Oriented with north toward upper right.",
+    "Publication statement: [South Carolina?] : [Publisher not identified], 1900.",
+    "Shows names of landowners.",
+    "Shows names of landowners. Oriented with north toward upper right. LC copy imperfect: Torn and repaired in left margin. LC Land ownership maps, 835 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3913d.la000835",
+    "http://lccn.loc.gov/2013593121",
+    "http://www.loc.gov/item/2013593121/",
+    "http://www.loc.gov/resource/g3913d.la000835/",
+    "https://hdl.loc.gov/loc.gmd/g3913d.la000835",
+    "https://search.catalog.loc.gov/instances/d883458b-4271-54c0-a3f9-5665254b40d4",
+    "https://www.loc.gov/item/2013593121/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3913/g3913d/la000835.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593121/\"}",
+  "dct_spatial_sm": [
+    "dorchester county",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Dorchester County (S.C.)--Maps",
+    "Landowners--South Carolina--Dorchester County--Maps",
+    "Real property--South Carolina--Dorchester County--Maps",
+    "United States--South Carolina--Dorchester County"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Map of Dorchester County, South Carolina : made and created by an Act of the Legislature of So. Ca. Feb'y 25th 1897, from portions of Colleton and Berkeley counties",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593121",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

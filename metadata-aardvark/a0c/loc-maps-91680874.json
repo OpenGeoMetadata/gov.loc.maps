@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Asso, Raphael de; Real Escuela de Navegación (Cádiz, Spain)",
+    "Indexed.",
+    "LC Luso-Hispanic World, 391",
+    "Maggs number annotated in pencil in lower right corner: 57.",
+    "Mounted on cloth backing.",
+    "Oriented with north to the left.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1767]",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Relief shown pictorially. Depths shown by soundings. Oriented with north to the left. Watermarks: IV; and, fleur-de-lis over the characters VDL. Pen-and-ink and watercolor. Mounted on cloth backing. Indexed. Maggs number annotated in pencil in lower right corner: 57. LC Luso-Hispanic World, 391 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermarks: IV; and, fleur-de-lis over the characters VDL."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4952o.lh000391",
+    "http://lccn.loc.gov/91680874",
+    "http://www.loc.gov/item/91680874/",
+    "http://www.loc.gov/resource/g4952o.lh000391/",
+    "https://hdl.loc.gov/loc.gmd/g4952o.lh000391",
+    "https://search.catalog.loc.gov/instances/059a492a-2d9f-5983-a25d-7cf81f5db0e8",
+    "https://www.loc.gov/item/91680874/"
+  ],
+  "dct_issued_s": "1767",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4952/g4952o/lh000391.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91680874/\"}",
+  "dct_spatial_sm": [
+    "dominican republic",
+    "ocoa bay"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Dominican Republic--Ocoa Bay--Maps--Early works to 1800",
+    "Dominican Republic--Ocoa Bay",
+    "Manuscript maps--Early works to 1800",
+    "Ocoa Bay (Dominican Republic)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1767"
+  ],
+  "dct_title_s": "Plano de la Bahía de Ocoa situado en la banda del sur de la Ysla Española",
+  "gbl_dateRange_drsim": [
+    "[1767 TO 1767]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1767
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91680874",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

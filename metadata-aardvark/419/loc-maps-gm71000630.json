@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 650/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Faden, William, 1749-1836",
+    "Has watermark.",
+    "LC Maps of North America, 1750-1789, 1542",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: 1780?]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Scale ca. 1:45,000.",
+    "Title from engraved copy issued by William Faden in 1780.",
+    "Title from engraved copy issued by William Faden in 1780. Manuscript, pen-and-ink and watercolor. Has watermark. Relief shown by hachures. Depths shown by soundings. Scale ca. 1:45,000. LC Maps of North America, 1750-1789, 1542 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 650/1; 651/2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3914c.ar154200",
+    "http://lccn.loc.gov/gm71000630",
+    "http://www.loc.gov/item/gm71000630/",
+    "http://www.loc.gov/resource/g3914c.ar154200/",
+    "https://hdl.loc.gov/loc.gmd/g3914c.ar154200",
+    "https://search.catalog.loc.gov/instances/6fcaa80f-1cf7-5ce9-bcf1-ace3d1e4a274",
+    "https://www.loc.gov/item/gm71000630/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3914/g3914c/ar154200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000630/\"}",
+  "dct_spatial_sm": [
+    "charleston",
+    "charleston harbor",
+    "charleston region",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Charleston Harbor (S.C.)--Maps, Manuscript--Early works to 1800",
+    "Charleston Region (S.C.)--Maps, Manuscript--Early works to 1800",
+    "United States--South Carolina--Charleston",
+    "United States--South Carolina--Charleston Region"
+  ],
+  "dct_temporal_sm": [
+    "1780",
+    "1780?]"
+  ],
+  "dct_title_s": "A plan of the town, bar, harbour, and environs of Charlestown in South Carolina : with all the channels, soundings, sailing-marks &c. from the surveys made in the colony",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000630",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

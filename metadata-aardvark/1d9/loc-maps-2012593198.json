@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to act of Congress in the year 1890 by Brice and Smith in the office of Librarian of Congress.\"",
+    "\"Entered according to act of Congress in the year 1890 by Brice and Smith in the office of Librarian of Congress.\" Includes business directory, population statistical table, list of county officers, distance table, view of Court House at Mauston, LC copy hand colored. LC Land ownership maps, 1424 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: J. Knauber & Co; Morgan, F. B.; Nash, G. V.",
+    "Includes business directory, population statistical table, list of county officers, distance table, view of Court House at Mauston,",
+    "LC Land ownership maps, 1424",
+    "LC copy hand colored.",
+    "Publication statement: La Crosse, Wis. : G.V. Nash & F.B. Morgan, 1876.; Milwaukee : J. Knauber & Co., lithographers"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4123j.la001424",
+    "http://lccn.loc.gov/2012593198",
+    "http://www.loc.gov/item/2012593198/",
+    "http://www.loc.gov/resource/g4123j.la001424/",
+    "https://hdl.loc.gov/loc.gmd/g4123j.la001424",
+    "https://search.catalog.loc.gov/instances/1ed45bae-a705-5d30-bab0-335232a3e968",
+    "https://www.loc.gov/item/2012593198/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4123/g4123j/la001424.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593198/\"}",
+  "dct_spatial_sm": [
+    "juneau county",
+    "united states",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Wisconsin--Juneau County--Maps",
+    "Real property--Wisconsin--Juneau County--Maps",
+    "United States--Wisconsin--Juneau County"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Map of Juneau County, Wisconsin",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593198",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

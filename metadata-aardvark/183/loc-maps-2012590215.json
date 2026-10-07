@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lapie, M. (Pierre), 1779-1850; Tardieu, Pierre Antoine, 1784-1869",
+    "LC copy has slip attached: Atlas universal de geographie, par M. Lapie et fils P.C. Luhuby, Paris, 1941; Property of Andrew Arthur Benton, New York, N.Y.",
+    "LC copy stamped on: 626888.",
+    "LC copy: Annotated in pencil at bottom: Atlas universal de geographie, M. Lapie et fils, P.C. Luhuby, Paris, 1841.",
+    "Publication statement: Paris : Imp. Chez Kaeppelin, 1842.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. LC copy: Annotated in pencil at bottom: Atlas universal de geographie, M. Lapie et fils, P.C. Luhuby, Paris, 1841. LC copy has slip attached: Atlas universal de geographie, par M. Lapie et fils P.C. Luhuby, Paris, 1941; Property of Andrew Arthur Benton, New York, N.Y. LC copy stamped on: 626888. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7500.ct002657",
+    "http://lccn.loc.gov/2012590215",
+    "http://www.loc.gov/item/2012590215/",
+    "http://www.loc.gov/resource/g7500.ct002657/",
+    "https://hdl.loc.gov/loc.gmd/g7500.ct002657",
+    "https://search.catalog.loc.gov/instances/3feea8bd-bcf7-5870-b44f-625f668f315e",
+    "https://www.loc.gov/item/2012590215/"
+  ],
+  "dct_issued_s": "1842",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7500/g7500/ct002657.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590215/\"}",
+  "dct_spatial_sm": [
+    "palestine"
+  ],
+  "dct_subject_sm": [
+    "Palestine",
+    "Palestine--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1842"
+  ],
+  "dct_title_s": "Carte de la Palestine ou Terre Sainte",
+  "gbl_dateRange_drsim": [
+    "[1842 TO 1842]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1842
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590215",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

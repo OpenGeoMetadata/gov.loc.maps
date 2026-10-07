@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 700/1; 710/2; 710/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Includes ill. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 349 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 700/1; 710/2; 710/3",
+    "Contributors: Charles Shober & Co; Chicago Lithographing Co; Ruger, A.; Stoner, J. J.",
+    "Includes ill. and index to points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 349",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Madison, Wis., J. J. Stoner [1874]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4114g.pm003490",
+    "http://lccn.loc.gov/73693427",
+    "http://www.loc.gov/item/73693427/",
+    "http://www.loc.gov/resource/g4114g.pm003490/",
+    "https://hdl.loc.gov/loc.gmd/g4114g.pm003490",
+    "https://search.catalog.loc.gov/instances/4022826b-3428-5262-acb9-0f489146a82b",
+    "https://www.loc.gov/item/73693427/"
+  ],
+  "dct_issued_s": "1874",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd411/g4114/g4114g/pm003490.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693427/\"}",
+  "dct_spatial_sm": [
+    "grand haven",
+    "michigan",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Grand Haven (Mich.)",
+    "United States--Michigan--Grand Haven"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "dct_title_s": "Grand Haven, Ottawa County, Michigan 1874",
+  "gbl_dateRange_drsim": [
+    "[1874 TO 1874]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1874
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693427",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

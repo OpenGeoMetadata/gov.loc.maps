@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Scrapbook (Mss5:7 Sn237:1 p. 409).",
+    "Manuscripts",
+    "Map shows a detailed layout of the city of Atlanta, Ga., including the batteries and earthworks in the surrounding area. The Western Atlanta and the Macon & Western Railroad are also indicated. The map depicts the situation in the city as of 1 September 1864; the city fell to Sherman's army on the 8th.",
+    "NOTE: Researchers will be served a color photocopy of this scrapbook image.",
+    "Publication statement: [1864-1865]",
+    "Relief shown by hachures.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00311",
+    "http://www.loc.gov/item/001-CABIB20008824/",
+    "http://www.loc.gov/item/gvhs01.vhs00311/",
+    "http://www.loc.gov/resource/gvhs01.vhs00311/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00311",
+    "https://www.loc.gov/item/gvhs01.vhs00311/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00311.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00311/\"}",
+  "dct_spatial_sm": [
+    "atlanta",
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlanta (Ga.)--History--Civil War, 1861-1865--Maps",
+    "Atlanta Campaign",
+    "Atlanta Campaign, 1864--Maps",
+    "Fortification--United States--History--Civil War, 1861-1865--Maps",
+    "Georgia--History--Civil War, 1861-1865--Maps",
+    "United States--Georgia--Atlanta"
+  ],
+  "dct_temporal_sm": [
+    "1864/1865"
+  ],
+  "dct_title_s": "Atlanta, Georgia and its rebel defences [sic]",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00311",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

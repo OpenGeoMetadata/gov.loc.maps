@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Indexed for points of interest.",
+    "Manuscript, pen-and-ink and pencil.",
+    "Manuscript, pen-and-ink and pencil. Oriented with north toward the upper left. Indexed for points of interest. Scale ca. 1:47,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [176-?]",
+    "Scale ca. 1:47,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3422s.ct008209",
+    "http://lccn.loc.gov/74694648",
+    "http://www.loc.gov/item/74694648/",
+    "http://www.loc.gov/resource/g3422s.ct008209/",
+    "https://hdl.loc.gov/loc.gmd/g3422s.ct008209",
+    "https://search.catalog.loc.gov/instances/315089fd-b4bb-58fd-9244-cc72aa27c583",
+    "https://www.loc.gov/item/74694648/"
+  ],
+  "dct_issued_s": "1760",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3422/g3422s/ct008209.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694648/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "nova scotia",
+    "shubenacadie river"
+  ],
+  "dct_subject_sm": [
+    "Canada--Nova Scotia--Shubenacadie River",
+    "Shubenacadie River (N.S.)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1760"
+  ],
+  "dct_title_s": "Chibenaccadie River from its source to its discharge into Minas Bay, being 44 miles long",
+  "gbl_dateRange_drsim": [
+    "[1760 TO 1760]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1760
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694648",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

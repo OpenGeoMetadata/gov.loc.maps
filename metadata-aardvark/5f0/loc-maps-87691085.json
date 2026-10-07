@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Wyllie, H. S. (Henry Shaw), 1852-1919",
+    "Includes directories.",
+    "Includes directories. Available also through the Library of Congress Web site as a raster image. PM3",
+    "PM3",
+    "Publication statement: [Kearny?] : The Kearny Record, c1907."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814n.pm005221",
+    "http://lccn.loc.gov/87691085",
+    "http://www.loc.gov/item/87691085/",
+    "http://www.loc.gov/resource/g3814n.pm005221/",
+    "https://hdl.loc.gov/loc.gmd/g3814n.pm005221",
+    "https://search.catalog.loc.gov/instances/dfc4c828-35f1-5053-8d5c-73df17db032f",
+    "https://www.loc.gov/item/87691085/"
+  ],
+  "dct_issued_s": "1907",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814n/pm005221.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691085/\"}",
+  "dct_spatial_sm": [
+    "arlington",
+    "arlington (kearny)",
+    "east newark",
+    "harrison",
+    "kearny",
+    "new jersey",
+    "newark suburban area",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Arlington (Kearny, N.J.)--Aerial views",
+    "East Newark (N.J.)--Aerial views",
+    "Harrison (N.J.)--Aerial views",
+    "Kearny (N.J.)--Aerial views",
+    "Newark Suburban Area (N.J.)--Aerial views",
+    "United States--New Jersey--Arlington (Kearny)",
+    "United States--New Jersey--East Newark",
+    "United States--New Jersey--Harrison",
+    "United States--New Jersey--Kearny",
+    "United States--New Jersey--Newark Suburban Area"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dct_title_s": "Bird's-eye view of the West Hudson towns--Harrison & East Newark, Kearny & Arlington, N.J.",
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87691085",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

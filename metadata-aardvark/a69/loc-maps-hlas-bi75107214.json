@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: automóvil club argentino. división cartografía; hébert, john r."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi75107214/",
+    "https://www.loc.gov/item/hlas-bi75107214/"
+  ],
+  "dct_issued_s": "1973",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "Automóvil Club Argentino, División Cartografía,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi75107214/\"}",
+  "dct_spatial_sm": [
+    "argentina"
+  ],
+  "dct_subject_sm": [
+    "concepción del uruguay, argentina (city)",
+    "concepción del uruguay, argentina (city) -- maps and cartography",
+    "concordia, argentina (city)",
+    "concordia, argentina (city) -- maps and cartography",
+    "entre ríos, argentina (prov.)",
+    "entre ríos, argentina (prov.) -- maps and cartography",
+    "entre ríos, argentina (prov.) -- road maps",
+    "gualeguaychú, argentina (city)",
+    "gualeguaychú, argentina (city) -- maps and cartography",
+    "la paz, argentina (city)",
+    "la paz, argentina (city) -- maps and cartography",
+    "maps and cartography",
+    "paraná, argentina (city)",
+    "paraná, argentina (city) -- maps and cartography",
+    "road maps"
+  ],
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "dct_title_s": "Entre Ríos",
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1973]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1973
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi75107214",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

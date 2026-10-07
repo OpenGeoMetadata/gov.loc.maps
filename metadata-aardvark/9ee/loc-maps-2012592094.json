@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Plumas County, California"
+  ],
+  "dct_description_sm": [
+    "\"Approved & declared the official map of Plumas County by ... Board of Supervisors ... 1892.\"",
+    "2 copies; map of copy 2 is on 4 sheets",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing drainage, roads, railroads, land ownership, landowners' names, township and section lines, school and land districts, post offices, mining claims, etc.",
+    "Contributors: Britton & Rey; Keddie, Arthur W. (Arthur Walter), 1842-1924",
+    "Includes list of telegraph offices, table of distances from the county seat, mining claims, and ill.",
+    "LC Land ownership maps, 33",
+    "LC copy imperfect: Small portion of map missing at left margin.",
+    "Prime meridians: Washington and Greenwich.",
+    "Publication statement: Quincy, Cal. : A.W. Keddie ; S[an] F[rancisco] : Britton & Rey, 1892.",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. Cadastral map showing drainage, roads, railroads, land ownership, landowners' names, township and section lines, school and land districts, post offices, mining claims, etc. \"Approved & declared the official map of Plumas County by ... Board of Supervisors ... 1892.\" Prime meridians: Washington and Greenwich. LC copy imperfect: Small portion of map missing at left margin. Includes list of telegraph offices, table of distances from the county seat, mining claims, and ill. LC Land ownership maps, 33 Available also through the Library of Congress Web site as a raster image. 2 copies; map of copy 2 is on 4 sheets"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4363p.la000033a",
+    "http://hdl.loc.gov/loc.gmd/g4363p.la000033b",
+    "http://lccn.loc.gov/2012592094",
+    "http://www.loc.gov/item/2012592094/",
+    "http://www.loc.gov/resource/g4363p.la000033a/",
+    "http://www.loc.gov/resource/g4363p.la000033b/",
+    "https://hdl.loc.gov/loc.gmd/g4363p.la000033a",
+    "https://hdl.loc.gov/loc.gmd/g4363p.la000033b",
+    "https://search.catalog.loc.gov/instances/6e4e9716-da0b-5890-84c0-aef9f5045da4",
+    "https://www.loc.gov/item/2012592094/"
+  ],
+  "dct_issued_s": "1892",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4363/g4363p/la000033a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592094/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "plumas county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--California--Plumas County--Maps",
+    "Plumas County (Calif.)--Maps",
+    "Real property--California--Plumas County--Maps",
+    "United States--California--Plumas County"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "dct_title_s": "Keddie's map of Plumas County, California",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592094",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

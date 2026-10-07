@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bayley, G. W. R.; New Orleans, Opelousas, and Great Western Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 479",
+    "Outline map of the south-central states from Mississippi to the Rio Grande. Shows the \"Wheat Region of Texas.\" Indicates completed, located and proposed lines. Table of distances in left side of map.",
+    "Publication statement: New Orleans, 1859.",
+    "Scale 1:1,267,200."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3991p.rr004790",
+    "http://lccn.loc.gov/98688729",
+    "http://www.loc.gov/item/98688729/",
+    "http://www.loc.gov/resource/g3991p.rr004790/",
+    "https://hdl.loc.gov/loc.gmd/g3991p.rr004790",
+    "https://search.catalog.loc.gov/instances/9a073c6e-157d-5898-b486-c4717d9716af",
+    "https://www.loc.gov/item/98688729/"
+  ],
+  "dct_issued_s": "1859",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd399/g3991/g3991p/rr004790.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688729/\"}",
+  "dct_spatial_sm": [
+    "southwest, old",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Orleans, Opelousas, and Great Western Railroad Company--Maps",
+    "Railroads--Southwest, Old--Maps",
+    "United States--Southwest, Old"
+  ],
+  "dct_temporal_sm": [
+    "1859"
+  ],
+  "dct_title_s": "Map exhibiting the fixed location of the main trunk of the New-Orleans, Opelousas & Great Western Railroad of Louisiana, together with its proposed branches, connections and extensions in Louisiana, Arkansas & Texas; also its connecting steamship routes from Berwicks Bay to ports in the Gulf of Mexico, together with the advantages in point of directness & diminished distance to the Pacific Coast, New Orleans, La. January 24th, 1859",
+  "gbl_dateRange_drsim": [
+    "[1859 TO 1859]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1859
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688729",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

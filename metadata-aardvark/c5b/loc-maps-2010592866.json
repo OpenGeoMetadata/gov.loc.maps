@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cutts, R. M.; Sands, J. H.; Wilson, D. L. (Surveyor)",
+    "Depths shown by soundings.",
+    "Depths shown by soundings. In upper left corner: Sheet no. 1. Available also through the Library of Congress Web site as a raster image.",
+    "In upper left corner: Sheet no. 1.",
+    "Publication statement: 1873."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4382p.ct003112",
+    "http://lccn.loc.gov/2010592866",
+    "http://www.loc.gov/item/2010592866/",
+    "http://www.loc.gov/resource/g4382p.ct003112/",
+    "https://hdl.loc.gov/loc.gmd/g4382p.ct003112",
+    "https://search.catalog.loc.gov/instances/1bf0610c-b8ea-560f-a377-38266b36746f",
+    "https://www.loc.gov/item/2010592866/"
+  ],
+  "dct_issued_s": "1873",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd438/g4382/g4382p/ct003112.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010592866/\"}",
+  "dct_spatial_sm": [
+    "hawaii",
+    "pearl harbor",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pearl Harbor (Hawaii)--Maps",
+    "United States--Hawaii--Pearl Harbor"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "dct_title_s": "Mouth and bar of Pearl River, Island of Oahu, Hawaiian Islands",
+  "gbl_dateRange_drsim": [
+    "[1873 TO 1873]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1873
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010592866",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

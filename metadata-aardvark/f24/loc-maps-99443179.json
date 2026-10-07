@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows administrative divisions (volosts), towns, villages, roads, and planned railroad.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Zhivnerev",
+    "Includes index of volost names.",
+    "LC copy rubber-stamped, annotated in pencil and ink, wrinkled, torn at edges, mounted on cloth backing, possibly removed from book.",
+    "Publication statement: [Moscow? : s.n., 191-?]",
+    "Shows land areas allotted and occupied by peasants, areas already inspected, areas being inspected, areas occupied by Cossacks, and forest reserves.",
+    "Shows land areas allotted and occupied by peasants, areas already inspected, areas being inspected, areas occupied by Cossacks, and forest reserves. Also shows administrative divisions (volosts), towns, villages, roads, and planned railroad. Includes index of volost names. Available also through the Library of Congress Web site as a raster image. LC copy rubber-stamped, annotated in pencil and ink, wrinkled, torn at edges, mounted on cloth backing, possibly removed from book."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7323a.mf000011",
+    "http://lccn.loc.gov/99443179",
+    "http://www.loc.gov/item/99443179/",
+    "http://www.loc.gov/resource/g7323a.mf000011/",
+    "https://hdl.loc.gov/loc.gmd/g7323a.mf000011",
+    "https://search.catalog.loc.gov/instances/f7bcccc0-dc66-5e0c-8aad-0906c27e9938",
+    "https://www.loc.gov/item/99443179/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7323/g7323a/mf000011.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99443179/\"}",
+  "dct_spatial_sm": [
+    "amurskai︠a︡ oblast",
+    "russia",
+    "russia (federation)",
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Amurskai︠a︡ oblastʹ (Russia)--Administrative and political divisions--Maps",
+    "Land settlement--Russia (Federation)--Amurskai︠a︡ oblastʹ--Maps",
+    "Real property--Russia (Federation)--Amurskai︠a︡ oblastʹ--Maps",
+    "Russia (Federation)--Amurskai︠a︡ oblastʹ"
+  ],
+  "dct_temporal_sm": [
+    "191?"
+  ],
+  "dct_title_s": "Skhematicheskai︠a︡ karta Amurskoĭ oblasti",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99443179",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

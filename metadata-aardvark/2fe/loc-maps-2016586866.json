@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Data provided by Arlington GIS Department.\"",
+    "\"Data provided by Arlington GIS Department.\" Made available through courtesy of Ryan Miller, Teacher, Arlington Public Schools. Map on synthetic sheet affixed to top of foam-rubber base. Includes notes, a population density map, and a \"Population Block\" map. Also available in electronic format. Available also through the Library of Congress Web site as a raster image.",
+    "Also available in electronic format.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Arlington County (Va.). GIS Mapping Center; Howard, David, cartographer",
+    "Includes notes, a population density map, and a \"Population Block\" map.",
+    "Made available through courtesy of Ryan Miller, Teacher, Arlington Public Schools.",
+    "Map on synthetic sheet affixed to top of foam-rubber base.",
+    "Publication statement: Arlington, Virginia : Arlington County GIS Department, 2016."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883a.cp000021",
+    "http://lccn.loc.gov/2016586866",
+    "http://www.loc.gov/item/2016586866/",
+    "http://www.loc.gov/resource/g3883a.cp000021/",
+    "https://hdl.loc.gov/loc.gmd/g3883a.cp000021",
+    "https://search.catalog.loc.gov/instances/1d31b70f-6ac6-5cb4-ae2b-58ea16b65e1c",
+    "https://www.loc.gov/item/2016586866/"
+  ],
+  "dct_issued_s": "2016",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883a/cp000021.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2016586866/\"}",
+  "dct_spatial_sm": [
+    "arlington county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Arlington County--Maps",
+    "Libraries--Virginia--Arlington County--Maps",
+    "United States--Virginia--Arlington County"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_title_s": "Libraries of Arlington County 20 minute walk time",
+  "gbl_dateRange_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2016586866",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hornaday, William T. (William Temple), 1854-1937",
+    "Publication statement: [Washington : Govt. Print. Off., 1889]",
+    "Relief shown by shading.",
+    "Shows areas of die-off and of systematic extermination, range of herds up to 1889, and years of extermination in specific locations.",
+    "Shows areas of die-off and of systematic extermination, range of herds up to 1889, and years of extermination in specific locations. Relief shown by shading. Available also through the Library of Congress Web site as a raster image. Vol. published in 1889, 1887 is the year of the Annual Report.",
+    "Vol. published in 1889, 1887 is the year of the Annual Report."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3301d.ct000308",
+    "http://lccn.loc.gov/2002628195",
+    "http://www.loc.gov/item/2002628195/",
+    "http://www.loc.gov/resource/g3301d.ct000308/",
+    "https://hdl.loc.gov/loc.gmd/g3301d.ct000308",
+    "https://search.catalog.loc.gov/instances/97f03fb2-6818-5729-a1f4-ee6df517e88b",
+    "https://www.loc.gov/item/2002628195/"
+  ],
+  "dct_issued_s": "1889",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3301/g3301d/ct000308.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002628195/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "American bison hunting--North America--History--Maps",
+    "American bison--Mortality--North America--Maps",
+    "American bison--North America--Geographical distribution--Maps",
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "dct_title_s": "Map illustrating the extermination of the American bison",
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002628195",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

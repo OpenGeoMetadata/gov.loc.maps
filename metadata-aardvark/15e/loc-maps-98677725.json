@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Title from Readme text: Monroe County, Pennsylvania"
+  ],
+  "dct_description_sm": [
+    "\"FIPS code 42089.\"",
+    "\"ISO 9660.\"",
+    "\"Mastered 10/95.\"",
+    "\"Monochrome 1-meter pixels\"--Container insert.",
+    "2 copies",
+    "Contributors: Geological Survey (U.S.)",
+    "FFD. 8 coded a temporarily.",
+    "JPEG compressed data image files.",
+    "Publication statement: [Reston, Va.] : The Survey ; [Denver, Colo. : USGS Branch of Distribution, 1995]",
+    "Relief shown by contours and spot heights.",
+    "Shipping list no.: 96-0017-E.",
+    "System requirements: An 80386 IBM compatible computer with MS-DOS version 3.1 or later, and 640K of RAM, and a CD-ROM reader using Microsoft Extensions, version 2.0 or later.",
+    "System requirements: An 80386 IBM compatible computer with MS-DOS version 3.1 or later, and 640K of RAM, and a CD-ROM reader using Microsoft Extensions, version 2.0 or later. Relief shown by contours and spot heights. Title from disc label. JPEG compressed data image files. Shipping list no.: 96-0017-E. \"Mastered 10/95.\" \"Monochrome 1-meter pixels\"--Container insert. \"ISO 9660.\" \"FIPS code 42089.\" FFD. 8 coded a temporarily. 2 copies",
+    "Title from disc label."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/98677725",
+    "http://www.loc.gov/item/98677725/",
+    "http://www.loc.gov/resource/gdcdatasets.98677725/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.98677725",
+    "https://www.loc.gov/item/98677725/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/98677725/\"}",
+  "dct_spatial_sm": [
+    "monroe county",
+    "pennsylvania"
+  ],
+  "dct_subject_sm": [
+    "Maps--Digital",
+    "Monroe County (Pa.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Monroe County, PA DOQ digital orthophoto quadrangle data : US GeoData",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-98677725",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

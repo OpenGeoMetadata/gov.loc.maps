@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base source: USGS Topo Quad Sheets 1:24,000.\"",
+    "\"Lib. no. 1-16828.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1981.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. \"Base source: USGS Topo Quad Sheets 1:24,000.\" Includes location map. \"Lib. no. 1-16828.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3772m.ct006261",
+    "http://lccn.loc.gov/83690413",
+    "http://www.loc.gov/item/83690413/",
+    "http://www.loc.gov/resource/g3772m.ct006261/",
+    "https://hdl.loc.gov/loc.gmd/g3772m.ct006261",
+    "https://search.catalog.loc.gov/instances/4df2df42-3b18-58a0-88b2-df74d7f51918",
+    "https://www.loc.gov/item/83690413/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd377/g3772/g3772m/ct006261.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83690413/\"}",
+  "dct_spatial_sm": [
+    "meshanticut brook watershed",
+    "rhode island",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Flood control--Rhode Island--Meshanticut Brook Watershed--Maps",
+    "Flood forecasting--Rhode Island--Meshanticut Brook Watershed--Maps",
+    "Floodplain management--Rhode Island--Meshanticut Brook Watershed--Maps",
+    "United States--Rhode Island--Meshanticut Brook Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Meshanticut Brook, floodplain management study, mosaic sheet index, Cranston, Providence County, and Warwick, Kent County, Rhode Island",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83690413",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

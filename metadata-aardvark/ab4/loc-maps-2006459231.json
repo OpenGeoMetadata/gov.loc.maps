@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Glümer, J. v.; Julius Bien & Co; Poe, O. M. (Orlando Metcalfe), 1832-1895",
+    "Gift; Miss Eleanor Sherman Fitch; July 7, 1942.",
+    "Indicates coverage of 5 additional maps described under CW 131 and S200.",
+    "LC copy imperfect: Sectioned horizontally into 2 sheets, each 45 x 75 cm., lower right corner repaired, minor rips at bottom center of both sheets.",
+    "Library of Congress. Civil War maps (2nd ed.), S181, 127",
+    "Publication statement: N[ew] Y[ork] : Julius Bien & Co., [1864?]",
+    "Relief shown by hachures.",
+    "Shows Union and Confederate works in southeastern Tennessee and northwestern Georgia.",
+    "Shows Union and Confederate works in southeastern Tennessee and northwestern Georgia. Relief shown by hachures. Indicates coverage of 5 additional maps described under CW 131 and S200. LC copy imperfect: Sectioned horizontally into 2 sheets, each 45 x 75 cm., lower right corner repaired, minor rips at bottom center of both sheets. Library of Congress. Civil War maps (2nd ed.), S181, 127 Available also through the Library of Congress Web site as a raster image. Gift; Miss Eleanor Sherman Fitch; July 7, 1942."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3921s.cws00181",
+    "http://lccn.loc.gov/2006459231",
+    "http://www.loc.gov/item/2006459231/",
+    "http://www.loc.gov/resource/g3921s.cws00181/",
+    "https://hdl.loc.gov/loc.gmd/g3921s.cws00181",
+    "https://search.catalog.loc.gov/instances/5da95c7f-f3a7-5f8f-b484-989e2fb29636",
+    "https://www.loc.gov/item/2006459231/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3921/g3921s/cws00181.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006459231/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--History--Civil War, 1861-1865--Maps",
+    "Sherman, William T.--(William Tecumseh),--1820-1891",
+    "Tennessee--History--Civil War, 1861-1865--Maps",
+    "United States--Georgia",
+    "United States--Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "1864-05-05",
+    "N[ew] Y[ork] : Julius Bien & Co., [1864?]"
+  ],
+  "dct_title_s": "Map illustrating the operations of the army under command of General W.T. Sherman, in Georgia, from May the 5th to September the 4th, 1864",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006459231",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

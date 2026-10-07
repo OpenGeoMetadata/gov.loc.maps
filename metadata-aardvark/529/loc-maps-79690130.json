@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Stock number 024-005-00614-1.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, genealogical diagr., and col. ill.",
+    "Perspective map not drawn to scale.",
+    "Pictorial map.",
+    "Publication statement: [Washington] : The Service : for sale by the Supt. of Docs., U.S. Govt. Print. Off., [1975]",
+    "Text and ill. (some col.).",
+    "Title from verso.",
+    "Title from verso. Pictorial map. \"Stock number 024-005-00614-1.\" Includes text, genealogical diagr., and col. ill. Text and ill. (some col.). Perspective map not drawn to scale. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882g.ct009066",
+    "http://lccn.loc.gov/79690130",
+    "http://www.loc.gov/item/79690130/",
+    "http://www.loc.gov/resource/g3882g.ct009066/",
+    "https://hdl.loc.gov/loc.gmd/g3882g.ct009066",
+    "https://search.catalog.loc.gov/instances/e96d8a9a-cf36-51b3-b39b-7ef9d60b74d7",
+    "https://www.loc.gov/item/79690130/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882g/ct009066.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79690130/\"}",
+  "dct_spatial_sm": [
+    "george washington birthplace national monument",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "George Washington Birthplace National Monument (Va.)--Maps",
+    "United States--Virginia--George Washington Birthplace National Monument"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "George Washington Birthplace National Monument, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79690130",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

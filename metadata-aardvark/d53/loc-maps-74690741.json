@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 28574.\"",
+    "\"Base 28574.\" Insets: Norfolk Island.--Macquarie Island. Scale ca. 1:6,500,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Insets: Norfolk Island.--Macquarie Island.",
+    "Publication statement: [Washington, 1959]",
+    "Scale ca. 1:6,500,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8960.ct002617",
+    "http://lccn.loc.gov/74690741",
+    "http://www.loc.gov/item/74690741/",
+    "http://www.loc.gov/resource/g8960.ct002617/",
+    "https://hdl.loc.gov/loc.gmd/g8960.ct002617",
+    "https://search.catalog.loc.gov/instances/08089e8e-666a-581f-a66f-210062cc58e2",
+    "https://www.loc.gov/item/74690741/"
+  ],
+  "dct_issued_s": "1959",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8960/g8960/ct002617.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74690741/\"}",
+  "dct_spatial_sm": [
+    "australia"
+  ],
+  "dct_subject_sm": [
+    "Australia",
+    "Australia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "dct_title_s": "Australia. 12-59",
+  "gbl_dateRange_drsim": [
+    "[1959 TO 1959]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1959
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74690741",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

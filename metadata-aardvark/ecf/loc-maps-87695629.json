@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Fiscal year 1901.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cole, Chas. D. (Charles D.); District of Columbia. Street Cleaning Department",
+    "DCP",
+    "LC copy edged with cloth, halved, and mounted on cloth backing.",
+    "Publication statement: [Washington, D.C.] : Street Cleaning Department, [1901?]",
+    "Shows streets cleaned by hand or machine, sprinkled unimproved streets, and public dumps.",
+    "Shows streets cleaned by hand or machine, sprinkled unimproved streets, and public dumps. \"Fiscal year 1901.\" Available also through the Library of Congress Web site as a raster image. LC copy edged with cloth, halved, and mounted on cloth backing. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct004817",
+    "http://lccn.loc.gov/87695629",
+    "http://www.loc.gov/item/87695629/",
+    "http://www.loc.gov/resource/g3851p.ct004817/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct004817",
+    "https://search.catalog.loc.gov/instances/b5cb29f3-87f6-5920-9895-c19890dc61ac",
+    "https://www.loc.gov/item/87695629/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct004817.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695629/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Refuse and refuse disposal--Washington (D.C.)--Maps",
+    "Street cleaning--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1901",
+    "[Washington, D.C.] : Street Cleaning Department, [1901?]"
+  ],
+  "dct_title_s": "Map of the city of Washington",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695629",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1982--361-578/145.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Designed to be folded to ca. 10 x 22 cm.",
+    "Includes text.",
+    "Publication statement: [Washington] : The Service ; Washington : For sale by the Supt. of Docs., U.S. G.P.O., [1982]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. Designed to be folded to ca. 10 x 22 cm. Includes text. Text and col. ill. on verso. \"*GPO: 1982--361-578/145.\" Available also through the Library of Congress Web site as a raster image.",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3732a.np000049",
+    "http://lccn.loc.gov/85691483",
+    "http://www.loc.gov/item/85691483/",
+    "http://www.loc.gov/resource/g3732a.np000049/",
+    "https://hdl.loc.gov/loc.gmd/g3732a.np000049",
+    "https://search.catalog.loc.gov/instances/9f5fe3c0-f7e0-5f29-b594-da8fecec479a",
+    "https://www.loc.gov/item/85691483/"
+  ],
+  "dct_issued_s": "1982",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3732/g3732a/np000049.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85691483/\"}",
+  "dct_spatial_sm": [
+    "acadia national park",
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Acadia National Park (Me.)--Maps",
+    "United States--Maine--Acadia National Park"
+  ],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "dct_title_s": "Acadia National Park, Maine",
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1982]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85691483",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

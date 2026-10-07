@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Authorities: U.S. Coast Survey chart of the Rappahannock River [and] surveys and reconnoissances [sic] by C. A. Mallory, Chas. Shoemacker, L.C. Oswell, H.H. Marvin [and] Geo. F. Lathrop, assistants.\"",
+    "\"Photographic reduction by L.E. Walker, Treasury Department.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Civil War salted paper maps. AL-14.",
+    "Contributors: Mallory, C. A.",
+    "Description derived from published bibliography.",
+    "General map showing roads, houses, names of residents, and woodland.",
+    "Library of Congress. Civil War maps (2nd ed.), 553.5",
+    "Publication statement: [S.l. : s.n.], 1862.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. \"Photographic reduction by L.E. Walker, Treasury Department.\" \"Authorities: U.S. Coast Survey chart of the Rappahannock River [and] surveys and reconnoissances [sic] by C. A. Mallory, Chas. Shoemacker, L.C. Oswell, H.H. Marvin [and] Geo. F. Lathrop, assistants.\" General map showing roads, houses, names of residents, and woodland. Sun print. Description derived from published bibliography. Civil War salted paper maps. AL-14. Library of Congress. Civil War maps (2nd ed.), 553.5 Available also through the Library of Congress Web site as a raster image.",
+    "Sun print."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884f.cw0553500",
+    "http://lccn.loc.gov/2006626057",
+    "http://www.loc.gov/item/2006626057/",
+    "http://www.loc.gov/resource/g3884f.cw0553500/",
+    "https://hdl.loc.gov/loc.gmd/g3884f.cw0553500",
+    "https://search.catalog.loc.gov/instances/45f7da0c-0500-5be5-81d0-8ce95dd7a1f9",
+    "https://www.loc.gov/item/2006626057/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884f/cw0553500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006626057/\"}",
+  "dct_spatial_sm": [
+    "fredericksburg region",
+    "king george county",
+    "rappahannock river",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Fredericksburg Region (Va.)--Maps",
+    "King George County (Va.)--Maps",
+    "Rappahannock River (Va.)--Maps",
+    "United States--Virginia--Fredericksburg Region",
+    "United States--Virginia--King George County",
+    "United States--Virginia--Rappahannock River"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Part of the north bank of the Rappahannock River showing the approaches to Fredericksburg : prepared under the direction of Capt. R.S. Williamson & 1st Lt. Nicolas Bowen, Corps Topogl. Engrs., U.S.A. for the use of the Army of the Potomac. Compiled by Fred. Churchill, vol. A.D.C. Decr. 1862",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006626057",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

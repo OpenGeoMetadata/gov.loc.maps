@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Prospect of the most famous parts of the world"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Humble, George, -1640, printer; Speed, John, 1552?-1629, cartographer",
+    "Includes 22 maps.",
+    "Includes 22 maps. Phillips, 5928 Available also through the Library of Congress Web site as a raster image.",
+    "Phillips, 5928",
+    "Publication statement: London : Printed by John Dawson for George Humble, and are to be sold at his shop in Popes-head pallace, 1627."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map51000189",
+    "http://www.loc.gov/item/map51000189/",
+    "http://www.loc.gov/resource/gmdatlases.map51000189/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.map51000189",
+    "https://search.catalog.loc.gov/instances/2fccd856-1239-5de9-98e2-c7d17fb77f55",
+    "https://www.loc.gov/item/map51000189/"
+  ],
+  "dct_issued_s": "1627",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:ma:p5:10:00:18:9:map51000189:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map51000189/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)"
+  ],
+  "dct_temporal_sm": [
+    "1627"
+  ],
+  "dct_title_s": "A prospect of the most famovs parts of the vvorld : viz. Asia, Affrica, Europe, America with these kingdomes therein contained : together with all the prouinces, counties and shires, contained in that large theater of Great Brittaines Empire",
+  "gbl_dateRange_drsim": [
+    "[1627 TO 1627]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1627
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map51000189",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Sander, Wilhelm, 1766-1836; Sotzmann, D. F.",
+    "In upper right margin: No. X.",
+    "Includes inset of western section of what is now Garrett and Allegany Counties.",
+    "Place names in English and German.",
+    "Publication statement: Hamburg, C. E. Bohn, 1797.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Place names in English and German. In upper right margin: No. X. Includes inset of western section of what is now Garrett and Allegany Counties. Scale ca. 1:500,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 651/2",
+    "Scale ca. 1:500,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3840.ct004147",
+    "http://lccn.loc.gov/76695379",
+    "http://www.loc.gov/item/76695379/",
+    "http://www.loc.gov/resource/g3840.ct004147/",
+    "https://hdl.loc.gov/loc.gmd/g3840.ct004147",
+    "https://search.catalog.loc.gov/instances/970d2c1e-712d-5a5b-a19b-dcdffc89924b",
+    "https://www.loc.gov/item/76695379/"
+  ],
+  "dct_issued_s": "1797",
+  "dct_language_sm": [
+    "eng",
+    "ger",
+    "gereng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3840/g3840/ct004147.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76695379/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware--Maps--Early works to 1800",
+    "Maryland--Maps--Early works to 1800",
+    "United States--Delaware",
+    "United States--Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1797"
+  ],
+  "dct_title_s": "Maryland und Delaware",
+  "gbl_dateRange_drsim": [
+    "[1797 TO 1797]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1797
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76695379",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

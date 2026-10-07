@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Montreal"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Magnus, Charles, cartographer",
+    "Includes directory of public buildings.",
+    "Publication statement: New York : Charles Magnus & Co., [1863?]",
+    "Signed inside covers: Millard Fillmore, bot. at Montreal Augt. 20, 1863.",
+    "Signed inside covers: Millard Fillmore, bot. at Montreal Augt. 20, 1863. Stampled inside covers: Sold by, Alex Murray, Montreal. Includes directory of public buildings. Available also through the Library of Congress Web site as a raster image.",
+    "Stampled inside covers: Sold by, Alex Murray, Montreal."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2015591065",
+    "http://www.loc.gov/item/2015591065/",
+    "http://www.loc.gov/resource/g3454m.fi000110c/",
+    "https://hdl.loc.gov/loc.gmd/g3454m.fi000110c",
+    "https://search.catalog.loc.gov/instances/e0dd57a9-0851-587c-9e03-4c801987127d",
+    "https://www.loc.gov/item/2015591065/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3454/g3454m/fi000110c.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2015591065/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "montréal",
+    "montréal.",
+    "québec"
+  ],
+  "dct_subject_sm": [
+    "Canada--Québec--Montréal",
+    "Montréal (Québec)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1863",
+    "New York : Charles Magnus & Co., [1863?]"
+  ],
+  "dct_title_s": "City of Montreal",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2015591065",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

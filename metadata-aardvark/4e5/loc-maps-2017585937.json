@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Danckerts, Justus, 1635-1701; Danckerts, Justus, 1635-1701, cartographer",
+    "Includes illustrations and view of New York.",
+    "LC copy mounted on cloth backed paper. \"329\" stamped on lower left of verso.",
+    "Publication statement: [Amsterdam] : [Justus Danckerts], [1703?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Includes illustrations and view of New York. LC copy mounted on cloth backed paper. \"329\" stamped on lower left of verso. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3710.ct004862",
+    "http://lccn.loc.gov/2017585937",
+    "http://www.loc.gov/item/2017585937/",
+    "http://www.loc.gov/resource/g3710.ct004862/",
+    "https://hdl.loc.gov/loc.gmd/g3710.ct004862",
+    "https://search.catalog.loc.gov/instances/ad4000d5-7baf-50f3-b48d-967b2878496f",
+    "https://www.loc.gov/item/2017585937/"
+  ],
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3710/g3710/ct004862.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585937/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "northeastern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Middle Atlantic States--Maps--Early works to 1800",
+    "Northeastern States--Maps--Early works to 1800",
+    "United States--Middle Atlantic States",
+    "United States--Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1703",
+    "[Amsterdam] : [Justus Danckerts], [1703?]"
+  ],
+  "dct_title_s": "Novi Belgii Novaeque Angliae nec non Pennsylvaniae et partis Virginiae tabula multis in locis emendata",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585937",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

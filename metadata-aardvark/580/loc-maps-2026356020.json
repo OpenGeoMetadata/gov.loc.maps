@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows major roads, ferry routes, airports and ports.",
+    "Contributors: [United States. Central Intelligence Agency], cartographer, publisher",
+    "Includes location map.",
+    "Publication statement: [Washington] : [Central Intelligence Agency], 2019.",
+    "Source data scale 1:1,500,000.",
+    "Source data scale 1:1,500,000. Also shows major roads, ferry routes, airports and ports. Includes location map."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2026356020",
+    "http://www.loc.gov/item/2026356020/",
+    "http://www.loc.gov/resource/gmddigstackspublic.2026356020/",
+    "https://hdl.loc.gov/loc.gmd/gmddigstackspublic.2026356020",
+    "https://search.catalog.loc.gov/instances/8b171847-b276-4980-bf17-6b84f840e1be",
+    "https://www.loc.gov/item/2026356020/"
+  ],
+  "dct_issued_s": "2019",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmddigstackspublic/20/26/35/60/20/2026356020/2026356020.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2026356020/\"}",
+  "dct_rights_sm": [
+    "Public Domain https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_spatial_sm": [
+    "burundi"
+  ],
+  "dct_subject_sm": [
+    "Burundi",
+    "Transportation--Burundi"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dct_title_s": "Burundi",
+  "gbl_dateRange_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2026356020",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

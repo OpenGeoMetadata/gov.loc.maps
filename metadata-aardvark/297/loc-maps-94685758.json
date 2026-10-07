@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Recreation guide R8-RG 166.\"",
+    "\"September 1994.\"",
+    "\"September 1994.\" Panel title. \"Recreation guide R8-RG 166.\" Includes key map with table/index of recreation sites. Tourist information, directory of national forests in Mississippi, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service",
+    "Includes key map with table/index of recreation sites.",
+    "Panel title.",
+    "Publication statement: [Atlanta, Ga.] : The Service ; Jackson, Miss. : [State Conservationist, distributor, 1994]",
+    "Tourist information, directory of national forests in Mississippi, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/94685758",
+    "http://www.loc.gov/item/94685758/",
+    "http://www.loc.gov/resource/g3981k.ct010775/",
+    "https://hdl.loc.gov/loc.gmd/g3981k.ct010775",
+    "https://search.catalog.loc.gov/instances/20770f48-4520-54d5-b8f1-ed4f75784e8b",
+    "https://www.loc.gov/item/94685758/"
+  ],
+  "dct_issued_s": "1994",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3981/g3981k/ct010775.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94685758/\"}",
+  "dct_spatial_sm": [
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Forest reserves--Mississippi--Maps",
+    "National parks and reserves--Mississippi--Maps",
+    "United States--Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_title_s": "National forests in Mississippi, visitor guide",
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94685758",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

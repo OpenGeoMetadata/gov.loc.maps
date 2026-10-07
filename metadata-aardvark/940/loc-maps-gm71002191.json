@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 440; 650/1; 651/2; 651/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hills, John (Surveyor)",
+    "Has watermarks.",
+    "LC Maps of North America, 1750-1789, 1280",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Has watermarks. Relief shown by shading. Shows position of grenadiers and guns before and after the action. Scale ca. 1:15,500 (not 800 paces to the in.). LC Maps of North America, 1750-1789, 1280 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 440; 650/1; 651/2; 651/3",
+    "Publication statement: [1778]",
+    "Relief shown by shading.",
+    "Scale ca. 1:15,500 (not 800 paces to the in.).",
+    "Shows position of grenadiers and guns before and after the action.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3812m.ar128000",
+    "http://lccn.loc.gov/gm71002191",
+    "http://www.loc.gov/item/gm71002191/",
+    "http://www.loc.gov/resource/g3812m.ar128000/",
+    "https://hdl.loc.gov/loc.gmd/g3812m.ar128000",
+    "https://search.catalog.loc.gov/instances/7fb21962-1982-5ac5-a757-92538fb80569",
+    "https://www.loc.gov/item/gm71002191/"
+  ],
+  "dct_issued_s": "1778",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3812/g3812m/ar128000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002191/\"}",
+  "dct_spatial_sm": [
+    "freehold region",
+    "middletown",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Freehold Region (N.J.)--Maps, Manuscript--Early works to 1800",
+    "Middletown (N.J.)--Maps, Manuscript--Early works to 1800",
+    "Monmouth, Battle of, Freehold, N.J., 1778--Maps, Manuscript--Early works to 1800",
+    "United States--New Jersey--Freehold Region",
+    "United States--New Jersey--Middletown"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "dct_title_s": "Sketch of part of the road from Freehold to Middle Town shewing the skirmish between the rear of the British Army under the command of His Excellency Genl. Sir Henry Clinton and the advanc'd corps of the rebel army, June 28th. 1778. Sketch of Middle Town",
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1778
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002191",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

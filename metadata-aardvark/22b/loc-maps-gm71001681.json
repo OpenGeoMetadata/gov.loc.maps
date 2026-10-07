@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers",
+    "Folded title: Floods in Chapel Hill, North Carolina: How to avoid damage.",
+    "Folded title: Floods in Chapel Hill, North Carolina: How to avoid damage. Includes 4 flood elevation profile charts. Text, illus., and outline map on verso. Scale ca. 1:37,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes 4 flood elevation profile charts.",
+    "Publication statement: [Wilmington] 1970.",
+    "Scale ca. 1:37,000.",
+    "Text, illus., and outline map on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm71001681",
+    "http://www.loc.gov/item/gm71001681/",
+    "http://www.loc.gov/resource/g3904f.ct009809/",
+    "https://hdl.loc.gov/loc.gmd/g3904f.ct009809",
+    "https://search.catalog.loc.gov/instances/639135d4-f297-5ea5-915d-55f29be5fb58",
+    "https://www.loc.gov/item/gm71001681/"
+  ],
+  "dct_issued_s": "1970",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3904/g3904f/ct009809.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71001681/\"}",
+  "dct_spatial_sm": [
+    "chapel hill",
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Floods--North Carolina--Chapel Hill--Maps",
+    "United States--North Carolina--Chapel Hill"
+  ],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "dct_title_s": "Little, Bolin, Booker, and Morgan Creeks, Chapel Hill, North Carolina",
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1970]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1970
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71001681",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Title at head of legend: Washington, D.C., city of the Constitution",
+    "Washington, D.C., city of the Constitution"
+  ],
+  "dct_description_sm": [
+    "\"This map locates sites chosen to illustrate the Constitution and Bill of Rights.\"",
+    "\"This map locates sites chosen to illustrate the Constitution and Bill of Rights.\" Shows selected historic sites and government buildings in the central business district and federal enclave. Panel title. Text and col. ill. on verso. Bibliography. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bibliography.",
+    "Contributors: Parks and History Association; United States. National Park Service",
+    "DCP",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1987?]",
+    "Shows selected historic sites and government buildings in the central business district and federal enclave.",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851e.ct004610",
+    "http://lccn.loc.gov/2002620458",
+    "http://www.loc.gov/item/2002620458/",
+    "http://www.loc.gov/resource/g3851e.ct004610/",
+    "https://hdl.loc.gov/loc.gmd/g3851e.ct004610",
+    "https://search.catalog.loc.gov/instances/22874bed-1e6b-5484-a2fb-1ac1f2ed56d9",
+    "https://www.loc.gov/item/2002620458/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct004610.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002620458/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Central business districts--Washington (D.C.)--Maps",
+    "Constitutional history--Washington (D.C.)--Maps",
+    "Historic sites--Washington (D.C.)--Maps",
+    "Public buildings--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1987",
+    "[Washington, D.C.] : The Service, [1987?]"
+  ],
+  "dct_title_s": "City of the Constitution, Washington, DC",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002620458",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

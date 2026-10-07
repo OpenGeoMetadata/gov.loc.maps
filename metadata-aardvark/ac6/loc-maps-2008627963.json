@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"The scale around the map is divided into statute miles east and west from the meridian of London, and north & south from the parallel of the same place, which is in Lat 51°30'.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Faden, William, 1749-1836",
+    "London and surrounding region, including Middlesex, and parts of Surrey, Kent, Essex, Berkshire, Buckinghamshire and Hertfordshire.",
+    "London meridian.",
+    "Publication statement: [London] : William Faden, 1790.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. \"The scale around the map is divided into statute miles east and west from the meridian of London, and north & south from the parallel of the same place, which is in Lat 51°30'.\" London meridian. London and surrounding region, including Middlesex, and parts of Surrey, Kent, Essex, Berkshire, Buckinghamshire and Hertfordshire. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5754l.ct002421",
+    "http://lccn.loc.gov/2008627963",
+    "http://www.loc.gov/item/2008627963/",
+    "http://www.loc.gov/resource/g5754l.ct002421/",
+    "https://hdl.loc.gov/loc.gmd/g5754l.ct002421",
+    "https://search.catalog.loc.gov/instances/b0bc8a7c-220a-52dc-a678-b4c91982cf4b",
+    "https://www.loc.gov/item/2008627963/"
+  ],
+  "dct_issued_s": "1790",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5754/g5754l/ct002421.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008627963/\"}",
+  "dct_spatial_sm": [
+    "england",
+    "essex",
+    "kent",
+    "london region",
+    "middlesex",
+    "surrey"
+  ],
+  "dct_subject_sm": [
+    "England--Essex",
+    "England--Kent",
+    "England--London Region",
+    "England--Middlesex",
+    "England--Surrey",
+    "Essex (England)--Maps--Early works to 1800",
+    "Kent (England)--Maps--Early works to 1800",
+    "London Region (England)--Maps--Early works to 1800",
+    "Middlesex (England)--Maps--Early works to 1800",
+    "Surrey (England)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1790"
+  ],
+  "dct_title_s": "The country twenty-five miles round London : planned from a scale of one mile to an inch",
+  "gbl_dateRange_drsim": [
+    "[1790 TO 1790]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1790
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008627963",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

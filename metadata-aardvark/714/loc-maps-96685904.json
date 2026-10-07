@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Forest Service map.\"",
+    "\"Land status current as of March 1986.\"",
+    "\"Recreation guide R8-RG 25. Reprinted April 1994.\"",
+    "\"Recreation guide R8-RG 25. Reprinted April 1994.\" Relief shown by spot heights. \"Land status current as of March 1986.\" \"St. Stephens meridian.\" \"Forest Service map.\" Includes location maps, index maps, col. ill., text, and tables of recreation sites. Available also through the Library of Congress Web site as a raster image.",
+    "\"St. Stephens meridian.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geometronics Service Center (U.S.); United States. Forest Service. Southern Region",
+    "Includes location maps, index maps, col. ill., text, and tables of recreation sites.",
+    "Publication statement: [Atlanta, Ga.] : United States Dept. of Agriculture, Forest Service, Southern Region, 1994.",
+    "Relief shown by spot heights."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/96685904",
+    "http://www.loc.gov/item/96685904/",
+    "http://www.loc.gov/resource/g3982d.ct010805/",
+    "https://hdl.loc.gov/loc.gmd/g3982d.ct010805",
+    "https://search.catalog.loc.gov/instances/347634c8-b408-54b5-a400-e932a2691a87",
+    "https://www.loc.gov/item/96685904/"
+  ],
+  "dct_issued_s": "1994",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3982/g3982d/ct010805.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96685904/\"}",
+  "dct_spatial_sm": [
+    "de soto national forest",
+    "desoto national forest",
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "DeSoto National Forest (Miss.)--Maps",
+    "United States--Mississippi--De Soto National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_title_s": "De Soto National Forest, Mississippi",
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96685904",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

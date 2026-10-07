@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Maryland and Delaware",
+    "Title in lower right margin: Maryland and Delaware : base map with highways and shaded relief"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.), cartographer, publisher",
+    "LC copy mounted on cloth.",
+    "Publication statement: Washington, D.C. : published by Geological Survey, 1950.",
+    "Relief shown by shading and spot heights.",
+    "Shows counties.",
+    "Shows counties. Relief shown by shading and spot heights. LC copy mounted on cloth. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3841f.ct008475",
+    "http://lccn.loc.gov/map52000758",
+    "http://www.loc.gov/item/map52000758/",
+    "http://www.loc.gov/resource/g3841f.ct008475/",
+    "https://hdl.loc.gov/loc.gmd/g3841f.ct008475",
+    "https://search.catalog.loc.gov/instances/ba780ed5-5688-5821-ab42-5f91aad2bec8",
+    "https://www.loc.gov/item/map52000758/"
+  ],
+  "dct_issued_s": "1950",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd384:g3841:g3841f:ct008475/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map52000758/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware--Administrative and political divisions--Maps",
+    "Maryland--Administrative and political divisions--Maps",
+    "Roads--Delaware--Maps",
+    "Roads--Maryland--Maps",
+    "United States--Delaware",
+    "United States--Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "dct_title_s": "States of Maryland and Delaware",
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1950]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map52000758",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

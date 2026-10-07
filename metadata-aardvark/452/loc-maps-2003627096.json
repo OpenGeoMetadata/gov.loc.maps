@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress ... 1870 by S. Augustus Mitchell, jr... Pennsylvania.\"",
+    "\"S. Augustus Mitchell was born in Connecticut in 1790 and became a teacher. He found the materials available in early 19th-century America for teaching geography inadequate and, after moving to Philadelphia in 1829 or 1830, formed a company that soon was producing improved maps, atlases, tourist guides, and geography textbooks. Mitchell issued the first edition of his New Universal Atlas in 1846. His son, S. Augustus Mitchell, Jr., took over the firm in about 1860. He published Mitchell's New General Atlas from which these maps of five South American countries are taken. The main maps are supplemented by insets of the \"Harbor of Rio Janeiro,\" \"Harbor of Bahia,\" and \"Island of Juan Fernandez.\" The latter is the largest in a group of sparsely populated volcanic islands, located some 670 kilometers out in the Pacific, and part of Chile. The decorative border, in this case of grape vines, which surrounds the maps was a common feature of 19th-century American cartographic publishing.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mitchell, S. Augustus (Samuel Augustus), 1792-1868",
+    "Decorative border picturing grape vines surrounds the two maps.",
+    "From: Mitchell's new general atlas. Philadelphia : S. Augustus Mitchell, 1871 or 1872.",
+    "In margin : \"69.\"",
+    "Maps include insets of \"Harbor of Rio Janeiro,\" \"Harbor of Bahia,\" and \"Island of Juan Fernandez.\"",
+    "Publication statement: [Philadelphia : S. Augustus Mitchell, 1871?], c1870.",
+    "Relief shown by hachures."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5400.br000024",
+    "http://lccn.loc.gov/2003627096",
+    "http://www.loc.gov/item/2003627096/",
+    "http://www.loc.gov/resource/g5400.br000024/",
+    "https://hdl.loc.gov/loc.gmd/g5400.br000024",
+    "https://search.catalog.loc.gov/instances/acccdfae-4fb9-551c-bfd7-ad4303d371cb",
+    "https://www.loc.gov/item/2003627096/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5400/g5400/br000024.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003627096/\"}",
+  "dct_spatial_sm": [
+    "bolivia",
+    "brazil",
+    "chile",
+    "paraguay",
+    "uruguay"
+  ],
+  "dct_subject_sm": [
+    "Bolivia",
+    "Bolivia--Maps",
+    "Brazil",
+    "Brazil--Maps",
+    "Chile",
+    "Chile--Maps",
+    "Paraguay",
+    "Paraguay--Maps",
+    "Uruguay--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1871",
+    "[Philadelphia : S. Augustus Mitchell, 1871?], c1870."
+  ],
+  "dct_title_s": "Map of Brazil, Bolivia, Paraguay, and Uruguay ; Map of Chili",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003627096",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

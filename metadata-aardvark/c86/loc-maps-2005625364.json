@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Queens"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rand McNally and Company",
+    "Includes inset of Rockaway Beach.",
+    "Includes inset of Rockaway Beach. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [S.l.] : Rand McNally, [1922]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct001638",
+    "http://lccn.loc.gov/2005625364",
+    "http://www.loc.gov/item/2005625364/",
+    "http://www.loc.gov/resource/g3804n.ct001638/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct001638",
+    "https://search.catalog.loc.gov/instances/bacc9496-3db0-5377-b3da-91bcae51a501",
+    "https://www.loc.gov/item/2005625364/"
+  ],
+  "dct_issued_s": "2000",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct001638.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625364/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "queens",
+    "queens (new york)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Queens (New York, N.Y.)--Maps",
+    "United States--New York (State)--Queens (New York)"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_title_s": "Rand McNally Queens : from Rand McNally metropolitan map of New York City",
+  "gbl_dateRange_drsim": [
+    "[2000 TO 2000]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625364",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

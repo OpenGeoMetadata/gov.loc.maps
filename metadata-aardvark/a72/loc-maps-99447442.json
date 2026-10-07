@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: United States. Army. Corps of Engineers",
+    "Description derived from published bibliography.",
+    "Detailed map showing Confederate camp and batteries near Columbus, Kentucky, \"Camp and battery of secessionists\" near Belmont, Missouri, Union troop positions and movements during battle, location and names of Union gunboats, roads, vegetation, fences,and relief by hachures.",
+    "Detailed map showing Confederate camp and batteries near Columbus, Kentucky, \"Camp and battery of secessionists\" near Belmont, Missouri, Union troop positions and movements during battle, location and names of Union gunboats, roads, vegetation, fences,and relief by hachures. Description derived from published bibliography. Scale not given. LC Civil War Maps (2nd ed.), 297 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 297",
+    "Publication statement: [S.l.], 1876.",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4164b.cw0297000",
+    "http://lccn.loc.gov/99447442",
+    "http://www.loc.gov/item/99447442/",
+    "http://www.loc.gov/resource/g4164b.cw0297000/",
+    "https://hdl.loc.gov/loc.gmd/g4164b.cw0297000",
+    "https://search.catalog.loc.gov/instances/ec1cae18-0b4f-53ef-9871-48952ae81e3c",
+    "https://www.loc.gov/item/99447442/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd416/g4164/g4164b/cw0297000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447442/\"}",
+  "dct_spatial_sm": [
+    "belmont",
+    "missouri",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Belmont (Mo.), Battle of",
+    "Belmont, Battle of, Belmont, Mo., 1861--Maps",
+    "United States--Missouri--Belmont"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Map of the battlefield near Belmont, Missouri",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447442",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

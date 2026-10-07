@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Content in English.",
+    "Contributors: Wyld, James, 1790-1836 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : dissected and mounted on linen, color ; 39 x 55 centimeters.",
+    "Publication statement: London : James Wyld, 1829-07-01.",
+    "This map shows the extent of the British and the other European empires at the time it was published, in 1829. Different colors are used to indicate the colonial possessions of Great Britain, France, Spain, Portugal, the Netherlands, Denmark, and Sweden. A table at the bottom lists all of the possessions of these seven powers, their size in square miles, populations, and exports to and imports from their respective mother countries (in pounds sterling). Britain's overall trade with its colonies was roughly in balance, but this was the result of a large deficit with the West Indies (largely accounted for by imports of sugar) being offset by large surpluses with the other colonies. The table in the lower right gives the populations of both the British colonies and the major foreign powers, along with British exports to them and per capita levels of consumption. The population of the United States is given as 12 million, that of Russia, the largest country in Europe, as 56.5 million. The map itself shows the extent of European imperial expansion in 1829. The scramble for Africa had not yet begun, and European colonies in Africa were, apart from the Cape of Good Hope (present-day South Africa), little more than coastal outposts. The Hudson's Bay Territory (much of present-day Canada) is shown as extending into several states of the American Pacific Northwest, reflecting British claims to this territory that were not abandoned until 1846, when the U.S.-- Canada border was set by treaty at 49° North. The map was produced by James Wyld (1790--1836), geographer to the king and founder of a map-publishing firm that was carried on by his son, James Wyld the Younger (1812--87).",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668669",
+    "http://www.loc.gov/item/2021668669/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15675/",
+    "http://www.loc.gov/resource/wdl.15675/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15675",
+    "https://www.loc.gov/item/2021668669/"
+  ],
+  "dct_issued_s": "1829-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15675.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/67/5/wdl_15675/wdl_15675.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:67:5:wdl_15675:am011693/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668669/\"}",
+  "dct_subject_sm": [
+    "1829",
+    "Great Britain--Colonies",
+    "Population--Statistics",
+    "Territories and possessions"
+  ],
+  "dct_temporal_sm": [
+    "1829-01-01"
+  ],
+  "dct_title_s": "Comparative View of the Extent and Population of the Colonial Possessions of Great Britain and Other Powers.",
+  "gbl_dateRange_drsim": [
+    "[1829 TO 1829]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1829
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668669",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

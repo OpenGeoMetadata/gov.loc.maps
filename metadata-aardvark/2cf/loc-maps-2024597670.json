@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Manuscript title on verso: Groveland, Mass. Essex Co"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Babcock, Frank David, cartographer",
+    "Oriented with north toward upper right.",
+    "Pen-and-ink, pencil, and crayon. Losses throughout and mounted on cloth.",
+    "Publication statement: [Massachusetts?] : Frank David Babcock, [1856?]",
+    "Shows boundary lines, roads and rivers.",
+    "vcFY24",
+    "vcFY24 Oriented with north toward upper right. Shows boundary lines, roads and rivers. Pen-and-ink, pencil, and crayon. Losses throughout and mounted on cloth. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597670",
+    "http://www.loc.gov/item/2024597670/",
+    "http://www.loc.gov/resource/g3764g.ct005347/",
+    "https://hdl.loc.gov/loc.gmd/g3764g.ct005347",
+    "https://search.catalog.loc.gov/instances/cbe45361-bc84-5eed-8e8c-ce5921b5a0d8",
+    "https://www.loc.gov/item/2024597670/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd376:g3764:g3764g:ct005347/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597670/\"}",
+  "dct_spatial_sm": [
+    "groveland",
+    "groveland (mass.)",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Groveland (Mass.)--Maps",
+    "United States--Massachusetts--Groveland (Mass.)"
+  ],
+  "dct_temporal_sm": [
+    "1856",
+    "[Massachusetts?] : Frank David Babcock, [1856?]"
+  ],
+  "dct_title_s": "Map of Groveland, Mass. 1856",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597670",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

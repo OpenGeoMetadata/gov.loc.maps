@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing land ownership, landowners' names, drainage, canals, townships & sections, etc.",
+    "Cadastral map showing land ownership, landowners' names, drainage, canals, townships & sections, etc. LC Land ownership maps, 20 Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Britton & Rey; Kern County Land Company",
+    "LC Land ownership maps, 20",
+    "Publication statement: [Kern County] : Kern County Land Co., c1897"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4363k.la000020",
+    "http://lccn.loc.gov/2012590100",
+    "http://www.loc.gov/item/2012590100/",
+    "http://www.loc.gov/resource/g4363k.la000020/",
+    "https://hdl.loc.gov/loc.gmd/g4363k.la000020",
+    "https://search.catalog.loc.gov/instances/0930e5ec-1816-5df9-a01d-86fe6b82e9a3",
+    "https://www.loc.gov/item/2012590100/"
+  ],
+  "dct_issued_s": "1896",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4363/g4363k/la000020.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590100/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "kern county",
+    "kern river valley",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Kern County (Calif.)--Maps",
+    "Kern River Valley (Calif.)--Maps",
+    "Landowners--California--Kern County--Maps",
+    "Landowners--California--Kern River Valley--Maps",
+    "Real property--California--Kern County--Maps",
+    "Real property--California--Kern River Valley--Maps",
+    "United States--California--Kern County",
+    "United States--California--Kern River Valley"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dct_title_s": "Map of the Kern Delta, Kern County, California",
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1896
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590100",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

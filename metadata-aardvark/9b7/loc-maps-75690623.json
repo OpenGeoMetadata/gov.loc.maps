@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Approved by the Historical Society of Southern California.\"",
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "CIF56727 U.S. Copyright Office",
+    "CIF56727 U.S. Copyright Office Bird's-eye-view. \"Approved by the Historical Society of Southern California.\" Includes col. illus., historic notes, index to points of interest, and \"Map showing original Spanish ranchos abutting on the sea.\" Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 23.1 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1",
+    "Contributors: Gores; Women's University Club, Los Angeles",
+    "Includes col. illus., historic notes, index to points of interest, and \"Map showing original Spanish ranchos abutting on the sea.\"",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 23.1",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [Los Angeles] Women's University Club of L.A., 1929."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4364l.ct001801",
+    "http://hdl.loc.gov/loc.gmd/g4364l.pm000231",
+    "http://lccn.loc.gov/75690623",
+    "http://www.loc.gov/item/75690623/",
+    "http://www.loc.gov/resource/g4364l.ct001801/",
+    "http://www.loc.gov/resource/g4364l.pm000231/",
+    "https://hdl.loc.gov/loc.gmd/g4364l.ct001801",
+    "https://hdl.loc.gov/loc.gmd/g4364l.pm000231",
+    "https://search.catalog.loc.gov/instances/40e6ca1f-ae8c-55a5-8b90-0c61fb9b3b96",
+    "https://www.loc.gov/item/75690623/"
+  ],
+  "dct_issued_s": "1871",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4364/g4364l/pm000231.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75690623/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "los angeles",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Los Angeles (Calif.)",
+    "United States--California--Los Angeles"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "dct_title_s": "Los Angeles as it appeared in 1871",
+  "gbl_dateRange_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1871
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75690623",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

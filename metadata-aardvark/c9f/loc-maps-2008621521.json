@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 803238AI (G00183) 5-07.\"",
+    "\"Base 803238AI (G00183) 5-07.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2007]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8851f.ct002219",
+    "http://lccn.loc.gov/2008621521",
+    "http://www.loc.gov/item/2008621521/",
+    "http://www.loc.gov/resource/g8851f.ct002219/",
+    "https://hdl.loc.gov/loc.gmd/g8851f.ct002219",
+    "https://search.catalog.loc.gov/instances/dd29d698-49b0-534d-8a03-4ac408d63a68",
+    "https://www.loc.gov/item/2008621521/"
+  ],
+  "dct_issued_s": "2007",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8851/g8851f/ct002219.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008621521/\"}",
+  "dct_spatial_sm": [
+    "ghana"
+  ],
+  "dct_subject_sm": [
+    "Ghana",
+    "Ghana--Administrative and political divisions--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_title_s": "Ghana administrative divisions",
+  "gbl_dateRange_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008621521",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

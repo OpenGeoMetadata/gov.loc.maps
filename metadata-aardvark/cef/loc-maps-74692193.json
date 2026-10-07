@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 700/1; 700/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Faden, William, 1749-1836; Heap, George, active 1715-1760, joint author; Scull, Nicholas, 1686?-1761?",
+    "Includes table of distances and \"Elevation of the State House.\"",
+    "LC Maps of North America, 1750-1789, 1320",
+    "Publication statement: London, W. Faden, 1777.",
+    "Scale ca. 1:42,000.",
+    "Shows names of land holders in rural areas.",
+    "Shows names of land holders in rural areas. Includes table of distances and \"Elevation of the State House.\" Scale ca. 1:42,000. LC Maps of North America, 1750-1789, 1320 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 700/1; 700/2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824p.ar132000",
+    "http://lccn.loc.gov/74692193",
+    "http://www.loc.gov/item/74692193/",
+    "http://www.loc.gov/resource/g3824p.ar132000/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.ar132000",
+    "https://search.catalog.loc.gov/instances/4264ee40-a6f1-5dd0-9e44-b6578c5b8fa9",
+    "https://www.loc.gov/item/74692193/"
+  ],
+  "dct_issued_s": "1777",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ar132000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692193/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "philadelphia region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Philadelphia Region (Pa.)--Maps--Early works to 1800",
+    "United States--Pennsylvania--Philadelphia Region"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "dct_title_s": "A plan of the city and environs of Philadelphia,",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692193",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

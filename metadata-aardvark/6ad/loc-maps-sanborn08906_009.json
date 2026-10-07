@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "18 sheet(s).",
+    "501. Other places as they appear on original: Old Bennington.",
+    "Apr 1925 - May 1946."
+  ],
+  "dct_identifier_sm": [
+    "https://www.loc.gov/item/sanborn08906_009/"
+  ],
+  "dct_issued_s": "1946-04",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/sanborn08906_009/\"}",
+  "dct_spatial_sm": [
+    "Bennington",
+    "Bennington County",
+    "Old Bennington",
+    "United States",
+    "Vermont"
+  ],
+  "dct_temporal_sm": [
+    "1946-04"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Bennington, Bennington County, Vermont.",
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1946]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete.",
+    "Catalog access is public. Item-level access restrictions have not been refreshed since the historical package; consult the LOC catalog for current access.",
+    "Source does not confirm digitization. Consult LOC for access to the physical item."
+  ],
+  "gbl_indexYear_im": [
+    1946
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn08906_009",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

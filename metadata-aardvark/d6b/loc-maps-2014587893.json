@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 6-67.\"",
+    "\"Boundary representation is not necessarily authoritative.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Lc copy: Label on verso: 455328284.",
+    "Parts of base number illegible.",
+    "Publication statement: [Washington, D.C.] : [Central Intelligence Agency], [1967]",
+    "Shows political boundaries, administrative divisions, demilitarized zones, major cities, railroads, roads, desert trails, POL [Petroleum, Oil and Lubricants] pipeline with pumbing stations, abandoned oil pipelines [Tapline], and water sources.",
+    "Shows political boundaries, administrative divisions, demilitarized zones, major cities, railroads, roads, desert trails, POL [Petroleum, Oil and Lubricants] pipeline with pumbing stations, abandoned oil pipelines [Tapline], and water sources. \"Base 6-67.\" Parts of base number illegible. Lc copy: Label on verso: 455328284. \"Boundary representation is not necessarily authoritative.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7460.ct004186",
+    "http://lccn.loc.gov/2014587893",
+    "http://www.loc.gov/item/2014587893/",
+    "http://www.loc.gov/resource/g7460.ct004186/",
+    "https://hdl.loc.gov/loc.gmd/g7460.ct004186",
+    "https://search.catalog.loc.gov/instances/3309fcc5-b1da-5257-9a48-aaa5a9857efa",
+    "https://www.loc.gov/item/2014587893/"
+  ],
+  "dct_issued_s": "1967",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7460/g7460/ct004186.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2014587893/\"}",
+  "dct_spatial_sm": [
+    "syria"
+  ],
+  "dct_subject_sm": [
+    "Syria",
+    "Syria--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "dct_title_s": "Syria",
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1967]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2014587893",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

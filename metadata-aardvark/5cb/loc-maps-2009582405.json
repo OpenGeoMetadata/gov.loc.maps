@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lanier, Fanita, 1903-1986",
+    "Includes portraits and views of historic events.",
+    "Includes portraits and views of historic events. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [S.l. : s.n.], 1935."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4031s.ct002645",
+    "http://lccn.loc.gov/2009582405",
+    "http://www.loc.gov/item/2009582405/",
+    "http://www.loc.gov/resource/g4031s.ct002645/",
+    "https://hdl.loc.gov/loc.gmd/g4031s.ct002645",
+    "https://search.catalog.loc.gov/instances/fef13ccd-d275-5fd1-8a7d-2112995a8646",
+    "https://www.loc.gov/item/2009582405/"
+  ],
+  "dct_issued_s": "1935",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4031/g4031s/ct002645.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009582405/\"}",
+  "dct_spatial_sm": [
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Texas--History--Maps",
+    "United States--Texas"
+  ],
+  "dct_temporal_sm": [
+    "1935"
+  ],
+  "dct_title_s": "The villa and presidio of San Antonio de Bexar : together with the Franciscan Missions, including that one of San Antonio de Valero, the Alamo, from the first years of its establishment by the holy fathers and the agents of his Catholic Majesty, the King of Spain, down to that momentous time when it became the cradle of the republic of Texas, 1716-1836",
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1935]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1935
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009582405",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

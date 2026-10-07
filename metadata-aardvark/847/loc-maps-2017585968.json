@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Blaeu, Willem Janszoon, 1571-1638, cartographer; Blaeu, Willem Janszoon, 1571-1638. 1635",
+    "Includes two views \"Modus muniendi apud Mahikanenses\" and illustrations including an illustrated cartouche. Text on verso.",
+    "Oriented with north towards the right.",
+    "Place names in Latin and Dutch. Text on verso in French.",
+    "Publication statement: [Amsterdam] : [Joan Blaeu], [1635?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Oriented with north towards the right. Includes two views \"Modus muniendi apud Mahikanenses\" and illustrations including an illustrated cartouche. Text on verso. Available also through the Library of Congress Web site as a raster image. Place names in Latin and Dutch. Text on verso in French."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3710.ct004857r",
+    "http://hdl.loc.gov/loc.gmd/g3710.ct004857v",
+    "http://lccn.loc.gov/2017585968",
+    "http://www.loc.gov/item/2017585968/",
+    "http://www.loc.gov/resource/g3710.ct004857r/",
+    "http://www.loc.gov/resource/g3710.ct004857v/",
+    "https://hdl.loc.gov/loc.gmd/g3710.ct004857r",
+    "https://hdl.loc.gov/loc.gmd/g3710.ct004857v",
+    "https://search.catalog.loc.gov/instances/64050c45-b4d0-5349-9fdd-6ba96b3e25be",
+    "https://www.loc.gov/item/2017585968/"
+  ],
+  "dct_language_sm": [
+    "dut",
+    "fre",
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3710/g3710/ct004857r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585968/\"}",
+  "dct_spatial_sm": [
+    "new england",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New England--Maps--Early works to 1800",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1635",
+    "[Amsterdam] : [Joan Blaeu], [1635?]"
+  ],
+  "dct_title_s": "Nova Belgica et Anglia Nova",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585968",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

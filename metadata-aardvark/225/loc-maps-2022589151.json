@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Kansas title collection drawer 19",
+    "Alternate supplied title: Kansas title collection--various subjects Railroads 1903-1949--Roads 1872-1919"
+  ],
+  "dct_description_sm": [
+    "Publication statement: [Various places] : [various publishers], [approximately 1800 to 1960]",
+    "This record covers single maps of Kansas as a whole covering various subjects, which are not represented in the LC database by separate catalog records.This collection includes single printed maps and may include photocopies of printed or manuscript single maps as well as some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show various subjects including railroads and roads. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps of Kansas as a whole covering various subjects, which are not represented in the LC database by separate catalog records.This collection includes single printed maps and may include photocopies of printed or manuscript single maps as well as some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show various subjects including railroads and roads. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589151",
+    "http://www.loc.gov/item/2022589151/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ks-019/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ks-019",
+    "https://search.catalog.loc.gov/instances/4c4065e0-92b3-500f-9446-a71eb6f7f698",
+    "https://www.loc.gov/item/2022589151/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ks:-0:19:ks-019:ks-019-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589151/\"}",
+  "dct_spatial_sm": [
+    "kansas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Kansas--Maps",
+    "Roads--Kansas--Maps",
+    "United States--Kansas"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[Various places] : [various publishers], [approximately 1800 to 1960]"
+  ],
+  "dct_title_s": "[Maps of Kansas--various subjects Railroads 1903-1949--Roads 1872-1919]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022589151",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

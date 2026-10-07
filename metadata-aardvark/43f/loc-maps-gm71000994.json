@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This manuscript map in pen-and-ink and watercolor was probably created in 1781 by a French military cartographer engaged in reconnaissance work during the final stages of the American Revolutionary War. The map is oriented with north to the right. The British captured New York in September 1776. In the summer of 1781, General George Washington, commander of the Continental Army, considered an attack on New York, but he and the Comte de Rochambeau instead feigned preparations for an attack on the city while stealthily moving their troops to Yorktown, Virginia. There, the British under General Charles Cornwallis (1738-1805) were forced to surrender in what proved to be the climactic battle of the Revolutionary War. The map depicts Hell Gate and its vicinity and covers parts of Manhattan Island, \"Buchanan Island\" (Ward's Island), \"Montresor's Island\" (Randall's Island), and \"Morisana\" (Morrisania, present-day South Bronx). It shows fortifications, troop positions, and relief. A legend on the left side indicates earthworks, a redoubt, a blockhouse, and a battery. The scale is in toises, an old French unit measuring about 1.95 meters. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 440; 651/1",
+    "Alternate title from Philip Lee Phillips' A list of maps of America: Reconnoissance juillet 1781. Ouvrages et redoutes-Morisania [continent] îles de New York, Montresor et Buchanan.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Has watermarks.",
+    "LC Maps of North America, 1750-1789, 1216",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Oriented with north to the right.",
+    "Publication statement: [1781]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:18,400; 700 t[oises] = 75 mm.",
+    "Shows fortifications on \"Isle de New York\" in vicinity of Hell Gate.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ar121600",
+    "http://lccn.loc.gov/gm71000994",
+    "http://www.loc.gov/item/gm71000994/",
+    "http://www.loc.gov/resource/g3804n.ar121600/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ar121600",
+    "https://search.catalog.loc.gov/instances/4a65bc08-d63b-541f-9a84-f700698d0aac",
+    "https://www.loc.gov/item/gm71000994/"
+  ],
+  "dct_issued_s": "1781",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ar121600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000994/\"}",
+  "dct_spatial_sm": [
+    "hell gate",
+    "hell gate (new york)",
+    "new york",
+    "new york (state)",
+    "new york city",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hell Gate (New York, N.Y.)--Maps, Manuscript--Early works to 1800",
+    "New York (N.Y.)--History--Revolution, 1775-1783--Maps, Manuscript--Early works to 1800",
+    "United States--New York (State)--Hell Gate (New York)",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1781"
+  ],
+  "dct_title_s": "Reconnoissance, juillet 1781",
+  "gbl_dateRange_drsim": [
+    "[1781 TO 1781]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1781
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000994",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"March 1866.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hotchkiss, Jedediah, 1828-1899; Michie, Peter Smith, 1839-1901; United States. War Department",
+    "Copy imperfect: Sectioned horizontally in half, mounted on cloth.",
+    "LC Land ownership maps, 1335",
+    "Publication statement: [Washington, D.C.] : Secretary of War, Office of Chief of Engineers, U.S. Army, 1875.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows the names of some residents. \"March 1866.\" Copy imperfect: Sectioned horizontally in half, mounted on cloth. LC Land ownership maps, 1335 Available also through the Library of Congress Web site as a raster image.",
+    "Shows the names of some residents."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883r.la001335",
+    "http://lccn.loc.gov/2012592128",
+    "http://www.loc.gov/item/2012592128/",
+    "http://www.loc.gov/resource/g3883r.la001335/",
+    "https://hdl.loc.gov/loc.gmd/g3883r.la001335",
+    "https://search.catalog.loc.gov/instances/93271b7d-0278-5d87-bf1a-74af7ee8418e",
+    "https://www.loc.gov/item/2012592128/"
+  ],
+  "dct_issued_s": "1866",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883r/la001335.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592128/\"}",
+  "dct_spatial_sm": [
+    "rappahannock county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Virginia--Rappahannock County--Maps",
+    "Rappahannock County (Va.)--Maps",
+    "United States--Virginia--Rappahannock County"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "dct_title_s": "Map of Rappahannock County, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1866
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592128",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

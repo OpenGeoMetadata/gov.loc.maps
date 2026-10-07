@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Washington County, Mississippi"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lewis, H.; O'Hea, Richard A.",
+    "Copy imperfect: Torn along fold line, missing small marginal sections at fold line, and mounted on cloth.",
+    "Includes col. ill.",
+    "LC Land ownership maps, 389",
+    "Publication statement: [Mississippi] : H. Lewis Lith., 1871.",
+    "Relief shown by contours.",
+    "Relief shown by contours. Shows lot lines, lot/block numbers, and landowners' names. Includes col. ill. Copy imperfect: Torn along fold line, missing small marginal sections at fold line, and mounted on cloth. LC Land ownership maps, 389 Available also through the Library of Congress Web site as a raster image.",
+    "Shows lot lines, lot/block numbers, and landowners' names."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3983w.la000389",
+    "http://lccn.loc.gov/2012593697",
+    "http://www.loc.gov/item/2012593697/",
+    "http://www.loc.gov/resource/g3983w.la000389/",
+    "https://hdl.loc.gov/loc.gmd/g3983w.la000389",
+    "https://search.catalog.loc.gov/instances/665a54c5-f3db-51ec-af46-9b66d997d8d4",
+    "https://www.loc.gov/item/2012593697/"
+  ],
+  "dct_issued_s": "1871",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3983/g3983w/la000389.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593697/\"}",
+  "dct_spatial_sm": [
+    "mississippi",
+    "united states",
+    "washington county"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Mississippi--Washington County--Maps",
+    "Real property--Mississippi--Washington County--Maps",
+    "Roads--Mississippi--Washington County--Maps",
+    "United States--Mississippi--Washington County",
+    "Washington County (Miss.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "dct_title_s": "Map of Washington County, Mississippi",
+  "gbl_dateRange_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1871
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593697",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

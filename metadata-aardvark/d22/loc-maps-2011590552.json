@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service",
+    "Does not show Cibola National Forest in New Mexico.",
+    "Includes descriptive index to points of interest and recreation sites.",
+    "On panel: America's great outdoors.",
+    "Panel title: Cibola National Forest, Black Kettle & McClellan Creek national Grasslands pocket guide, Oklahoma and Texas.",
+    "Panel title: Cibola National Forest, Black Kettle & McClellan Creek national Grasslands pocket guide, Oklahoma and Texas. On panel: America's great outdoors. Does not show Cibola National Forest in New Mexico. Includes descriptive index to points of interest and recreation sites. Text, location map, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Albuquerque, NM] : USDA Forest Service, 1996, 1992.",
+    "Text, location map, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2011590552",
+    "http://www.loc.gov/item/2011590552/",
+    "http://www.loc.gov/resource/g4022b.ct011183r/",
+    "http://www.loc.gov/resource/g4022b.ct011183v/",
+    "https://hdl.loc.gov/loc.gmd/g4022b.ct011183r",
+    "https://hdl.loc.gov/loc.gmd/g4022b.ct011183v",
+    "https://search.catalog.loc.gov/instances/19865111-f6f3-58f4-9659-f51a7b58db44",
+    "https://www.loc.gov/item/2011590552/"
+  ],
+  "dct_issued_s": "1996",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4022/g4022b/ct011183r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011590552/\"}",
+  "dct_spatial_sm": [
+    "black kettle national grassland",
+    "mcclellan creek national grassland",
+    "mcclellan national grassland",
+    "oklahoma",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Black Kettle National Grassland (Okla. and Tex.)--Maps",
+    "McClellan Creek National Grassland (Tex.)--Maps",
+    "United States--Oklahoma--Black Kettle National Grassland",
+    "United States--Texas--Black Kettle National Grassland",
+    "United States--Texas--McClellan National Grassland"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "dct_title_s": "Black Kettle and McClellan Creek National Grasslands, Cibola national Forest",
+  "gbl_dateRange_drsim": [
+    "[1996 TO 1996]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011590552",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

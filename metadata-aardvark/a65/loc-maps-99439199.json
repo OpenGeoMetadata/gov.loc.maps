@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Advanced sheet subject to correction.\"",
+    "\"Advanced sheet subject to correction.\" Detailed topographic map indicating relief by contour lines and spot heights, fortifications, roads and streets, houses, and drainage. Description derived from published bibliography. Scale 1:24,000. LC Civil War Maps (2nd ed.), 556 Available also through the Library of Congress web site as raster image.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Description derived from published bibliography.",
+    "Detailed topographic map indicating relief by contour lines and spot heights, fortifications, roads and streets, houses, and drainage.",
+    "LC Civil War Maps (2nd ed.), 556",
+    "Publication statement: [S.l. 1931]",
+    "Scale 1:24,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884f.cw0556000",
+    "http://lccn.loc.gov/99439199",
+    "http://www.loc.gov/item/99439199/",
+    "http://www.loc.gov/resource/g3884f.cw0556000/",
+    "https://hdl.loc.gov/loc.gmd/g3884f.cw0556000",
+    "https://search.catalog.loc.gov/instances/d01fcbb0-185e-5426-892d-f956efd2ab38",
+    "https://www.loc.gov/item/99439199/"
+  ],
+  "dct_issued_s": "1931",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884f/cw0556000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99439199/\"}",
+  "dct_spatial_sm": [
+    "fredericksburg region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Fredericksburg Region (Va.)--Maps",
+    "United States--Virginia--Fredericksburg Region"
+  ],
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "dct_title_s": "Topographic map of Fredericksburg and vicinity, Virginia, showing battlefields",
+  "gbl_dateRange_drsim": [
+    "[1931 TO 1931]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1931
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99439199",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

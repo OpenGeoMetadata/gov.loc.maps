@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 650/2; 651/3; 651/4; 710",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jno. Mount and Tho. Page; Southack, Cyprian, 1662-1745",
+    "Imperfect. Lower right section missing. Parts of upper right section torn away.",
+    "Includes tables, distance charts, and insets of New York, Boston, and Halifax harbors, Casco Bay, and Annapolis Royal.",
+    "Publication statement: London; Sold by I. Mount, T. Page and W. Mount [1775?]",
+    "Scale ca. 1:590,000.",
+    "Shows longitude east and west from Boston.",
+    "Shows longitude east and west from Boston. Soundings in feet. Imperfect. Lower right section missing. Parts of upper right section torn away. Includes tables, distance charts, and insets of New York, Boston, and Halifax harbors, Casco Bay, and Annapolis Royal. Scale ca. 1:590,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1; 650/2; 651/3; 651/4; 710",
+    "Soundings in feet.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3321p.ar020301",
+    "http://lccn.loc.gov/74694144",
+    "http://www.loc.gov/item/74694144/",
+    "http://www.loc.gov/resource/g3321p.ar020301/",
+    "https://hdl.loc.gov/loc.gmd/g3321p.ar020301",
+    "https://search.catalog.loc.gov/instances/c65f3371-373d-5ed1-b028-73fd6e59b08d",
+    "https://www.loc.gov/item/74694144/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3321/g3321p/ar020301.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694144/\"}",
+  "dct_spatial_sm": [
+    "atlantic coast",
+    "canada",
+    "maritime provinces",
+    "new england",
+    "north america",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlantic Coast (North America)--Maps--Early works to 1800",
+    "Canada--Maritime Provinces",
+    "Coasts--Maritime Provinces--Maps--Early works to 1800",
+    "Coasts--New England--Maps--Early works to 1800",
+    "Nautical charts--Atlantic Coast (North America)--Early works to 1800",
+    "North America--Atlantic Coast",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1775",
+    "London; Sold by I. Mount, T. Page and W. Mount [1775?]"
+  ],
+  "dct_title_s": "An actual survey of the sea coast from New York to the I. Cape Brition, with tables of the direct and thwart courses & distances from place to place",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694144",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

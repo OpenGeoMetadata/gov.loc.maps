@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"517273 2-75.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes note and location map.",
+    "Includes note and location map. \"517273 2-75.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1975]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7151a.ct002615",
+    "http://lccn.loc.gov/89693147",
+    "http://www.loc.gov/item/89693147/",
+    "http://www.loc.gov/resource/g7151a.ct002615/",
+    "https://hdl.loc.gov/loc.gmd/g7151a.ct002615",
+    "https://search.catalog.loc.gov/instances/8c66a145-fe10-5f75-8279-b8ff9116b286",
+    "https://www.loc.gov/item/89693147/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7151/g7151a/ct002615.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89693147/\"}",
+  "dct_spatial_sm": [
+    "armenia",
+    "republic"
+  ],
+  "dct_subject_sm": [
+    "Armenia",
+    "Armenia (Republic)--Maps, Outline and base"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "Armenian S.S.R.",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89693147",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

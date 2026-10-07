@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "萬壽大阪細見圖"
+  ],
+  "dct_description_sm": [
+    "AACR2: 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Itamiya, Zembē, active 19th century",
+    "Cover title.",
+    "Cover title. Wood block print. Oriented with north to the left. Shows selected points of interest. Includes text. Scale not given. Available also through the Library of Congress Web site as a raster image. LC copy has map extension pasted on lower right corner of map. Vault AACR2: 651",
+    "Includes text.",
+    "LC copy has map extension pasted on lower right corner of map.",
+    "Oriented with north to the left.",
+    "Publication statement: Naniwa : Itamiya Zembē : Kawachiya Tasuke : Sekitendō zōban, Bunkyū 3 [1863]; Naniwa : Itamiya Zembē, Bunkyū 3 [1863]",
+    "Scale not given.",
+    "Shows selected points of interest.",
+    "Vault",
+    "Wood block print."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/80695485",
+    "http://www.loc.gov/item/80695485/",
+    "http://www.loc.gov/resource/g7964o.ct011898/",
+    "https://hdl.loc.gov/loc.gmd/g7964o.ct011898",
+    "https://search.catalog.loc.gov/instances/59e45348-8096-5bba-9878-f73a5ace933e",
+    "https://www.loc.gov/item/80695485/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964o/ct011898.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80695485/\"}",
+  "dct_spatial_sm": [
+    "japan",
+    "osaka"
+  ],
+  "dct_subject_sm": [
+    "Japan--Osaka",
+    "Osaka (Japan)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Manju Ōsaka saikenzu",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80695485",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

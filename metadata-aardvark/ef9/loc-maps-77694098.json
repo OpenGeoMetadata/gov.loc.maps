@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Contributors: Beck & Pauli; Norris, Wellge & Co; Wellge, H. (Henry)",
+    "F22182 U.S. Copyright Office",
+    "F22182 U.S. Copyright Office Bird's-eye-view. Includes col. illus. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1064.3 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes col. illus. and index to points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1064.3",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Milwaukee, Norris, Wellge & Co., c1885."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4124w.pm010643",
+    "http://lccn.loc.gov/77694098",
+    "http://www.loc.gov/item/77694098/",
+    "http://www.loc.gov/resource/g4124w.pm010643/",
+    "https://hdl.loc.gov/loc.gmd/g4124w.pm010643",
+    "https://search.catalog.loc.gov/instances/e1468fdf-0a30-5472-ad26-5f7667260291",
+    "https://www.loc.gov/item/77694098/"
+  ],
+  "dct_issued_s": "1885",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4124/g4124w/pm010643.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77694098/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "waupun",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "United States--Wisconsin--Waupun",
+    "Waupun (Wis.)"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "dct_title_s": "View of the city of Waupun, Wis., situated in Fond du Lac & Dodge Counties",
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1885]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1885
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77694098",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

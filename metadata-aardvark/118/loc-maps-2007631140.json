@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*U.S. G.P.O.: 1978 O--278-928. \"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and point of interest.",
+    "Publication statement: [Washington, D.C.] : National Park Service : For sale by the Superintendent of Documents, U.S. G.P.O. 1978.",
+    "Stock no. 024-005-00739-3.",
+    "Text and ill. (some col.) on verso",
+    "Title from panel.",
+    "Title from panel. Includes text and point of interest. Text and ill. (some col.) on verso \"*U.S. G.P.O.: 1978 O--278-928. \" Stock no. 024-005-00739-3. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2007631140",
+    "http://www.loc.gov/item/2007631140/",
+    "http://www.loc.gov/resource/g3902b.ct009609/",
+    "https://hdl.loc.gov/loc.gmd/g3902b.ct009609",
+    "https://search.catalog.loc.gov/instances/6116d872-90e1-59ff-85ef-c85d8393b5e8",
+    "https://www.loc.gov/item/2007631140/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902b/ct009609.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007631140/\"}",
+  "dct_spatial_sm": [
+    "blue ridge parkway",
+    "north carolina",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Blue Ridge Parkway (N.C. and Va.)--Maps",
+    "United States--North Carolina--Blue Ridge Parkway",
+    "United States--Virginia--Blue Ridge Parkway"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Blue Ridge Parkway : a unit of the national park system, Virginia-North Carolina",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007631140",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

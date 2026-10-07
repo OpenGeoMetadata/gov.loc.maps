@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Includes illus. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 313 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Contributors: Bailey, O. H. (Oakley Hoopes), 1843-1947; C.H. Vogt (Firm); Hazen, J. C., joint author",
+    "Includes illus. and index to points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 313",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Boston [1878]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764n.pm003130",
+    "http://lccn.loc.gov/75694594",
+    "http://www.loc.gov/item/75694594/",
+    "http://www.loc.gov/resource/g3764n.pm003130/",
+    "https://hdl.loc.gov/loc.gmd/g3764n.pm003130",
+    "https://search.catalog.loc.gov/instances/536b97fc-326f-5db4-95e4-219595f1671d",
+    "https://www.loc.gov/item/75694594/"
+  ],
+  "dct_issued_s": "1878",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764n/pm003130.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694594/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "north attleboro",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "North Attleboro (Mass.)--Maps",
+    "United States--Massachusetts--North Attleboro"
+  ],
+  "dct_temporal_sm": [
+    "1878"
+  ],
+  "dct_title_s": "North Attleborough, Mass. 1878",
+  "gbl_dateRange_drsim": [
+    "[1878 TO 1878]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1878
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694594",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

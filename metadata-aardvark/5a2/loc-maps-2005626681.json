@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO:2005--310-394/00332.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "DCP",
+    "Includes text and ill. (some col.).",
+    "Low-angle aerial view.",
+    "Low-angle aerial view. \"*GPO:2005--310-394/00332.\" Title from panel. Oriented with north to the right. Includes text and ill. (some col.). Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Oriented with north to the right.",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2005]",
+    "Text and col. ill. on verso.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852w.ct005266",
+    "http://lccn.loc.gov/2005626681",
+    "http://www.loc.gov/item/2005626681/",
+    "http://www.loc.gov/resource/g3852w.ct005266/",
+    "https://hdl.loc.gov/loc.gmd/g3852w.ct005266",
+    "https://search.catalog.loc.gov/instances/5b392bcb-cb39-5401-aa77-1cc396a2a51e",
+    "https://www.loc.gov/item/2005626681/"
+  ],
+  "dct_issued_s": "2005",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852w/ct005266.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005626681/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington"
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--World War II Memorial",
+    "World War II Memorial (Washington, D.C.)--Aerial views",
+    "World War II Memorial (Washington, D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "dct_title_s": "World War II Memorial, Washington, D.C.",
+  "gbl_dateRange_drsim": [
+    "[2005 TO 2005]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005626681",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

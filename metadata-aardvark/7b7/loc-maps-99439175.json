@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Gillespie, G. L.",
+    "Description derived from published bibliography.",
+    "Detailed map indicating earth and wood entrenchments, troop positions and movements, names of commanders and some unit numbers, roads, \"Manassas Gap Railroad,\" houses, names of inhabitants, fences, vegetation, drainage, fords, street pattern of Middletown and Strasburg, and relief by contour lines, hachures, and spot elevations. Union and Confederate troop positions are hand-colored blue and red respectively.",
+    "Detailed map indicating earth and wood entrenchments, troop positions and movements, names of commanders and some unit numbers, roads, \"Manassas Gap Railroad,\" houses, names of inhabitants, fences, vegetation, drainage, fords, street pattern of Middletown and Strasburg, and relief by contour lines, hachures, and spot elevations. Union and Confederate troop positions are hand-colored blue and red respectively. Description derived from published bibliography. Scale 1:12,000. LC Civil War Maps (2nd ed.), 537 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 537",
+    "Publication statement: [S.l.], 1873.",
+    "Scale 1:12,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882f.cw0537000",
+    "http://lccn.loc.gov/99439175",
+    "http://www.loc.gov/item/99439175/",
+    "http://www.loc.gov/resource/g3882f.cw0537000/",
+    "https://hdl.loc.gov/loc.gmd/g3882f.cw0537000",
+    "https://search.catalog.loc.gov/instances/983fc129-378a-56c0-8770-df060656204e",
+    "https://www.loc.gov/item/99439175/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882f/cw0537000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99439175/\"}",
+  "dct_spatial_sm": [
+    "cedar creek",
+    "fisher's hill",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Cedar Creek, Battle of, Va",
+    "Cedar Creek, Battle of, Va., 1864--Maps",
+    "Fisher's Hill, Battle of, Va",
+    "Fisher's Hill, Battle of, Va., 1864--Maps",
+    "United States--Virginia--Cedar Creek",
+    "United States--Virginia--Fisher's Hill"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Battle fields of Fisher's Hill [22 Sept. 1864] and Cedar Creek [19 Oct. 1864], Virginia",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99439175",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Condit, Wright & Hayden; Robyn & Co",
+    "LC Land ownership maps, 166",
+    "LC copy hand colored and mounted on cloth backing.",
+    "LC copy hand colored and mounted on cloth backing. LC Land ownership maps, 166 Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Indianapolis : Condit, Hayden & Wright, 1856.; Louisville, Ky : lith. of Robyn & Co."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4093r.la000166",
+    "http://lccn.loc.gov/2013593179",
+    "http://www.loc.gov/item/2013593179/",
+    "http://www.loc.gov/resource/g4093r.la000166/",
+    "https://hdl.loc.gov/loc.gmd/g4093r.la000166",
+    "https://search.catalog.loc.gov/instances/54ee1057-a7f2-5b0b-ae85-23ea42d4542e",
+    "https://www.loc.gov/item/2013593179/"
+  ],
+  "dct_issued_s": "1866",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409/g4093/g4093r/la000166.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593179/\"}",
+  "dct_spatial_sm": [
+    "indiana",
+    "rush county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Indiana--Rush County--Maps",
+    "Real property--Indiana--Rush County--Maps",
+    "United States--Indiana--Rush County"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "dct_title_s": "Map of the county of Rush Ind",
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1866
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593179",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

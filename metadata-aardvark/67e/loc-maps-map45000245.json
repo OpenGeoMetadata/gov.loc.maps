@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Carey & Hart; Tanner, Henry Schenck, 1786-1858",
+    "Differs from other 1844 ed. in that the printed plate numbers on 34 maps do not correspond to the plate numbers printed in the table of contents.",
+    "Engraved t.p.",
+    "LC copy rebound and boxed in green cloth, with all pages encapsulated. Original boards with Sherman bookplate retained in box.",
+    "LC copy signed in ink on front fly-leaf \"Sherman 1844\". Numerous ink and pencil annotations on margins and versos of maps, including 7 maps.",
+    "Library of Congress. Civil War maps (2nd ed.), S193",
+    "Phillips, 4324",
+    "Publication statement: Philadelphia : Carey & Hart, 1844.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Differs from other 1844 ed. in that the printed plate numbers on 34 maps do not correspond to the plate numbers printed in the table of contents. Engraved t.p. LC copy signed in ink on front fly-leaf \"Sherman 1844\". Numerous ink and pencil annotations on margins and versos of maps, including 7 maps. LC copy rebound and boxed in green cloth, with all pages encapsulated. Original boards with Sherman bookplate retained in box. Library of Congress. Civil War maps (2nd ed.), S193 Phillips, 4324 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200m.gcws0193",
+    "http://lccn.loc.gov/map45000245",
+    "http://www.loc.gov/item/map45000245/",
+    "http://www.loc.gov/resource/g3200m.gcws0193/",
+    "https://hdl.loc.gov/loc.gmd/g3200m.gcws0193",
+    "https://search.catalog.loc.gov/instances/00206803-df37-5f75-8cf5-8bef659a1d6c",
+    "https://www.loc.gov/item/map45000245/"
+  ],
+  "dct_issued_s": "1844",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3m/g3200m/g3200m/gcws0193/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/map45000245/\"}",
+  "dct_spatial_sm": [
+    "earth"
+  ],
+  "dct_subject_sm": [
+    "Atlases--Maps",
+    "Earth"
+  ],
+  "dct_temporal_sm": [
+    "1844"
+  ],
+  "dct_title_s": "A new universal atlas, containing maps of the various empires, kingdoms, states and republics of the world : with a special map of each of the United States, plans of cities, &c., comprehended in seventy sheets and forming a series of one hundred and seventeen maps, plans and sections",
+  "gbl_dateRange_drsim": [
+    "[1844 TO 1844]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1844
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map45000245",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

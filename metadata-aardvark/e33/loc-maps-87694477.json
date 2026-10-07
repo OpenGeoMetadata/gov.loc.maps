@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "Includes note.",
+    "Negative photocopy.",
+    "Partial cadastral map.",
+    "Partial cadastral map. Negative photocopy. Includes note. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Publication statement: [Washington?] : s.n., 190-?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852b.ct004944",
+    "http://lccn.loc.gov/87694477",
+    "http://www.loc.gov/item/87694477/",
+    "http://www.loc.gov/resource/g3852b.ct004944/",
+    "https://hdl.loc.gov/loc.gmd/g3852b.ct004944",
+    "https://search.catalog.loc.gov/instances/3b5eedf4-501e-5fd8-a1a8-3ae1e8bff0e5",
+    "https://www.loc.gov/item/87694477/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852b/ct004944.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694477/\"}",
+  "dct_spatial_sm": [
+    "brightwood",
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Brightwood (Washington, D.C.)--Maps",
+    "National parks and reserves--Washington (D.C.)--Planning--Maps",
+    "Parks--Washington (D.C.)--Planning--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Brightwood"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Plat of proposed national parks and highway connecting the same near Brightwood D.C.",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694477",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

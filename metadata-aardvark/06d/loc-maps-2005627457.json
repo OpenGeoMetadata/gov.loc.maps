@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Mount Magazine hiking trail, Ozark-Saint Francis National Forests, Mount Magazine Ranger District"
+  ],
+  "dct_description_sm": [
+    "\"Recreation guide R8-RG 164.\"",
+    "\"September 2005.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service",
+    "Includes location map and inset of Mt. Magazine Ranger District.",
+    "Publication statement: [Atlanta, Ga.?] : U.S. Dept. of Agriculture, Forest Service, [2005]",
+    "Relief shown by contours.",
+    "Relief shown by contours. Title from panel. \"Recreation guide R8-RG 164.\" Includes location map and inset of Mt. Magazine Ranger District. Text on verso. \"September 2005.\" Available also through the Library of Congress Web site as a raster image.",
+    "Text on verso.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2005627457",
+    "http://www.loc.gov/item/2005627457/",
+    "http://www.loc.gov/resource/g4002m.ct010924/",
+    "https://hdl.loc.gov/loc.gmd/g4002m.ct010924",
+    "https://search.catalog.loc.gov/instances/c907e189-90b2-5bc9-b68a-2f1cd0d0c00d",
+    "https://www.loc.gov/item/2005627457/"
+  ],
+  "dct_issued_s": "2005",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4002/g4002m/ct010924.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005627457/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "magazine mountain",
+    "ozark national forest",
+    "saint francis national forest",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hiking--Arkansas--Magazine Mountain--Maps",
+    "Magazine Mountain (Ark.)--Maps",
+    "Ozark National Forest (Ark.)--Maps",
+    "Saint Francis National Forest (Ark.)--Maps",
+    "Trails--Arkansas--Magazine Mountain--Maps",
+    "United States--Arkansas--Magazine Mountain",
+    "United States--Arkansas--Ozark National Forest",
+    "United States--Arkansas--Saint Francis National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "dct_title_s": "Mt. Magazine hiking trail, Ozark-St. Francis National Forests, Mt. Magazine Ranger District",
+  "gbl_dateRange_drsim": [
+    "[2005 TO 2005]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2005627457",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

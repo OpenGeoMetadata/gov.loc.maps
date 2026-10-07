@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Penniman, John, approximately 1817-1850, cartographer, engraver",
+    "LC copy mounted on cloth and laminated.",
+    "Publication statement: [Baltimore, MD] : [Publisher not identified], [1830?]",
+    "Shows the Baltimore depot on Pratt Street, which was built in 1830.",
+    "Shows the Baltimore depot on Pratt Street, which was built in 1830. LC copy mounted on cloth and laminated. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2020587085",
+    "http://www.loc.gov/item/2020587085/",
+    "http://www.loc.gov/resource/g3884b.ct011957/",
+    "http://www.loc.gov/resource/g3884b.ct011974/",
+    "https://hdl.loc.gov/loc.gmd/g3884b.ct011957",
+    "https://hdl.loc.gov/loc.gmd/g3884b.ct011974",
+    "https://search.catalog.loc.gov/instances/a631e062-9ec8-52f4-ab57-a2a747680033",
+    "https://www.loc.gov/item/2020587085/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884b/ct011957.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2020587085/\"}",
+  "dct_spatial_sm": [
+    "baltimore",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Baltimore and Ohio Railroad Company",
+    "Railroads--Maryland--Baltimore--Maps",
+    "United States--Maryland--Baltimore"
+  ],
+  "dct_temporal_sm": [
+    "1830",
+    "[Baltimore, MD] : [Publisher not identified], [1830?]"
+  ],
+  "dct_title_s": "Depot of the B. & O. R.R. Co",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2020587085",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

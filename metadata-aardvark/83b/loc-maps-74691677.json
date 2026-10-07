@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Tome I, no. 96.\"",
+    "\"Voyez la carte de l'isle de Se. Lucie, no. 95.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: [Bellin, Jacques Nicolas] 1703-1772",
+    "From the author's Le petit atlas maritime. 1764.",
+    "LC Maps of North America, 1750-1789, 2077",
+    "Publication statement: [Paris, 1764]",
+    "Relief shown pictorially and by hachures. Depths shown in fathoms.",
+    "Relief shown pictorially and by hachures. Depths shown in fathoms. \"Tome I, no. 96.\" \"Voyez la carte de l'isle de Se. Lucie, no. 95.\" From the author's Le petit atlas maritime. 1764. Scale ca. 1:12,600. LC Maps of North America, 1750-1789, 2077 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:12,600.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/74691677",
+    "http://www.loc.gov/item/74691677/",
+    "http://www.loc.gov/resource/g5114c.ar207700/",
+    "https://hdl.loc.gov/loc.gmd/g5114c.ar207700",
+    "https://search.catalog.loc.gov/instances/a8fecda3-a69b-5af7-bce5-87a3e331b1a7",
+    "https://www.loc.gov/item/74691677/"
+  ],
+  "dct_issued_s": "1764",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5114/g5114c/ar207700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74691677/\"}",
+  "dct_spatial_sm": [
+    "castries",
+    "saint lucia"
+  ],
+  "dct_subject_sm": [
+    "Harbors--Saint Lucia--Castries--Maps--Early works to 1800",
+    "Saint Lucia--Castries"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "dct_title_s": "Plan du port du Carenage ou petit cul de sac de l'Isle Se. Lucie",
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1764
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74691677",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

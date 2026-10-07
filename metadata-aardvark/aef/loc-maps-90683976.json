@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Linares, Juan; Real Escuela de Navegación (Cádiz, Spain)",
+    "Depths shown by soundings.",
+    "LC Luso-Hispanic World, 622",
+    "Maggs number annotated in pencil in lower right corner: 149.",
+    "Mounted on cloth backing.",
+    "Oriented with north to the right.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1758]",
+    "Shows lower eastern coast of Nicaragua.",
+    "Shows lower eastern coast of Nicaragua. Depths shown by soundings. Oriented with north to the right. Watermarks: IV; and, fleur-de-lis. Pen-and-ink and watercolor. Mounted on cloth backing. Maggs number annotated in pencil in lower right corner: 149. LC Luso-Hispanic World, 622 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermarks: IV; and, fleur-de-lis."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4852c.lh000622",
+    "http://lccn.loc.gov/90683976",
+    "http://www.loc.gov/item/90683976/",
+    "http://www.loc.gov/resource/g4852c.lh000622/",
+    "https://hdl.loc.gov/loc.gmd/g4852c.lh000622",
+    "https://search.catalog.loc.gov/instances/56f1dad2-fd75-5e6d-bf64-1a19433e2031",
+    "https://www.loc.gov/item/90683976/"
+  ],
+  "dct_issued_s": "1758",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4852/g4852c/lh000622.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90683976/\"}",
+  "dct_spatial_sm": [
+    "atlantic coast",
+    "nicaragua"
+  ],
+  "dct_subject_sm": [
+    "Atlantic Coast (Nicaragua)--Maps, Manuscript--Early works to 1800",
+    "Coasts--Nicaragua--Maps--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "Nicaragua--Atlantic Coast"
+  ],
+  "dct_temporal_sm": [
+    "1758"
+  ],
+  "dct_title_s": "Plano de Costa Rica",
+  "gbl_dateRange_drsim": [
+    "[1758 TO 1758]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1758
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90683976",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

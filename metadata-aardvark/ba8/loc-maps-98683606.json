@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes indexed tables of recreation sites and points of interest, inset of Davidson River area, and location map.",
+    "Panel title.",
+    "Panel title. Includes indexed tables of recreation sites and points of interest, inset of Davidson River area, and location map. Text, directions to recreation areas and points of interest, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Asheville, N.C.] : The Region, [1985]",
+    "Text, directions to recreation areas and points of interest, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/98683606",
+    "http://www.loc.gov/item/98683606/",
+    "http://www.loc.gov/resource/g3901k.ct009555/",
+    "https://hdl.loc.gov/loc.gmd/g3901k.ct009555",
+    "https://search.catalog.loc.gov/instances/93a0389e-080e-5c7c-9de9-db72a6d93ece",
+    "https://www.loc.gov/item/98683606/"
+  ],
+  "dct_issued_s": "1985",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3901/g3901k/ct009555.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98683606/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Forests reserves--North Carolina--Maps",
+    "United States--North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "dct_title_s": "National forests in North Carolina",
+  "gbl_dateRange_drsim": [
+    "[1985 TO 1985]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98683606",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

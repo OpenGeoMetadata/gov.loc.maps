@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Scrapbook (Mss5:7 Sn237:1 p. 375).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this scrapbook image.",
+    "Publication statement: [1864-1865]",
+    "Regional view of Savannah and enrivons just before the Union arrival at that place. Shows the layout of canals, creeks, rivers, swamps, roads and railroads around Savannah as well as the various outlying Confederate batteries and those occupied by Federal troops. There is some indication of the names of property owners and also notations of rice and cotton fields that were either flooded or became flooded during full tides. The Union blockade and the construction of the causeway to Charleston are also shown.",
+    "Relief shown by hachures.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00270",
+    "http://www.loc.gov/item/001-CABIB20007708/",
+    "http://www.loc.gov/item/gvhs01.vhs00270/",
+    "http://www.loc.gov/resource/gvhs01.vhs00270/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00270",
+    "https://www.loc.gov/item/gvhs01.vhs00270/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00270.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00270/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "savannah",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--History--Civil War, 1861-1865--Maps",
+    "Savannah (Ga.)--HIstory--Civil War, 1861-1865--Maps",
+    "United States--Georgia--Savannah"
+  ],
+  "dct_temporal_sm": [
+    "1864/1865"
+  ],
+  "dct_title_s": "The Defences [sic] of Savannah, Georgia, November 1864.",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00270",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

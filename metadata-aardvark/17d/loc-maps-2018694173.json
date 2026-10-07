@@ -1,0 +1,91 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Карманный Атлас. Сплошной паровой путь через Азию к великому океану. Великая Сибирская железная дорога. Амурское пароходство. Уссурийская железная дорога"
+  ],
+  "dct_description_sm": [
+    "Original map at: Russian State Library",
+    "Presented here is a pocket atlas from 1900 of the steam transportation network of Siberia, including the Trans-Siberian Railroad, the Ussuri Railroad, and the Amur River steamship lines. The publication reflects Russian national pride in the recent establishment of transit links to the Pacific Ocean, even before all sections of the Trans-Siberian Railroad were complete. The atlas contains 27 maps and 14 photographs. The first map shows the global network of rail and steamship connections. It is followed by a general map of Asiatic Russia (Siberia) and a map of the Trans-Siberian Railroad as far as Irkutsk (the route to Vladivostok was unfinished as of 1900, especially the arduous mountain route along the southern tip of Lake Baikal). Other maps show the southern shores of Lake Baikal; the Trans-Baikal Railroad; the Amur steamship routes and the Ussuri Railroad; the Kwantung region (the southern part of Liaodong Peninsula in China, a territorial concession occupied by Russia in 1898); with Dalian and Port Arthur and their environs. Separate maps show some of the largest Siberian and Russian Far Eastern cities and their environs, including Tomsk, Irkutsk, Krasnoyarsk, Chita, Blagoveshchensk, and Vladivostok. Interspersed with the maps are photographs of Siberian scenes, depicting railroad stations, steamship wharves, and vistas of places shown on the accompanying maps. World Digital Library."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694173",
+    "http://www.loc.gov/item/2018694173/",
+    "http://www.loc.gov/resource/gdc.2018694173/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxtx.s00022",
+    "https://search.catalog.loc.gov/instances/7c7fe772-1133-50ae-9050-45b26501ffd6",
+    "https://www.loc.gov/item/2018694173/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694173.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694173/2018694173.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694173:0001/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694173/\"}",
+  "dct_spatial_sm": [
+    "amur oblast",
+    "blagoveshchensk",
+    "buryatia",
+    "china",
+    "chita",
+    "irkutsk",
+    "irkutsk oblast",
+    "krasnoyarsk",
+    "krasnoyarsk krai",
+    "liaoning province",
+    "primorskiy krai",
+    "republic of",
+    "russian federation",
+    "tomsk",
+    "tomsk oblast",
+    "vladivostok",
+    "zabaykalsky krai"
+  ],
+  "dct_subject_sm": [
+    "Amur Oblast",
+    "Blagoveshchensk",
+    "Buryatia, Republic of",
+    "China",
+    "Chita",
+    "Irkutsk",
+    "Irkutsk Oblast",
+    "Krasnoyarsk",
+    "Krasnoyarsk Krai",
+    "Liaoning Province",
+    "Primorskiy Krai",
+    "Railroads",
+    "Russian Federation",
+    "Siberia",
+    "Tomsk",
+    "Tomsk Oblast",
+    "Trans-Siberian Railroad",
+    "Trans-siberian Railroad",
+    "Transportation",
+    "Vladivostok",
+    "Zabaykalsky Krai",
+    "atlases",
+    "maps"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Karmannyĭ Atlas. Sploshnoĭ parovoĭ put' cherez Azii︠u︡ k velikomu okeanu. Velikai︠a︡ Sibirskai︠a︡ zheleznai︠a︡ doroga. Amurskoe parokhodstvo. Ussuriĭskai︠a︡ zheleznai︠a︡ doroga",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694173",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

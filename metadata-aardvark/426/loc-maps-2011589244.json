@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map of Portland, Maine, that shows lot lines, some lot numbers, and some names of landowners.",
+    "Cadastral map of Portland, Maine, that shows lot lines, some lot numbers, and some names of landowners. Pen-and-ink. Includes index of selected buildings and note on property of Edgar Potts. Imperfect: Brittle, creased, torn, stained, darkened, annotated on verso in pencil, mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Gift; Boylston A. Beal; 3 Jan. 1934.",
+    "Gift; Boylston A. Beal; 3 Jan. 1934.",
+    "Imperfect: Brittle, creased, torn, stained, darkened, annotated on verso in pencil, mounted on cloth backing.",
+    "Includes index of selected buildings and note on property of Edgar Potts.",
+    "Pen-and-ink.",
+    "Publication statement: [18--]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3734p.la002044",
+    "http://lccn.loc.gov/2011589244",
+    "http://www.loc.gov/item/2011589244/",
+    "http://www.loc.gov/resource/g3734p.la002044/",
+    "https://hdl.loc.gov/loc.gmd/g3734p.la002044",
+    "https://search.catalog.loc.gov/instances/579d37e9-de9e-5098-8cae-0b3a84a43af6",
+    "https://www.loc.gov/item/2011589244/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3734/g3734p/la002044.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011589244/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "portland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Maine--Portland--Maps",
+    "Real property--Maine--Portland--Maps",
+    "United States--Maine--Portland"
+  ],
+  "dct_temporal_sm": [
+    "18??",
+    "[18--]"
+  ],
+  "dct_title_s": "Plan of Portland",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011589244",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

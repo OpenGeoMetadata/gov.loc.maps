@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Franquelin, Jean Baptiste Louis",
+    "Copied between 1909 and 1910 from the original 1688 ms. in the Archives du dépôt des cartes et plans de la marine.",
+    "Copied between 1909 and 1910 from the original 1688 ms. in the Archives du dépôt des cartes et plans de la marine. Pen-and-ink and watercolor. In margin: Bibliotheque du Depot des cartes et plans de la Marina, Paris, Atlas 4040B, piece n. 3. Includes indexed inset of view \"Quebec comme il se voit du cóté de l'est.\" Available also through the Library of Congress Web site as a raster image.",
+    "In margin: Bibliotheque du Depot des cartes et plans de la Marina, Paris, Atlas 4040B, piece n. 3.",
+    "Includes indexed inset of view \"Quebec comme il se voit du cóté de l'est.\"",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1909 or 1910]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ct000668",
+    "http://lccn.loc.gov/2002622264",
+    "http://www.loc.gov/item/2002622264/",
+    "http://www.loc.gov/resource/g3300.ct000668/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ct000668",
+    "https://search.catalog.loc.gov/instances/2a6625a6-96ef-5970-be22-024fdc96f510",
+    "https://www.loc.gov/item/2002622264/"
+  ],
+  "dct_issued_s": "1688",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ct000668.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002622264/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "north america",
+    "québec"
+  ],
+  "dct_subject_sm": [
+    "Canada--Québec--Québec",
+    "North America",
+    "North America--Maps, Manuscript",
+    "Québec (Québec)--Maps, Manuscript",
+    "Québec (Québec)--Views"
+  ],
+  "dct_temporal_sm": [
+    "1688"
+  ],
+  "dct_title_s": "Carte de l'Amerique Septentrionnale : depuis le 25, jusqu'au 65⁰ deg. de latt. & environ 140, & 235 deg. de longitude / par Iean Baptiste Louis Franquelin, hydrographe du roy, à Québec en Canada",
+  "gbl_dateRange_drsim": [
+    "[1688 TO 1688]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1688
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002622264",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

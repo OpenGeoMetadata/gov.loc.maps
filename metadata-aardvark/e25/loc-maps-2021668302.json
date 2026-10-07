@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nova et Accuratissima Totius Terrarum Orbis Tabula"
+  ],
+  "dct_description_sm": [
+    "Content in Latin.",
+    "Contributors: Blaeu, Joan, 1596-1673 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: Hand colored engraving.",
+    "Publication statement: Amsterdam : Joan Blaeu, 1659.",
+    "This mid-17th century \"modern and completely correct map\" of the entire world was printed in Amsterdam by Joan Blaeu (1596-1673), a member of the Blaeu family that helped to define mapmaking during the Dutch golden age. Beginning in the 16th century, the Blaeu firm produced some of Europe's most renowned maps, globes, and atlases. After studying under Danish astronomer Tycho Brahe, Joan's father, Willem Blaeu (1571-1638), founded the company in 1596. In 1633 he was appointed official chartmaker to the Dutch East India Company, an office that passed to his son. This appointment gave the family access to the most up-to-date information provided by the seamen of the company, as well as proprietary rights to all existing plates and charts held by the company. Joan Blaeu capitalized on this monopoly to turn enormous profits for the firm. This world map was produced just three years before his capstone project, the 1662 Atlas maior. The map reveals the limitations of knowledge regarding the west coast of North America, the Arctic, and New Holland (present-day Australia). The Blaeu business flourished until 1672, when a fire destroyed the firm's equipment, plates, and stock. Joan died a year later.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668302",
+    "http://www.loc.gov/item/2021668302/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00170/",
+    "http://www.loc.gov/resource/wdl.170/",
+    "https://hdl.loc.gov/loc.wdl/wdl.170",
+    "https://www.loc.gov/item/2021668302/"
+  ],
+  "dct_issued_s": "1659-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00170.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/17/0/wdl_00170/wdl_00170.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:17:0:wdl_00170:cart231101/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668302/\"}",
+  "dct_subject_sm": [
+    "1659",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1659-01-01"
+  ],
+  "dct_title_s": "Modern and Completely Correct Map of the Entire World.",
+  "gbl_dateRange_drsim": [
+    "[1659 TO 1659]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1659
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668302",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

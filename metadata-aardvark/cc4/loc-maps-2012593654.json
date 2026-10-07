@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Ancillary maps: Austerlitz -- Canaan Four Corners -- Chatham -- Chatham Four Corners -- Claverack -- Columbiaville and Stockport -- Copake Flats -- East Chatham -- Hillsdale -- Johnstown -- Kinderhook -- Lebanon Springs -- Malden Bridge -- Mellenville -- North Chatham -- Philmont -- Spencertown -- Stuyvesant Falls -- Stuyvesant Landing -- Valatie.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beers, F. W. (Frederick W.); Beers, S. N.; Lake, D. J.",
+    "Includes illustrations, distance chart, notes, business directories, and statistics.",
+    "LC Land ownership maps, 488",
+    "LC copy mounted on cloth, laminated, sectioned in six. Darkened, with some liquid staining.",
+    "Publication statement: Philadelphia : E.A. Batch, Publisher, 1858.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows landowners. Includes illustrations, distance chart, notes, business directories, and statistics. Ancillary maps: Austerlitz -- Canaan Four Corners -- Chatham -- Chatham Four Corners -- Claverack -- Columbiaville and Stockport -- Copake Flats -- East Chatham -- Hillsdale -- Johnstown -- Kinderhook -- Lebanon Springs -- Malden Bridge -- Mellenville -- North Chatham -- Philmont -- Spencertown -- Stuyvesant Falls -- Stuyvesant Landing -- Valatie. LC copy mounted on cloth, laminated, sectioned in six. Darkened, with some liquid staining. LC Land ownership maps, 488 Available also through the Library of Congress Web site as a raster image.",
+    "Shows landowners."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3803c.la000488",
+    "http://lccn.loc.gov/2012593654",
+    "http://www.loc.gov/item/2012593654/",
+    "http://www.loc.gov/resource/g3803c.la000488/",
+    "https://hdl.loc.gov/loc.gmd/g3803c.la000488",
+    "https://search.catalog.loc.gov/instances/a4393c94-d150-55fd-870e-812e1b4fce6b",
+    "https://www.loc.gov/item/2012593654/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3803/g3803c/la000488.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593654/\"}",
+  "dct_spatial_sm": [
+    "columbia county",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Columbia County (N.Y.)--Maps",
+    "Landowners--New York (State)--Columbia County--Maps",
+    "Real property--New York (State)--Columbia County--Maps",
+    "United States--New York (State)--Columbia County"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Map of Columbia Co., New York : from actual surveys",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593654",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

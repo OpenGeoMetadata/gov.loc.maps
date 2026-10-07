@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright 1894 by F.C Waite and H.C. Short.\"",
+    "\"The city of Leavenworth is situated in latitude 39° 21ʺ 12ʹ, longitude 94°51ʺ 24ʹ, west of Greenwich.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Waite, F. C.",
+    "Former wall map.",
+    "Includes text, advertisements, and illustrations.",
+    "LC Land ownership maps, 219",
+    "LC copies imperfect: Faded throughout with losses along the borders and mounted on paper.",
+    "LC copy 2 sectioned in 6 parts but is missing the top 2 sections.",
+    "Publication statement: [Leavenworth, Kansas?] : F. C. Waite, [1894]",
+    "Shows names of county residents.",
+    "Shows names of county residents. Former wall map. \"The city of Leavenworth is situated in latitude 39° 21ʺ 12ʹ, longitude 94°51ʺ 24ʹ, west of Greenwich.\" LC copies imperfect: Faded throughout with losses along the borders and mounted on paper. LC copy 2 sectioned in 6 parts but is missing the top 2 sections. Includes text, advertisements, and illustrations. \"Copyright 1894 by F.C Waite and H.C. Short.\" LC Land ownership maps, 219 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4203l.la000219",
+    "http://lccn.loc.gov/2013593248",
+    "http://www.loc.gov/item/2013593248/",
+    "http://www.loc.gov/resource/g4203l.la000219/",
+    "https://hdl.loc.gov/loc.gmd/g4203l.la000219",
+    "https://search.catalog.loc.gov/instances/cc491f45-5563-5922-b1cc-14c0985a27fd",
+    "https://www.loc.gov/item/2013593248/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd420/g4203/g4203l/la000219.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593248/\"}",
+  "dct_spatial_sm": [
+    "kansas",
+    "leavenworth county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Kansas--Leavenworth County--Maps",
+    "Leavenworth County (Kan.)--Maps",
+    "Real property--Kansas--Leavenworth County--Maps",
+    "United States--Kansas--Leavenworth County"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "Map of Leavenwoth County, Kansas",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593248",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

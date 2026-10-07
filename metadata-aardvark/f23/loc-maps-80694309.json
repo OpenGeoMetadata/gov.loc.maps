@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"502491 1-76 (541681).\"",
+    "\"502491 1-76 (541681).\" \"Lambert conformal projection.\" Includes inset. Scale 1:1,100,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "\"Lambert conformal projection.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes inset.",
+    "Publication statement: [Washington : Central Intelligence Agency, 1976]",
+    "Scale 1:1,100,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5100.ct002868",
+    "http://lccn.loc.gov/80694309",
+    "http://www.loc.gov/item/80694309/",
+    "http://www.loc.gov/resource/g5100.ct002868/",
+    "https://hdl.loc.gov/loc.gmd/g5100.ct002868",
+    "https://search.catalog.loc.gov/instances/1d49b2fb-6282-5e46-bec8-33f54954b897",
+    "https://www.loc.gov/item/80694309/"
+  ],
+  "dct_issued_s": "1972",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5100/g5100/ct002868.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80694309/\"}",
+  "dct_spatial_sm": [
+    "dominica",
+    "guadeloupe",
+    "martinique"
+  ],
+  "dct_subject_sm": [
+    "Dominica",
+    "Dominica--Maps",
+    "Guadeloupe",
+    "Guadeloupe--Maps",
+    "Martinique",
+    "Martinique--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "dct_title_s": "Dominica, Guadeloupe, and Martinique",
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1972]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80694309",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

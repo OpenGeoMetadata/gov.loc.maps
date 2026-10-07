@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "蝦夷闔境輿地全圖 /"
+  ],
+  "dct_description_sm": [
+    "\"This map was made by Fujita Junsai and published by Harimaya Katsugorō in 1854, around the time period when the Tokugawa shogunate started sending expeditions to the area of Ezo, Sakhalin, and the Kuril Islands. Russia was also showing interest in this area at this time. Place names are identified and indicated in the Japanese katakana characters (the angular Japanese phonetic syllabary). Various land and sea routes in the Ezo area (now Hokkaido) are shown in detail.\" World Digital Library.",
+    "AACR2: 651/1; 651/2; 651/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Fujita, Junsai, active 19th century, cartographer; Utagawa, Sadahide, 1807-1873",
+    "Includes text.",
+    "Japanese.",
+    "Publication statement: Edo : Harimaya Katsugorō, Kaei 7 [1854]",
+    "Relief shown pictorially.",
+    "Vault",
+    "Wood-block print."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7962h.ct001480",
+    "http://lccn.loc.gov/gm71005089",
+    "http://www.loc.gov/item/gm71005089/",
+    "http://www.loc.gov/resource/g7962h.ct001480/",
+    "https://hdl.loc.gov/loc.asian/ainu1264.gm71005089",
+    "https://hdl.loc.gov/loc.gmd/g7962h.ct001480",
+    "https://search.catalog.loc.gov/instances/566e5bba-4ca8-5141-b674-8d4358c397ab",
+    "https://www.loc.gov/item/gm71005089/"
+  ],
+  "dct_issued_s": "1854",
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7962/g7962h/ct001480.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005089/\"}",
+  "dct_spatial_sm": [
+    "hokkaido",
+    "japan",
+    "kuril islands",
+    "russia",
+    "sakhalin",
+    "sakhalinskai︠a︡ oblast"
+  ],
+  "dct_subject_sm": [
+    "Hokkaido (Japan)--Maps",
+    "Japan--Hokkaido",
+    "Japan--Sakhalin",
+    "Kuril Islands (Russia)--Maps",
+    "Russia--Kuril Islands",
+    "Sakhalin (Sakhalinskai︠a︡ oblastʹ, Russia)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "dct_title_s": "Ezo kōkyō yochi zenzu",
+  "gbl_dateRange_drsim": [
+    "[1854 TO 1854]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1854
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005089",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

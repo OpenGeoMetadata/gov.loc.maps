@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "17 sheet(s).",
+    "504. Other places as they appear on original: North Bellmore.",
+    "Jul 1940 - Jun 1945.",
+    "Jul 1940 - Jun 1945. 17 sheet(s). 504. Other places as they appear on original: North Bellmore.",
+    "Publication statement: Sanborn Map Company, Jul 1940 - Jun 1945"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804bm.g3804bm_g057681945",
+    "http://www.loc.gov/item/sanborn05768_003/",
+    "http://www.loc.gov/resource/g3804bm.g3804bm_g057681945/",
+    "https://hdl.loc.gov/loc.gmd/g3804bm.g3804bm_g057681945",
+    "https://www.loc.gov/item/sanborn05768_003",
+    "https://www.loc.gov/item/sanborn05768_003/",
+    "https://www.loc.gov/resource/g3804bm.g3804bm_g057681945"
+  ],
+  "dct_issued_s": "1945-07",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn05768_003/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380m/g3804m/g3804bm/g3804bm_g057681945/05768_1945-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn05768_003/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "bellmore",
+    "nassau county",
+    "new york",
+    "north bellmore",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1945-07"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Bellmore, Nassau County, New York.",
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1945]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1945
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn05768_003",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

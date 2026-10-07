@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 650/2; 650/3; 710/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: A. Hoen & Co; Atkinson, W. G.; Frostburg Coal Company",
+    "Oriented with north to the right.",
+    "Oriented with north to the right. Relief shown by hachures. Scale 1:12,000; 1,000 ft. to 1 in. Available also through the Library of Congress Web site as a raster image. AACR2: 651/1; 650/2; 650/3; 710/2",
+    "Publication statement: Baltimore, Lith. by A. Hoen & Co. [186-]",
+    "Relief shown by hachures.",
+    "Scale 1:12,000; 1,000 ft. to 1 in."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3844f.ct008765",
+    "http://lccn.loc.gov/gm72003013",
+    "http://www.loc.gov/item/gm72003013/",
+    "http://www.loc.gov/resource/g3844f.ct008765/",
+    "https://hdl.loc.gov/loc.gmd/g3844f.ct008765",
+    "https://search.catalog.loc.gov/instances/54874fa8-53b3-54cb-8d74-dc03ebc471dd",
+    "https://www.loc.gov/item/gm72003013/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3844/g3844f/ct008765.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm72003013/\"}",
+  "dct_spatial_sm": [
+    "frostburg region",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Eckhart Railway--Maps",
+    "Frostburg Region (Md.)--Maps",
+    "Mines and mineral resources--Maryland--Frostburg region--Maps",
+    "Mount Savage Railway--Maps",
+    "Railroads--Maryland--Frostburg Region--Maps",
+    "United States--Maryland--Frostburg Region"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Map of the Frostburg Coal Company's lands showing the town of Frostburg, the mines, and the railroads in use; and also, the proposed extensions of the Mount Savage and Eckhart railways",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm72003013",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

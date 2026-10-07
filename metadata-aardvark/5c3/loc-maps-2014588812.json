@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Catalan and Latin. Catalan titles for the illustrations and Latin statement of responsibility.",
+    "Contains 5 wind roses.",
+    "Contributors: Prunes, Mateus, active 1553-1599",
+    "Includes 2 bar scales in unidentified units, and many illustrations throughout.",
+    "LC Nautical charts on vellum, 7.",
+    "Oriented with north to the right.",
+    "Pen-and-ink and goauche.",
+    "Publication statement: In civitate Majorica : Mateus Prunes, anno. 1559.",
+    "Title provided by cataloguer.",
+    "Title provided by cataloguer. Oriented with north to the right. Contains 5 wind roses. Pen-and-ink and goauche. Includes 2 bar scales in unidentified units, and many illustrations throughout. LC Nautical charts on vellum, 7. Available also through the Library of Congress Web site as a raster image. Catalan and Latin. Catalan titles for the illustrations and Latin statement of responsibility."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5672m.ct002457",
+    "http://lccn.loc.gov/2014588812",
+    "http://www.loc.gov/item/2014588812/",
+    "http://www.loc.gov/resource/g5672m.ct002457/",
+    "https://hdl.loc.gov/loc.gmd/g5672m.ct002457",
+    "https://search.catalog.loc.gov/instances/b3dea4b6-4631-54dc-a239-62c27934c850",
+    "https://www.loc.gov/item/2014588812/"
+  ],
+  "dct_issued_s": "1559",
+  "dct_language_sm": [
+    "catalan",
+    "lat",
+    "valencian"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5672/g5672m/ct002457.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2014588812/\"}",
+  "dct_spatial_sm": [
+    "mediterranean region",
+    "mediterranean sea"
+  ],
+  "dct_subject_sm": [
+    "Mediterranean Region",
+    "Mediterranean Region--Maps--Early works to 1800",
+    "Mediterranean Sea",
+    "Seaports--Mediterranean Sea--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1559"
+  ],
+  "dct_title_s": "[Chart of the Mediterranean, Black Sea, and the coasts of western Europe and northwest Africa]",
+  "gbl_dateRange_drsim": [
+    "[1559 TO 1559]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1559
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2014588812",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

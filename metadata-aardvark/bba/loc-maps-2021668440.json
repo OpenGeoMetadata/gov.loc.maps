@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Relief shown pictorially and by shading. Depths shown by soundings. Scale 1:2,020,000.\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Vancouver, George, 1757-1798 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "George Vancouver (1757--98), who became a noted explorer and surveyor of the Pacific Northwest, joined the Royal Navy at the age of 13 and was a midshipman on H.M.S. Discovery during Captain James Cook's ill-fated third voyage of 1778--80. This may be one of Vancouver's first charts. The purpose for which the chart was made is not known. Such charts may have been drafted by the midshipmen as an exercise, part of a running survey conducted under the guidance of ships' masters and captains, as suggested by the fact that the chart does not compare in quality to those produced by William Bligh, the master of Discovery's sister ship Resolution. Cook left Nootka Sound and the island that later would bear Vancouver's name in April 1778. He sailed north along the Alaskan coast looking for inlets that might lead to the Northwest Passage but was forced to turn south. By July he had rounded the Alaskan Peninsula and was able to sail north again, visiting the Chukotskiy Peninsula, Russia, before heading out into the Bering Sea. Cook crossed the Arctic Circle in August before being forced back by pack ice. He turned west and worked his way down the Russian coast, eventually heading south and east into Norton Sound, Alaska, in September 1778.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map on 2 sheets : manuscript ; each sheet 90 x 61 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1778.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668440",
+    "http://www.loc.gov/item/2021668440/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_06771/",
+    "http://www.loc.gov/resource/wdl.6771/",
+    "https://hdl.loc.gov/loc.wdl/wdl.6771",
+    "https://www.loc.gov/item/2021668440/"
+  ],
+  "dct_issued_s": "1778-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_06771.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/06/77/1/wdl_06771/wdl_06771.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:06:77:1:wdl_06771:am001863/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668440/\"}",
+  "dct_spatial_sm": [
+    "alaska",
+    "united states of america"
+  ],
+  "dct_subject_sm": [
+    "1778",
+    "Exploration and encounters",
+    "Norton Sound (Alaska)",
+    "Saint Elias, Mount (Alaska and Yukon)",
+    "United States of America--Alaska"
+  ],
+  "dct_temporal_sm": [
+    "1778-01-01"
+  ],
+  "dct_title_s": "Chart of the NW Coast of America and Part of the NE of Asia with the Track of his Majesty's Sloops 'Resolution' and 'Discovery' from May to October 1778.",
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1778
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668440",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

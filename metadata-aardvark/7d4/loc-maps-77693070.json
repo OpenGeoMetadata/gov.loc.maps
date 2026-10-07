@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Air University (U.S.). Cartographic Information Division",
+    "In lower right margin: AU GAFB, Ala. (700910)K 30 00.",
+    "In lower right margin: AU GAFB, Ala. (700910)K 30 00. Includes statistical data. Scale ca. 1:75,000. Available also through the Library of Congress Web site as a raster image.",
+    "Includes statistical data.",
+    "Publication statement: [Montgomery? Ala., 1971?]",
+    "Scale ca. 1:75,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/77693070",
+    "http://www.loc.gov/item/77693070/",
+    "http://www.loc.gov/resource/g3972m.ct010692/",
+    "https://hdl.loc.gov/loc.gmd/g3972m.ct010692",
+    "https://search.catalog.loc.gov/instances/26639017-d4ad-5774-991b-7e50bdc23c48",
+    "https://www.loc.gov/item/77693070/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3972/g3972m/ct010692.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77693070/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "martin lake",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Martin Lake, Ala.--Maps",
+    "Outdoor recreation--Alabama--Martin Lake--Maps",
+    "United States--Alabama--Martin Lake"
+  ],
+  "dct_temporal_sm": [
+    "1971",
+    "[Montgomery? Ala., 1971?]"
+  ],
+  "dct_title_s": "Martin Lake, Maxwell & Gunter recreation map",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77693070",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

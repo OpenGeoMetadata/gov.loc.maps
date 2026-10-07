@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Sialiao anchorage",
+    "車城ノ錨地 : 地圖ニ所謂琅嶠湾ナリ= Sialiao anchorage : the Liang Kiau Bay of the maps"
+  ],
+  "dct_description_sm": [
+    "\"大日本海軍水路寮第三拾三號松田保信鐫.\"",
+    "\"洋紀千八百七十二年三月二日[ダグ]刺斯誌 ... 2nd of March 1872, Douglas Cassel\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image. \"洋紀千八百七十二年三月二日[ダグ]刺斯誌 ... 2nd of March 1872, Douglas Cassel\" \"大日本海軍水路寮第三拾三號松田保信鐫.\"",
+    "Contributors: Cassel, Douglas, fl 1872; Japan. Kaigun. Suiroryō",
+    "Publication statement: [Tokyo] : Dai Nihon Kaigun Suirorryō, [not before 1872]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7913h.ct003820",
+    "http://lccn.loc.gov/2011517762",
+    "http://www.loc.gov/item/2011517762/",
+    "http://www.loc.gov/resource/g7913h.ct003820/",
+    "https://hdl.loc.gov/loc.gmd/g7913h.ct003820",
+    "https://search.catalog.loc.gov/instances/0c2910e1-453a-5f1b-a301-bcfbc30221fd",
+    "https://www.loc.gov/item/2011517762/"
+  ],
+  "dct_issued_s": "1872",
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7913/g7913h/ct003820.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011517762/\"}",
+  "dct_spatial_sm": [
+    "chʻun hsien",
+    "heng",
+    "heng-chʻun hsien",
+    "hengchun peninsula",
+    "taiwan"
+  ],
+  "dct_subject_sm": [
+    "Heng-chʻun hsien (Taiwan)--Aerial views",
+    "Hengchun Peninsula (Taiwan)--Aerial views",
+    "Taiwan--Heng-chʻun hsien",
+    "Taiwan--Hengchun Peninsula"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "dct_title_s": "Shajō no byōchi : chizu ni iwayuru Rōkyōwan nari = Sialiao anchorage : the Liang Kiau Bay of the maps",
+  "gbl_dateRange_drsim": [
+    "[1872 TO 1872]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1872
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011517762",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC copy mounted on cloth.",
+    "Publication statement: [New York] : [J. Parker and W. Weyman], [1761]",
+    "Shows paths in the Lake George region.",
+    "Wheat, J.C. Maps and charts published in America before 1800, 323",
+    "vcFY24",
+    "vcFY24 Shows paths in the Lake George region. LC copy mounted on cloth. Wheat, J.C. Maps and charts published in America before 1800, 323 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597419",
+    "http://www.loc.gov/item/2024597419/",
+    "http://www.loc.gov/resource/g3802g.ct005527/",
+    "https://hdl.loc.gov/loc.gmd/g3802g.ct005527",
+    "https://search.catalog.loc.gov/instances/0a85bf74-4093-50ab-851a-05e4375d07fb",
+    "https://www.loc.gov/item/2024597419/"
+  ],
+  "dct_issued_s": "1761",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3802:g3802g:ct005527/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597419/\"}",
+  "dct_spatial_sm": [
+    "crown point region",
+    "crown point region (n.y. : town)",
+    "fort edward region",
+    "fort edward region (n.y.)",
+    "george",
+    "george, lake region (n.y. : lake)",
+    "lake",
+    "lake region",
+    "new york",
+    "new york (state)",
+    "town",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Crown Point Region (N.Y. : Town)--Maps--Early works to 1800",
+    "Fort Edward Region (N.Y.)--Maps--Early works to 1800",
+    "George, Lake Region (N.Y. : Lake)--Maps--Early works to 1800",
+    "United States--New York (State)--Crown Point Region (N.Y. : Town)",
+    "United States--New York (State)--Fort Edward Region (N.Y.)",
+    "United States--New York (State)--George, Lake Region (N.Y. : Lake)"
+  ],
+  "dct_temporal_sm": [
+    "1761"
+  ],
+  "dct_title_s": "A map of the country between Crown Point and Fort Edward",
+  "gbl_dateRange_drsim": [
+    "[1761 TO 1761]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1761
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597419",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

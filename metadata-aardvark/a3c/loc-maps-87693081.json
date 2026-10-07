@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"N3845-W7652.5/20X22.5.\"",
+    "Alternate title in right lower margin: Washington and vicinity, Md.-Va.-D.C.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "DCP",
+    "Includes note.",
+    "LC copy halved and fold-lined.",
+    "Publication statement: [Washington, D.C.] : U.S., Dept. of the Interior, Geological Survey, [1944]",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Road classification dated 1943 shown in red. Alternate title in right lower margin: Washington and vicinity, Md.-Va.-D.C. Topography \"Revised in 1941-1942.\" U.S. and state grids. Includes note. \"N3845-W7652.5/20X22.5.\" Available also through the Library of Congress Web site as a raster image. LC copy halved and fold-lined. DCP",
+    "Road classification dated 1943 shown in red.",
+    "Topography \"Revised in 1941-1942.\"",
+    "U.S. and state grids."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004518",
+    "http://lccn.loc.gov/87693081",
+    "http://www.loc.gov/item/87693081/",
+    "http://www.loc.gov/resource/g3850.ct004518/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004518",
+    "https://search.catalog.loc.gov/instances/6c92c0b8-aef6-53db-89db-95ab7182824f",
+    "https://www.loc.gov/item/87693081/"
+  ],
+  "dct_issued_s": "1944",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004518.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87693081/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "Roads--Washington Metropolitan Area--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Metropolitan Area",
+    "Washington (D.C.)--Maps",
+    "Washington Metropolitan Area--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "dct_title_s": "Washington and vicinity, Maryland, Virginia, District of Columbia",
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1944]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1944
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-87693081",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

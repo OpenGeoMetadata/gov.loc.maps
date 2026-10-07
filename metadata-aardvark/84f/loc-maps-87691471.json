@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Surveyed in 1913-1915.\"",
+    "Advance sheet. Subject to correction.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); Marshall, R. B. (Robert Bradford), 1867-1949; Sutton, Frank; U.S. Coast and Geodetic Survey",
+    "DCP",
+    "LC copy sectioned and mounted on cloth backing.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Washington?] : Dept. of the Interior, U.S. Geological Survey, [1915?]",
+    "Relief shown by contours.",
+    "Relief shown by contours. \"Surveyed in 1913-1915.\" Advance sheet. Subject to correction.\" Oriented with north toward the upper left. Available also through the Library of Congress Web site as a raster image. LC copy sectioned and mounted on cloth backing. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004481",
+    "http://lccn.loc.gov/87691471",
+    "http://www.loc.gov/item/87691471/",
+    "http://www.loc.gov/resource/g3850.ct004481/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004481",
+    "https://search.catalog.loc.gov/instances/44489567-c4c5-56d1-a658-c304cd5c5521",
+    "https://www.loc.gov/item/87691471/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004481.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691471/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1915",
+    "[Washington?] : Dept. of the Interior, U.S. Geological Survey, [1915?]"
+  ],
+  "dct_title_s": "Topography, District of Columbia",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-87691471",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"800770 (B00176) 9-86.\"",
+    "\"800770 (B00176) 9-86.\" Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes location map.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1986]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8340.ct002910",
+    "http://lccn.loc.gov/87692408",
+    "http://www.loc.gov/item/87692408/",
+    "http://www.loc.gov/resource/g8340.ct002910/",
+    "https://hdl.loc.gov/loc.gmd/g8340.ct002910",
+    "https://search.catalog.loc.gov/instances/7605f2c2-b46d-5ac9-8b56-105ae0bc523f",
+    "https://www.loc.gov/item/87692408/"
+  ],
+  "dct_issued_s": "1986",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8340/g8340/ct002910.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87692408/\"}",
+  "dct_spatial_sm": [
+    "eritrea"
+  ],
+  "dct_subject_sm": [
+    "Eritrea",
+    "Eritrea--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "dct_title_s": "Eritrea",
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87692408",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

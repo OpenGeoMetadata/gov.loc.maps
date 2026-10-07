@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"41.\"",
+    "\"Entered according to Act of Congress, in the year 1868, by A.J. Johnson ... New York.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Johnson, A. J. (Alvin Jewett), 1827-1884",
+    "DCP",
+    "LC copy darkened, fold-lined, torn, missing small interior sections, and mounted on cloth backing.",
+    "Publication statement: New York : A.J. Johnson, [1868]",
+    "Shows block numbers, wards, and streetcar lines.",
+    "Shows block numbers, wards, and streetcar lines. \"Entered according to Act of Congress, in the year 1868, by A.J. Johnson ... New York.\" \"41.\" Available also through the Library of Congress Web site as a raster image. LC copy darkened, fold-lined, torn, missing small interior sections, and mounted on cloth backing. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.wd000557",
+    "http://lccn.loc.gov/88693493",
+    "http://www.loc.gov/item/88693493/",
+    "http://www.loc.gov/resource/g3850.wd000557/",
+    "https://hdl.loc.gov/loc.gmd/g3850.wd000557",
+    "https://search.catalog.loc.gov/instances/7dc86a05-caca-55f3-b198-b47c204a588c",
+    "https://www.loc.gov/item/88693493/"
+  ],
+  "dct_issued_s": "1868",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/wd000557.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693493/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "georgetown",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Georgetown (Washington, D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Georgetown",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1868"
+  ],
+  "dct_title_s": "Johnson's Washington and Georgetown",
+  "gbl_dateRange_drsim": [
+    "[1868 TO 1868]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1868
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693493",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

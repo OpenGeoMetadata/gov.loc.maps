@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also available in print and online.",
+    "Contributors: Dutton, Dillon R.; Geological Survey (U.S.)",
+    "Includes bibliographical references.",
+    "Includes text, index map, ancillary map, and col. ill.",
+    "Publication statement: [Reston, Va.?] : U.S. Geological Survey ; Denver, CO : Information Services [distributor], 2007.",
+    "Relief shown by contours and spot heights.",
+    "System requirements: UNIX system-based or Linux workstation, Macintosh or compatible computer, or PC; CD-ROM drive; a color monitor that can display 256 colors (16.7 million recommended); Internet hookup; Adobe Acrobat Reader or similar software to read .pdf (Portable Document Format) files; and, for database access, ArcInfo 7.2.1-compatible GIS software.",
+    "System requirements: UNIX system-based or Linux workstation, Macintosh or compatible computer, or PC; CD-ROM drive; a color monitor that can display 256 colors (16.7 million recommended); Internet hookup; Adobe Acrobat Reader or similar software to read .pdf (Portable Document Format) files; and, for database access, ArcInfo 7.2.1-compatible GIS software. Relief shown by contours and spot heights. Title from title screen. Also available in print and online. Includes text, index map, ancillary map, and col. ill. Includes bibliographical references.",
+    "Title from title screen."
+  ],
+  "dct_identifier_sm": [
+    "http://bibpurl.oclc.org/web/24280",
+    "http://lccn.loc.gov/2009578383",
+    "http://purl.access.gpo.gov/GPO/LPS90090",
+    "http://www.loc.gov/item/2009578383/",
+    "https://www.loc.gov/item/2009578383/"
+  ],
+  "dct_issued_s": "2007",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2009578383/\"}",
+  "dct_spatial_sm": [
+    "hawaii",
+    "kilauea volcano"
+  ],
+  "dct_subject_sm": [
+    "Geology--Hawaii--Kilauea Volcano--Maps",
+    "Kilauea Volcano (Hawaii)--Databases"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_title_s": "Database for the geologic map of the summit region of Kilauea Volcano, Hawaii",
+  "gbl_dateRange_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009578383",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

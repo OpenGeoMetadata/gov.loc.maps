@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "2 copies Extra numbered pages: 205 1/2, 206 1/2. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 3820, 3880, 3990,4030 Available also through the Library of Congress Web site as a raster image. Conserved; 003273.94 1977 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Conserved; 003273.94 1977 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Contributors: Andreas, A. T. (Alfred Theodore), 1839-1900, publisher",
+    "Extra numbered pages: 205 1/2, 206 1/2.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 3820, 3880, 3990,4030",
+    "Publication statement: Chicago, A. T. Andreas, 1874."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4144a.pm003820",
+    "http://hdl.loc.gov/loc.gmd/g4144g.pm003880",
+    "http://hdl.loc.gov/loc.gmd/g4144p.pm004030",
+    "http://lccn.loc.gov/01017516",
+    "http://www.loc.gov/item/01017516/",
+    "http://www.loc.gov/resource/g4144a.pm003820/",
+    "http://www.loc.gov/resource/g4144g.pm003880/",
+    "http://www.loc.gov/resource/g4144p.pm004030/",
+    "https://hdl.loc.gov/loc.gmd/g4144a.pm003820",
+    "https://hdl.loc.gov/loc.gmd/g4144g.pm003880",
+    "https://hdl.loc.gov/loc.gmd/g4144p.pm004030",
+    "https://search.catalog.loc.gov/instances/ba9cf814-ef3e-5a07-9509-e77dfa6adb2b",
+    "https://www.loc.gov/item/01017516/"
+  ],
+  "dct_issued_s": "1874",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd414/g4144/g4144a/pm003820.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/01017516/\"}",
+  "dct_spatial_sm": [
+    "appleton",
+    "granite falls",
+    "minnesota",
+    "montevideo",
+    "preston",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Minnesota--Maps",
+    "United States--Minnesota--Appleton",
+    "United States--Minnesota--Granite Falls",
+    "United States--Minnesota--Montevideo",
+    "United States--Minnesota--Preston"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "dct_title_s": "An illustrated historical atlas of the state of Minnesota",
+  "gbl_dateRange_drsim": [
+    "[1874 TO 1874]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1874
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-01017516",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

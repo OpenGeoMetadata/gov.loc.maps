@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Scale 1:1,700,000\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Aminof, Baron Creator.; O'Donovan, Edmund, 1844-1883 Contributor.; Royal Geographical Society (Great Britain) Associated Name.; Weller, Edward, died 1884 Lithographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 2 maps on 1 sheet ; 24 x 41 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1883.",
+    "The year 1883 falls between two critical events in the Russian conquest of Central Asia: The sack of Geok Tepe (present-day Gökdepe) in 1881, and the conquest of Merv (present-day Mary) in 1884. This 1883 map depicts roads, rivers, and topographic information relating to the region adjacent to the Tejend (or Tejen) oasis as well as the Merv oasis, some 130 kilometers to the east. Geok Tepe and the nearby city of Ashgabat do not fall within the confines of the map (lying approximately 325 kilometers to the east of Merv). Subsequent to the campaign against Geok Tepe and prior to its annexation of Merv, Russia claimed control over the sparsely populated Tejend oasis area. Some of the survivors of the massacre that followed the conquest of Geok Tepe had found their way to the Tejend area and were living in the previously uninhabited oasis. In contrast to the conquest of Geok Tepe, the conquest of Merv was based on a ruse, rather than heavy fighting. It was aided by a native of Dagestan (Daghestan in Persian), a certain Lieutenant Alikhanov. Alikhanov, whose survey data from Tejend are included in the present map, posed as a merchant, and initiated a trading agreement with Merv. In early 1884, he managed to secure the capitulation of the oasis through oratory and warnings about heavy Russian reprisals in the event of resistance on the part of the local population. Other cartographic details included in the map were gathered by Lieutenant Colonel Baron Aminof, Lieutenant Visheslaftsef, and Mr. Edmond O'Donovan. The distance scales are given in miles and versts. The map was lithographed by Edward Weller and published in the Proceedings of the Royal Geographical Society in 1883.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668607",
+    "http://www.loc.gov/item/2021668607/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15031/",
+    "http://www.loc.gov/resource/wdl.15031/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15031",
+    "https://www.loc.gov/item/2021668607/"
+  ],
+  "dct_issued_s": "1883-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15031.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/03/1/wdl_15031/wdl_15031.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:1:wdl_15031:am004721/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668607/\"}",
+  "dct_spatial_sm": [
+    "afghanistan",
+    "turkmenistan",
+    "uzbekistan"
+  ],
+  "dct_subject_sm": [
+    "1883",
+    "Afghanistan",
+    "Expeditions and surveys",
+    "Hari Rud (Afghanistan)",
+    "Library of Congress Afghanistan Project",
+    "Murgab River (Afghanistan and Turkmenistan)",
+    "Turkmenistan",
+    "Uzbekistan"
+  ],
+  "dct_temporal_sm": [
+    "1883-01-01"
+  ],
+  "dct_title_s": "Sketch Map of the Country between the Hari Rud and Murghab River. The Tejend Oasis and Roads to Merv.",
+  "gbl_dateRange_drsim": [
+    "[1883 TO 1883]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1883
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668607",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Reinecke, J. C. M. (Johann Christoph Matthias), 1770-1818",
+    "LC Copy 2 has ms. grid over northern Africa.",
+    "Publication statement: Weimar : Geograph. Instituts, 1804.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows political divisions. LC Copy 2 has ms. grid over northern Africa. Available also through the Library of Congress Web site as a raster image.",
+    "Shows political divisions."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8200.ct002740",
+    "http://lccn.loc.gov/2010587000",
+    "http://www.loc.gov/item/2010587000/",
+    "http://www.loc.gov/resource/g8200.ct002740/",
+    "https://hdl.loc.gov/loc.gmd/g8200.ct002740",
+    "https://search.catalog.loc.gov/instances/e387d237-3dac-540c-8cc0-2c602df26293",
+    "https://www.loc.gov/item/2010587000/"
+  ],
+  "dct_issued_s": "1804",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8200/g8200/ct002740.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010587000/\"}",
+  "dct_spatial_sm": [
+    "africa"
+  ],
+  "dct_subject_sm": [
+    "Africa",
+    "Africa--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1804"
+  ],
+  "dct_title_s": "Charte von Africa : nach den neuesten astronomischen Beobachtungen und Reisen berichtiget und gezeichnet",
+  "gbl_dateRange_drsim": [
+    "[1804 TO 1804]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1804
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010587000",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,48 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This late-19th century British map shows Basutoland, as the present-day Kingdom of Lesotho then was known. A local chief, Moshoeshoe (circa 1786-1870), laid the basis for modern Lesotho in the 1820s and 1830s by uniting the clans of the small, mountainous country to resist external invaders. Sometime in the 1830s, he became King Moshoeshoe I. After repeated clashes with the South African Boers over land, Mosheoshoe appealed to the British for assistance. In 1868, his kingdom was placed under British protection. In 1871, the protectorate was annexed to the Cape Colony, and for a time it was ruled from Cape Town. In 1884, Basutoland became a crown colony of the British Empire. It achieved independence as the Kingdom of Lesotho on October 4, 1966.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Royal Geographical Society (Great Britain); Weller, Edward, -1884",
+    "Publication statement: [London] : Royal Geographical Society, [187-?]",
+    "Relief shown by hachures.",
+    "Shows unidentified route."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8580.ct002362",
+    "http://lccn.loc.gov/98681209",
+    "http://www.loc.gov/item/98681209/",
+    "http://www.loc.gov/resource/g8580.ct002362/",
+    "https://hdl.loc.gov/loc.gmd/g8580.ct002362",
+    "https://search.catalog.loc.gov/instances/6e4497cd-a630-59cc-b64f-6ee155ff2f06",
+    "https://www.loc.gov/item/98681209/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8580/g8580/ct002362.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98681209/\"}",
+  "dct_spatial_sm": [
+    "lesotho"
+  ],
+  "dct_subject_sm": [
+    "Lesotho",
+    "Lesotho--Maps"
+  ],
+  "dct_temporal_sm": [
+    "187?"
+  ],
+  "dct_title_s": "Basutoland",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98681209",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

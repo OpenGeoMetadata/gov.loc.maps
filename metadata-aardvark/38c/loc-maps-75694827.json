@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 710",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 610 Available also through the Library of Congress Web site as a raster image. AACR2: 100; 710",
+    "Contributors: Burleigh Litho; Burleigh, L. R., 1853-1923",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 610",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Troy, N.Y. [1888?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804o.pm006100",
+    "http://lccn.loc.gov/75694827",
+    "http://www.loc.gov/item/75694827/",
+    "http://www.loc.gov/resource/g3804o.pm006100/",
+    "https://hdl.loc.gov/loc.gmd/g3804o.pm006100",
+    "https://search.catalog.loc.gov/instances/8afb3a83-dc76-5e53-a137-e394963b1769",
+    "https://www.loc.gov/item/75694827/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804o/pm006100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694827/\"}",
+  "dct_spatial_sm": [
+    "chenango county",
+    "new york",
+    "new york (state)",
+    "oxford",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Oxford (Chenango County, N.Y.)",
+    "United States--New York (State)--Oxford"
+  ],
+  "dct_temporal_sm": [
+    "1888",
+    "Troy, N.Y. [1888?]"
+  ],
+  "dct_title_s": "Oxford, N.Y.",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694827",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

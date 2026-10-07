@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Götze, F. (Ferdinand)",
+    "Minimal level cataloging record.",
+    "On map: Das Schwarze Meer, Pontus Euxinus der Alten, Mauro Thalassa Neugriechisch, Karadegniz Türkisch, Czarne More Russisch u Pohlnisch, Mare Niagra Moldau Walach.",
+    "Publication statement: Weimar: Im Verlage des Geograph. Instituts, 1804.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. On map: Das Schwarze Meer, Pontus Euxinus der Alten, Mauro Thalassa Neugriechisch, Karadegniz Türkisch, Czarne More Russisch u Pohlnisch, Mare Niagra Moldau Walach. Minimal level cataloging record. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2010589735",
+    "http://www.loc.gov/item/2010589735/",
+    "http://www.loc.gov/resource/g5692b.hl000029/",
+    "https://hdl.loc.gov/loc.gmd/g5692b.hl000029",
+    "https://search.catalog.loc.gov/instances/cac98f9f-6714-5b20-8fa3-4155ec3b3930",
+    "https://www.loc.gov/item/2010589735/"
+  ],
+  "dct_issued_s": "1804",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5692/g5692b/hl000029.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010589735/\"}",
+  "dct_spatial_sm": [
+    "black sea region"
+  ],
+  "dct_subject_sm": [
+    "Black Sea Region",
+    "Black Sea Region--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1804"
+  ],
+  "dct_title_s": "Charte des Schwarzen-Meeres : nach Murdochischer projection entworfen und nach den neuesten astronomischen Ortsbestimmungen berichtiget auf der Sternwarte Seeberg by Gotha",
+  "gbl_dateRange_drsim": [
+    "[1804 TO 1804]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1804
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010589735",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

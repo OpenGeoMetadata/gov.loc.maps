@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cloth backing.",
+    "Covers the area bounded by 1st St. east, A St. south, A St. north, and the Capitol.",
+    "Covers the area bounded by 1st St. east, A St. south, A St. north, and the Capitol. Relief shown by spot heights. Pen-and-ink. Oriented with north to the left. Cloth backing. Includes notes. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 82 Vault DCP",
+    "DCP",
+    "Includes notes.",
+    "Oriented with north to the left.",
+    "Pen-and-ink.",
+    "Phillips. Washington 82",
+    "Publication statement: [18--]",
+    "Relief shown by spot heights.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3752u.ct006232",
+    "http://lccn.loc.gov/88690762",
+    "http://www.loc.gov/item/88690762/",
+    "http://www.loc.gov/resource/g3752u.ct006232/",
+    "https://hdl.loc.gov/loc.gmd/g3752u.ct006232",
+    "https://search.catalog.loc.gov/instances/19adc3d4-607c-505f-b32f-0559d1a1a33f",
+    "https://www.loc.gov/item/88690762/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3752/g3752u/ct006232.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690762/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "United States Capitol (Washington, D.C.)--Maps, Manuscript",
+    "United States Capitol (Washington, D.C.)--Surveys--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[18--]"
+  ],
+  "dct_title_s": "[Survey map of part of the Capitol grounds, Washington D.C.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690762",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

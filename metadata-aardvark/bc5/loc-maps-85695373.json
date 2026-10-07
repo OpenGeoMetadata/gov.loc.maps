@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"4R-39,118.\"",
+    "\"March 1985.\"",
+    "\"March 1985.\" Includes notes. \"4R-39,118.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); United States. Soil Conservation Service",
+    "Includes notes.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS ; [Somerset, N.J. : State Conservationist, distributor], 1985."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3813o.ct006881",
+    "http://lccn.loc.gov/85695373",
+    "http://www.loc.gov/item/85695373/",
+    "http://www.loc.gov/resource/g3813o.ct006881/",
+    "https://hdl.loc.gov/loc.gmd/g3813o.ct006881",
+    "https://search.catalog.loc.gov/instances/973abedc-3eda-5fdf-8653-137bd427626a",
+    "https://www.loc.gov/item/85695373/"
+  ],
+  "dct_issued_s": "1985",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3813/g3813o/ct006881.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85695373/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "ocean county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ocean County (N.J.)--Maps",
+    "United States--New Jersey--Ocean County"
+  ],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "dct_title_s": "Ocean County, New Jersey",
+  "gbl_dateRange_drsim": [
+    "[1985 TO 1985]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85695373",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Longitude occidentale du méridien de Paris.\"",
+    "\"Tome I, no. 82.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: [Bellin, Jacques Nicolas] 1703-1772",
+    "From the author's Le petit atlas maritime. 1764.",
+    "LC Maps of North America, 1750-1789, 1966",
+    "Publication statement: [Paris, 1764]",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Relief shown pictorially. Depths shown by soundings. \"Longitude occidentale du méridien de Paris.\" \"Tome I, no. 82.\" From the author's Le petit atlas maritime. 1764. Scale ca. 1:1,250,000. LC Maps of North America, 1750-1789, 1966 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:1,250,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/74691000",
+    "http://www.loc.gov/item/74691000/",
+    "http://www.loc.gov/resource/g5030.ar196600/",
+    "https://hdl.loc.gov/loc.gmd/g5030.ar196600",
+    "https://search.catalog.loc.gov/instances/5c989cb7-a8ac-50f3-8a11-38c75055d7eb",
+    "https://www.loc.gov/item/74691000/"
+  ],
+  "dct_issued_s": "1764",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5030/g5030/ar196600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74691000/\"}",
+  "dct_spatial_sm": [
+    "federation",
+    "leeward islands",
+    "leeward islands (federation)"
+  ],
+  "dct_subject_sm": [
+    "Leeward Islands (Federation)",
+    "Leeward Islands (Federation)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "dct_title_s": "Petites Antilles ou Isles du Vent 3e. partie",
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1764
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74691000",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

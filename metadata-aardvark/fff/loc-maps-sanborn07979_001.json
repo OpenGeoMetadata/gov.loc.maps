@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "7 sheet(s).",
+    "Oct 1908.",
+    "Other places as they appear on original: Telford, Bucks Co."
+  ],
+  "dct_identifier_sm": [
+    "https://www.loc.gov/item/sanborn07979_001/"
+  ],
+  "dct_issued_s": "1908-10",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn07979_001/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382m/g3824m/g3824sm/g3824sm_g079791908/07979_1908-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn07979_001/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "Bucks County",
+    "Montgomery County",
+    "Pennsylvania",
+    "Souderton",
+    "Telford",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1908-10"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Souderton, Montgomery County, Pennsylvania.",
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1908]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete.",
+    "Catalog access is public. Item-level access restrictions have not been refreshed since the historical package; consult the LOC catalog for current access."
+  ],
+  "gbl_indexYear_im": [
+    1908
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn07979_001",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

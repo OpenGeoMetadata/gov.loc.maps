@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: gómez leal, arturo; modelski, andrew m."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi89105600/",
+    "https://www.loc.gov/item/hlas-bi89105600/"
+  ],
+  "dct_issued_s": "1986",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "El Autor,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi89105600/\"}",
+  "dct_spatial_sm": [
+    "mexico"
+  ],
+  "dct_subject_sm": [
+    "geography",
+    "maps and cartography",
+    "monterrey, mexico (city)",
+    "monterrey, mexico (city) -- geography",
+    "monterrey, mexico (city) -- maps and cartography"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "dct_title_s": "Plano y guía de Monterrey, México",
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi89105600",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

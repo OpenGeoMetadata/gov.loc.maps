@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Oregon Railway and Navigation Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 509",
+    "Publication statement: New York, c1880.",
+    "Scale ca. 1:1,000,000.",
+    "Shows relief by hachures, drainage, cities and towns, township and county boundaries, Indian reservations, ocean routes, and railroads with emphasis on the main lines."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4291p.rr005090",
+    "http://lccn.loc.gov/98688755",
+    "http://www.loc.gov/item/98688755/",
+    "http://www.loc.gov/resource/g4291p.rr005090/",
+    "https://hdl.loc.gov/loc.gmd/g4291p.rr005090",
+    "https://search.catalog.loc.gov/instances/375a401c-1c45-5b29-9209-e3ac1108a909",
+    "https://www.loc.gov/item/98688755/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd429/g4291/g4291p/rr005090.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688755/\"}",
+  "dct_spatial_sm": [
+    "oregon",
+    "united states",
+    "washington",
+    "washington (state)"
+  ],
+  "dct_subject_sm": [
+    "Oregon Railway and Navigation Company--Maps",
+    "Railroads--Oregon--Maps",
+    "Railroads--Washington (State)--Maps",
+    "United States--Oregon",
+    "United States--Washington (State)"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Colton's township map of Oregon & Washington Territory, issued by the Oregon Railway and Navigation Co",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688755",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

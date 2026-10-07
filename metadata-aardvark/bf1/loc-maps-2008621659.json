@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"C. J. Canda, S. J. Drake & W. Strauss, proprietors of the lands heretofore belonging to the Texas & Pacific Ry. Co. Address: W. H. Abrams, general agent, Dallas, Txs.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Stakemann, M.",
+    "LC Land ownership maps, 1068",
+    "Publication statement: [S.l. : s.n.], 1894.",
+    "Shows landownership.",
+    "Shows landownership. \"C. J. Canda, S. J. Drake & W. Strauss, proprietors of the lands heretofore belonging to the Texas & Pacific Ry. Co. Address: W. H. Abrams, general agent, Dallas, Txs.\" LC Land ownership maps, 1068 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033m.la001068",
+    "http://lccn.loc.gov/2008621659",
+    "http://www.loc.gov/item/2008621659/",
+    "http://www.loc.gov/resource/g4033m.la001068/",
+    "https://hdl.loc.gov/loc.gmd/g4033m.la001068",
+    "https://search.catalog.loc.gov/instances/ba67e32f-1e53-5470-b8b6-0d0caca392fe",
+    "https://www.loc.gov/item/2008621659/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033m/la001068.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008621659/\"}",
+  "dct_spatial_sm": [
+    "martin county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Texas--Martin County--Maps",
+    "Martin County (Tex.)--Maps",
+    "United States--Texas--Martin County"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "Map of Martin County, Texas",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008621659",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

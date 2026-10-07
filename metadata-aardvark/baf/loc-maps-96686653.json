@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 92-2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bourgoin, P.",
+    "Prime meridian: Ferro.",
+    "Publication statement: Paris : Chez Bourgoin, [1766?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Prime meridian: Ferro. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 92-2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ct007431",
+    "http://lccn.loc.gov/96686653",
+    "http://www.loc.gov/item/96686653/",
+    "http://www.loc.gov/resource/g3300.ct007431/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ct007431",
+    "https://search.catalog.loc.gov/instances/a46eea09-5594-5726-82b9-32c6d37466fb",
+    "https://www.loc.gov/item/96686653/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ct007431.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96686653/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "North America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1766",
+    "Paris : Chez Bourgoin, [1766?]"
+  ],
+  "dct_title_s": "Carte de l'Amerique Septentrionale",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96686653",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

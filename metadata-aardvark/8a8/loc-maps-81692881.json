@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Harris, John, active 1680-1739 or 1740; Holme, Thomas, -1695; Lea, Philip, active 1683-1700",
+    "First issue.",
+    "Includes indexes of landholders, inset of \"The city of Philadelphia, two miles in length and one in breadth,\" and coat of arms.",
+    "LAC scc 2019-07-10 update (1 card)",
+    "Publication statement: [London] : Sold by P. Lea at ye Atlas and Hercules in Cheapside, [1687?]",
+    "Shows rural landholders' names and lots in Philadelphia, Chester, and Bucks Counties.",
+    "Shows rural landholders' names and lots in Philadelphia, Chester, and Bucks Counties. First issue. Includes indexes of landholders, inset of \"The city of Philadelphia, two miles in length and one in breadth,\" and coat of arms. Available also through the Library of Congress Web site as a raster image. Vault LAC scc 2019-07-10 update (1 card)",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3820.ct004135",
+    "http://lccn.loc.gov/81692881",
+    "http://www.loc.gov/item/81692881/",
+    "http://www.loc.gov/resource/g3820.ct004135/",
+    "https://hdl.loc.gov/loc.gmd/g3820.ct004135",
+    "https://search.catalog.loc.gov/instances/6d9f04a5-1264-5833-b6a5-183bfef54cbc",
+    "https://www.loc.gov/item/81692881/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3820/g3820/ct004135.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81692881/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "philadelphia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Pennsylvania--Maps--Early works to 1800",
+    "Landowners--Pennsylvania--Philadelphia--Maps--Early works to 1800",
+    "Pennsylvania--Administrative and political divisions--Maps--Early works to 1800",
+    "Pennsylvania--Maps--Early works to 1800",
+    "Philadelphia (Pa.)--Administrative and political divisions--Maps--Early works to 1800",
+    "Philadelphia (Pa.)--Maps--Early works to 1800",
+    "Real property--Pennsylvania--Maps--Early works to 1800",
+    "Real property--Pennsylvania--Philadelphia--Maps--Early works to 1800",
+    "United States--Pennsylvania",
+    "United States--Pennsylvania--Philadelphia"
+  ],
+  "dct_temporal_sm": [
+    "1687",
+    "[London] : Sold by P. Lea at ye Atlas and Hercules in Cheapside, [1687?]"
+  ],
+  "dct_title_s": "A mapp of ye improved part of Pensilvania in America, divided into countyes, townships, and lotts",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81692881",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

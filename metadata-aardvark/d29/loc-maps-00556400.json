@@ -1,0 +1,46 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Stockdale, John, 1749?-1814",
+    "Publication statement: [S.l., between 1770 and 1814]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8960.ct000507",
+    "http://lccn.loc.gov/00556400",
+    "http://www.loc.gov/item/00556400/",
+    "http://www.loc.gov/resource/g8960.ct000507/",
+    "https://hdl.loc.gov/loc.gmd/g8960.ct000507",
+    "https://search.catalog.loc.gov/instances/a67e0ade-6c61-55b9-a98a-c0cde2669920",
+    "https://www.loc.gov/item/00556400/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8960/g8960/ct000507.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00556400/\"}",
+  "dct_spatial_sm": [
+    "australia"
+  ],
+  "dct_subject_sm": [
+    "Australia",
+    "Australia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1767",
+    "[S.l., between 1770 and 1814]"
+  ],
+  "dct_title_s": "A new chart of New Holland on which are delineated New South Wale, and a plan for Botany Bay",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00556400",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Maps of North America, 1750-1789, 891",
+    "Publication statement: [London, 1775]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Shows area from Cape Ann to the Connecticut River and from northern Connecticut River and from northern Connecticut and Rhode Island to Kittery and York in Maine. Scale ca. 1:800,000. LC Maps of North America, 1750-1789, 891 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:800,000.",
+    "Shows area from Cape Ann to the Connecticut River and from northern Connecticut River and from northern Connecticut and Rhode Island to Kittery and York in Maine.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.ar089100",
+    "http://hdl.loc.gov/loc.gmd/g3764b.ar089101",
+    "http://hdl.loc.gov/loc.gmd/g3764b.ar089102",
+    "http://lccn.loc.gov/gm71005471",
+    "http://www.loc.gov/item/gm71005471/",
+    "http://www.loc.gov/resource/g3764b.ar089100/",
+    "http://www.loc.gov/resource/g3764b.ar089101/",
+    "http://www.loc.gov/resource/g3764b.ar089102/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ar089100",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ar089101",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ar089102",
+    "https://search.catalog.loc.gov/instances/fc9b4403-9139-5fec-8ba0-cb9af52bdea7",
+    "https://www.loc.gov/item/gm71005471/"
+  ],
+  "dct_issued_s": "1775",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/ar089100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005471/\"}",
+  "dct_spatial_sm": [
+    "boston region",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston Region (Mass.)--Maps--Early works to 1800",
+    "Massachusetts--Maps--Early works to 1800",
+    "United States--Massachusetts",
+    "United States--Massachusetts--Boston Region"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_title_s": "A Map of 100 miles round Boston",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005471",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

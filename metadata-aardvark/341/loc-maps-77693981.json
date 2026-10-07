@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Published for the use of the Royal Navy of Great Britain ... by Jos. F. W. Des Barres Esq, MDCCLXXVIII.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824",
+    "Includes notes.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 210",
+    "Publication statement: [London] 1779.",
+    "Relief shown by shading. Soundings in fathoms.",
+    "Relief shown by shading. Soundings in fathoms. Shows tidal depths and bottom conditions. \"Published for the use of the Royal Navy of Great Britain ... by Jos. F. W. Des Barres Esq, MDCCLXXVIII.\" Includes notes. Scale ca. 1:2,000,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 210 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:2,000,000.",
+    "Shows tidal depths and bottom conditions.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3321p.ar021000",
+    "http://lccn.loc.gov/77693981",
+    "http://www.loc.gov/item/77693981/",
+    "http://www.loc.gov/resource/g3321p.ar021000/",
+    "https://hdl.loc.gov/loc.gmd/g3321p.ar021000",
+    "https://search.catalog.loc.gov/instances/05755b1d-c06d-59a7-93c9-696564ba702b",
+    "https://www.loc.gov/item/77693981/"
+  ],
+  "dct_issued_s": "1779",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3321/g3321p/ar021000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77693981/\"}",
+  "dct_spatial_sm": [
+    "atlantic coast",
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "Atlantic Coast (North America)",
+    "Nautical charts--Atlantic Coast (North America)",
+    "North America--Atlantic Coast"
+  ],
+  "dct_temporal_sm": [
+    "1779"
+  ],
+  "dct_title_s": "The Coast of Nova Scotia, New England, New York, Jersey, the Gulph and River of St. Lawrence, the islands of Newfoundland, Cape Breton, St. John, Antecosty, Sable, &c, and soundings thereof",
+  "gbl_dateRange_drsim": [
+    "[1779 TO 1779]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1779
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77693981",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

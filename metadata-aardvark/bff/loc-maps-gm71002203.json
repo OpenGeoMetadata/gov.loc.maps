@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Centered on the Hudson River and New York Bay from Sandy Hook to Haverstraw.",
+    "Contributors: Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824",
+    "Hand colored.",
+    "Hand colored. Relief shown by hachures and shading. Depths shown by soundings. Centered on the Hudson River and New York Bay from Sandy Hook to Haverstraw. Includes index entitled \"References.\" Scale ca. 1:130,000. LC Maps of North America, 1750-1789, 1057 Available also through the Library of Congress Web site as a raster image. LC copy annotated changing publication date to 1778, showing additional shoals in red ink, and showing colored buildings and troop symbols. LC copy imperfect: Portion of publication statement in lower right corner missing. Vault AACR2",
+    "Includes index entitled \"References.\"",
+    "LC Maps of North America, 1750-1789, 1057",
+    "LC copy annotated changing publication date to 1778, showing additional shoals in red ink, and showing colored buildings and troop symbols.",
+    "LC copy imperfect: Portion of publication statement in lower right corner missing.",
+    "Publication statement: [London] J. F. W. D[es Barres, 1777]",
+    "Relief shown by hachures and shading. Depths shown by soundings.",
+    "Scale ca. 1:130,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3801s.ar105700",
+    "http://lccn.loc.gov/gm71002203",
+    "http://www.loc.gov/item/gm71002203/",
+    "http://www.loc.gov/resource/g3801s.ar105700/",
+    "https://hdl.loc.gov/loc.gmd/g3801s.ar105700",
+    "https://search.catalog.loc.gov/instances/be7fa902-72af-59fc-b6a0-6c7d613956f5",
+    "https://www.loc.gov/item/gm71002203/"
+  ],
+  "dct_issued_s": "1777",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3801/g3801s/ar105700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002203/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Jersey--History--Revolution, 1775-1783--Maps--Early works to 1800",
+    "New York (State)--History--Revolution, 1775-1783--Maps--Early works to 1800",
+    "United States--New Jersey",
+    "United States--New York (State)"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "dct_title_s": "A sketch of the operations of His Majesty's fleet and army under the command of Vice Admiral the Rt. Hble. Lord Viscount Howe and Genl. Sr. Wm. Howe, K.B., in 1776",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002203",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

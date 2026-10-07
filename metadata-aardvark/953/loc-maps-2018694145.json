@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Почвенная карта юго-восточной части Западной Сибири"
+  ],
+  "dct_description_sm": [
+    "Original map at: Russian State Library",
+    "Publication statement: Moscow, Russia : Glavnoe upravlenie geodezii i kartografii, 1977.",
+    "The map shows the soil on the plains in 45 gradations, in the mountains in 15 gradations and mountain basins in 7 gradations. Glaciers and snow-caps are also noted.",
+    "The map shows the soil on the plains in 45 gradations, in the mountains in 15 gradations and mountain basins in 7 gradations. Glaciers and snow-caps are also noted. Original map at: Russian State Library"
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694145",
+    "http://www.loc.gov/item/2018694145/",
+    "http://www.loc.gov/resource/gdc.2018694145/",
+    "https://hdl.loc.gov/loc.gdc/gdclccn.2018694145",
+    "https://search.catalog.loc.gov/instances/8940ac4e-53ea-5124-a4cb-988afdeb6e03",
+    "https://www.loc.gov/item/2018694145/"
+  ],
+  "dct_issued_s": "1977",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694145.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694145/2018694145.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694145:smf0083/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694145/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_title_s": "Pochvennai︠a︡ karta i︠u︡go-vostochnoĭ chasti Zapadnoĭ Sibiri",
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694145",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

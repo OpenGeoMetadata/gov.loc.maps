@@ -1,0 +1,94 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "bersichts-Karte Von Arabien : Zu C. Ritter's Erdkunde Buch III, West-Asien, Theil XII, XIII"
+  ],
+  "dct_description_sm": [
+    "\"Scale 1:6 000 000\"--Note extracted from World Digital Library.",
+    "Content in Arabic and German.",
+    "Contributors: Kiepert, Heinrich, 1818-1899 Creator.; Mahlmann, Heinrich, 1812-1848 Lithographer.; Ritter, Carl, 1779-1859 Contributor.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "German geographer and cartographer Heinrich Kiepert (1818--99) is generally regarded as one of the most important scholarly cartographers of the second half of the 19th century. He was head of the Geographical Institute in Weimar between 1845 and 1852 and professor at the University of Berlin from 1852 until his death. Shown here is Kiepert's 1852 map of Arabia. As indicated in the title, it is based on \"C. Ritter's geography book.\" The latter refers to Die Erdkunde im Verhältnis zur Natur und zur Geschichte des Menschen (Geography in relationship to nature and to the history of humanity), the pioneering 23-volume work of scientific geography published between 1822 and 1859 by the German geographer Carl Georg Ritter (1779-1859). The map contains a wealth of geographic and historical information, including pilgrimage (hajj) routes, the routes in northern Arabia of the explorers George Forster Sadlier (1819) and Georg August Wallin (1848), and explanations in German of Arabic geographic expressions, with abbreviations. At the lower left is an inset map of Oman, which provides much detail, including the routes taken by French naturalist Pierre-Martin-Rémi Aucher-Eloy and East India Company naval officer James Raymond Wellsted. The map was lithographed by the firm of Heinrich Mahlmann (1812-48) and published by Dietrich Reimer, with whom Kiepert had a long association.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map : lithograph ; 47 x 36 centimeters.",
+    "Publication statement: Berlin : Dietrich Reimer, 1852.",
+    "Reference extracted from World Digital Library: \"The Maps of Heinrich Kiepert,\" http://www.lib.uchicago.edu/e/collections/maps/kiepert/.|Uta Lindgren, \"Carl Georg Ritter,\" Allgemeine Deutsche Biographie.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668546",
+    "http://www.loc.gov/item/2021668546/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_12888/",
+    "http://www.loc.gov/resource/wdl.12888/",
+    "https://hdl.loc.gov/loc.wdl/wdl.12888",
+    "https://www.loc.gov/item/2021668546/"
+  ],
+  "dct_issued_s": "1852-01-01",
+  "dct_language_sm": [
+    "ara",
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_12888.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/12/88/8/wdl_12888/wdl_12888.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:12:88:8:wdl_12888:ocn163161413/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668546/\"}",
+  "dct_spatial_sm": [
+    "bahrain",
+    "egypt",
+    "eritrea",
+    "iraq",
+    "kuwait",
+    "oman",
+    "qatar",
+    "saudi arabia",
+    "sudan",
+    "united arab emirates",
+    "yemen"
+  ],
+  "dct_subject_sm": [
+    "1852",
+    "Arabian Gulf",
+    "Arabian Peninsula",
+    "Aucher-Eloy, Pierre-Martin-Rémi, 1793-1838",
+    "Bahrain",
+    "Description and travel",
+    "Egypt",
+    "Eritrea",
+    "Expeditions and surveys",
+    "Explorers",
+    "Iraq",
+    "Kuwait",
+    "Oman",
+    "Persian Gulf",
+    "Qatar",
+    "Red Sea",
+    "Sadlier, George Forster, 1789-1859",
+    "Saudi Arabia",
+    "Sudan",
+    "United Arab Emirates",
+    "Wallin, Georg August, 1811-1852",
+    "Wellsted, J. R. (James Raymond), 1805-1842",
+    "Yemen"
+  ],
+  "dct_temporal_sm": [
+    "1852-01-01"
+  ],
+  "dct_title_s": "Overview Map of Arabia. Based on C. Ritter's Geography Book III, West Asia, Parts XII-XIII.",
+  "gbl_dateRange_drsim": [
+    "[1852 TO 1852]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1852
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668546",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

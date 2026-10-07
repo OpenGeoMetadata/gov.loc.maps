@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Natural color image mosaics of Afghanistan"
+  ],
+  "dct_description_sm": [
+    "\"The 50 tiled images in this dataset are natural-color renditions of the calibrated six-band Landsat mosaics created from Landsat Enhanced Thematic Mapper Plus (ETM+) data\" -- DVD-ROM insert.",
+    "Also available via Internet from the USGS web site. Address as of 8/22/07: http://pubs.usgs.gov/ds/2007/245/; current access via PURL.",
+    "Contributors: Davis, Philip A. (Philip Arthur), 1950-; Geological Survey (U.S.); Hare, Trent M.; United States. Agency for International Development.",
+    "On container: \"In cooperation with the U.S. Agency for International Development.\"",
+    "Publication statement: [Reston, VA] : U.S. Dept. of the Interior, U.S. Geological Survey, 2007.",
+    "Relief shown by shading.",
+    "System requirements: UNIX or Linux workstation, MacIntosh or IBM-compatible PC; CD-ROM drive; and 256 colors display monitor.",
+    "Title from disc label."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2009578389",
+    "http://purl.access.gpo.gov/GPO/LPS85216",
+    "http://www.loc.gov/item/2009578389/",
+    "https://www.loc.gov/item/2009578389/"
+  ],
+  "dct_issued_s": "2007",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2009578389/\"}",
+  "dct_spatial_sm": [
+    "afghanistan"
+  ],
+  "dct_subject_sm": [
+    "Afghanistan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_title_s": "Natural-color image mosaics of Afghanistan digital databases and maps",
+  "gbl_dateRange_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009578389",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Mappa totius mundi"
+  ],
+  "dct_description_sm": [
+    "Content in Latin.",
+    "Contributors: L'Isle, Guillaume de, 1675-1726 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: Hand-colored engraved map.",
+    "Publication statement: Augsburg, Germany : Tobias Conrad Lotter, 1775.",
+    "This late 18th-century Latin map of the world by the Augsburg map publisher Tobias Lotter (1717-77) is based on an earlier map by the French cartographer Guillaume de l'Isle (1675-1726). De l'Isle was among the group of French cartographers who wrested mapmaking preeminence from the Dutch in the late 17th century. De l'Isle was a child prodigy, having drawn his first map at age nine. He was trained in history and geography, as well as in mathematics and astronomy. He drew extensively on classical Arabic and Persian mapmakers and travel writers, and insisted on scientific precision in his design. In 1702, two years after the publication of his first atlas, he was elected a member of the Royal Academy of Science and in 1718 was appointed head royal geographer. Still uncharted at the time of this map's publication were the west coast of North America, the Arctic, and the eastern coast of Australia, which was known as New Holland. The map uses color tints and borders to demarcate divisions between the continents, as the sharp borders between Europe, Asia, and Africa highlight. In addition to mapping territory, de l'Isle's map presents voyages of exploration across the Pacific and Indian oceans.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668294",
+    "http://www.loc.gov/item/2021668294/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00007/",
+    "http://www.loc.gov/resource/wdl.7/",
+    "https://hdl.loc.gov/loc.wdl/wdl.7",
+    "https://www.loc.gov/item/2021668294/"
+  ],
+  "dct_issued_s": "1775-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00007.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/00/7/wdl_00007/wdl_00007.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:00:7:wdl_00007:cart30733/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668294/\"}",
+  "dct_subject_sm": [
+    "1775 to 1776",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1775-01-01"
+  ],
+  "dct_title_s": "Map of the World.",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668294",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

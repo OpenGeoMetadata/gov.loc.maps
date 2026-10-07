@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"August 1942.\"",
+    "\"August 1942.\" Oriented with north toward the upper right. Blue line print. \"Drawing number ST.30.\" Available also through the Library of Congress Web site as a raster image. DCP",
+    "\"Drawing number ST.30.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blue line print.",
+    "Contributors: United States. Public Roads Administration. Division of Design",
+    "DCP",
+    "Oriented with north toward the upper right.",
+    "Publication statement: [Washington, D.C.] : The Administration, [1943]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/89692632",
+    "http://www.loc.gov/item/89692632/",
+    "http://www.loc.gov/resource/g3882p.ct009150/",
+    "https://hdl.loc.gov/loc.gmd/g3882p.ct009150",
+    "https://search.catalog.loc.gov/instances/fdcf2c29-ce67-579e-90e9-bb08dc90631e",
+    "https://www.loc.gov/item/89692632/"
+  ],
+  "dct_issued_s": "1943",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882p/ct009150.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89692632/\"}",
+  "dct_spatial_sm": [
+    "pentagon region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Pentagon Region (Va.)--Maps",
+    "Roads--Virginia--Pentagon Region--Maps",
+    "United States--Virginia--Pentagon Region"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "dct_title_s": "War Department Building road network and nearby access road projects, Arlington, Va. and Washington, D.C.",
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1943]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89692632",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

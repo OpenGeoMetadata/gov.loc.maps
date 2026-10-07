@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"718527 (546077) 3-90.\"",
+    "\"718527 (546077) 3-90.\" Includes note. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes note.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1990]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6521f.ct001615",
+    "http://lccn.loc.gov/2005626523",
+    "http://www.loc.gov/item/2005626523/",
+    "http://www.loc.gov/resource/g6521f.ct001615/",
+    "https://hdl.loc.gov/loc.gmd/g6521f.ct001615",
+    "https://search.catalog.loc.gov/instances/733713cf-53b3-5b42-b1c8-e7af77e8e4df",
+    "https://www.loc.gov/item/2005626523/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6521/g6521f/ct001615.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005626523/\"}",
+  "dct_spatial_sm": [
+    "lithuania",
+    "poland"
+  ],
+  "dct_subject_sm": [
+    "Lithuania",
+    "Lithuania--Boundaries--History--Maps",
+    "Poland",
+    "Poland--Boundaries--History--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1937 d1990"
+  ],
+  "dct_title_s": "Polish and Lithuanian boundaries, 1937 and present",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005626523",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

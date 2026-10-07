@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"734538 (R00397) 1-95.\"",
+    "\"734538 (R00397) 1-95.\" Includes note and number-keyed legend. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes note and number-keyed legend.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1995]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7121e.ct002881",
+    "http://lccn.loc.gov/95680196",
+    "http://www.loc.gov/item/95680196/",
+    "http://www.loc.gov/resource/g7121e.ct002881/",
+    "https://hdl.loc.gov/loc.gmd/g7121e.ct002881",
+    "https://search.catalog.loc.gov/instances/6ba9e094-18ed-5dde-a759-ae3ecaa48f26",
+    "https://www.loc.gov/item/95680196/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7121/g7121e/ct002881.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95680196/\"}",
+  "dct_spatial_sm": [
+    "caucasus, northern",
+    "caucasus, south",
+    "northern caucasus",
+    "russia",
+    "russian federation",
+    "south caucasus",
+    "transcaucasia"
+  ],
+  "dct_subject_sm": [
+    "Caucasus, Northern (Russia)--Languages--Maps",
+    "Caucasus, South",
+    "Caucasus, South--Languages--Maps",
+    "Ethnology--Caucasus, South--Maps",
+    "Ethnology--Russia (Federation)--Caucasus, Northern--Maps",
+    "Russia--Caucasus, Northern",
+    "Transcaucasia"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Ethnolinguistic groups in the Caucasus region",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95680196",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

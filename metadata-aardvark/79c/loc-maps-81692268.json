@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from USGS quadrangle sheets and Oklahoma County general highway map.\"",
+    "\"May 1980 4-R-37447.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes text and location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1980.",
+    "Shows area benefited, drainage area controlled by structure, and floodwater retarding structure.",
+    "Shows area benefited, drainage area controlled by structure, and floodwater retarding structure. \"May 1980 4-R-37447.\" \"Base compiled from USGS quadrangle sheets and Oklahoma County general highway map.\" Includes text and location map. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81692268",
+    "http://www.loc.gov/item/81692268/",
+    "http://www.loc.gov/resource/g4022c.ct011188/",
+    "https://hdl.loc.gov/loc.gmd/g4022c.ct011188",
+    "https://search.catalog.loc.gov/instances/16bf9f02-07e7-5e46-af5f-64c42a13ea75",
+    "https://www.loc.gov/item/81692268/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4022/g4022c/ct011188.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81692268/\"}",
+  "dct_spatial_sm": [
+    "carney creek watershed",
+    "oklahoma",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Flood control--Oklahoma--Carney Creek watershed--Maps",
+    "United States--Oklahoma--Carney Creek watershed"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Project map, Carney Creek watershed, Choctaw County, Oklahoma",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81692268",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In pencil on verso: 327.",
+    "Includes inset of map entitled: Map showing the location of the 360 acres of land in Bath County, Va, scale 1:253,440.",
+    "LC Civil War maps (2nd ed.), H313",
+    "Pen-and-ink and watercolor, mounted on cloth.",
+    "Pen-and-ink and watercolor, mounted on cloth. Includes inset of map entitled: Map showing the location of the 360 acres of land in Bath County, Va, scale 1:253,440. In pencil on verso: 327. LC Civil War maps (2nd ed.), H313 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: [187-?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883b.cwh00313",
+    "http://lccn.loc.gov/2005625197",
+    "http://www.loc.gov/item/2005625197/",
+    "http://www.loc.gov/resource/g3883b.cwh00313/",
+    "https://hdl.loc.gov/loc.gmd/g3883b.cwh00313",
+    "https://search.catalog.loc.gov/instances/454c9b65-59ae-55df-84ef-872723f83ce3",
+    "https://www.loc.gov/item/2005625197/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883b/cwh00313.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625197/\"}",
+  "dct_spatial_sm": [
+    "bath county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Bath County (Va.)--Maps, Manuscript",
+    "Real property--Virginia--Bath County--Maps",
+    "United States--Virginia--Bath County"
+  ],
+  "dct_temporal_sm": [
+    "187?"
+  ],
+  "dct_title_s": "Map of 360 acres of land, lying in Bath County, Va., the property of W. Ramsey, Esq'r",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625197",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brion de la Tour, Louis, 1743-1803; Esnauts et Rapilly",
+    "Date of imprint advanced to 1779.",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Date of imprint advanced to 1779. Imperfect: upper right corner missing. Shows area from Quebec to Cape May and Oswego to Kennebec Bay. Scale ca. 1:1,200,000. LC Maps of North America, 1750-1789, 729 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651",
+    "Imperfect: upper right corner missing.",
+    "LC Maps of North America, 1750-1789, 729",
+    "Publication statement: Paris, Chez Esnauts et Rapilly, 1779.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:1,200,000.",
+    "Shows area from Quebec to Cape May and Oswego to Kennebec Bay.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3710.ar072900",
+    "http://lccn.loc.gov/gm71005473",
+    "http://www.loc.gov/item/gm71005473/",
+    "http://www.loc.gov/resource/g3710.ar072900/",
+    "https://hdl.loc.gov/loc.gmd/g3710.ar072900",
+    "https://search.catalog.loc.gov/instances/1f4460d9-f9fa-5da3-9a0f-d351ab77b363",
+    "https://www.loc.gov/item/gm71005473/"
+  ],
+  "dct_issued_s": "1779",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3710/g3710/ar072900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005473/\"}",
+  "dct_spatial_sm": [
+    "northeastern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Northeastern States--Maps--Early works to 1800",
+    "United States--Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1779"
+  ],
+  "dct_title_s": "Carte du théatre de la guerre entre les Anglais et les Américains: Dressée d'après les cartes anglaises les plus modernes,",
+  "gbl_dateRange_drsim": [
+    "[1779 TO 1779]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1779
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005473",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

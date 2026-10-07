@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress A.D. 1875 by F.W. Beer & Co. in the Office of the Librarian of Congress at Washington.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: F. W. Beer & Co; Hart, Charles, active 1870; Neumann, Louis E.",
+    "Includes business directories, distance table, insets of Sebewaing, Caseville, Port Hope, Verona, Rockfalls, Bayport, Huron Co., White Rock, Bad Axe, Grindstone City, Port Crescent, New River, Huron City, Port Austin, Sand Beach, Forest Bay, views of public, residential, and commercial properties.",
+    "LC Land ownership maps, 332",
+    "LC copy imperfect: Mounted on cloth backing, original sheets sectioned into 6 panels to enable folding.",
+    "Publication statement: N.Y. : Printed by Charles Hart; New York : F.W. Beer & Co., 1875.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. \"Entered according to Act of Congress A.D. 1875 by F.W. Beer & Co. in the Office of the Librarian of Congress at Washington.\" Includes business directories, distance table, insets of Sebewaing, Caseville, Port Hope, Verona, Rockfalls, Bayport, Huron Co., White Rock, Bad Axe, Grindstone City, Port Crescent, New River, Huron City, Port Austin, Sand Beach, Forest Bay, views of public, residential, and commercial properties. LC copy imperfect: Mounted on cloth backing, original sheets sectioned into 6 panels to enable folding. LC Land ownership maps, 332 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4113h.la000332",
+    "http://lccn.loc.gov/2012593148",
+    "http://www.loc.gov/item/2012593148/",
+    "http://www.loc.gov/resource/g4113h.la000332/",
+    "https://hdl.loc.gov/loc.gmd/g4113h.la000332",
+    "https://search.catalog.loc.gov/instances/b6bc1eab-4ae3-52e7-9149-92f7dce7dd22",
+    "https://www.loc.gov/item/2012593148/"
+  ],
+  "dct_issued_s": "1875",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd411/g4113/g4113h/la000332.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593148/\"}",
+  "dct_spatial_sm": [
+    "huron county",
+    "michigan",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Michigan--Huron County--Maps",
+    "Real property--Michigan--Huron County--Maps",
+    "United States--Michigan--Huron County"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "dct_title_s": "Topographic map of Huron Co., Michigan",
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1875
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593148",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

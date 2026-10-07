@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Book 1839, 40, last part, Octo'r 28th 1843.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral survey maps showing landowners' names.",
+    "Cadastral survey maps showing landowners' names. \"Book 1839, 40, last part, Octo'r 28th 1843.\" Title from verso. Pen-and-ink. Soiled, fold-lined, and missing edge sections. Two incomplete surveys maps in ink and lead pencil on verso. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 496 Vault DCP",
+    "Contributors: Taggart, Hugh T. (Hugh Thomas), 1844-1914",
+    "DCP",
+    "Pen-and-ink.",
+    "Phillips. Washington 496",
+    "Publication statement: 1843.",
+    "Soiled, fold-lined, and missing edge sections.",
+    "Title from verso.",
+    "Two incomplete surveys maps in ink and lead pencil on verso.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852g.la002238r",
+    "http://hdl.loc.gov/loc.gmd/g3852g.la002238v",
+    "http://lccn.loc.gov/88693301",
+    "http://www.loc.gov/item/88693301/",
+    "http://www.loc.gov/resource/g3852g.la002238r/",
+    "http://www.loc.gov/resource/g3852g.la002238v/",
+    "https://hdl.loc.gov/loc.gmd/g3852g.la002238r",
+    "https://hdl.loc.gov/loc.gmd/g3852g.la002238v",
+    "https://search.catalog.loc.gov/instances/db94c63c-83ae-509b-9e22-79407283ae9d",
+    "https://www.loc.gov/item/88693301/"
+  ],
+  "dct_issued_s": "1843",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852g/la002238r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693301/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "georgetown",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Davidson, John,--active 19th century--Homes and haunts--Washington (D.C.)--Maps",
+    "Georgetown (Washington, D.C.)--Maps, Manuscript",
+    "Georgetown (Washington, D.C.)--Surveys--Maps",
+    "Manuscript maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Georgetown"
+  ],
+  "dct_temporal_sm": [
+    "1843"
+  ],
+  "dct_title_s": "No. 1. Survey for John Davidson ; No. 2. Lots surveyed on 1st Street between Fred. & Fayette streets : [Georgetown, Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1843 TO 1843]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1843
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693301",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

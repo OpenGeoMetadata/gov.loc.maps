@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: United States. Army. Corps of Engineers",
+    "Description derived from published bibliography.",
+    "From 39th Cong., 1st Sess. [1866]-Report of the Chief Engineer, U.S.A. No. 9.",
+    "From 39th Cong., 1st Sess. [1866]-Report of the Chief Engineer, U.S.A. No. 9. Map shows the three lines of fortifications constructed in 1862, 1863, and 1864, streets, \"Mobile and Ohio Rail Road,\" vegetation, drainage, and relief by hachures. Most of the streets are not named. Description derived from published bibliography. Scale ca. 1:18,200. LC Civil War Maps (2nd ed.), 108 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 108",
+    "Map shows the three lines of fortifications constructed in 1862, 1863, and 1864, streets, \"Mobile and Ohio Rail Road,\" vegetation, drainage, and relief by hachures. Most of the streets are not named.",
+    "Publication statement: Philada., Bowen & Co. lith., [1866]",
+    "Scale ca. 1:18,200."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3974m.cw0108000",
+    "http://lccn.loc.gov/99447255",
+    "http://www.loc.gov/item/99447255/",
+    "http://www.loc.gov/resource/g3974m.cw0108000/",
+    "https://hdl.loc.gov/loc.gmd/g3974m.cw0108000",
+    "https://search.catalog.loc.gov/instances/be55f5e5-008d-5571-a964-1aebbed9dddc",
+    "https://www.loc.gov/item/99447255/"
+  ],
+  "dct_issued_s": "1866",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3974/g3974m/cw0108000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447255/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "mobile",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fortification--Mobile (Ala.)--Maps",
+    "Mobile (Ala.)--History--Civil War, 1861-1865--Maps",
+    "United States--Alabama--Mobile"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "dct_title_s": "Rebel defences, Mobile, Alabama, occupied by Union forces under Maj. Gen. E.R.S. Canby comdg",
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1866
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447255",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

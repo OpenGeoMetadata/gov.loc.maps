@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map approved ... on this 8th day of June, 1900 [by the Yolo County Board of] Supervisors.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing large landowners.",
+    "Contributors: Ashley, P. N. (Pallas N.); Britton & Rey; Yolo County (Calif.). Board of Supervisors",
+    "Includes table of distances, list of judicial, supervisor and school districts, and cadastral map of the city of Woodland showing large landowners.",
+    "LC Land ownership maps, no. 51",
+    "Publication statement: [California] : Yolo County Surveyor, 1900",
+    "Relief shown by shading.",
+    "Relief shown by shading. Cadastral map showing large landowners. Includes table of distances, list of judicial, supervisor and school districts, and cadastral map of the city of Woodland showing large landowners. \"This map approved ... on this 8th day of June, 1900 [by the Yolo County Board of] Supervisors.\" LC Land ownership maps, no. 51 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4363y.la000051",
+    "http://lccn.loc.gov/2004629226",
+    "http://www.loc.gov/item/2004629226/",
+    "http://www.loc.gov/resource/g4363y.la000051/",
+    "https://hdl.loc.gov/loc.gmd/g4363y.la000051",
+    "https://search.catalog.loc.gov/instances/35f38c4a-54f9-5229-b5aa-acdfa4171921",
+    "https://www.loc.gov/item/2004629226/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4363/g4363y/la000051.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004629226/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states",
+    "woodland",
+    "yolo county"
+  ],
+  "dct_subject_sm": [
+    "Landowners--California--Woodland--Maps",
+    "Landowners--California--Yolo County--Maps",
+    "Real property--California--Woodland--Maps",
+    "Real property--California--Yolo County--Maps",
+    "United States--California--Woodland",
+    "United States--California--Yolo County",
+    "Woodland (Calif.)--Maps",
+    "Yolo County (Calif.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Official map of the County of Yolo, California",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004629226",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

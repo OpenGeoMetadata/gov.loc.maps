@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cover title: Indexed railroad and township map of Montana"
+  ],
+  "dct_description_sm": [
+    "Accompanied by: Index to Cram's map of Montana. 4 p. ; 14 cm.",
+    "Acquisitions control no. 99-26",
+    "Annotated in pencil in cover: c. 1884, immediately after 1st r.r. crossed Montana in 1883.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cram, George Franklin, 1841-1928",
+    "Publication statement: Chicago : G.F. Cram, [1884]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Accompanied by: Index to Cram's map of Montana. 4 p. ; 14 cm. Annotated in pencil in cover: c. 1884, immediately after 1st r.r. crossed Montana in 1883. Available also through the Library of Congress Web site as a raster image. Vault Acquisitions control no. 99-26",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/99441786",
+    "http://www.loc.gov/item/99441786/",
+    "http://www.loc.gov/resource/g4251p.ct012068/",
+    "https://hdl.loc.gov/loc.gmd/g4251p.ct012068",
+    "https://search.catalog.loc.gov/instances/8fc2297f-8b7d-57ce-868f-f47781d35f8a",
+    "https://www.loc.gov/item/99441786/"
+  ],
+  "dct_issued_s": "1884",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd425:g4251:g4251p:ct012068/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/99441786/\"}",
+  "dct_spatial_sm": [
+    "montana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Montana--Maps",
+    "United States--Montana"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_title_s": "Railroad and county map of Montana Ty",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99441786",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

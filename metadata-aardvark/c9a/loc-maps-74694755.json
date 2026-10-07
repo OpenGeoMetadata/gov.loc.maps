@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Dury, Andrew; Holland, Samuel, 1728-1801",
+    "Depths shown by soundings.",
+    "Hand colored.",
+    "Hand colored. Depths shown by soundings. Oriented with north toward the upper left. Includes table of administrative divisions and inset of \"Gulf of St. Lawrence.\" Scale ca. 1:260,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 700/1",
+    "Includes table of administrative divisions and inset of \"Gulf of St. Lawrence.\"",
+    "Oriented with north toward the upper left.",
+    "Publication statement: London : Printed & sold by A. Dury [1775]",
+    "Scale ca. 1:260,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3426f.ct002331",
+    "http://lccn.loc.gov/74694755",
+    "http://www.loc.gov/item/74694755/",
+    "http://www.loc.gov/resource/g3426f.ct002331/",
+    "https://hdl.loc.gov/loc.gmd/g3426f.ct002331",
+    "https://search.catalog.loc.gov/instances/9ce3deaf-aa86-5df4-95e7-c860035cf91a",
+    "https://www.loc.gov/item/74694755/"
+  ],
+  "dct_issued_s": "1775",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3426/g3426f/ct002331.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694755/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "prince edward island"
+  ],
+  "dct_subject_sm": [
+    "Canada--Prince Edward Island",
+    "Prince Edward Island--Administrative and political divisions--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_title_s": "A plan of the island of St. John with the divisions of the counties, parishes, & the lots as granted by government, likewise the soundings round the coast and harbours",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694755",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

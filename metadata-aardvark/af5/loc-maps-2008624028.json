@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "South coast of U.S., Cape Hatteras to Cape Carnaveral [i.e. Canaveral]",
+    "Title from label affixed to verso: South coast of U.S., Cape Hatteras to Cape Carnaveral [i.e. Canaveral]"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cape Hatteras, and not Cape Lookout, is the northernmost point shown on coast.",
+    "Cape Hatteras, and not Cape Lookout, is the northernmost point shown on coast. Depths shown by soundings. Includes navigational notes. Copy imperfect: Torn, stained, darkened, creased, annotated in pencil and ink. Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: E. & G.W. Blunt (Firm)",
+    "Copy imperfect: Torn, stained, darkened, creased, annotated in pencil and ink.",
+    "Depths shown by soundings.",
+    "Includes navigational notes.",
+    "Publication statement: New York : E. & G.W. Blunt, [1865]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3872c.ct002279",
+    "http://lccn.loc.gov/2008624028",
+    "http://www.loc.gov/item/2008624028/",
+    "http://www.loc.gov/resource/g3872c.ct002279/",
+    "https://hdl.loc.gov/loc.gmd/g3872c.ct002279",
+    "https://search.catalog.loc.gov/instances/e24ce461-b972-5b86-8bef-05f83f7a8010",
+    "https://www.loc.gov/item/2008624028/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd387/g3872/g3872c/ct002279.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008624028/\"}",
+  "dct_spatial_sm": [
+    "south atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coasts--South Atlantic States--Maps",
+    "Nautical charts--South Atlantic States",
+    "United States--South Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "The coast of the United States : sheet no. 2 from Cape Lookout to Cape Carnaveral [i.e. Canaveral] from the U.S. Coast Surveys",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008624028",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"747035AI (R00472) 10-98.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Hypsometric map showing \"Northern Plains\" and \"Hills and mountains\" regions.",
+    "Hypsometric map showing \"Northern Plains\" and \"Hills and mountains\" regions. Relief shown by gradient tints. \"747035AI (R00472) 10-98.\" Includes note and cross-country elevation profile. Available also through the Library of Congress Web site as a raster image.",
+    "Includes note and cross-country elevation profile.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1998]",
+    "Relief shown by gradient tints."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6841c.ct000964",
+    "http://lccn.loc.gov/98690083",
+    "http://www.loc.gov/item/98690083/",
+    "http://www.loc.gov/resource/g6841c.ct000964/",
+    "https://hdl.loc.gov/loc.gmd/g6841c.ct000964",
+    "https://search.catalog.loc.gov/instances/6068fd3a-a31e-5614-bd4f-cf3ce9d46c9e",
+    "https://www.loc.gov/item/98690083/"
+  ],
+  "dct_issued_s": "1998",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6841/g6841c/ct000964.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98690083/\"}",
+  "dct_spatial_sm": [
+    "former yugoslav republics"
+  ],
+  "dct_subject_sm": [
+    "Former Yugoslav republics",
+    "Former Yugoslav republics--Maps, Physical",
+    "Military geography--Former Yugoslav republics--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dct_title_s": "Military geography of former Yugoslavia",
+  "gbl_dateRange_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98690083",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

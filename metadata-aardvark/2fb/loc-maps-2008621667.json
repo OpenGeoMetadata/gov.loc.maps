@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by label with title.",
+    "At lower left: Engraved by William Hooker.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hooker, William, 1782-1856; Lewis, Samuel, 1753 or 1754-1822",
+    "Copy imperfect: Stained, torn along margin, loose binding along edges, backed by cloth.",
+    "Covers Virginia, Maryland, and Delaware and parts of Pennsylvania, Ohio, Kentucky, New Jersey, and North Carolina.",
+    "Covers Virginia, Maryland, and Delaware and parts of Pennsylvania, Ohio, Kentucky, New Jersey, and North Carolina. Relief shown by hachures. Prime meridian: Philadelphia and Washington. Title from label that was original affixed to map in lower right margin. At lower left: Engraved by William Hooker. Accompanied by label with title. Copy imperfect: Stained, torn along margin, loose binding along edges, backed by cloth. Available also through the Library of Congress Web site as a raster image.",
+    "Prime meridian: Philadelphia and Washington.",
+    "Publication statement: Philadelphia : T.L. Plowman, 1814.",
+    "Relief shown by hachures.",
+    "Title from label that was original affixed to map in lower right margin."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3790.ct004097",
+    "http://lccn.loc.gov/2008621667",
+    "http://www.loc.gov/item/2008621667/",
+    "http://www.loc.gov/resource/g3790.ct004097/",
+    "https://hdl.loc.gov/loc.gmd/g3790.ct004097",
+    "https://search.catalog.loc.gov/instances/1e29666d-0800-5aa4-a691-908777e002c4",
+    "https://www.loc.gov/item/2008621667/"
+  ],
+  "dct_issued_s": "1814",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd379/g3790/g3790/ct004097.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008621667/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "maryland",
+    "middle atlantic states",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Delaware--Maps",
+    "Maryland--Maps",
+    "Middle Atlantic States--Maps",
+    "United States--Delaware",
+    "United States--Maryland",
+    "United States--Middle Atlantic States",
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1814"
+  ],
+  "dct_title_s": "A new map of Virginia with Maryland, Delaware & v.",
+  "gbl_dateRange_drsim": [
+    "[1814 TO 1814]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1814
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008621667",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

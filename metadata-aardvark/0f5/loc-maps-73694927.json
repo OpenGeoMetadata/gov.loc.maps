@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Also shows colonies, a few cities and towns, and Indian tribal territory.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 3",
+    "Publication statement: [n.p., 175-?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Shows \"Degrees west from London.\" Also shows colonies, a few cities and towns, and Indian tribal territory. Scale ca. 1:50,000,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 3 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:50,000,000.",
+    "Shows \"Degrees west from London.\"",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar000300",
+    "http://lccn.loc.gov/73694927",
+    "http://www.loc.gov/item/73694927/",
+    "http://www.loc.gov/resource/g3300.ar000300/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar000300",
+    "https://search.catalog.loc.gov/instances/9a9daccb-75d3-530f-a326-f217cc67608e",
+    "https://www.loc.gov/item/73694927/"
+  ],
+  "dct_issued_s": "1750",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar000300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73694927/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1750"
+  ],
+  "dct_title_s": "An Accurate map of North America from the latest discoveries",
+  "gbl_dateRange_drsim": [
+    "[1750 TO 1750]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1750
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73694927",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

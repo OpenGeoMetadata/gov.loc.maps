@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Published in a Report on exploration of the country lying between the Misouri River and the Rocky Mountains, on the line of the Kansas and Great Platte rivers, By Lieut. J.C. Fremont ... Washington ... 1843 (Senate report no. 243, 27th Cong., 3d. Sess.).\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Edward Weber & Co; Frémont, John Charles, 1813-1890",
+    "Covers southern Wyoming, northern Colorado, and adjacent areas.",
+    "Exhibited in Maps of Colorado, the Centennial State, Aug. 2-Oct. 31, 1976, no. 5",
+    "Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, no. 236",
+    "Publication statement: [Washington, D.C. : s.n., 1843]",
+    "Relief shown by hachures.",
+    "Vault",
+    "Vault Relief shown by hachures. Covers southern Wyoming, northern Colorado, and adjacent areas. \"Published in a Report on exploration of the country lying between the Misouri River and the Rocky Mountains, on the line of the Kansas and Great Platte rivers, By Lieut. J.C. Fremont ... Washington ... 1843 (Senate report no. 243, 27th Cong., 3d. Sess.).\" Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, no. 236 Available also through the Library of Congress Web site as a raster image. Exhibited in Maps of Colorado, the Centennial State, Aug. 2-Oct. 31, 1976, no. 5"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/96688037",
+    "http://www.loc.gov/item/96688037/",
+    "http://www.loc.gov/resource/g4260.tr000236/",
+    "https://hdl.loc.gov/loc.gmd/g4260.tr000236",
+    "https://search.catalog.loc.gov/instances/a1c5cc74-30d9-5a8d-9cb6-a668491acffb",
+    "https://www.loc.gov/item/96688037/"
+  ],
+  "dct_issued_s": "1842",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd426/g4260/g4260/tr000236.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96688037/\"}",
+  "dct_spatial_sm": [
+    "colorado",
+    "united states",
+    "wyoming"
+  ],
+  "dct_subject_sm": [
+    "Colorado--Maps",
+    "United States--Colorado",
+    "United States--Wyoming",
+    "Wyoming--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1842"
+  ],
+  "dct_title_s": "Map to illustrate an exploration of the country lying between the Missouri River and the Rocky Mountains, on the line of the Nebraska or Platte River",
+  "gbl_dateRange_drsim": [
+    "[1842 TO 1842]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1842
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96688037",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

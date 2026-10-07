@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nova tavoa hydrographica do mar de novas teras do sul / feita polo cosmographo e math. Emanuel Godinho de Eredia"
+  ],
+  "dct_description_sm": [
+    "Content in Portuguese.",
+    "Contributors: Godinho de Eredia, Manuel, 1563-1623 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 manuscript map ; 29.5 x 39.5 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1602.",
+    "This hydrographic map is the work of Malaysian-Portuguese cartographer Emanuel Godinho de Eredia (1563-1623). At the turn of the 17th century, the Portuguese were exploring southeast Asia from their base in Malacca, searching for the \"Islands of Gold\" that figured prominently in Malaysian legends. Around 1602, the Viceroy of Portuguese India commissioned an expedition around the islands south of Malaysia and India. Eredia served as a soldier and engineer on the mission and completed this map around the same time. His work, however, is suspected to be based more on the writings of Ptolemy and Marco Polo than on his own experience.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668329",
+    "http://www.loc.gov/item/2021668329/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00852/",
+    "http://www.loc.gov/resource/wdl.852/",
+    "https://hdl.loc.gov/loc.wdl/wdl.852",
+    "https://www.loc.gov/item/2021668329/"
+  ],
+  "dct_issued_s": "1602-01-01",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00852.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/85/2/wdl_00852/wdl_00852.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:85:2:wdl_00852:cart1082450/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668329/\"}",
+  "dct_spatial_sm": [
+    "australia",
+    "indonesia"
+  ],
+  "dct_subject_sm": [
+    "1602",
+    "Australia",
+    "Indonesia"
+  ],
+  "dct_temporal_sm": [
+    "1602-01-01"
+  ],
+  "dct_title_s": "New Hydrographic Map of the Sea and New Southern Lands: Made by the Cosmographer and Mathematician Emanuel Godinho de Eredia.",
+  "gbl_dateRange_drsim": [
+    "[1602 TO 1602]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1602
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668329",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

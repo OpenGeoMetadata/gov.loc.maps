@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hageboeck, August",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 408",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 408 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1",
+    "Publication statement: Davenport, Iowa, 1873."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4144s.pm004080",
+    "http://lccn.loc.gov/75694649",
+    "http://www.loc.gov/item/75694649/",
+    "http://www.loc.gov/resource/g4144s.pm004080/",
+    "https://hdl.loc.gov/loc.gmd/g4144s.pm004080",
+    "https://search.catalog.loc.gov/instances/5c7c511a-c63c-5515-ac48-39c9e73cee84",
+    "https://www.loc.gov/item/75694649/"
+  ],
+  "dct_issued_s": "1873",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd414/g4144/g4144s/pm004080.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694649/\"}",
+  "dct_spatial_sm": [
+    "minnesota",
+    "saint paul",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Saint Paul (Minn.)",
+    "United States--Minnesota--Saint Paul"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "dct_title_s": "Panorama of St. Paul, Minn",
+  "gbl_dateRange_drsim": [
+    "[1873 TO 1873]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1873
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694649",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

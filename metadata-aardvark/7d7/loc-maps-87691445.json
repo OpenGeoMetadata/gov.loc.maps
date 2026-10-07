@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the Year 1904 ...\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Baist, G. Wm. (George William), 1859-1927",
+    "DCP",
+    "E 5975 U.S. Copyright Office",
+    "E 5975 U.S. Copyright Office Shows radial distances and rural householders' names. Relief shown by contours. \"Entered according to Act of Congress in the Year 1904 ...\" Includes advertisement. LC copy sectioned and mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Includes advertisement.",
+    "LC copy sectioned and mounted on cloth backing.",
+    "Publication statement: Philadelphia : G. Wm. Baist, [1904]",
+    "Relief shown by contours.",
+    "Shows radial distances and rural householders' names."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.la002283",
+    "http://lccn.loc.gov/87691445",
+    "http://www.loc.gov/item/87691445/",
+    "http://www.loc.gov/resource/g3850.la002283/",
+    "https://hdl.loc.gov/loc.gmd/g3850.la002283",
+    "https://search.catalog.loc.gov/instances/0783c3a9-ef15-563c-a9d8-d494f35c54a1",
+    "https://www.loc.gov/item/87691445/"
+  ],
+  "dct_issued_s": "1904",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/la002283.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691445/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "Real property--Washington (D.C.)--Maps",
+    "Real property--Washington Metropolitan Area--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps",
+    "Washington Metropolitan Area--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "dct_title_s": "Baist's map of the vicinity of Washington D.C.",
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1904
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-87691445",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1852 by J. H. Colton.\"",
+    "\"Entered according to Act of Congress in the year 1852 by J. H. Colton.\" Printed by Lang & Cooper, N.Y. General map of eastern Virginia, Maryland, Delaware, southern Pennsylvania, and northern North Carolina. Description derived from published bibliography. Scale ca. 1:750,000. LC Civil War Maps (2nd ed.), 479.2 Available also through the Library of Congress web site as raster image.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Colton, J. H. (Joseph Hutchins), 1800-1893",
+    "Description derived from published bibliography.",
+    "General map of eastern Virginia, Maryland, Delaware, southern Pennsylvania, and northern North Carolina.",
+    "LC Civil War Maps (2nd ed.), 479.2",
+    "Printed by Lang & Cooper, N.Y.",
+    "Publication statement: New York, J. H. Colton's Geographical Establishment, [1863?]",
+    "Scale ca. 1:750,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.cw0479200",
+    "http://lccn.loc.gov/99448508",
+    "http://www.loc.gov/item/99448508/",
+    "http://www.loc.gov/resource/g3880.cw0479200/",
+    "https://hdl.loc.gov/loc.gmd/g3880.cw0479200",
+    "https://search.catalog.loc.gov/instances/b09971e7-c1cb-5c85-b9c2-62db18b79674",
+    "https://www.loc.gov/item/99448508/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/cw0479200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448508/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1863",
+    "New York, J. H. Colton's Geographical Establishment, [1863?]"
+  ],
+  "dct_title_s": "J. H. Colton's topographical map of the seat of war in Virginia, Maryland &c",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448508",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

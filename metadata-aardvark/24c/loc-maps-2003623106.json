@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Schenk, Peter, 1661-1711",
+    "Includes ill. of figures in title area.",
+    "Map contains 2 separate titles for North America and South America.",
+    "Publication statement: [Amsterdam? : s.n., 1709?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Map contains 2 separate titles for North America and South America. Includes ill. of figures in title area. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3290.ct007298",
+    "http://lccn.loc.gov/2003623106",
+    "http://www.loc.gov/item/2003623106/",
+    "http://www.loc.gov/resource/g3290.ct007298/",
+    "https://hdl.loc.gov/loc.gmd/g3290.ct007298",
+    "https://search.catalog.loc.gov/instances/00ad2be1-4568-5279-94bb-8e216eea8647",
+    "https://www.loc.gov/item/2003623106/"
+  ],
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3290/g3290/ct007298.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003623106/\"}",
+  "dct_spatial_sm": [
+    "america",
+    "north america",
+    "south america"
+  ],
+  "dct_subject_sm": [
+    "America",
+    "America--Maps--Early works to 1800",
+    "North America",
+    "North America--Maps--Early works to 1800",
+    "South America",
+    "South America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1709",
+    "[Amsterdam? : s.n., 1709?]"
+  ],
+  "dct_title_s": "America Septentrionalis novissima ; America Meridionalis accuratissima",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003623106",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

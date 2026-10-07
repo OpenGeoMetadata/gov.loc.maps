@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 650/2; 650/3; 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing lots \"Owned by Mr. Blaine.\"",
+    "Contributors: Hill, S. C.",
+    "DCP",
+    "In upper left corner: S. C. Hill, Real Estate and Loans, Life and Fire Insurance.",
+    "Manuscript; pen-and-ink.",
+    "Manuscript; pen-and-ink. Cadastral map showing lots \"Owned by Mr. Blaine.\" In upper left corner: S. C. Hill, Real Estate and Loans, Life and Fire Insurance. Scale ca. 1:2,400. Available also through the Library of Congress Web site as a raster image. Vault DCP AACR2: 651/1; 650/2; 650/3; 700/1",
+    "Publication statement: [1867?]",
+    "Scale ca. 1:2,400.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852c.la002248",
+    "http://lccn.loc.gov/79694185",
+    "http://www.loc.gov/item/79694185/",
+    "http://www.loc.gov/resource/g3852c.la002248/",
+    "https://hdl.loc.gov/loc.gmd/g3852c.la002248",
+    "https://search.catalog.loc.gov/instances/926c023b-1b27-562e-869a-9acf9adbb6a6",
+    "https://www.loc.gov/item/79694185/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852c/la002248.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79694185/\"}",
+  "dct_spatial_sm": [
+    "columbia heights",
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Columbia Heights (Washington, D.C.)--Maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington--Columbia Heights"
+  ],
+  "dct_temporal_sm": [
+    "1867",
+    "[1867?]"
+  ],
+  "dct_title_s": "Hall and Elvans' subdivision, Meridian Hill",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79694185",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

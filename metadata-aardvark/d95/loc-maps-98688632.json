@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cincinnati Railway; Hinamn, Russell",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 381",
+    "Note: \"Figures in red are county populations. Surveyed routes, profiles annexed, surveyed routes not annexed, explored routes not surveyed.\"",
+    "Outline map of central Kentucky and Tennessee with railroads in red.",
+    "Publication statement: Cincinnati, 1873.",
+    "Scale 1:633,600."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3951p.rr003810",
+    "http://lccn.loc.gov/98688632",
+    "http://www.loc.gov/item/98688632/",
+    "http://www.loc.gov/resource/g3951p.rr003810/",
+    "https://hdl.loc.gov/loc.gmd/g3951p.rr003810",
+    "https://search.catalog.loc.gov/instances/6cab8a13-f9e3-53ad-8dc3-72fdc4649a74",
+    "https://www.loc.gov/item/98688632/"
+  ],
+  "dct_issued_s": "1873",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd395/g3951/g3951p/rr003810.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688632/\"}",
+  "dct_spatial_sm": [
+    "kentucky",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cincinnati Railway",
+    "Railroads--Kentucky--Maps",
+    "Railroads--Tennessee--Maps",
+    "United States--Kentucky",
+    "United States--Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "dct_title_s": "Map of the surveys of the Cincinnati Railway, W.A. Gunn, Ch. Eng",
+  "gbl_dateRange_drsim": [
+    "[1873 TO 1873]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1873
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688632",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

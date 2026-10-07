@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: George III, King of Great Britain, 1738-1820, former owner; George IV, King of Great Britain, 1762-1830, donor; Lotter, Tobias Conrad, 1717-1777, printmaker; Seutter, Matthaeus, 1678-1756, cartographer",
+    "Includes a large vignette of mining works to the lower margin.",
+    "Includes a vignette of scientific and cartographic instruments to the upper margin.",
+    "Includes the title in a decorative cartouche to the upper left with vignettes showing putti and Cupid assisting Vulcan to smelt metal, a woman at her spinning wheel and miners, a landscape beyond.",
+    "Includes two scalebars to the upper right margin.",
+    "Map of Saxony, showing both topographical features including the Ore Mountains and mines indicated by numbers.",
+    "Publication statement: [Augsburg] : M. Seutter, [between 1739-1750]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Map of Saxony, showing both topographical features including the Ore Mountains and mines indicated by numbers. Includes the title in a decorative cartouche to the upper left with vignettes showing putti and Cupid assisting Vulcan to smelt metal, a woman at her spinning wheel and miners, a landscape beyond. Includes a large vignette of mining works to the lower margin. Includes a vignette of scientific and cartographic instruments to the upper margin. Includes two scalebars to the upper right margin. Titled 'Mappa Geographica Circuli Metalliferi, a M. Seuttero.' in the Catalogue of Maps, Prints, Drawings, etc., forming the geographical and topographical collection attached to the Library of his late Majesty King George the third, etc., London, 1829. Available also through the Library of Congress Web site as a raster image.",
+    "Titled 'Mappa Geographica Circuli Metalliferi, a M. Seuttero.' in the Catalogue of Maps, Prints, Drawings, etc., forming the geographical and topographical collection attached to the Library of his late Majesty King George the third, etc., London, 1829."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021589041",
+    "http://www.loc.gov/item/2021589041/",
+    "http://www.loc.gov/resource/g6240.ct011950e/",
+    "http://www.loc.gov/resource/g6240.ct011950w/",
+    "https://hdl.loc.gov/loc.gmd/g6240.ct011950e",
+    "https://hdl.loc.gov/loc.gmd/g6240.ct011950w",
+    "https://search.catalog.loc.gov/instances/f1fc6ac8-91ed-53ba-95c4-da966bd6d318",
+    "https://www.loc.gov/item/2021589041/"
+  ],
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6240/g6240/ct011950w.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021589041/\"}",
+  "dct_spatial_sm": [
+    "germany",
+    "saxony"
+  ],
+  "dct_subject_sm": [
+    "Germany--Saxony",
+    "Saxony (Germany)--Maps--Early Maps to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1739/1750"
+  ],
+  "dct_title_s": "Mappa Geographica Circuli Metalliferi Electoratus Saxoniæ cum omnibus, quæ ineo comprehenduntur Præfecturis et Dynastiis, quales sunt. ; I. Praefectura Zwikavienses, II. Praef. Schwarzenbergens., III. Dyn. Hartenstein, IV. Glaucha, V. Praef. Lemsa, VI. Praef. Waldenburg, VII Praef. Rochsburg, VIII. Praef. Penig, IX. Praef. Wechselburg, X. Praef. Chemnit, XI Praef. Stollberg, XII Praef. Grunhayn, XIII. Praef. Wolckenstain, XIV. Praef. Lauterstein, XV. Praef. Augustopolit. XVI. Praef. Franckenberg, XVII Praef. Nossen, XVIII Praef. Freyberg, XIX. Praef. Grullenburg, XX. Praef. Frauenstein, XXI Praef. Altenberg, XXII Praef. Dippoldiswalda, Accedunt praefecturae circuli Misnici XXIII. Praef. Pirnensis cum Dyn. Lauenstein, XXIV. Praef. Loehmen, XXV. Praef. Hohenstein",
+  "gbl_dateRange_drsim": [
+    "[1739 TO 1750]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1739
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2021589041",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

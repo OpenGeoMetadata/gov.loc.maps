@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes illus.",
+    "Oriented with north toward the upper left.",
+    "Oriented with north toward the upper left. Includes illus. Text and illus. on verso. Scale ca. 1:12,500. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: [Washington, U.S. Govt. Print. Off., 1973]",
+    "Scale ca. 1:12,500.",
+    "Text and illus. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882g.ct009088",
+    "http://lccn.loc.gov/73695987",
+    "http://www.loc.gov/item/73695987/",
+    "http://www.loc.gov/resource/g3882g.ct009088/",
+    "https://hdl.loc.gov/loc.gmd/g3882g.ct009088",
+    "https://search.catalog.loc.gov/instances/91fbfefa-e3cb-5168-89c3-b82073cbdfb0",
+    "https://www.loc.gov/item/73695987/"
+  ],
+  "dct_issued_s": "1973",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882g/ct009088.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73695987/\"}",
+  "dct_spatial_sm": [
+    "great falls park",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Great Falls Park (Va.)--Maps",
+    "United States--Virginia--Great Falls Park"
+  ],
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "dct_title_s": "Great Falls Park, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1973]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1973
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73695987",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

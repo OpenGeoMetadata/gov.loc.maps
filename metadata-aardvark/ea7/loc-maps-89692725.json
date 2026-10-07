@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing block and lot numbers and dimensions.",
+    "Cadastral map showing block and lot numbers and dimensions. Relief shown by hachures. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Contributors: Baxter & MacGowan; Curtis & Burdett; H.W. Newby & Co; Peters, N. (Norris); Trimble, Matthew",
+    "DCP",
+    "Publication statement: [Washington, D.C.] : Baxter & MacGowan : Matthew Trimble, [1887]",
+    "Relief shown by hachures."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884c.ct003577",
+    "http://lccn.loc.gov/89692725",
+    "http://www.loc.gov/item/89692725/",
+    "http://www.loc.gov/resource/g3884c.ct003577/",
+    "https://hdl.loc.gov/loc.gmd/g3884c.ct003577",
+    "https://search.catalog.loc.gov/instances/96463e42-3579-500c-99ab-bab02486d99a",
+    "https://www.loc.gov/item/89692725/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884c/ct003577.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89692725/\"}",
+  "dct_spatial_sm": [
+    "arlington",
+    "arlington county",
+    "carlin springs",
+    "carlin springs (arlington)",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Carlin Springs (Arlington, Va.)--Maps",
+    "Real property--Virginia--Arlington County--Maps",
+    "United States--Virginia--Arlington County",
+    "United States--Virginia--Carlin Springs (Arlington)"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "Plat of Curtis & Burdett's subdivision of Carlin Springs, Alexandria County, Virginia : 260 ft. above sea level",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89692725",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

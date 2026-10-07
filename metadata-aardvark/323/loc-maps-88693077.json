@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"58912.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Office of National Capital Parks",
+    "DCP",
+    "Includes notes and index to points of interest.",
+    "LC copy fold-lined, punch-holed, and trimmed at upper right corner.",
+    "Publication statement: Washington : Dept. of the Interior, National Park Service, National Capital Parks, [1949]",
+    "Shows bridle paths, footpaths, and trail route numbers.",
+    "Shows bridle paths, footpaths, and trail route numbers. Includes notes and index to points of interest. Text titled \"Rock Creek Park, Washington, D.C.\" on verso. \"58912.\" Available also through the Library of Congress Web site as a raster image. LC copy fold-lined, punch-holed, and trimmed at upper right corner. DCP",
+    "Text titled \"Rock Creek Park, Washington, D.C.\" on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852r.ct005123",
+    "http://lccn.loc.gov/88693077",
+    "http://www.loc.gov/item/88693077/",
+    "http://www.loc.gov/resource/g3852r.ct005123/",
+    "https://hdl.loc.gov/loc.gmd/g3852r.ct005123",
+    "https://search.catalog.loc.gov/instances/98389fe0-c6a8-5608-aa2d-b486d1c46484",
+    "https://www.loc.gov/item/88693077/"
+  ],
+  "dct_issued_s": "1949",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852r/ct005123.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693077/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "rock creek park",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Rock Creek Park (Washington, D.C.)--Maps",
+    "Trails--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Rock Creek Park"
+  ],
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "dct_title_s": "Rock Creek Park : [Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1949]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693077",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bowles, Carington, 1724-1793",
+    "Hand colored.",
+    "Hand colored. Includes illus. Scale ca. 1:75,000,000. Available also through the Library of Congress Web site as a raster image. LC copy annotated in pencil below New Zealand and in ink above place of publication with manuscript date of 1784. Vault AACR2",
+    "Includes illus.",
+    "LC copy annotated in pencil below New Zealand and in ink above place of publication with manuscript date of 1784.",
+    "Publication statement: London, 1791.",
+    "Scale ca. 1:75,000,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct007081",
+    "http://lccn.loc.gov/77694186",
+    "http://www.loc.gov/item/77694186/",
+    "http://www.loc.gov/resource/g3200.ct007081/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct007081",
+    "https://search.catalog.loc.gov/instances/f0fee706-7bce-59b2-b1a9-433a87926cc0",
+    "https://www.loc.gov/item/77694186/"
+  ],
+  "dct_issued_s": "1791",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct007081.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77694186/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)",
+    "World maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1791"
+  ],
+  "dct_title_s": "Bowles's new pocket map of the world, laid down from the latest observations and comprehending the new discoveries to the present time, particularly those lately made in the southern seas, by Byron, Wallis Cook, Bougainville, and others",
+  "gbl_dateRange_drsim": [
+    "[1791 TO 1791]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1791
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77694186",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

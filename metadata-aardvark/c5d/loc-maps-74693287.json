@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Appears in Thomas Kitchin's A general atlas describing the whole universe, [1793].",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Anville, Jean Baptiste Bourguignon d', 1697-1782; Pownall, Thomas, 1722-1805; Sayer, Robert, 1725-1794, cartographer",
+    "Includes inset \"The supplement to North America containing the countries adjoining to Baffins & Hudson bays\", tables showing European possessions, and illustrated cartouche.",
+    "LC copy sectioned in four and mounted on cloth.",
+    "Prime meridian: Ferro Island.",
+    "Publication statement: London : Printed for Robt. Sayer, map, chart & printseller, no. 53, Fleet Street, as the act directs 15th August 1786.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Prime meridian: Ferro Island. Appears in Thomas Kitchin's A general atlas describing the whole universe, [1793]. Includes inset \"The supplement to North America containing the countries adjoining to Baffins & Hudson bays\", tables showing European possessions, and illustrated cartouche. LC copy sectioned in four and mounted on cloth. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3290.ct007308",
+    "http://lccn.loc.gov/74693287",
+    "http://www.loc.gov/item/74693287/",
+    "http://www.loc.gov/resource/g3290.ct007308/",
+    "https://hdl.loc.gov/loc.gmd/g3290.ct007308",
+    "https://search.catalog.loc.gov/instances/dce73d6e-cab7-5ead-ad76-5d37d42f61ef",
+    "https://www.loc.gov/item/74693287/"
+  ],
+  "dct_issued_s": "1786",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3290/g3290/ct007308.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693287/\"}",
+  "dct_spatial_sm": [
+    "america"
+  ],
+  "dct_subject_sm": [
+    "America",
+    "America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1786"
+  ],
+  "dct_title_s": "A new map of the whole continent of America : divided into North and South and West Indies wherein are exactly described the United States of North America as well as the several European possessions according to the preliminaries of peace signed at Versailles Jan. 20, 1783",
+  "gbl_dateRange_drsim": [
+    "[1786 TO 1786]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1786
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693287",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: A. Hoen & Co; Gilham, William, 1819?-1872",
+    "Copy imperfect: Shellacked and mounted on cloth backing.",
+    "LC Land ownership maps, 1341",
+    "Oriented with north toward the upper right.",
+    "Publication statement: Baltimore : A. Hoen & Co., 1860.",
+    "Relief shown by hachures.",
+    "Shows magisterial districts and names of some residents.",
+    "Shows magisterial districts and names of some residents. Relief shown by hachures. Oriented with north toward the upper right. Copy imperfect: Shellacked and mounted on cloth backing. LC Land ownership maps, 1341 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883r.la001341",
+    "http://lccn.loc.gov/2012589666",
+    "http://www.loc.gov/item/2012589666/",
+    "http://www.loc.gov/resource/g3883r.la001341/",
+    "https://hdl.loc.gov/loc.gmd/g3883r.la001341",
+    "https://search.catalog.loc.gov/instances/b4887e1d-98ac-58b0-b85b-1c9f0ebd0d28",
+    "https://www.loc.gov/item/2012589666/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883r/la001341.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012589666/\"}",
+  "dct_spatial_sm": [
+    "rockbridge county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Virginia--Rockbridge County--Maps",
+    "Real property--Virginia--Rockbridge County--Maps",
+    "Rockbridge County (Va.)--Administrative and political divisions--Maps",
+    "Rockbridge County (Va.)--Maps",
+    "United States--Virginia--Rockbridge County"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Map of the county of Rockbridge, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012589666",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

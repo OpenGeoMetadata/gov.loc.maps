@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-14,509.\"",
+    "\"Base source: USGS 1:500,000 map sheet.\"",
+    "\"June 1979.\"",
+    "\"June 1979.\" Also shows \"Sub-area\" numbers and boundaries. \"Base source: USGS 1:500,000 map sheet.\" Includes location map. \"1-14,509.\" Available also through the Library of Congress Web site as a raster image.",
+    "Also shows \"Sub-area\" numbers and boundaries.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service; United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Hyattsville, MD : USDA-SCS, 1979."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82696318",
+    "http://www.loc.gov/item/82696318/",
+    "http://www.loc.gov/resource/g3902c.ct009625/",
+    "https://hdl.loc.gov/loc.gmd/g3902c.ct009625",
+    "https://search.catalog.loc.gov/instances/98171000-3b1b-595a-b798-f8d479b75cb1",
+    "https://www.loc.gov/item/82696318/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902c/ct009625.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82696318/\"}",
+  "dct_spatial_sm": [
+    "chowan river watershed",
+    "north carolina",
+    "pasquotank river watershed",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Land use--North Carolina--Chowan River Watershed--Maps",
+    "Land use--North Carolina--Pasquotank River Watershed--Maps",
+    "United States--North Carolina--Chowan River Watershed",
+    "United States--North Carolina--Pasquotank River Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Major land uses, Chowan-Pasquotank River basins, parts of North Carolina and Virginia",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82696318",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

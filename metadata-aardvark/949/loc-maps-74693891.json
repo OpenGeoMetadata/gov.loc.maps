@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 59.\"",
+    "\"West longitude from London.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bowen, Emanuel, -1767",
+    "From the author's A complete atlas or distinct view of the known world ... 1752.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 12",
+    "Publication statement: [London, 1752]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. \"West longitude from London.\" \"No. 59.\" From the author's A complete atlas or distinct view of the known world ... 1752. Scale ca. 1:8,500,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 12 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:8,500,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar001201",
+    "http://lccn.loc.gov/74693891",
+    "http://www.loc.gov/item/74693891/",
+    "http://www.loc.gov/resource/g3300.ar001201/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar001201",
+    "https://search.catalog.loc.gov/instances/cb697cb5-b0e2-5a4b-b125-853d38afe48f",
+    "https://www.loc.gov/item/74693891/"
+  ],
+  "dct_issued_s": "1752",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar001201.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693891/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "north america",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Louisiana",
+    "North America",
+    "United States--Louisiana"
+  ],
+  "dct_temporal_sm": [
+    "1752"
+  ],
+  "dct_title_s": "A new & accurate map of Louisiana, with part of Florida and Canada, and the adjacent countries",
+  "gbl_dateRange_drsim": [
+    "[1752 TO 1752]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1752
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693891",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

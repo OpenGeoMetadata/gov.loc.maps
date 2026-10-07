@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service, cartographer, publisher",
+    "Coverage complete in 10 sheets.",
+    "Each sheet includes notes and index to adjoining sheets.",
+    "First edition-AMS 2 sheets have polyconic projection.",
+    "Includes graphic index.",
+    "LC copy has multiple editions of some sheets.",
+    "LC copy imperfect: lacks sheets 5862 I-II, 5863 II, and 5962 III.",
+    "Publication statement: Washington, D.C. : published by Army Map Service",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Includes graphic index. Each sheet includes notes and index to adjoining sheets. Some sheets include index to boundaries. First edition-AMS 2 sheets have polyconic projection. Coverage complete in 10 sheets. LC copy has multiple editions of some sheets. LC copy imperfect: lacks sheets 5862 I-II, 5863 II, and 5962 III. Available also through the Library of Congress Web site as a raster image.",
+    "Some sheets include index to boundaries."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map48000284",
+    "http://www.loc.gov/item/map48000284/",
+    "http://www.loc.gov/resource/gmdsetmaps.map48000284/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map48000284",
+    "https://search.catalog.loc.gov/instances/695b6c0d-659c-5b1f-bc5d-e008b9668b5d",
+    "https://www.loc.gov/item/map48000284/"
+  ],
+  "dct_issued_s": "1946",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:ma:p4:80:00:28:4:map48000284:cs000001r/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map48000284/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware--Maps",
+    "United States--Delaware"
+  ],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "dct_title_s": "Delaware 1:50,000",
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1946]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1946
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-map48000284",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright secured by Hyde & Company 1887.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bracher, Wm. (William); Hyde & Company",
+    "Depths shown by soundings.",
+    "LC copy lacks cover.",
+    "LC sheets variously torn, fold-lined, and halved.",
+    "Publication statement: New York : Hyde & Company, 1887",
+    "Shows rural householders' names, wards, minor civil divisions, and radial distances from N.Y. City Hall.",
+    "Shows rural householders' names, wards, minor civil divisions, and radial distances from N.Y. City Hall. Depths shown by soundings. \"Copyright secured by Hyde & Company 1887.\" Available also through the Library of Congress Web site as a raster image. LC sheets variously torn, fold-lined, and halved. LC copy lacks cover."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct006584",
+    "http://lccn.loc.gov/89694138",
+    "http://www.loc.gov/item/89694138/",
+    "http://www.loc.gov/resource/g3804n.ct006584/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct006584",
+    "https://search.catalog.loc.gov/instances/854c717c-81a4-5ec2-9cdf-bb009fb109a8",
+    "https://www.loc.gov/item/89694138/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct006584.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89694138/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "new york city",
+    "new york metropolitan area",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New York (N.Y.)--Maps",
+    "Real property--New York Metropolitan Area--Maps",
+    "Roads--New York Metropolitan Area--Maps",
+    "United States--New York (State)--New York",
+    "United States--New York (State)--New York Metropolitan Area"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "Driving road chart of the country surrounding New York City : embracing the counties (or portions thereof) of New York, Kings, Queens, Westchester, Richmond, Rockland & Orange, New York, Hudson, Essex, Union, Bergen, Passaic, Middlesex & Morris, New Jersey, also a portion of Fairfield Co., Conn",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89694138",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

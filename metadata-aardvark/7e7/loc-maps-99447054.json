@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Stanford, Edward, 1827-1904",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 17.55",
+    "Map of eastern United States showing state and county boundaries, cities and towns, rivers, roads, and railroads. Although battlefields are not specifically identified, several towns in eastern Virginia and southern Pennsylvania where battles occurred have been underlined in red. Fredericksburg has been marked with an x.",
+    "Publication statement: London 1861.",
+    "Scale ca. 1:1,800,000.",
+    "Sheet 1 is dated Aug. 21, 1861 and sheets 2, 3, and 4 are dated Oct. 1, 1861.",
+    "Sheet 1 is dated Aug. 21, 1861 and sheets 2, 3, and 4 are dated Oct. 1, 1861. Map of eastern United States showing state and county boundaries, cities and towns, rivers, roads, and railroads. Although battlefields are not specifically identified, several towns in eastern Virginia and southern Pennsylvania where battles occurred have been underlined in red. Fredericksburg has been marked with an x. Description derived from published bibliography. Scale ca. 1:1,800,000. LC Civil War Maps (2nd ed.), 17.55 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.cw0017550a",
+    "http://hdl.loc.gov/loc.gmd/g3700.cw0017550b",
+    "http://hdl.loc.gov/loc.gmd/g3700.cw0017550c",
+    "http://hdl.loc.gov/loc.gmd/g3700.cw0017550d",
+    "http://lccn.loc.gov/99447054",
+    "http://www.loc.gov/item/99447054/",
+    "http://www.loc.gov/resource/g3700.cw0017550a/",
+    "http://www.loc.gov/resource/g3700.cw0017550b/",
+    "http://www.loc.gov/resource/g3700.cw0017550c/",
+    "http://www.loc.gov/resource/g3700.cw0017550d/",
+    "https://hdl.loc.gov/loc.gmd/g3700.cw0017550a",
+    "https://hdl.loc.gov/loc.gmd/g3700.cw0017550b",
+    "https://hdl.loc.gov/loc.gmd/g3700.cw0017550c",
+    "https://hdl.loc.gov/loc.gmd/g3700.cw0017550d",
+    "https://search.catalog.loc.gov/instances/b5895bfd-4bd2-5c85-80af-e0b542fb8b49",
+    "https://www.loc.gov/item/99447054/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/cw0017550a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447054/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Stanford's map of the seat of war in America",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447054",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

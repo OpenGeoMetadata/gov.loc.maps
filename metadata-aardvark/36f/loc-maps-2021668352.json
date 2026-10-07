@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Planta da fortaleza de Mosse. [Moçambique] com as novas obras projectadas para melhor defença"
+  ],
+  "dct_description_sm": [
+    "Content in Portuguese.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 manuscript map : color ; 33 x 47 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1741.",
+    "This manuscript map shows the fortress of San Sebastian on the Island of Mozambique, a small but strategic island off the coast of the African mainland. The fortress was built in the 16th century by the Portuguese, who developed the island into a major trading port. The structure was constructed in an Italianate style out of local materials, and incorporated an intricate system of collecting rainwater, needed to compensate for the island's lack of fresh water. This map was drawn in 1741, as the Portuguese were planning a renovation of the fortress to incorporate new defense structures. The fortress was inscribed as a UNESCO World Heritage site in 1991.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668352",
+    "http://www.loc.gov/item/2021668352/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00955/",
+    "http://www.loc.gov/resource/wdl.955/",
+    "https://hdl.loc.gov/loc.wdl/wdl.955",
+    "https://www.loc.gov/item/2021668352/"
+  ],
+  "dct_issued_s": "1741-01-01",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00955.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/95/5/wdl_00955/wdl_00955.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:95:5:wdl_00955:cart544106/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668352/\"}",
+  "dct_spatial_sm": [
+    "mozambique",
+    "portugal"
+  ],
+  "dct_subject_sm": [
+    "1741",
+    "Mozambique",
+    "Portugal",
+    "Portugal--Colonies"
+  ],
+  "dct_temporal_sm": [
+    "1741-01-01"
+  ],
+  "dct_title_s": "Map of the Fortress of Mozambique with New Works Projected for Better Defense.",
+  "gbl_dateRange_drsim": [
+    "[1741 TO 1741]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1741
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668352",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

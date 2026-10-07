@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: modelski, andrew m.; telecomunicações de são paulo s.a.",
+    "Includes inset of \"Area secundária de São Paulo.\""
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi85105519/",
+    "https://www.loc.gov/item/hlas-bi85105519/"
+  ],
+  "dct_issued_s": "1984",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_publisher_sm": [
+    "Telecomunicações de São Paulo,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi85105519/\"}",
+  "dct_spatial_sm": [
+    "brazil"
+  ],
+  "dct_subject_sm": [
+    "brazil",
+    "telecommunication",
+    "telecommunication -- brazil"
+  ],
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "dct_title_s": "Configuração do sistema de transmissão, existente dez. 87, com base nos eventos do plano de trabalho 1981/1985, da Diretoria Técnica, Estado do São Paulo",
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1984]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi85105519",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

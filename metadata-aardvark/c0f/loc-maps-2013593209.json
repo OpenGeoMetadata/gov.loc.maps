@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Chōsen chishitsuzu",
+    "Geological atlas of Chosen",
+    "Geological atlas of Tyôsen"
+  ],
+  "dct_description_sm": [
+    "Available through the Library of Congress Web site as a raster image.",
+    "Contributors: Chōsen Sōtokufu Chishitsu Chōsajo",
+    "Electronic reproduction. Washington, D.C. : Geography & Maps Division, Library of Congress, 2010. Mode of access: World Wide Web. Reproduction made from a copy owned by: U.S. Geological Survey Library.",
+    "LC copy: Property stamp \"U.S. Geological Survey Library.\"",
+    "No. 19 has title \"Geological atlas of Tyôsen.\"",
+    "Publication statement: Seoul : Government General of Chosen, Geological Survey, 1933-1938.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. No. 19 has title \"Geological atlas of Tyôsen.\" LC copy: Property stamp \"U.S. Geological Survey Library.\" Available through the Library of Congress Web site as a raster image. Electronic reproduction. Washington, D.C. : Geography & Maps Division, Library of Congress, 2010. Mode of access: World Wide Web. Reproduction made from a copy owned by: U.S. Geological Survey Library. 第15輯. 北鎮及牛峴鎮圖幅 = No.15. Hokuchin and Gyukenchin / by Yoshio Kinosaki, Geological Survey, Government General of Chosen -- 第16輯. 連津及清津圖幅 = No. 16. Renshin and Seishin / by Shimbei Shimamura -- 第17輯. 清城鎮天摩洞及永山市圖幅 = No-17. Seijochin Tenmado and Eizanshi sheets / by Shimbei Shimamura -- 第18輯. 寧海及盈德圖幅 = No. 18. Neikai and Eitoku / by Nobuhiro Hatae -- 第19輯. 魚坪里古城里直洞及上農圖幅 = No. 19. Gyohyôri Kozyôri Tyokudô and Zyônôri sheets / by Yosio Kinosaki.",
+    "第15輯. 北鎮及牛峴鎮圖幅 = No.15. Hokuchin and Gyukenchin / by Yoshio Kinosaki, Geological Survey, Government General of Chosen -- 第16輯. 連津及清津圖幅 = No. 16. Renshin and Seishin / by Shimbei Shimamura -- 第17輯. 清城鎮天摩洞及永山市圖幅 = No-17. Seijochin Tenmado and Eizanshi sheets / by Shimbei Shimamura -- 第18輯. 寧海及盈德圖幅 = No. 18. Neikai and Eitoku / by Nobuhiro Hatae -- 第19輯. 魚坪里古城里直洞及上農圖幅 = No. 19. Gyohyôri Kozyôri Tyokudô and Zyônôri sheets / by Yosio Kinosaki."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7901cm.gct00308",
+    "http://lccn.loc.gov/2013593209",
+    "http://www.loc.gov/item/2013593209/",
+    "http://www.loc.gov/resource/g7901cm.gct00308/",
+    "https://hdl.loc.gov/loc.gmd/g7901cm.gct00308",
+    "https://search.catalog.loc.gov/instances/56b211b8-de74-59c8-b34b-12474f0b99cd",
+    "https://www.loc.gov/item/2013593209/"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7m/g7901m/g7901cm/gct00308/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593209/\"}",
+  "dct_spatial_sm": [
+    "korea"
+  ],
+  "dct_subject_sm": [
+    "Geology--Korea--Maps",
+    "Korea"
+  ],
+  "dct_temporal_sm": [
+    "1933/1938"
+  ],
+  "dct_title_s": "Geological atlas of Chosen",
+  "gbl_dateRange_drsim": [
+    "[1933 TO 1938]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1933
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593209",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

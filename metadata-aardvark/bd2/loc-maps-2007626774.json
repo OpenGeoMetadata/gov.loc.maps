@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Madison County atlas"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 2006-114",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Midland Map Company (Knoxville, Iowa)",
+    "Includes index and advertisements.",
+    "Includes index and advertisements. Available also through the Library of Congress Web site as a raster image. Vendor: John Carbonell Acquisitions control no. 2006-114",
+    "Publication statement: Winterset, Iowa : Winterset Madisonian, 1912.",
+    "Vendor: John Carbonell"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4153mm.gla00116",
+    "http://lccn.loc.gov/2007626774",
+    "http://www.loc.gov/item/2007626774/",
+    "http://www.loc.gov/resource/g4153mm.gla00116/",
+    "https://hdl.loc.gov/loc.gmd/g4153mm.gla00116",
+    "https://search.catalog.loc.gov/instances/aa911586-8766-5d86-bb5f-0f1e8103b05e",
+    "https://www.loc.gov/item/2007626774/"
+  ],
+  "dct_issued_s": "1912",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd415m/g4153m/g4153mm/gla00116/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007626774/\"}",
+  "dct_spatial_sm": [
+    "iowa",
+    "madison county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Iowa--Madison County--Maps",
+    "Madison County (Iowa)--Maps",
+    "Real property--Iowa--Madison County--Maps",
+    "United States--Iowa--Madison County"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dct_title_s": "Atlas of Madison County, Iowa",
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007626774",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

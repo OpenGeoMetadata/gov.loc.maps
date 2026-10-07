@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"July 31st, 1843.\"",
+    "\"July 31st, 1843.\" Shows the area enclosed by the Mississippi River, the Red River, and the northern border of Louisiana. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Congress 1843-1844). House",
+    "Publication statement: [Washington, D.C.] : 28th Cong. 1st session, 1843.",
+    "Shows the area enclosed by the Mississippi River, the Red River, and the northern border of Louisiana."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/83695471",
+    "http://www.loc.gov/item/83695471/",
+    "http://www.loc.gov/resource/g4010.ct011058/",
+    "https://hdl.loc.gov/loc.gmd/g4010.ct011058",
+    "https://search.catalog.loc.gov/instances/af00ab7a-2b26-5e8c-8bfe-90413ba458bb",
+    "https://www.loc.gov/item/83695471/"
+  ],
+  "dct_issued_s": "1843",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4010/g4010/ct011058.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83695471/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Louisiana--Maps",
+    "United States--Louisiana"
+  ],
+  "dct_temporal_sm": [
+    "1843"
+  ],
+  "dct_title_s": "Map of the District North of Red River & North Western District, La",
+  "gbl_dateRange_drsim": [
+    "[1843 TO 1843]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1843
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83695471",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

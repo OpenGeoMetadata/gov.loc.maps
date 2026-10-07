@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"The Battle of Gettysburg, one of the most decisive battles of the American Civil War, was fought on July 1-3, 1863 near a small Pennsylvania town important for its many road and railroad connections. The Confederate army under General Robert E. Lee consisted of 72,000 men and was organized into corps commanded by Generals James Longstreet, Richard S. Ewell, and Ambrose P. Hill and a cavalry corps commanded by General J.E.B. \"Jeb\" Stuart. The Union army commanded by General George G. Meade had about 94,000 men, organized into seven corps and a cavalry corps. This map shows the Confederate and Union positions late on July 2, the second day of the battle. Confederate forces are identified at the corps level; more detail is provided about the Union side, including the names of some division commanders, breastworks, and cavalry positions. The map was made by William H. Willcox, captain and aide de camp on the staff of General John F. Reynolds, a Union corps commander who was killed on the morning of July 1. Gettysburg had the largest number of casualties of any battle in the Civil War, with about 23,000 killed, wounded, and captured or missing on each side. The battle was a defeat for the Confederacy, as it forced Lee to break off his invasion of the North and retreat back into Virginia.\" World Digital Library.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Willcox, William H.",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 357",
+    "Publication statement: [S.l., 1863]",
+    "Scale ca. 1:13,100.",
+    "Shows topography by hachures, vegetation, drainage, roads, railroads, houses, stonewalls, cultivated areas, churches, and cemeteries. Union and Confederate positions are shown, including the location of the artillery. Confederate corps are named; Union forces are given in more detail, including names of some division commanders. Shows the Union breast works and cavalry positions."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824g.cw0357000",
+    "http://lccn.loc.gov/99466787",
+    "http://www.loc.gov/item/99466787/",
+    "http://www.loc.gov/resource/g3824g.cw0357000/",
+    "https://hdl.loc.gov/loc.gmd/g3824g.cw0357000",
+    "https://search.catalog.loc.gov/instances/045c598f-ec45-59ad-a906-b035589a4ca3",
+    "https://www.loc.gov/item/99466787/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824g/cw0357000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466787/\"}",
+  "dct_spatial_sm": [
+    "gettysburg",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gettysburg (Pa.)--Maps",
+    "Gettysburg, Battle of, Gettysburg, Pa., 1863--Maps",
+    "United States--Pennsylvania--Gettysburg"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Map of the battle of Gettysburg, Pa., July 1st, 2nd & 3rd, 1863, showing line of battle on P.M. of 2nd",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466787",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

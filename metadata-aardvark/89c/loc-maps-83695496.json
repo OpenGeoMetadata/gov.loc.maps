@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Winters, Gabriel",
+    "Includes text describing the boundaries of the land, dated \"the 27th day of January 1806\", signed by the surveyor, Gabriel Winters.",
+    "Pen and ink.",
+    "Publication statement: 1806.",
+    "Shows John Wylie's property located west of Mississippi River, in Orlean's Territory.",
+    "Shows John Wylie's property located west of Mississippi River, in Orlean's Territory. Pen and ink. Includes text describing the boundaries of the land, dated \"the 27th day of January 1806\", signed by the surveyor, Gabriel Winters. Signature of John Wylie and note \"104 recorded book no 2, page 133\" on verso. Available also through the Library of Congress Web site as a raster image. Vault",
+    "Signature of John Wylie and note \"104 recorded book no 2, page 133\" on verso.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4011g.la002349",
+    "http://lccn.loc.gov/83695496",
+    "http://www.loc.gov/item/83695496/",
+    "http://www.loc.gov/resource/g4011g.la002349/",
+    "https://hdl.loc.gov/loc.gmd/g4011g.la002349",
+    "https://search.catalog.loc.gov/instances/618b56ea-6ca3-56ad-abcf-9c2b3d05c173",
+    "https://www.loc.gov/item/83695496/"
+  ],
+  "dct_issued_s": "1806",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4011/g4011g/la002349.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83695496/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "Real property--Louisiana--Maps",
+    "United States--Louisiana"
+  ],
+  "dct_temporal_sm": [
+    "1806"
+  ],
+  "dct_title_s": "John Wylie 600 acres",
+  "gbl_dateRange_drsim": [
+    "[1806 TO 1806]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1806
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83695496",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

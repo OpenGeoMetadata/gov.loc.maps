@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "City street map showing wards, ward numbers, and schools.",
+    "City street map showing wards, ward numbers, and schools. Relief shown by hachures. Includes notes and index to points of interest. LC copy imperfect: Torn at left edge, probably removed from city directory. Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cornell, S. S. (Sophia S.); Stuart, Oliver J.",
+    "Includes notes and index to points of interest.",
+    "LC copy imperfect: Torn at left edge, probably removed from city directory.",
+    "Publication statement: [New York?] : Cornells' Maps, [1870?]",
+    "Relief shown by hachures."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804r.wd000504",
+    "http://lccn.loc.gov/2011593662",
+    "http://www.loc.gov/item/2011593662/",
+    "http://www.loc.gov/resource/g3804r.wd000504/",
+    "https://hdl.loc.gov/loc.gmd/g3804r.wd000504",
+    "https://search.catalog.loc.gov/instances/286e3209-24a7-56de-9753-7d9febcacf94",
+    "https://www.loc.gov/item/2011593662/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804r/wd000504.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011593662/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "rochester",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Rochester (N.Y.)--Administrative and political divisions--Maps",
+    "Rochester (N.Y.)--Maps",
+    "Schools--New York (State)--Rochester--Maps",
+    "United States--New York (State)--Rochester"
+  ],
+  "dct_temporal_sm": [
+    "1870",
+    "[New York?] : Cornells' Maps, [1870?]"
+  ],
+  "dct_title_s": "Map of the city of Rochester : from Cornells' Maps : to accompany Boyd's Rochester and six county directory",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011593662",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no.: 17-82",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Adlum, John, 1759-1836; Bingham, William, 1752-1804",
+    "Covers lands of the William Bingham estate surveyed by John Adlum.",
+    "Covers lands of the William Bingham estate surveyed by John Adlum. Shows land ownership, lots, boundaries, numbers, dimensions, and acreages. Title from label affixed to verso. From the William Bingham estate maps. Pen-and-ink and pencil. Includes note. Available also through the Library of Congress Web site as a raster image. Acquisitions control no.: 17-82 Vault",
+    "From the William Bingham estate maps.",
+    "Includes note.",
+    "Pen-and-ink and pencil.",
+    "Publication statement: [179-?]",
+    "Shows land ownership, lots, boundaries, numbers, dimensions, and acreages.",
+    "Title from label affixed to verso.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822p.la002152",
+    "http://lccn.loc.gov/86694776",
+    "http://www.loc.gov/item/86694776/",
+    "http://www.loc.gov/resource/g3822p.la002152/",
+    "https://hdl.loc.gov/loc.gmd/g3822p.la002152",
+    "https://search.catalog.loc.gov/instances/f4b2b0a7-4416-5819-89f9-9a0851a65d4c",
+    "https://www.loc.gov/item/86694776/"
+  ],
+  "dct_issued_s": "1790",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822p/la002152.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86694776/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "pine creek",
+    "pine creek (potter county)",
+    "potter county",
+    "united states",
+    "west branch valley"
+  ],
+  "dct_subject_sm": [
+    "Boundaries (Estates)--Pennsylvania--Pine Creek, West Branch Valley (Potter County)--Maps--Early works to 1800",
+    "Real property--Pennsylvania--Pine Creek, West Branch Valley (Potter County)--Maps--Early works to 1800",
+    "United States--Pennsylvania--Pine Creek (Potter County)"
+  ],
+  "dct_temporal_sm": [
+    "1790"
+  ],
+  "dct_title_s": "W. Br. Pine Cr",
+  "gbl_dateRange_drsim": [
+    "[1790 TO 1790]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1790
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86694776",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

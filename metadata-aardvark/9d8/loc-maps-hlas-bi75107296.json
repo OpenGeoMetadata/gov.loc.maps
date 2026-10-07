@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: guyana. lands and surveys department. cartographic division; hébert, john r."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi75107296/",
+    "https://www.loc.gov/item/hlas-bi75107296/"
+  ],
+  "dct_issued_s": "1971",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Ministry of Agriculture, Lands Department,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi75107296/\"}",
+  "dct_spatial_sm": [
+    "guyana"
+  ],
+  "dct_subject_sm": [
+    "agricultural geography",
+    "agricultural geography -- guyana",
+    "guyana",
+    "maps and cartography",
+    "maps and cartography -- guyana",
+    "water conservation",
+    "water conservation -- guyana"
+  ],
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "dct_title_s": "Guyana",
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1971]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi75107296",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

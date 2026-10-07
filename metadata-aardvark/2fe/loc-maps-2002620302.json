@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802516AI (C00217) 12-01\".",
+    "Also separately issued without shaded relief.",
+    "Also shows primary administrative divisions.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes notes.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2001]",
+    "Relief shown by shading.",
+    "Relief shown by shading. \"Base 802516AI (C00217) 12-01\". Also shows primary administrative divisions. Also separately issued without shaded relief. Includes notes. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7220.ct000977",
+    "http://lccn.loc.gov/2002620302",
+    "http://www.loc.gov/item/2002620302/",
+    "http://www.loc.gov/resource/g7220.ct000977/",
+    "https://hdl.loc.gov/loc.gmd/g7220.ct000977",
+    "https://search.catalog.loc.gov/instances/5cc86793-634c-53bd-81ff-816ecfee3065",
+    "https://www.loc.gov/item/2002620302/"
+  ],
+  "dct_issued_s": "2001",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7220/g7220/ct000977.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002620302/\"}",
+  "dct_spatial_sm": [
+    "kazakhstan"
+  ],
+  "dct_subject_sm": [
+    "Kazakhstan",
+    "Kazakhstan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "dct_title_s": "Kazakhstan",
+  "gbl_dateRange_drsim": [
+    "[2001 TO 2001]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002620302",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

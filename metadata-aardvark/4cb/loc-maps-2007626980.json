@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Imperfect: Fold-lined. Mounted on paper.",
+    "In ms. in ink upside-down at lower left: 186.",
+    "Library of Congress. Civil War maps (2nd ed.), S72, 174",
+    "Pencil on stationery ruled in blue ink.",
+    "Publication statement: [1864]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Title and date from Stephenson's Civil War maps, 1989. Pencil on stationery ruled in blue ink. Watermark in lower right corner. Stationery letterhead upside-down at lower left: Head-quarters Department of the Cumberland, Office Provost Marshal General. Stationery letterhead drawn through in pencil. In ms. in ink upside-down at lower left: 186. Imperfect: Fold-lined. Mounted on paper. Library of Congress. Civil War maps (2nd ed.), S72, 174 Available also through the Library of Congress Web site as a raster image.",
+    "Stationery letterhead drawn through in pencil.",
+    "Stationery letterhead upside-down at lower left: Head-quarters Department of the Cumberland, Office Provost Marshal General.",
+    "Title and date from Stephenson's Civil War maps, 1989.",
+    "Watermark in lower right corner."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3924d.cws00072",
+    "http://lccn.loc.gov/2007626980",
+    "http://www.loc.gov/item/2007626980/",
+    "http://www.loc.gov/resource/g3924d.cws00072/",
+    "https://hdl.loc.gov/loc.gmd/g3924d.cws00072",
+    "https://search.catalog.loc.gov/instances/8fbb4518-7f03-54ca-9dc8-53db2efdde4d",
+    "https://www.loc.gov/item/2007626980/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3924/g3924d/cws00072.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007626980/\"}",
+  "dct_spatial_sm": [
+    "dalton region",
+    "georgia",
+    "united states",
+    "whitfield county"
+  ],
+  "dct_subject_sm": [
+    "Dalton Region (Whitfield County, Ga.)--History--Civil War, 1861-1865--Maps",
+    "United States--Georgia--Dalton Region"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "[Fortifications west of Dalton, Georgia]",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007626980",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hood, Washington; Irwin, James R.; Lee, Robert E. (Robert Edward), 1807-1870; Talcott, Andrew",
+    "Publication statement: [Washington, D.C.] 1835.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Scale 1:12,000; 1,000 ft. to an in. Available also through the Library of Congress Web site as a raster image.",
+    "Scale 1:12,000; 1,000 ft. to an in."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/75690624",
+    "http://www.loc.gov/item/75690624/",
+    "http://www.loc.gov/resource/g4081f.ct007588/",
+    "http://www.loc.gov/resource/g4081f.ct007589/",
+    "https://hdl.loc.gov/loc.gmd/g4081f.ct007588",
+    "https://hdl.loc.gov/loc.gmd/g4081f.ct007589",
+    "https://search.catalog.loc.gov/instances/f3966da7-88f2-5414-aba9-3645bd570133",
+    "https://www.loc.gov/item/75690624/"
+  ],
+  "dct_issued_s": "1835",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4081/g4081f/ct007588.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75690624/\"}",
+  "dct_spatial_sm": [
+    "michigan",
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Michigan--Boundaries--Ohio--Maps",
+    "Ohio--Boundaries--Michigan--Maps",
+    "United States--Michigan",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1835"
+  ],
+  "dct_title_s": "Ohio boundary, no. 2. Map exhibiting the positions occupied on the Maumee Bay and River; viz: Turtle Island, the North Cape, and that above Toledo; together with the position of the \"East line,\" in its passage of the Maumee River",
+  "gbl_dateRange_drsim": [
+    "[1835 TO 1835]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1835
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75690624",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

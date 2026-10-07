@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 650/1; 650/2; 651/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824",
+    "Has watermark.",
+    "LC Maps of North America, 1750-1789, 848",
+    "LC copy imperfect: Deterioration along fold and edges of sheet.",
+    "Publication statement: London, 1776]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. Has watermark. Shows the coast of Knox and Lincoln Counties. Scale ca. 1:49,000. LC Maps of North America, 1750-1789, 848 Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Deterioration along fold and edges of sheet. Vault AACR2: 100; 650/1; 650/2; 651/3",
+    "Scale ca. 1:49,000.",
+    "Shows the coast of Knox and Lincoln Counties.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3732c.ar084800",
+    "http://lccn.loc.gov/75695812",
+    "http://www.loc.gov/item/75695812/",
+    "http://www.loc.gov/resource/g3732c.ar084800/",
+    "https://hdl.loc.gov/loc.gmd/g3732c.ar084800",
+    "https://search.catalog.loc.gov/instances/a8280333-0471-5a36-b7e8-b734b9c802bc",
+    "https://www.loc.gov/item/75695812/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3732/g3732c/ar084800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75695812/\"}",
+  "dct_spatial_sm": [
+    "atlantic coast",
+    "knox county",
+    "lincoln county",
+    "maine",
+    "st. george's river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlantic Coast (Me.)--Maps--Early works to 1800",
+    "Coasts--Maine--Knox County--Maps--Early works to 1800",
+    "Coasts--Maine--Lincoln County--Maps--Early works to 1800",
+    "St. George's River, Me.--Maps--Early works to 1800",
+    "United States--Maine--Atlantic Coast",
+    "United States--Maine--Knox County",
+    "United States--Maine--Lincoln County",
+    "United States--Maine--St. George's River"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "[Coast of Maine from Rockland Harbor to Pemaquid Point",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75695812",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Fifth principal meridian.\"",
+    "\"Forest Service map.\"",
+    "\"Land status as of 1984.\"",
+    "\"Land status as of 1984.\" Panel title. At head of segment titles: U.S. Department of Agriculture, Forest Service, R. Max Peterson, chief. Segments of map separately titled: East half -- West half. \"Forest Service map.\" \"Fifth principal meridian.\" Includes key map, insets of Henry Koen Experimental Forest, Boston Mountain Ranger District, and Mount Magazine Ranger District, table of recreation sites, and index to Geological Survey topographic maps. Available also through the Library of Congress Web site as a raster image.",
+    "At head of segment titles: U.S. Department of Agriculture, Forest Service, R. Max Peterson, chief.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes key map, insets of Henry Koen Experimental Forest, Boston Mountain Ranger District, and Mount Magazine Ranger District, table of recreation sites, and index to Geological Survey topographic maps.",
+    "Panel title.",
+    "Publication statement: Atlanta, Ga. : The Office, 1985.",
+    "Segments of map separately titled: East half -- West half."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/86691296",
+    "http://www.loc.gov/item/86691296/",
+    "http://www.loc.gov/resource/g4002o.ct010956/",
+    "https://hdl.loc.gov/loc.gmd/g4002o.ct010956",
+    "https://search.catalog.loc.gov/instances/0f328c59-3ac8-5ffb-8e28-5e0c9dd24a7c",
+    "https://www.loc.gov/item/86691296/"
+  ],
+  "dct_issued_s": "1984",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4002/g4002o/ct010956.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86691296/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "ozark national forest",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ozark National Forest (Ark.)--Maps",
+    "United States--Arkansas--Ozark National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "dct_title_s": "Ozark National Forest, Arkansas",
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1984]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86691296",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

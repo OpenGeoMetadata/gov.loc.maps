@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"January 1989 1004381.\"",
+    "\"January 1989 1004381.\" Includes source materials note and location map. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes source materials note and location map.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [Dover, Del. : State Conservationist, distributor], 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3833s.ct008470",
+    "http://lccn.loc.gov/89696684",
+    "http://www.loc.gov/item/89696684/",
+    "http://www.loc.gov/resource/g3833s.ct008470/",
+    "https://hdl.loc.gov/loc.gmd/g3833s.ct008470",
+    "https://search.catalog.loc.gov/instances/19a60490-dcf6-5c5f-8e0f-ca9e7ed1e3de",
+    "https://www.loc.gov/item/89696684/"
+  ],
+  "dct_issued_s": "1989",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd383/g3833/g3833s/ct008470.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89696684/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "sussex county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Land use--Delaware--Sussex County--Maps",
+    "United States--Delaware--Sussex County"
+  ],
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "dct_title_s": "Land use map, Sussex County, Delaware",
+  "gbl_dateRange_drsim": [
+    "[1989 TO 1989]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1989
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89696684",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

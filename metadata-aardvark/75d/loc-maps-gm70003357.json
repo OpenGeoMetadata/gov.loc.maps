@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"76317.\"",
+    "\"76317.\" Inset: Area of main map. Scale ca. 1:200,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Inset: Area of main map.",
+    "Publication statement: [Washington, 1969]",
+    "Scale ca. 1:200,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5351f.ct002614",
+    "http://lccn.loc.gov/gm70003357",
+    "http://www.loc.gov/item/gm70003357/",
+    "http://www.loc.gov/resource/g5351f.ct002614/",
+    "https://hdl.loc.gov/loc.gmd/g5351f.ct002614",
+    "https://search.catalog.loc.gov/instances/6cb1cf05-f2ed-59c8-ae61-c2f8429165ab",
+    "https://www.loc.gov/item/gm70003357/"
+  ],
+  "dct_issued_s": "1969",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5351/g5351f/ct002614.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70003357/\"}",
+  "dct_spatial_sm": [
+    "argentina",
+    "chile"
+  ],
+  "dct_subject_sm": [
+    "Argentina",
+    "Argentina--Boundaries--Chile--Maps",
+    "Chile",
+    "Chile--Boundaries--Argentina--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "dct_title_s": "Argentina-Chile arbitral boundary",
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1969]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70003357",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

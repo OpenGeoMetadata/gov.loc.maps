@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by index on separate sheet (Beilage).",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bibliographisches Institut Leipzig",
+    "From: Meyers Konv.-Lexikon, 5 Aufl.",
+    "From: Meyers Konv.-Lexikon, 5 Aufl. Accompanied by index on separate sheet (Beilage). Includes inset map: Prag und Umgebung. 10 x 8 cm. Scale 1:70,000. Available also through the Library of Congress Web site as a raster image.",
+    "Includes inset map: Prag und Umgebung. 10 x 8 cm. Scale 1:70,000.",
+    "Publication statement: Leipzig : Bibliographisches Institut, [1894]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6514p.ct003139",
+    "http://lccn.loc.gov/2010587008",
+    "http://www.loc.gov/item/2010587008/",
+    "http://www.loc.gov/resource/g6514p.ct003139/",
+    "https://hdl.loc.gov/loc.gmd/g6514p.ct003139",
+    "https://search.catalog.loc.gov/instances/d3a40aee-4121-5d02-a892-d68c8444859e",
+    "https://www.loc.gov/item/2010587008/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6514/g6514p/ct003139.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010587008/\"}",
+  "dct_spatial_sm": [
+    "czech republic",
+    "prague"
+  ],
+  "dct_subject_sm": [
+    "Czech Republic--Prague",
+    "Prague (Czech Republic)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "Prag",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010587008",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

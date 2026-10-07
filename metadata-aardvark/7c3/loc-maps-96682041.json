@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Riba, Paul, (1912-1977)",
+    "Covers Alaska and western Yukon Territory.",
+    "Covers Alaska and western Yukon Territory. Pictorial map. Includes notes. Available also through the Library of Congress Web site as a raster image. LMP",
+    "Includes notes.",
+    "LMP",
+    "Pictorial map.",
+    "Publication statement: Cleveland, Ohio : Harris-Intertype Corp., c1962."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/96682041",
+    "http://www.loc.gov/item/96682041/",
+    "http://www.loc.gov/resource/g4371e.ct003527/",
+    "https://hdl.loc.gov/loc.gmd/g4371e.ct003527",
+    "https://search.catalog.loc.gov/instances/3307aa46-225e-59f0-ad4c-36a6cc531525",
+    "https://www.loc.gov/item/96682041/"
+  ],
+  "dct_issued_s": "1962",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd437/g4371/g4371e/ct003527.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96682041/\"}",
+  "dct_spatial_sm": [
+    "alaska",
+    "canada",
+    "united states",
+    "yukon"
+  ],
+  "dct_subject_sm": [
+    "Alaska--Maps, Pictorial",
+    "Canada--Yukon",
+    "London, Jack,--1876-1916.--Call of the wild--Maps",
+    "United States--Alaska",
+    "Yukon--Maps, Pictorial"
+  ],
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "dct_title_s": "The Call of the wild by Jack London",
+  "gbl_dateRange_drsim": [
+    "[1962 TO 1962]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96682041",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

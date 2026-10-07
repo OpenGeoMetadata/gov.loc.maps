@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Scott, Joseph (Geographer); Scott, Joseph (Geographer), cartographer",
+    "LC copy mounted on cloth backed paper. In pen on red bordered label on verso: 143/2.",
+    "Prime meridian: Philadelphia.",
+    "Prime meridian: Philadelphia. LC copy mounted on cloth backed paper. In pen on red bordered label on verso: 143/2. Wheat, J.C. Maps and charts published in America before 1800, 484 Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Philadelphia] : [Francis and Robert Bailey], [1795?]",
+    "Wheat, J.C. Maps and charts published in America before 1800, 484"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3830.ct006086",
+    "http://lccn.loc.gov/2018590120",
+    "http://www.loc.gov/item/2018590120/",
+    "http://www.loc.gov/resource/g3830.ct006086/",
+    "https://hdl.loc.gov/loc.gmd/g3830.ct006086",
+    "https://search.catalog.loc.gov/instances/17c1850c-f953-531f-a719-f35bd22d05a6",
+    "https://www.loc.gov/item/2018590120/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd383/g3830/g3830/ct006086.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018590120/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware--Maps--Early works to 1800",
+    "United States--Delaware"
+  ],
+  "dct_temporal_sm": [
+    "1795",
+    "[Philadelphia] : [Francis and Robert Bailey], [1795?]"
+  ],
+  "dct_title_s": "Delaware",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018590120",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

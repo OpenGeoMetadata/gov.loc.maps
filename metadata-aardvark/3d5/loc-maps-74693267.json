@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 60.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bowen, Emanuel, -1767",
+    "From the author's A complete atlas or distinct view of the known world. 1752.",
+    "LC Maps of North America, 1750-1789, 1380",
+    "Publication statement: [London, 1752]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. \"No. 60.\" From the author's A complete atlas or distinct view of the known world. 1752. Scale ca. 1:2,900,000. LC Maps of North America, 1750-1789, 1380 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:2,900,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3900.np000148",
+    "http://lccn.loc.gov/74693267",
+    "http://www.loc.gov/item/74693267/",
+    "http://www.loc.gov/resource/g3900.np000148/",
+    "https://hdl.loc.gov/loc.gmd/g3900.np000148",
+    "https://search.catalog.loc.gov/instances/97ffd73b-0ecc-542f-9ba6-6757748b3374",
+    "https://www.loc.gov/item/74693267/"
+  ],
+  "dct_issued_s": "1752",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3900/g3900/np000148.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693267/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "north carolina",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--Maps--Early works to 1800",
+    "North Carolina--Maps--Early works to 1800",
+    "South Carolina--Maps--Early works to 1800",
+    "United States--Georgia",
+    "United States--North Carolina",
+    "United States--South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1752"
+  ],
+  "dct_title_s": "A new & accurate map of the provinces of North & South Carolina, Georgia &c",
+  "gbl_dateRange_drsim": [
+    "[1752 TO 1752]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1752
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693267",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

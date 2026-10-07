@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Manuscript, pen-and-ink, on tracing paper.",
+    "Mounted on cloth backing.",
+    "Publication statement: 184-?]",
+    "Scale ca. 1:156,000.",
+    "Shows location of \"Putnam's fight, July 1, 1757,\" area where \"Putnam was taken prisoner, Aug. 8, 1758,\" \"Montcalm, Aug. 2, 1757,\" and \"Carpenter's attack of Fort Edward, July 23, 1757.\"",
+    "Title from manuscript catalog of Peter Force map collection.",
+    "Title from manuscript catalog of Peter Force map collection. Manuscript, pen-and-ink, on tracing paper. Mounted on cloth backing. Shows location of \"Putnam's fight, July 1, 1757,\" area where \"Putnam was taken prisoner, Aug. 8, 1758,\" \"Montcalm, Aug. 2, 1757,\" and \"Carpenter's attack of Fort Edward, July 23, 1757.\" Scale ca. 1:156,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3802g.ct004115",
+    "http://lccn.loc.gov/73691809",
+    "http://www.loc.gov/item/73691809/",
+    "http://www.loc.gov/resource/g3802g.ct004115/",
+    "https://hdl.loc.gov/loc.gmd/g3802g.ct004115",
+    "https://search.catalog.loc.gov/instances/50a3571a-acc8-5fb5-b81b-f9091327c1ba",
+    "https://www.loc.gov/item/73691809/"
+  ],
+  "dct_issued_s": "1840",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3802/g3802g/ct004115.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691809/\"}",
+  "dct_spatial_sm": [
+    "george",
+    "lake",
+    "lake george region",
+    "new york",
+    "new york (state)",
+    "region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "George, Lake, Region (N.Y.)--History--Maps--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "United States--New York (State)--Lake George Region"
+  ],
+  "dct_temporal_sm": [
+    "1840"
+  ],
+  "dct_title_s": "[Fort Edward to Putnam's Creek, incidents of the French War",
+  "gbl_dateRange_drsim": [
+    "[1840 TO 1840]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1840
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691809",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

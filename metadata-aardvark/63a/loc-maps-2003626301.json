@@ -1,0 +1,43 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Add serial 006.",
+    "Began in [199-?]",
+    "Began in [199-?] Mode of access: World Wide Web. Title from Web page last updated Aug. 21, 2002 (viewed on Feb. 7, 2003) Add serial 006.",
+    "Contributors: University of California, Berkeley. Earth Sciences & Map Library.",
+    "Mode of access: World Wide Web.",
+    "Publication statement: Berkeley, Calif. : Earth Sciences & Map Library, University of California, Berkeley,",
+    "Title from Web page last updated Aug. 21, 2002 (viewed on Feb. 7, 2003)"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2003626301",
+    "http://library.berkeley.edu/EART/MapCollections.html#web",
+    "http://www.loc.gov/item/2003626301/",
+    "https://www.loc.gov/item/2003626301/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2003626301/\"}",
+  "dct_subject_sm": [
+    "Cartography--Maps",
+    "Internet resource--Maps"
+  ],
+  "dct_temporal_sm": [
+    "199?"
+  ],
+  "dct_title_s": "Maps and cartography",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003626301",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

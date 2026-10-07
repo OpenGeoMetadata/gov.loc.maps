@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "1 digital georeferenced map.",
+    "1 digital georeferenced map. Shows land cover, research stations, and tourist landing sites. Relief shown by shading and spot heights. Depths shown by shading. Source data scale: 1:750,000. Includes text, location map and color illustrations. MARS acquisition number: ACQ0010806.",
+    "Contributors: Patterson, Tom (Cartographer), cartographer",
+    "Includes text, location map and color illustrations.",
+    "MARS acquisition number: ACQ0010806.",
+    "Publication statement: [Virginia?] : Tom Patterson, Jan. 13, 2024.",
+    "Relief shown by shading and spot heights. Depths shown by shading.",
+    "Shows land cover, research stations, and tourist landing sites.",
+    "Source data scale: 1:750,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024586062",
+    "http://www.loc.gov/item/2024586062/",
+    "http://www.loc.gov/resource/gmddigstackspublic.2024586062/",
+    "https://hdl.loc.gov/loc.gmd/gmddigstackspublic.2024586062",
+    "https://search.catalog.loc.gov/instances/203dd8a9-6978-5dc3-8f0c-c2fdad045c40",
+    "https://www.loc.gov/item/2024586062/"
+  ],
+  "dct_issued_s": "2024",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmddigstackspublic:20:24:58:60:62:2024586062:Antarctic-Peninsula-Map/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024586062/\"}",
+  "dct_rights_sm": [
+    "\"This map was made with geospatial data generously provided by others that require attribution. You are welcome to reproduce, distribute, or modify the map on condition that the sources are cited.\"--shadedrelief.com ; viewed on March 25, 2025. https://shadedrelief.com/antarctica/",
+    "Public domain. https://creativecommons.org/public-domain/"
+  ],
+  "dct_spatial_sm": [
+    "antarctic peninsula",
+    "antarctica",
+    "south shetland islands"
+  ],
+  "dct_subject_sm": [
+    "Antarctic Peninsula (Antarctica)--Maps",
+    "Antarctica--Antarctic Peninsula",
+    "Antarctica--South Shetland Islands",
+    "South Shetland Islands (Antarctica)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "dct_title_s": "South Shetland Islands and the Northern Antarctic Peninsula",
+  "gbl_dateRange_drsim": [
+    "[2024 TO 2024]"
+  ],
+  "gbl_displayNote_sm": [
+    "Unrestricted online access.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024586062",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

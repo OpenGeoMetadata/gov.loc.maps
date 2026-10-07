@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Chang Jiang fu jin tu",
+    "Title in alternate reading (Chinese): Chang Jiang fu jin tu"
+  ],
+  "dct_description_sm": [
+    "ARP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Masumitsu, Kunisuke",
+    "Covers from Hankou in Hubei Sheng, passing Henan Sheng, to Wuhu in Anhui Sheng; from Congming Dao at the mouth of Yangtze River to Wuhu in Anhui Sheng.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: Meiji 13 [1880]",
+    "Relief shown by hachures.",
+    "Shows topography, towns, villages, canals, and roads along Yangtze River, from present Shanghai, Jiangsu Province to Wuhan city, Hubei Province. Affixed red square shows military installations.",
+    "Shows topography, towns, villages, canals, and roads along Yangtze River, from present Shanghai, Jiangsu Province to Wuhan city, Hubei Province. Affixed red square shows military installations. Covers from Hankou in Hubei Sheng, passing Henan Sheng, to Wuhu in Anhui Sheng; from Congming Dao at the mouth of Yangtze River to Wuhu in Anhui Sheng. Relief shown by hachures. Pen-and-ink and watercolor. Available also through the Library of Congress Web site as a raster image. ARP"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/92682895",
+    "http://www.loc.gov/item/92682895/",
+    "http://www.loc.gov/resource/g7822y.ct003785a/",
+    "http://www.loc.gov/resource/g7822y.ct003785b/",
+    "https://hdl.loc.gov/loc.gmd/g7822y.ct003785a",
+    "https://hdl.loc.gov/loc.gmd/g7822y.ct003785b",
+    "https://search.catalog.loc.gov/instances/0a46fda5-cda4-530c-9416-32e36997a607",
+    "https://www.loc.gov/item/92682895/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "chi",
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7822/g7822y/ct003785a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92682895/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "shanghai region",
+    "wuhan region",
+    "yangtze river valley"
+  ],
+  "dct_subject_sm": [
+    "China--Shanghai Region",
+    "China--Wuhan Region",
+    "China--Yangtze River Valley",
+    "Roads--China--Shanghai Region--Maps",
+    "Roads--China--Wuhan Region--Maps",
+    "Shanghai Region (China)--Maps, Manuscript",
+    "Wuhan Region (China)--Maps, Manuscript",
+    "Yangtze River Valley (China)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Chōkō fukin no zu",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92682895",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"5,O-37,498.\"",
+    "\"Source: Family of maps SCS draw. no. 5,R-34,214 (6-74) and information from SCS field personnel.",
+    "At head of title: Map 9-1.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Lincoln, Nebr. : USDA-SCS, 1979.",
+    "Shows major streams, on stream watersheds, watershed projects and areas of flood insurance studies in southwestern Ohio.",
+    "Shows major streams, on stream watersheds, watershed projects and areas of flood insurance studies in southwestern Ohio. At head of title: Map 9-1. \"Source: Family of maps SCS draw. no. 5,R-34,214 (6-74) and information from SCS field personnel. Includes location map. \"5,O-37,498.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81691046",
+    "http://www.loc.gov/item/81691046/",
+    "http://www.loc.gov/resource/g4081c.ct011794/",
+    "https://hdl.loc.gov/loc.gmd/g4081c.ct011794",
+    "https://search.catalog.loc.gov/instances/291665f8-d0c8-5135-b65f-dda842682a47",
+    "https://www.loc.gov/item/81691046/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4081/g4081c/ct011794.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81691046/\"}",
+  "dct_spatial_sm": [
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States--Ohio",
+    "Water resources development--Ohio--Maps",
+    "Watershed management--Ohio--Maps",
+    "Watersheds--Ohio--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Mixed objective plan, southwest Ohio River basin study area, Ohio",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81691046",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

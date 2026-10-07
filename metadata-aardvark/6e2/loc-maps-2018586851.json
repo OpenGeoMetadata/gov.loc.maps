@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1884 by G.M. Hopkins, in the office of the Librarian of Congress at Washington.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hopkins, Griffith Morgan, Jr., cartographer",
+    "LC copy imperfect: disbound.",
+    "LC copy imperfect: disbound. \"Entered according to Act of Congress in the year 1884 by G.M. Hopkins, in the office of the Librarian of Congress at Washington.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Philadelphia : published by G.M. Hopkins, C.E., 1884."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018586851",
+    "http://www.loc.gov/item/2018586851/",
+    "http://www.loc.gov/resource/gmdatlases.2018586851/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2018586851",
+    "https://search.catalog.loc.gov/instances/faed38d6-b43f-546a-beb8-918d73869763",
+    "https://www.loc.gov/item/2018586851/"
+  ],
+  "dct_issued_s": "1884",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:20:18:58:68:51:2018586851:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018586851/\"}",
+  "dct_spatial_sm": [
+    "minnesota",
+    "saint paul",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Minnesota--Saint Paul--Maps",
+    "Real property--Minnesota--Saint Paul--Maps",
+    "United States--Minnesota--Saint Paul"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_title_s": "Atlas of the city of St. Paul, Minnesota",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018586851",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

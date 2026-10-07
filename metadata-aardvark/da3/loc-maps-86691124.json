@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Poe, O. M. (Orlando Metcalfe), 1832-1895",
+    "Covers Florence area, west to Independence and east to Union, in central Boone County, Kentucky. Snows Pond not shown.",
+    "Covers Florence area, west to Independence and east to Union, in central Boone County, Kentucky. Snows Pond not shown. Shows street names, houses, and names of residents. Title from annotation on verso. Oriented with north toward the lower edge of map. Pen and ink. Drawn on ruled noted paper. LC Civil War maps (2nd ed.) 229.3 Available also through the Library of Congress Web site as a raster image. Vault",
+    "LC Civil War maps (2nd ed.) 229.3",
+    "Oriented with north toward the lower edge of map.",
+    "Pen and ink. Drawn on ruled noted paper.",
+    "Publication statement: [1862]",
+    "Shows street names, houses, and names of residents.",
+    "Title from annotation on verso.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3954f.cw0229300",
+    "http://lccn.loc.gov/86691124",
+    "http://www.loc.gov/item/86691124/",
+    "http://www.loc.gov/resource/g3954f.cw0229300/",
+    "https://hdl.loc.gov/loc.gmd/g3954f.cw0229300",
+    "https://search.catalog.loc.gov/instances/90202e01-f2d5-5dba-bdee-14aa7f2f8954",
+    "https://www.loc.gov/item/86691124/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd395/g3954/g3954f/cw0229300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86691124/\"}",
+  "dct_spatial_sm": [
+    "florence",
+    "florence region",
+    "kentucky",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Florence (Ky.)--History--Civil War, 1861-1865--Maps",
+    "Florence (Ky.)--Maps",
+    "United States--Kentucky--Florence Region"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Sketch of vicinity of head qtrs. U.S. forces, Snows Pond, Kentuckey [sic]",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86691124",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

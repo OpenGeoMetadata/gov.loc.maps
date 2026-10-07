@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At head of title: C.M. no. 9.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Boschke, A., cartographer, surveyor",
+    "Number \"470\" stamped in all four corners.",
+    "Pen-and-ink on tracing linen. Stained and wrinkled. In ink on blue bordered label, 844 1863.",
+    "Publication statement: [Massachusetts?] : A. Boschke, 1863.",
+    "Shows roads and some buildings.",
+    "Stamped at lower right in red ink: U.S.C. & G Survey, Library and Archives ... acc. no. 470.",
+    "Transferred U.S.C. & G Survey, Library and Archives, no. 63.",
+    "vcFY25",
+    "vcFY25 Shows roads and some buildings. Pen-and-ink on tracing linen. Stained and wrinkled. In ink on blue bordered label, 844 1863. At head of title: C.M. no. 9. Number \"470\" stamped in all four corners. Transferred U.S.C. & G Survey, Library and Archives, no. 63. Stamped at lower right in red ink: U.S.C. & G Survey, Library and Archives ... acc. no. 470. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597759",
+    "http://www.loc.gov/item/2024597759/",
+    "http://www.loc.gov/resource/g3764b.ct005353/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ct005353",
+    "https://search.catalog.loc.gov/instances/3980bfff-8c1d-580c-a5fb-6f7fb9e7bcb6",
+    "https://www.loc.gov/item/2024597759/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd376:g3764:g3764b:ct005353/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597759/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "boston (mass.)",
+    "boston metropolitan area",
+    "boston metropolitan area (mass.)",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston (Mass.)--Maps",
+    "Boston Metropolitan Area (Mass.)--Maps",
+    "United States--Massachusetts--Boston (Mass.)",
+    "United States--Massachusetts--Boston Metropolitan Area (Mass.)"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Boston & vicinity",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597759",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

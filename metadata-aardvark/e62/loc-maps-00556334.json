@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title: Cape Lookout",
+    "Cape Lookout",
+    "Exploring Cape Lookout",
+    "Title in upper margin: Exploring Cape Lookout"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 2000--460-976/00160 Reprint 2000.\"",
+    "\"*GPO: 2000--460-976/00160 Reprint 2000.\" Depths shown by gradient tints. Panel title. Oriented with north toward the upper left. Includes text and location map. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Depths shown by gradient tints.",
+    "Includes text and location map.",
+    "Oriented with north toward the upper left.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [2000]",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/00556334",
+    "http://www.loc.gov/item/00556334/",
+    "http://www.loc.gov/resource/g3902c.ct009636/",
+    "https://hdl.loc.gov/loc.gmd/g3902c.ct009636",
+    "https://search.catalog.loc.gov/instances/90083d95-8c91-548f-9eb6-9dccf7587902",
+    "https://www.loc.gov/item/00556334/"
+  ],
+  "dct_issued_s": "2000",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902c/ct009636.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00556334/\"}",
+  "dct_spatial_sm": [
+    "cape lookout national seashore",
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cape Lookout National Seashore (N.C.)--Maps",
+    "United States--North Carolina--Cape Lookout National Seashore"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_title_s": "Cape Lookout National Seashore, North Carolina",
+  "gbl_dateRange_drsim": [
+    "[2000 TO 2000]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00556334",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

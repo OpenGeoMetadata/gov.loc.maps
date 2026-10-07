@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cullum, George W. (George Washington), 1809-1892; United States. Army. Corps of Engineers",
+    "In lower right corner: Engr. Dept., July 18/64. Recd. with Gen. Cullum's letter of the 16th inst. (C.5621).",
+    "In upper left corner: 148.D⁴ [This number refers to a numbering system used in the compilation of the \"Atlas to accompany the Official Records of the Union and Confederate Armies.\" Maps numbered 1 to 147 are filed as part of the series of manuscript maps used in the compilation of the atlas by the War Records Office and are filed in Records of the Adjutant General's Office, National Archives and Records Service, Washington, D.C.]",
+    "LC Civil War maps (2nd ed.) 416",
+    "Manuscript; pen-and-ink.",
+    "Not drawn to scale.",
+    "Oriented with north to the bottom.",
+    "Publication statement: [1862]",
+    "Relief shown by hachures.",
+    "Shows location and size of guns.",
+    "Title from verso.",
+    "Title from verso. Manuscript; pen-and-ink. Relief shown by hachures. Oriented with north to the bottom. In upper left corner: 148.D⁴ [This number refers to a numbering system used in the compilation of the \"Atlas to accompany the Official Records of the Union and Confederate Armies.\" Maps numbered 1 to 147 are filed as part of the series of manuscript maps used in the compilation of the atlas by the War Records Office and are filed in Records of the Adjutant General's Office, National Archives and Records Service, Washington, D.C.] In lower right corner: Engr. Dept., July 18/64. Recd. with Gen. Cullum's letter of the 16th inst. (C.5621). Shows location and size of guns. Not drawn to scale. LC Civil War maps (2nd ed.) 416 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3964f.cw0416000",
+    "http://lccn.loc.gov/80691156",
+    "http://www.loc.gov/item/80691156/",
+    "http://www.loc.gov/resource/g3964f.cw0416000/",
+    "https://hdl.loc.gov/loc.gmd/g3964f.cw0416000",
+    "https://search.catalog.loc.gov/instances/e7be7b55-60fa-58b1-b27a-c7bbb1837b6c",
+    "https://www.loc.gov/item/80691156/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964f/cw0416000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80691156/\"}",
+  "dct_spatial_sm": [
+    "fort donelson region",
+    "fort henry",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Donelson Region (Tenn.)--Maps, Manuscript",
+    "Fort Henry (Tenn.)--Maps, Manuscript",
+    "United States--Tennessee--Fort Donelson Region",
+    "United States--Tennessee--Fort Henry"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Original maps of Forts Henry & Donelson and vicinity",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80691156",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Captain John Smith's map of Virginia 1606.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Norris Peters Co; Smith, John, 1580-1631",
+    "Facsimile.",
+    "Facsimile. Tenth state. Relief shown pictorially. Oriented with north to the right. \"Captain John Smith's map of Virginia 1606.\" Scale ca. 1:1,290,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Oriented with north to the right.",
+    "Publication statement: [London, 1624] Washington, D.C., N. Peters Photo-Lithographers [190-?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:1,290,000.",
+    "Tenth state."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.ct008915",
+    "http://lccn.loc.gov/73694572",
+    "http://www.loc.gov/item/73694572/",
+    "http://www.loc.gov/resource/g3880.ct008915/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct008915",
+    "https://search.catalog.loc.gov/instances/9bc53f8a-3ce4-5a45-9878-25e9c6a4951a",
+    "https://www.loc.gov/item/73694572/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ct008915.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73694572/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps--Early works to 1800--Facsimiles"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Virginia,",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73694572",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

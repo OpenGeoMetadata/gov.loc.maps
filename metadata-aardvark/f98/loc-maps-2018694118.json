@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Верхнее течение рр. Хамсары и Азаса. Маршрутные съёмки к путешествию Крылова по Урянхайской земле"
+  ],
+  "dct_description_sm": [
+    "Bez setki geogr. koord.",
+    "Khamsara, r. - Azasa, r.",
+    "Khamsara, r. - Azasa, r. Bez setki geogr. koord. Original map at: Russian State Library Без сетки геогр. коорд.",
+    "Original map at: Russian State Library",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1890-1899.",
+    "Без сетки геогр. коорд."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694118",
+    "http://www.loc.gov/item/2018694118/",
+    "http://www.loc.gov/resource/gdc.2018694118/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0054",
+    "https://search.catalog.loc.gov/instances/052675ec-252d-5cfc-a75f-66a53a252af4",
+    "https://www.loc.gov/item/2018694118/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694118.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694118/2018694118.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694118:smf0054/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694118/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Azas River",
+    "Far East",
+    "Khamsara River",
+    "Maps",
+    "Russia",
+    "Russian Federation",
+    "Siberia",
+    "Tuva"
+  ],
+  "dct_temporal_sm": [
+    "1890/1899"
+  ],
+  "dct_title_s": "Verkhnee techenie rr. Khamsary i Azasa. Marshrutnye s\"ëmki k puteshestvii︠u︡ Krylova po Uri︠a︡nkhaĭskoĭ zemle",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1899]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694118",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

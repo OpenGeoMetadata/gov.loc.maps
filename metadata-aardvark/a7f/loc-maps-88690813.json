@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Alternate base map title at upper left: District of Columbia : October 1897.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map title at upper right: Permanent system of highways, second section, District of Columbia : March 1898.",
+    "DCP",
+    "Mounted on cloth backing.",
+    "Partial cadastral map.",
+    "Pen-and-ink, col. pencil, and lead pencil on printed base map.",
+    "Publication statement: [190-?]",
+    "Relief shown by contours and hachures.",
+    "Shows proposed Fort Drive (N.W. and N.E.) and associated fortifications.",
+    "Shows proposed Fort Drive (N.W. and N.E.) and associated fortifications. Partial cadastral map. Relief shown by contours and hachures. Title printed in lead pencil. Base map title at upper right: Permanent system of highways, second section, District of Columbia : March 1898. Alternate base map title at upper left: District of Columbia : October 1897. Pen-and-ink, col. pencil, and lead pencil on printed base map. Mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "Title printed in lead pencil.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852f.ct004302",
+    "http://lccn.loc.gov/88690813",
+    "http://www.loc.gov/item/88690813/",
+    "http://www.loc.gov/resource/g3852f.ct004302/",
+    "https://hdl.loc.gov/loc.gmd/g3852f.ct004302",
+    "https://search.catalog.loc.gov/instances/a3ead6af-3272-5272-bee3-8316387cb8aa",
+    "https://www.loc.gov/item/88690813/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852f/ct004302.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690813/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "fort drive",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Fort Drive (Washington, D.C.)--Maps, Manuscript",
+    "Fortification--Washington (D.C.)--Maps",
+    "Manuscript maps",
+    "Parkways--Washington (D.C.)--Planning--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Fort Drive"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Fort Driveway : [Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690813",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

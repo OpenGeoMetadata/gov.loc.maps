@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Adlum, John, 1759-1836, cartographer; Wallis, John, 1714-1793., cartographer",
+    "Covers southern New York, New Jersey, Maryland and part of Virginia.",
+    "Covers southern New York, New Jersey, Maryland and part of Virginia. Shows major roads, rivers and place names. Relief shown by hachures and form lines. Watercolor (blue). Imperfect: brittle, darkened and mounted on cloth with losses along bottom border. Annoations made in red on verso. Evans no 23104. Includes text, view of part of a canal with locks, and 3 section of lock diagrams that explain water regulation. Wheat, J.C. Maps and charts published in America before 1800, 432 Available also through the Library of Congress Web site as a raster image. vcFY25",
+    "Evans no 23104.",
+    "Imperfect: brittle, darkened and mounted on cloth with losses along bottom border. Annoations made in red on verso.",
+    "Includes text, view of part of a canal with locks, and 3 section of lock diagrams that explain water regulation.",
+    "Publication statement: [Philadelphia, Pennsylvania] : [publisher not identified], 1791.",
+    "Relief shown by hachures and form lines.",
+    "Shows major roads, rivers and place names.",
+    "Watercolor (blue).",
+    "Wheat, J.C. Maps and charts published in America before 1800, 432",
+    "vcFY25"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597785",
+    "http://www.loc.gov/item/2024597785/",
+    "http://www.loc.gov/resource/g3821p.ct005953/",
+    "https://hdl.loc.gov/loc.gmd/g3821p.ct005953",
+    "https://search.catalog.loc.gov/instances/21ce139f-8ca0-57ee-a177-948a6495f642",
+    "https://www.loc.gov/item/2024597785/"
+  ],
+  "dct_issued_s": "1791",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3821:g3821p:ct005953/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597785/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Inland navigation--Middle Atlantic States--Maps--Early works to 1800",
+    "Inland navigation--Pennsylvania--Maps--Early works to 1800",
+    "Middle Atlantic States",
+    "Roads--Middle Atlantic States--Maps--Early works to 1800",
+    "Roads--Pennsylvania--Maps--Early works to 1800",
+    "Transportation--Middle Atlantic States--Maps--Early works to 1800",
+    "Transportation--Pennsylvania--Maps--Early works to 1800",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1791"
+  ],
+  "dct_title_s": "A map exhibiting a general view of the roads and inland navigation of Pennsylvania and part of the adjacent states",
+  "gbl_dateRange_drsim": [
+    "[1791 TO 1791]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1791
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597785",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

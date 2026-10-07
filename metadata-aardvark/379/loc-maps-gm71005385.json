@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: South Western Map Co; Wiggins, E. W.",
+    "Cover title: Quarter sectional map of the Kiowa, Comanche, Apache & Wichita reservations; up to date showing allotments, county & districts boundaries, and all reserves.",
+    "Cover title: Quarter sectional map of the Kiowa, Comanche, Apache & Wichita reservations; up to date showing allotments, county & districts boundaries, and all reserves. Relief shown by hachures. Shows boundaries of the reservations. Inset: Washita County. Scale ca. 1:46,000. Available also through the Library of Congress Web site as a raster image. AACR2: 650",
+    "Inset: Washita County.",
+    "Publication statement: Wichita, Kan., South Western Map Co. [189-?]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:46,000.",
+    "Shows boundaries of the reservations."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm71005385",
+    "http://www.loc.gov/item/gm71005385/",
+    "http://www.loc.gov/resource/g4021e.ct011164/",
+    "https://hdl.loc.gov/loc.gmd/g4021e.ct011164",
+    "https://search.catalog.loc.gov/instances/f52a35d5-ff70-58f9-8de1-656f7d295638",
+    "https://www.loc.gov/item/gm71005385/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4021/g4021e/ct011164.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005385/\"}",
+  "dct_spatial_sm": [
+    "oklahoma",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Indians of North America--Oklahoma--Maps",
+    "United States--Oklahoma"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Wichitas, Kiowas, Comanches and Apaches, Oklahoma Territory",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005385",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

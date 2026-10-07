@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"For sale by Thos. E. Waggaman, real estate broker ...\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Cadastral map. \"For sale by Thos. E. Waggaman, real estate broker ...\" Includes text. Available also through the Library of Congress Web site as a raster image. LC copy fold-lined, faced with gauze, mounted on cloth backing, and annotated in pencil with date 1871. DCP",
+    "Contributors: Forsyth, William (Surveyor); Waggaman, Thos. E. (Thomas E.)",
+    "DCP",
+    "Includes text.",
+    "LC copy fold-lined, faced with gauze, mounted on cloth backing, and annotated in pencil with date 1871.",
+    "Publication statement: [Washington] : Thos. E. Waggaman, [1871?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852m.ct005038",
+    "http://lccn.loc.gov/88690990",
+    "http://www.loc.gov/item/88690990/",
+    "http://www.loc.gov/resource/g3852m.ct005038/",
+    "https://hdl.loc.gov/loc.gmd/g3852m.ct005038",
+    "https://search.catalog.loc.gov/instances/3554cadf-f1e8-54f0-965b-a1c645db0c27",
+    "https://www.loc.gov/item/88690990/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852m/ct005038.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690990/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "mount pleasant",
+    "pleasant plains",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Mount Pleasant (Washington, D.C.)--Maps",
+    "Pleasant Plains (Washington, D.C.)--Maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Mount Pleasant",
+    "United States--District of Columbia--Washington--Pleasant Plains"
+  ],
+  "dct_temporal_sm": [
+    "1871",
+    "[Washington] : Thos. E. Waggaman, [1871?]"
+  ],
+  "dct_title_s": "Plan of proposed subdivision of part of Mount Pleasant and Pleasant Plains in the District of Columbia : for Mrs. E.J. Stone",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690990",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ridgely, Henry",
+    "Imperfect: Deteriorated along fold lines.",
+    "Includes text and notes.",
+    "Manuscript, pen and ink.",
+    "Manuscript, pen and ink. Imperfect: Deteriorated along fold lines. Includes text and notes. Scale 1:3,960; \"Scale of 20 perches on an inch.\" Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1",
+    "Publication statement: [1690?]",
+    "Scale 1:3,960; \"Scale of 20 perches on an inch.\"",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3844a.ct002307",
+    "http://lccn.loc.gov/77693592",
+    "http://www.loc.gov/item/77693592/",
+    "http://www.loc.gov/resource/g3844a.ct002307/",
+    "https://hdl.loc.gov/loc.gmd/g3844a.ct002307",
+    "https://search.catalog.loc.gov/instances/86ac9bbd-5057-5996-a8b5-8b862eecdd7f",
+    "https://www.loc.gov/item/77693592/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3844/g3844a/ct002307.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77693592/\"}",
+  "dct_spatial_sm": [
+    "annapolis",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Annapolis (Md.)--Maps, Manuscript--Early works to 1800",
+    "United States--Maryland--Annapolis"
+  ],
+  "dct_temporal_sm": [
+    "1690",
+    "[1690?]"
+  ],
+  "dct_title_s": "[Survey of Annapolis]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77693592",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

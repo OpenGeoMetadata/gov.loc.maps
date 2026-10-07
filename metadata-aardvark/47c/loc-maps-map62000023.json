@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Adapted from the West Point atlas of American wars, Volume I.\"",
+    "\"Adapted from the West Point atlas of American wars, Volume I.\" Bibliography: [4] p. at end. Library of Congress. Civil War maps (2nd ed.), 97.2 LeGear. Atlases of the United States, 10682 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bibliography: [4] p. at end.",
+    "Contributors: Esposito, Vincent J. (Vincent Joseph), 1900-1965; Frederick A. Praeger, Inc; United States Military Academy. Department of Military Art and Engineering",
+    "LeGear. Atlases of the United States, 10682",
+    "Library of Congress. Civil War maps (2nd ed.), 97.2",
+    "Publication statement: New York : Frederick A. Praeger, [1962]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701sm.gcw0097200",
+    "http://lccn.loc.gov/map62000023",
+    "http://www.loc.gov/item/map62000023/",
+    "http://www.loc.gov/resource/g3701sm.gcw0097200/",
+    "https://hdl.loc.gov/loc.gmd/g3701sm.gcw0097200",
+    "https://search.catalog.loc.gov/instances/ba4f3c17-4b8c-5240-855a-7c6cda7af682",
+    "https://www.loc.gov/item/map62000023/"
+  ],
+  "dct_issued_s": "1962",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370m/g3701m/g3701sm/gcw0097200/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/map62000023/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--History--Civil War, 1861-1865--Campaigns--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "dct_title_s": "The West Point atlas of the Civil War",
+  "gbl_dateRange_drsim": [
+    "[1962 TO 1962]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map62000023",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

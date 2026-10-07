@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bellin, Jacques Nicolas, 1703-1772; Heulland, Guillaume d', -approximately 1770",
+    "Covers United States west of Rio Grande River.",
+    "Covers United States west of Rio Grande River. Relief shown pictorially. Prime meridian: Paris. Includes notes. List of maps of America in the Library of Congress Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Stained. LC copy mounted on cloth backing.",
+    "Includes notes.",
+    "LC copy imperfect: Stained.",
+    "LC copy mounted on cloth backing.",
+    "List of maps of America in the Library of Congress",
+    "Prime meridian: Paris.",
+    "Publication statement: [Paris? : N. Bellin, 1744]",
+    "Relief shown pictorially."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.ct000661",
+    "http://lccn.loc.gov/2001624910",
+    "http://www.loc.gov/item/2001624910/",
+    "http://www.loc.gov/resource/g3700.ct000661/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ct000661",
+    "https://search.catalog.loc.gov/instances/d62e7c04-6de7-5e05-8d09-31d66e5e83b0",
+    "https://www.loc.gov/item/2001624910/"
+  ],
+  "dct_issued_s": "1744",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ct000661.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001624910/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1744"
+  ],
+  "dct_title_s": "Carte de la Louisiane cours du Mississipi [i.e. Mississippi] et pais voisins : dediée à M. le Comte de Maurepas, ministre et secretaire d'etat commandeur des ordres du roy",
+  "gbl_dateRange_drsim": [
+    "[1744 TO 1744]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1744
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001624910",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

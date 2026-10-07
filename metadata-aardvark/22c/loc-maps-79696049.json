@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 110; 651/1; 651/2; 700/1; 700/2; 710/3",
+    "AACR2: 110; 651/1; 651/2; 700/1; 700/2; 710/3 Relief shown by hachures. Civil War salted paper maps. AL 95.1, AL 95.2, AL 95.3. LC copy 1 annotated in ink: Engr. Office Depmt. Va. & N.C., October 28th. Official, Peter S. Michie, 1st Lt. U.S. Engrs., Chief Engr. Depmt. Scale 1:80,000. Library of Congress. Civil War maps (2nd ed.), 642 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Civil War salted paper maps. AL 95.1, AL 95.2, AL 95.3.",
+    "Contributors: Hawley, Joseph R. (Joseph Roswell), 1826-1905; Michie, Peter Smith, 1839-1901; United States. Army of the James; United States. Army. Corps of Engineers",
+    "LC copy 1 annotated in ink: Engr. Office Depmt. Va. & N.C., October 28th. Official, Peter S. Michie, 1st Lt. U.S. Engrs., Chief Engr. Depmt.",
+    "Library of Congress. Civil War maps (2nd ed.), 642",
+    "Publication statement: [S.l. : s.n., 1864]",
+    "Relief shown by hachures.",
+    "Scale 1:80,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884r.cw0642000",
+    "http://lccn.loc.gov/79696049",
+    "http://www.loc.gov/item/79696049/",
+    "http://www.loc.gov/resource/g3884r.cw0642000/",
+    "https://hdl.loc.gov/loc.gmd/g3884r.cw0642000",
+    "https://search.catalog.loc.gov/instances/92744325-2170-5043-b3f3-8e45be216933",
+    "https://www.loc.gov/item/79696049/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884r/cw0642000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79696049/\"}",
+  "dct_spatial_sm": [
+    "richmond region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Richmond Region (Va.)--Defenses--Maps",
+    "Richmond Region (Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia--Richmond Region"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Copy of section of photograph map captured from the enemy, showing country adjacent to Richmond and lines of defensive works surrounding the city",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79696049",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

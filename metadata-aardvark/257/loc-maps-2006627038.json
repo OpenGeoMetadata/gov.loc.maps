@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Experience Texas",
+    "Title from panel: Experience Texas"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes col. ill.",
+    "Includes col. ill. Text, descriptive list to state parks, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Albuquerque, N.M.] : National Park Service, [2006?]",
+    "Text, descriptive list to state parks, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2006627038",
+    "http://www.loc.gov/item/2006627038/",
+    "http://www.loc.gov/resource/g4031g.ct011277/",
+    "https://hdl.loc.gov/loc.gmd/g4031g.ct011277",
+    "https://search.catalog.loc.gov/instances/a6b6e931-b59f-5512-a82f-59971571df36",
+    "https://www.loc.gov/item/2006627038/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4031/g4031g/ct011277.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006627038/\"}",
+  "dct_spatial_sm": [
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Parks--Texas--Maps",
+    "United States--Texas"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "[Albuquerque, N.M.] : National Park Service, [2006?]"
+  ],
+  "dct_title_s": "National Parks of Texas",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006627038",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

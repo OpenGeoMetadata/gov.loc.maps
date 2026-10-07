@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bry, Theodor de, 1528-1598; Harriot, Thomas, 1560-1621; White, John, active 1585-1593",
+    "Covers coastal region from Cape Fear to Chesapeake Bay.",
+    "From Thomas Hariot's A briefe and true report of the new found land of Virginia, 1590.",
+    "Has watermark.",
+    "Has watermark. Oriented with north to the right. Relief shown pictorially and by hachures. Pictorial map. Covers coastal region from Cape Fear to Chesapeake Bay. From Thomas Hariot's A briefe and true report of the new found land of Virginia, 1590. Scale ca. 1:1,700,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Oriented with north to the right.",
+    "Pictorial map.",
+    "Publication statement: [Francofurtum ad Mænum] : De Brÿ, [1590]",
+    "Relief shown pictorially and by hachures.",
+    "Scale ca. 1:1,700,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.ct000777",
+    "http://lccn.loc.gov/78694920",
+    "http://www.loc.gov/item/78694920/",
+    "http://www.loc.gov/resource/g3880.ct000777/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct000777",
+    "https://search.catalog.loc.gov/instances/bf8a724d-cb73-5d20-b68c-4ea9b90add4c",
+    "https://www.loc.gov/item/78694920/"
+  ],
+  "dct_issued_s": "1590",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ct000777.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78694920/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "roanoke colony",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "North Carolina--Maps--Early works to 1800",
+    "Roanoke Colony--Maps--Early works to 1800",
+    "United States--North Carolina",
+    "United States--North Carolina--Roanoke Colony",
+    "United States--Virginia",
+    "Virginia--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1590"
+  ],
+  "dct_title_s": "Americæ pars, nunc Virginia dicta : primum ab Anglis inuenta, sumtibus Dn. Walteri Raleigh, Equestris ordinis Viri, Anno Dn̄i. MDLXXXV regni Vero Sereniss. nostræ Reginæ Elisabethæ XXVII, hujus vero Historia peculiari Libro descripta est, additis etiam Indigenarum Iconibus",
+  "gbl_dateRange_drsim": [
+    "[1590 TO 1590]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1590
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78694920",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

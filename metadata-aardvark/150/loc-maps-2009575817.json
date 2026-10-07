@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of South West Virginia and North Carolina",
+    "Military map of southwestern Virginia and North Carolina"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no.: 2000-45.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "CW3",
+    "Contributors: Bache, A. D. (Alexander Dallas), 1806-1867; Krebs, Charles G.; Lindenkohl, H. (Henry); United States Coast Survey",
+    "Originally issued as a map folded into a textual publication (book?).",
+    "Publication statement: [Washington, D.C.] : U.S. Coast Survey, 1865.",
+    "Relief shown by hachures and shading.",
+    "Relief shown by hachures and shading. Originally issued as a map folded into a textual publication (book?). Available also through the Library of Congress Web site as a raster image. Acquisitions control no.: 2000-45. CW3"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.cw1019000",
+    "http://lccn.loc.gov/2009575817",
+    "http://www.loc.gov/item/2009575817/",
+    "http://www.loc.gov/resource/g3880.cw1019000/",
+    "https://hdl.loc.gov/loc.gmd/g3880.cw1019000",
+    "https://search.catalog.loc.gov/instances/af7c353c-7aad-59cc-b29f-d4c0df6896a3",
+    "https://www.loc.gov/item/2009575817/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/cw1019000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009575817/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "North Carolina--Maps",
+    "United States--North Carolina",
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Military map of south-western Virginia & North Carolina",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009575817",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

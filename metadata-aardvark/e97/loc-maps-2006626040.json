@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Gilbert Thompson\" stamped on lower left corner, annotated in pencil.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Civil War salted paper maps. AL 94.1, AL 94.2.",
+    "Contributors: Walker, Lewis E. (Lewis Emory), 1822-1880",
+    "Description derived from published bibliography.",
+    "Library of Congress. Civil War maps (2nd ed.), 616",
+    "North oriented towards right in pencil.",
+    "Publication statement: [S.l. : s.n.], 1865",
+    "Relief shown by form lines.",
+    "Relief shown by form lines. Description derived from published bibliography. North oriented towards right in pencil. Shows names of some residents. \"Gilbert Thompson\" stamped on lower left corner, annotated in pencil. Sun print. Civil War salted paper maps. AL 94.1, AL 94.2. Library of Congress. Civil War maps (2nd ed.), 616 Available also through the Library of Congress Web site as a raster image.",
+    "Shows names of some residents.",
+    "Sun print."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884p.cw0616001",
+    "http://hdl.loc.gov/loc.gmd/g3884p.cw0616002",
+    "http://lccn.loc.gov/2006626040",
+    "http://www.loc.gov/item/2006626040/",
+    "http://www.loc.gov/resource/g3884p.cw0616001/",
+    "http://www.loc.gov/resource/g3884p.cw0616002/",
+    "https://hdl.loc.gov/loc.gmd/g3884p.cw0616001",
+    "https://hdl.loc.gov/loc.gmd/g3884p.cw0616002",
+    "https://search.catalog.loc.gov/instances/b8ef74ac-3a46-5374-96b2-612dfd4f6426",
+    "https://www.loc.gov/item/2006626040/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884p/cw0616001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006626040/\"}",
+  "dct_spatial_sm": [
+    "petersburg region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Petersburg Region (Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia--Petersburg Region"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "[Map of part of the Union lines during the siege of Petersburg, Virginia]",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006626040",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

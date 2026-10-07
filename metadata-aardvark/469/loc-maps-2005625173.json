@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Hotchkiss, Jedediah, 1828-1899",
+    "LC Civil War maps (2nd ed.), H270",
+    "Pen-and-ink and pencil, mounted on cloth.",
+    "Relief shown by form lines.",
+    "Relief shown by form lines. Pen-and-ink and pencil, mounted on cloth. LC Civil War maps (2nd ed.), H270 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884w.cwh00270",
+    "http://lccn.loc.gov/2005625173",
+    "http://www.loc.gov/item/2005625173/",
+    "http://www.loc.gov/resource/g3884w.cwh00270/",
+    "https://hdl.loc.gov/loc.gmd/g3884w.cwh00270",
+    "https://search.catalog.loc.gov/instances/a9dd3170-6c91-5e92-ad56-b29790036704",
+    "https://www.loc.gov/item/2005625173/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884w/cwh00270.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625173/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "waynesboro region"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Virginia--Planning",
+    "Shenandoah Valley Railroad--Maps",
+    "United States--Virginia",
+    "United States--Virginia--Waynesboro Region",
+    "Waynesboro Region (Va.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Map of central Virginia showing proposed southern extension of the Shenandoah Valley R.R. from Waynesboro to Bonsack's",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625173",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

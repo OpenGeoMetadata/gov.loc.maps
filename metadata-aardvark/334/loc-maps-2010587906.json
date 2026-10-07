@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Bureau of Chemistry and Soils",
+    "Publication statement: [S.l.] : Field Operations, Bureau of Chemistry and Soils, 1931."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4023k.ct002378",
+    "http://lccn.loc.gov/2010587906",
+    "http://www.loc.gov/item/2010587906/",
+    "http://www.loc.gov/resource/g4023k.ct002378/",
+    "https://hdl.loc.gov/loc.gmd/g4023k.ct002378",
+    "https://search.catalog.loc.gov/instances/ea6cfd31-f397-548d-8eef-57d58f493ca8",
+    "https://www.loc.gov/item/2010587906/"
+  ],
+  "dct_issued_s": "1931",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4023/g4023k/ct002378.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010587906/\"}",
+  "dct_spatial_sm": [
+    "kiowa county",
+    "oklahoma",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soils--Oklahoma--Kiowa County--Maps",
+    "United States--Oklahoma--Kiowa County"
+  ],
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "dct_title_s": "Soil Map, Kiowa County, Oklahoma",
+  "gbl_dateRange_drsim": [
+    "[1931 TO 1931]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1931
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010587906",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

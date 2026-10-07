@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by: Index map of the boundary between the United States and Mexico / as surveyed and marked by the International Boundary Commission under the convention of July 29th 1882, revived Feb. 18th 1889. 2 maps : photocopies ; 29 x 48 cm.",
+    "Contributors: International Boundary Commission",
+    "Publication statement: [Washington, D.C.] : The Commission, [1889]",
+    "Relief shown by contours.",
+    "Relief shown by contours. Accompanied by: Index map of the boundary between the United States and Mexico / as surveyed and marked by the International Boundary Commission under the convention of July 29th 1882, revived Feb. 18th 1889. 2 maps : photocopies ; 29 x 48 cm."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95684680",
+    "http://www.loc.gov/item/95684680/",
+    "http://www.loc.gov/resource/gmdsetmaps.95684680/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.95684680",
+    "https://search.catalog.loc.gov/instances/f2b45573-f5bc-55e6-be09-4465bdc3a80e",
+    "https://www.loc.gov/item/95684680/"
+  ],
+  "dct_issued_s": "1889",
+  "dct_language_sm": [
+    "eng",
+    "engspa",
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:95:68:46:80:95684680:cs000001r/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/95684680/\"}",
+  "dct_spatial_sm": [
+    "mexico",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mexico",
+    "Mexico--Boundaries--United States--Maps",
+    "United States",
+    "United States--Boundaries--Mexico--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "dct_title_s": "Boundary between the United States and Mexico",
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95684680",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

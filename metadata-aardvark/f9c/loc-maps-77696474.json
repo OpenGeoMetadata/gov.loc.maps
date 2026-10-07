@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"240-951/84.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and location map.",
+    "Publication statement: [Washington, GPO, 1977]",
+    "Scale ca. 1:93,000.",
+    "Shows Cumberland Island National Seashore.",
+    "Shows Cumberland Island National Seashore. \"240-951/84.\" Includes text and location map. Text, chronology, and illus. (part col.) on verso. Scale ca. 1:93,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Text, chronology, and illus. (part col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/77696474",
+    "http://www.loc.gov/item/77696474/",
+    "http://www.loc.gov/resource/g3922c.ct010028/",
+    "https://hdl.loc.gov/loc.gmd/g3922c.ct010028",
+    "https://search.catalog.loc.gov/instances/d8e9d974-c739-5f0f-89e7-ce24062cfa8c",
+    "https://www.loc.gov/item/77696474/"
+  ],
+  "dct_issued_s": "1977",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922c/ct010028.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77696474/\"}",
+  "dct_spatial_sm": [
+    "cumberland island",
+    "cumberland island national seashore",
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cumberland Island (Ga.)--Maps",
+    "Cumberland Island National Seashore (Ga.)--Maps",
+    "United States--Georgia--Cumberland Island",
+    "United States--Georgia--Cumberland Island National Seashore"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_title_s": "Cumberland Island",
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77696474",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Compiled from Base 4-R-28702.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Louisiana Agricultural Experiment Station; National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "In lower right margin: Revised Nov. 1971. 4-R-17131-A.",
+    "In lower right margin: Revised Nov. 1971. 4-R-17131-A. \"Compiled from Base 4-R-28702.\" Includes descriptive legend and table \"Proportion of association in parish.\" Text and table \"Soil interpretations for selected uses\" on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Includes descriptive legend and table \"Proportion of association in parish.\"",
+    "Publication statement: Fort Worth, TX : USDA-SCS-National Cartographic Center ; [Alexandria, La. : State Conservationist, distributor], 1990.",
+    "Text and table \"Soil interpretations for selected uses\" on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/92682547",
+    "http://www.loc.gov/item/92682547/",
+    "http://www.loc.gov/resource/g4013l.ct011123/",
+    "https://hdl.loc.gov/loc.gmd/g4013l.ct011123",
+    "https://search.catalog.loc.gov/instances/a928b716-f329-5638-b3ca-a4238cce081c",
+    "https://www.loc.gov/item/92682547/"
+  ],
+  "dct_issued_s": "1971",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4013/g4013l/ct011123.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92682547/\"}",
+  "dct_spatial_sm": [
+    "lincoln parish",
+    "louisiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soils--Louisiana--Lincoln Parish--Maps",
+    "United States--Louisiana--Lincoln Parish"
+  ],
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "dct_title_s": "General soil map, Lincoln Parish, Louisiana",
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1971]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92682547",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

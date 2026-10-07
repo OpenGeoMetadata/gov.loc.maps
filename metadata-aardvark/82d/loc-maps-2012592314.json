@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: McCerren, Landry & Powell",
+    "Copy imperfect: Mounted on cloth back, stained and folded in half.",
+    "Includes text, list of lands for sale and ill.",
+    "LC Land ownership maps, 246",
+    "Publication statement: New Orleans, [La.] : McCerren, Landry & Powell, 1860",
+    "Shows names of some residents.",
+    "Shows names of some residents. Stamped on lower right: Division of maps, May 4, 1931, Library of Congress. Copy imperfect: Mounted on cloth back, stained and folded in half. Includes text, list of lands for sale and ill. LC Land ownership maps, 246 Available also through the Library of Congress Web site as a raster image.",
+    "Stamped on lower right: Division of maps, May 4, 1931, Library of Congress."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4013c.la000246",
+    "http://lccn.loc.gov/2012592314",
+    "http://www.loc.gov/item/2012592314/",
+    "http://www.loc.gov/resource/g4013c.la000246/",
+    "https://hdl.loc.gov/loc.gmd/g4013c.la000246",
+    "https://search.catalog.loc.gov/instances/ca460b1a-4bda-5805-9760-4917ab704139",
+    "https://www.loc.gov/item/2012592314/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4013/g4013c/la000246.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592314/\"}",
+  "dct_spatial_sm": [
+    "caldwell parish",
+    "louisiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Caldwell Parish (La.)--Maps",
+    "Landowners--Louisiana--Caldwell Parish--Maps",
+    "United States--Louisiana--Caldwell Parish"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Map of the Parish of Caldwell, Louisiana : from United States surveys",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592314",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

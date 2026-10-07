@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Furlong, William Rea, 1881-1976; Great Britain. Hydrographic Department. cartographer",
+    "Finding aid available in the Geography and Map Reading Room and at http://hdl.loc.gov/loc.gmd/eadgmd.gm016004",
+    "In English and French.",
+    "Publication statement: [Various places] : [various publishers], 1870-1918.",
+    "Transfer ; LC Manuscript Division.",
+    "Transferred from Manuscript Division. Originally part of William Rea Furlong Papers.",
+    "William Rea Furlong was a United States Navy Rear Admiral during World War II, who also served in the Navy during World War I. The collection consists of World War I-era maps and charts. One chart from 1918 depicts German and British minefields along the coast of England and a portion of continental Europe. Other items are nautical charts of Aegean Sea with annotations."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5701sm.gct00412",
+    "http://lccn.loc.gov/2016586588",
+    "http://www.loc.gov/item/2016586588/",
+    "http://www.loc.gov/resource/g5701sm.gct00412/",
+    "https://hdl.loc.gov/loc.gmd/g5701sm.gct00412",
+    "https://search.catalog.loc.gov/instances/1f9a7ded-e716-5cd2-92ac-c0deda12bddf",
+    "https://www.loc.gov/item/2016586588/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5m/g5701m/g5701sm/gct00412/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2016586588/\"}",
+  "dct_spatial_sm": [
+    "aegean sea",
+    "europe",
+    "france",
+    "north sea"
+  ],
+  "dct_subject_sm": [
+    "Aegean Sea",
+    "Aegean Sea--Maps",
+    "Europe",
+    "North Sea",
+    "North Sea--Maps",
+    "Railroads--France--Maps",
+    "World War, 1914-1918--Europe--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1870/1918"
+  ],
+  "dct_title_s": "William Rea Furlong map collection",
+  "gbl_dateRange_drsim": [
+    "[1870 TO 1918]"
+  ],
+  "gbl_displayNote_sm": [
+    "Open to research.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1870
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2016586588",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

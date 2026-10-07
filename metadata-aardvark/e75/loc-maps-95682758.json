@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: West Virginia Geological and Economic Survey; White, I. C. (Israel Charles), 1848-1927",
+    "Publication statement: [Wheeling] : The Survey, 1911.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95682758",
+    "http://www.loc.gov/item/95682758/",
+    "http://www.loc.gov/resource/g3893w.ct009535/",
+    "https://hdl.loc.gov/loc.gmd/g3893w.ct009535",
+    "https://search.catalog.loc.gov/instances/3f28a751-4c47-5de4-a4f9-b88b543e9896",
+    "https://www.loc.gov/item/95682758/"
+  ],
+  "dct_issued_s": "1911",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3893/g3893w/ct009535.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95682758/\"}",
+  "dct_spatial_sm": [
+    "calhoun county",
+    "roane county",
+    "united states",
+    "west virginia",
+    "wirt county"
+  ],
+  "dct_subject_sm": [
+    "Calhoun County (W. Va.)--Maps",
+    "Roane County (W. Va.)--Maps",
+    "United States--West Virginia--Calhoun County",
+    "United States--West Virginia--Roane County",
+    "United States--West Virginia--Wirt County",
+    "Wirt County (W. Va.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "dct_title_s": "Map of Wirt, Roane, and Calhoun counties showing topography",
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1911
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-95682758",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

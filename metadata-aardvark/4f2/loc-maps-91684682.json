@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 801724 (E00373) 4-91.\"",
+    "\"Base 801724 (E00373) 4-91.\" Includes list of first order administrative divisions. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes list of first order administrative divisions.",
+    "Publication statement: [Washington : Central Intelligence Agency, 1991]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7600.ct000927",
+    "http://lccn.loc.gov/91684682",
+    "http://www.loc.gov/item/91684682/",
+    "http://www.loc.gov/resource/g7600.ct000927/",
+    "https://hdl.loc.gov/loc.gmd/g7600.ct000927",
+    "https://search.catalog.loc.gov/instances/a8ac923d-bcc7-5823-a1af-a30191608f32",
+    "https://www.loc.gov/item/91684682/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7600/g7600/ct000927.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91684682/\"}",
+  "dct_spatial_sm": [
+    "kuwait"
+  ],
+  "dct_subject_sm": [
+    "Kuwait",
+    "Kuwait--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "Kuwait",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91684682",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

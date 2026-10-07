@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Lloyd, James T.",
+    "Description derived from published bibliography.",
+    "Includes an adverstisement in the upper right corner for \"Lloyd's great military map of the fifteen southern states\" and advertisements below the map title for \"",
+    "LC Civil War Maps (2nd ed.), 14.1",
+    "On verso: Lloyd's American railroad weekly, vol. 2, no. 8, October 5, 1861.",
+    "On verso: Lloyd's American railroad weekly, vol. 2, no. 8, October 5, 1861. Includes an adverstisement in the upper right corner for \"Lloyd's great military map of the fifteen southern states\" and advertisements below the map title for \" Description derived from published bibliography. Scale ca. 1:1,900,800. LC Civil War Maps (2nd ed.), 14.1 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: New York, Louisville, London and San Francisco, [1861]",
+    "Scale ca. 1:1,900,800."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.cw0014100",
+    "http://lccn.loc.gov/99447034",
+    "http://www.loc.gov/item/99447034/",
+    "http://www.loc.gov/resource/g3701p.cw0014100/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.cw0014100",
+    "https://search.catalog.loc.gov/instances/525a7a5b-45c8-5f45-9602-61d6c6428d0d",
+    "https://www.loc.gov/item/99447034/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/cw0014100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447034/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Lloyd's American railroad map, showing the whole seat of the war",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447034",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

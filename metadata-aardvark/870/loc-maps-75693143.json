@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beck & Pauli; Stoner, J. J.",
+    "Indexed for points of interest.",
+    "Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 75 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 75",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Madison, Wis., c1882."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4314s.pm000750",
+    "http://lccn.loc.gov/75693143",
+    "http://www.loc.gov/item/75693143/",
+    "http://www.loc.gov/resource/g4314s.pm000750/",
+    "https://hdl.loc.gov/loc.gmd/g4314s.pm000750",
+    "https://search.catalog.loc.gov/instances/1237deb2-be3e-5d8b-9cb3-01d156f912dd",
+    "https://www.loc.gov/item/75693143/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd431/g4314/g4314s/pm000750.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693143/\"}",
+  "dct_spatial_sm": [
+    "colorado",
+    "salida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Salida (Colo.)",
+    "United States--Colorado--Salida"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Bird's eye view of Salida, Chaffee County, Colorado. 1882",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693143",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

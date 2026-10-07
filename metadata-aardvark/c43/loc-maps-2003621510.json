@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Maps, digital/internet accessible"
+  ],
+  "dct_description_sm": [
+    "Began publication in 1995?",
+    "Began publication in 1995? Mode of access: World Wide Web. Title from HTML title (viewed on Aug. 29, 2003).",
+    "Mode of access: World Wide Web.",
+    "Publication statement: [S.l.] : H-Net, Humanities & Social Sciences OnLine",
+    "Title from HTML title (viewed on Aug. 29, 2003)."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2003621510",
+    "http://www.h-net.org/~dclist/maps.html",
+    "http://www.loc.gov/item/2003621510/",
+    "https://www.loc.gov/item/2003621510/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2003621510/\"}",
+  "dct_subject_sm": [
+    "Internet resource--Maps",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Maps of Washington DC online",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003621510",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

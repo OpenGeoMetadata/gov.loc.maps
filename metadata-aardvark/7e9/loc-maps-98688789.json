@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "56944 U.S. Copyright Office",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: American Bank Note Company; Richmond and Danville Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 545",
+    "Perspective map looking north from Florida covering the southern United States. Relief is shown by shading. Drainage, cities and towns, and the railroad network are indicated. Main lines appear in heavy red.",
+    "Publication statement: New York, 1893.",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3706p.rr005450",
+    "http://lccn.loc.gov/98688789",
+    "http://www.loc.gov/item/98688789/",
+    "http://www.loc.gov/resource/g3706p.rr005450/",
+    "https://hdl.loc.gov/loc.gmd/g3706p.rr005450",
+    "https://search.catalog.loc.gov/instances/ec603337-71a1-5c0c-a735-376c99686568",
+    "https://www.loc.gov/item/98688789/"
+  ],
+  "dct_issued_s": "1893",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3706/g3706p/rr005450.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688789/\"}",
+  "dct_spatial_sm": [
+    "east",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--East (U.S.)--Maps",
+    "Richmond and Danville Railroad Company--Maps",
+    "United States--East"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "dct_title_s": "Birds-eye-view of the Richmond & Danville Railroad and the Florida Central & Peninsular Systems and their connections",
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688789",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

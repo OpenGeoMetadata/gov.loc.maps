@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no.: 2005-141",
+    "Aerial view of village.",
+    "Aerial view of village. Oriented with north toward the upper right. LC copy imperfect: Torn at edges, taped. Includes index to points of interest. Available also through the Library of Congress Web site as a raster image. PM3 Acquisitions control no.: 2005-141",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Burleigh Litho; Norris, George E.",
+    "Includes index to points of interest.",
+    "LC copy imperfect: Torn at edges, taped.",
+    "Oriented with north toward the upper right.",
+    "PM3",
+    "Publication statement: Brockton, Mass. : Geo. E. Norris, 1892."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804p.pm010980",
+    "http://lccn.loc.gov/2005626665",
+    "http://www.loc.gov/item/2005626665/",
+    "http://www.loc.gov/resource/g3804p.pm010980/",
+    "https://hdl.loc.gov/loc.gmd/g3804p.pm010980",
+    "https://search.catalog.loc.gov/instances/fbeaea1f-bc9e-56da-aee9-fdedd4277f94",
+    "https://www.loc.gov/item/2005626665/"
+  ],
+  "dct_issued_s": "1892",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804p/pm010980.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005626665/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "perry",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Perry (N.Y.)--Aerial views",
+    "United States--New York (State)--Perry"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "dct_title_s": "Perry, N.Y., Wyoming Co., 1892",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005626665",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

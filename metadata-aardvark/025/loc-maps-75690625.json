@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows boundaries between Ohio, Michigan, Indiana, and Ontario.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Haas, P.; Talcott, Andrew; [Hood, Washington]",
+    "Includes text.",
+    "Originally accompanied a report of Capt. Andrew Talcott, Dec. 14, 1835, concerning the Ohio boundary.",
+    "Originally accompanied a report of Capt. Andrew Talcott, Dec. 14, 1835, concerning the Ohio boundary. Also shows boundaries between Ohio, Michigan, Indiana, and Ontario. Includes text. Scale 1:625,000. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington, D.C., 1835?]",
+    "Scale 1:625,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/75690625",
+    "http://www.loc.gov/item/75690625/",
+    "http://www.loc.gov/resource/g4081f.ct011804/",
+    "https://hdl.loc.gov/loc.gmd/g4081f.ct011804",
+    "https://search.catalog.loc.gov/instances/4604e4f7-6b1c-520f-9292-35b9f3afea66",
+    "https://www.loc.gov/item/75690625/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4081/g4081f/ct011804.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75690625/\"}",
+  "dct_spatial_sm": [
+    "michigan",
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Michigan--Boundaries--Ohio--Maps",
+    "Ohio--Boundaries--Michigan--Maps",
+    "United States--Michigan",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1835",
+    "[Washington, D.C., 1835?]"
+  ],
+  "dct_title_s": "Map exhibiting the position of the several lines connected with the settlement of the Ohio boundary question",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75690625",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

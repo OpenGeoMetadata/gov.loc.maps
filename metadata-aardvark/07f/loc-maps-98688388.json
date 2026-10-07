@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mendel, Edward, 1827-1884",
+    "Description derived from published bibliography.",
+    "Inset: Illinois geological survey. Diagram of the state of Illinois. col. 20 x 12 cm.",
+    "LC Railroad maps, 115",
+    "Map of the north-central United States, east of the Mississippi River, showing the railroad network.",
+    "Publication statement: Chicago, [185-]",
+    "Scale ca. 1:2,800,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4061p.rr001150",
+    "http://lccn.loc.gov/98688388",
+    "http://www.loc.gov/item/98688388/",
+    "http://www.loc.gov/resource/g4061p.rr001150/",
+    "https://hdl.loc.gov/loc.gmd/g4061p.rr001150",
+    "https://search.catalog.loc.gov/instances/2a3ac465-bfda-5c89-a403-1bb559ab512b",
+    "https://www.loc.gov/item/98688388/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd406/g4061/g4061p/rr001150.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688388/\"}",
+  "dct_spatial_sm": [
+    "middle west",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Middle West--Maps",
+    "United States--Middle West"
+  ],
+  "dct_temporal_sm": [
+    "185?"
+  ],
+  "dct_title_s": "Map showing the position of Chicago in connection with the North West & the principal lines of rail roads, canals, navigable streams and lakes, together with the most important towns, and their distances from Chicago",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688388",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

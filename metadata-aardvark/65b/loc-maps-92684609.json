@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"725432 (540876) 6-92.\"",
+    "Also shows Jerusalem city limit expansion.",
+    "Also shows Jerusalem city limit expansion. Includes notes on Israeli occupations and maps showing proportional share of Arab and Jewish population. \"725432 (540876) 6-92.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes notes on Israeli occupations and maps showing proportional share of Arab and Jewish population.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1992]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7512w.ct002849",
+    "http://lccn.loc.gov/92684609",
+    "http://www.loc.gov/item/92684609/",
+    "http://www.loc.gov/resource/g7512w.ct002849/",
+    "https://hdl.loc.gov/loc.gmd/g7512w.ct002849",
+    "https://search.catalog.loc.gov/instances/73739b3e-a2d9-5045-9312-271917ac8218",
+    "https://www.loc.gov/item/92684609/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7512/g7512w/ct002849.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92684609/\"}",
+  "dct_spatial_sm": [
+    "jerusalem",
+    "west bank"
+  ],
+  "dct_subject_sm": [
+    "Ethnology--Jerusalem--Maps",
+    "Ethnology--West Bank--Maps",
+    "Jerusalem",
+    "Jerusalem--Population--Maps",
+    "West Bank",
+    "West Bank--Population--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "West Bank and east Jerusalem, population, January 1992",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92684609",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

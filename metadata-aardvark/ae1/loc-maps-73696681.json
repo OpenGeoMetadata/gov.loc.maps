@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Le Rouge, Georges-Louis",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Includes illus. of Niagara Falls and text at bottom of map. Scale ca. 1:4,450,000. Lowery, 415 Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 33 Available also through the Library of Congress Web site as a raster image. LC copy annotated in French to show \"les pretensions des Anglois\" especially as regards boundaries and treaties concerning Nova Scotia. Vault AACR2",
+    "Includes illus. of Niagara Falls and text at bottom of map.",
+    "LC copy annotated in French to show \"les pretensions des Anglois\" especially as regards boundaries and treaties concerning Nova Scotia.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 33",
+    "Lowery, 415",
+    "Publication statement: Paris, 1755.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:4,450,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar003300",
+    "http://lccn.loc.gov/73696681",
+    "http://www.loc.gov/item/73696681/",
+    "http://www.loc.gov/resource/g3300.ar003300/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar003300",
+    "https://search.catalog.loc.gov/instances/4dd50424-a2b2-5a67-9cf6-7e3e41321eb6",
+    "https://www.loc.gov/item/73696681/"
+  ],
+  "dct_issued_s": "1755",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar003300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73696681/\"}",
+  "dct_spatial_sm": [
+    "acadia",
+    "canada",
+    "louisiana",
+    "north america",
+    "nova scotia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Acadia",
+    "Canada",
+    "Canada--Acadia",
+    "Canada--Nova Scotia",
+    "Louisiana",
+    "North America",
+    "North America--Maps--Early works to 1800",
+    "Nova Scotia",
+    "United States--Louisiana"
+  ],
+  "dct_temporal_sm": [
+    "1755"
+  ],
+  "dct_title_s": "Canada et Louisiane",
+  "gbl_dateRange_drsim": [
+    "[1755 TO 1755]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1755
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73696681",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

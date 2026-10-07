@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bruff, Joseph Goldsborough, 1804-1889",
+    "Indexed.",
+    "LC Luso-Hispanic World, 591",
+    "Pen-and-ink, blue and red inks, and pencil on tracing paper.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Pen-and-ink, blue and red inks, and pencil on tracing paper. Indexed. LC Luso-Hispanic World, 591 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4414m.ct000599",
+    "http://lccn.loc.gov/2001620537",
+    "http://www.loc.gov/item/2001620537/",
+    "http://www.loc.gov/resource/g4414m.ct000599/",
+    "https://hdl.loc.gov/loc.gmd/g4414m.ct000599",
+    "https://search.catalog.loc.gov/instances/7d315e30-4324-54cf-bbd2-d04a156fdef5",
+    "https://www.loc.gov/item/2001620537/"
+  ],
+  "dct_issued_s": "1847",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4414/g4414m/ct000599.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001620537/\"}",
+  "dct_spatial_sm": [
+    "mexico",
+    "mexico city"
+  ],
+  "dct_subject_sm": [
+    "Mexico City (Mexico)--Maps, Manuscript",
+    "Mexico--Mexico City"
+  ],
+  "dct_temporal_sm": [
+    "1847"
+  ],
+  "dct_title_s": "Operations of Genl. Scott's Army on 8th, 12th & 13th Sep. 1847 : [Mexico City]",
+  "gbl_dateRange_drsim": [
+    "[1847 TO 1847]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1847
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001620537",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

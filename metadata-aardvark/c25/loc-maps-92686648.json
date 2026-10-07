@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"726533 (B00837) 9-92.\"",
+    "ARP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes note.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1992]",
+    "Shows autonomous republics, oblasts, okrugs, and their names.",
+    "Shows autonomous republics, oblasts, okrugs, and their names. \"726533 (B00837) 9-92.\" Includes note. Available also through the Library of Congress Web site as a raster image. ARP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7061f.ct002736",
+    "http://lccn.loc.gov/92686648",
+    "http://www.loc.gov/item/92686648/",
+    "http://www.loc.gov/resource/g7061f.ct002736/",
+    "https://hdl.loc.gov/loc.gmd/g7061f.ct002736",
+    "https://search.catalog.loc.gov/instances/f8795e73-8ad3-5793-9121-5801792b70e3",
+    "https://www.loc.gov/item/92686648/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7061/g7061f/ct002736.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92686648/\"}",
+  "dct_spatial_sm": [
+    "russia (federation)",
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Autonomous soviet socialist republics--Russia (Federation)--Maps",
+    "Russia (Federation)",
+    "Russia (Federation)--Administrative and political divisions--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Autonomous areas in Russia",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92686648",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

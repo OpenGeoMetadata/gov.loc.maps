@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Andrews, John, 1736-1809; Harris, J. (John), -1856",
+    "Includes listing of \"References to the names of the counties not inserted in this map.\"",
+    "Prime meridian: London.",
+    "Prime meridian: London. Relief shown pictorially. Published by John Andrews and John Harris. Includes listing of \"References to the names of the counties not inserted in this map.\" Scale ca. 1:3,340,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: London, 1781.",
+    "Published by John Andrews and John Harris.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:3,340,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar014800",
+    "http://lccn.loc.gov/gm71005490",
+    "http://www.loc.gov/item/gm71005490/",
+    "http://www.loc.gov/resource/g3300.ar014800/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar014800",
+    "https://search.catalog.loc.gov/instances/cf0718ab-bf4b-5b8c-bb74-9fbb5935f4b0",
+    "https://www.loc.gov/item/gm71005490/"
+  ],
+  "dct_issued_s": "1781",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar014800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005490/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "North America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1781"
+  ],
+  "dct_title_s": "A new map of the British colonies in North America, shewing the seat of the present war, taken from the best surveys, compared with and improved from manuscripts of several noblemen and gentlemen",
+  "gbl_dateRange_drsim": [
+    "[1781 TO 1781]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1781
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005490",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

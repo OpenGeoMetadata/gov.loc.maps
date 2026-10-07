@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1977--261-217/77.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and notes.",
+    "Panel title.",
+    "Panel title. Includes text and notes. Text and ill. on verso. \"*GPO: 1977--261-217/77.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington] : The Service, 1977.",
+    "Text and ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822j.ct007992",
+    "http://lccn.loc.gov/86692213",
+    "http://www.loc.gov/item/86692213/",
+    "http://www.loc.gov/resource/g3822j.ct007992/",
+    "https://hdl.loc.gov/loc.gmd/g3822j.ct007992",
+    "https://search.catalog.loc.gov/instances/dacb2661-0087-54cf-82e3-970ad8b2f4de",
+    "https://www.loc.gov/item/86692213/"
+  ],
+  "dct_issued_s": "1977",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822j/ct007992.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86692213/\"}",
+  "dct_spatial_sm": [
+    "cambria county",
+    "johnstown",
+    "johnstown (cambria county)",
+    "johnstown flood national memorial",
+    "pennsulvania",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Floods--Pennsylvania--Johnstown (Cambria County)--Maps",
+    "Johnstown Flood National Memorial (Pa.)--Maps",
+    "United States--Pennsulvania--Johnstown Flood National Memorial",
+    "United States--Pennsylvania--Johnstown (Cambria County)"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_title_s": "Johnstown Flood National Memorial, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86692213",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

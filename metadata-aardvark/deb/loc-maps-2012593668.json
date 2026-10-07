@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Adkins, I. F.; Smith & Stroup (Firm)",
+    "In top right margin: 11b.",
+    "Includes text, statistics and historical notes.",
+    "Inset: Map of the town of Louisville.",
+    "LC Land ownership maps, 93",
+    "Mounted on cloth.",
+    "Publication statement: Philadelphia : Smith & Stroup, 1879.",
+    "Shows towns, railroads, tram roads and names of residents.",
+    "Shows towns, railroads, tram roads and names of residents. Inset: Map of the town of Louisville. Mounted on cloth. Includes text, statistics and historical notes. In top right margin: 11b. LC Land ownership maps, 93 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3923j.la000093",
+    "http://lccn.loc.gov/2012593668",
+    "http://www.loc.gov/item/2012593668/",
+    "http://www.loc.gov/resource/g3923j.la000093/",
+    "https://hdl.loc.gov/loc.gmd/g3923j.la000093",
+    "https://search.catalog.loc.gov/instances/2c0cbbaa-6e78-58cb-91ac-70bf400a0288",
+    "https://www.loc.gov/item/2012593668/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3923/g3923j/la000093.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593668/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "jefferson county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Jefferson County (Ga.)--Maps",
+    "Landowners--Georgia--Jefferson County--Maps",
+    "Real property--Georgia--Jefferson County--Maps",
+    "United States--Georgia--Jefferson County"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Map of Jefferson County, Georgia",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593668",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

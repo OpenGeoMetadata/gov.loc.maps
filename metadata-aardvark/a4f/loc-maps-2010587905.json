@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Humboldt, Alexander von, 1769-1859; Lapie, M. (Pierre), 1779-1850",
+    "Inset shows city and harbor of Havana.",
+    "Prime meridian: Paris.",
+    "Publication statement: [S.l. : s.n.], 1820.",
+    "Relief shown by shading.",
+    "Relief shown by shading. Prime meridian: Paris. Inset shows city and harbor of Havana."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4920.ct002654",
+    "http://lccn.loc.gov/2010587905",
+    "http://www.loc.gov/item/2010587905/",
+    "http://www.loc.gov/resource/g4920.ct002654/",
+    "https://hdl.loc.gov/loc.gmd/g4920.ct002654",
+    "https://search.catalog.loc.gov/instances/9b8502d8-5fa2-587c-9b9d-4d229ca35c2e",
+    "https://www.loc.gov/item/2010587905/"
+  ],
+  "dct_issued_s": "1820",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4920/g4920/ct002654.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010587905/\"}",
+  "dct_spatial_sm": [
+    "cuba"
+  ],
+  "dct_subject_sm": [
+    "Cuba",
+    "Cuba--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1820"
+  ],
+  "dct_title_s": "Carte de l'ile de Cuba : redigée sur les observations astronomiques des navigateurs Espagnols et sur celles de Mr. de Humboldt",
+  "gbl_dateRange_drsim": [
+    "[1820 TO 1820]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1820
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010587905",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

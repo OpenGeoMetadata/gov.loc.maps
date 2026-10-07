@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mariette, Pierre, 1634-1716, publisher; Sanson, Nicolas, 1600-1667, cartographer",
+    "LC copy: left half mounted on paper, fold lined. Lightly hand colored to mark continental boundaries and some place names.",
+    "Publication statement: A Paris : Chez Pierre Mariette, rue St. Iacques à l'Esperance, avec privilege pour 20 ans, 1669.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Shows California as an island. LC copy: left half mounted on paper, fold lined. Lightly hand colored to mark continental boundaries and some place names. Shirley, Rodney W. Mapping of the world. 1983, 419 Available also through the Library of Congress Web site as a raster image.",
+    "Shirley, Rodney W. Mapping of the world. 1983, 419",
+    "Shows California as an island."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct007063",
+    "http://lccn.loc.gov/2017585714",
+    "http://www.loc.gov/item/2017585714/",
+    "http://www.loc.gov/resource/g3200.ct007063/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct007063",
+    "https://search.catalog.loc.gov/instances/9ef1955e-021c-5cab-a2bf-17a4db054beb",
+    "https://www.loc.gov/item/2017585714/"
+  ],
+  "dct_issued_s": "1669",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct007063.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585714/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)"
+  ],
+  "dct_temporal_sm": [
+    "1669"
+  ],
+  "dct_title_s": "Mappe-monde, ou carte generale du globe terrestre : representée en deux plan-hemispheres : reveiie et changée en plusieurs endroits suivant les relations les plus recentes",
+  "gbl_dateRange_drsim": [
+    "[1669 TO 1669]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1669
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585714",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

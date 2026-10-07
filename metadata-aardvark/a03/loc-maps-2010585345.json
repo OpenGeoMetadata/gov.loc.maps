@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Texas & Pacific Railway. Land Department",
+    "In upper right margin: Our unsold lands of the Texas & Pacific Railway Company are colored yellow.",
+    "In upper right margin: Our unsold lands of the Texas & Pacific Railway Company are colored yellow. Shows landownership. LC copy 2: annotated in red marker; mounted on cloth. LC Land ownership maps, 1092 Available also through the Library of Congress Web site as a raster image.",
+    "LC Land ownership maps, 1092",
+    "LC copy 2: annotated in red marker; mounted on cloth.",
+    "Publication statement: St. Louis : August Gast & Co., [188-?]",
+    "Shows landownership."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033p.la001092",
+    "http://lccn.loc.gov/2010585345",
+    "http://www.loc.gov/item/2010585345/",
+    "http://www.loc.gov/resource/g4033p.la001092/",
+    "https://hdl.loc.gov/loc.gmd/g4033p.la001092",
+    "https://search.catalog.loc.gov/instances/5c878af4-3122-5014-83cd-18d3a77c71fc",
+    "https://www.loc.gov/item/2010585345/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033p/la001092.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010585345/\"}",
+  "dct_spatial_sm": [
+    "palo pinto county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Texas--Palo Pinto County--Maps",
+    "Palo Pinto County (Tex.)--Maps",
+    "Real property--Texas--Palo Pinto County--Maps",
+    "United States--Texas--Palo Pinto County"
+  ],
+  "dct_temporal_sm": [
+    "188?"
+  ],
+  "dct_title_s": "Palo Pinto County, Texas",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010585345",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

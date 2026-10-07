@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: De Witt, Simeon, 1756-1834; Fairman, Gideon, 1774-1827",
+    "Includes text and inset \"Continuation of the State westward from the pre-emption line on a scale reduced one half.\"",
+    "Prime meridian: New York.",
+    "Prime meridian: New York. Relief shown pictorially. Includes text and inset \"Continuation of the State westward from the pre-emption line on a scale reduced one half.\" Scale ca. 1:316,800. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: Albany, 1802.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:316,800.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3800.ct004110",
+    "http://lccn.loc.gov/gm71005384",
+    "http://www.loc.gov/item/gm71005384/",
+    "http://www.loc.gov/resource/g3800.ct004110/",
+    "https://hdl.loc.gov/loc.gmd/g3800.ct004110",
+    "https://search.catalog.loc.gov/instances/b0c89125-492a-58e9-b925-2b9a4c5def3f",
+    "https://www.loc.gov/item/gm71005384/"
+  ],
+  "dct_issued_s": "1802",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3800/g3800/ct004110.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005384/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New York (State)--Maps",
+    "United States--New York (State)"
+  ],
+  "dct_temporal_sm": [
+    "1802"
+  ],
+  "dct_title_s": "A map of the State of New York",
+  "gbl_dateRange_drsim": [
+    "[1802 TO 1802]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1802
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005384",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

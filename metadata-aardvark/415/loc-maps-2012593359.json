@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Each sheet is separately titled, e.g. Libreville.",
+    "Includes sheet index and text.",
+    "Publication statement: [Paris, France?] : [Publisher unknown], [1910?]",
+    "Relief shown by hachures and spot heights.",
+    "Relief shown by hachures and spot heights. Each sheet is separately titled, e.g. Libreville. Includes sheet index and text. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8680.ct002961a",
+    "http://hdl.loc.gov/loc.gmd/g8680.ct002961b",
+    "http://hdl.loc.gov/loc.gmd/g8680.ct002961c",
+    "http://hdl.loc.gov/loc.gmd/g8680.ct002961d",
+    "http://lccn.loc.gov/2012593359",
+    "http://www.loc.gov/item/2012593359/",
+    "http://www.loc.gov/resource/g8680.ct002961a/",
+    "http://www.loc.gov/resource/g8680.ct002961b/",
+    "http://www.loc.gov/resource/g8680.ct002961c/",
+    "http://www.loc.gov/resource/g8680.ct002961d/",
+    "https://hdl.loc.gov/loc.gmd/g8680.ct002961a",
+    "https://hdl.loc.gov/loc.gmd/g8680.ct002961b",
+    "https://hdl.loc.gov/loc.gmd/g8680.ct002961c",
+    "https://hdl.loc.gov/loc.gmd/g8680.ct002961d",
+    "https://search.catalog.loc.gov/instances/edda03ef-dd3f-5522-a92b-96601f264da2",
+    "https://www.loc.gov/item/2012593359/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8680/g8680/ct002961a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593359/\"}",
+  "dct_spatial_sm": [
+    "africa",
+    "french-speaking equatorial",
+    "french-speaking equatorial africa"
+  ],
+  "dct_subject_sm": [
+    "Africa, French-speaking Equatorial--Maps",
+    "Africa--French-speaking Equatorial"
+  ],
+  "dct_temporal_sm": [
+    "1910",
+    "[Paris, France?] : [Publisher unknown], [1910?]"
+  ],
+  "dct_title_s": "Afrique équatoriale française",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593359",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

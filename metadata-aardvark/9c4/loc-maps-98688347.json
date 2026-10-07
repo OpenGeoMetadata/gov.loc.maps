@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Robert, W. F.",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 71",
+    "Map of parts of Pennyslvania, New Jersey, Maryland, and Delaware indicating major drainage, relief by hachures, boundaries, cities, and towns. A table of distances appears at left of map.",
+    "Publication statement: Philadelphia, [184-]",
+    "Scale [ca. 1:660,000]."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3791p.rr000710",
+    "http://lccn.loc.gov/98688347",
+    "http://www.loc.gov/item/98688347/",
+    "http://www.loc.gov/resource/g3791p.rr000710/",
+    "https://hdl.loc.gov/loc.gmd/g3791p.rr000710",
+    "https://search.catalog.loc.gov/instances/eb3a5bc6-af44-557c-83fc-ccaa66c7da33",
+    "https://www.loc.gov/item/98688347/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd379/g3791/g3791p/rr000710.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688347/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canals--Middle Atlantic States--Maps",
+    "Coal mines and mining--Middle Atlantic States--Maps",
+    "Railroads--Middle Atlantic States--Maps",
+    "United States--Middle Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "184?"
+  ],
+  "dct_title_s": "Map of the canals and rail roads connecting the Broad Top Coal Region with the Atlantic",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688347",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

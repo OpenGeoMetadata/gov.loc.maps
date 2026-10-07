@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At top right corner: 16.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contains watermark: J. Hessels.",
+    "Contributors: Baker, James (Merchant mariner), creator",
+    "Depth shown by soundings.",
+    "Depth shown by soundings. Pen-and-ink on paper. Oriented with north to the left. Spanish depiction of information gathered by Captain James Baker. At top right corner: 16. Two adhesive repairs on the right side of verso. Contains watermark: J. Hessels. Edge of sheet indicates it was previously bound in an atlas or other book. Available also through the Library of Congress Web site as a raster image.",
+    "Edge of sheet indicates it was previously bound in an atlas or other book.",
+    "Oriented with north to the left.",
+    "Pen-and-ink on paper.",
+    "Publication statement: [Mexico?] [producer not identified] [1792?]",
+    "Spanish depiction of information gathered by Captain James Baker.",
+    "Two adhesive repairs on the right side of verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024593596",
+    "http://www.loc.gov/item/2024593596/",
+    "http://www.loc.gov/resource/g4294w.ct012100/",
+    "https://hdl.loc.gov/loc.gmd/g4294w.ct012100",
+    "https://search.catalog.loc.gov/instances/eae235d4-b496-5308-ad88-e8b56bd69570",
+    "https://www.loc.gov/item/2024593596/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd429:g4294:g4294w:ct012100/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024593596/\"}",
+  "dct_spatial_sm": [
+    "oregon",
+    "umpqua river",
+    "united states",
+    "winchester bay"
+  ],
+  "dct_subject_sm": [
+    "Harbors--Oregon--Umpqua River--Maps--Early works to 1800",
+    "Harbors--Oregon--Winchester Bay--Maps--Early works to 1800",
+    "Umpqua River (Or.)--Maps--Early works to 1800",
+    "United States--Oregon--Umpqua River",
+    "United States--Oregon--Winchester Bay",
+    "Winchester Bay (Or.)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1792",
+    "[Mexico?] [producer not identified] [1792?]"
+  ],
+  "dct_title_s": "Plano del Puerto Sidman situado en la latitud N. de 43° 56' longitud 19° al O. de Sn. Blas reconocido este año por el Capitan Baker",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024593596",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

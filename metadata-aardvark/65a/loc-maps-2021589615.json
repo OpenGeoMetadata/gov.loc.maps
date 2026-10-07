@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Hawaii title collection--cities and towns Honolulu 1816-1927",
+    "Alternate supplied title: Hawaii title collection--drawer 19"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "HI-19-01 through HI-19-27.",
+    "Maps in this collection dated before 1887 are photocopies or facsimiles.",
+    "Maps in this collection that may be in copyright are not available online.",
+    "Publication statement: [Various places] : [various publishers], [1816-1927]",
+    "This record covers single maps covering maps of Honolulu, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and blueline prints and photocopies of printed or manuscript single maps as well as multi-sheet single maps, pages from periodicals, and printed facsimiles. These maps may also show various subjects, such as landowners and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps covering maps of Honolulu, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and blueline prints and photocopies of printed or manuscript single maps as well as multi-sheet single maps, pages from periodicals, and printed facsimiles. These maps may also show various subjects, such as landowners and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. Maps in this collection dated before 1887 are photocopies or facsimiles. Maps in this collection that may be in copyright are not available online. Available also through the Library of Congress Web site as a raster image. HI-19-01 through HI-19-27.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021589615",
+    "http://www.loc.gov/item/2021589615/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.hi-019/",
+    "http://www.loc.gov/resource/gmdtitlecolmaps.hi-019/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.hi-019",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolmaps.hi-019",
+    "https://search.catalog.loc.gov/instances/e898bba6-c8c2-5fa5-b749-74f9740b14cf",
+    "https://www.loc.gov/item/2021589615/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolmaps:hi:-0:19:hi-019:hi-019-01-01/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021589615/\"}",
+  "dct_spatial_sm": [
+    "hawaii",
+    "honolulu",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Honolulu (Hawaii)--Maps",
+    "Landowners--Hawaii--Honolulu--Maps",
+    "Real property--Hawaii--Honolulu--Maps",
+    "United States--Hawaii--Honolulu"
+  ],
+  "dct_temporal_sm": [
+    "1816/1927"
+  ],
+  "dct_title_s": "[Maps of Hawaii--cities and towns Honolulu 1816 to 1927]",
+  "gbl_dateRange_drsim": [
+    "[1816 TO 1927]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1816
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021589615",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

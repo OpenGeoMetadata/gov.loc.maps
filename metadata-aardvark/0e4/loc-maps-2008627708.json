@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 2008--339-126/80107 Reprinted 2005.\"",
+    "\"*GPO: 2008--339-126/80107 Reprinted 2005.\" Title from panel. Includes text, ancillary map, and ill. (some col.). Text and map showing battles on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, ancillary map, and ill. (some col.).",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2005]",
+    "Text and map showing battles on verso.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2008627708",
+    "http://www.loc.gov/item/2008627708/",
+    "http://www.loc.gov/resource/g3912k.ct009906/",
+    "https://hdl.loc.gov/loc.gmd/g3912k.ct009906",
+    "https://search.catalog.loc.gov/instances/ab8795c4-f372-5b13-97c5-58323d9e5351",
+    "https://www.loc.gov/item/2008627708/"
+  ],
+  "dct_issued_s": "2005",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3912/g3912k/ct009906.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008627708/\"}",
+  "dct_spatial_sm": [
+    "king's mountain, battle of, s.c., 1780",
+    "kings mountain national military park",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "King's Mountain, Battle of, S.C., 1780--Maps",
+    "Kings Mountain National Military Park (S.C.)--Maps",
+    "United States--South Carolina--King's Mountain, Battle of, S.C., 1780",
+    "United States--South Carolina--Kings Mountain National Military Park"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "dct_title_s": "Kings Mountain, National Military Park, South Carolina",
+  "gbl_dateRange_drsim": [
+    "[2005 TO 2005]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008627708",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

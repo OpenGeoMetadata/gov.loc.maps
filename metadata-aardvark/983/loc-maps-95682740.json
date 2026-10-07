@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Compiled in 1955.\"",
+    "\"Highways corrected to 1956.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Publication statement: Washington, D.C. : The Survey, 1957.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Title in right upper and lower margins: Virginia. \"Compiled in 1955.\" \"Highways corrected to 1956.\" Available also through the Library of Congress Web site as a raster image.",
+    "Title in right upper and lower margins: Virginia."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.ct008938",
+    "http://lccn.loc.gov/95682740",
+    "http://www.loc.gov/item/95682740/",
+    "http://www.loc.gov/resource/g3880.ct008938/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct008938",
+    "https://search.catalog.loc.gov/instances/d4530665-ceb3-5a6c-9b85-162dda1093c1",
+    "https://www.loc.gov/item/95682740/"
+  ],
+  "dct_issued_s": "1957",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ct008938.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95682740/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "dct_title_s": "State of Virginia, base map with highways and contours",
+  "gbl_dateRange_drsim": [
+    "[1957 TO 1957]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95682740",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

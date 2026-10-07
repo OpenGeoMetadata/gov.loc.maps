@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Construction of the map: Three scales of lengths at the top: 10 divisions = 116 millimeters (mm); and four at the bottom: 10 divisions = 90 mm, 10 divisions = 94 mm, 10 divisions = 100 mm, 10 divisions = 100 mm. On the left border, scale of latitudes from 55° south to 70° north: 10° = 80 mm, which results in an approximate scale of 1:14,000,000.\"--Note extracted from World Digital Library.",
+    "Content in Latin.",
+    "Contributors: Caverio, Nicolo di Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of France.",
+    "Original resource extent: 1 map on 10 sheets, vellum : illustrations ; 115 x 225 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], [1504 to 1506]",
+    "Reference extracted from World Digital Library: Catherine Hofmann, Hélène Richard, Emmanuelle Vagnon, et al., The Golden Age of Maritime Maps: When Europe Discovered the World (Buffalo, NY: Firefly, 2013).",
+    "This nautical map of the world was produced by the Genoese cartographer Nicolo di Caverio based on Portuguese documents. The map can be dated to 1506, as it contains no reference to any discovery made after this year. The map has three scales of lengths at the top. On the left border is a scale of latitudes from 55° south to 70° north. A system of rhumbs of 90 centimeters (cm) in diameter is centered on Africa, with 16 secondary centers, supplemented by another concentric system of 180 cm in diameter, of which only three centers appear on each side. The map shows 18 wind roses with 16 branches bearing a cross pointing east. The two centers of rhumbs of the complementary system located on the far right and the far left have a sun in the east instead of the wind rose, and a crescent moon in the west. Coasts are ringed in green, islands with flat tints usually in gold, occasionally in red or blue. The Red Sea is streaked in red. There is schematic representation of some rivers in blue. In Africa, marking the center of the system of rhumbs is a small circular globe surrounded by the seven heavens, which is reminiscent of the one on the map attributed to Christopher Columbus, whose sketching of the coasts is more archaic than that on this planisphere. The map is carefully decorated, showing ten miniatures of cities; three tents including one with the label Magnus Tartarus; 53 flags, including 21 Portuguese flags, 20 flags with the lunar crescent of the Ottoman Empire, and eight Spanish flags; animals (giraffes, lions, and elephant in Africa, birds in America); and figures of people, forests, and sketches of landscapes. Scales are inside rectangular cartridges with geometrical patterns. The frame is formed with a ribbon coiled around a stick and appears on three sides only (on the left, it is replaced with the scale of latitudes). The signature appears on a streamer in the lower left corner. The Latin names of the seas and countries are in capital letters, also on streamers. The nomenclature is essentially in Portuguese, but there are also numerous captions in Spanish, including two on streamers.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668721",
+    "http://www.loc.gov/item/2021668721/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_18563/",
+    "http://www.loc.gov/resource/wdl.18563/",
+    "https://hdl.loc.gov/loc.wdl/wdl.18563",
+    "https://www.loc.gov/item/2021668721/"
+  ],
+  "dct_issued_s": "1504-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_18563.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/56/3/wdl_18563/wdl_18563.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:18:56:3:wdl_18563:T0000002_3/full/pct:1.5625/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668721/\"}",
+  "dct_subject_sm": [
+    "1504 to 1506",
+    "Mappae mundi",
+    "Portolan charts",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1504-01-01"
+  ],
+  "dct_title_s": "Nautical Planisphere.",
+  "gbl_dateRange_drsim": [
+    "[1504 TO 1504]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1504
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668721",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: L'Enfant, Pierre Charles, 1754-1825; Thackara & Vallance",
+    "DCP",
+    "Includes latitude/longitude statement.",
+    "LC copy accompanied by printed exhibit caption slip, mounted on cloth backing, and annotated in pencil in lower margin: The final version of the L'Enfant Plan, probably printed in 1794 ...",
+    "Publication statement: [Philadelphia : Thackara & Vallance, 1794?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Watermark: SL. Includes latitude/longitude statement. Available also through the Library of Congress Web site as a raster image. LC copy accompanied by printed exhibit caption slip, mounted on cloth backing, and annotated in pencil in lower margin: The final version of the L'Enfant Plan, probably printed in 1794 ... Vault DCP",
+    "Vault",
+    "Watermark: SL."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004191",
+    "http://lccn.loc.gov/88694120",
+    "http://www.loc.gov/item/88694120/",
+    "http://www.loc.gov/resource/g3850.ct004191/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004191",
+    "https://search.catalog.loc.gov/instances/3a1b42ff-5cc3-5055-9cfe-c9993a4a051d",
+    "https://www.loc.gov/item/88694120/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004191.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88694120/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1794",
+    "[Philadelphia : Thackara & Vallance, 1794?]"
+  ],
+  "dct_title_s": "Plan of the city of Washington",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88694120",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

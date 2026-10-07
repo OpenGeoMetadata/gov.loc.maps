@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1986--491-417/40064. Reprint 1986.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, notes, descriptive index to points of interest, and col. ill.",
+    "Panel title.",
+    "Publication statement: [Washington] : The Service, [1986]",
+    "Relief shown by shading.",
+    "Relief shown by shading. \"*GPO: 1986--491-417/40064. Reprint 1986.\" Panel title. Includes text, notes, descriptive index to points of interest, and col. ill. Text, map of troop movements, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text, map of troop movements, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822v.ct008049",
+    "http://lccn.loc.gov/86697260",
+    "http://www.loc.gov/item/86697260/",
+    "http://www.loc.gov/resource/g3822v.ct008049/",
+    "https://hdl.loc.gov/loc.gmd/g3822v.ct008049",
+    "https://search.catalog.loc.gov/instances/fe1779d0-d02b-5366-8651-4bfd16119bb4",
+    "https://www.loc.gov/item/86697260/"
+  ],
+  "dct_issued_s": "1986",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822v/ct008049.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86697260/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states",
+    "valley forge national historical park"
+  ],
+  "dct_subject_sm": [
+    "United States--Pennsylvania--Valley Forge National Historical Park",
+    "Valley Forge National Historical Park (Pa.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "dct_title_s": "Valley Forge National Historical Park, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86697260",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

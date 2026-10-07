@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Dedicated to His Highness William Duke of Gloucester.\"",
+    "AACR2: 100; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cole, B. (Benjamin)",
+    "Includes notes.",
+    "LC copy annotated in black ink: This is map no. 40 of Wells (Edward) A new sett of maps. fol. London, 1722.",
+    "Publication statement: [London, 1722]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. \"Dedicated to His Highness William Duke of Gloucester.\" Includes notes. Scale ca. 1:23,000,000. Available also through the Library of Congress Web site as a raster image. LC copy annotated in black ink: This is map no. 40 of Wells (Edward) A new sett of maps. fol. London, 1722. Vault AACR2: 100; 651/1",
+    "Scale ca. 1:23,000,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5200.ct003991",
+    "http://lccn.loc.gov/gm71005433",
+    "http://www.loc.gov/item/gm71005433/",
+    "http://www.loc.gov/resource/g5200.ct003991/",
+    "https://hdl.loc.gov/loc.gmd/g5200.ct003991",
+    "https://search.catalog.loc.gov/instances/b40c56b7-3b11-58ad-b898-0e7cb5f972f8",
+    "https://www.loc.gov/item/gm71005433/"
+  ],
+  "dct_issued_s": "1722",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5200/g5200/ct003991.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005433/\"}",
+  "dct_spatial_sm": [
+    "south america"
+  ],
+  "dct_subject_sm": [
+    "South America",
+    "South America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1722"
+  ],
+  "dct_title_s": "A new map of South America, shewing it's general divisions, chief cities & towns; rivers, mountains & c.",
+  "gbl_dateRange_drsim": [
+    "[1722 TO 1722]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1722
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005433",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

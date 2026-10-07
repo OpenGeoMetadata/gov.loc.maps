@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Page 33. Plate 3.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Trumbull, John, 1756-1843",
+    "Handwritten note: This imprint is from the original copper plate forming part of the Trumbull collection now in possession of Chas. Allen ... Dec. 98.",
+    "Oriented with north to the right.",
+    "Publication statement: [New York? 1841?]",
+    "Relief shown by shading.",
+    "Relief shown by shading. Oriented with north to the right. \"Page 33. Plate 3.\" Handwritten note: This imprint is from the original copper plate forming part of the Trumbull collection now in possession of Chas. Allen ... Dec. 98. Scale ca. 1:18,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale ca. 1:18,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804t.ct006672",
+    "http://lccn.loc.gov/73691879",
+    "http://www.loc.gov/item/73691879/",
+    "http://www.loc.gov/resource/g3804t.ct006672/",
+    "https://hdl.loc.gov/loc.gmd/g3804t.ct006672",
+    "https://search.catalog.loc.gov/instances/2eeb44f8-f728-5c77-8099-833d77087cd9",
+    "https://www.loc.gov/item/73691879/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804t/ct006672.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691879/\"}",
+  "dct_spatial_sm": [
+    "fort ticonderoga",
+    "new york",
+    "new york (state)",
+    "ticonderoga region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Ticonderoga (N.Y.)--History--Revolution, 1775-1783--Maps",
+    "Ticonderoga Region (N.Y.)--History--Revolution, 1775-1783--Maps",
+    "United States--New York (State)--Fort Ticonderoga",
+    "United States--New York (State)--Ticonderoga Region"
+  ],
+  "dct_temporal_sm": [
+    "1841",
+    "[New York? 1841?]"
+  ],
+  "dct_title_s": "Ticonderoga & its dependencies, August 1776",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691879",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

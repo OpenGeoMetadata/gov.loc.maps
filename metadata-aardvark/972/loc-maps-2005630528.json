@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"803056AI (R02107) 3-04.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2004]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. \"803056AI (R02107) 3-04.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7420.ct001743",
+    "http://lccn.loc.gov/2005630528",
+    "http://www.loc.gov/item/2005630528/",
+    "http://www.loc.gov/resource/g7420.ct001743/",
+    "https://hdl.loc.gov/loc.gmd/g7420.ct001743",
+    "https://search.catalog.loc.gov/instances/ef76f4a9-c501-534a-b027-3bab2b7446d4",
+    "https://www.loc.gov/item/2005630528/"
+  ],
+  "dct_issued_s": "2004",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7420/g7420/ct001743.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005630528/\"}",
+  "dct_spatial_sm": [
+    "middle east"
+  ],
+  "dct_subject_sm": [
+    "Middle East",
+    "Middle East--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "dct_title_s": "Middle East",
+  "gbl_dateRange_drsim": [
+    "[2004 TO 2004]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005630528",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

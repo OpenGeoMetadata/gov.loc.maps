@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Joan Vinckeboons (1617-70) was a Dutch cartographer and engraver born into a family of artists of Flemish origin. He was in the employ of the Dutch West India Company and produced maps for over 30 years for use by Dutch mercantile and military shipping. This map of a portion of central Cuba and the Bahamas reflects the careful mapping that the Dutch West India Company undertook to facilitate safe and successful navigation in that region. The map identifies the Bahamas Channel (i.e., the Gulf Stream) that served as the main shipping channel along the east coast of North America for return voyages to Europe. It also includes coastline, coastal features, navigational hazards, islands, pictorial representation of relief, settlements, numerous rhumb lines, and an ornate wind rose. Sites along the Florida coast from Cape Canaveral to the Keys are identified. The island of Guanihani is located in the Bahamas. Geographic names appear either in Spanish or Dutch. The map is part of the Henry Harrisse Manuscript Collection in the Library of Congress.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Vinckeboons, Joan",
+    "LC Luso-Hispanic World, 156",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [ca. 1650]",
+    "Relief shown pictorially.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3291s.ct000341",
+    "http://lccn.loc.gov/00560610",
+    "http://www.loc.gov/item/00560610/",
+    "http://www.loc.gov/resource/g3291s.ct000341/",
+    "https://hdl.loc.gov/loc.gmd/g3291s.ct000341",
+    "https://search.catalog.loc.gov/instances/f46e2e6e-6a8e-565e-911a-511b9be86d85",
+    "https://www.loc.gov/item/00560610/"
+  ],
+  "dct_language_sm": [
+    "dut"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3291/g3291s/ct000341.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00560610/\"}",
+  "dct_spatial_sm": [
+    "bahamas",
+    "cuba"
+  ],
+  "dct_subject_sm": [
+    "Bahamas",
+    "Bahamas--Maps, Manuscript--Early works to 1800",
+    "Cuba",
+    "Cuba--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1650",
+    "[ca. 1650]"
+  ],
+  "dct_title_s": "[Map of a part of the island of Cuba and of the Bahamas]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00560610",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

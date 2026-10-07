@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "1 digital map.",
+    "1 digital map. Shows the totality and partial contours crossing the United States for the 2024 total solar eclipse, occurring on April 8, 2024. Source data scale not determined. Relief shown by shading. Includes text, inset of \"2024 path of totality,\" and QR code to NASA eclipse website.",
+    "Contributors: Goddard Space Flight Center, publisher; Science Visualization Studio (Goddard Space Flight Center), cartographer",
+    "Includes text, inset of \"2024 path of totality,\" and QR code to NASA eclipse website.",
+    "Publication statement: [Greenbelt, Md.] : NASA Goddard Space Flight Center, [2024]",
+    "Relief shown by shading.",
+    "Shows the totality and partial contours crossing the United States for the 2024 total solar eclipse, occurring on April 8, 2024.",
+    "Source data scale not determined."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024586194",
+    "http://www.loc.gov/item/2024586194/",
+    "http://www.loc.gov/resource/gmddigstackspublic.2024586194/",
+    "https://hdl.loc.gov/loc.gmd/gmddigstackspublic.2024586194",
+    "https://search.catalog.loc.gov/instances/bcff3c5c-0dc0-538f-8287-7d541161dbad",
+    "https://www.loc.gov/item/2024586194/"
+  ],
+  "dct_issued_s": "2024",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmddigstackspublic:20:24:58:61:94:2024586194:2024586194/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024586194/\"}",
+  "dct_rights_sm": [
+    "Public Domain DLC https://creativecommons.org/public-domain/"
+  ],
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Astronomy--United States--Observations--Maps",
+    "Solar eclipses--2024--Maps",
+    "Total solar eclipses--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "dct_title_s": "The 2024 total solar eclipse through the eyes of NASA : [United States]",
+  "gbl_dateRange_drsim": [
+    "[2024 TO 2024]"
+  ],
+  "gbl_displayNote_sm": [
+    "Unrestricted online access.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024586194",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

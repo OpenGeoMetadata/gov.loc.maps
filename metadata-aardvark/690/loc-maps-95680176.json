@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1994--301-085/00014.\"",
+    "\"*GPO: 1994--301-085/00014.\" Panel title. Includes text, location map, and col. ill. Text titled \"Seneca Falls and beyond,\" chronology, and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, location map, and col. ill.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1994]",
+    "Text titled \"Seneca Falls and beyond,\" chronology, and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804s.ct006677",
+    "http://lccn.loc.gov/95680176",
+    "http://www.loc.gov/item/95680176/",
+    "http://www.loc.gov/resource/g3804s.ct006677/",
+    "https://hdl.loc.gov/loc.gmd/g3804s.ct006677",
+    "https://search.catalog.loc.gov/instances/af3da225-d548-5936-ba1c-e485214e2093",
+    "https://www.loc.gov/item/95680176/"
+  ],
+  "dct_issued_s": "1994",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804s/ct006677.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95680176/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "seneca falls",
+    "united states",
+    "women's rights national historical park"
+  ],
+  "dct_subject_sm": [
+    "United States--New York (State)--Seneca Falls--Women's Rights National Historical Park",
+    "Women's Rights National Historical Park (N.Y.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_title_s": "Women's Rights National Historical Park, New York",
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95680176",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

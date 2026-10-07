@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Goerck, Casimir Th., -1798, cartographer; Hayward, Geo. (George), active 1834-1872, engraver; Mangin, Joseph Fr. (Joseph François), 1764-1818, surveyor; Valentine, D. T. (David Thomas), 1801-1869",
+    "Includes illustration and index to points of interest.",
+    "LC Ward maps 149",
+    "LC copy mounted on cloth.",
+    "Publication information from the Manual.",
+    "Publication statement: [New York, N.Y.] : [Common Council of the City of New York], [1856]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows Manhattan below 14st St. Publication information from the Manual. Includes illustration and index to points of interest. LC copy mounted on cloth. LC Ward maps 149 Available also through the Library of Congress Web site as a raster image.",
+    "Shows Manhattan below 14st St."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2020587094",
+    "http://www.loc.gov/item/2020587094/",
+    "http://www.loc.gov/resource/g3804n.wd000149/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.wd000149",
+    "https://search.catalog.loc.gov/instances/3f2c66ac-cc4b-560d-9e5f-cd7e5f4f545b",
+    "https://www.loc.gov/item/2020587094/"
+  ],
+  "dct_issued_s": "1856",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/wd000149.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2020587094/\"}",
+  "dct_spatial_sm": [
+    "manhattan",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Manhattan (New York, N.Y.)--Maps",
+    "United States--New York (State)--New York--Manhattan (New York, N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "dct_title_s": "Plan of the city of New York",
+  "gbl_dateRange_drsim": [
+    "[1856 TO 1856]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1856
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2020587094",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

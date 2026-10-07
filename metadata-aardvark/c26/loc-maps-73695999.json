@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Appears in the author's Description of the Spanish West Indies. 1762.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Appears in the author's Description of the Spanish West Indies. 1762. Scale ca. 1:1,750,000. LC Maps of North America, 1750-1789, 1853 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "LC Maps of North America, 1750-1789, 1853",
+    "Publication statement: [London, 1762]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:1,750,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4930.ar185300",
+    "http://lccn.loc.gov/73695999",
+    "http://www.loc.gov/item/73695999/",
+    "http://www.loc.gov/resource/g4930.ar185300/",
+    "https://hdl.loc.gov/loc.gmd/g4930.ar185300",
+    "https://search.catalog.loc.gov/instances/aac03ece-0e52-55b9-9eba-9cb358b036f0",
+    "https://www.loc.gov/item/73695999/"
+  ],
+  "dct_issued_s": "1762",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4930/g4930/ar185300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73695999/\"}",
+  "dct_spatial_sm": [
+    "hispaniola"
+  ],
+  "dct_subject_sm": [
+    "Hispaniola",
+    "Hispaniola--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1762"
+  ],
+  "dct_title_s": "The island of Hispaniola called by the French St. Domingo. Subject to France & Spain",
+  "gbl_dateRange_drsim": [
+    "[1762 TO 1762]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1762
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73695999",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

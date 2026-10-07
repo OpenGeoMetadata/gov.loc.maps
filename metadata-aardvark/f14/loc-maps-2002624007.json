@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Martenet, Simon J.",
+    "Includes advertisements.",
+    "Landowners identified.",
+    "Publication statement: Baltimore, [s.n.] 1856.",
+    "Scale ca. 1:7,200.",
+    "Wards shown.",
+    "Wards shown. Landowners identified. Includes advertisements. Scale ca. 1:7,200. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3844b.wd000018",
+    "http://lccn.loc.gov/2002624007",
+    "http://www.loc.gov/item/2002624007/",
+    "http://www.loc.gov/resource/g3844b.wd000018/",
+    "https://hdl.loc.gov/loc.gmd/g3844b.wd000018",
+    "https://search.catalog.loc.gov/instances/afe4f221-f7dd-5403-9bef-380d0226e9bc",
+    "https://www.loc.gov/item/2002624007/"
+  ],
+  "dct_issued_s": "1856",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3844/g3844b/wd000018.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002624007/\"}",
+  "dct_spatial_sm": [
+    "baltimore",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Baltimore (Md.)--Maps",
+    "United States--Maryland--Baltimore"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "dct_title_s": "Scott's map of the city of Baltimore. From latest records and actual surveys by",
+  "gbl_dateRange_drsim": [
+    "[1856 TO 1856]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1856
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002624007",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing lot lines, lot numbers, and some dimensions. Does not show landowners' names.",
+    "Cadastral map showing lot lines, lot numbers, and some dimensions. Does not show landowners' names. Oriented with north to the left. LC copy imperfect: Wrinkled, fold-lined, missing small sections of margin at edges. Includes notes (statistical and dimensional data). Available also through the Library of Congress Web site as a raster image. Purchase; FY '13 Philip Lee Phillips Society purchase; July 2013.",
+    "Contributors: Adams, D., proprietor; Baker, Alfred E.; Philip Lee Phillips Society",
+    "Includes notes (statistical and dimensional data).",
+    "LC copy imperfect: Wrinkled, fold-lined, missing small sections of margin at edges.",
+    "Oriented with north to the left.",
+    "Publication statement: N.Y. [New York] : Lith. by Baker, [between 1836 and 1841]",
+    "Purchase; FY '13 Philip Lee Phillips Society purchase; July 2013."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824w.ct003964",
+    "http://lccn.loc.gov/2013589470",
+    "http://www.loc.gov/item/2013589470/",
+    "http://www.loc.gov/resource/g3824w.ct003964/",
+    "https://hdl.loc.gov/loc.gmd/g3824w.ct003964",
+    "https://search.catalog.loc.gov/instances/dac1bd72-b249-522a-9c15-7cbe274e38a7",
+    "https://www.loc.gov/item/2013589470/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824w/ct003964.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013589470/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states",
+    "wattsburg"
+  ],
+  "dct_subject_sm": [
+    "Real property--Pennsylvania--Wattsburg--Maps",
+    "United States--Pennsylvania--Wattsburg",
+    "Wattsburg (Pa.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1836",
+    "N.Y. [New York] : Lith. by Baker, [between 1836 and 1841]"
+  ],
+  "dct_title_s": "Map of Wattsburgh, Venango Township, Erie County, Pennsylvania",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013589470",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

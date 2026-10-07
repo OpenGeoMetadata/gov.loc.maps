@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Stock Number 024-005-00734-2.\"",
+    "\"Stock Number 024-005-00734-2.\" Includes text and location map. Text and ill. (some col.) on verso. Scale ca. 1:68,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and location map.",
+    "Publication statement: [Washington] : The Service : for sale by the Supt. of Docs., U.S. Govt. Print. Off., [1978]",
+    "Scale ca. 1:68,000.",
+    "Text and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3812g.ct006773",
+    "http://lccn.loc.gov/79694158",
+    "http://www.loc.gov/item/79694158/",
+    "http://www.loc.gov/resource/g3812g.ct006773/",
+    "https://hdl.loc.gov/loc.gmd/g3812g.ct006773",
+    "https://search.catalog.loc.gov/instances/b1aba315-c433-55e6-a5b7-17ebfb65a87a",
+    "https://www.loc.gov/item/79694158/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3812/g3812g/ct006773.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79694158/\"}",
+  "dct_spatial_sm": [
+    "gateway national recreation area",
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gateway National Recreation Area (N.J. and N.Y.)--Maps",
+    "United States--New Jersey--Gateway National Recreation Area",
+    "United States--New York (State)--Gateway National Recreation Area"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Gateway National Recreation Area, New York-New Jersey",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79694158",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

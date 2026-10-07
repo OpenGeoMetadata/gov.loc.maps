@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Indexed.",
+    "LC Luso-Hispanic World, 312",
+    "Maggs number annotated in pencil in lower right margin: 125.",
+    "Manuscript, pen-and-ink.",
+    "Manuscript, pen-and-ink. Relief shown pictorially and by hachures. Depths shown by soundings. Watermark: J. Kool. Prime meridian: Tenerife. Mounted on cloth backing. Indexed. Maggs number annotated in pencil in lower right margin: 125. Scale ca. 1:120,000. LC Luso-Hispanic World, 312 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Mounted on cloth backing.",
+    "Prime meridian: Tenerife.",
+    "Publication statement: [1751]",
+    "Relief shown pictorially and by hachures. Depths shown by soundings.",
+    "Scale ca. 1:120,000.",
+    "Vault",
+    "Watermark: J. Kool."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4922g.lh000312",
+    "http://lccn.loc.gov/74695906",
+    "http://www.loc.gov/item/74695906/",
+    "http://www.loc.gov/resource/g4922g.lh000312/",
+    "https://hdl.loc.gov/loc.gmd/g4922g.lh000312",
+    "https://search.catalog.loc.gov/instances/51c0d37b-7afe-5581-9490-6c8d19091d40",
+    "https://www.loc.gov/item/74695906/"
+  ],
+  "dct_issued_s": "1751",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4922/g4922g/lh000312.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74695906/\"}",
+  "dct_spatial_sm": [
+    "cuba",
+    "guantánamo bay"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Cuba--Guantánamo Bay--Maps--Early works to 1800",
+    "Cuba--Guantánamo Bay",
+    "Guantánamo Bay (Cuba)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1751"
+  ],
+  "dct_title_s": "Plano de la bahía de Guantánamo en la ysla de Cuva, cuya boca se halla en latd. N. de 20 gros. y longd. de Tenerife 30l. gs. 27 ms",
+  "gbl_dateRange_drsim": [
+    "[1751 TO 1751]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1751
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74695906",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

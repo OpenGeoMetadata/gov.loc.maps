@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"June 1976.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Covers Fort Pulaski National Monument (Ga.)",
+    "Covers Fort Pulaski National Monument (Ga.) \"June 1976.\" Panel title. Includes text, diagram of the fort, descriptive index to points of interest, and ill. Text, location map, and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Includes text, diagram of the fort, descriptive index to points of interest, and ill.",
+    "Panel title.",
+    "Publication statement: [Washington] : The Service, [1976]",
+    "Text, location map, and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81694046",
+    "http://www.loc.gov/item/81694046/",
+    "http://www.loc.gov/resource/g3922f.ct010052/",
+    "https://hdl.loc.gov/loc.gmd/g3922f.ct010052",
+    "https://search.catalog.loc.gov/instances/6cfd7edc-cbd1-539a-9f8b-b468ebbc993a",
+    "https://www.loc.gov/item/81694046/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922f/ct010052.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81694046/\"}",
+  "dct_spatial_sm": [
+    "fort pulaski national monument",
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Pulaski National Monument (Ga.)--Maps",
+    "United States--Georgia--Fort Pulaski National Monument"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "Fort Pulaski",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81694046",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

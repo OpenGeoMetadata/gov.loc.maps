@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"G-CF-435 G 501.\"",
+    "AACR2: 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Contributors: Shutting, Rudolph J.; Tennessee Valley Authority",
+    "Indexed for points of interest.",
+    "LC Civil War maps (2nd ed.), 159.5",
+    "Oriented with north to the left.",
+    "Perspective map not drawn to scale.",
+    "Photocopy; blue line print.",
+    "Photocopy; blue line print. Oriented with north to the left. Bird's-eye-view. \"G-CF-435 G 501.\" Indexed for points of interest. Perspective map not drawn to scale. LC Civil War maps (2nd ed.), 159.5 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1; 710/1",
+    "Publication statement: Chattanooga, 1913. [Knoxville, Tenn., Tennessee Valley Authority, 1974?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3922c.cw0159500",
+    "http://lccn.loc.gov/76696229",
+    "http://www.loc.gov/item/76696229/",
+    "http://www.loc.gov/resource/g3922c.cw0159500/",
+    "https://hdl.loc.gov/loc.gmd/g3922c.cw0159500",
+    "https://search.catalog.loc.gov/instances/ece7b216-9138-550d-871b-2e9d5b8c5168",
+    "https://www.loc.gov/item/76696229/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922c/cw0159500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76696229/\"}",
+  "dct_spatial_sm": [
+    "chattanooga national military park",
+    "chickamauga",
+    "chickamauga national military park",
+    "georgia",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Chickamauga and Chattanooga National Military Park (Ga. and Tenn.)--Aerial views",
+    "United States--Georgia--Chickamauga National Military Park",
+    "United States--Tennessee--Chattanooga National Military Park"
+  ],
+  "dct_temporal_sm": [
+    "1974",
+    "Chattanooga, 1913. [Knoxville, Tenn., Tennessee Valley Authority, 1974?]"
+  ],
+  "dct_title_s": "Aero view of Chickamauga and Chattanooga National Military Park (looking east)",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76696229",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

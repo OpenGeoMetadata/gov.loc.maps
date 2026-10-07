@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Reed, A. J.",
+    "Description derived from published bibliography.",
+    "Detailed map showing relief by hachures, drainage, cities and towns, township and county boundaries, and the railroad network.",
+    "LC Railroad maps, 241",
+    "Publication statement: [n.p., 1874]",
+    "Scale ca. 1:700,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4140.rr002410",
+    "http://lccn.loc.gov/98688501",
+    "http://www.loc.gov/item/98688501/",
+    "http://www.loc.gov/resource/g4140.rr002410/",
+    "https://hdl.loc.gov/loc.gmd/g4140.rr002410",
+    "https://search.catalog.loc.gov/instances/6a39e382-71cf-5aaf-8987-0478f59b075a",
+    "https://www.loc.gov/item/98688501/"
+  ],
+  "dct_issued_s": "1874",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd414/g4140/g4140/rr002410.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688501/\"}",
+  "dct_spatial_sm": [
+    "minnesota",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Minnesota--Maps",
+    "United States--Minnesota"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "dct_title_s": "Township and railroad map of Minnesota published for the Legislative Manual, 1874",
+  "gbl_dateRange_drsim": [
+    "[1874 TO 1874]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1874
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688501",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

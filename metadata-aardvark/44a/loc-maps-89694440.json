@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Capital Planning Commission",
+    "DCP",
+    "Publication statement: [Washington : National Capital Planning Commission, 1976?]",
+    "Street map of metropolitan area.",
+    "Street map of metropolitan area. Title from publisher's price list. Unidentified grid. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Title from publisher's price list.",
+    "Unidentified grid."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004544",
+    "http://lccn.loc.gov/89694440",
+    "http://www.loc.gov/item/89694440/",
+    "http://www.loc.gov/resource/g3850.ct004544/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004544",
+    "https://search.catalog.loc.gov/instances/63922405-2be3-5a1b-a00d-70f693eb8f4f",
+    "https://www.loc.gov/item/89694440/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004544.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89694440/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area",
+    "washington region"
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Metropolitan Area",
+    "United States--District of Columbia--Washington Region",
+    "Washington (D.C.)--Maps",
+    "Washington Metropolitan Area--Maps",
+    "Washington Region--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1976",
+    "[Washington : National Capital Planning Commission, 1976?]"
+  ],
+  "dct_title_s": "[National capital region : Washington D.C.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89694440",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

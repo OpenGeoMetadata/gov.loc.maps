@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This pen-and-ink and watercolor manuscript map of 1782 is attributed to cartographer Louis-Alexandre Berthier (1753-1815), who served with the Marquis de Lafayette (1757-1834) and the Comte de Rochambeau during the American Revolution and who later was one of Napoleon's marshals. Berthier stayed in America from September 30, 1780 until December 24, 1782 and accompanied the combined French-American army on its march from New England to Yorktown, Virginia and its return march to Boston. The map depicts the positions of the French and American armies in New York during their return march from Yorktown to Boston. The map shows roads, bridges, houses, some industries, creeks, rivers, fortifications at Stony Point and Verplanck Point (the eastern \"Kings ferry\" on the map), and relief. \"Peaks-hill\" on the map was about 5 kilometers south of the center of present-day Peekskill, New York. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 440; 651/0; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Has watermarks.",
+    "Kings Ferry operated between Verplank Point and Stony Point. \"Peaks-hill\" was about 3 miles south of the center of present-day Peekskill.",
+    "LC Maps of North America, 1750-1789, 1219",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: [1782]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:27,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804p.ar121900",
+    "http://lccn.loc.gov/gm71000998",
+    "http://www.loc.gov/item/gm71000998/",
+    "http://www.loc.gov/resource/g3804p.ar121900/",
+    "https://hdl.loc.gov/loc.gmd/g3804p.ar121900",
+    "https://search.catalog.loc.gov/instances/3deb7ae9-6863-594c-ac09-129c4cfc59f3",
+    "https://www.loc.gov/item/gm71000998/"
+  ],
+  "dct_issued_s": "1782",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804p/ar121900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000998/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "peekskill",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fortification--New York (State)--Peekskill--Maps--Early works to 1800",
+    "Peekskill (N.Y.)--Buildings, structures, etc.--Maps, Manuscript--Early works to 1800",
+    "United States--New York (State)--Peekskill"
+  ],
+  "dct_temporal_sm": [
+    "1782"
+  ],
+  "dct_title_s": "Position des Armées amériquaine et françoise à Kings-ferry, Peaks-hill, Crompond et Hunts-taverne du 17. septembre au 20 octobre 1782",
+  "gbl_dateRange_drsim": [
+    "[1782 TO 1782]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1782
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000998",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

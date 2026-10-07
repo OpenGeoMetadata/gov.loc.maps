@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image. unk81040673 upgraded to RDA and LCCN 2021588667 replaced (ga15 2021-02-22)",
+    "Contributors: Dalrymple, Alexander, 1737-1808; East India Company",
+    "Publication statement: [London] : A. Dalrymple, [1769-1808]",
+    "unk81040673 upgraded to RDA and LCCN 2021588667 replaced (ga15 2021-02-22)"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021588667",
+    "http://www.loc.gov/item/2021588667/",
+    "http://www.loc.gov/resource/g3201s.ct012062/",
+    "https://hdl.loc.gov/loc.gmd/g3201s.ct012062",
+    "https://search.catalog.loc.gov/instances/2b3c2ca9-6ee0-506b-806c-0cc9d2a4d8d8",
+    "https://www.loc.gov/item/2021588667/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3201:g3201s:ct012062/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021588667/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)"
+  ],
+  "dct_temporal_sm": [
+    "1769/1808"
+  ],
+  "dct_title_s": "[Charts and memoirs published by Dalrymple at the charge of the East India Company]",
+  "gbl_dateRange_drsim": [
+    "[1769 TO 1808]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1769
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021588667",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

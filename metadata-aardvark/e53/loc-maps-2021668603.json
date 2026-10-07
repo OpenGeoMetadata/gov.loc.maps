@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Scale 1:12,000\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Wyld, James, 1812-1887 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map ; sheet 44 x 34 centimeters.",
+    "Publication statement: London : James Wyld, 1880.",
+    "This beautifully rendered map of Herat dates from 1880, the final year of the Second Anglo-Afghan War (1878--80). The map depicts Herat's impressive defenses and its roughly square plan. The southern and most imposing part of the citadel, \"the Ark\" (from the Persian arg, citadel) remains standing and is one of the major landmarks of Herat, as is the Friday Mosque (the Jumma Musjid in northeastern Herat). The defensive walls have long been replaced by spacious boulevards, however. Also noteworthy are the extensive vineyards that surround the city along with gardens and other cultivated land. The governor of Herat, Ayub Khan (1857--1914), was the son of the Afghan ruler Sher Ali Khan, who died in 1879 while seeking the assistance of the Russians against the British forces that had invaded Afghanistan. Sher Ali Khan was succeeded by another son, Mohammad Yaqub Khan (reigned February--October 1879), who adopted a conciliatory policy toward the British. Ayub Khan refused to recognize the conciliatory policies of his brother, and in August 1880 struck the British forces at Maiwand, near Kandahar (483 kilometers to the southeast of Herat, as the crow flies). After inflicting a serious defeat on the British forces, Ayub Khan proceeded to lay siege to Kandahar in an engagement known as the Battle of Kandahar, but was defeated in early September of the same year. At his defeat, Ayub Khan was forced to seek asylum in Persia. The Battle of Kandahar marked the end of the Second Anglo-Afghan war, and allowed the British to help consolidate the power of ʻAbd al-Rahman Khan (also called Abdur Rahman, reigned 1880--1901) as ruler of Afghanistan. The map was produced by the famous British mapmaker James Wyld the younger (1812-87). After studying at the Royal Military Academy at Woolwich, he joined his father's mapmaking and publishing firm, which he eventually inherited. Wyld published numerous maps, many of which were intended to satisfy public interest in current events, such as the Anglo-Afghan wars, the California Gold Rush, and the Crimean War. Wyld's maps were of high quality, and he was appointed geographer to Queen Victoria and Prince Albert.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668603",
+    "http://www.loc.gov/item/2021668603/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15027/",
+    "http://www.loc.gov/resource/wdl.15027/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15027",
+    "https://www.loc.gov/item/2021668603/"
+  ],
+  "dct_issued_s": "1880-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15027.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/02/7/wdl_15027/wdl_15027.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:7:wdl_15027:am002904c/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668603/\"}",
+  "dct_spatial_sm": [
+    "afghanistan",
+    "herat",
+    "herāt"
+  ],
+  "dct_subject_sm": [
+    "1880",
+    "Afghan Wars",
+    "Afghanistan--Herāt--Herat",
+    "Library of Congress Afghanistan Project"
+  ],
+  "dct_temporal_sm": [
+    "1880-01-01"
+  ],
+  "dct_title_s": "Herat, Afghanistan.",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668603",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

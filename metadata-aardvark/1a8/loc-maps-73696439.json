@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Tome I, no. 68.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bellin, Jacques Nicolas, 1703-1772",
+    "From the author's Le petit atlas maritime. 1764.",
+    "LC Maps of North America, 1750-1789, 1890",
+    "Oriented with north to the bottom.",
+    "Oriented with north to the bottom. Relief shown pictorially. Depths shown by soundings. \"Tome I, no. 68.\" From the author's Le petit atlas maritime. 1764. Scale ca. 1:100,000. LC Maps of North America, 1750-1789, 1890 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [Paris, 1764]",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Scale ca. 1:100,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4944l.ar189000",
+    "http://lccn.loc.gov/73696439",
+    "http://www.loc.gov/item/73696439/",
+    "http://www.loc.gov/resource/g4944l.ar189000/",
+    "https://hdl.loc.gov/loc.gmd/g4944l.ar189000",
+    "https://search.catalog.loc.gov/instances/f7a21ba7-7adc-5761-b686-dbf46fa3b0ad",
+    "https://www.loc.gov/item/73696439/"
+  ],
+  "dct_issued_s": "1764",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4944/g4944l/ar189000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73696439/\"}",
+  "dct_spatial_sm": [
+    "au",
+    "haiti",
+    "léogâne",
+    "port",
+    "port-au-prince",
+    "prince"
+  ],
+  "dct_subject_sm": [
+    "Haiti--Léogâne",
+    "Haiti--Port-au-Prince",
+    "Léogâne (Haiti)--Maps--Early works to 1800",
+    "Port-au-Prince (Haiti)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "dct_title_s": "Environs de Léogâne et du Port au Prince dans l'isle de St. Domingue",
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1764
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73696439",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

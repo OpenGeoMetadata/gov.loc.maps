@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Harvard map collection, Social Sciences Program of the Harvard College Library"
+  ],
+  "dct_description_sm": [
+    "\"Harvard map collection, Social Sciences program of the Harvard college program.\"",
+    "Began publication in 2000?",
+    "Mode of access: World Wide Web.",
+    "Publication statement: Cambridge, MA : Harvard College Library",
+    "The Harvard Map Collection is part of the Social Sciences Program of the Harvard College Library in Cambridge, Massachusetts. The collection is the oldest in the United States. Included in the collection are topographical maps, nautical charts, thematic maps, atlases, and reference books.",
+    "Title from HTML title (viewed on July 22, 2003)."
+  ],
+  "dct_identifier_sm": [
+    "http://hcl.harvard.edu/maps/",
+    "http://lccn.loc.gov/2003625055",
+    "http://www.loc.gov/item/2003625055/",
+    "https://www.loc.gov/item/2003625055/"
+  ],
+  "dct_issued_s": "2000",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2003625055/\"}",
+  "dct_subject_sm": [
+    "Academic libraries--Maps",
+    "Internet resource--Maps",
+    "Map collections--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_title_s": "Harvard map collection website",
+  "gbl_dateRange_drsim": [
+    "[2000 TO 2000]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003625055",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

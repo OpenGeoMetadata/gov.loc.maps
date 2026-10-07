@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cover title of copy 3: Virginia + North Carolina",
+    "Virginia + North Carolina"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lloyd, James T.; Powell, W. Angelo",
+    "Differs from other 1862 edition in including a warning to the right of the map title, and a list of new maps to the left, and lacking \"Deviation of the magnetic needle . . .\" and \"Memoranda\" describing the sources and projection used to make the map.",
+    "Includes text, population table, and lists of steamboat routes and altitudes.",
+    "LC Civil War maps (2nd ed.), 465.1, S175",
+    "LC copy sectioned into 32 pieces, with slight losses along sections, reassembled into two sheets.",
+    "Prime meridian: Washington.",
+    "Publication statement: New York : J.T. Lloyd, [1862], c1861.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Differs from other 1862 edition in including a warning to the right of the map title, and a list of new maps to the left, and lacking \"Deviation of the magnetic needle . . .\" and \"Memoranda\" describing the sources and projection used to make the map. Prime meridian: Washington. Includes text, population table, and lists of steamboat routes and altitudes. LC copy sectioned into 32 pieces, with slight losses along sections, reassembled into two sheets. LC Civil War maps (2nd ed.), 465.1, S175 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.cw0465100",
+    "http://hdl.loc.gov/loc.gmd/g3880.cws00175",
+    "http://lccn.loc.gov/99448498",
+    "http://www.loc.gov/item/99448498/",
+    "http://www.loc.gov/resource/g3880.cw0465100/",
+    "http://www.loc.gov/resource/g3880.cws00175/",
+    "https://hdl.loc.gov/loc.gmd/g3880.cw0465100",
+    "https://hdl.loc.gov/loc.gmd/g3880.cws00175",
+    "https://search.catalog.loc.gov/instances/45d07904-6958-5d55-a18a-8d2b089aa899",
+    "https://www.loc.gov/item/99448498/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/cw0465100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448498/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Lloyd's official map of the state of Virginia from actual surveys by order of the executive, 1828 & 1859",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448498",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

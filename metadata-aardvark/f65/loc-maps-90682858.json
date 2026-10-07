@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hervé, Juan de",
+    "LC Luso-Hispanic World, 412",
+    "Maggs number annotated in pencil in lower right margin: 111.",
+    "Mounted on cloth backing.",
+    "Pen-and-ink and blue and yellow inks.",
+    "Publication statement: [17--?]",
+    "Shows coast of Peru and Ecuador between Gulf of Guayaquil and Lima.",
+    "Shows coast of Peru and Ecuador between Gulf of Guayaquil and Lima. Watermarks: D. & C. Blauw; and, Strasburg bend and fleur-de-lis. Pen-and-ink and blue and yellow inks. Mounted on cloth backing. Maggs number annotated in pencil in lower right margin: 111. LC Luso-Hispanic World, 412 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermarks: D. & C. Blauw; and, Strasburg bend and fleur-de-lis."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5312c.lh000412",
+    "http://lccn.loc.gov/90682858",
+    "http://www.loc.gov/item/90682858/",
+    "http://www.loc.gov/resource/g5312c.lh000412/",
+    "https://hdl.loc.gov/loc.gmd/g5312c.lh000412",
+    "https://search.catalog.loc.gov/instances/3661b1ea-7587-50d9-9c63-388617629e31",
+    "https://www.loc.gov/item/90682858/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5312/g5312c/lh000412.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90682858/\"}",
+  "dct_spatial_sm": [
+    "ecuador",
+    "pacific coast",
+    "peru"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Ecuador--Maps--Early works to 1800",
+    "Coasts--Peru--Maps--Early works to 1800",
+    "Ecuador--Pacific Coast",
+    "Manuscript maps--Early works to 1800",
+    "Pacific Coast (Ecuador)--Maps, Manuscript--Early works to 1800",
+    "Pacific Coast (Peru)--Maps, Manuscript--Early works to 1800",
+    "Peru--Pacific Coast"
+  ],
+  "dct_temporal_sm": [
+    "1700",
+    "[17--?]"
+  ],
+  "dct_title_s": "Plano q. contiene desde el puerto d. Guayaquil a el d. Lima, sacado a Luz",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90682858",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

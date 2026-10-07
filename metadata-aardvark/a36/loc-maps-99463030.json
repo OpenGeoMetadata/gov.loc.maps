@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Title in margin: West Virginia",
+    "West Virginia"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Post Office Department",
+    "Includes index to counties and inset.",
+    "Includes index to counties and inset. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Washington, D.C. : The Department, [1940]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/99463030",
+    "http://www.loc.gov/item/99463030/",
+    "http://www.loc.gov/resource/g3891p.ct009458/",
+    "https://hdl.loc.gov/loc.gmd/g3891p.ct009458",
+    "https://search.catalog.loc.gov/instances/31843a5e-e81c-55c8-99d8-43ce2021c5b4",
+    "https://www.loc.gov/item/99463030/"
+  ],
+  "dct_issued_s": "1940",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3891/g3891p/ct009458.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99463030/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Postal service--West Virginia--Maps",
+    "United States--West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "dct_title_s": "Post route map of the state of West Virginia : showing post offices with the intermediate distances on mail routes : March 15, 1940",
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1940]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1940
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99463030",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

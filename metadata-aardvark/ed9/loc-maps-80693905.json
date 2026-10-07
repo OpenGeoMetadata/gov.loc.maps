@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Big Stone Gap Improvement Co; Nader, J.",
+    "Publication statement: [Big Stone Gap] : The Co., [1892?]",
+    "Reference meridians: Washington and Greenwich.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Reference meridians: Washington and Greenwich. Stamped on LC copy: Rogersville. Scale ca. 1:950,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale ca. 1:950,000.",
+    "Stamped on LC copy: Rogersville."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/80693905",
+    "http://www.loc.gov/item/80693905/",
+    "http://www.loc.gov/resource/g3884b.ct009307/",
+    "https://hdl.loc.gov/loc.gmd/g3884b.ct009307",
+    "https://search.catalog.loc.gov/instances/c207d2e4-3090-5c9f-8a5d-ebba43418270",
+    "https://www.loc.gov/item/80693905/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884b/ct009307.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80693905/\"}",
+  "dct_spatial_sm": [
+    "big stone gap region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Coal mines and mining--Virginia--Big Stone Gap Region--Maps",
+    "Iron mines and mining--Virginia--Big Stone Gap Region--Maps",
+    "Railroads--Virginia--Big Stone Gap Region--Maps",
+    "United States--Virginia--Big Stone Gap Region"
+  ],
+  "dct_temporal_sm": [
+    "1892",
+    "[Big Stone Gap] : The Co., [1892?]"
+  ],
+  "dct_title_s": "South western Virginia and environs : Big Stone Gap, Va., coal, iron & rail roads",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80693905",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

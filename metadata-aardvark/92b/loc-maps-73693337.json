@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This panoramic map shows Halifax, the capital of the province of Nova Scotia, Canada, as it appeared in 1879. Halifax Harbor (leading to the Atlantic Ocean) is in the foreground, with many different types of vessels, both sail- and steam-powered, seen proceeding in various directions. An inlet called the Northwest Arm is seen on the far side of the city, with small hills in the background. Near the harbor, the city is dense, with numerous small piers extending into the water, many with ships alongside. At the bottom of the map is an extensive index indicating more than 100 points of interest in the city, including hotels, schools and colleges, churches, government buildings, and industry. A variety of other city establishments also are listed, such as the post office, police station, hospital, penitentiary, cemeteries, gas works, water works, the town clock, public gardens, and a skating rink. Near the center of the image is the prominent fortress of Citadel Hill, established in 1749. The panoramic map was a cartographic form popularly used to depict U.S. and Canadian cities and towns in the late 19th and early 20th centuries. Also known as bird's-eye views or perspective maps, these maps are representations of cities portrayed as if viewed from above at an oblique angle. Not generally drawn to scale, they show street patterns, individual buildings, and major landscape features in perspective. This map is by Albert Ruger (1829-99), the first American to achieve success as a panoramic artist. Born in Prussia, Ruger immigrated to the United States and worked initially as a mason. While serving with the Ohio Volunteers during the Civil War, he drew views of Union campsites. After the war, Ruger settled in Battle Creek, Michigan, where he began his panoramic mapping career by sketching Michigan cities. In the late 1860s, Ruger formed a partnership with J.J. Stoner of Madison, Wisconsin, and together they published numerous city panoramas.\" World Digital Library.",
+    "AACR2: 100; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Contributors: Ruger, A.",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1071",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [n.p., 1879]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3424h.pm010710",
+    "http://lccn.loc.gov/73693337",
+    "http://www.loc.gov/item/73693337/",
+    "http://www.loc.gov/resource/g3424h.pm010710/",
+    "https://hdl.loc.gov/loc.gmd/g3424h.pm010710",
+    "https://search.catalog.loc.gov/instances/df73c7a8-8fea-5fd9-8854-86dcb522eefe",
+    "https://www.loc.gov/item/73693337/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3424/g3424h/pm010710.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693337/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "halifax",
+    "nova scotia"
+  ],
+  "dct_subject_sm": [
+    "Canada--Nova Scotia--Halifax",
+    "Halifax (N.S.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Panoramic view of the city of Halifax, Nova Scotia 1879",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693337",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

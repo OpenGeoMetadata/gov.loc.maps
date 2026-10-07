@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map of part of Africa's west coast is by the Reverend Jehudi Ashmun, a Methodist minister, skilled cartographer, agent of the American Colonization Society (ACS), and governor of Liberia from 1824 to 1828. The ACS established Liberia in 1822 as a colony for freed slaves from the United States. European merchants knew Liberia as \"the Grain Coast\" because of the great fertility of its soil. Ashmun taught American farming techniques to indigenous peoples and settlers, and worked to promote a balance between commerce and agriculture. He also promoted inland expansion, an interest that is reflected in the map, which includes information about the land, native peoples, trade, the locations of factories and proposed towns, and speculations about what lay beyond charted territory. The map also includes a detailed plan of the country's capital, Monrovia, which the ACS named after U.S. President James Monroe, who supported African-American emigration to the colony.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ashmun, J. (Jehudi), 1794-1828; Finley, A. (Anthony); Young, J. H. (James Hamilton)",
+    "Copy 1 Gift; 1968; American Colonization Society;",
+    "Includes text and indexed inset of Monrovia.",
+    "Prime meridians: Washington and Greenwich.",
+    "Publication statement: Philad[elphi]a [Pa.] : A. Finley, 1830.",
+    "Relief shown pictorially.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8882c.lm000002",
+    "http://lccn.loc.gov/96680499",
+    "http://www.loc.gov/item/96680499/",
+    "http://www.loc.gov/resource/g8882c.lm000002/",
+    "https://hdl.loc.gov/loc.gmd/g8882c.lm000002",
+    "https://search.catalog.loc.gov/instances/28c2b178-1ff7-538c-b510-9c7b18934421",
+    "https://www.loc.gov/item/96680499/"
+  ],
+  "dct_issued_s": "1830",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8882/g8882c/lm000002.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96680499/\"}",
+  "dct_spatial_sm": [
+    "liberia",
+    "monrovia",
+    "sierra leone"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Liberia--Maps",
+    "Coasts--Sierra Leone--Maps",
+    "Liberia",
+    "Liberia--Monrovia",
+    "Monrovia (Liberia)--Maps",
+    "Sierra Leone"
+  ],
+  "dct_temporal_sm": [
+    "1830"
+  ],
+  "dct_title_s": "Map of the West Coast of Africa from Sierra Leone to Cape Palmas, including the colony of Liberia",
+  "gbl_dateRange_drsim": [
+    "[1830 TO 1830]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1830
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96680499",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"801768 (R00024) 6-91.\"",
+    "\"801768 (R00024) 6-91.\" Relief shown by shading. Depths shown by contours. Includes comparative area map. Available also through the Library of Congress Web site as a raster image. ARP",
+    "ARP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes comparative area map.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1991]",
+    "Relief shown by shading. Depths shown by contours."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4860.ct001077",
+    "http://lccn.loc.gov/92685725",
+    "http://www.loc.gov/item/92685725/",
+    "http://www.loc.gov/resource/g4860.ct001077/",
+    "https://hdl.loc.gov/loc.gmd/g4860.ct001077",
+    "https://search.catalog.loc.gov/instances/cc87ea94-e083-5a59-a25d-e8fdc4d8af61",
+    "https://www.loc.gov/item/92685725/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4860/g4860/ct001077.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92685725/\"}",
+  "dct_spatial_sm": [
+    "costa rica"
+  ],
+  "dct_subject_sm": [
+    "Costa Rica",
+    "Costa Rica--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "Costa Rica",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92685725",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

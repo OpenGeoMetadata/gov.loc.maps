@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"4-R-40021.\"",
+    "\"October 1986.\"",
+    "\"October 1986.\" Alternate title in right lower margin: Morris Co., N.J. : N4038.5-W7415/27X39, 1978. UTM and state grids. Includes notes. \"4-R-40021.\" Available also through the Library of Congress Web site as a raster image.",
+    "Alternate title in right lower margin: Morris Co., N.J. : N4038.5-W7415/27X39, 1978.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); National Cartographic Center (U.S.)",
+    "Includes notes.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [Somerset, N.J. : State Conservationist, distributor], 1987.",
+    "UTM and state grids."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3813m.ct006883",
+    "http://lccn.loc.gov/87694230",
+    "http://www.loc.gov/item/87694230/",
+    "http://www.loc.gov/resource/g3813m.ct006883/",
+    "https://hdl.loc.gov/loc.gmd/g3813m.ct006883",
+    "https://search.catalog.loc.gov/instances/e5b9266e-8031-5fc5-afd4-63e8cbd7cfc7",
+    "https://www.loc.gov/item/87694230/"
+  ],
+  "dct_issued_s": "1986",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3813/g3813m/ct006883.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694230/\"}",
+  "dct_spatial_sm": [
+    "morris county",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Morris County (N.J.)--Maps",
+    "United States--New Jersey--Morris County"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "dct_title_s": "Morris County, New Jersey",
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694230",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

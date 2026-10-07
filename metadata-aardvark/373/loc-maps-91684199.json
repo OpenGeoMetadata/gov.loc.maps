@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows block numbers, major buildings, and radial distances from Capitol.",
+    "At lower left: April 21, 1880, F.V.G.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Congress. Senate",
+    "Covers entire area within old city limits (Florida Av.).",
+    "DCP",
+    "Includes sector diagram.",
+    "Publication statement: [Washington, D.C. : U.S. Senate, 1880]",
+    "Removed from v. 2 of: The miscellaneous documents of the Senate of the United States for the second session of the Forty-Sixth Congress, 1879-80 : in 3 volumes. Washington : G.P.O., 1880.",
+    "Shows proposed infilling of the bed of James Creek Canal.",
+    "Shows proposed infilling of the bed of James Creek Canal. Also shows block numbers, major buildings, and radial distances from Capitol. Covers entire area within old city limits (Florida Av.). At lower left: April 21, 1880, F.V.G. Removed from v. 2 of: The miscellaneous documents of the Senate of the United States for the second session of the Forty-Sixth Congress, 1879-80 : in 3 volumes. Washington : G.P.O., 1880. Includes sector diagram. Available also through the Library of Congress Web site as a raster image. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852j.ct004987",
+    "http://lccn.loc.gov/91684199",
+    "http://www.loc.gov/item/91684199/",
+    "http://www.loc.gov/resource/g3852j.ct004987/",
+    "https://hdl.loc.gov/loc.gmd/g3852j.ct004987",
+    "https://search.catalog.loc.gov/instances/58b0f55f-3719-5013-8c1f-8251aa8d72a7",
+    "https://www.loc.gov/item/91684199/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852j/ct004987.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91684199/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "james creek canal",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "James Creek Canal (Washington, D.C.)--Maps",
+    "Reclamation of land--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--James Creek Canal",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Map of Washington and Georgetown : to accompany report on filling the old canal",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91684199",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

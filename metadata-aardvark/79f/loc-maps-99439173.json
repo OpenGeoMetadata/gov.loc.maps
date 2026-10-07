@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Tipton and Blocher",
+    "Description derived from published bibliography.",
+    "For a complete description see the earlier edition published in 1905 by L. W. Minnigh (entry no. 344).",
+    "For a complete description see the earlier edition published in 1905 by L. W. Minnigh (entry no. 344). Description derived from published bibliography. Scale 1:15,840. LC Civil War Maps (2nd ed.), 350 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 350",
+    "Publication statement: Gettysburg, Tipton & Blocher, c1912.",
+    "Scale 1:15,840."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824g.cw0350000",
+    "http://lccn.loc.gov/99439173",
+    "http://www.loc.gov/item/99439173/",
+    "http://www.loc.gov/resource/g3824g.cw0350000/",
+    "https://hdl.loc.gov/loc.gmd/g3824g.cw0350000",
+    "https://search.catalog.loc.gov/instances/0a037c82-8f70-53a6-9f1d-167e2b9e75fe",
+    "https://www.loc.gov/item/99439173/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824g/cw0350000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99439173/\"}",
+  "dct_spatial_sm": [
+    "gettysburg",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gettysburg (Pa.), Battle of",
+    "Gettysburg, Battle of, Gettysburg, Pa., 1863--Maps",
+    "United States--Pennsylvania--Gettysburg"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "The battlefield of Gettysburg, July 1st, 2nd and 3rd 1863",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99439173",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

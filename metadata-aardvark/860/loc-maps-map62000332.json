@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"All place names, county lines and railroads are shown as they existed during the Civil War.\"",
+    "\"All place names, county lines and railroads are shown as they existed during the Civil War.\" Indicates \"route of Davis' attempted escape,\" \"route of march of General Sherman's main forces,\" and \"Confederate defense works.\" Engagements and other important sites are keyed by number to map. Includes index to points of interest. Scale ca. 1:960,000. Library of Congress. Civil War maps (2nd ed.), 129.9 Available also through the Library of Congress web site as raster image.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Georgia. Department of Commerce; Smith, J. Harmon",
+    "Includes index to points of interest.",
+    "Indicates \"route of Davis' attempted escape,\" \"route of march of General Sherman's main forces,\" and \"Confederate defense works.\" Engagements and other important sites are keyed by number to map.",
+    "Library of Congress. Civil War maps (2nd ed.), 129.9",
+    "Publication statement: [Atlanta], Georgia Dept. of Commerce, 1961.",
+    "Scale ca. 1:960,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3921s.cw0129900",
+    "http://lccn.loc.gov/map62000332",
+    "http://www.loc.gov/item/map62000332/",
+    "http://www.loc.gov/resource/g3921s.cw0129900/",
+    "https://hdl.loc.gov/loc.gmd/g3921s.cw0129900",
+    "https://search.catalog.loc.gov/instances/c1b589e8-20ef-57b3-8752-101fb3e9129f",
+    "https://www.loc.gov/item/map62000332/"
+  ],
+  "dct_issued_s": "1961",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3921/g3921s/cw0129900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/map62000332/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--History--Civil War, 1861-1865--Maps",
+    "United States--Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1961"
+  ],
+  "dct_title_s": "The State of Georgia, showing the major campaign areas and engagement sites of the War between the States, 1861-1865",
+  "gbl_dateRange_drsim": [
+    "[1961 TO 1961]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1961
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map62000332",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

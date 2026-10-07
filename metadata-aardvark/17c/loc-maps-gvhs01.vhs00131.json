@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Diary (Mss5:1 Sn237:1 v. 4, p. 228).",
+    "Manuscripts",
+    "Map shows a regional view of Charleston Harbor including Confederate fortifications and Union naval vessels. This April 1863 atttack by Union ironclads was unsuccessful.",
+    "NOTE: Researchers will be served a color photocopy of this diary image.",
+    "Publication statement: [1863-1865].",
+    "Relief shown by hachures.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00131",
+    "http://www.loc.gov/item/001-CABIB20009221/",
+    "http://www.loc.gov/item/gvhs01.vhs00131/",
+    "http://www.loc.gov/resource/gvhs01.vhs00131/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00131",
+    "https://www.loc.gov/item/gvhs01.vhs00131/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00131.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00131/\"}",
+  "dct_spatial_sm": [
+    "charleston",
+    "charleston harbor",
+    "fort sumter",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Charleston Harbor (S.C.)--History--Civil War, 1861-1865--Maps",
+    "Fort Sumter (Charleston, S.C.)--History--Civil War, 1861-1865--Maps",
+    "United States--History--Civil War, 1861-1865--Naval operations",
+    "United States--South Carolina--Charleston Harbor",
+    "United States--South Carolina--Fort Sumter"
+  ],
+  "dct_temporal_sm": [
+    "1863/1865"
+  ],
+  "dct_title_s": "Plan of the attack on Ft. Sumter, April 6th, 1863.",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00131",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

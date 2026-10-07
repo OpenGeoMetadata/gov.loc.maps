@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Constructed in 2009 by digital methods at the Regional Office, Atlanta, GA, using GIS data provided by the NFs in NC. 2009 field review by NFs in NC. Land status current as of 2009.\"",
+    "\"R8-RG 327.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes text, recreation and tourist information, 2 insets, descriptive lists of trails, location map, and col. ill.",
+    "Publication statement: [Atlanta?] : Southern Region, 2009.",
+    "Relief shown by contours, shading, and spot heights. Depths shown by contours.",
+    "Relief shown by contours, shading, and spot heights. Depths shown by contours. Title from panel. Segments of map separately titled: Wilson Creek area trails-North end -- Wilson Creek area trails-South end. \"Constructed in 2009 by digital methods at the Regional Office, Atlanta, GA, using GIS data provided by the NFs in NC. 2009 field review by NFs in NC. Land status current as of 2009.\" Includes text, recreation and tourist information, 2 insets, descriptive lists of trails, location map, and col. ill. \"R8-RG 327.\" Available also through the Library of Congress Web site as a raster image.",
+    "Segments of map separately titled: Wilson Creek area trails-North end -- Wilson Creek area trails-South end.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2009581281",
+    "http://www.loc.gov/item/2009581281/",
+    "http://www.loc.gov/resource/g3902w.ct009744/",
+    "https://hdl.loc.gov/loc.gmd/g3902w.ct009744",
+    "https://search.catalog.loc.gov/instances/e4bafbfd-50a3-549b-bce0-bbc37a1ce558",
+    "https://www.loc.gov/item/2009581281/"
+  ],
+  "dct_issued_s": "2009",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902w/ct009744.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009581281/\"}",
+  "dct_spatial_sm": [
+    "avery county",
+    "caldwell county",
+    "north carolina",
+    "united states",
+    "wilson creek watershed",
+    "wilson creek watershed (avery county and caldwell county)"
+  ],
+  "dct_subject_sm": [
+    "Outdoor recreation--North Carolina--Wilson Creek Watershed (Avery County and Caldwell County)--Maps",
+    "Trails--North Carolina--Wilson Creek Watershed (Avery County and Caldwell County)--Maps",
+    "United States--North Carolina--Wilson Creek Watershed (Avery County and Caldwell County)",
+    "Wilson Creek Watershed (Avery County and Caldwell County, N.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "dct_title_s": "Wilson Creek, national wild and scenic river trail guide, Pisgah National Forest, North Carolina, 2009",
+  "gbl_dateRange_drsim": [
+    "[2009 TO 2009]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2009581281",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

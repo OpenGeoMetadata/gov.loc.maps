@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also covers southcentral North Carolina.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ramsay, David, 1749-1815",
+    "From David Ramsay's History of the Revolution of South Carolina, 1785.",
+    "Prime meridian: Charleston (S.C.)",
+    "Publication statement: [Trenton, N.J. : s.n., 1785]",
+    "Relief shown by hachures.",
+    "Shows troop movements during 1781.",
+    "Shows troop movements during 1781. Also covers southcentral North Carolina. Relief shown by hachures. From David Ramsay's History of the Revolution of South Carolina, 1785. Prime meridian: Charleston (S.C.) Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3911s.ar308100",
+    "http://hdl.loc.gov/loc.gmd/g3911s.ar308101",
+    "http://lccn.loc.gov/81693426",
+    "http://www.loc.gov/item/81693426/",
+    "http://www.loc.gov/resource/g3911s.ar308100/",
+    "http://www.loc.gov/resource/g3911s.ar308101/",
+    "https://hdl.loc.gov/loc.gmd/g3911s.ar308100",
+    "https://hdl.loc.gov/loc.gmd/g3911s.ar308101",
+    "https://search.catalog.loc.gov/instances/e8a7dd4b-5677-5226-af01-33cf6b124fc7",
+    "https://www.loc.gov/item/81693426/"
+  ],
+  "dct_issued_s": "1781",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3911/g3911s/ar308100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81693426/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "North Carolina--History--Revolution, 1775-1783--Maps--Early works to 1800",
+    "South Carolina--History--Revolution, 1775-1783--Maps--Early works to 1800",
+    "United States--North Carolina",
+    "United States--South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1781"
+  ],
+  "dct_title_s": "South-Carolina and parts adjacent, shewing the movements of the American and British armies",
+  "gbl_dateRange_drsim": [
+    "[1781 TO 1781]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1781
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81693426",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

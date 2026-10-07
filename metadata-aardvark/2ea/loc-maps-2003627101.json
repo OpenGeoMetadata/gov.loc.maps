@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "New York and part of Ontario"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Asher & Adams",
+    "From: Gazetteer of New York.",
+    "From: Gazetteer of New York. Available also through the Library of Congress web site as a raster image.",
+    "Publication statement: [S.l.], 1871."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3800.ct000488",
+    "http://lccn.loc.gov/2003627101",
+    "http://www.loc.gov/item/2003627101/",
+    "http://www.loc.gov/resource/g3800.ct000488/",
+    "https://hdl.loc.gov/loc.gmd/g3800.ct000488",
+    "https://search.catalog.loc.gov/instances/9ea81d60-195e-5e6d-8556-234b476cfb42",
+    "https://www.loc.gov/item/2003627101/"
+  ],
+  "dct_issued_s": "1871",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3800/g3800/ct000488.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003627101/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New York (State)--Maps",
+    "United States--New York (State)"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "dct_title_s": "Asher & Adams' New York and part of Ontario",
+  "gbl_dateRange_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1871
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003627101",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

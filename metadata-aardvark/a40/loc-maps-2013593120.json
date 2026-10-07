@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Names underscored represent lands confiscated and held by U.S. Government.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ravenel, Henry; Vignoles, Charles Blacker, 1793-1875",
+    "LC Land ownership maps, 834",
+    "LC copy imperfect: Left and right borders trimmed, minor losses along fold lines, mounted on cloth.",
+    "Publication statement: [South Carolina] : [Publisher not identified], 1873.",
+    "Relief shown by contours and pictorially.",
+    "Shows names of landowners.",
+    "Shows names of landowners. Relief shown by contours and pictorially. \"Names underscored represent lands confiscated and held by U.S. Government.\" LC copy imperfect: Left and right borders trimmed, minor losses along fold lines, mounted on cloth. LC Land ownership maps, 834 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3913b.la000834",
+    "http://lccn.loc.gov/2013593120",
+    "http://www.loc.gov/item/2013593120/",
+    "http://www.loc.gov/resource/g3913b.la000834/",
+    "https://hdl.loc.gov/loc.gmd/g3913b.la000834",
+    "https://search.catalog.loc.gov/instances/d4083316-493c-57ab-9682-a7a1e520bbc2",
+    "https://www.loc.gov/item/2013593120/"
+  ],
+  "dct_issued_s": "1873",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3913/g3913b/la000834.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593120/\"}",
+  "dct_spatial_sm": [
+    "beaufort county",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Beaufort County (S.C.)--Maps",
+    "Landowners--South Carolina--Beaufort County--Maps",
+    "Real property--South Carolina--Beaufort County--Maps",
+    "United States--South Carolina--Beaufort County"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "dct_title_s": "Beaufort County, South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1873 TO 1873]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1873
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593120",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

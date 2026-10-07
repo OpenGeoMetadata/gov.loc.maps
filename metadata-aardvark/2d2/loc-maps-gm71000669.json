@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Wangenheim, Friedrich Adam Julius von",
+    "LC Maps of North America, 1750-1789, 1273",
+    "Manuscript, pen-and-ink and watercolor on tracing paper.",
+    "Manuscript, pen-and-ink and watercolor on tracing paper. Relief shown by hachures. On verso: V75. Scale ca. 1:65,000. LC Maps of North America, 1750-1789, 1273 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651",
+    "On verso: V75.",
+    "Publication statement: 1777.",
+    "Relief shown by hachures.",
+    "Scale ca. 1:65,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814n.ar127300",
+    "http://lccn.loc.gov/gm71000669",
+    "http://www.loc.gov/item/gm71000669/",
+    "http://www.loc.gov/resource/g3814n.ar127300/",
+    "https://hdl.loc.gov/loc.gmd/g3814n.ar127300",
+    "https://search.catalog.loc.gov/instances/3ff1ec0c-b7a3-59e2-955e-fd0b08a3c89c",
+    "https://www.loc.gov/item/gm71000669/"
+  ],
+  "dct_issued_s": "1777",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814n/ar127300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000669/\"}",
+  "dct_spatial_sm": [
+    "new brunswick (region)",
+    "new brunswick region",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Brunswick Region (N.J.)--History--Revolution, 1775-1783--Maps, Manuscript--Early works to 1800",
+    "United States--New Jersey--New Brunswick (Region)"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "dct_title_s": "Plan de notre camp à New Brunswick le 12e. juin, notre marche le 14 à Middlebush, la situation du camp le 15e juin, et cette du Genl. Washington à Boundbrook, le poste que le Genl. Sulivan occupoit le 15 dans la nuit pour courir Philadelphia, se postant sur la route de Pennington,",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000669",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

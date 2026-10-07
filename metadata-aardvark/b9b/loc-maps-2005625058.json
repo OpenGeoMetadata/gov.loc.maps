@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In ink on red bordered label: 315 crossed out.",
+    "Library of Congress. Civil War maps (2nd ed.), H151",
+    "Orientation varies.",
+    "Pencil (some col.), mounted between sheets of transparent paper.",
+    "Publication statement: [1863]",
+    "Relief shown by hachures.",
+    "Shows names of some residents.",
+    "Shows names of some residents. Relief shown by hachures. Title, date, and scales from Stephenson's Civil War maps, 1989. Orientation varies. Pencil (some col.), mounted between sheets of transparent paper. In ink on red bordered label: 315 crossed out. Library of Congress. Civil War maps (2nd ed.), H151 Available also through the Library of Congress web site as raster image.",
+    "Title, date, and scales from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882s.cwh00151",
+    "http://lccn.loc.gov/2005625058",
+    "http://www.loc.gov/item/2005625058/",
+    "http://www.loc.gov/resource/g3882s.cwh00151/",
+    "https://hdl.loc.gov/loc.gmd/g3882s.cwh00151",
+    "https://search.catalog.loc.gov/instances/6f5795d3-ae9c-5118-a6be-d801373dceb0",
+    "https://www.loc.gov/item/2005625058/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882s/cwh00151.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625058/\"}",
+  "dct_spatial_sm": [
+    "shenandoah river valley",
+    "united states",
+    "virginia",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Shenandoah River Valley (Va. and W. Va.)--Maps",
+    "Roads--Shenandoah River Valley (Va. and W. Va.)--Maps",
+    "Shenandoah River Valley (Va. and W. Va.)--Maps",
+    "United States--Virginia--Shenandoah River Valley",
+    "United States--West Virginia--Shenandoah River Valley"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "[Sketches of roads in the Shenandoah Valley between Winchester and Woodstock, Virginia]",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625058",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

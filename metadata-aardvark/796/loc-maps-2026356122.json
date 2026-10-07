@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "OpenStreetMap Shapefiles",
+    "Title from gis format documentation: OpenStreetMap data in layered GIS format"
+  ],
+  "dct_description_sm": [
+    "\"© OpenStreetMap contributors.\"",
+    "Contributors: OpenStreetMap (Project), cartographer",
+    "Data is structured into eight geographic regions: Africa, Antarctica, Australia-Oceania, Asia, Central America, Europe, North America, and South America.",
+    "Data is structured into eight geographic regions: Africa, Antarctica, Australia-Oceania, Asia, Central America, Europe, North America, and South America. Global data for 2025 is available in shapefile format, structured by geographic region and by theme. Due to the 2 GB file size restriction on shapefiles, some thematic data compressed files will contain multiple shapefiles. Geospatial vector data layers exported from OpenStreetMap, processed by Geofabrik into shapefile formats. \"© OpenStreetMap contributors.\"",
+    "Geospatial vector data layers exported from OpenStreetMap, processed by Geofabrik into shapefile formats.",
+    "Global data for 2025 is available in shapefile format, structured by geographic region and by theme. Due to the 2 GB file size restriction on shapefiles, some thematic data compressed files will contain multiple shapefiles.",
+    "Publication statement: Karlsruhe : Geofabrik GmbH, 2026."
+  ],
+  "dct_identifier_sm": [
+    "http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&BBID=in00024769401&v3=1",
+    "http://lccn.loc.gov/2026356122",
+    "http://www.loc.gov/item/2026356122/",
+    "http://www.loc.gov/resource/gdcdatasets.2026356122/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2026356122_africa-2026",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2026356122_antarctica-2026",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2026356122_asia-2026",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2026356122_australia-oceania-2026",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2026356122_central-america-2026",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2026356122_europe-2026",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2026356122_north-america-2026",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2026356122_south-america-2026",
+    "https://search.catalog.loc.gov/instances/30c4aba2-c0c5-4984-b3e3-32ebf8d16e80",
+    "https://www.loc.gov/item/2026356122/"
+  ],
+  "dct_issued_s": "2026",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2026356122/\"}",
+  "dct_rights_sm": [
+    "This OpenStreetMap is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/"
+  ],
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)"
+  ],
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "dct_title_s": "OpenStreetMap 2026 global data layers",
+  "gbl_dateRange_drsim": [
+    "[2026 TO 2026]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2026356122",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

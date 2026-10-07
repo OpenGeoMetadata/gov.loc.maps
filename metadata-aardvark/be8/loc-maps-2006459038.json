@@ -1,0 +1,49 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At upper left corner: 35609.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: McConnell School Supply Co",
+    "Publication statement: Philadelphia, Pa. : McConnell School Supply Co., [1900?].",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. At upper left corner: 35609. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7820.ct005357",
+    "http://lccn.loc.gov/2006459038",
+    "http://www.loc.gov/item/2006459038/",
+    "http://www.loc.gov/resource/g7820.ct005357/",
+    "https://hdl.loc.gov/loc.gmd/g7820.ct005357",
+    "https://search.catalog.loc.gov/instances/3019e24b-4eba-58cd-b6a0-23482ea20cf4",
+    "https://www.loc.gov/item/2006459038/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7820/g7820/ct005357.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006459038/\"}",
+  "dct_spatial_sm": [
+    "china"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1900",
+    "Philadelphia, Pa. : McConnell School Supply Co., [1900?]."
+  ],
+  "dct_title_s": "War map of China",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006459038",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

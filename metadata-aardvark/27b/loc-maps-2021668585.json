@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Colonia agrippina anno domini MDLXXI exactissime descripta"
+  ],
+  "dct_description_sm": [
+    "\"Shelfmark: KoB DelaG 151\"--Note extracted from World Digital Library.",
+    "Content in Latin.",
+    "Contributors: Mercator, Arnold, 1537-1587 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Sweden.",
+    "Original resource extent: 1 engraving ; 172 x 110 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1571.",
+    "This bird's-eye view of Cologne in 1571 is from the collection of cityscapes and broadsheets that once belonged to the Swedish statesman Count Magnus Gabriel De la Gardie (1622-86). It is the earliest accurate map of Cologne, a free city of the Holy Roman Empire. The map was engraved in 1571 by Arnold Mercator (1537-87), son of the great cartographer Gerardus Mercator. This view shows the city stretched out in an arc along the Rhine. In the margins are some of the Roman antiquities found in the city, with inscriptions showing their measurements. Columns, statues, a sarcophagus, and altars are depicted. The lower part of the map has a description of the construction of a stone bridge built in the year 310 and destroyed in 962. The Magnus Gabriel De la Gardie Collection consists of 187 engravings from the late 1500s and early 1600s. The prints originally were bound, ordered, and assigned a number. The early provenance of the collection is uncertain. After perusing the correspondence of King Gustav II Adolf and the Dutch philologist and diplomat Johannes Rutgersius, the former national librarian of Sweden E.W. Dahlgren conjectured that the pictures were ordered by the king and purchased by Rutgersius. The collection later was incorporated into the library of Magnus Gabriel De la Gardie, then deposited in the Archive of Antiquities at the end of the 17th century, only to be transferred to the Royal Library in 1780. An exhaustive catalog of the collection was published by Isak Collijn in 1915, Magnus Gabriel de la Gardie's samling af äldre stadsvyer och historiska planscher i Kungl. Biblioteket. Dahlgren provides an account of the early provenance of the collection in his article, \"Miscellanea\" in Nordisk tidskrift för bok- och biblioteksväsen (1920).",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668585",
+    "http://www.loc.gov/item/2021668585/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_14390/",
+    "http://www.loc.gov/resource/wdl.14390/",
+    "https://hdl.loc.gov/loc.wdl/wdl.14390",
+    "https://www.loc.gov/item/2021668585/"
+  ],
+  "dct_issued_s": "1571-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_14390.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/14/39/0/wdl_14390/wdl_14390.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:39:0:wdl_14390:koln_1571_DelaG_151_Cologne/full/pct:1.5625/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668585/\"}",
+  "dct_spatial_sm": [
+    "cologne",
+    "germany",
+    "north rhine-westphalia"
+  ],
+  "dct_subject_sm": [
+    "1571",
+    "Aerial views",
+    "Antiquities",
+    "Cities and towns",
+    "Description and travel",
+    "Germany--North Rhine-Westphalia--Cologne",
+    "Holy Roman Empire",
+    "Rhine River",
+    "Rome"
+  ],
+  "dct_temporal_sm": [
+    "1571-01-01"
+  ],
+  "dct_title_s": "Colonia Agrippina (Present-Day Cologne) Accurately Described in the Year 1571.",
+  "gbl_dateRange_drsim": [
+    "[1571 TO 1571]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1571
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668585",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Pen-and-ink on tracing linen. Losses along border and mounted on cloth backing",
+    "Publication statement: [Texas?] : [producer not identified], [between 1800 and 1820?]",
+    "Shows names of landowners.",
+    "Shows names of landowners. Pen-and-ink on tracing linen. Losses along border and mounted on cloth backing Available also through the Library of Congress Web site as a raster image. vcFY24",
+    "vcFY24"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597673",
+    "http://www.loc.gov/item/2024597673/",
+    "http://www.loc.gov/resource/g4033c.la000914/",
+    "https://hdl.loc.gov/loc.gmd/g4033c.la000914",
+    "https://search.catalog.loc.gov/instances/f2c1350e-b7e4-546e-b2e8-879a017f2177",
+    "https://www.loc.gov/item/2024597673/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033c/la000914.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597673/\"}",
+  "dct_spatial_sm": [
+    "calhoun county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Calhoun County (Tex.)--Maps",
+    "Landowners--Texas--Calhoun County--Maps",
+    "United States--Texas--Calhoun County"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[Texas?] : [producer not identified], [between 1800 and 1820?]"
+  ],
+  "dct_title_s": "Map of Calhoun County",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597673",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

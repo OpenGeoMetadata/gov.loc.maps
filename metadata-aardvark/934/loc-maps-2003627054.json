@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This 1909 map, published by the United Fruit Company, shows the extensive shipping, railroad, and wireless telegraph network built and maintained by the company to carry out its main business, the production and marketing of bananas. United Fruit was founded in 1899 by the merger of the Boston Fruit Company and several other firms involved in the banana industry in Central America, the Caribbean, and Colombia. The history of the company goes back to 1872, when Minor C. Keith began to acquire banana plantations and build a railroad in Costa Rica. Through sophisticated marketing and its complex logistical network, United Fruit managed to make bananas, previously an unknown tropical fruit, into a basic food in the United States and Western Europe. Notwithstanding these achievements, United Fruit was often the target of political opposition in the countries in which it operated, accused of neglecting its workers and manipulating governments for its own ends, hence the term \"banana republic.\"\" World Digital Library.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: United Fruit Company",
+    "Inset map of South America.",
+    "Publication statement: [S.l.], 1909."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3301p.ct000852",
+    "http://lccn.loc.gov/2003627054",
+    "http://www.loc.gov/item/2003627054/",
+    "http://www.loc.gov/resource/g3301p.ct000852/",
+    "https://hdl.loc.gov/loc.gmd/g3301p.ct000852",
+    "https://search.catalog.loc.gov/instances/a945c13f-e616-5bb5-9d56-3b270a9deaa5",
+    "https://www.loc.gov/item/2003627054/"
+  ],
+  "dct_issued_s": "1909",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3301/g3301p/ct000852.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003627054/\"}",
+  "dct_spatial_sm": [
+    "north america",
+    "south america"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "South America",
+    "Telegraph, Wireless--North America--Maps",
+    "Telegraph, Wireless--South America--Maps",
+    "Transportation--North America--Maps",
+    "Transportation--South America--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dct_title_s": "Central America, the West Indies South America and portions of the United States and Mexico",
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1909
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003627054",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

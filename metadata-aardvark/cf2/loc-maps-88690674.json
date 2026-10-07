@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "DCP Relief shown by hachures. In lower margin below title: (From Atlas accompanying Official Records). Library of Congress. Civil War maps (2nd ed.), 682.5 Available also through the Library of Congress Web site as a raster image. LC copy fold-lined, mounted on cloth backing, and annotated in pencil in lower margin: Atlas, v. 2, pl. XXXIX, no. 1.",
+    "In lower margin below title: (From Atlas accompanying Official Records).",
+    "LC copy fold-lined, mounted on cloth backing, and annotated in pencil in lower margin: Atlas, v. 2, pl. XXXIX, no. 1.",
+    "Library of Congress. Civil War maps (2nd ed.), 682.5",
+    "Publication statement: [Washington, D.C.? : s.n., 1865?]",
+    "Relief shown by hachures."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851s.cw0682500",
+    "http://lccn.loc.gov/88690674",
+    "http://www.loc.gov/item/88690674/",
+    "http://www.loc.gov/resource/g3851s.cw0682500/",
+    "https://hdl.loc.gov/loc.gmd/g3851s.cw0682500",
+    "https://search.catalog.loc.gov/instances/7c0d07f6-ec05-567e-99e5-3308d15e2b7a",
+    "https://www.loc.gov/item/88690674/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851s/cw0682500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690674/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "Fortification--Washington (D.C.)--Maps",
+    "Fortification--Washington Metropolitan Area--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Metropolitan Area",
+    "Washington (D.C.)--History--Civil War, 1861-1865--Maps",
+    "Washington Metropolitan Area--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1865",
+    "[Washington, D.C.? : s.n., 1865?]"
+  ],
+  "dct_title_s": "Map of the defences of Washington",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690674",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Field checked 1949-1978. Photorevised 1969-1982.\"",
+    "\"The Ohio River boundary was determined in Ohio v. Kentucky, no. 27, original, 471 U.S. The final decree was entered on April 15, 1985.\"",
+    "Alternate title: Ohio v. Kentucky, no. 27, orig.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Each sheet separately numbered: Joint exhibit no. 1, 2, etc.",
+    "Each sheet separately sub-titled, e.g.: Catlettsburg quadrangle, Ohio-West Virginia-Kentucky.",
+    "Includes index map, notes, and location map.",
+    "Publication statement: [Reston, Va.] : Interior--Geological Survey, [1985]",
+    "Relief shown by spot heights.",
+    "Relief shown by spot heights. Alternate title: Ohio v. Kentucky, no. 27, orig. Each sheet separately sub-titled, e.g.: Catlettsburg quadrangle, Ohio-West Virginia-Kentucky. Each sheet separately numbered: Joint exhibit no. 1, 2, etc. \"The Ohio River boundary was determined in Ohio v. Kentucky, no. 27, original, 471 U.S. The final decree was entered on April 15, 1985.\" \"Field checked 1949-1978. Photorevised 1969-1982.\" UTM grid, zones 16 and 17. Title, alternate title, other boundary information, index map, and location map overprinted in red. Includes index map, notes, and location map. Available also through the Library of Congress Web site as a raster image.",
+    "Title, alternate title, other boundary information, index map, and location map overprinted in red.",
+    "UTM grid, zones 16 and 17."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/90684094",
+    "http://www.loc.gov/item/90684094/",
+    "http://www.loc.gov/resource/gmdsetmaps.90684094/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.90684094",
+    "https://search.catalog.loc.gov/instances/39ba7f09-95fe-5de5-82af-539758163abd",
+    "https://www.loc.gov/item/90684094/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:90:68:40:94:90684094:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/90684094/\"}",
+  "dct_spatial_sm": [
+    "kentucky",
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Kentucky--Boundaries--Ohio--Maps",
+    "Ohio--Boundaries--Kentucky--Maps",
+    "United States--Kentucky",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1949 d1982"
+  ],
+  "dct_title_s": "Kentucky-Ohio boundary",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90684094",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

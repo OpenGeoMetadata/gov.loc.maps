@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of West the Indies",
+    "West Indies 1853"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Colton, J. H. (Joseph Hutchins), 1800-1893, publisher; Pinkerton, John, 1758-1826",
+    "Handwritten cover title: West Indies 1853.",
+    "Includes a \"Geographical Statistics\" table.",
+    "LC copy imperfect: Foxed, sectioned into 36 sections and mounted on cloth for folding. Signature on verso: M. Fillmore.",
+    "Publication statement: New York : J.H. Colton, 1853.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Handwritten cover title: West Indies 1853. Includes a \"Geographical Statistics\" table. LC copy imperfect: Foxed, sectioned into 36 sections and mounted on cloth for folding. Signature on verso: M. Fillmore. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4900.fi000060",
+    "http://lccn.loc.gov/2012593345",
+    "http://www.loc.gov/item/2012593345/",
+    "http://www.loc.gov/resource/g4900.fi000060/",
+    "https://hdl.loc.gov/loc.gmd/g4900.fi000060",
+    "https://search.catalog.loc.gov/instances/3d35b427-6f9f-5614-85cd-25eb37cfed92",
+    "https://www.loc.gov/item/2012593345/"
+  ],
+  "dct_issued_s": "1853",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4900/g4900/fi000060.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593345/\"}",
+  "dct_spatial_sm": [
+    "west indies"
+  ],
+  "dct_subject_sm": [
+    "West Indies",
+    "West Indies--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "dct_title_s": "Topographical map of the West Indies and the adjacent coasts",
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1853
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2012593345",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

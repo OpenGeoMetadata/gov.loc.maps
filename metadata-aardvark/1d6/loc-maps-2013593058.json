@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of the world on Mercator's projection"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geographia Ltd; Gross, Alexander",
+    "Insets: Belgian possessions, Dutch \" -- French possessions -- Italian possessions, Portuguese \" -- Panama Canal -- Suez Canal -- United States possessions.",
+    "LC copy sectioned in two and mounted on cloth.",
+    "Publication statement: London : \"Geographia\" Ltd., [1918?]",
+    "Shows events of World War I.",
+    "Shows events of World War I. Insets: Belgian possessions, Dutch \" -- French possessions -- Italian possessions, Portuguese \" -- Panama Canal -- Suez Canal -- United States possessions. LC copy sectioned in two and mounted on cloth. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3201s.ct001935",
+    "http://lccn.loc.gov/2013593058",
+    "http://www.loc.gov/item/2013593058/",
+    "http://www.loc.gov/resource/g3201s.ct001935/",
+    "https://hdl.loc.gov/loc.gmd/g3201s.ct001935",
+    "https://search.catalog.loc.gov/instances/05ebd1f4-8527-515f-89b4-47a5da2347f1",
+    "https://www.loc.gov/item/2013593058/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201s/ct001935.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593058/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)",
+    "World War, 1914-1918--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1918",
+    "London : \"Geographia\" Ltd., [1918?]"
+  ],
+  "dct_title_s": "The Daily Telegraph map of the world on Mercator's projection",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593058",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

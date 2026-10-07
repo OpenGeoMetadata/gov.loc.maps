@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: modelski, andrew m.; uruguay. dirección nacional de turismo"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi79105907/",
+    "https://www.loc.gov/item/hlas-bi79105907/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "Dirección Nacional de Turismo,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi79105907/\"}",
+  "dct_spatial_sm": [
+    "uruguay"
+  ],
+  "dct_subject_sm": [
+    "maps and cartography",
+    "maps and cartography -- uruguay",
+    "tourism",
+    "tourism -- maps and cartography",
+    "tourism -- uruguay",
+    "uruguay"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "Plano de la ciudad de Montevideo",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi79105907",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 304 Available also through the Library of Congress Web site as a raster image. AACR2: 100; 710/1",
+    "Contributors: Burleigh Litho; Burleigh, L. R., 1853-1923",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 304",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Troy, N.Y., 1886."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764h.pm003040",
+    "http://lccn.loc.gov/75694585",
+    "http://www.loc.gov/item/75694585/",
+    "http://www.loc.gov/resource/g3764h.pm003040/",
+    "https://hdl.loc.gov/loc.gmd/g3764h.pm003040",
+    "https://search.catalog.loc.gov/instances/195b7d65-eeb8-59c2-a8e3-a9a54a0d734d",
+    "https://www.loc.gov/item/75694585/"
+  ],
+  "dct_issued_s": "1886",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764h/pm003040.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694585/\"}",
+  "dct_spatial_sm": [
+    "huntington",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Huntington, Mass.--Maps",
+    "United States--Massachusetts--Huntington"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "dct_title_s": "Huntington, Mass. 1886",
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1886]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1886
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694585",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

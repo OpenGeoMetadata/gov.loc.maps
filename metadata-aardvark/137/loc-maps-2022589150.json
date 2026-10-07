@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Kansas title collection drawer 18",
+    "Alternate supplied title: Kansas title collection--various subjects Postal service 1946-1970--Railroads 1866-1902"
+  ],
+  "dct_description_sm": [
+    "Publication statement: [Various places] : [various publishers], [approximately 1866 to 1970]",
+    "This record covers single maps of Kansas as a whole covering various subjects, which are not represented in the LC database by separate catalog records.This collection includes single printed maps and may include photocopies of printed or manuscript single maps as well as some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show various subjects including postal routes and service, and railroads. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps of Kansas as a whole covering various subjects, which are not represented in the LC database by separate catalog records.This collection includes single printed maps and may include photocopies of printed or manuscript single maps as well as some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show various subjects including postal routes and service, and railroads. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589150",
+    "http://www.loc.gov/item/2022589150/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ks-018/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ks-018",
+    "https://search.catalog.loc.gov/instances/52ab4ebb-ff73-5cca-8019-b08c8a1f5688",
+    "https://www.loc.gov/item/2022589150/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ks:-0:18:ks-018:ks-018-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589150/\"}",
+  "dct_spatial_sm": [
+    "kansas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Postal service--Kansas--Maps",
+    "Railroads--Kansas--Maps",
+    "United States--Kansas"
+  ],
+  "dct_temporal_sm": [
+    "1866",
+    "[Various places] : [various publishers], [approximately 1866 to 1970]"
+  ],
+  "dct_title_s": "[Maps of Kansas--various subjects Postal service 1946-1970--Railroads 1866-1902]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022589150",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

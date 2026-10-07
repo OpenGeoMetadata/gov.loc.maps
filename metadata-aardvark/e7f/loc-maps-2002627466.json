@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Grant, John, Captain; Pendleton, S. T.",
+    "Imperfect: several dark blotches down the center of the map, water staining overall, and large rectangular discoloration in upper left.",
+    "LC Civil War maps (2nd ed.), H58",
+    "LC Land ownership maps, 1353",
+    "Pen-and-ink with pencil annotations on a 1 1/2-inch pencil grid, on irregularly shaped tracing linen pasted together from 4 sheets, sectioned and mounted on cloth.",
+    "Publication statement: 1862.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows the names of some residents. Pen-and-ink with pencil annotations on a 1 1/2-inch pencil grid, on irregularly shaped tracing linen pasted together from 4 sheets, sectioned and mounted on cloth. Imperfect: several dark blotches down the center of the map, water staining overall, and large rectangular discoloration in upper left. LC Civil War maps (2nd ed.), H58 LC Land ownership maps, 1353 Available also through the Library of Congress web site as raster image.",
+    "Shows the names of some residents."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883s.cwh00058",
+    "http://lccn.loc.gov/2002627466",
+    "http://www.loc.gov/item/2002627466/",
+    "http://www.loc.gov/resource/g3883s.cwh00058/",
+    "https://hdl.loc.gov/loc.gmd/g3883s.cwh00058",
+    "https://search.catalog.loc.gov/instances/3d0e3ef4-5156-53b2-ba41-6bf640708c1a",
+    "https://www.loc.gov/item/2002627466/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883s/cwh00058.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002627466/\"}",
+  "dct_spatial_sm": [
+    "spotsylvania countuy",
+    "spotsylvania county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Virginia--Spotsylvania County--Maps",
+    "Spotsylvania County (Va.)--Maps, Manuscript",
+    "United States--Virginia--Spotsylvania Countuy"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Map of Spotsylvania County",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002627466",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brasier, William",
+    "Has watermarks.",
+    "Includes numerous annotations in a different hand.",
+    "LC Maps of North America, 1750-1789, 1072",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: [1762]",
+    "Relief shown by hachures.",
+    "Scale 1:126,720; 2 miles to an in.",
+    "Title on label on verso: Lake Champlain, from Crown Point to St. Iohns.",
+    "Title on label on verso: Lake Champlain, from Crown Point to St. Iohns. Manuscript, pen-and-ink and watercolor. Has watermarks. Relief shown by hachures. Includes numerous annotations in a different hand. Scale 1:126,720; 2 miles to an in. LC Maps of North America, 1750-1789, 1072 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3802c.ar107200",
+    "http://lccn.loc.gov/gm71000607",
+    "http://www.loc.gov/item/gm71000607/",
+    "http://www.loc.gov/resource/g3802c.ar107200/",
+    "https://hdl.loc.gov/loc.gmd/g3802c.ar107200",
+    "https://search.catalog.loc.gov/instances/862e8795-2a85-5d99-86b9-e3b529ba2fe4",
+    "https://www.loc.gov/item/gm71000607/"
+  ],
+  "dct_issued_s": "1762",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3802/g3802c/ar107200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000607/\"}",
+  "dct_spatial_sm": [
+    "champlain",
+    "champlain, lake",
+    "lake",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Champlain, Lake--Maps, Manuscript--Early works to 1800",
+    "United States--Champlain, Lake"
+  ],
+  "dct_temporal_sm": [
+    "1762"
+  ],
+  "dct_title_s": "A survey of Lake Champlain, from Crown Point to Windmil Point, and from thence to St. Iohns",
+  "gbl_dateRange_drsim": [
+    "[1762 TO 1762]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1762
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000607",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

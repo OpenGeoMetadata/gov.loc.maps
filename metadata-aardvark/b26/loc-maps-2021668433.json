@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Il disegno della geografia moderna de tutta la parte dell'Africa"
+  ],
+  "dct_description_sm": [
+    "\"Includes a three-column table comparing contemporary and ancient place names. Map originally on 8 sheets. Bottom left sheet missing from AGS Library copy; missing sheet depicts ocean and sea creatures.\"--Note extracted from World Digital Library.",
+    "Content in Italian.",
+    "Contributors: Gastaldi, Giacomo, 1500?-1565? Cartographer.; Licinus, Fabricius Engraver.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map ; 108 x 142 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1564.",
+    "This rare map from 1564 printed on eight copperplates is the finest and most important large-scale map of Africa produced in the 16th century. Earlier maps were mostly printed from woodcuts; copperplates allowed the engraver to reproduce much more detail and finesse. The map was made by the Italian cartographer, engineer, and astronomer Giacomo Gastaldi (circa 1500--66) and engraved by Fabricius Licinus (circa 1521--65). The map depicts a stippled sea, ships, and sea creatures, both real and mythical. The interior is covered by mountains that are shaded on the western edges to indicate perpetual sunshine. Place-names are abundant; cape and bay names are from Portuguese and Arab sources. Gastaldi, who was cosmographer to the Republic of Venice, is regarded by many scholars as the greatest cartographer of the Italian school. This map was used as an important source by later 16th and 17th century cartographers, including Ortelius, de Jode, Magini, and Mercator. Eight other copies have been reported to exist over the years, including one in the British Museum and another in the Bibliothèque nationale de France.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668433",
+    "http://www.loc.gov/item/2021668433/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_06764/",
+    "http://www.loc.gov/resource/wdl.6764/",
+    "https://hdl.loc.gov/loc.wdl/wdl.6764",
+    "https://www.loc.gov/item/2021668433/"
+  ],
+  "dct_issued_s": "1564-01-01",
+  "dct_language_sm": [
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_06764.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/06/76/4/wdl_06764/wdl_06764.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:06:76:4:wdl_06764:Am004602/full/pct:1.5625/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668433/\"}",
+  "dct_subject_sm": [
+    "1564"
+  ],
+  "dct_temporal_sm": [
+    "1564-01-01"
+  ],
+  "dct_title_s": "The Drawing of the Modern Geography of the Whole Africa.",
+  "gbl_dateRange_drsim": [
+    "[1564 TO 1564]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1564
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668433",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by soundings.",
+    "LC Luso-Hispanic World, 826",
+    "LC Maps of North America, 1750-1789, 1605",
+    "Manuscript, pen-and-ink, watercolors, and pencil.",
+    "Manuscript, pen-and-ink, watercolors, and pencil. Depths shown by soundings. Shows Gulf Coast from Mississippi River Delta to Apalachee Bay, Florida. Mounted on cloth backing. Printed label describing the map mounted on verso. Scale ca. 1:1,330,000. LC Luso-Hispanic World, 826 LC Maps of North America, 1750-1789, 1605 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Mounted on cloth backing.",
+    "Printed label describing the map mounted on verso.",
+    "Publication statement: [1769]",
+    "Scale ca. 1:1,330,000.",
+    "Shows Gulf Coast from Mississippi River Delta to Apalachee Bay, Florida.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3862c.lh000826",
+    "http://lccn.loc.gov/75692504",
+    "http://www.loc.gov/item/75692504/",
+    "http://www.loc.gov/resource/g3862c.lh000826/",
+    "https://hdl.loc.gov/loc.gmd/g3862c.lh000826",
+    "https://search.catalog.loc.gov/instances/e2995cbd-7d6a-58de-b07f-7dc2aaedcd36",
+    "https://www.loc.gov/item/75692504/"
+  ],
+  "dct_issued_s": "1769",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3862/g3862c/lh000826.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75692504/\"}",
+  "dct_spatial_sm": [
+    "gulf coast",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gulf Coast (U.S.)--Maps, Manuscript--Early works to 1800",
+    "United States--Gulf Coast"
+  ],
+  "dct_temporal_sm": [
+    "1769"
+  ],
+  "dct_title_s": "Descripción de la costa de la Luciana y entrada en el Río de Micisipi con sus sondas y bajos, nuebamente correjido y enmendado por los pilotos de la Real Armada en el año de 1769",
+  "gbl_dateRange_drsim": [
+    "[1769 TO 1769]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1769
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75692504",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

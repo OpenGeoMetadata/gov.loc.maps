@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress the 29 day of Octor. 1818 by John Melish.\"",
+    "Annotated on verso: Alabama No. 44.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Conserved; 003273.10 1977 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Contributors: Melish, John, 1771-1822",
+    "Includes statistical and geographical notes.",
+    "LC copy imperfect: Shellacked, fragile, liquid staining throughout, torn and repaired, and mounted on cloth.",
+    "Prime meridian: Washington and London.",
+    "Publication statement: Philadelphia : Published by John Melish, 1820.",
+    "Relief shown by contours and hachures.",
+    "Relief shown by contours and hachures. Prime meridian: Washington and London. \"Entered according to Act of Congress the 29 day of Octor. 1818 by John Melish.\" Includes statistical and geographical notes. LC copy imperfect: Shellacked, fragile, liquid staining throughout, torn and repaired, and mounted on cloth. Annotated on verso: Alabama No. 44. Available also through the Library of Congress Web site as a raster image. Conserved; 003273.10 1977 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3970.ct001899",
+    "http://lccn.loc.gov/2012590211",
+    "http://www.loc.gov/item/2012590211/",
+    "http://www.loc.gov/resource/g3970.ct001899/",
+    "https://hdl.loc.gov/loc.gmd/g3970.ct001899",
+    "https://search.catalog.loc.gov/instances/57aa7a68-74aa-5aa2-91f2-41db1b109fd2",
+    "https://www.loc.gov/item/2012590211/"
+  ],
+  "dct_issued_s": "1820",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3970/g3970/ct001899.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590211/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Alabama--Maps",
+    "United States--Alabama"
+  ],
+  "dct_temporal_sm": [
+    "1820"
+  ],
+  "dct_title_s": "Map of Alabama",
+  "gbl_dateRange_drsim": [
+    "[1820 TO 1820]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1820
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590211",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

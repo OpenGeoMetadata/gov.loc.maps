@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 650/2; 650/3; 651/4",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Has watermark.",
+    "LC Maps of North America, 1750-1789, 931",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: 1776?]",
+    "Scale ca. 1:18,500.",
+    "Shows location of troops and fortifications.",
+    "Title from William Faden's Catalogue of a curious and valuable collection of original maps and plans. 1862.",
+    "Title from William Faden's Catalogue of a curious and valuable collection of original maps and plans. 1862. Manuscript, pen-and-ink and watercolor. Has watermark. Shows location of troops and fortifications. Scale ca. 1:18,500. LC Maps of North America, 1750-1789, 931 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1; 650/2; 650/3; 651/4",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.ar093100",
+    "http://lccn.loc.gov/gm71000626",
+    "http://www.loc.gov/item/gm71000626/",
+    "http://www.loc.gov/resource/g3764b.ar093100/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ar093100",
+    "https://search.catalog.loc.gov/instances/ac44b768-463a-5df4-9a85-9c8e76c68374",
+    "https://www.loc.gov/item/gm71000626/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/ar093100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000626/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "boston harbor",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston (Mass.)--Buildings, structures, etc.--Maps, Manuscript--Early works to 1800",
+    "Boston (Mass.)--History--Siege, 1775-1776--Maps, Manuscript--Early works to 1800",
+    "Boston Harbor (Mass.)--Maps--Early works to 1800",
+    "Fortification--Massachusetts--Boston--Maps--Early works to 1800",
+    "United States--Massachusetts--Boston"
+  ],
+  "dct_temporal_sm": [
+    "1776",
+    "1776?]"
+  ],
+  "dct_title_s": "[Rough draught of Boston and harbour",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000626",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

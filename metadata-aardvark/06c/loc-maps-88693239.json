@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Coyle, Randolph; Ritchies & Dunnavant",
+    "Covers White House vicinity, including the area bounded by 18th, H, 14th streets N.W., and the Washington Canal.",
+    "Covers White House vicinity, including the area bounded by 18th, H, 14th streets N.W., and the Washington Canal. Partial cadastral map. Includes cadastral inset map of square south of 173 (present site of Panamerican Union). Available also through the Library of Congress Web site as a raster image. LC copy fold-lined and mounted on cloth backing. DCP",
+    "DCP",
+    "Includes cadastral inset map of square south of 173 (present site of Panamerican Union).",
+    "LC copy fold-lined and mounted on cloth backing.",
+    "Partial cadastral map.",
+    "Publication statement: [Washington, D.C.? : s.n., 1853?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852w.ct005193",
+    "http://lccn.loc.gov/88693239",
+    "http://www.loc.gov/item/88693239/",
+    "http://www.loc.gov/resource/g3852w.ct005193/",
+    "https://hdl.loc.gov/loc.gmd/g3852w.ct005193",
+    "https://search.catalog.loc.gov/instances/6d9eff4c-bbcd-5d65-adba-7df3108902ef",
+    "https://www.loc.gov/item/88693239/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852w/ct005193.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693239/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "White House (Washington, D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1853",
+    "[Washington, D.C.? : s.n., 1853?]"
+  ],
+  "dct_title_s": "Plats showing the position of square south of 173 in the city of Washington and the subdivision of a portion there of into building lots",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693239",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

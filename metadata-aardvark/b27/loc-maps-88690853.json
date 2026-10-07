@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Cadastral map. Relief shown by shading. Pen-and-ink and gray wash. In lead pencil at lower left on cloth backing: From the files of the Society of Oldest Inhabitants. Deposited by Henry C. Gauss in 1920's (?). One of 12 maps. In lead pencil in different hand on cloth backing: 10th Friendship. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "Contributors: Association of the Oldest Inhabitants of the District of Columbia; Gauss, Henry C.",
+    "DCP",
+    "In lead pencil at lower left on cloth backing: From the files of the Society of Oldest Inhabitants. Deposited by Henry C. Gauss in 1920's (?). One of 12 maps.",
+    "In lead pencil in different hand on cloth backing: 10th Friendship.",
+    "Pen-and-ink and gray wash.",
+    "Publication statement: [18--]",
+    "Relief shown by shading.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852f.la002258",
+    "http://lccn.loc.gov/88690853",
+    "http://www.loc.gov/item/88690853/",
+    "http://www.loc.gov/resource/g3852f.la002258/",
+    "https://hdl.loc.gov/loc.gmd/g3852f.la002258",
+    "https://search.catalog.loc.gov/instances/70cc9623-9636-58cb-9f1f-cc4b5b05cdde",
+    "https://www.loc.gov/item/88690853/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852f/la002258.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690853/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "friendship",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Friendship (Washington, D.C.)--Maps, Manuscript",
+    "Friendship (Washington, D.C.)--Surveys--Maps",
+    "Manuscript maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Friendship"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[18--]"
+  ],
+  "dct_title_s": "[Survey map of Friendship tract, Washington D.C.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690853",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

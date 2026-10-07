@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright 1890 by T.D. Beasley.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing some landowners' names, drainage, roads, railroads, ranchos, Indian reservations, township and section lines, parcel boundaries, etc.",
+    "Contributors: Beasley, T. D. (Thomas Dykes); Schuyler, James D. (James Dix), 1848-1912",
+    "Includes table of \"Areas of Mexican grants.\"",
+    "LC Land ownership maps, 35",
+    "Publication statement: [California : s.n.], c1890.",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. Cadastral map showing some landowners' names, drainage, roads, railroads, ranchos, Indian reservations, township and section lines, parcel boundaries, etc. \"Copyright 1890 by T.D. Beasley.\" Includes table of \"Areas of Mexican grants.\" LC Land ownership maps, 35 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4363s.la000035a",
+    "http://hdl.loc.gov/loc.gmd/g4363s.la000035b",
+    "http://lccn.loc.gov/2012592092",
+    "http://www.loc.gov/item/2012592092/",
+    "http://www.loc.gov/resource/g4363s.la000035a/",
+    "http://www.loc.gov/resource/g4363s.la000035b/",
+    "https://hdl.loc.gov/loc.gmd/g4363s.la000035a",
+    "https://hdl.loc.gov/loc.gmd/g4363s.la000035b",
+    "https://search.catalog.loc.gov/instances/74985124-0cbc-5cbf-bb2b-368795b472eb",
+    "https://www.loc.gov/item/2012592092/"
+  ],
+  "dct_issued_s": "1889",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4363/g4363s/la000035a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592092/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "san diego county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--California--San Diego County--Maps",
+    "Real property--California--San Diego County--Maps",
+    "San Diego County (Calif.)--Maps",
+    "United States--California--San Diego County"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "dct_title_s": "Official map of San Diego County, California : compiled from latest official maps of U.S. surveys, railroad and irrigation surveys, county records, and other reliable sources, and",
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592092",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

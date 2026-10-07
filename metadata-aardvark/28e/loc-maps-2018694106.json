@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Генеральная карта Чукотской земли, Алеутских островов и северо-западного берега Америки"
+  ],
+  "dct_description_sm": [
+    "Original map at: Russian State Library",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], 1829.",
+    "Setka geograficheskikh koordinat.",
+    "Setka geograficheskikh koordinat. Vydeleny mestechki, sela, derevni, kreposti. Original map at: Russian State Library Сетка географических координат. Выделены местечки, села, деревни, крепости.",
+    "Vydeleny mestechki, sela, derevni, kreposti.",
+    "Выделены местечки, села, деревни, крепости.",
+    "Сетка географических координат."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694106",
+    "http://www.loc.gov/item/2018694106/",
+    "http://www.loc.gov/resource/gdc.2018694106/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0041",
+    "https://search.catalog.loc.gov/instances/559a5d3e-daad-5d08-8d0a-4cc798c4efc8",
+    "https://www.loc.gov/item/2018694106/"
+  ],
+  "dct_issued_s": "1829",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694106.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694106/2018694106.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694106:smf0041/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694106/\"}",
+  "dct_spatial_sm": [
+    "alaska",
+    "chukotka autonomous okrug",
+    "russian federation",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Alaska",
+    "Chukotka Autonomous Okrug",
+    "Far East",
+    "Maps",
+    "Russia",
+    "Russian Federation",
+    "Siberia",
+    "United States of America"
+  ],
+  "dct_temporal_sm": [
+    "1829"
+  ],
+  "dct_title_s": "General'nai︠a︡ karta Chukotskoĭ zemli, Aleutskikh ostrovov i severo-zapadnogo berega Ameriki",
+  "gbl_dateRange_drsim": [
+    "[1829 TO 1829]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1829
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694106",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

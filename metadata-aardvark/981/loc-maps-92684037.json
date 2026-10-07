@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"World War I ended with the entering into effect of the armistice at 11 a.m. on November 11, 1918. The final chapter of the war began on September 26, when the British, French, Belgian, and American armies attacked along a wide front with 123 divisions, with 57 divisions in reserve. Defending were 197 German divisions, of which only 51 were classed by allied intelligence as fully battle worthy. The main American attack was carried out by the First Army under General John J. Pershing in the approximately 35-kilometer wide section of the front between the Meuse River and the Argonne Forest. Three corps, each comprised of three divisions with one in reserve, began the attack. The Fifth Corps was in the center and was expected to strike the decisive blow, flanked by the First Corps on the left and the Fourth Corps on the right. This map, completed at Army headquarters in May 1919, reconstructs the advance of the First Army in what became known as the Meuse-Argonne Campaign. Red lines are used to indicate the location of the front line at 12 p.m. of each day. A note on the map situated to the northwest of Verdun reads: \"West of Meuse. Order of Battle at Jump Off, September 26, 1918.\" U.S. forces were attacking in a northeastward direction, and the lines at the top of the map show the position of the front on November 11. In the Meuse-Argonne Campaign, the First Army suffered a loss of about 117,000 in killed and wounded. The map is from the collection of U.S. Army Major General Charles P. Summerall, commander of the Fifth Corps.\" World Digital Library.",
+    "ARP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map: Extract of Mézières-Verdun-Metz-Longwy.",
+    "Contributors: Summerall, Charles Pelot, 1867-1955; United States. Army. Engineer Regiment, 29th",
+    "Includes text.",
+    "Publication statement: [Washington, D.C.] : 29th Engineers, U.S. Army, 1919.",
+    "Relief shown by hachures and spot heights.",
+    "Stamped on: Summerall papers."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5831s.ct004281",
+    "http://lccn.loc.gov/92684037",
+    "http://www.loc.gov/item/92684037/",
+    "http://www.loc.gov/resource/g5831s.ct004281/",
+    "https://hdl.loc.gov/loc.gmd/g5831s.ct004281",
+    "https://search.catalog.loc.gov/instances/345ab173-3ba1-5400-89a9-6d91030e582d",
+    "https://www.loc.gov/item/92684037/"
+  ],
+  "dct_issued_s": "1918",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5831/g5831s/ct004281.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92684037/\"}",
+  "dct_spatial_sm": [
+    "argonne",
+    "france"
+  ],
+  "dct_subject_sm": [
+    "Argonne, Battle of the, France, 1918--Maps",
+    "France",
+    "France--Argonne",
+    "World War, 1914-1918--Campaigns--France--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "dct_title_s": "Meuse-Argonne offensive, map showing daily position of front line : Map Room G-3, G.H.Q., May 24, 1919",
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1918]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1918
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92684037",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

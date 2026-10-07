@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"November 1993.\"",
+    "\"November 1993.\" Spanish, English, French, and Portuguese. Cover title. 1. Large-scale maps -- 2. Intermediate/small-scale maps -- 3. Aeronautical charts -- 4. Hydrographic charts -- 5. Horizontal geodesy -- 6. Large-scale digital data -- 7. Digital data-intermediate/small -- 8. Large-scale image maps -- 9. Intermediate/small-scale image -- 10. Vertical geodesy. Available also through the Library of Congress Web site as a raster image.",
+    "1. Large-scale maps -- 2. Intermediate/small-scale maps -- 3. Aeronautical charts -- 4. Hydrographic charts -- 5. Horizontal geodesy -- 6. Large-scale digital data -- 7. Digital data-intermediate/small -- 8. Large-scale image maps -- 9. Intermediate/small-scale image -- 10. Vertical geodesy.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); Pan American Institute of Geography and History",
+    "Cover title.",
+    "Publication statement: San Jose, Costa Rica : Instituto Panamericano de Geografía e Historía, 1993.",
+    "Spanish, English, French, and Portuguese."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/94682275",
+    "http://www.loc.gov/item/94682275/",
+    "http://www.loc.gov/resource/gmdsetmaps.94682275/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.94682275",
+    "https://search.catalog.loc.gov/instances/a571be82-952b-5c3a-b7e8-d619eafd6301",
+    "https://www.loc.gov/item/94682275/"
+  ],
+  "dct_issued_s": "1993",
+  "dct_language_sm": [
+    "eng",
+    "fre",
+    "por",
+    "spa",
+    "spaengfrepor"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:94:68:22:75:94682275:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/94682275/\"}",
+  "dct_spatial_sm": [
+    "america",
+    "western hemisphere"
+  ],
+  "dct_subject_sm": [
+    "America--Index maps",
+    "America--Surveys--Maps",
+    "Western Hemisphere"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "dct_title_s": "Estado de la cartografía en las Américas",
+  "gbl_dateRange_drsim": [
+    "[1993 TO 1993]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1993
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94682275",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

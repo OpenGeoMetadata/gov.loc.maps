@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bew, John, -1793; Lodge, John, -1796",
+    "From Political magazine and parliamentary, naval, military, and literary journal. March 1782, v. 2.",
+    "LC copy mounted on cloth.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 1512",
+    "Publication statement: London : Publish'd as the Act directs Mar. ...1781 by J. Bew, Pater Noster Row, 1781.",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Shows shoals and a few soundings at the entrance to the river, \"Fort Johnson,\" the towns of Brunswick and Wilmington with the distance of each town from Charleston, S.C., and bridges and houses along the river.",
+    "Shows shoals and a few soundings at the entrance to the river, \"Fort Johnson,\" the towns of Brunswick and Wilmington with the distance of each town from Charleston, S.C., and bridges and houses along the river. Relief shown by hachures. Depths shown by soundings. LC copy mounted on cloth. From Political magazine and parliamentary, naval, military, and literary journal. March 1782, v. 2. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 1512 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3902c.ar151200",
+    "http://lccn.loc.gov/2012592234",
+    "http://www.loc.gov/item/2012592234/",
+    "http://www.loc.gov/resource/g3902c.ar151200/",
+    "https://hdl.loc.gov/loc.gmd/g3902c.ar151200",
+    "https://search.catalog.loc.gov/instances/de831bf7-4004-51f9-be5c-96216dddf9b9",
+    "https://www.loc.gov/item/2012592234/"
+  ],
+  "dct_issued_s": "1781",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902c/ar151200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592234/\"}",
+  "dct_spatial_sm": [
+    "cape fear river region",
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cape Fear River Region (N.C.)--Maps--Early works to 1800",
+    "United States--North Carolina--Cape Fear River Region"
+  ],
+  "dct_temporal_sm": [
+    "1781"
+  ],
+  "dct_title_s": "Cape Fear River, with the counties adjacent, and the towns of Brunswick and Wilmington, against which Lord Cornwallis, detached a part of his army, the 17th of January laft Jno. Lodge, sculp",
+  "gbl_dateRange_drsim": [
+    "[1781 TO 1781]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1781
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592234",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

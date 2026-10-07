@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 440",
+    "Author and title from P. Lee Phillips' Maps of America. 1901.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Morris, Charles (Surveyor)",
+    "Depths shown by soundings.",
+    "LC Maps of North America, 1750-1789, 363",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Depths shown by soundings. Watermark: J. Whatman. Author and title from P. Lee Phillips' Maps of America. 1901. Scale ca. 1:32,000. LC Maps of North America, 1750-1789, 363 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 440",
+    "Publication statement: [176-?]",
+    "Scale ca. 1:32,000.",
+    "Vault",
+    "Watermark: J. Whatman."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3422a.ar036300",
+    "http://lccn.loc.gov/74694517",
+    "http://www.loc.gov/item/74694517/",
+    "http://www.loc.gov/resource/g3422a.ar036300/",
+    "https://hdl.loc.gov/loc.gmd/g3422a.ar036300",
+    "https://search.catalog.loc.gov/instances/2a73f632-264a-5d1e-8278-c8cae1df11cc",
+    "https://www.loc.gov/item/74694517/"
+  ],
+  "dct_issued_s": "1760",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3422/g3422a/ar036300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694517/\"}",
+  "dct_spatial_sm": [
+    "arichat harbour",
+    "canada",
+    "delaware",
+    "grat inlet",
+    "n.s",
+    "nova scotia",
+    "petit",
+    "petit-de-grat inlet"
+  ],
+  "dct_subject_sm": [
+    "Arichat Harbour, N.S.--Maps, Manuscript--Early works to 1800",
+    "Canada--Nova Scotia--Arichat Harbour",
+    "Canada--Nova Scotia--Petit-de-Grat Inlet",
+    "Petit-de-Grat Inlet, N.S.--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1760"
+  ],
+  "dct_title_s": "[Map of St. Mary's and Petit d'Grat Harbour.]",
+  "gbl_dateRange_drsim": [
+    "[1760 TO 1760]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1760
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694517",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

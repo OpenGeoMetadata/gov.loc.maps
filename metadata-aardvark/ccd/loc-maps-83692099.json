@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Sources: Base map from U.S. Geological Survey, Arkansas, 1967. County, county subdivision, and place boundaries certified by local officials, January 1, 1980.\"",
+    "\"Sources: Base map from U.S. Geological Survey, Arkansas, 1967. County, county subdivision, and place boundaries certified by local officials, January 1, 1980.\" Includes indexes. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Bureau of the Census. Data Preparation Division; United States. Bureau of the Census. Geography Division",
+    "Includes indexes.",
+    "Publication statement: Washington, D.C. : U.S. Dept. of Commerce, Bureau of the Census : For sale by the Supt. of Docs., U.S. G.P.O., [1983]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/83692099",
+    "http://www.loc.gov/item/83692099/",
+    "http://www.loc.gov/resource/g4001f.ct010863/",
+    "https://hdl.loc.gov/loc.gmd/g4001f.ct010863",
+    "https://search.catalog.loc.gov/instances/610172da-c18e-59f5-9810-0de4165f8757",
+    "https://www.loc.gov/item/83692099/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4001/g4001f/ct010863.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83692099/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Arkansas--Administrative and political divisions--Maps",
+    "Census districts--Arkansas--Maps",
+    "United States--Arkansas"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Arkansas",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83692099",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

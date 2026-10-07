@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"In the 16th and 17th centuries, maps of the Low Countries frequently were drawn in the form of a lion, known by its Latin designation, Leo Belgicus. The \"Belgian\" lion usually included all of the 17 provinces variously referred to as the Netherlands or the Low Countries, even though the seven provinces of the north broke away in 1581 to form the Dutch Republic. Symbols of Dutch patriotism, these maps often appeared in 17th-century Dutch paintings, hanging on the walls of inns or private homes, as in Jan Vermeer's The Painter and His Studio. The maker of this particular map was Jodocus Hondius (1563-1612), a Flemish cartographer and engraver who settled in Amsterdam in about 1593 and established a business that produced globes and the first large maps of the world. The map is oriented with west at the top. North is on the right side, placing the city of Brussels on the lion's left shoulder and that of Amsterdam near the crest of his back, above his left foot.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hondius, Jodocus, 1563-1612",
+    "Map railroad exhibit, March 22 to April 15, 1965.",
+    "Publication statement: [S.l.], 1611.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5990.ct000073",
+    "http://lccn.loc.gov/97683562",
+    "http://www.loc.gov/item/97683562/",
+    "http://www.loc.gov/resource/g5990.ct000073/",
+    "https://hdl.loc.gov/loc.gmd/g5990.ct000073",
+    "https://search.catalog.loc.gov/instances/4e46bcd9-6c66-59e5-98d1-6178f141b737",
+    "https://www.loc.gov/item/97683562/"
+  ],
+  "dct_issued_s": "1611",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5990/g5990/ct000073.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97683562/\"}",
+  "dct_spatial_sm": [
+    "benelux countries"
+  ],
+  "dct_subject_sm": [
+    "Benelux countries",
+    "Benelux countries--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1611"
+  ],
+  "dct_title_s": "Leo Belgicus",
+  "gbl_dateRange_drsim": [
+    "[1611 TO 1611]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1611
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97683562",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

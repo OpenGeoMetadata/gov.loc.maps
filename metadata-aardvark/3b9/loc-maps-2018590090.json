@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ruple, John G.; Ruple, John G., cartographer",
+    "Manuscript map: pen-and-ink and watercolor, mounted on cloth backed paper.",
+    "Map prepared for the Illustrated history of Washington County.",
+    "Printed map mounted on cloth, annotated in blue crayon and pencil.",
+    "Publication statement: [Pennsylvania] : John G. Ruple, [1882]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Show parts of Ohio and Pennsylvania adjacent to Lake Erie. Manuscript map: pen-and-ink and watercolor, mounted on cloth backed paper. Printed map mounted on cloth, annotated in blue crayon and pencil. Map prepared for the Illustrated history of Washington County. Available also through the Library of Congress Web site as a raster image.",
+    "Show parts of Ohio and Pennsylvania adjacent to Lake Erie."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018590090",
+    "http://www.loc.gov/item/2018590090/",
+    "http://www.loc.gov/resource/g4081s.ct008325/",
+    "http://www.loc.gov/resource/g4081s.ct008326/",
+    "https://hdl.loc.gov/loc.gmd/g4081s.ct008325",
+    "https://hdl.loc.gov/loc.gmd/g4081s.ct008326",
+    "https://search.catalog.loc.gov/instances/2fc6fff9-b8f6-59a9-9e0a-c9d5eddc3800",
+    "https://www.loc.gov/item/2018590090/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4081/g4081s/ct008325.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018590090/\"}",
+  "dct_spatial_sm": [
+    "ohio",
+    "ohio river",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ohio River--Maps",
+    "Ohio--History--French and Indian War, 1754-1763--Maps",
+    "Pennsylvania--History--French and Indian War, 1754-1763--Maps",
+    "United States--Ohio",
+    "United States--Ohio River",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Map showing French occupation of the Ohio Valley : taken from Mr. Robert's Atlas universel, Paris 1755 : based on Christopher Gist's surveys made 1751",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018590090",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

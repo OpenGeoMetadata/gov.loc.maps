@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Black and brown inks, watercolor, and lead pencil.",
+    "Contributors: King, N. (Nicholas), 1771-1812",
+    "Covers area bounded by Anacostia River waterfront, 10th, L, and 5th streets S.E.",
+    "Covers area bounded by Anacostia River waterfront, 10th, L, and 5th streets S.E. Shows block numbers and dimensions. Probably drawn by Nicholas King. Black and brown inks, watercolor, and lead pencil. Watermarked: Meads & Pine, GR, (fleur-de-lis under crown). Torn and mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 885 Vault DCP",
+    "DCP",
+    "Phillips. Washington 885",
+    "Probably drawn by Nicholas King.",
+    "Publication statement: [179-?]",
+    "Shows block numbers and dimensions.",
+    "Torn and mounted on cloth backing.",
+    "Vault",
+    "Watermarked: Meads & Pine, GR, (fleur-de-lis under crown)."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852w.ct006275",
+    "http://lccn.loc.gov/88693000",
+    "http://www.loc.gov/item/88693000/",
+    "http://www.loc.gov/resource/g3852w.ct006275/",
+    "https://hdl.loc.gov/loc.gmd/g3852w.ct006275",
+    "https://search.catalog.loc.gov/instances/3efa11de-5dca-52da-b089-4bb42d4a40ac",
+    "https://www.loc.gov/item/88693000/"
+  ],
+  "dct_issued_s": "1790",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852w/ct006275.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693000/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps--Early works to 1800",
+    "United States--District of Columbia--Washington--Washington Navy Yard",
+    "Washington Navy Yard--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1790"
+  ],
+  "dct_title_s": "[Map of part of S.E. Washington D.C. now occupied by the Navy Yard and adjacent squares]",
+  "gbl_dateRange_drsim": [
+    "[1790 TO 1790]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1790
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693000",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

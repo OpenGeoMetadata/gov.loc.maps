@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows oil locations and drilling wells.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint.",
+    "Contributors: S.T. Wisby & Co",
+    "Copyrighted on Aug. 11, 1920.",
+    "F36200 U.S. Copyright Office",
+    "F36200 U.S. Copyright Office Copyrighted on Aug. 11, 1920. Also shows oil locations and drilling wells. Blueprint. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Little Rock, Ark. : S.T. Wisby & Co., c1920."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/94680870",
+    "http://www.loc.gov/item/94680870/",
+    "http://www.loc.gov/resource/g4001c.ct010861/",
+    "https://hdl.loc.gov/loc.gmd/g4001c.ct010861",
+    "https://search.catalog.loc.gov/instances/7b38d999-1743-5876-85e6-2194799e7a03",
+    "https://www.loc.gov/item/94680870/"
+  ],
+  "dct_issued_s": "1920",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4001/g4001c/ct010861.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94680870/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Geology--Arkansas--Maps",
+    "Oil wells--Arkansas--Maps",
+    "Petroleum--Geology--Arkansas--Maps",
+    "United States--Arkansas"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dct_title_s": "Geological map of Arkansas : showing formation of the cretaceous in southern and eastern Arkansas",
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1920
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94680870",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

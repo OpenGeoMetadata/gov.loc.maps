@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Drew, Allis & Co",
+    "Publication statement: [Worcester, Mass.] : Drew Allis & Co., [1877?]",
+    "Shows administrative units.",
+    "Shows administrative units. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764w.ct006179",
+    "http://lccn.loc.gov/2012588170",
+    "http://www.loc.gov/item/2012588170/",
+    "http://www.loc.gov/resource/g3764w.ct006179/",
+    "https://hdl.loc.gov/loc.gmd/g3764w.ct006179",
+    "https://search.catalog.loc.gov/instances/9e5e9352-ef23-5ba7-9c6f-ad5f5b7b3c08",
+    "https://www.loc.gov/item/2012588170/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764w/ct006179.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012588170/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "united states",
+    "worcester"
+  ],
+  "dct_subject_sm": [
+    "United States--Massachusetts--Worcester",
+    "Worcester (Mass.)--Administrative and political divisions--Maps",
+    "Worcester (Mass.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1878",
+    "[Worcester, Mass.] : Drew Allis & Co., [1877?]"
+  ],
+  "dct_title_s": "Map of the city of Worcester, Worcester Co., Mass",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012588170",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

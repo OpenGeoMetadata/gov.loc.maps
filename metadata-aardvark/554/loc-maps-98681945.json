@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title: Cumberland River Basin, Stones River, Tennessee, J. Percy Priest Reservoir"
+  ],
+  "dct_description_sm": [
+    "Accompanied by title page and index map. [2] leaves ; 56 cm.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Nashville District",
+    "Depths shown by contours.",
+    "Depths shown by contours. Title from title page. Accompanied by title page and index map. [2] leaves ; 56 cm. Includes location map and index map. Sheets numbered File Q5-16/60.3 to File Q5-16/85.3. Available also through the Library of Congress Web site as a raster image.",
+    "Includes location map and index map.",
+    "Publication statement: Nashville : The District, [1982]",
+    "Sheets numbered File Q5-16/60.3 to File Q5-16/85.3.",
+    "Title from title page."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/98681945",
+    "http://www.loc.gov/item/98681945/",
+    "http://www.loc.gov/resource/gmdsetmaps.98681945/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.98681945",
+    "https://search.catalog.loc.gov/instances/2ecb714b-0459-5fbc-8445-8624a287b0a9",
+    "https://www.loc.gov/item/98681945/"
+  ],
+  "dct_issued_s": "1982",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:98:68:19:45:98681945:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/98681945/\"}",
+  "dct_spatial_sm": [
+    "j. percy priest reservoir",
+    "j. percy priest reservoir (tenn.)",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "J. Percy Priest Reservoir (Tenn.)--Maps",
+    "United States--Tennessee--J. Percy Priest Reservoir (Tenn.)"
+  ],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "dct_title_s": "Cumberland River Basin, J. Percy Priest Reservoir, Stones River, Tennessee",
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1982]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98681945",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

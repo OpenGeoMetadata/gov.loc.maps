@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing names of some rural landholders.",
+    "Cadastral map showing names of some rural landholders. Oriented with north toward the upper left. LC copy imperfect: torn, taped, and mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Contributors: Fairchild, John F.; Vielé, Herman K.",
+    "DCP",
+    "LC copy imperfect: torn, taped, and mounted on cloth backing.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Washington? : s.n.], 1890"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852m.la002316",
+    "http://lccn.loc.gov/88690948",
+    "http://www.loc.gov/item/88690948/",
+    "http://www.loc.gov/resource/g3852m.la002316/",
+    "https://hdl.loc.gov/loc.gmd/g3852m.la002316",
+    "https://search.catalog.loc.gov/instances/a7d63865-2a9b-5815-8b97-792d0c0df3c8",
+    "https://www.loc.gov/item/88690948/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852m/la002316.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690948/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "massachusetts avenue",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Massachusetts Avenue (Washington, D.C.)--Maps",
+    "Real property--Washington (D.C.)--Maps",
+    "Streets--Washington (D.C.)--Planning--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Massachusetts Avenue"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "The northwest extension of Massachusetts Avenue, Washington, D.C., and adjacent subdivisions",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690948",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

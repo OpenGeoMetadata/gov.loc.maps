@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bibliography.",
+    "Contributors: Fayetteville (N.C.). Public Works Commission; Geological Survey (U.S.); Giorgino, Mary J.; Strain, Raymond E.",
+    "Depth shown by contours.",
+    "Depth shown by contours. Includes text, 5 tables, location map, graph, and ill. Bibliography. Available also through the Library of Congress Web site as a raster image.",
+    "Includes text, 5 tables, location map, graph, and ill.",
+    "Publication statement: [Reston, Va.] : U.S. Geological Survey, 1996."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2005633157",
+    "http://www.loc.gov/item/2005633157/",
+    "http://www.loc.gov/resource/g3903c.ct009788/",
+    "https://hdl.loc.gov/loc.gmd/g3903c.ct009788",
+    "https://search.catalog.loc.gov/instances/198be50b-d6e1-5084-9993-5ce52ee0a35b",
+    "https://www.loc.gov/item/2005633157/"
+  ],
+  "dct_issued_s": "1996",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3903/g3903c/ct009788.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005633157/\"}",
+  "dct_spatial_sm": [
+    "cumberland county",
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Lakes--North Carolina--Cumberland County--Maps",
+    "United States--North Carolina--Cumberland County"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "dct_title_s": "Bathymetry of Bonnie Doone Lake, Kornbow Lake, Mintz Pond, and Glenville Lake, Cumberland County, North Carolina, 1996-98",
+  "gbl_dateRange_drsim": [
+    "[1996 TO 1996]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005633157",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

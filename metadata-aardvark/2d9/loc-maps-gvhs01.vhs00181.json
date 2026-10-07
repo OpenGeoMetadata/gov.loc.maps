@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Diary (Mss5:1 Sn237:1 v. 6 , p. 194).",
+    "Manuscripts",
+    "Map shows the Confederate earthworks, as well as the location of Union forces at Honey Hill near Grahamville, in Jasper County, S.C. Sherman sent 5,500 Union troops under J.G. Foster inland to secure a foothold on the Charleston and Savannah Railroad. They were met by 1,400 Confederates, heavily entrenched, and forced to withdraw.",
+    "NOTE: Researchers will be served a color photocopy of this diary image.",
+    "Publication statement: [S.l., 1864-1865]",
+    "Relief shown by hachures.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00181",
+    "http://www.loc.gov/item/001-CABIB20011395/",
+    "http://www.loc.gov/item/gvhs01.vhs00181/",
+    "http://www.loc.gov/resource/gvhs01.vhs00181/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00181",
+    "https://www.loc.gov/item/gvhs01.vhs00181/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00181.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00181/\"}",
+  "dct_spatial_sm": [
+    "charleston county",
+    "grahamville",
+    "honey hill",
+    "honey hill (charleston county)",
+    "jasper county",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Charleston and Savannah Railroad",
+    "Grahamville (S.C.)--History--Civil War, 1861-1865--Maps",
+    "Honey Hill (Charleston County, S.C.)--History--Civil War, 1861-1865--Maps",
+    "Jasper County (S.C.)--History--Civil War, 1861-1865--Maps",
+    "South Carolina--History--Civil War, 1861-1865--Maps",
+    "United States--South Carolina-- Grahamville",
+    "United States--South Carolina--Honey Hill (Charleston County)",
+    "United States--South Carolina--Jasper County"
+  ],
+  "dct_temporal_sm": [
+    "1864/1865"
+  ],
+  "dct_title_s": "Plan of the Battle of Honey Hill, South Carolina, November 30th, 1864.",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00181",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

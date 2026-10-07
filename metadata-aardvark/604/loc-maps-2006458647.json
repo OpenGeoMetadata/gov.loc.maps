@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ya guang yu di xue she",
+    "Inset : Wo guo Nan Hai zhu dao tu, scale 1:15,000,000 -- Zhonghua Renmin Gongheguo di xing, scale 1:30,000,000 -- Zhonghua Renmin Gongheguo da xing zheng qu yu tu, scale 1:30,000,000.",
+    "LC copies sectioned to 4 sheets, mounted on cloth backing, and stamped at lower left: 695A.",
+    "Publication statement: [Shanghai, China] : Ya guang yu di xue she, 1952.",
+    "Relief shown by spot heights.",
+    "Relief shown by spot heights. Inset : Wo guo Nan Hai zhu dao tu, scale 1:15,000,000 -- Zhonghua Renmin Gongheguo di xing, scale 1:30,000,000 -- Zhonghua Renmin Gongheguo da xing zheng qu yu tu, scale 1:30,000,000. LC copies sectioned to 4 sheets, mounted on cloth backing, and stamped at lower left: 695A. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7820.ct004238",
+    "http://lccn.loc.gov/2006458647",
+    "http://www.loc.gov/item/2006458647/",
+    "http://www.loc.gov/resource/g7820.ct004238/",
+    "https://hdl.loc.gov/loc.gmd/g7820.ct004238",
+    "https://search.catalog.loc.gov/instances/24862bbc-b52c-53cc-85ac-e0ca96173929",
+    "https://www.loc.gov/item/2006458647/"
+  ],
+  "dct_issued_s": "1952",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7820/g7820/ct004238.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006458647/\"}",
+  "dct_spatial_sm": [
+    "china"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Administrative and political divisions--Maps",
+    "China--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "dct_title_s": "Zhonghua Renmin Gongheguo da di tu",
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1952]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006458647",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

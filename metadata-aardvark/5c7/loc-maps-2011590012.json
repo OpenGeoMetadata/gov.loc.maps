@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright 1883, by Arthur Boyle.\"",
+    "\"Julius Bien & Co. Photo. Lith.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Kingman, E., Jr",
+    "LC Land ownership maps, 472",
+    "Publication statement: [S.l. : s.n.], 1883.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. \"Copyright 1883, by Arthur Boyle.\" \"Julius Bien & Co. Photo. Lith.\" LC Land ownership maps, 472 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4323s.la000472",
+    "http://lccn.loc.gov/2011590012",
+    "http://www.loc.gov/item/2011590012/",
+    "http://www.loc.gov/resource/g4323s.la000472/",
+    "https://hdl.loc.gov/loc.gmd/g4323s.la000472",
+    "https://search.catalog.loc.gov/instances/087b5312-a417-51fa-8a2c-427bcfe8d442",
+    "https://www.loc.gov/item/2011590012/"
+  ],
+  "dct_issued_s": "1883",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd432/g4323/g4323s/la000472.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011590012/\"}",
+  "dct_spatial_sm": [
+    "new mexico",
+    "santa fe county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--New Mexico--Santa Fe County--Maps",
+    "Santa Fe County (N.M.)--Maps",
+    "United States--New Mexico--Santa Fe County"
+  ],
+  "dct_temporal_sm": [
+    "1883"
+  ],
+  "dct_title_s": "Topographical map of Santa Fe County, New Mexico",
+  "gbl_dateRange_drsim": [
+    "[1883 TO 1883]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1883
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011590012",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

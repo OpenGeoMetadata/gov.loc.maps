@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Available also through the Library of Congress web site as a raster image. 2 copies",
+    "Contributors: Saylor, Nelson",
+    "Publication statement: Cincinnati, O., 1866."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3961c.np000154",
+    "http://lccn.loc.gov/99446163",
+    "http://www.loc.gov/item/99446163/",
+    "http://www.loc.gov/resource/g3961c.np000154/",
+    "https://hdl.loc.gov/loc.gmd/g3961c.np000154",
+    "https://search.catalog.loc.gov/instances/c2094b14-d298-5582-adf1-ec2e8343cac8",
+    "https://www.loc.gov/item/99446163/"
+  ],
+  "dct_issued_s": "1866",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3961/g3961c/np000154.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446163/\"}",
+  "dct_spatial_sm": [
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Geology--Tennessee--Maps",
+    "United States--Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "dct_title_s": "An outline geological map of Tennessee, including portions of Mississippi, Alabama, and Georgia",
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1866
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446163",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

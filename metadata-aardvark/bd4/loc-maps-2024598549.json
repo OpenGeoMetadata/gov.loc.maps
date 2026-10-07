@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "New and accurate map of the province of Canada in North America, from the latest and best authorities"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bew, John, -1793, cartographer, publisher",
+    "In upper right corner: Political Mag. July 1782.",
+    "Publication statement: London : published as the Act directs by J. Bew, Pater Noster Row, 1782.",
+    "Relief shown pictorially and by hachures.",
+    "vcFY25",
+    "vcFY25 Relief shown pictorially and by hachures. In upper right corner: Political Mag. July 1782. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024598549",
+    "http://www.loc.gov/item/2024598549/",
+    "http://www.loc.gov/resource/g3400.ct007529/",
+    "http://www.loc.gov/resource/g3400.ct007530/",
+    "https://hdl.loc.gov/loc.gmd/g3400.ct007529",
+    "https://hdl.loc.gov/loc.gmd/g3400.ct007530",
+    "https://search.catalog.loc.gov/instances/833f6af8-5088-57f3-8804-1c119f9503a0",
+    "https://www.loc.gov/item/2024598549/"
+  ],
+  "dct_issued_s": "1782",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3400:g3400:ct007529/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024598549/\"}",
+  "dct_spatial_sm": [
+    "canada"
+  ],
+  "dct_subject_sm": [
+    "Canada",
+    "Canada--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1782"
+  ],
+  "dct_title_s": "A new & accurate map of the province of Canada in North America, from the latest and best authorities",
+  "gbl_dateRange_drsim": [
+    "[1782 TO 1782]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1782
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024598549",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

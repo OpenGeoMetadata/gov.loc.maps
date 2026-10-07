@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Hale County, Alabama"
+  ],
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1870 by V. Gayle Snedecor in the Clerks Office of the District Court of the United States for the Southern District of Alabama.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Snedecor, V. Gayle (Victoria Gayle), 1824-1888",
+    "Includes inset of Greensboro with index to points of interest.",
+    "LC Land ownership maps, 3",
+    "Publication statement: Boston : Walling & Gray, 1870",
+    "Shows landowners' names and numbers and names of precincts.",
+    "Shows landowners' names and numbers and names of precincts. \"Entered according to Act of Congress in the year 1870 by V. Gayle Snedecor in the Clerks Office of the District Court of the United States for the Southern District of Alabama.\" Includes inset of Greensboro with index to points of interest. LC Land ownership maps, 3 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3973h.la000003",
+    "http://lccn.loc.gov/2011590021",
+    "http://www.loc.gov/item/2011590021/",
+    "http://www.loc.gov/resource/g3973h.la000003/",
+    "https://hdl.loc.gov/loc.gmd/g3973h.la000003",
+    "https://search.catalog.loc.gov/instances/fff21ac4-3e9d-51f1-8091-73afc7fc10d8",
+    "https://www.loc.gov/item/2011590021/"
+  ],
+  "dct_issued_s": "1870",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3973/g3973h/la000003.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011590021/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "greensboro",
+    "hale county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Election districts--Alabama--Hale County--Maps",
+    "Greensboro (Ala.)--Maps",
+    "Hale County (Ala.)--Maps",
+    "Landowners--Alabama--Hale County--Maps",
+    "United States--Alabama--Greensboro",
+    "United States--Alabama--Hale County"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ],
+  "dct_title_s": "Snedecor's map of Hale County, Alabama",
+  "gbl_dateRange_drsim": [
+    "[1870 TO 1870]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1870
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011590021",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

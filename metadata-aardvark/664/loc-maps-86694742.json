@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no.: 17-82",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Adlum, John, 1759-1836; Bingham, William, 1752-1804",
+    "From the William Bingham estate maps.",
+    "Includes name index of major landowners.",
+    "Pen-and-ink, pencil, and watercolor.",
+    "Publication statement: [1793?]",
+    "Shows lot lines, acreages, and some owners' names.",
+    "Shows lot lines, acreages, and some owners' names. From the William Bingham estate maps. Pen-and-ink, pencil, and watercolor. Includes name index of major landowners. Available also through the Library of Congress Web site as a raster image. Acquisitions control no.: 17-82 Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/86694742",
+    "http://www.loc.gov/item/86694742/",
+    "http://www.loc.gov/resource/g3823b.la002375/",
+    "https://hdl.loc.gov/loc.gmd/g3823b.la002375",
+    "https://search.catalog.loc.gov/instances/66bc76a9-eea8-5080-9e20-7e317e5a85c4",
+    "https://www.loc.gov/item/86694742/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823b/la002375.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86694742/\"}",
+  "dct_spatial_sm": [
+    "bradford county",
+    "pennsylvania",
+    "tioga county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boundaries (Estates)--Pennsylvania--Bradford County--Maps--Early works to 1800",
+    "Boundaries (Estates)--Pennsylvania--Tioga County--Maps--To 1800",
+    "Manuscript maps--Early works to 1800",
+    "Real property--Pennsylvania--Bradford County--Maps--Early works to 1800",
+    "Real property--Pennsylvania--Tioga County--Maps--Early works to 1800",
+    "United States--Pennsylvania--Bradford County",
+    "United States--Pennsylvania--Tioga County"
+  ],
+  "dct_temporal_sm": [
+    "1793",
+    "[1793?]"
+  ],
+  "dct_title_s": "[Land ownership map of the William Bingham estate and lands of adjacent holders in Bradford and Tioga Counties, Pennsylvania",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86694742",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

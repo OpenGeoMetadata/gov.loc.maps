@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Standard map series designation: Series E732",
+    "Standard map series designation: Série E732"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Aerospace Center (U.S.); United States. Army Map Service; United States. Defense Mapping Agency. Hydrographic/Topographic Center; United States. National Imagery and Mapping Agency",
+    "Earlier sheets prepared by Army Map Service; Defense Mapping Agency, Hydrographic/Topographic Center; and Defense Mapping Agency, Aerospace Center.",
+    "English and French on some sheets.",
+    "Geographic coverage complete in 81 sheets.",
+    "Geographic coverage complete in 81 sheets. Relief shown by contours and spot heights. Depths shown by contours and soundings on some sheets. Earlier sheets prepared by Army Map Service; Defense Mapping Agency, Hydrographic/Topographic Center; and Defense Mapping Agency, Aerospace Center. Includes various editions of some sheets. Some sheets include index to adjoining sheets, indexed boundary diagram, coverage diagram, elevation guide diagram, and glossary. Available also through the Library of Congress Web site as a raster image. English and French on some sheets.",
+    "Includes various editions of some sheets.",
+    "Publication statement: [Bethesda, Md.] : National Imagery and Mapping Agency, [1948- ]",
+    "Relief shown by contours and spot heights. Depths shown by contours and soundings on some sheets.",
+    "Some sheets include index to adjoining sheets, indexed boundary diagram, coverage diagram, elevation guide diagram, and glossary."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4940m.gct00206",
+    "http://lccn.loc.gov/00561886",
+    "http://www.loc.gov/item/00561886/",
+    "http://www.loc.gov/resource/g4940m.gct00206/",
+    "https://hdl.loc.gov/loc.gmd/g4940m.gct00206",
+    "https://search.catalog.loc.gov/instances/03b953ec-34c7-5b5e-aec2-d76e4ae37024",
+    "https://www.loc.gov/item/00561886/"
+  ],
+  "dct_issued_s": "1948",
+  "dct_language_sm": [
+    "eng",
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4m/g4940m/g4940m/gct00206/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00561886/\"}",
+  "dct_spatial_sm": [
+    "haiti"
+  ],
+  "dct_subject_sm": [
+    "Haiti",
+    "Haiti--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "dct_title_s": "Haiti 1:50,000",
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1948]"
+  ],
+  "gbl_displayNote_sm": [
+    "No longer limited to official use only as of July 15, 1999.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-00561886",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

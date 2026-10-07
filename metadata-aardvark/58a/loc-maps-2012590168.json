@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Planisphere celeste meridional"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Fer, Nicolas de, 1646-1720; La Hire, Philippe de, 1640-1718",
+    "Publication statement: Paris : Chez Danet, 1705."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3190.ct003614",
+    "http://lccn.loc.gov/2012590168",
+    "http://www.loc.gov/item/2012590168/",
+    "http://www.loc.gov/resource/g3190.ct003614/",
+    "https://hdl.loc.gov/loc.gmd/g3190.ct003614",
+    "https://search.catalog.loc.gov/instances/8dc659a3-04da-5231-b4de-b0267e09eb3a",
+    "https://www.loc.gov/item/2012590168/"
+  ],
+  "dct_issued_s": "1705",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3190/g3190/ct003614.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590168/\"}",
+  "dct_spatial_sm": [
+    "universe"
+  ],
+  "dct_subject_sm": [
+    "Astronomy--Charts, diagrams, etc.--Early works to 1800",
+    "Constellations--Early works to 1800",
+    "Universe"
+  ],
+  "dct_temporal_sm": [
+    "1705"
+  ],
+  "dct_title_s": "Planisphere celeste septentrional ; Planisphere celeste meridional",
+  "gbl_dateRange_drsim": [
+    "[1705 TO 1705]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1705
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590168",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

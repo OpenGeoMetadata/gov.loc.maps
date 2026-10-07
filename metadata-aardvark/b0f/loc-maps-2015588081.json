@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: J. & G. Menzies; Thomson, John, 1777-",
+    "English and Spanish.",
+    "Includes dates of exploration on northern coast of Alaska.",
+    "LC copy imperfect: Partly torn at lower edge.",
+    "Longitude based on Greenwich meridian.",
+    "Publication statement: [Edinburgh] : J. & G. Menzies, [1813]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Shows major cities, political divisions, physical features, and areas of Indian habitation; Mississippi River as boundary between [French] Louisiana and the United States; Greenland, islands in the Pacific and Atlantic Oceans, western Europe, west coast of Africa, and the Mediterranean Sea. Longitude based on Greenwich meridian. LC copy imperfect: Partly torn at lower edge. Includes dates of exploration on northern coast of Alaska. Available also through the Library of Congress Web site as a raster image. English and Spanish.",
+    "Shows major cities, political divisions, physical features, and areas of Indian habitation; Mississippi River as boundary between [French] Louisiana and the United States; Greenland, islands in the Pacific and Atlantic Oceans, western Europe, west coast of Africa, and the Mediterranean Sea."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3290.ct005837",
+    "http://lccn.loc.gov/2015588081",
+    "http://www.loc.gov/item/2015588081/",
+    "http://www.loc.gov/resource/g3290.ct005837/",
+    "https://hdl.loc.gov/loc.gmd/g3290.ct005837",
+    "https://search.catalog.loc.gov/instances/8062c975-08c5-57c9-8664-a3b0bc768330",
+    "https://www.loc.gov/item/2015588081/"
+  ],
+  "dct_issued_s": "1813",
+  "dct_language_sm": [
+    "eng",
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3290/g3290/ct005837.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2015588081/\"}",
+  "dct_spatial_sm": [
+    "america",
+    "central america",
+    "north america",
+    "south america",
+    "western hemisphere"
+  ],
+  "dct_subject_sm": [
+    "America",
+    "America--Maps",
+    "Central America",
+    "Central America--Maps",
+    "North America",
+    "North America--Maps",
+    "South America",
+    "South America--Maps",
+    "Western Hemisphere",
+    "Western Hemisphere--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1813"
+  ],
+  "dct_title_s": "America",
+  "gbl_dateRange_drsim": [
+    "[1813 TO 1813]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1813
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2015588081",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

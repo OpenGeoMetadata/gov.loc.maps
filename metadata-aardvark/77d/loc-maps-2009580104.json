@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "London atlas map of the Nile Valley"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Edward Stanford Ltd",
+    "Publication statement: London : E. Stanford, [ca. 1910]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8202n.ct002472",
+    "http://lccn.loc.gov/2009580104",
+    "http://www.loc.gov/item/2009580104/",
+    "http://www.loc.gov/resource/g8202n.ct002472/",
+    "https://hdl.loc.gov/loc.gmd/g8202n.ct002472",
+    "https://search.catalog.loc.gov/instances/0bb3b2df-8ea7-5355-a271-f6e444ea9b2f",
+    "https://www.loc.gov/item/2009580104/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8202/g8202n/ct002472.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009580104/\"}",
+  "dct_spatial_sm": [
+    "nile river valley"
+  ],
+  "dct_subject_sm": [
+    "Nile River Valley",
+    "Nile River Valley--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1910",
+    "London : E. Stanford, [ca. 1910]"
+  ],
+  "dct_title_s": "The Nile Valley : including Egypt, Nubia, Uganda, Abyssinia, British East Africa, and Somali Land",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009580104",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service, cartographer",
+    "Later sheets published by Defense Mapping Agency.",
+    "Later sheets published by Defense Mapping Agency. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Washington : Army Map Service, 1954-"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map55000694",
+    "http://www.loc.gov/item/map55000694/",
+    "http://www.loc.gov/resource/gmdsetmaps.map55000694-001/",
+    "http://www.loc.gov/resource/gmdsetmaps.map55000694-002/",
+    "http://www.loc.gov/resource/gmdsetmaps.map55000694-003/",
+    "http://www.loc.gov/resource/gmdsetmaps.map55000694-004/",
+    "http://www.loc.gov/resource/gmdsetmaps.map55000694-005/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map55000694-001",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map55000694-002",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map55000694-003",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map55000694-004",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map55000694-005",
+    "https://search.catalog.loc.gov/instances/bd8a3aeb-e05b-5a7c-8e20-4f978c5d6b0e",
+    "https://www.loc.gov/item/map55000694/"
+  ],
+  "dct_issued_s": "1954",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:ma:p5:50:00:69:4-:00:1:map55000694-001:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map55000694/\"}",
+  "dct_spatial_sm": [
+    "alaska",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Alaska--Maps",
+    "United States--Alaska"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "dct_title_s": "Alaska 1:50,000",
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1954]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-map55000694",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

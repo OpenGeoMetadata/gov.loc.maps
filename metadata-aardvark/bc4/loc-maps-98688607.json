@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"The above three sections, showing the line of railroad from Chicago to San Francisco giving distances, elevations above the sea, quality of soil and country, population of towns and cities, lakes, rivers, mountains, connecting railroad lines, and all items of interest of which a traveller would desire to know, in regard to the Great Route Across the continent. Armed with this Guide, the passenger needs to further information.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contains profiles and elevation of lines, indicates geographic regions, industry and agriculture, mileage, stage connections, and railroads.",
+    "Contributors: Chicago, Burlington & Quincy Railroad Company; H.R. Page & Co",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 356",
+    "Publication statement: Chicago, c1879.",
+    "Scale ca. 1:3,000,000.",
+    "See entries 373-375.",
+    "Stylized, diagramatic strip map in three sections: Chicago to Omaha; Omaha; Omaha to Salt Lake and Ogden (via the Union Pacific); Ogden to San Francisco (via the Central Pacific)"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4051p.rr003560",
+    "http://lccn.loc.gov/98688607",
+    "http://www.loc.gov/item/98688607/",
+    "http://www.loc.gov/resource/g4051p.rr003560/",
+    "https://hdl.loc.gov/loc.gmd/g4051p.rr003560",
+    "https://search.catalog.loc.gov/instances/71621283-98fb-539b-a16f-caa43a3b01ff",
+    "https://www.loc.gov/item/98688607/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4051/g4051p/rr003560.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688607/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west"
+  ],
+  "dct_subject_sm": [
+    "Chicago, Burlington & Quincy Railroad Company--Maps",
+    "Railroads--West (U.S.)--Maps",
+    "United States--West"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Chicago to San Franciso via the Burlington Route",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688607",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

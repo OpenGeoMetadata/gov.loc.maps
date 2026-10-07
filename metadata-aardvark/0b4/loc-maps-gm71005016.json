@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Annotated road map from Shaanxi to Sichuan",
+    "Annotated road map from Shaanxi to Sichuan",
+    "[陝境蜀道圖]"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Contributors: Hummel, Arthur W. (Arthur William), Sr., 1884-1975",
+    "Covers Wei River in Baoji Xian, Shanxi Sheng to \"Shu Dao\" in Shanxi-Sichuan border.",
+    "Oriented with north to the right.",
+    "Previous call number: G7823.S3P2 1820 .S4 Vault Shelf",
+    "Publication statement: [After 1750]",
+    "Purchase; Arthur William Hummel; 1930, no. 16.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:16,000.",
+    "Shows settlements, rest stops, stations, inns, temples, mountain passes, walled cities, bridges, and scenic areas along \"Shu Dao\".",
+    "Title supplied.",
+    "Title supplied. Oriented with north to the right. Relief shown pictorially. Bird's-eye-view. Covers Wei River in Baoji Xian, Shanxi Sheng to \"Shu Dao\" in Shanxi-Sichuan border. Shows settlements, rest stops, stations, inns, temples, mountain passes, walled cities, bridges, and scenic areas along \"Shu Dao\". Scale ca. 1:16,000. Available also through the Library of Congress Web site as a raster image. Purchase; Arthur William Hummel; 1930, no. 16. Previous call number: G7823.S3P2 1820 .S4 Vault Shelf AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7823sm.gct00272",
+    "http://lccn.loc.gov/gm71005016",
+    "http://www.loc.gov/item/gm71005016/",
+    "http://www.loc.gov/resource/g7823sm.gct00272/",
+    "https://hdl.loc.gov/loc.gmd/g7823sm.gct00272",
+    "https://search.catalog.loc.gov/instances/88dd8f7c-223d-5d83-a58e-98e4a5b07582",
+    "https://www.loc.gov/item/gm71005016/"
+  ],
+  "dct_issued_s": "1750",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7m/g7823m/g7823sm/gct00272/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005016/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "shaanxi sheng",
+    "sichuan sheng"
+  ],
+  "dct_subject_sm": [
+    "China--Shaanxi Sheng",
+    "China--Sichuan Sheng",
+    "Roads--China--Shaanxi Sheng--Maps",
+    "Roads--China--Sichuan Sheng--Maps",
+    "Shaanxi Sheng (China)--Aerial views--Maps",
+    "Sichuan Sheng (China)--Aerial views--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1750"
+  ],
+  "dct_title_s": "[Shan jing Shu dao tu]",
+  "gbl_dateRange_drsim": [
+    "[1750 TO 1750]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1750
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005016",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

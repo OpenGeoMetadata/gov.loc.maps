@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also covers parts of Maryland, Delaware, Pennsylvania, and New Jersey.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Bache, A. D. (Alexander Dallas), 1806-1867; Krebs, Charles G.; Nicholson, W. L. (Walter Lamb), 1825-1895; U.S. Coast and Geodetic Survey; W.H. & O.H. Morrison (Firm)",
+    "Inscribed in pencil inside front cover: Geo. W. Lay to Genl. Beauregard.",
+    "LC Civil War Maps (2nd ed.), 465.35",
+    "LC copy imperfect: Worm holes on left side of map.",
+    "Publication statement: [Washington, DC : W.H. & O.H. Morrison], 1862.",
+    "Relief shown by hachures.",
+    "Shows railroads and radial distances from Richmond.",
+    "Shows railroads and radial distances from Richmond. Also covers parts of Maryland, Delaware, Pennsylvania, and New Jersey. Relief shown by hachures. Inscribed in pencil inside front cover: Geo. W. Lay to Genl. Beauregard. LC copy imperfect: Worm holes on left side of map. LC Civil War Maps (2nd ed.), 465.35 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.cw0465350",
+    "http://lccn.loc.gov/2005630922",
+    "http://www.loc.gov/item/2005630922/",
+    "http://www.loc.gov/resource/g3880.cw0465350/",
+    "https://hdl.loc.gov/loc.gmd/g3880.cw0465350",
+    "https://search.catalog.loc.gov/instances/016e7b82-f0e3-517d-8f77-8c6b9e8f6986",
+    "https://www.loc.gov/item/2005630922/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/cw0465350.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005630922/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Middle Atlantic States--Maps",
+    "Railroads--Middle Atlantic States--Maps",
+    "Railroads--Virginia--Maps",
+    "United States--Middle Atlantic States",
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Map of eastern Virginia",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005630922",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

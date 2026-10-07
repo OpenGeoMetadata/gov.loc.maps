@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"October 2d, 1866.\"",
+    "\"October 2d, 1866.\" Relief shown by hachures. Shows public lands, silver, gold, and copper mines. Includes descriptive notes. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Major & Knapp Engraving, Manufacturing & Lithographic Co; United States. General Land Office",
+    "Includes descriptive notes.",
+    "Publication statement: N[ew] Y[ork] : Major & Knapp Eng. Mfg. & Lith. Co., 1866.; [Washington, D.C. : United States Government Printing Office], 1866.",
+    "Relief shown by hachures.",
+    "Shows public lands, silver, gold, and copper mines."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4350.ct004235",
+    "http://lccn.loc.gov/2014589395",
+    "http://www.loc.gov/item/2014589395/",
+    "http://www.loc.gov/resource/g4350.ct004235/",
+    "https://hdl.loc.gov/loc.gmd/g4350.ct004235",
+    "https://search.catalog.loc.gov/instances/d72bb7b1-6399-5912-aa86-e575b1de01ce",
+    "https://www.loc.gov/item/2014589395/"
+  ],
+  "dct_issued_s": "1866",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd435/g4350/g4350/ct004235.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2014589395/\"}",
+  "dct_spatial_sm": [
+    "nevada",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gold mines and mining--Nevada--Maps",
+    "Nevada--Maps",
+    "Public lands--Nevada--Maps",
+    "United States--Nevada"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "dct_title_s": "Map of the State of Nevada : to accompany the Annual report of the Commr. Genl. Land Office",
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1866
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2014589395",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

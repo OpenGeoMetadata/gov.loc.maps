@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 241 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1",
+    "Contributors: Ridgway, W.; Virtue & Co; Wells, J.",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 241",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [n.p.] Virtue & Co., 1863."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4014n.pm002410",
+    "http://lccn.loc.gov/75693238",
+    "http://www.loc.gov/item/75693238/",
+    "http://www.loc.gov/resource/g4014n.pm002410/",
+    "https://hdl.loc.gov/loc.gmd/g4014n.pm002410",
+    "https://search.catalog.loc.gov/instances/e7b990e7-684b-5e45-b318-9148ca01e72b",
+    "https://www.loc.gov/item/75693238/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4014/g4014n/pm002410.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693238/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "new orleans",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Orleans (La.)",
+    "United States--Louisiana--New Orleans"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "New Orleans, La. and its vicinity",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693238",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

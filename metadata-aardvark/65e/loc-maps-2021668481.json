@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Scale around 1:7,900,000\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Columbus Memorial Library, Organization of American States.",
+    "Original resource extent: 2 maps on 1 sheet : facsimile, color ; 33 x 40 centimeters.",
+    "Publication statement: New York : G.W. and C.B. Colton and Company, 1855.",
+    "This 1855 map of Peru and Bolivia shows topographical features, cities, towns, forts, rapids, and rivers. National and regional boundaries are marked in pink, green, yellow, and blue. An inset map of Lima, the capital of Peru, appears in the lower-left-hand corner. In the upper right are the River Madeira, forming part of the border between Peru and Brazil, and the Amazon, the upper parts of which are known in Peru as the Marañón and in Brazil as the Solimões. A note indicates the navigability of the River Ucayali up to the Vuelta del Diablo (Devil's Bend). Atacama, a disputed territory that was transferred to Chile after the 1879--83 War of the Pacific, is shown as part of Bolivia. The map originally appeared in Colton's 1855 Atlas of the World. J.H. Colton & Company was founded in New York City, most likely in 1831, by Joseph Hutchins Colton (1800--93), a Massachusetts native who had only a basic education and little or no formal training in geography or cartography. Colton built the firm into a major publisher of maps and atlases by purchasing the copyrights to and republishing other maps. In the 1850s, the firm became G.W. & C.B. Colton & Company, after Colton brought his sons, George Woolworth Colton (1827--1901) and Charles B. Colton (1832--1916), into the business. As in this example, virtually all Colton maps were framed in decorative borders of intertwining vines, flowers, or geometric shapes.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668481",
+    "http://www.loc.gov/item/2021668481/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_11317/",
+    "http://www.loc.gov/resource/wdl.11317/",
+    "https://hdl.loc.gov/loc.wdl/wdl.11317",
+    "https://www.loc.gov/item/2021668481/"
+  ],
+  "dct_issued_s": "1855-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_11317.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/31/7/wdl_11317/wdl_11317.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:31:7:wdl_11317:oas0337X/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668481/\"}",
+  "dct_spatial_sm": [
+    "bolivia",
+    "chile",
+    "peru"
+  ],
+  "dct_subject_sm": [
+    "1855",
+    "Bolivia",
+    "Chile",
+    "Peru"
+  ],
+  "dct_temporal_sm": [
+    "1855-01-01"
+  ],
+  "dct_title_s": "Colton's Peru and Bolivia.",
+  "gbl_dateRange_drsim": [
+    "[1855 TO 1855]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1855
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668481",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

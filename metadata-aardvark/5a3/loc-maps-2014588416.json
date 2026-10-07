@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Shenandoah County, Virginia"
+  ],
+  "dct_description_sm": [
+    "\"1059.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blue line print.",
+    "Blue line print. \"1059.\" Copy imperfect: Fragile, torn along fold lines. Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Post Office Department",
+    "Copy imperfect: Fragile, torn along fold lines.",
+    "Publication statement: [Virginia] : Post Office Department, [1925?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883s.ct009266",
+    "http://lccn.loc.gov/2014588416",
+    "http://www.loc.gov/item/2014588416/",
+    "http://www.loc.gov/resource/g3883s.ct009266/",
+    "https://hdl.loc.gov/loc.gmd/g3883s.ct009266",
+    "https://search.catalog.loc.gov/instances/9ce1bfbb-746c-5220-8289-a0d053bfc5fd",
+    "https://www.loc.gov/item/2014588416/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883s/ct009266.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2014588416/\"}",
+  "dct_spatial_sm": [
+    "shenandoah county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Postal service--Virginia--Shenandoah County--Maps",
+    "Rural free delivery--Virginia--Shenandoah County--Maps",
+    "Shenandoah County (Va.)--Maps",
+    "United States--Virginia--Shenandoah County"
+  ],
+  "dct_temporal_sm": [
+    "1925",
+    "[Virginia] : Post Office Department, [1925?]"
+  ],
+  "dct_title_s": "Rural delivery routes, Shenandoah County, VA",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2014588416",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

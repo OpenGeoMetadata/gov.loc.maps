@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Maps of Lawrence County, South Dakota mines",
+    "Sheet no. 3 of Robinson's maps of Lawrence County, S.D. mines",
+    "Sheet no. 4 of Robinson's maps of Lawrence County, S.D. mines",
+    "Title on sheet 1: Sheet no. 3 of Robinson's maps of Lawrence County, S.D. mines",
+    "Title on sheet 2: Sheet no. 4 of Robinson's maps of Lawrence County, S.D. mines"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint.",
+    "Cadastral map showing mining and mill sites and some landowners' names, roads, railroads, etc.",
+    "Contributors: Robinson, Edward J., C.E.",
+    "Includes note.",
+    "LC copy imperfect: Part of lower edge torn.",
+    "Map printed in 2 segments on 2 sheets.",
+    "Publication statement: [South Dakota?] : Edward J. Robinson, c1897.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Cadastral map showing mining and mill sites and some landowners' names, roads, railroads, etc. Blueprint. Map printed in 2 segments on 2 sheets. LC copy imperfect: Part of lower edge torn. Includes note. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4183l.la002095",
+    "http://lccn.loc.gov/2012593673",
+    "http://www.loc.gov/item/2012593673/",
+    "http://www.loc.gov/resource/g4183l.la002095/",
+    "https://hdl.loc.gov/loc.gmd/g4183l.la002095",
+    "https://search.catalog.loc.gov/instances/fca4c1fb-278a-585a-9b5b-1b9cb1ac4ca2",
+    "https://www.loc.gov/item/2012593673/"
+  ],
+  "dct_issued_s": "1897",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd418/g4183/g4183l/la002095.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593673/\"}",
+  "dct_spatial_sm": [
+    "lawrence county",
+    "south dakota",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--South Dakota--Lawrence County--Maps",
+    "Mines and mineral resources--South Dakota--Lawrence County--Maps",
+    "Real property--South Dakota--Lawrence County--Maps",
+    "United States--South Dakota--Lawrence County"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "dct_title_s": "Maps of Lawrence County, S.D. mines",
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593673",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Dripps, M. (Matthew), cartographer, publisher",
+    "LC copy imperfect: title page and all leaves detached.",
+    "List of geographical atlases in the Library of Congress, 4940",
+    "Publication statement: New York : published by M. Dripps, [1887?]",
+    "Shows landowners.",
+    "Shows landowners. LC copy imperfect: title page and all leaves detached. List of geographical atlases in the Library of Congress, 4940 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024592669",
+    "http://www.loc.gov/item/2024592669/",
+    "http://www.loc.gov/resource/gmdatlases.2024592669/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2024592669",
+    "https://search.catalog.loc.gov/instances/a56f83f2-d7b7-546f-b2b1-8481debef127",
+    "https://www.loc.gov/item/2024592669/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:20:24:59:26:69:2024592669:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024592669/\"}",
+  "dct_spatial_sm": [
+    "new utrecht",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--New York (State)--New York--Maps",
+    "New Utrecht (New York, N.Y.)--Maps",
+    "Real property--New York (State)--New York--Maps",
+    "United States--New York (State)--New York--New Utrecht"
+  ],
+  "dct_temporal_sm": [
+    "1887",
+    "New York : published by M. Dripps, [1887?]"
+  ],
+  "dct_title_s": "Atlas of New Utrecht, Kings County, N.Y.",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024592669",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

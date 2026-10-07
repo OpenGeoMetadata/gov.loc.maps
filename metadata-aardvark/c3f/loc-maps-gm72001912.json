@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"10,000 meter Universal Transverse Mercator grid ticks, zones 17.\"",
+    "\"50,000-foot grids based on Pennsylvania coordinate system, south and north zones.\"",
+    "\"Compiled in 1971 from USGS quadrangles dated 1953-1969.\"",
+    "\"Contour interval 100 feet.\"",
+    "\"Contour interval 100 feet.\" \"Lambert conformal conic projection.\" \"Compiled in 1971 from USGS quadrangles dated 1953-1969.\" \"50,000-foot grids based on Pennsylvania coordinate system, south and north zones.\" \"10,000 meter Universal Transverse Mercator grid ticks, zones 17.\" Includes \"Index to 1:24,000 scale quadrangle maps\" and location map. Scale 1:125,000; 1 in. equals approx. 2 miles; 1 cm. equals 1.25 km. Available also through the Library of Congress Web site as a raster image.",
+    "\"Lambert conformal conic projection.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Includes \"Index to 1:24,000 scale quadrangle maps\" and location map.",
+    "Publication statement: Washington, 1972.",
+    "Scale 1:125,000; 1 in. equals approx. 2 miles; 1 cm. equals 1.25 km."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824p.ct008391",
+    "http://lccn.loc.gov/gm72001912",
+    "http://www.loc.gov/item/gm72001912/",
+    "http://www.loc.gov/resource/g3824p.ct008391/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.ct008391",
+    "https://search.catalog.loc.gov/instances/b58aa08e-a58a-509c-9b82-ca6e9917fc63",
+    "https://www.loc.gov/item/gm72001912/"
+  ],
+  "dct_issued_s": "1972",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ct008391.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm72001912/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "pittsburgh region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pittsburgh Region (Pa.)--Maps",
+    "United States--Pennsylvania--Pittsburgh Region"
+  ],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "dct_title_s": "Greater Pittsburgh region, southwestern Pennsylvania; counties of Allegheny, Armstrong, Beaver, Butler, Washington, and Westmoreland, 1971",
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1972]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm72001912",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 700/1; 700/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bowles, John, 1701-1779, publisher; Bowles, Thomas, -1767, publisher; Moll, Herman, -1732, cartographer",
+    "Cummings, William P. Southeast in early maps, 158-E",
+    "Date of publication from Southeast in early maps.",
+    "Includes descriptive text, dedication in decorative cartouche, 4 insets, and illustration of the beavers of Canada.",
+    "LC copy sectioned in 2 and mounted on 1 sheet of cloth.",
+    "Publication statement: [London, Eng.] : printed and sold by Tho. Bowles nexty Chapter House in St. Pauls Church-Yard, J. Bowles at the Black Horse in Cornhill, and by I. King at ye Globe in ye Poultrey near Stocks Market, [1732?]",
+    "Relief shown pictorially.",
+    "Vault",
+    "Vault vcFY25 AACR2: 100; 651/1; 700/1; 700/2 Relief shown pictorially. Date of publication from Southeast in early maps. Includes descriptive text, dedication in decorative cartouche, 4 insets, and illustration of the beavers of Canada. LC copy sectioned in 2 and mounted on 1 sheet of cloth. Cummings, William P. Southeast in early maps, 158-E Available also through the Library of Congress Web site as a raster image.",
+    "vcFY25"
+  ],
+  "dct_identifier_sm": [
+    "http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&BBID=in00024297086&v3=1",
+    "http://hdl.loc.gov/loc.gmd/g3300.ct000232",
+    "http://hdl.loc.gov/loc.gmd/g3300.ct007436",
+    "http://lccn.loc.gov/gm71005441",
+    "http://www.loc.gov/item/g3300.ct000232/",
+    "http://www.loc.gov/item/g3300.ct007436/",
+    "http://www.loc.gov/item/g3300.ct007437/",
+    "http://www.loc.gov/item/gm71005441/",
+    "http://www.loc.gov/resource/g3300.ct000232/",
+    "http://www.loc.gov/resource/g3300.ct007436/",
+    "http://www.loc.gov/resource/g3300.ct007437/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ct000232",
+    "https://hdl.loc.gov/loc.gmd/g3300.ct007436",
+    "https://hdl.loc.gov/loc.gmd/g3300.ct007437",
+    "https://search.catalog.loc.gov/instances/571b5a05-45ac-53c3-b965-41f962d42f2b",
+    "https://search.catalog.loc.gov/instances/e537ee25-0084-4892-9e67-f6aee6e271cf",
+    "https://www.loc.gov/item/gm71005441/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3300:g3300:ct007436/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005441/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "North America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1732",
+    "[London, Eng.] : printed and sold by Tho. Bowles nexty Chapter House in St. Pauls Church-Yard, J. Bowles at the Black Horse in Cornhill, and by I. King at ye Globe in ye Poultrey near Stocks Market, [1732?]"
+  ],
+  "dct_title_s": "A new and exact map of the dominions of the King of Great Britain on ye continent of North America, containing Newfoundland, New Scotland, New England, New York, New Jersey, Pensilvania, Maryland, Virginia and Carolina",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005441",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

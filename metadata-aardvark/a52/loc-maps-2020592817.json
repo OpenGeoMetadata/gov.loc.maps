@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beers, Upton & Co., cartographer; Worley & Bracher, engraver",
+    "LC copy encapsulated and rebound to 60 cm.",
+    "List of geographical atlases in the Library of Congress, 4927",
+    "Pagination includes many blank pages.",
+    "Pagination includes many blank pages. Shows landowners and includes business directories. LC copy encapsulated and rebound to 60 cm. List of geographical atlases in the Library of Congress, 4927 Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Philada. : printed by J.H. Toudy & Co., 623 Commerce St., 1875.; Philadelphia : Beers, Upton & Co., 31 South Sixth St., 1875.",
+    "Shows landowners and includes business directories."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2020592817",
+    "http://www.loc.gov/item/2020592817/",
+    "http://www.loc.gov/resource/gmdatlases.2020592817/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2020592817",
+    "https://search.catalog.loc.gov/instances/8d35b695-13eb-56c8-8fb3-c952ef3c93e0",
+    "https://www.loc.gov/item/2020592817/"
+  ],
+  "dct_issued_s": "1875",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:20:20:59:28:17:2020592817:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2020592817/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "niagara county",
+    "orleans county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cities and towns--New York (State)--Niagara County--Maps",
+    "Cities and towns--New York (State)--Orleans County--Maps",
+    "Landowners--New York (State)--Niagara County--Maps",
+    "Landowners--New York (State)--Orleans County--Maps",
+    "Real property--New York (State)--Niagara County--Maps",
+    "Real property--New York (State)--Orleans County--Maps",
+    "United States--New York (State)--Niagara County",
+    "United States--New York (State)--Orleans County"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "dct_title_s": "Atlas of Niagara and Orleans Counties, New York : from actual surveys and official records",
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1875
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2020592817",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Southern states",
+    "Wyld's new map of the southern states of North America"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 99-29",
+    "Advertisement for Wyld's new maps on verso.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Wyld, James, 1812-1887",
+    "LC copy imperfect: Stained and sectioned and mounted on cloth backing.",
+    "Publication statement: London : J. Wyld, [1857?]",
+    "Relief shown by hachures and spot heights.",
+    "Relief shown by hachures and spot heights. Advertisement for Wyld's new maps on verso. Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Stained and sectioned and mounted on cloth backing. Acquisitions control no. 99-29"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3860.ct008830",
+    "http://lccn.loc.gov/99462702",
+    "http://www.loc.gov/item/99462702/",
+    "http://www.loc.gov/resource/g3860.ct008830/",
+    "https://hdl.loc.gov/loc.gmd/g3860.ct008830",
+    "https://search.catalog.loc.gov/instances/36f08806-3c92-57bc-8f4e-117ac8dc4161",
+    "https://www.loc.gov/item/99462702/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3860/g3860/ct008830.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99462702/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Southern States--Maps",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1857",
+    "London : J. Wyld, [1857?]"
+  ],
+  "dct_title_s": "Map of the southern states of North America : with the forts, harbours & military positions",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99462702",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

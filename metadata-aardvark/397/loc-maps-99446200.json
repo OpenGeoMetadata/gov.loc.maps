@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"During the Mexican-American War of 1846-48, U.S. troops occupied parts of the Mexican territory of Alta (Upper) California in an arc from present-day Sacramento to San Diego. This hand-drawn map of 1847 shows the locations in Alta California where U.S. forces were stationed. The notation on the lower left-hand side gives the distances between sites and the numbers of men deployed. Longitude and latitude are marked but there is no exact scale. The map shows the extent of U.S. control, later to be formalized in the Treaty of Guadalupe Hidalgo of 1848, which transferred to the United States a vast swath of land that included not only California but the future states of Nevada, Utah, Arizona, and parts of Colorado and Wyoming. California, with its long Pacific coastline and obvious economic potential, was the Mexican territory most coveted by many Americans. The map is by Joseph Goldsborough Bruff (1804-89), a topographical and architectural draftsman who had studied at West Point and worked in the 1840s as a member of the staff of the U.S. Bureau of Topographical Engineers in the Department of War. It shows the coastline of California, mountains, towns and missions, and El Camino Real (The Royal Road), the Spanish-built road that ran from San Diego in the south to Sonoma, just north of San Francisco Bay, connecting the 21 Spanish-built missions. Marked on the map south of Sacramento is \"Suter's,\" a reference to Sutter's Mill, where the discovery that set off the California Gold Rush was made in early 1848.\" World Digital Library.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Bruff, Joseph Goldsborough, 1804-1889",
+    "Publication statement: [S.l., 1847]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4361r.mf000072",
+    "http://lccn.loc.gov/99446200",
+    "http://www.loc.gov/item/99446200/",
+    "http://www.loc.gov/resource/g4361r.mf000072/",
+    "https://hdl.loc.gov/loc.gmd/g4361r.mf000072",
+    "https://search.catalog.loc.gov/instances/993f8152-8464-5700-9dcd-29e6180ea8aa",
+    "https://www.loc.gov/item/99446200/"
+  ],
+  "dct_issued_s": "1847",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4361/g4361r/mf000072.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446200/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Military bases--California--Maps",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "1847"
+  ],
+  "dct_title_s": "Map of Upper & Lower California showing the military stations and distribution of troops",
+  "gbl_dateRange_drsim": [
+    "[1847 TO 1847]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1847
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446200",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/2; 650/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Quiroga, Vincente; Zamora, Rafael",
+    "Includes \"Esplicacion del Plano.\"",
+    "LC Luso-Hispanic World, 530",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Includes \"Esplicacion del Plano.\" Scale not given. LC Luso-Hispanic World, 530 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650/2; 650/3",
+    "Publication statement: [1847]",
+    "Scale not given.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4412c.ct000550",
+    "http://lccn.loc.gov/gm72002050",
+    "http://www.loc.gov/item/gm72002050/",
+    "http://www.loc.gov/resource/g4412c.ct000550/",
+    "https://hdl.loc.gov/loc.gmd/g4412c.ct000550",
+    "https://search.catalog.loc.gov/instances/03a575be-41cf-50b3-a7df-bd3df40b9e8d",
+    "https://www.loc.gov/item/gm72002050/"
+  ],
+  "dct_issued_s": "1847",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4412/g4412c/ct000550.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm72002050/\"}",
+  "dct_spatial_sm": [
+    "mexico"
+  ],
+  "dct_subject_sm": [
+    "Cerro Gordo, Battle of, 1847--Maps",
+    "Manuscript maps",
+    "Mexican War, 1846-1848--Maps",
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1847"
+  ],
+  "dct_title_s": "Croquis del terro, camino, bosques, barrancas, cerro y beredas de Cerro-gordo con las posiciones de las topas Mejicanas y Americanas con sus respectivos Generales Cuerpos y Baterias el dis 18 de Abril de 1847",
+  "gbl_dateRange_drsim": [
+    "[1847 TO 1847]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1847
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm72002050",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

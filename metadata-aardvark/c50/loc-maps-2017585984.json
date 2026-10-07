@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Pen-and-ink and watercolor on two sheets pasted together. Sectioned in two and mounted on cloth backed paper.",
+    "Publication statement: [Nova Scotia?] : [Producer not indicated], [1840?]",
+    "Title provided by cataloger.",
+    "Title provided by cataloger. Pen-and-ink and watercolor on two sheets pasted together. Sectioned in two and mounted on cloth backed paper. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3420.ct008116",
+    "http://lccn.loc.gov/2017585984",
+    "http://www.loc.gov/item/2017585984/",
+    "http://www.loc.gov/resource/g3420.ct008116/",
+    "https://hdl.loc.gov/loc.gmd/g3420.ct008116",
+    "https://search.catalog.loc.gov/instances/98a7181e-78cf-5bfa-8065-59d60ebc14dc",
+    "https://www.loc.gov/item/2017585984/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3420/g3420/ct008116.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585984/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "halifax region",
+    "nova scotia"
+  ],
+  "dct_subject_sm": [
+    "Canada--Nova Scotia",
+    "Canada--Nova Scotia--Halifax Region",
+    "Halifax Region (N.S.)--Maps",
+    "Nova Scotia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1840",
+    "[Nova Scotia?] : [Producer not indicated], [1840?]"
+  ],
+  "dct_title_s": "[Maps of Nova Scotia and Halifax harbor and view of lighthouse]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585984",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

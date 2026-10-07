@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"39th Cong. 1st Sess., annual report of the Commr. Gen. Land Office.\"",
+    "\"39th Cong. 1st Sess., annual report of the Commr. Gen. Land Office.\" Shows land grant railroads, seats of land offices, and township and range system. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 20-83",
+    "Acquisitions control no. 20-83",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Banks, Nathaniel Prentiss, 1816-1894; Bowen & Co; United States. Congress 1865-1866); United States. General Land Office",
+    "Publication statement: [Washington, D.C.] : General Land Office, [1865]",
+    "Shows land grant railroads, seats of land offices, and township and range system."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/86691329",
+    "http://www.loc.gov/item/86691329/",
+    "http://www.loc.gov/resource/g4010.ct011061/",
+    "https://hdl.loc.gov/loc.gmd/g4010.ct011061",
+    "https://search.catalog.loc.gov/instances/dc8187df-1e28-5ef5-be59-3f51d33ea845",
+    "https://www.loc.gov/item/86691329/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4010/g4010/ct011061.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86691329/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Louisiana--Maps",
+    "United States--Louisiana"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Map of Louisiana",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86691329",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

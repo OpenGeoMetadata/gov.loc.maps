@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Kase, S. P.; Reading & Columbia Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 543",
+    "Publication statement: N[ew] Y[ork], [185-]",
+    "Scale ca. 1:600,000.",
+    "Sketch map of eastern Pennsylvania and northern Maryland indicating the railroad network and the connections with the coal fields. Shows major drainage, cities and towns, and four main coal field areas."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3821p.rr005430",
+    "http://lccn.loc.gov/98688787",
+    "http://www.loc.gov/item/98688787/",
+    "http://www.loc.gov/resource/g3821p.rr005430/",
+    "https://hdl.loc.gov/loc.gmd/g3821p.rr005430",
+    "https://search.catalog.loc.gov/instances/8438a11a-cba8-585b-9049-87a2b8b55a85",
+    "https://www.loc.gov/item/98688787/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3821/g3821p/rr005430.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688787/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coal mines and mining--Pennsylvania--Maps",
+    "Railroads--Maryland--Maps",
+    "Railroads--Pennsylvania--Maps",
+    "Reading and Columbia Railroad",
+    "United States--Maryland",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "185?"
+  ],
+  "dct_title_s": "Map of the Reading & Columbia Rail Road connecting New York via the Jersey Central, Reading and Columbia, with Baltimore and Washington, together with Western R.R. connections to Wheeling and Pittsburg [sic]; compiled by S. P. Kase",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688787",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

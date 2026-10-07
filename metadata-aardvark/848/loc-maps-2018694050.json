@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Карта внутренних водных путей, состоящих в ведении Томского округа п.с."
+  ],
+  "dct_description_sm": [
+    "Original map at: Tomsk Oblast Museum of Regional History and Folklife"
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694050",
+    "http://www.loc.gov/item/2018694050/",
+    "http://www.loc.gov/resource/gdc.2018694050/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.wmt0036",
+    "https://search.catalog.loc.gov/instances/724977fc-4196-5232-9360-fe7843bc1c20",
+    "https://www.loc.gov/item/2018694050/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694050.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694050/2018694050.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694050:wmt0036/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694050/\"}",
+  "dct_spatial_sm": [
+    "russian federation",
+    "tomsk oblast"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation",
+    "Tomsk Oblast",
+    "Tomskiĭ okrug",
+    "vodnyĭ transport",
+    "Томский округ",
+    "водный транспорт"
+  ],
+  "dct_temporal_sm": [
+    "18??"
+  ],
+  "dct_title_s": "Karta vnutrennikh vodnykh puteĭ, sostoi︠a︡shchikh v vedenii Tomskogo okruga p.s.",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694050",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

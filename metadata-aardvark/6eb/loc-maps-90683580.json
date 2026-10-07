@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Curado, Juan Manuel; Real Escuela de Navegación (Cádiz, Spain)",
+    "Depths shown by soundings.",
+    "Depths shown by soundings. Prime meridian: Tenerife. Watermarks: IV; and, fleur-de-lis. Pen-and-ink and watercolor. Mounted on cloth backing. Maggs number annotated in pencil in lower right margin: 256. LC Luso-Hispanic World, 500 Available also through the Library of Congress Web site as a raster image. Vault",
+    "LC Luso-Hispanic World, 500",
+    "Maggs number annotated in pencil in lower right margin: 256.",
+    "Mounted on cloth backing.",
+    "Pen-and-ink and watercolor.",
+    "Prime meridian: Tenerife.",
+    "Publication statement: [1756]",
+    "Vault",
+    "Watermarks: IV; and, fleur-de-lis."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4834p.lh000500",
+    "http://lccn.loc.gov/90683580",
+    "http://www.loc.gov/item/90683580/",
+    "http://www.loc.gov/resource/g4834p.lh000500/",
+    "https://hdl.loc.gov/loc.gmd/g4834p.lh000500",
+    "https://search.catalog.loc.gov/instances/2a5bc636-ea88-5976-9bdc-50f38f1fde34",
+    "https://www.loc.gov/item/90683580/"
+  ],
+  "dct_issued_s": "1756",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4834/g4834p/lh000500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90683580/\"}",
+  "dct_spatial_sm": [
+    "atlantic coast",
+    "cortés",
+    "honduras",
+    "omoa region",
+    "omoa region (cortés)",
+    "puerto cortés region"
+  ],
+  "dct_subject_sm": [
+    "Atlantic Coast (Honduras)--Maps, Manuscript--Early works to 1800",
+    "Coasts--Honduras--Omoa Region (Cortés)--Maps--Early works to 1800",
+    "Coasts--Honduras--Puerto Cortés Region--Maps--Early works to 1800",
+    "Honduras--Atlantic Coast",
+    "Honduras--Omoa Region (Cortés)",
+    "Honduras--Puerto Cortés Region",
+    "Manuscript maps--Early works to 1800",
+    "Omoa Region (Cortés, Honduras)--Maps, Manuscript--Early works to 1800",
+    "Puerto Cortés Region (Honduras)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1756"
+  ],
+  "dct_title_s": "Plano Depuerto [sic] Caballo y Omoa en la costa de Honduras situado en 16 grs. de latd. N. y 287 grs. 35 mtos. de longd. al meridiano de Tenerife",
+  "gbl_dateRange_drsim": [
+    "[1756 TO 1756]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1756
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90683580",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

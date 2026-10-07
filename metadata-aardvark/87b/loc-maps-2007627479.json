@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Civil War salted paper maps. AL-50.",
+    "Contributors: Michler, N. (Nathaniel), 1827-1881; Weyss, J. E.",
+    "Description derived from published bibliography.",
+    "Library of Congress. Civil War maps (2nd ed.), 406.9",
+    "Publication statement: [S.l. : s.n. , 1863?]",
+    "Sun print.",
+    "Sun print. Twenty-three sites are listed in the legend and keyed by letter to the map. Rivers are colored blue, and railroads are red. Description derived from published bibliography. Civil War salted paper maps. AL-50. Library of Congress. Civil War maps (2nd ed.), 406.9 Available also through the Library of Congress Web site as a raster image.",
+    "Twenty-three sites are listed in the legend and keyed by letter to the map. Rivers are colored blue, and railroads are red."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3964c.cw0406900",
+    "http://lccn.loc.gov/2007627479",
+    "http://www.loc.gov/item/2007627479/",
+    "http://www.loc.gov/resource/g3964c.cw0406900/",
+    "https://hdl.loc.gov/loc.gmd/g3964c.cw0406900",
+    "https://search.catalog.loc.gov/instances/cb91730a-74dc-5f22-a214-7a842f9b14dd",
+    "https://www.loc.gov/item/2007627479/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964c/cw0406900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007627479/\"}",
+  "dct_spatial_sm": [
+    "columbia",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Columbia (Tenn.)--History--Civil War, 1861-1865--Maps",
+    "United States--Tennessee--Columbia"
+  ],
+  "dct_temporal_sm": [
+    "1863",
+    "[S.l. : s.n. , 1863?]"
+  ],
+  "dct_title_s": "Columbia, Tenn. and vicinity",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007627479",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

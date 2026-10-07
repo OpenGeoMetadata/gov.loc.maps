@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Sayer, Robert, 1725-1794",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Shows \"Longitude west from Ferro\" and \"Longitude west from London.\" Includes articles IV, V, VI, VII, and XVIII of the \"Definitive treaty.\" Scale ca. 1:7,000,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 107 Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Hole at upper left margin. Vault AACR2",
+    "Includes articles IV, V, VI, VII, and XVIII of the \"Definitive treaty.\"",
+    "LC copy imperfect: Hole at upper left margin.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 107",
+    "Publication statement: [London, 1763?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:7,000,000.",
+    "Shows \"Longitude west from Ferro\" and \"Longitude west from London.\"",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar010700",
+    "http://lccn.loc.gov/74694142",
+    "http://www.loc.gov/item/74694142/",
+    "http://www.loc.gov/resource/g3300.ar010700/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar010700",
+    "https://search.catalog.loc.gov/instances/df6c0552-84f2-584a-9f24-fef1299df3e7",
+    "https://www.loc.gov/item/74694142/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar010700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694142/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "British",
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1763",
+    "[London, 1763?]"
+  ],
+  "dct_title_s": "An accurate map of North America describing and distinguishing the British and French dominions on this great continent according to the definitive treaty concluded at Paris 10th February 1763",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694142",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

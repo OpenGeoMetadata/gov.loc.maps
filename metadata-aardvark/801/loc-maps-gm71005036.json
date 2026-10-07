@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Warner, Langdon, 1881-1955",
+    "Oriented with north to the right.",
+    "Oriented with north to the right. Relief shown pictorially. Warner purchase 1929, no. 6. Scale ca. 1:600,000. Available also through the Library of Congress Web site as a raster image. AACR2: 651/1; 651/2",
+    "Publication statement: [Between 1800 and 1899]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:600,000.",
+    "Warner purchase 1929, no. 6."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7903c.ct003550r",
+    "http://hdl.loc.gov/loc.gmd/g7903c.ct003550v",
+    "http://lccn.loc.gov/gm71005036",
+    "http://www.loc.gov/item/gm71005036/",
+    "http://www.loc.gov/resource/g7903c.ct003550r/",
+    "http://www.loc.gov/resource/g7903c.ct003550v/",
+    "https://hdl.loc.gov/loc.gmd/g7903c.ct003550r",
+    "https://hdl.loc.gov/loc.gmd/g7903c.ct003550v",
+    "https://search.catalog.loc.gov/instances/3e0db6ed-1772-5011-93b3-d0a9e3945560",
+    "https://www.loc.gov/item/gm71005036/"
+  ],
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7903/g7903c/ct003550r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005036/\"}",
+  "dct_spatial_sm": [
+    "bukto",
+    "chŏlla",
+    "chŏlla-bukto",
+    "chŏlla-namdo",
+    "korea",
+    "namdo"
+  ],
+  "dct_subject_sm": [
+    "Chŏlla-bukto (Korea)--Maps",
+    "Chŏlla-namdo (Korea)--Maps",
+    "Korea--Chŏlla-bukto",
+    "Korea--Chŏlla-namdo"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[Between 1800 and 1899]"
+  ],
+  "dct_title_s": "[Chŏlla-do chido",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005036",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

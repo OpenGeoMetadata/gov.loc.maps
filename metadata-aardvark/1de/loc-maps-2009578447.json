@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also available on the Internet.",
+    "Contributors: Burton, William C.; Geological Survey (U.S.)",
+    "Publication statement: [Reston, Va.?] : U.S. Geological Survey ; Denver, CO : Information Services [distributor], 2007.",
+    "System requirements: PC with Internet hookup on ISO 9660 standard, on either UNIX, Macintosh, or Windows NT/2000/XP platforms, with Adobe Acrobat Reader or other software that reads Portable Document Format (PDF) files.",
+    "Title from container insert.",
+    "Title from container insert. Also available on the Internet. System requirements: PC with Internet hookup on ISO 9660 standard, on either UNIX, Macintosh, or Windows NT/2000/XP platforms, with Adobe Acrobat Reader or other software that reads Portable Document Format (PDF) files."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2009578447",
+    "http://pubs.usgs.gov/sim/2007/2887/",
+    "http://www.loc.gov/item/2009578447/",
+    "https://www.loc.gov/item/2009578447/"
+  ],
+  "dct_issued_s": "2007",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2009578447/\"}",
+  "dct_spatial_sm": [
+    "jackson county",
+    "macon county",
+    "north carolina"
+  ],
+  "dct_subject_sm": [
+    "Geology, Structural--North Carolina--Jackson County--Maps",
+    "Geology, Structural--North Carolina--Macon County--Maps",
+    "Maps--Digital"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_title_s": "Bedrock geologic map of the headwaters region of the Cullasaja River, Macon and Jackson Counties, North Carolina",
+  "gbl_dateRange_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009578447",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

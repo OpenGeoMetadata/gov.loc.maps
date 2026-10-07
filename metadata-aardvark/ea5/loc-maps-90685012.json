@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Capital Planning Commission",
+    "Cover title/text title.",
+    "Cover title/text title. Title at upper right: Comprehensive plan for the national capital. Maps individually numbered at lower right: NCPC Map File No. 61.00/100.00-29261 [discontinuously to] NCPC Map File No. 61.00/100.00-30126. Some maps include 1 or more notes. Note, table of map contents, and col. ill. on cover. Available also through the Library of Congress Web site as a raster image. DCP",
+    "DCP",
+    "Maps individually numbered at lower right: NCPC Map File No. 61.00/100.00-29261 [discontinuously to] NCPC Map File No. 61.00/100.00-30126.",
+    "Note, table of map contents, and col. ill. on cover.",
+    "Publication statement: [Washington, D.C.] : The Commission, [1990?]",
+    "Some maps include 1 or more notes.",
+    "Title at upper right: Comprehensive plan for the national capital."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851gm.gct00340",
+    "http://lccn.loc.gov/90685012",
+    "http://www.loc.gov/item/90685012/",
+    "http://www.loc.gov/resource/g3851gm.gct00340/",
+    "https://hdl.loc.gov/loc.gmd/g3851gm.gct00340",
+    "https://search.catalog.loc.gov/instances/47cd2d00-0db0-562b-8ac7-51f876d4df26",
+    "https://www.loc.gov/item/90685012/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385m/g3851m/g3851gm/gct00340/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90685012/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "City planning--Washington (D.C.)--Maps",
+    "Embassy buildings--Washington (D.C.)--Maps",
+    "Historic districts--Washington (D.C.)--Maps",
+    "Open spaces--Washington (D.C.)--Maps",
+    "Open spaces--Washington Metropolitan Area--Maps",
+    "Public buildings--Washington (D.C.)--Maps",
+    "Public buildings--Washington Metropolitan Area--Maps",
+    "Regional planning--Washington Metropolitan Area--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Metropolitan Area"
+  ],
+  "dct_temporal_sm": [
+    "1990",
+    "[Washington, D.C.] : The Commission, [1990?]"
+  ],
+  "dct_title_s": "Comprehensive plan for the national capital, federal elements : [Washington D.C. and metropolitan area]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90685012",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

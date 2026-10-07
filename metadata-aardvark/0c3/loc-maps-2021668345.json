@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carta geografica da capitania do Mato Grosso"
+  ],
+  "dct_description_sm": [
+    "Content in Portuguese.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 manuscript map : color ; 62 x 69 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1800.",
+    "This hand-colored manuscript map shows the topography of the Brazilian state of Mato Grosso, along with parts of Grão Pará, the Negro River, Goiás, and São Paulo. It also shows the Assumpção province of Paraguay and the western provinces of the Moxós and Chiquitos Indians. The latter regions, important areas in the Guarani War of 1756, were at the center of the disputes over territory between the crowns of Spain and Portugal. Important notes on the right side of the map provide information about two treaties between the two kingdoms: the Treaty of Madrid (1750) and the First Treaty of Santo Ildefonso (1777), both of which defined the extent of Spain's and Portugal's respective holdings in South America.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668345",
+    "http://www.loc.gov/item/2021668345/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00910/",
+    "http://www.loc.gov/resource/wdl.910/",
+    "https://hdl.loc.gov/loc.wdl/wdl.910",
+    "https://www.loc.gov/item/2021668345/"
+  ],
+  "dct_issued_s": "1800-01-01",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00910.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/91/0/wdl_00910/wdl_00910.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:91:0:wdl_00910:cart525995/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668345/\"}",
+  "dct_spatial_sm": [
+    "brazil",
+    "mato grosso"
+  ],
+  "dct_subject_sm": [
+    "1800",
+    "Brazil--Mato Grosso",
+    "Manuscript maps",
+    "Territorial questions",
+    "Treaties"
+  ],
+  "dct_temporal_sm": [
+    "1800-01-01"
+  ],
+  "dct_title_s": "Geographic Map of the Captaincy of Mato Grosso.",
+  "gbl_dateRange_drsim": [
+    "[1800 TO 1800]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1800
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668345",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

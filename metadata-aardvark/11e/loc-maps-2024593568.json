@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Western Reserve"
+  ],
+  "dct_description_sm": [
+    "Along lower edge of map: Copyright secured.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Savory, William, engraver; Taylor, Allen, active 1833, cartographer, publisher",
+    "Includes text and census statistics.",
+    "LC copy imperfect: sheet trimmed to the border of the map. Repaired tears along the left edge. Long tears through the lower left quadrant. Large hole along the lower edge.",
+    "Publication statement: Nelson, Portage County, Ohio : Allen Taylor, 1833.",
+    "vcFY24",
+    "vcFY24 Includes text and census statistics. Along lower edge of map: Copyright secured. LC copy imperfect: sheet trimmed to the border of the map. Repaired tears along the left edge. Long tears through the lower left quadrant. Large hole along the lower edge. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024593568",
+    "http://www.loc.gov/item/2024593568/",
+    "http://www.loc.gov/resource/g4082w.ct007595/",
+    "http://www.loc.gov/resource/g4082w.ct007597/",
+    "https://hdl.loc.gov/loc.gmd/g4082w.ct007595",
+    "https://hdl.loc.gov/loc.gmd/g4082w.ct007597",
+    "https://search.catalog.loc.gov/instances/019b9fee-d406-5544-949a-945fb75f43bc",
+    "https://www.loc.gov/item/2024593568/"
+  ],
+  "dct_issued_s": "1833",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4082/g4082w/ct007595.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024593568/\"}",
+  "dct_spatial_sm": [
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ohio--Maps",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1833"
+  ],
+  "dct_title_s": "Map of the Western Reserve : including the Fire Lands in Ohio",
+  "gbl_dateRange_drsim": [
+    "[1833 TO 1833]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1833
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024593568",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

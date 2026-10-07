@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by index map. 1 sheet ; 28 cm.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map series: 7.5 minute series -- 7.5 minute series (topographic).",
+    "Contributors: Geological Survey (U.S.); Geometronics Service Center (U.S.); United States. Forest Service. Southern Region",
+    "In upper left margin: United States, Department of the Interior, Geological Survey, modified for USDA Forest Service use.",
+    "Includes index map.",
+    "On some sheets: Provisional edition.",
+    "Publication statement: [Atlanta, Ga.] : The Region, [1986]",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. In upper left margin: United States, Department of the Interior, Geological Survey, modified for USDA Forest Service use. On some sheets: Provisional edition. Base map series: 7.5 minute series -- 7.5 minute series (topographic). UTM grid: Zone 16. Accompanied by index map. 1 sheet ; 28 cm. Includes index map. Available also through the Library of Congress Web site as a raster image.",
+    "UTM grid: Zone 16."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/88691536",
+    "http://www.loc.gov/item/88691536/",
+    "http://www.loc.gov/resource/gmdsetmaps.88691536/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.88691536",
+    "https://search.catalog.loc.gov/instances/741087aa-5f48-595d-b96b-4c4263cb4895",
+    "https://www.loc.gov/item/88691536/"
+  ],
+  "dct_issued_s": "1986",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:88:69:15:36:88691536:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/88691536/\"}",
+  "dct_spatial_sm": [
+    "mississippi",
+    "tombigbee national forest",
+    "tombigbee national forest (miss.)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Tombigbee National Forest (Miss.)--Maps",
+    "United States--Mississippi--Tombigbee National Forest (Miss.)"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "dct_title_s": "Tombigbee National Forest",
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88691536",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Sept. 19th 1839.\"",
+    "3851",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing landowners' names.",
+    "Cadastral map showing landowners' names. Covers block bounded by Wisconsin Av., N, 31st, and M streets N.W. \"Sept. 19th 1839.\" Title in ink in 2 hands on verso. Pen-and-ink. Soiled and stained. Available also through the Library of Congress Web site as a raster image. 3851 Phillips. Washington 495 Vault DCP",
+    "Contributors: Corcoran, W. W. (William Wilson), 1798-1888",
+    "Covers block bounded by Wisconsin Av., N, 31st, and M streets N.W.",
+    "DCP",
+    "Pen-and-ink.",
+    "Phillips. Washington 495",
+    "Publication statement: 1839.",
+    "Soiled and stained.",
+    "Title in ink in 2 hands on verso.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852g.la002255",
+    "http://lccn.loc.gov/88693300",
+    "http://www.loc.gov/item/88693300/",
+    "http://www.loc.gov/resource/g3852g.la002255/",
+    "https://hdl.loc.gov/loc.gmd/g3852g.la002255",
+    "https://search.catalog.loc.gov/instances/fb0f7ce0-e9a6-5e1a-9ee5-6284a76a37a1",
+    "https://www.loc.gov/item/88693300/"
+  ],
+  "dct_issued_s": "1839",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852g/la002255.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693300/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "georgetown",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Georgetown (Washington, D.C.)--Maps, Manuscript",
+    "Manuscript maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Georgetown"
+  ],
+  "dct_temporal_sm": [
+    "1839"
+  ],
+  "dct_title_s": "William Corcoran's subdivision of lots : between High & Congress & Bridge & Gay streets, Georgetown D.C.",
+  "gbl_dateRange_drsim": [
+    "[1839 TO 1839]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1839
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693300",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

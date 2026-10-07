@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Walling, Henry Francis, 1825-1888",
+    "Includes distance chart, statistics, and illustrations.",
+    "Insets: Allen's Mills -- Berry's Mill -- Chesterville -- East Dixfield -- East Wilton -- Farmington -- Farmington Falls -- Jay Bridge -- Keith's Mills -- Kingfield -- New Sharon -- New Vineyard -- Northern portion of Franklin County, Me. -- Phillips -- Salem -- Strong -- Temple Village -- Weld Lower Village -- Weld Upper Village -- West Mills -- Wilton Upper Mills.",
+    "LC Land ownership maps, 267",
+    "LC copy sectioned in six and mounted on two pieces of cloth.",
+    "Publication statement: New York : Published by W. E. Baker & Co., 1861.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Includes distance chart, statistics, and illustrations. Insets: Allen's Mills -- Berry's Mill -- Chesterville -- East Dixfield -- East Wilton -- Farmington -- Farmington Falls -- Jay Bridge -- Keith's Mills -- Kingfield -- New Sharon -- New Vineyard -- Northern portion of Franklin County, Me. -- Phillips -- Salem -- Strong -- Temple Village -- Weld Lower Village -- Weld Upper Village -- West Mills -- Wilton Upper Mills. LC copy sectioned in six and mounted on two pieces of cloth. LC Land ownership maps, 267 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3733f.la000267",
+    "http://lccn.loc.gov/2012592365",
+    "http://www.loc.gov/item/2012592365/",
+    "http://www.loc.gov/resource/g3733f.la000267/",
+    "https://hdl.loc.gov/loc.gmd/g3733f.la000267",
+    "https://search.catalog.loc.gov/instances/e9e1e58d-2de0-59e0-a70c-224a4adfc3c2",
+    "https://www.loc.gov/item/2012592365/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3733/g3733f/la000267.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592365/\"}",
+  "dct_spatial_sm": [
+    "franklin county",
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Franklin County (Me.)--Maps",
+    "Landowners--Maine--Franklin County--Maps",
+    "United States--Maine--Franklin County"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Topographical map of Franklin County, Maine",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592365",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

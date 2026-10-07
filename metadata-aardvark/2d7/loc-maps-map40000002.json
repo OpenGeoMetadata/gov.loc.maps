@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Baist, G. Wm. (George William), 1859-1927; Baist, H. V. (Harry Valentine), 1886-; Baist, Wm. E. (William Edward), 1885-",
+    "DCP",
+    "List of geographical atlases in the Library of Congress, 11775",
+    "List of geographical atlases in the Library of Congress, 4552",
+    "Publication statement: Philadelphia : [G.W. Baist], 1919-1921.",
+    "T.p. mounted on inside of front cover of each v.",
+    "T.p. mounted on inside of front cover of each v. List of geographical atlases in the Library of Congress, 4552 List of geographical atlases in the Library of Congress, 11775 Available also through the Library of Congress Web site as a raster image. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851bm.gct00135a",
+    "http://hdl.loc.gov/loc.gmd/g3851bm.gct00135b",
+    "http://hdl.loc.gov/loc.gmd/g3851bm.gct00135c",
+    "http://hdl.loc.gov/loc.gmd/g3851bm.gct00135d",
+    "http://lccn.loc.gov/map40000002",
+    "http://www.loc.gov/item/map40000002/",
+    "http://www.loc.gov/resource/g3851bm.gct00135a/",
+    "http://www.loc.gov/resource/g3851bm.gct00135b/",
+    "http://www.loc.gov/resource/g3851bm.gct00135c/",
+    "http://www.loc.gov/resource/g3851bm.gct00135d/",
+    "https://hdl.loc.gov/loc.gmd/g3851bm.gct00135a",
+    "https://hdl.loc.gov/loc.gmd/g3851bm.gct00135b",
+    "https://hdl.loc.gov/loc.gmd/g3851bm.gct00135c",
+    "https://hdl.loc.gov/loc.gmd/g3851bm.gct00135d",
+    "https://search.catalog.loc.gov/instances/f6d18c05-4bd5-56ee-b063-26e3c0f9f99c",
+    "https://www.loc.gov/item/map40000002/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385m/g3851m/g3851bm/gct00135a/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/map40000002/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1919/1921"
+  ],
+  "dct_title_s": "Baist's real estate atlas of surveys of Washington, District of Columbia : complete in four volumes",
+  "gbl_dateRange_drsim": [
+    "[1919 TO 1921]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1919
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map40000002",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

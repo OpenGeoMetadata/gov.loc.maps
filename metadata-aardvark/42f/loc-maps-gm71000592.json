@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Captain Snow's sketch of the country by himself, and the best accounts he could receive from the Indian traders"
+  ],
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Snow, Capt",
+    "Includes historical notes.",
+    "LC Maps of North America, 1750-1789, 1301",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Relief shown pictorially. Shows location of forts, western Pennsylvania, northern Virginia, northern Maryland, Maryland-Pennsylvania boundary line, and \"Road to Philadelphia, Pennsylvania, &ca.\" Includes historical notes. Scale not given. LC Maps of North America, 1750-1789, 1301 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 651/2",
+    "Publication statement: 1754.",
+    "Relief shown pictorially.",
+    "Scale not given.",
+    "Shows location of forts, western Pennsylvania, northern Virginia, northern Maryland, Maryland-Pennsylvania boundary line, and \"Road to Philadelphia, Pennsylvania, &ca.\"",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3820.ct000366",
+    "http://lccn.loc.gov/gm71000592",
+    "http://www.loc.gov/item/gm71000592/",
+    "http://www.loc.gov/resource/g3820.ct000366/",
+    "https://hdl.loc.gov/loc.gmd/g3820.ct000366",
+    "https://search.catalog.loc.gov/instances/c45c4ae3-f3b8-5f6e-ae3d-3bdeed7d5931",
+    "https://www.loc.gov/item/gm71000592/"
+  ],
+  "dct_issued_s": "1754",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3820/g3820/ct000366.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000592/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Maryland--Maps, Manuscript--Early works to 1800",
+    "Pennsylvania--Maps, Manuscript--Early works to 1800",
+    "United States--Maryland",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1754"
+  ],
+  "dct_title_s": "Captain Snow's scetch of the country by himself, and the best accounts he could receive from the Indian traders",
+  "gbl_dateRange_drsim": [
+    "[1754 TO 1754]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1754
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000592",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

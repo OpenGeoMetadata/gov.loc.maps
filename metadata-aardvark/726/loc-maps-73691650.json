@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "In pencil: No. 32.",
+    "Includes distance chart.",
+    "LC Maps of North America, 1750-1789, 1092",
+    "Manuscript, pen-and-ink.",
+    "Oriented with north to the bottom.",
+    "Publication statement: 177-?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:82,000.",
+    "Title from P. L. Phillips' A list of maps of America, p. 175.",
+    "Title from P. L. Phillips' A list of maps of America, p. 175. Manuscript, pen-and-ink. Oriented with north to the bottom. Relief shown pictorially. In pencil: No. 32. Includes distance chart. Scale ca. 1:82,000. LC Maps of North America, 1750-1789, 1092 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3803k.ar109200",
+    "http://lccn.loc.gov/73691650",
+    "http://www.loc.gov/item/73691650/",
+    "http://www.loc.gov/resource/g3803k.ar109200/",
+    "https://hdl.loc.gov/loc.gmd/g3803k.ar109200",
+    "https://search.catalog.loc.gov/instances/e8cbfb3c-0806-56c2-a03f-ee305ccaa47b",
+    "https://www.loc.gov/item/73691650/"
+  ],
+  "dct_issued_s": "1770",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3803/g3803k/ar109200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691650/\"}",
+  "dct_spatial_sm": [
+    "brooklyn",
+    "brooklyn (new york)",
+    "kings county",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Brooklyn (New York, N.Y.)--Maps, Manuscript--Early works to 1800",
+    "Kings County (N.Y.)--Maps, Manuscript--Early works to 1800",
+    "United States--New York (State)--Brooklyn (New York)",
+    "United States--New York (State)--Kings County"
+  ],
+  "dct_temporal_sm": [
+    "1770"
+  ],
+  "dct_title_s": "[Old map of Brooklyn and greater part of King's County, Long Island",
+  "gbl_dateRange_drsim": [
+    "[1770 TO 1770]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1770
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691650",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

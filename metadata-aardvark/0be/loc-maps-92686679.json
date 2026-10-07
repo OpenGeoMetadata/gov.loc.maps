@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "ARP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Department of the Interior. Southwestern Pennsylvania Heritage Preservation Commission",
+    "Includes text of \"Commission mission statement\" and ill.",
+    "Publication statement: [Hollidaysburg, Pa.? : Southwestern Pennsylvania Heritage Preservation Commission, 1992?]",
+    "Relief shown by shading.",
+    "Shows outline of counties under the jurisdiction of the Southwestern Pennsylvania Heritage Preservation Commission.",
+    "Shows outline of counties under the jurisdiction of the Southwestern Pennsylvania Heritage Preservation Commission. Relief shown by shading. Includes text of \"Commission mission statement\" and ill. Available also through the Library of Congress Web site as a raster image. ARP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824a.ct008285",
+    "http://lccn.loc.gov/92686679",
+    "http://www.loc.gov/item/92686679/",
+    "http://www.loc.gov/resource/g3824a.ct008285/",
+    "https://hdl.loc.gov/loc.gmd/g3824a.ct008285",
+    "https://search.catalog.loc.gov/instances/ba45f9eb-5435-5a42-a2b9-90ed6b8bcf8a",
+    "https://www.loc.gov/item/92686679/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824a/ct008285.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92686679/\"}",
+  "dct_spatial_sm": [
+    "altoona region",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Counties--Pennsylvania--Altoona Region--Maps",
+    "United States--Pennsylvania--Altoona Region",
+    "United States.--Department of the Interior.--Southwestern Pennsylvania Heritage Preservation Commission--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "[Hollidaysburg, Pa.? : Southwestern Pennsylvania Heritage Preservation Commission, 1992?]"
+  ],
+  "dct_title_s": "Commission mission statement : [Altoona region of southwestern Pennsylvania]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92686679",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

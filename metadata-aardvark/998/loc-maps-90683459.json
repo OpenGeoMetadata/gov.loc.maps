@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1871 by E. Sachse & Co. Balto. in the Office of the Librarian of Congress at Washington.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: E. Sachse & Co",
+    "DCP",
+    "Low-angle bird's-eye view of central Washington toward the west and northwest with The Capitol in foreground.",
+    "Low-angle bird's-eye view of central Washington toward the west and northwest with The Capitol in foreground. \"Entered according to Act of Congress in the year 1871 by E. Sachse & Co. Balto. in the Office of the Librarian of Congress at Washington.\" Oriented with north toward the upper right. Available also through the Library of Congress Web site as a raster image. DCP Vault",
+    "Oriented with north toward the upper right.",
+    "Publication statement: Balt[im]o[re] : Lith. by E. Sachse & Co., [1871]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851a.pm001066",
+    "http://lccn.loc.gov/90683459",
+    "http://www.loc.gov/item/90683459/",
+    "http://www.loc.gov/resource/g3851a.pm001066/",
+    "https://hdl.loc.gov/loc.gmd/g3851a.pm001066",
+    "https://search.catalog.loc.gov/instances/69d765df-d9ad-5e84-881c-815b9e0b7f5f",
+    "https://www.loc.gov/item/90683459/"
+  ],
+  "dct_issued_s": "1871",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm001066.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90683459/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States Capitol (Washington, D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "dct_title_s": "View of Washington City",
+  "gbl_dateRange_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1871
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90683459",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

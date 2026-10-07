@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hunter, John, 1737-1821",
+    "Depths shown by soundings.",
+    "LC Maps of North America, 1750-1789, 1366",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Oriented with north toward the upper left. Depths shown by soundings. On verso: Delaware-River from Chester to Philadelphia, by Mr. Hunter, June 1778. Scale ca. 1:30,000. LC Maps of North America, 1750-1789, 1366 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1",
+    "On verso: Delaware-River from Chester to Philadelphia, by Mr. Hunter, June 1778.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [1778]",
+    "Scale ca. 1:30,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3792d.ar136600",
+    "http://lccn.loc.gov/gm71002218",
+    "http://www.loc.gov/item/gm71002218/",
+    "http://www.loc.gov/resource/g3792d.ar136600/",
+    "https://hdl.loc.gov/loc.gmd/g3792d.ar136600",
+    "https://search.catalog.loc.gov/instances/401aa32d-044a-5d30-b2fa-4e4b42dd40a7",
+    "https://www.loc.gov/item/gm71002218/"
+  ],
+  "dct_issued_s": "1778",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd379/g3792/g3792d/ar136600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002218/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "delaware river valley",
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware River Valley (N.Y.-Del. and N.J.)--History--Revolution, 1775-1783--Maps, Manuscript--Early works to 1800",
+    "United States--Delaware--Delaware River Valley",
+    "United States--New Jersey--Delaware River Valley",
+    "United States--New York (State)--Delaware River Valley"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "dct_title_s": "Plan of part of the River Delaware from Chester to Philadelphia, in which is mark'd the position of His Majs. ships on the 15th. of November 1777. The obstructions to the navigation of the river, laid down by the rebels, are also mark'd",
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1778
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002218",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

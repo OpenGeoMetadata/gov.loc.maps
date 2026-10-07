@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"501155 7-72.\"",
+    "\"501155 7-72.\" \"Source of data: Office of the Geographer, Dept. of State.\" Includes note, key map, and inset. Available also through the Library of Congress Web site as a raster image. Available also through the Library of Congress Web site as a raster image.",
+    "\"Source of data: Office of the Geographer, Dept. of State.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency; United States. Department of State. Office of the Geographer",
+    "Includes note, key map, and inset.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1972]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8701f.ct002791",
+    "http://lccn.loc.gov/84692342",
+    "http://www.loc.gov/item/84692342/",
+    "http://www.loc.gov/resource/g8701f.ct002791/",
+    "https://hdl.loc.gov/loc.gmd/g8701f.ct002791",
+    "https://search.catalog.loc.gov/instances/d55370c4-5932-52e4-b633-895ec5418df5",
+    "https://www.loc.gov/item/84692342/"
+  ],
+  "dct_issued_s": "1972",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8701/g8701f/ct002791.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/84692342/\"}",
+  "dct_spatial_sm": [
+    "brazzaville",
+    "congo",
+    "congo (brazzaville)",
+    "congo (democratic republic)",
+    "democratic republic"
+  ],
+  "dct_subject_sm": [
+    "Congo (Brazzaville)",
+    "Congo (Brazzaville)--Boundaries--Congo (Democratic Republic)--Maps",
+    "Congo (Democratic Republic)",
+    "Congo (Democratic Republic)--Boundaries--Congo (Brazzaville)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "dct_title_s": "Congo-Zaire boundary",
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1972]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-84692342",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

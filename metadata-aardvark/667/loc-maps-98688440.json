@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"The whole central region of this state is underlaid with iron ore, in vast beds. There are also coal measures of great thickness and extent. Lead ore is also found.\" Signed: Jos. S. Wilson, Commissioner.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. General Land Office",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 178",
+    "LC also has 1865 edition from \"39th Cong. 1st Sess. Annual Report of the Commissioners, Gen. Land Off.\"",
+    "Outline map showing major drainage, cities and towns, railroads, and the 6-mile and 15-mile limits of the land grant.",
+    "Publication statement: Phila[delphia], [1866]",
+    "Scale ca. 1:200,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3970.rr001780",
+    "http://lccn.loc.gov/98688440",
+    "http://www.loc.gov/item/98688440/",
+    "http://www.loc.gov/resource/g3970.rr001780/",
+    "https://hdl.loc.gov/loc.gmd/g3970.rr001780",
+    "https://search.catalog.loc.gov/instances/e6709af9-c8ff-5fff-9202-17fe96b27402",
+    "https://www.loc.gov/item/98688440/"
+  ],
+  "dct_issued_s": "1866",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3970/g3970/rr001780.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688440/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Alabama--Maps",
+    "United States--Alabama"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "dct_title_s": "State of Alabama. October. 2nd. 1866",
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1866
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688440",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

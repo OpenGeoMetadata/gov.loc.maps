@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 650",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Page, Thomas Hyde, Sir, 1746-1821",
+    "Has watermark.",
+    "Inscribed on verso: Plan of the action, Charles Town, 17th June 1775. Eng. Page.",
+    "LC Maps of North America, 1750-1789, 908",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Has watermark. Relief shown by hachures. Inscribed on verso: Plan of the action, Charles Town, 17th June 1775. Eng. Page. Scale ca. 1:8,000. LC Maps of North America, 1750-1789, 908 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 650",
+    "Publication statement: [1775]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:8,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.ar090800",
+    "http://lccn.loc.gov/gm71000612",
+    "http://www.loc.gov/item/gm71000612/",
+    "http://www.loc.gov/resource/g3764b.ar090800/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ar090800",
+    "https://search.catalog.loc.gov/instances/98891460-10d5-55cc-8fb3-e0c25ba7e4ce",
+    "https://www.loc.gov/item/gm71000612/"
+  ],
+  "dct_issued_s": "1775",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/ar090800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000612/\"}",
+  "dct_spatial_sm": [
+    "boston (bunker hill)",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Bunker Hill, Battle of, Boston, Mass., 1775--Maps, Manuscript--Early works to 1800",
+    "United States--Massachusetts--Boston (Bunker Hill)"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_title_s": "Plan of the action which happen'd 17th. June 1775, at Charles Town, N. America",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000612",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

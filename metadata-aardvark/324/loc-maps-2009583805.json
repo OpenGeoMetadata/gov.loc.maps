@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: McGaughey, W. L.; Texas. General Land Office",
+    "LC Land ownership maps, 942",
+    "Publication statement: Austin, Tex. : General Land Office, 1892.",
+    "Shows landownership.",
+    "Shows landownership. LC Land ownership maps, 942 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033c.la000942",
+    "http://lccn.loc.gov/2009583805",
+    "http://www.loc.gov/item/2009583805/",
+    "http://www.loc.gov/resource/g4033c.la000942/",
+    "https://hdl.loc.gov/loc.gmd/g4033c.la000942",
+    "https://search.catalog.loc.gov/instances/63e102b0-5073-579c-ab6a-be81a9415280",
+    "https://www.loc.gov/item/2009583805/"
+  ],
+  "dct_issued_s": "1892",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033c/la000942.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009583805/\"}",
+  "dct_spatial_sm": [
+    "crosby county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Crosby County (Tex.)--Maps",
+    "Landowners--Texas--Crosby County--Maps",
+    "Real property--Texas--Crosby County--Maps",
+    "United States--Texas--Crosby County"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "dct_title_s": "Crosby County : General Land Office, April 1892",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009583805",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

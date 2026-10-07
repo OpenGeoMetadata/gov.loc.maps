@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Includes text and inset of \"Carte de l'ocean occidentale.\" Scale ca. 1:6,000,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 73 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Includes text and inset of \"Carte de l'ocean occidentale.\"",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 73",
+    "Publication statement: [n.p., 1757]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:6,000,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar007300",
+    "http://lccn.loc.gov/73693550",
+    "http://www.loc.gov/item/73693550/",
+    "http://www.loc.gov/resource/g3300.ar007300/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar007300",
+    "https://search.catalog.loc.gov/instances/749b3ebd-b0f8-5ca4-89cd-a3c9602eb293",
+    "https://www.loc.gov/item/73693550/"
+  ],
+  "dct_issued_s": "1757",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar007300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693550/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1757"
+  ],
+  "dct_title_s": "Amérique septentrionale, suivant les nouvelles découvertes, augmenté des collonies qui sont derrière la Virginie et cour de l'Ohio. Traduit de l'anglois d'apres Thos. Gefferys géographe du Prince de Galle, et divisée suivant les pretendues pretentions des Anglois, sans néantmoins entendre, que ce la tire à concequence, en 1757",
+  "gbl_dateRange_drsim": [
+    "[1757 TO 1757]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1757
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693550",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

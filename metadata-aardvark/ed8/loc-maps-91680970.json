@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by soundings.",
+    "Depths shown by soundings. Oriented with north toward the lower left. Watermark: Strasburg fleur-de-lis. Pen-and-ink and yellow watercolor. Mounted on cloth backing. Maggs number annotated in pencil in lower right margin: 316. LC Luso-Hispanic World, 887 Available also through the Library of Congress Web site as a raster image. Vault",
+    "LC Luso-Hispanic World, 887",
+    "Maggs number annotated in pencil in lower right margin: 316.",
+    "Mounted on cloth backing.",
+    "Oriented with north toward the lower left.",
+    "Pen-and-ink and yellow watercolor.",
+    "Publication statement: [17--?]",
+    "Vault",
+    "Watermark: Strasburg fleur-de-lis."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3932d.lh000887",
+    "http://lccn.loc.gov/91680970",
+    "http://www.loc.gov/item/91680970/",
+    "http://www.loc.gov/resource/g3932d.lh000887/",
+    "https://hdl.loc.gov/loc.gmd/g3932d.lh000887",
+    "https://search.catalog.loc.gov/instances/cf063346-7079-5179-b066-20fc9d922306",
+    "https://www.loc.gov/item/91680970/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3932/g3932d/lh000887.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91680970/\"}",
+  "dct_spatial_sm": [
+    "dry tortugas",
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Dry Tortugas (Fla.)--Maps, Manuscript--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "United States--Florida--Dry Tortugas"
+  ],
+  "dct_temporal_sm": [
+    "1700",
+    "[17--?]"
+  ],
+  "dct_title_s": "Plano de las Tortugas situado su sentro en la latd. N. 24 gros. 37 ms",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91680970",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

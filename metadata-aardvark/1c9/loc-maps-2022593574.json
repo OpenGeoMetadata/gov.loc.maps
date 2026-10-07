@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"For information write the Rock Island Land Debenture Co.\"",
+    "Ancillary maps: Canadian County, Oklahoma Terry. -- El Reno the hub of Oklahoma Territory and the gateway and distributing supply point for the Cheyennes & Arrapahoes.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rock Island Land and Debenture Co., cartographer",
+    "Includes text.",
+    "Includes text. Ancillary maps: Canadian County, Oklahoma Terry. -- El Reno the hub of Oklahoma Territory and the gateway and distributing supply point for the Cheyennes & Arrapahoes. \"For information write the Rock Island Land Debenture Co.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: El Reno, Ok. : Rock Island Land & Debenture Co., 1891."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022593574",
+    "http://www.loc.gov/item/2022593574/",
+    "http://www.loc.gov/resource/g4024e.ct011988/",
+    "https://hdl.loc.gov/loc.gmd/g4024e.ct011988",
+    "https://search.catalog.loc.gov/instances/b2c576e8-2bd9-5f49-950c-791107fe3ae7",
+    "https://www.loc.gov/item/2022593574/"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd402:g4024:g4024e:ct011988/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022593574/\"}",
+  "dct_spatial_sm": [
+    "canadian county",
+    "el reno",
+    "indian territory",
+    "oklahoma",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canadian County (Okla.)--Maps",
+    "El Reno (Okla.)--Maps",
+    "Indian Territory--Maps",
+    "Real property--Oklahoma--El Reno--Maps",
+    "United States--Oklahoma--Canadian County",
+    "United States--Oklahoma--El Reno",
+    "United States--Oklahoma--Indian Territory"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "Map of the City of El Reno, Canadian County, Oklahoma Terry. 1891",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022593574",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

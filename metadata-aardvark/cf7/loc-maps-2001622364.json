@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802735AI (C00127) 3-01.\"",
+    "\"Base 802735AI (C00127) 3-01.\" Relief shown by shading. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2001]",
+    "Relief shown by shading."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7750.ct000980",
+    "http://lccn.loc.gov/2001622364",
+    "http://www.loc.gov/item/2001622364/",
+    "http://www.loc.gov/resource/g7750.ct000980/",
+    "https://hdl.loc.gov/loc.gmd/g7750.ct000980",
+    "https://search.catalog.loc.gov/instances/358f9105-deac-5404-810a-ba180ed720b9",
+    "https://www.loc.gov/item/2001622364/"
+  ],
+  "dct_issued_s": "2001",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7750/g7750/ct000980.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001622364/\"}",
+  "dct_spatial_sm": [
+    "sri lanka"
+  ],
+  "dct_subject_sm": [
+    "Sri Lanka",
+    "Sri Lanka--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "dct_title_s": "Sri Lanka",
+  "gbl_dateRange_drsim": [
+    "[2001 TO 2001]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001622364",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

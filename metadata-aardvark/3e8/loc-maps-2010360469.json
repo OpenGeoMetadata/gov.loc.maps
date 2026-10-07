@@ -1,0 +1,87 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "/",
+    "従全羅道順天至慶尚道昌原路上圖 /"
+  ],
+  "dct_description_sm": [
+    "\"朝紀四十二号・第三十一棚\"--Written in red on each sheet.",
+    "1. 従順天至羅州路上圖 -- 2. 従羅州至金溝路上圖 -- 3. 従金溝至茂朱路上圖 -- 4. 従茂朱至大邱路上圖 -- 5. 従大邱至昌原路上圖.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Tsukada, Kanjirō",
+    "Publication statement: Meiji 20 [1887]",
+    "Relief shown by contours and spot heights.",
+    "Title (handwritten) from verso.",
+    "Title (handwritten) from verso. Relief shown by contours and spot heights. Available also through the Library of Congress Web site as a raster image. \"朝紀四十二号・第三十一棚\"--Written in red on each sheet. 1. 従順天至羅州路上圖 -- 2. 従羅州至金溝路上圖 -- 3. 従金溝至茂朱路上圖 -- 4. 従茂朱至大邱路上圖 -- 5. 従大邱至昌原路上圖."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7901p.ct004009a",
+    "http://hdl.loc.gov/loc.gmd/g7901p.ct004009b",
+    "http://hdl.loc.gov/loc.gmd/g7901p.ct004009c",
+    "http://hdl.loc.gov/loc.gmd/g7901p.ct004009d",
+    "http://hdl.loc.gov/loc.gmd/g7901p.ct004009e",
+    "http://lccn.loc.gov/2010360469",
+    "http://www.loc.gov/item/2010360469/",
+    "http://www.loc.gov/resource/g7901p.ct004009a/",
+    "http://www.loc.gov/resource/g7901p.ct004009b/",
+    "http://www.loc.gov/resource/g7901p.ct004009c/",
+    "http://www.loc.gov/resource/g7901p.ct004009d/",
+    "http://www.loc.gov/resource/g7901p.ct004009e/",
+    "https://hdl.loc.gov/loc.gmd/g7901p.ct004009a",
+    "https://hdl.loc.gov/loc.gmd/g7901p.ct004009b",
+    "https://hdl.loc.gov/loc.gmd/g7901p.ct004009c",
+    "https://hdl.loc.gov/loc.gmd/g7901p.ct004009d",
+    "https://hdl.loc.gov/loc.gmd/g7901p.ct004009e",
+    "https://search.catalog.loc.gov/instances/844d7458-e2ee-56ac-822b-dc054f5105bb",
+    "https://www.loc.gov/item/2010360469/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7901/g7901p/ct004009a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010360469/\"}",
+  "dct_spatial_sm": [
+    "chŏlla",
+    "chŏlla-namdo",
+    "korea",
+    "korea (south)",
+    "kyŏngsang",
+    "kyŏngsang-namdo",
+    "namdo",
+    "south korea"
+  ],
+  "dct_subject_sm": [
+    "Chŏlla-namdo (Korea)--Maps, Manuscript",
+    "Korea",
+    "Korea (South)",
+    "Korea--Chŏlla-namdo",
+    "Korea--Kyŏngsang-namdo",
+    "Kyŏngsang-namdo (Korea)--Maps, Manuscript",
+    "Roads--Korea (South)--Maps, Manuscript",
+    "全羅南道 (Korea)",
+    "慶尚南道 (Korea)"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "Zenradō Junten yori Keishōdō Shōgen ni itaru rojōzu",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010360469",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

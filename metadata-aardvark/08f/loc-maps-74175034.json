@@ -1,0 +1,48 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Faden, William, 1749-1836",
+    "LC Maps of North America, 1750-1789, 609, 910, 1003, 1013, 1183, 1184, 1185, 1186, 1200, 1291, 1321, 1327, 1337, 1342, 1346, 1356, 1375, 1465, 1474, 1476, 1516, 1543, 1561, 1564, 1566, 1576, 1630, 2075",
+    "LC Maps of North America, 1750-1789, 609, 910, 1003, 1013, 1183, 1184, 1185, 1186, 1200, 1291, 1321, 1327, 1337, 1342, 1346, 1356, 1375, 1465, 1474, 1476, 1516, 1543, 1561, 1564, 1566, 1576, 1630, 2075 Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [New York, Bartlett & Welford, 1845?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701sm.gar00004",
+    "http://lccn.loc.gov/74175034",
+    "http://www.loc.gov/item/74175034/",
+    "http://www.loc.gov/resource/g3701sm.gar00004/",
+    "https://hdl.loc.gov/loc.gmd/g3701sm.gar00004",
+    "https://search.catalog.loc.gov/instances/eca13e09-f6d0-529e-9d23-5d898f233711",
+    "https://www.loc.gov/item/74175034/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370m/g3701m/g3701sm/gar00004/ara00001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74175034/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--History--Revolution, 1775-1783--Campaigns--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1845",
+    "[New York, Bartlett & Welford, 1845?]"
+  ],
+  "dct_title_s": "Atlas of the battles of the American Revolution, together with maps shewing the routes of the British and American Armies, plans of cities, surveys of harbors, &c.,",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74175034",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

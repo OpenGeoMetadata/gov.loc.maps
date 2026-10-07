@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"58339.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, 1969]",
+    "Scale 1:32,000,000.",
+    "Shows radial distances.",
+    "Shows radial distances. \"58339.\" Scale 1:32,000,000. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3201b.ct002673",
+    "http://lccn.loc.gov/75692493",
+    "http://www.loc.gov/item/75692493/",
+    "http://www.loc.gov/resource/g3201b.ct002673/",
+    "https://hdl.loc.gov/loc.gmd/g3201b.ct002673",
+    "https://search.catalog.loc.gov/instances/d1703373-306a-5633-8442-da8cfb94b13a",
+    "https://www.loc.gov/item/75692493/"
+  ],
+  "dct_issued_s": "1969",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201b/ct002673.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75692493/\"}",
+  "dct_spatial_sm": [
+    "earth",
+    "madrid",
+    "spain"
+  ],
+  "dct_subject_sm": [
+    "Azimuthal equidistant projection (Cartography)--Maps",
+    "Earth",
+    "Madrid (Spain)--Distances, etc.--Maps",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "dct_title_s": "Azimuthal equidistant projection centered on Madrid, 40⁰24ʹN., 3⁰41ʹW. 6-69",
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1969]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75692493",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

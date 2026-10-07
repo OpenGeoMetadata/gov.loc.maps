@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"76801.\"",
+    "\"76801.\" Scale 1:28,000,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, 1971]",
+    "Scale 1:28,000,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3201b.ct002679",
+    "http://lccn.loc.gov/74691552",
+    "http://www.loc.gov/item/74691552/",
+    "http://www.loc.gov/resource/g3201b.ct002679/",
+    "https://hdl.loc.gov/loc.gmd/g3201b.ct002679",
+    "https://search.catalog.loc.gov/instances/c47861f8-f82e-5ed5-8a57-6c3e9a74b5e2",
+    "https://www.loc.gov/item/74691552/"
+  ],
+  "dct_issued_s": "1971",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201b/ct002679.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74691552/\"}",
+  "dct_spatial_sm": [
+    "beijing",
+    "china",
+    "earth"
+  ],
+  "dct_subject_sm": [
+    "Azimuthal equidistant projection (Cartography)--Maps",
+    "Beijing (China)--Distances, etc.--Maps",
+    "Earth",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "dct_title_s": "Azimuthal equidistant projection centered on Peking, China 39⁰36ʹN., 116⁰24ʹE. 3-71",
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1971]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74691552",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

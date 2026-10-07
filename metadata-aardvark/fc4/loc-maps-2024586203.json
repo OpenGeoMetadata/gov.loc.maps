@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Appears to be a reproduction of a Leuzinger map from 1872.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Gebr. Freuler, publisher; Leuzinger, R. (Rudolf), 1826-1896, cartographer",
+    "Decorative border includes depictions of edelweisses, the national flower of Switzerland.",
+    "In upper left corner: 2457.",
+    "In upper right corner: RF.",
+    "In upper right corner: RF. In upper left corner: 2457. Includes non-Greenwich coordinates. Decorative border includes depictions of edelweisses, the national flower of Switzerland. Appears to be a reproduction of a Leuzinger map from 1872. Unhemmed at top and bottom. Available also through the Library of Congress Web site as a raster image.",
+    "Includes non-Greenwich coordinates.",
+    "Publication statement: In Ennenda, Kt. Glarus : Gebr. Freuler, [1880?]",
+    "Unhemmed at top and bottom."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024586203",
+    "http://www.loc.gov/item/2024586203/",
+    "http://www.loc.gov/resource/g6041a.ct007581/",
+    "https://hdl.loc.gov/loc.gmd/g6041a.ct007581",
+    "https://search.catalog.loc.gov/instances/e28e7309-4330-542a-ac4a-2c0bbe863a01",
+    "https://www.loc.gov/item/2024586203/"
+  ],
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd6:g6041:g6041a:ct007581/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024586203/\"}",
+  "dct_spatial_sm": [
+    "switzerland"
+  ],
+  "dct_subject_sm": [
+    "Switzerland",
+    "Switzerland--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1880",
+    "In Ennenda, Kt. Glarus : Gebr. Freuler, [1880?]"
+  ],
+  "dct_title_s": "[Cloth map of Switzerland]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024586203",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

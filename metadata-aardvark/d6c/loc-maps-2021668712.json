@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"BSB shelfmark: Cod.icon. 136|This description of the work was written by Traudl Seifert of the Bavarian State Library.\"--Note extracted from World Digital Library.",
+    "Battista Agnese (1514-64) was a masterful geographer and mapmaker. Born in Genoa, he worked in Venice from 1536 to 1564 and became one of the most important figures in Renaissance cartography. Researchers differ on the total number of manuscript atlases created by Agnese; he produced at least 39 portolan, or maritime, atlases, ten of them signed and dated. All are distinguished by their neat calligraphy and are esteemed for their high quality and beauty. None was intended for use on board ship; they served as ceremonial gifts and as adornments to the libraries of the well-to-do. This atlas contains 20 pages of maps. A heraldic bookplate of the court library in Munich appears at the front of the book, followed by declination tables and the zodiac. On the oval world map, the continents appear in green, with somewhat speculative outlines of North and South America. Cherubs, or wind heads, representing the classical twelve-point winds from which modern compass directions evolved surround the map. Other maps show the Pacific, Atlantic, and Indian Oceans, and the Baltic, Mediterranean, and Black Seas. Characteristic of all Agnese atlases are the routes of travels recorded on the map of the world. The Munich copy presented here shows, in blue, Magellan's voyage from Lisbon, through the straits named after him, to the Moluccas, and the return voyage of the one surviving ship around the Cape of Good Hope (1519--22). A second line--faintly discernible, originally inscribed in silver--traces Pizarro's voyage of 1521, which started from Cadiz, Spain, and crossed the Isthmus of Panama to reach the west coast of South America, thus inaugurating the Spanish conquest of Peru.",
+    "Content in Latin and Spanish.",
+    "Contributors: Agnese, Battista, 1514-1564 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Bavarian State Library.",
+    "Original resource extent: 10 maps : illustrations ; 22.5 x 16.5 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], [1541 to 1542]",
+    "Reference extracted from World Digital Library: \"Agnese Atlas,\" Library of Congress, Washington, DC. https://memory.loc.gov/ammem/gmdhtml/gnrlagn.html.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668712",
+    "http://www.loc.gov/item/2021668712/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_18176/",
+    "http://www.loc.gov/resource/wdl.18176/",
+    "https://hdl.loc.gov/loc.wdl/wdl.18176",
+    "https://www.loc.gov/item/2021668712/"
+  ],
+  "dct_issued_s": "1541-01-01",
+  "dct_language_sm": [
+    "lat",
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_18176.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/17/6/wdl_18176/wdl_18176.pdf\"}, {\"label\": \"ZIP: wdl_18176.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/17/6/wdl_18176/wdl_18176.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:18:17:6:wdl_18176:bsb00003259_00009/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668712/\"}",
+  "dct_spatial_sm": [
+    "italy",
+    "veneto",
+    "venice"
+  ],
+  "dct_subject_sm": [
+    "1519 to 1541",
+    "Coastlines",
+    "Discoveries in geography",
+    "Italy--Veneto--Venice",
+    "Magalhães, Fernão de, died 1521",
+    "Mappae mundi",
+    "Nautical charts",
+    "Pizarro, Francisco, approximately 1475-1541",
+    "Portolan charts",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1541-01-01"
+  ],
+  "dct_title_s": "Nautical Atlas of Battista Agnese.",
+  "gbl_dateRange_drsim": [
+    "[1541 TO 1541]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1541
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668712",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

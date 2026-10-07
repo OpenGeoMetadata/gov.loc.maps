@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Rhode Island"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ward, Adomiran Judson, 1830-1906",
+    "Includes inset of Newtown.",
+    "LC Land ownership maps, 829",
+    "Publication statement: Newport, R.I. : Published by A.J. Ward, 130 Thames St., [1870?]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. Includes inset of Newtown. LC Land ownership maps, 829 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3774n.la000829",
+    "http://lccn.loc.gov/2013593286",
+    "http://www.loc.gov/item/2013593286/",
+    "http://www.loc.gov/resource/g3774n.la000829/",
+    "https://hdl.loc.gov/loc.gmd/g3774n.la000829",
+    "https://search.catalog.loc.gov/instances/d9480bc4-9d8c-5e4e-92dd-f165565ee208",
+    "https://www.loc.gov/item/2013593286/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd377/g3774/g3774n/la000829.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593286/\"}",
+  "dct_spatial_sm": [
+    "newport",
+    "newport metropolitan area",
+    "rhode island",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Newport (R.I.)--Maps",
+    "Newport Metropolitan Area (R.I.)--Maps",
+    "United States--Rhode Island--Newport",
+    "United States--Rhode Island--Newport Metropolitan Area"
+  ],
+  "dct_temporal_sm": [
+    "1870",
+    "Newport, R.I. : Published by A.J. Ward, 130 Thames St., [1870?]"
+  ],
+  "dct_title_s": "Map of Newport & vicinity, or Rhode Island",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593286",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

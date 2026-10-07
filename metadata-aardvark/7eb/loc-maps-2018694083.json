@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Море Байкал с частью рек Лены,Аргуни, Селенги и Ангары с окололежащими уездами"
+  ],
+  "dct_description_sm": [
+    "Contributors: Medvedev, A. , engraver; Treskot, Johann, 1719-1786 , cartographer",
+    "Original map at: Russian State Library",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], 1772.",
+    "Sochinil Ivan Truskot, vyrezyval A. Medvedev. Zaglavie karty dano v kartushe. Granit︠s︡y uezdov raskrasheny ot ruki. Na karte pokazany podrobno reki s pritokami, gory, rastitel'nost'. Otmecheny krupnye naselennye punkty. V ozere oboznachen krupnyĭ ostrov Ol'khon. V nizhneĭ chasti karty pokazana chast' Kitaĭskogo gosudarstva.",
+    "The map presented here is centered on Lake Baikal and the major rivers that flow into or out of its watershed, including the Lena, Argun, Selenga, and Angara. It also shows the adjoining parts of eastern Siberia through which these rivers flow, and indicates tributaries, mountains, and vegetation. The map covers the Ust-Ilimsk, Irkutsk, Selenga, Yakutsk, and Nerchinsk Districts, all shown with yellow shading and delineated by yellow boundary lines. The largest regional cities and towns are indicated. Olkhon Island, the largest island in Lake Baikal, is also visible. Northern parts of Imperial China are shown at the bottom of the map and are set off from Siberia by a conjoined yellow-and-green line. Russian areas to the west, such as parts of the Krasnoyarsk and Yeniseysk Districts, are distinguished by pink shading and a pink boundary line. The map was compiled by Johann Treskot (1719-86), a cartographer of British descent, and engraved by A. Medvedev. Treskot was a talented geodesist who was affiliated with the Geographical Department of the Russian Academy of Sciences. The scale of the map is 42 kilometers per centimeter. It indicates distance in versts, a tsarist-era unit of length equal to 1.07 kilometers. An inset in the upper-right-hand corner lists Lake Baikal and the Lena, Argun, Selenga, and Angara Rivers as the main regions shown on the map and gives the name of the compiler. World Digital Library.",
+    "Сочинил Иван Трускот, вырезывал А. Медведев. Заглавие карты дано в картуше. Границы уездов раскрашены от руки. На карте показаны подробно реки с притоками, горы, растительность. Отмечены крупные населенные пункты. В озере обозначен крупный остров Ольхон. В нижней части карты показана часть Китайского государства."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694083",
+    "http://www.loc.gov/item/2018694083/",
+    "http://www.loc.gov/resource/gdc.2018694083/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0006",
+    "https://search.catalog.loc.gov/instances/098340cb-ae85-5e80-a1a1-0189657d9c36",
+    "https://www.loc.gov/item/2018694083/"
+  ],
+  "dct_issued_s": "1772",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694083.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694083/2018694083.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694083:smf0006/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694083/\"}",
+  "dct_spatial_sm": [
+    "buryatia",
+    "irkutsk oblast",
+    "republic of",
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Baikal, Lake (Russia)",
+    "Buryatia, Republic of",
+    "Irkutsk Oblast",
+    "Russian Federation",
+    "Siberia"
+  ],
+  "dct_temporal_sm": [
+    "1772"
+  ],
+  "dct_title_s": "More Baĭkal s chast'i︠u︡ rek Leny,Arguni, Selengi i Angary s okololezhashchimi uezdami",
+  "gbl_dateRange_drsim": [
+    "[1772 TO 1772]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1772
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694083",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1984--421-578/280.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Tennessee. Wildlife Resources Agency; United States. National Park Service",
+    "Includes text, table, and col. ill.",
+    "Panel titles: Obed ; Obed Wild and Scenic River, Tennessee.",
+    "Panel titles: Obed ; Obed Wild and Scenic River, Tennessee. \"*GPO: 1984--421-578/280.\" Includes text, table, and col. ill. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington] : The Service, [1984]",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/84693513",
+    "http://www.loc.gov/item/84693513/",
+    "http://www.loc.gov/resource/g3962o.ct010583/",
+    "https://hdl.loc.gov/loc.gmd/g3962o.ct010583",
+    "https://search.catalog.loc.gov/instances/4e4e70d4-ee8a-5de1-b64e-e20979391b88",
+    "https://www.loc.gov/item/84693513/"
+  ],
+  "dct_issued_s": "1984",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3962/g3962o/ct010583.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/84693513/\"}",
+  "dct_spatial_sm": [
+    "obed wild",
+    "obed wild and scenic river",
+    "scenic river",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Obed Wild and Scenic River (Tenn.)--Maps",
+    "United States--Tennessee--Obed Wild and Scenic River"
+  ],
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "dct_title_s": "Obed",
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1984]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-84693513",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

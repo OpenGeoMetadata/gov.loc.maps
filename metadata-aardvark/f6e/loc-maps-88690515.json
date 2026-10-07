@@ -1,0 +1,79 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"B-12-32. B-12-33.\"",
+    "\"Transmitted with letter dated: October 19, 1923.\"",
+    "Ancillary map ca. 1:112,000: Transportation lines of Chesapeake Bay serving the port of Baltimore Md. / Board of Engineers for Rivers and Harbors.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Schmitt, Edwin A.; United States. Army. Corps of Engineers. Washington District; United States. Board of Engineers for Rivers and Harbors",
+    "DCP",
+    "Depths shown by soundings and contours.",
+    "Depths shown by soundings and contours. \"Transmitted with letter dated: October 19, 1923.\" Includes indexed \"List of piers and wharves at Washington, D.C., and Alexandria, Va.,\" notes, 2 \"General vicinity sketch\" insets, and indexed \"List of steamship lines.\" Ancillary map ca. 1:112,000: Transportation lines of Chesapeake Bay serving the port of Baltimore Md. / Board of Engineers for Rivers and Harbors. \"B-12-32. B-12-33.\" Available also through the Library of Congress Web site as a raster image. LC copy fold-lined. DCP",
+    "Includes indexed \"List of piers and wharves at Washington, D.C., and Alexandria, Va.,\" notes, 2 \"General vicinity sketch\" insets, and indexed \"List of steamship lines.\"",
+    "LC copy fold-lined.",
+    "Publication statement: [Washington] : War Department, Corps of Engineers U.S. Army, [1923]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct004877",
+    "http://lccn.loc.gov/88690515",
+    "http://www.loc.gov/item/88690515/",
+    "http://www.loc.gov/resource/g3851p.ct004877/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct004877",
+    "https://search.catalog.loc.gov/instances/212f6db2-fbd3-509a-b54b-dc9e500cd904",
+    "https://www.loc.gov/item/88690515/"
+  ],
+  "dct_issued_s": "1923",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct004877.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690515/\"}",
+  "dct_spatial_sm": [
+    "alexandria",
+    "baltimore region",
+    "chesapeake bay",
+    "district of columbia",
+    "maryland",
+    "united states",
+    "virginia",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Harbors--Virginia--Alexandria--Maps",
+    "Harbors--Washington (D.C.)--Maps",
+    "Piers--Virginia--Alexandria--Maps",
+    "Piers--Washington (D.C.)--Maps",
+    "Steamboat lines--Chesapeake Bay (Md. and Va.)--Maps",
+    "Steamboat lines--Maryland--Baltimore Region--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--Maryland--Baltimore Region",
+    "United States--Maryland--Chesapeake Bay",
+    "United States--Virginia--Alexandria",
+    "United States--Virginia--Chesapeake Bay",
+    "Wharves--Virginia--Alexandria--Maps",
+    "Wharves--Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "dct_title_s": "Port facilities at Washington D.C. & Alexandria, Va",
+  "gbl_dateRange_drsim": [
+    "[1923 TO 1923]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1923
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690515",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

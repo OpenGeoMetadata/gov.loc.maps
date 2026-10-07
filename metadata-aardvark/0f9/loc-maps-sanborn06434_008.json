@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "28 sheet(s).",
+    "Jul 1930.",
+    "Other places as they appear on original: Dover."
+  ],
+  "dct_identifier_sm": [
+    "https://www.loc.gov/item/sanborn06434_008/"
+  ],
+  "dct_issued_s": "1930-07",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/sanborn06434_008/\"}",
+  "dct_spatial_sm": [
+    "Dover",
+    "Kinston",
+    "Lenoir County",
+    "North Carolina",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1930-07"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Kinston, Lenoir County, North Carolina.",
+  "gbl_dateRange_drsim": [
+    "[1930 TO 1930]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete.",
+    "Catalog access is public. Item-level access restrictions have not been refreshed since the historical package; consult the LOC catalog for current access.",
+    "Source does not confirm digitization. Consult LOC for access to the physical item."
+  ],
+  "gbl_indexYear_im": [
+    1930
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn06434_008",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

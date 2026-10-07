@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Pen-and-ink and watercolor. Dissected and mounted on cloth in 8 parts. Incomplete northern and western parts wanting. Dirty, stained, tears, mended with tape, major losses to upper section with slight losses along border.",
+    "Publication statement: [Washington, D.C.?] : [U.S. Army Corps of Engineers], [between 1800 and 1820?]",
+    "Relief shown by hachures and form lines. Depths shown by soundings.",
+    "Title supplied by cataloger.",
+    "Tr. U.S. Army. Corps of Engineers, 192--.",
+    "vcFY25",
+    "vcFY25 Relief shown by hachures and form lines. Depths shown by soundings. Title supplied by cataloger. Pen-and-ink and watercolor. Dissected and mounted on cloth in 8 parts. Incomplete northern and western parts wanting. Dirty, stained, tears, mended with tape, major losses to upper section with slight losses along border. Tr. U.S. Army. Corps of Engineers, 192--. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597828",
+    "http://www.loc.gov/item/2024597828/",
+    "http://www.loc.gov/resource/g3762b.ct005220/",
+    "https://hdl.loc.gov/loc.gmd/g3762b.ct005220",
+    "https://search.catalog.loc.gov/instances/800e3d17-04f4-5365-a8de-165c98d0b400",
+    "https://www.loc.gov/item/2024597828/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd376:g3762:g3762b:ct005220/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597828/\"}",
+  "dct_spatial_sm": [
+    "boston bay",
+    "boston bay (mass.)",
+    "boston harbor",
+    "boston harbor (mass.)",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston Bay (Mass.)--Maps",
+    "Boston Harbor (Mass.)--Maps",
+    "United States--Massachusetts--Boston Bay (Mass.)",
+    "United States--Massachusetts--Boston Harbor (Mass.)"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[Washington, D.C.?] : [U.S. Army Corps of Engineers], [between 1800 and 1820?]"
+  ],
+  "dct_title_s": "[Chart of Boston Harbor and Boston Bay]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597828",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

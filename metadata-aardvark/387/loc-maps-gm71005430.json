@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Has watermarks.",
+    "LC Maps of North America, 1750-1789, 1204",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Has watermarks. Relief shown by shading. Oriented with north toward the lower right. Shows fortifications. Sectioned and mounted on cloth backing. Scale ca. 1:17,000. LC Maps of North America, 1750-1789, 1204 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Oriented with north toward the lower right.",
+    "Publication statement: [178-?]",
+    "Relief shown by shading.",
+    "Scale ca. 1:17,000.",
+    "Sectioned and mounted on cloth backing.",
+    "Shows fortifications.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804w.ar120400",
+    "http://lccn.loc.gov/gm71005430",
+    "http://www.loc.gov/item/gm71005430/",
+    "http://www.loc.gov/resource/g3804w.ar120400/",
+    "https://hdl.loc.gov/loc.gmd/g3804w.ar120400",
+    "https://search.catalog.loc.gov/instances/e7a1d2a3-f17b-58b0-9ea4-40d1e209a9b0",
+    "https://www.loc.gov/item/gm71005430/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3804:g3804w:ar120400/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005430/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states",
+    "west point"
+  ],
+  "dct_subject_sm": [
+    "Fortification--New York (State)--West Point--Maps--Early works to 1800",
+    "United States--New York (State)--West Point",
+    "West Point (N.Y.)--Buildings, structures, etc.--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "Plan de West-Point du nord, levé a vue",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005430",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

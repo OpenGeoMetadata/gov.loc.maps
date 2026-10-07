@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: McIntosh family.",
+    "In the McIntosh family papers, 1827-1966.",
+    "Manuscripts",
+    "Publication statement: [S.l., 1865].",
+    "This undated map shows the route of the Army of Northern Virginia's retreat from Petersburg to Appomattox Court House, Va., during April 2-9, 1865."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00394",
+    "http://www.loc.gov/item/001-CABIB20013515/",
+    "http://www.loc.gov/item/gvhs01.vhs00394/",
+    "http://www.loc.gov/resource/gvhs01.vhs00394/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00394",
+    "https://www.loc.gov/item/gvhs01.vhs00394/"
+  ],
+  "dct_issued_s": "1865-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00394.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00394/\"}",
+  "dct_spatial_sm": [
+    "appomattox county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Appomattox Campaign",
+    "Appomattox Campaign, 1865--Maps",
+    "United States--Virginia--Appomattox County"
+  ],
+  "dct_temporal_sm": [
+    "1865-01-01"
+  ],
+  "dct_title_s": "[Map of Lee's retreat from Petersburg to Appomattox Court House, Va.]",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00394",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

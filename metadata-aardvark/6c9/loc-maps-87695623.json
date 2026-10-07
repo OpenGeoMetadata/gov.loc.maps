@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "Extensively annotated in ink to give text and notes.",
+    "Hand col. in red and black ink to show street paving projects.",
+    "Hand col. in red and black ink to show street paving projects. Title extended by ink annotation: & street impvts. 1883-4. Extensively annotated in ink to give text and notes. Available also through the Library of Congress Web site as a raster image. LC copy fold-lined, missing sections along edges (incl. part of annotated text), and mounted on cloth backing. DCP",
+    "LC copy fold-lined, missing sections along edges (incl. part of annotated text), and mounted on cloth backing.",
+    "Publication statement: [Washington : s.n., 1882?]",
+    "Title extended by ink annotation: & street impvts. 1883-4."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct004812",
+    "http://lccn.loc.gov/87695623",
+    "http://www.loc.gov/item/87695623/",
+    "http://www.loc.gov/resource/g3851p.ct004812/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct004812",
+    "https://search.catalog.loc.gov/instances/4eb5e702-6ee6-541b-946c-efd6918aee7d",
+    "https://www.loc.gov/item/87695623/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct004812.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695623/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Pavements--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Officials and employees--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1883 d1884",
+    "[Washington : s.n., 1882?]"
+  ],
+  "dct_title_s": "Map showing location of District officers from formation of District government in 1871 to 1882 : [Washington D.C.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695623",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

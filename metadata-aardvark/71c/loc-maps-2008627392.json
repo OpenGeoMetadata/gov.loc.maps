@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"502385 12-74.\"",
+    "\"502385 12-74.\" Relief shown by shading and spot heights. Soundings in fathoms. Includes inset of \"Territorial losses in the War of the Pacific 1879-1884\" and location map. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes inset of \"Territorial losses in the War of the Pacific 1879-1884\" and location map.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1974]",
+    "Relief shown by shading and spot heights. Soundings in fathoms."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5331f.ct002768",
+    "http://lccn.loc.gov/2008627392",
+    "http://www.loc.gov/item/2008627392/",
+    "http://www.loc.gov/resource/g5331f.ct002768/",
+    "https://hdl.loc.gov/loc.gmd/g5331f.ct002768",
+    "https://search.catalog.loc.gov/instances/03604c86-e9bc-537c-8b0b-ba598680ec92",
+    "https://www.loc.gov/item/2008627392/"
+  ],
+  "dct_issued_s": "1974",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5331/g5331f/ct002768.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008627392/\"}",
+  "dct_spatial_sm": [
+    "chile",
+    "peru"
+  ],
+  "dct_subject_sm": [
+    "Chile",
+    "Chile--Boundaries--Peru--Maps",
+    "Peru",
+    "Peru--Boundaries--Chile--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "dct_title_s": "Chile-Peru border region",
+  "gbl_dateRange_drsim": [
+    "[1974 TO 1974]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1974
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008627392",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the Year 1857 by A. Boschke ...\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing buildings and wards.",
+    "Cadastral map showing buildings and wards. Shows \"W. Twenty Seventh St.\" correctly; Judiciary Square shown as \"Judicary Square.\" Relief shown by hachures. Depths shown by contours and soundings. \"Entered according to Act of Congress in the Year 1857 by A. Boschke ...\" Includes notes, statistical tables, and ill. in margin. Available also through the Library of Congress Web site as a raster image. LC copy: A. Boschke's personal copy. LC copy annotated in pencil and ink. LC copy: Brittle, lacks sections along fold lines. Vault DCP",
+    "Contributors: Boschke, A.",
+    "DCP",
+    "Includes notes, statistical tables, and ill. in margin.",
+    "LC copy annotated in pencil and ink.",
+    "LC copy: A. Boschke's personal copy.",
+    "LC copy: Brittle, lacks sections along fold lines.",
+    "Publication statement: [Washington] : A. Boschke, 1857.",
+    "Relief shown by hachures. Depths shown by contours and soundings.",
+    "Shows \"W. Twenty Seventh St.\" correctly; Judiciary Square shown as \"Judicary Square.\"",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct002292",
+    "http://lccn.loc.gov/83694274",
+    "http://www.loc.gov/item/83694274/",
+    "http://www.loc.gov/resource/g3850.ct002292/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct002292",
+    "https://search.catalog.loc.gov/instances/8c87c21f-7c1c-5121-af78-e6622cdd941d",
+    "https://www.loc.gov/item/83694274/"
+  ],
+  "dct_issued_s": "1857",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct002292.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83694274/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_title_s": "Map of Washington City, District of Columbia, seat of the federal government : respectfully dedicated to the Senate and the House of Representatives of the United States of North America",
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1857
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83694274",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

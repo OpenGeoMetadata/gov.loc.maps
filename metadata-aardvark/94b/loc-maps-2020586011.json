@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Trans. from Coast Survey Library\".--previous folder label.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Imperfect: Torn along left edge, staining, fold-lined and black smudges in margins.",
+    "In bottom margin: Acc. No. 2450.",
+    "On blue and white sticker affixed to map: 829, ?.",
+    "Pen-and-ink and watercolor.",
+    "Pen-and-ink and watercolor. \"Trans. from Coast Survey Library\".--previous folder label. In bottom margin: Acc. No. 2450. On blue and white sticker affixed to map: 829, ?. Imperfect: Torn along left edge, staining, fold-lined and black smudges in margins. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: London : [Producer not identified] ; [between 1700 and 1799]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2020586011",
+    "http://www.loc.gov/item/2020586011/",
+    "http://www.loc.gov/resource/g3421c.ct008117/",
+    "https://hdl.loc.gov/loc.gmd/g3421c.ct008117",
+    "https://search.catalog.loc.gov/instances/9a3d8f89-49df-5601-9bdb-a63e790dda64",
+    "https://www.loc.gov/item/2020586011/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3421/g3421c/ct008117.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2020586011/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "nova scotia"
+  ],
+  "dct_subject_sm": [
+    "Canada--Nova Scotia",
+    "Geological cross sections--Nova Scotia",
+    "Nova Scotia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1700",
+    "London : [Producer not identified] ; [between 1700 and 1799]"
+  ],
+  "dct_title_s": "[Cross sections of the peninsula of Nova Scotia]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2020586011",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

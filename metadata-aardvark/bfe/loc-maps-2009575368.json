@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "República Argentina"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chapeaurouge, Carlos de",
+    "Copy imperfect: Some leaves stained and edges torn.",
+    "Phillips, 3957",
+    "Publication statement: [Buenos Aires : Eigendorf y Lesser], 1905.",
+    "Relief shown by shading, gradient tints, and spot heights. Depths shown by gradient tints.",
+    "Relief shown by shading, gradient tints, and spot heights. Depths shown by gradient tints. Title p. and map leaves mounted on cloth backing. Copy imperfect: Some leaves stained and edges torn. Phillips, 3957 Available also through the Library of Congress Web site as a raster image.",
+    "Title p. and map leaves mounted on cloth backing."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5350m.gct00166",
+    "http://lccn.loc.gov/2009575368",
+    "http://www.loc.gov/item/2009575368/",
+    "http://www.loc.gov/resource/g5350m.gct00166/",
+    "https://hdl.loc.gov/loc.gmd/g5350m.gct00166",
+    "https://search.catalog.loc.gov/instances/5452a690-16f8-531a-90f0-aa060c3c30dd",
+    "https://www.loc.gov/item/2009575368/"
+  ],
+  "dct_issued_s": "1905",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5m/g5350m/g5350m/gct00166/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009575368/\"}",
+  "dct_spatial_sm": [
+    "argentina"
+  ],
+  "dct_subject_sm": [
+    "Argentina",
+    "Argentina--Maps",
+    "Real property--Argentina--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dct_title_s": "Atlas del plano catastral de la República Argentina",
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1905]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1905
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009575368",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

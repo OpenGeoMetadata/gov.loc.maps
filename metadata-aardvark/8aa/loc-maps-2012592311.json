@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Forshey, Caleb Goldsmith, 1812-1881",
+    "Copy imperfect: Mounted on cloth back, losses along the edge and stained throughout.",
+    "Handwritten below title: Presented to the Post Master General Tho. A. P. [name unclear], Natchez, Mi.",
+    "Includes text and list of Spanish grants.",
+    "LC Land ownership maps, 248",
+    "Publication statement: Vidalia, La. : [s.n.], 1841",
+    "Shows names of some residents.",
+    "Shows names of some residents. Handwritten below title: Presented to the Post Master General Tho. A. P. [name unclear], Natchez, Mi. Stamped in lower right corner: Map Division, Library of Congress. Copy imperfect: Mounted on cloth back, losses along the edge and stained throughout. Includes text and list of Spanish grants. LC Land ownership maps, 248 Available also through the Library of Congress Web site as a raster image.",
+    "Stamped in lower right corner: Map Division, Library of Congress."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4013c.la000248",
+    "http://lccn.loc.gov/2012592311",
+    "http://www.loc.gov/item/2012592311/",
+    "http://www.loc.gov/resource/g4013c.la000248/",
+    "https://hdl.loc.gov/loc.gmd/g4013c.la000248",
+    "https://search.catalog.loc.gov/instances/eb810635-bc23-5edf-ab54-0662c0f0680d",
+    "https://www.loc.gov/item/2012592311/"
+  ],
+  "dct_issued_s": "1841",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4013/g4013c/la000248.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592311/\"}",
+  "dct_spatial_sm": [
+    "concordia parish",
+    "louisiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Concordia Parish (La.)--Maps",
+    "Landowners--Louisiana--Concordia Parish--Maps",
+    "Real property--Louisiana--Concordia Parish--Maps",
+    "United States--Louisiana--Concordia Parish"
+  ],
+  "dct_temporal_sm": [
+    "1841"
+  ],
+  "dct_title_s": "Topographic map of the Parish of Concordia, state of Louisiana",
+  "gbl_dateRange_drsim": [
+    "[1841 TO 1841]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1841
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2012592311",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

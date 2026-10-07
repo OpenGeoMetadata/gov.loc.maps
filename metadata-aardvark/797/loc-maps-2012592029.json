@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright, 1882, by J.L. Smith.\"",
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing warranty-deed tracts, tract numbers, tract acreages, real-property tracts, landowners' names (including names of oil companies), pipelines, roads, and railways.",
+    "Cadastral map showing warranty-deed tracts, tract numbers, tract acreages, real-property tracts, landowners' names (including names of oil companies), pipelines, roads, and railways. Covers the oil property speculation region but does not show specific oil fields or oil wells. Hand col. to emphasize township areas and county boundaries. \"Copyright, 1882, by J.L. Smith.\" LC copy 1 imperfect: Torn at fold lines; copy 2 also torn at fold lines and taped to repair edge tear. LC Land ownership maps, 812 Available also through the Library of Congress Web site as a raster image. 2 copies",
+    "Contributors: Smith, John L., 1846-",
+    "Covers the oil property speculation region but does not show specific oil fields or oil wells.",
+    "Hand col. to emphasize township areas and county boundaries.",
+    "LC Land ownership maps, 812",
+    "LC copy 1 imperfect: Torn at fold lines; copy 2 also torn at fold lines and taped to repair edge tear.",
+    "Publication statement: Philadelphia : J.L. Smith, map publisher, 1882."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823w.la000812",
+    "http://lccn.loc.gov/2012592029",
+    "http://www.loc.gov/item/2012592029/",
+    "http://www.loc.gov/resource/g3823w.la000812/",
+    "https://hdl.loc.gov/loc.gmd/g3823w.la000812",
+    "https://search.catalog.loc.gov/instances/ca5045b2-ef0a-50e2-a544-34547dc8be52",
+    "https://www.loc.gov/item/2012592029/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823w/la000812.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592029/\"}",
+  "dct_spatial_sm": [
+    "forest county",
+    "pennsylvania",
+    "united states",
+    "warren county"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Pennsylvania--Forest County--Maps",
+    "Landowners--Pennsylvania--Warren County--Maps",
+    "Oil fields--Pennsylvania--Forest County--Maps",
+    "Oil fields--Pennsylvania--Warren County--Maps",
+    "Real property--Pennsylvania--Forest County--Maps",
+    "Real property--Pennsylvania--Warren County--Maps",
+    "United States--Pennsylvania--Forest County",
+    "United States--Pennsylvania--Warren County",
+    "Warranty of title--Pennsylvania--Forest County--Maps",
+    "Warranty of title--Pennsylvania--Warren County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Map of the oil fields of Warren and Forest counties, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592029",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

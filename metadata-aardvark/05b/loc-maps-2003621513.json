@@ -1,0 +1,47 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "British Library, the world's knowledge"
+  ],
+  "dct_description_sm": [
+    "Began in 1990s?",
+    "Features the British Library Map Collections, the national collection of cartographic materials housed in the British Library in London, England. Provides information about the collections, services, exhibitions, and events.",
+    "Mode of access: World Wide Web.",
+    "Publication statement: London : The British Library",
+    "Title from home page (viewed Aug. 29, 2003)."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2003621513",
+    "http://www.bl.uk/collections/maps.html",
+    "http://www.loc.gov/item/2003621513/",
+    "https://www.loc.gov/item/2003621513/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2003621513/\"}",
+  "dct_spatial_sm": [
+    "great britain"
+  ],
+  "dct_subject_sm": [
+    "Internet resource--Maps",
+    "Map collections--Great Britain--Maps"
+  ],
+  "dct_temporal_sm": [
+    "199?"
+  ],
+  "dct_title_s": "British Library map collections",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003621513",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no.: 2001-44",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Bird's-eye view. Oriented with north toward the lower right. Imperfect: Brittle, darkened, torn at edges, missing small edge sections, trimmed at top and side margins, pin-holed, taped on verso. Includes index to points of interest. Available also through the Library of Congress Web site as a raster image. PM3 Acquisitions control no.: 2001-44",
+    "Contributors: H.H. Rowley & Co",
+    "Imperfect: Brittle, darkened, torn at edges, missing small edge sections, trimmed at top and side margins, pin-holed, taped on verso.",
+    "Includes index to points of interest.",
+    "Oriented with north toward the lower right.",
+    "PM3",
+    "Publication statement: Hartford, Conn. : The Company, [1880]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804a.pm005342",
+    "http://lccn.loc.gov/2002620704",
+    "http://www.loc.gov/item/2002620704/",
+    "http://www.loc.gov/resource/g3804a.pm005342/",
+    "https://hdl.loc.gov/loc.gmd/g3804a.pm005342",
+    "https://search.catalog.loc.gov/instances/072d8a6a-565a-5cd6-87cc-ed14ba829960",
+    "https://www.loc.gov/item/2002620704/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804a/pm005342.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002620704/\"}",
+  "dct_spatial_sm": [
+    "albion",
+    "albion (orleans county)",
+    "new york",
+    "new york (state)",
+    "orleans county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Albion (Orleans County, N.Y.)--Aerial views",
+    "United States--New York (State)--Albion (Orleans County)"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "View of Albion, N.Y., 1880",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002620704",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

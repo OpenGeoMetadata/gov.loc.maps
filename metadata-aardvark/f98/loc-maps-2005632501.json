@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Spain. Ejército. Cuerpo de Ingenieros",
+    "Includes text, index, and ill.",
+    "LC Luso-Hispanic World, 578",
+    "Location indeterminable.",
+    "Location indeterminable. Relief shown by shading. Oriented with north toward the lower right. Pen-and-ink and watercolor. Includes text, index, and ill. LC Luso-Hispanic World, 578 Available also through the Library of Congress Web site as a raster image.",
+    "Oriented with north toward the lower right.",
+    "Pen-and-ink and watercolor.",
+    "Relief shown by shading."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4411s.lh000578",
+    "http://lccn.loc.gov/2005632501",
+    "http://www.loc.gov/item/2005632501/",
+    "http://www.loc.gov/resource/g4411s.lh000578/",
+    "https://hdl.loc.gov/loc.gmd/g4411s.lh000578",
+    "https://search.catalog.loc.gov/instances/8ae7bd95-167c-5bd8-9649-fb783dcf951c",
+    "https://www.loc.gov/item/2005632501/"
+  ],
+  "dct_issued_s": "1818",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4411/g4411s/lh000578.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005632501/\"}",
+  "dct_spatial_sm": [
+    "mexico"
+  ],
+  "dct_subject_sm": [
+    "Mexico",
+    "Mexico--History--Wars of Independence, 1810-1821--Campaigns--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1818"
+  ],
+  "dct_title_s": "Plano topografico de fuerte de los remedios vulgarmente Sn. Gregorio y de los terrenos que lo circundan, defendido pr. la gavilla del rebelde cura forres, situiado en 1o. de septiembre de 1817 pr. las tropas de la division de operaciones del baxio al mando del Sr. Gral. en Gefe Mariscal de Campo Dn. Pascual de Linan y ocupado pr. las mismas en la noche del primero de enero del año de 1818 : [Mexico]",
+  "gbl_dateRange_drsim": [
+    "[1818 TO 1818]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1818
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005632501",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

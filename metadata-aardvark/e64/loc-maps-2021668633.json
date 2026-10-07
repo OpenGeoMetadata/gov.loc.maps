@@ -1,0 +1,78 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte des nouvelles découvertes au nord de la mer du sud tant à l'est de la Sibérie et du Kamtchatka qu'à l'ouest de la Nouvelle France"
+  ],
+  "dct_description_sm": [
+    "\"Scale about 1:21,000,000\"--Note extracted from World Digital Library.",
+    "Carte des nouvelles découvertes au nord de la mer du sud tant à l'est de la Sibérie et du Kamtchatka qu'à l'ouest de la Nouvelle France (Map of new discoveries north of the South Sea, in Eastern Siberia and Kamchatka, and in western New France) was created in 1750 by the Philippe Buache (1700-73), son-in-law of the great French cartographer Guillaume de L'Isle (1675-1726), and Joseph-Nicolas de L'Isle (1688-1768), brother of Guillaume de L'Isle. The map is centered on the North Pacific Ocean, referred to here as the northern part of the Southern Sea, and shows an enormous \"Bay or Western Sea\" cutting deeply into the Pacific coast of western Canada. Buache and de L'Isle based the map on the pseudo-discoveries of Bartholomew de Fonte, a Spanish admiral who was purported to have made a journey to the northwest coast of North America in around 1640 and discovered a passage linking the Pacific and Atlantic oceans. De Fonte's supposed findings were published in 1708 in a London magazine, Monthly Miscellany or Memoirs for the Curious. There is no evidence that de Fonte made the claimed discoveries or that he even existed. Buache and de L'Isle both were experienced cartographers, and de L'Isle had worked for a time in Saint Petersburg, where he learned about Russian explorations in the North Pacific (several Russian voyages in the region are marked on this map). Both men nonetheless were taken in by de Fonte, who appears to have been a fictional creation of the London magazine editor or a contributor.",
+    "Content in French.",
+    "Contributors: Buache, Philippe, 1700-1773 Cartographer.; L'Isle, Joseph-Nicolas de, 1688-1768 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of France.",
+    "Original resource extent: 1 map : illustrations and colored contours ; 53.5 x 72.5 centimeters.",
+    "Publication statement: Paris : Philippe Buache, 1750.",
+    "Reference extracted from World Digital Library: Willard E. Ireland, \"FONTE, BARTHOLOMEW DE,\" in Dictionary of Canadian Biography 1 (Toronto: University of Toronto/Université Laval, 2003-- ).",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668633",
+    "http://www.loc.gov/item/2021668633/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15485/",
+    "http://www.loc.gov/resource/wdl.15485/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15485",
+    "https://www.loc.gov/item/2021668633/"
+  ],
+  "dct_issued_s": "1750-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15485.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/48/5/wdl_15485/wdl_15485.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:48:5:wdl_15485:F0000001/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668633/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "china",
+    "democratic people's republic of korea",
+    "japan",
+    "mexico",
+    "republic of korea",
+    "russian federation",
+    "united states of america"
+  ],
+  "dct_subject_sm": [
+    "1750",
+    "Canada",
+    "China",
+    "Democratic People's Republic of Korea",
+    "Exploration and encounters",
+    "Japan",
+    "Mexico",
+    "Republic of Korea",
+    "Russian Federation",
+    "United States of America",
+    "Western Sea (Mythical body of water)"
+  ],
+  "dct_temporal_sm": [
+    "1750-01-01"
+  ],
+  "dct_title_s": "Map of New Discoveries North of the South Sea, in Eastern Siberia and Kamchatka, and in Western New France.",
+  "gbl_dateRange_drsim": [
+    "[1750 TO 1750]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1750
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668633",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

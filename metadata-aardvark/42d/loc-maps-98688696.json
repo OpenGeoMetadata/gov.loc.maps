@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: McMinn, J. M. (Joseph M.); Tyrone and Lock Haven Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 445",
+    "Publication statement: Phila[delphi]a, [1858]",
+    "Scale 1:47,520.",
+    "Strip map, showing drainage, relief by hachures, cities and towns, roads, and a canal, between the Susquehanna and the Juniata Rivers in Pennsylvania."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3821p.rr004450",
+    "http://lccn.loc.gov/98688696",
+    "http://www.loc.gov/item/98688696/",
+    "http://www.loc.gov/resource/g3821p.rr004450/",
+    "https://hdl.loc.gov/loc.gmd/g3821p.rr004450",
+    "https://search.catalog.loc.gov/instances/b57c4973-7c1b-5f69-8dfd-ffa4401c3254",
+    "https://www.loc.gov/item/98688696/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3821/g3821p/rr004450.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688696/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Pennsylvania--Maps",
+    "Tyrone and Lock Haven Railroad Company--Maps",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Map of the proposed Lock Haven & Tyrone Rail Road, by J. M. McMinn, Esqr. Civil Engineer",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688696",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

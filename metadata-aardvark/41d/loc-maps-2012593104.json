@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Jefferson County"
+  ],
+  "dct_description_sm": [
+    "\"Compiled from Govt. and other official surveys.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Dunham, J. R. (Surveyor)",
+    "LC Land ownership maps, 420",
+    "LC copy sectioned in two.",
+    "Publication statement: Cleveland, O. : Photo. lith., H.B. Stranahan & Co., [1889]; Fairbury, Nebraska : J.R. Dunham, [1889]; © 1889.",
+    "Shows landowners.",
+    "Shows landowners. \"Compiled from Govt. and other official surveys.\" LC copy sectioned in two. LC Land ownership maps, 420 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4193j.la000420",
+    "http://lccn.loc.gov/2012593104",
+    "http://www.loc.gov/item/2012593104/",
+    "http://www.loc.gov/resource/g4193j.la000420/",
+    "https://hdl.loc.gov/loc.gmd/g4193j.la000420",
+    "https://search.catalog.loc.gov/instances/914f0cf4-bdc8-5982-9018-1f80b2698ed0",
+    "https://www.loc.gov/item/2012593104/"
+  ],
+  "dct_issued_s": "1889",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd419/g4193/g4193j/la000420.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593104/\"}",
+  "dct_spatial_sm": [
+    "jefferson county",
+    "nebraska",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Jefferson County (Neb.)--Maps",
+    "Landowners--Nebraska--Jefferson County--Maps",
+    "Real property--Nebraska--Jefferson County--Maps",
+    "United States--Nebraska--Jefferson County"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "dct_title_s": "Dunham's map of Jefferson County",
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593104",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

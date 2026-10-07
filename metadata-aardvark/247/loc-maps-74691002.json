@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Tom XV, in 4⁰, no. 12.\"",
+    "\"Tome 15, in 8⁰, page 416.\"",
+    "AACR2",
+    "Appears in Jean François de La Harpe's Abrégé de l'histoire générale des voyages ... Atlas. 1780.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bellin, Jacques Nicolas, 1703-1772",
+    "LC Maps of North America, 1750-1789, 2044",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Paris, 1780?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Oriented with north toward the upper left. \"Tom XV, in 4⁰, no. 12.\" \"Tome 15, in 8⁰, page 416.\" Appears in Jean François de La Harpe's Abrégé de l'histoire générale des voyages ... Atlas. 1780. Scale ca. 1:350,000; echelle de lieues marines de France et d'Angleterre de 20 au dég. LC Maps of North America, 1750-1789, 2044 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:350,000; echelle de lieues marines de France et d'Angleterre de 20 au dég.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/74691002",
+    "http://www.loc.gov/item/74691002/",
+    "http://www.loc.gov/resource/g5080.ar204400/",
+    "https://hdl.loc.gov/loc.gmd/g5080.ar204400",
+    "https://search.catalog.loc.gov/instances/a2a63ed7-bbdf-5a90-885f-2b9403c560f6",
+    "https://www.loc.gov/item/74691002/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5080/g5080/ar204400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74691002/\"}",
+  "dct_spatial_sm": [
+    "martinique"
+  ],
+  "dct_subject_sm": [
+    "Martinique",
+    "Martinique--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1780",
+    "[Paris, 1780?]"
+  ],
+  "dct_title_s": "Carte de l'isle de la Martinique. Pour servir à l'Histoire général des voyages",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74691002",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

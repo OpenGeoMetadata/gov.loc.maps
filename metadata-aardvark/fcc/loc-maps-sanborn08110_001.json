@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "1 sheet(s).",
+    "May 1884.",
+    "May 1884. 1 sheet(s).",
+    "Publication statement: Sanborn Map Company, May 1884"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3914am.g3914am_g081101884",
+    "http://www.loc.gov/item/sanborn08110_001/",
+    "http://www.loc.gov/resource/g3914am.g3914am_g081101884/",
+    "https://hdl.loc.gov/loc.gmd/g3914am.g3914am_g081101884",
+    "https://www.loc.gov/item/sanborn08110_001",
+    "https://www.loc.gov/item/sanborn08110_001/",
+    "https://www.loc.gov/resource/g3914am.g3914am_g081101884"
+  ],
+  "dct_issued_s": "1884-05",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn08110_001/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391m/g3914m/g3914am/g3914am_g081101884/08110_1884-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn08110_001/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "aiken",
+    "aiken county",
+    "south carolina",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1884-05"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Aiken, Aiken County, South Carolina.",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn08110_001",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

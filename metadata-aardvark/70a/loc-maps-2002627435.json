@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Date and title from Stephenson's Civil War maps, 1989.",
+    "Imperfect: horizontal creases and some staining and tears on edges.",
+    "In upper left: No. 21.",
+    "In upper left: The square are miles.",
+    "LC Civil War maps (2nd ed.), H12",
+    "Pen-and-ink on pencil grid, mounted on cloth.",
+    "Publication statement: [186-]",
+    "Relief shown by hachures and shading.",
+    "Relief shown by hachures and shading. Date and title from Stephenson's Civil War maps, 1989. In upper left: The square are miles. Pen-and-ink on pencil grid, mounted on cloth. Imperfect: horizontal creases and some staining and tears on edges. In upper left: No. 21. LC Civil War maps (2nd ed.), H12 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.cwh00012",
+    "http://lccn.loc.gov/2002627435",
+    "http://www.loc.gov/item/2002627435/",
+    "http://www.loc.gov/resource/g3880.cwh00012/",
+    "https://hdl.loc.gov/loc.gmd/g3880.cwh00012",
+    "https://search.catalog.loc.gov/instances/b2e7b8e0-86cb-5dc9-84b1-36210dcda828",
+    "https://www.loc.gov/item/2002627435/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/cwh00012.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002627435/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "[Map of the northern part of Virginia and West Virginia, between the Blue Ridge and the Alleghany Front, south of the Potomac River and north of New Market]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002627435",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

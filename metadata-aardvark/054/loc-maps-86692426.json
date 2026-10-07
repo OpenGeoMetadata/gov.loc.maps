@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 20-83",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Banks, Nathaniel Prentiss, 1816-1894",
+    "Notes and part of timetable on verso.",
+    "Publication statement: [Fitchburg, Mass.? : s.n., 188-?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Removed from railroad timetable. Notes and part of timetable on verso. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 20-83",
+    "Removed from railroad timetable."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3761p.ct005817",
+    "http://lccn.loc.gov/86692426",
+    "http://www.loc.gov/item/86692426/",
+    "http://www.loc.gov/resource/g3761p.ct005817/",
+    "https://hdl.loc.gov/loc.gmd/g3761p.ct005817",
+    "https://search.catalog.loc.gov/instances/56c73330-9d7a-5706-98ad-149da7c7c145",
+    "https://www.loc.gov/item/86692426/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3761/g3761p/ct005817.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86692426/\"}",
+  "dct_spatial_sm": [
+    "albany region",
+    "massachusetts",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fitchburg Railroad--Maps",
+    "Railroads--Massachusetts--Maps",
+    "Railroads--New York (State)--Albany Region--Maps",
+    "United States--Massachusetts",
+    "United States--New York (State)--Albany Region"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Fitchburg Railroad with its branches and connections",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86692426",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

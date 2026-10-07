@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map is no. 7 of a series of maps, showing the various oil localities of West Virginia.\"",
+    "AACR2: 650; 700",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Barnes, Rufus L.; Stout, Peter F. (Geologist)",
+    "Cover title: Oil district, West Virginia.",
+    "Cover title: Oil district, West Virginia. Hand colored. Relief shown by spot heights. \"This map is no. 7 of a series of maps, showing the various oil localities of West Virginia.\" Shows Wood, Pleasants, Ritchie, and Wirt counties. Scale ca. 1:180,000. Available also through the Library of Congress Web site as a raster image. AACR2: 650; 700",
+    "Hand colored.",
+    "Publication statement: Philadelphia, R.L. Barnes, 1864.",
+    "Relief shown by spot heights.",
+    "Scale ca. 1:180,000.",
+    "Shows Wood, Pleasants, Ritchie, and Wirt counties."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/73696187",
+    "http://www.loc.gov/item/73696187/",
+    "http://www.loc.gov/resource/g3891h.ct009431/",
+    "https://hdl.loc.gov/loc.gmd/g3891h.ct009431",
+    "https://search.catalog.loc.gov/instances/8c878e86-f959-5fe6-aa65-ae3d97d290a1",
+    "https://www.loc.gov/item/73696187/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3891/g3891h/ct009431.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73696187/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Oil fields--West Virginia--Maps",
+    "United States--West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Map of the oil district of West Virginia",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73696187",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

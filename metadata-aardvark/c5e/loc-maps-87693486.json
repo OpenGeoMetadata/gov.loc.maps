@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"A-2871-2+.\"",
+    "\"Base map by United States, Department of the Interior, Geological Survey.\"",
+    "Alternate title in lower right margin: Vicinity of Washington, D.C.",
+    "Alternate title in upper margin: Washington and vicinity.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); U.S. Coast and Geodetic Survey",
+    "DCP",
+    "Includes note.",
+    "LC copy laminated, halved, and mounted on cloth backing.",
+    "Publication statement: Washington : U.S. Dept. of Commerce, Environmental Science Services Administration, Coast and Geodetic Survey, [1966]",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Alternate title in upper margin: Washington and vicinity. Alternate title in lower right margin: Vicinity of Washington, D.C. \"Base map by United States, Department of the Interior, Geological Survey.\" State grids. Includes note. \"A-2871-2+.\" Available also through the Library of Congress Web site as a raster image. LC copy laminated, halved, and mounted on cloth backing. DCP",
+    "State grids."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851b.ct004573",
+    "http://lccn.loc.gov/87693486",
+    "http://www.loc.gov/item/87693486/",
+    "http://www.loc.gov/resource/g3851b.ct004573/",
+    "https://hdl.loc.gov/loc.gmd/g3851b.ct004573",
+    "https://search.catalog.loc.gov/instances/5dce0f99-c823-5bd0-b4ce-a36ed3b13621",
+    "https://www.loc.gov/item/87693486/"
+  ],
+  "dct_issued_s": "1966",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851b/ct004573.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87693486/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "Nets (Geodesy)--Washington (D.C.)--Maps",
+    "Nets (Geodesy)--Washington Metropolitan Area--Maps",
+    "Triangulation--Washington (D.C.)--Maps",
+    "Triangulation--Washington Metropolitan Area--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Metropolitan Area"
+  ],
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "dct_title_s": "Triangulation diagram, vicinity of Washington, D.C. : August 1966",
+  "gbl_dateRange_drsim": [
+    "[1966 TO 1966]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87693486",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

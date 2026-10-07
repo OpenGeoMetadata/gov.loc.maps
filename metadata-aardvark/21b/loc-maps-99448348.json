@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Meigs, John Rodgers, 1842-1864",
+    "Description derived from published bibliography.",
+    "General map extending from Charlottesville north to the Maryland-Pennsylvania boundary and showing roads, railroads, towns, rivers, houses and names of residents, and relief by shading.",
+    "General map extending from Charlottesville north to the Maryland-Pennsylvania boundary and showing roads, railroads, towns, rivers, houses and names of residents, and relief by shading. Description derived from published bibliography. Scale 1:253,440. LC Civil War Maps (2nd ed.), 655.5 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 655.5",
+    "Publication statement: Cumberland, Maryland, Office of Chief Engineer, Dept. W. Va., 1864",
+    "Scale 1:253,440."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882s.cw0655500",
+    "http://lccn.loc.gov/99448348",
+    "http://www.loc.gov/item/99448348/",
+    "http://www.loc.gov/resource/g3882s.cw0655500/",
+    "https://hdl.loc.gov/loc.gmd/g3882s.cw0655500",
+    "https://search.catalog.loc.gov/instances/11d001e7-76cf-5f5e-a85b-694f84c8e0f9",
+    "https://www.loc.gov/item/99448348/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882s/cw0655500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448348/\"}",
+  "dct_spatial_sm": [
+    "shenandoah river valley",
+    "united states",
+    "virginia",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Shenandoah River Valley (Va. and W. Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia--Shenandoah River Valley",
+    "United States--West Virginia--Shenandoah River Valley"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Map of the Shenandoah & Upper Potomac including portions of Virginia and Maryland",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448348",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

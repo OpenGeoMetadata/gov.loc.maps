@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also covers Georgetown.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Harmon, A. C. (Artemas Canfield), 1873-",
+    "DCP",
+    "Differs from other ed.: The statement \"Artemas C. Harmon, 1931\" printed to lower right of title without street address.",
+    "LC copy brittle, darkened, pin-holed, missing sections of margins.",
+    "Publication statement: [Washington? : s.n., 1931?]",
+    "Shows block numbers, buildings, woods, and marshes. Existing and proposed streets are undifferentiated.",
+    "Shows block numbers, buildings, woods, and marshes. Existing and proposed streets are undifferentiated. Also covers Georgetown. Differs from other ed.: The statement \"Artemas C. Harmon, 1931\" printed to lower right of title without street address. Available also through the Library of Congress Web site as a raster image. LC copy brittle, darkened, pin-holed, missing sections of margins. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004387",
+    "http://lccn.loc.gov/94683751",
+    "http://www.loc.gov/item/94683751/",
+    "http://www.loc.gov/resource/g3850.ct004387/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004387",
+    "https://search.catalog.loc.gov/instances/57434019-1940-58b4-9b8a-d05949d0ac6a",
+    "https://www.loc.gov/item/94683751/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004387.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94683751/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "georgetown",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Georgetown (Washington, D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Georgetown",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1801 d1802",
+    "[Washington? : s.n., 1931?]"
+  ],
+  "dct_title_s": "Historical map of the city of Washington, District of Columbia : view of the city & location of the houses in the year 1801-02 : the beginning of Washington",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94683751",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

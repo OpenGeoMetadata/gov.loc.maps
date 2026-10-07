@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Sproule, Geo. F. (George F.), 1741-1817",
+    "Hand colored.",
+    "Hand colored. Relief shown by hachures. Depths shown by soundings. Scale ca. 1:132,000. LC Maps of North America, 1750-1789, 1557 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1; 651/2",
+    "LC Maps of North America, 1750-1789, 1557",
+    "Publication statement: [n.p.] 1780.",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Scale ca. 1:132,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3914c.ar155700",
+    "http://lccn.loc.gov/gm71000637",
+    "http://www.loc.gov/item/gm71000637/",
+    "http://www.loc.gov/resource/g3914c.ar155700/",
+    "https://hdl.loc.gov/loc.gmd/g3914c.ar155700",
+    "https://search.catalog.loc.gov/instances/36fa928a-9fda-516a-9e31-6676aee55237",
+    "https://www.loc.gov/item/gm71000637/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3914/g3914c/ar155700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000637/\"}",
+  "dct_spatial_sm": [
+    "charleston",
+    "charleston region",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Charleston (S.C.)--History--Siege, 1780--Maps--Early works to 1800",
+    "Charleston Region (S.C.)--Maps--Early works to 1800",
+    "United States--South Carolina--Charleston",
+    "United States--South Carolina--Charleston Region"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "A sketch of the environs of Charlestown in South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000637",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

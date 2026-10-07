@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Siebert, Selmar; United States. War Department; Warren, G. K. (Gouverneur Kemble), 1830-1882",
+    "Includes \"Note\" and \"Authorities.\"",
+    "Incorporates note and surveys added after Jan. 8, 1858.",
+    "LC copy annotated in color to show boundaries, black ink to show place names, and blue ink to show routes.",
+    "Publication statement: [Washington, D.C., War Dept., 1858?]",
+    "Relief shown by hachures and spot heights.",
+    "Relief shown by hachures and spot heights. Incorporates note and surveys added after Jan. 8, 1858. Shows Indian tribal locations, military posts, routes and dates of expeditions and surveys. Includes \"Note\" and \"Authorities.\" Scale 1:3,000,000. Available also through the Library of Congress Web site as a raster image. LC copy annotated in color to show boundaries, black ink to show place names, and blue ink to show routes. Vault AACR2",
+    "Scale 1:3,000,000.",
+    "Shows Indian tribal locations, military posts, routes and dates of expeditions and surveys.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/76695825",
+    "http://www.loc.gov/item/76695825/",
+    "http://www.loc.gov/resource/g4050.ct007724/",
+    "https://hdl.loc.gov/loc.gmd/g4050.ct007724",
+    "https://search.catalog.loc.gov/instances/b2d4b2a1-a9c5-5814-998a-648870e08c66",
+    "https://www.loc.gov/item/76695825/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4050/g4050/ct007724.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76695825/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west"
+  ],
+  "dct_subject_sm": [
+    "Pacific railroads--Explorations and surveys--Maps",
+    "Railroads--West (U.S.)--Maps",
+    "United States--West",
+    "West (U.S.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1858",
+    "[Washington, D.C., War Dept., 1858?]"
+  ],
+  "dct_title_s": "Map of the territory of the United States from the Mississippi to the Pacific Ocean; ordered by Jeff'n Davis, Secretary of War to accompany the reports of the explorations for a railroad route",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76695825",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

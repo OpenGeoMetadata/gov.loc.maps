@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"April 1899, Wise-Hedick. August 1910.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint.",
+    "Blueprint. \"April 1899, Wise-Hedick. August 1910.\" LC Land ownership maps, 1055 Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Texas. General Land Office",
+    "LC Land ownership maps, 1055",
+    "Publication statement: Austin, Tex. : General Land Office, 1910."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033l.la001055",
+    "http://lccn.loc.gov/2012590032",
+    "http://www.loc.gov/item/2012590032/",
+    "http://www.loc.gov/resource/g4033l.la001055/",
+    "https://hdl.loc.gov/loc.gmd/g4033l.la001055",
+    "https://search.catalog.loc.gov/instances/b01bbf42-7318-56e3-ab57-d011d3e599c5",
+    "https://www.loc.gov/item/2012590032/"
+  ],
+  "dct_issued_s": "1899",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033l/la001055.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590032/\"}",
+  "dct_spatial_sm": [
+    "live oak",
+    "live oak county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Texas--Live Oak--Maps",
+    "Live Oak County (Tex.)--Maps",
+    "United States--Texas--Live Oak County"
+  ],
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "dct_title_s": "Live Oak County, Texas",
+  "gbl_dateRange_drsim": [
+    "[1899 TO 1899]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1899
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590032",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

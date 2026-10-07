@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"500192.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: [United States. Central Intelligence Agency]",
+    "Publication statement: [Washington, 1972]",
+    "Scale 1:10,000,000.",
+    "Shows international boundaries and national capitals.",
+    "Shows international boundaries and national capitals. \"500192.\" Scale 1:10,000,000. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8200.ct002515",
+    "http://lccn.loc.gov/gm72000353",
+    "http://www.loc.gov/item/gm72000353/",
+    "http://www.loc.gov/resource/g8200.ct002515/",
+    "https://hdl.loc.gov/loc.gmd/g8200.ct002515",
+    "https://search.catalog.loc.gov/instances/ff94f177-817f-53ad-b735-b9c644c91a8e",
+    "https://www.loc.gov/item/gm72000353/"
+  ],
+  "dct_issued_s": "1972",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8200/g8200/ct002515.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm72000353/\"}",
+  "dct_spatial_sm": [
+    "africa"
+  ],
+  "dct_subject_sm": [
+    "Africa",
+    "Africa--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "dct_title_s": "Africa. 2-72",
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1972]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm72000353",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

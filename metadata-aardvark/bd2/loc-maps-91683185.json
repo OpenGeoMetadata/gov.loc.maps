@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also covers Potomac River between Georgetown and Alexandria.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "Lead pencil on tracing paper.",
+    "Probably traced by Dr. Joseph M. Toner from the original 1843 ms. map.",
+    "Publication statement: [187-?]",
+    "Relief shown by hachures. Depths shown by contours and soundings.",
+    "Shows proposed town of Jackson City in Alexandria County D.C.",
+    "Shows proposed town of Jackson City in Alexandria County D.C. Relief shown by hachures. Depths shown by contours and soundings. Also covers Potomac River between Georgetown and Alexandria. Lead pencil on tracing paper. Probably traced by Dr. Joseph M. Toner from the original 1843 ms. map. Torn, wrinkled, and fold-lined. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "Torn, wrinkled, and fold-lined.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884j.ct004050",
+    "http://lccn.loc.gov/91683185",
+    "http://www.loc.gov/item/91683185/",
+    "http://www.loc.gov/resource/g3884j.ct004050/",
+    "https://hdl.loc.gov/loc.gmd/g3884j.ct004050",
+    "https://search.catalog.loc.gov/instances/b469711e-a420-58b6-9a7e-026836f32c0e",
+    "https://www.loc.gov/item/91683185/"
+  ],
+  "dct_issued_s": "1843",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884j/ct004050.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91683185/\"}",
+  "dct_spatial_sm": [
+    "jackson city",
+    "potomac river estuary",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Jackson City (Va.)--Maps, Manuscript",
+    "Manuscript maps",
+    "Potomac River Estuary--Maps, Manuscript",
+    "United States--Virginia--Jackson City"
+  ],
+  "dct_temporal_sm": [
+    "1843"
+  ],
+  "dct_title_s": "Map of Jackson City opposite the city of Washington at the south end of the Potomac Free Bridge",
+  "gbl_dateRange_drsim": [
+    "[1843 TO 1843]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1843
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91683185",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

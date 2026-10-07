@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 sheet(s).",
+    "504.",
+    "Aug 1914 - Aug 1930."
+  ],
+  "dct_identifier_sm": [
+    "https://www.loc.gov/item/sanborn09161_002/"
+  ],
+  "dct_issued_s": "1930-08",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn09161_002/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd428m/g4284m/g4284dm/g4284dm_g091611930/09161_1930-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn09161_002/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "Dryad",
+    "Lewis County",
+    "United States",
+    "Washington"
+  ],
+  "dct_temporal_sm": [
+    "1930-08"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Dryad, Lewis County, Washington.",
+  "gbl_dateRange_drsim": [
+    "[1930 TO 1930]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete.",
+    "Catalog access is public. Item-level access restrictions have not been refreshed since the historical package; consult the LOC catalog for current access."
+  ],
+  "gbl_indexYear_im": [
+    1930
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn09161_002",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

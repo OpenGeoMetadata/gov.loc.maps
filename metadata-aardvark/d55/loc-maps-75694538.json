@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Fowler & Kelly; Fowler, T. M. (Thaddeus Mortimer), 1842-1922",
+    "Includes illus.",
+    "Includes illus. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 260 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 260",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Morrisville, Pa., Fowler & Kelly, c1907."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3844h.pm002600",
+    "http://lccn.loc.gov/75694538",
+    "http://www.loc.gov/item/75694538/",
+    "http://www.loc.gov/resource/g3844h.pm002600/",
+    "https://hdl.loc.gov/loc.gmd/g3844h.pm002600",
+    "https://search.catalog.loc.gov/instances/3d6e318f-079c-5e29-8316-bcd59fca1f0b",
+    "https://www.loc.gov/item/75694538/"
+  ],
+  "dct_issued_s": "1907",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3844/g3844h/pm002600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694538/\"}",
+  "dct_spatial_sm": [
+    "havre de grace",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Havre de Grace (Md.)",
+    "United States--Maryland--Havre de Grace"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dct_title_s": "Birds eye view of Havre de Grace, Maryland 1907",
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694538",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

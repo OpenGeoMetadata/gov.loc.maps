@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Barker, W. (William), active 1795-1803, engraver; Carey, Mathew, 1760-1839, cartographer; Sweitzer, Henry, 1771-1807, publisher",
+    "Inset: Maryland west of Ft. Cumberland.",
+    "LC copy mounted on cloth.",
+    "Prime meridians: Philadelphia and London.",
+    "Publication statement: [Philadelphia, Pa.] : [H. Sweitzer], [1801]",
+    "Relief shown pictorially.",
+    "State II, according to Wheat & Brun.",
+    "Wheat, J.C. Maps and charts published in America before 1800, 513",
+    "vcFY24",
+    "vcFY24 Relief shown pictorially. Prime meridians: Philadelphia and London. Inset: Maryland west of Ft. Cumberland. State II, according to Wheat & Brun. LC copy mounted on cloth. Wheat, J.C. Maps and charts published in America before 1800, 513 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597276",
+    "http://www.loc.gov/item/2024597276/",
+    "http://www.loc.gov/resource/g3840.ct006118/",
+    "https://hdl.loc.gov/loc.gmd/g3840.ct006118",
+    "https://search.catalog.loc.gov/instances/08d0d180-e7e2-53c5-992f-9cc5d5af8223",
+    "https://www.loc.gov/item/2024597276/"
+  ],
+  "dct_issued_s": "1801",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd384:g3840:g3840:ct006118/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597276/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Maryland--Maps",
+    "United States--Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1801"
+  ],
+  "dct_title_s": "Maryland",
+  "gbl_dateRange_drsim": [
+    "[1801 TO 1801]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1801
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597276",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

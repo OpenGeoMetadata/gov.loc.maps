@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Imperfect: Some tears on edge and several holes.",
+    "Includes col. ill.",
+    "LC Nautical charts on vellum ; 10",
+    "Matted and mounted between sheets of transparent lucite.",
+    "Pen-and-ink; black, brown, green, and red.",
+    "Publication statement: [ca. 1500]",
+    "Seems to be in Spanish.",
+    "Title supplied by cataloger.",
+    "Title supplied by cataloger. Pen-and-ink; black, brown, green, and red. Trimmed to a rough rectangle. Matted and mounted between sheets of transparent lucite. Includes col. ill. Imperfect: Some tears on edge and several holes. LC Nautical charts on vellum ; 10 Available also through the Library of Congress Web site as a raster image. Seems to be in Spanish.",
+    "Trimmed to a rough rectangle."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4412c.ct002415r",
+    "http://hdl.loc.gov/loc.gmd/g4412c.ct002415v",
+    "http://lccn.loc.gov/2008628167",
+    "http://www.loc.gov/item/2008628167/",
+    "http://www.loc.gov/resource/g4412c.ct002415r/",
+    "http://www.loc.gov/resource/g4412c.ct002415v/",
+    "https://hdl.loc.gov/loc.gmd/g4412c.ct002415r",
+    "https://hdl.loc.gov/loc.gmd/g4412c.ct002415v",
+    "https://search.catalog.loc.gov/instances/868695e3-39e3-5eaa-ac8a-73ef55c50b95",
+    "https://www.loc.gov/item/2008628167/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4412/g4412c/ct002415r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008628167/\"}",
+  "dct_spatial_sm": [
+    "central america",
+    "mexico",
+    "pacific coast",
+    "south america"
+  ],
+  "dct_subject_sm": [
+    "Central America",
+    "Coasts--Pacific Coast (Central America)--Maps--Early works to 1800",
+    "Coasts--Pacific Coast (Mexico)--Maps--Early works to 1800",
+    "Coasts--Pacific Coast (South America)--Maps--Early works to 1800",
+    "Mexico",
+    "Pacific Coast (Central America)--Maps--Early works to 1800",
+    "Pacific Coast (Mexico)--Maps--Early works to 1800",
+    "Pacific Coast (South America)--Maps--Early works to 1800",
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1500",
+    "[ca. 1500]"
+  ],
+  "dct_title_s": "[Portolan chart of the Pacific coast from Mexico to northern Chile]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008628167",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

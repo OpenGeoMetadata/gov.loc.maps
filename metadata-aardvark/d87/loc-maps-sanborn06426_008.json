@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "26 sheet(s).",
+    "Oct 1925.",
+    "Oct 1925. 26 sheet(s). Other places as they appear on original: West Hickory, Granite Falls, Brookford, Highland, Longview.",
+    "Other places as they appear on original: West Hickory, Granite Falls, Brookford, Highland, Longview.",
+    "Publication statement: Sanborn Map Company, Oct 1925"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3904hm.g3904hm_g064261925",
+    "http://www.loc.gov/item/sanborn06426_008/",
+    "http://www.loc.gov/resource/g3904hm.g3904hm_g064261925/",
+    "https://hdl.loc.gov/loc.gmd/g3904hm.g3904hm_g064261925",
+    "https://www.loc.gov/item/sanborn06426_008",
+    "https://www.loc.gov/item/sanborn06426_008/",
+    "https://www.loc.gov/resource/g3904hm.g3904hm_g064261925"
+  ],
+  "dct_issued_s": "1925-10",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn06426_008/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390m/g3904m/g3904hm/g3904hm_g064261925/06426_1925-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn06426_008/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "brookford",
+    "catawba county",
+    "granite falls",
+    "hickory",
+    "highland",
+    "longview",
+    "north carolina",
+    "united states",
+    "west hickory"
+  ],
+  "dct_temporal_sm": [
+    "1925-10"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Hickory, Catawba County, North Carolina.",
+  "gbl_dateRange_drsim": [
+    "[1925 TO 1925]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1925
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn06426_008",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

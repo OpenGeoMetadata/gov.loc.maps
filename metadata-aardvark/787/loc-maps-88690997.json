@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Rock Creek & park boundaries by Howell and Greenough. Topography by U.S. Coast & Geodetic Survey. Survey ... under direction of U.S. Geological Survey.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); Howell & Greenough; U.S. Coast and Geodetic Survey",
+    "DCP",
+    "Includes notes.",
+    "LC copy missing large internal section and mounted on cloth backing.",
+    "Publication statement: [Washington? : s.n., 1890]",
+    "Relief shown by contours and hachures.",
+    "Relief shown by contours and hachures. \"Rock Creek & park boundaries by Howell and Greenough. Topography by U.S. Coast & Geodetic Survey. Survey ... under direction of U.S. Geological Survey.\" Includes notes. Available also through the Library of Congress Web site as a raster image. LC copy missing large internal section and mounted on cloth backing. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852n.ct005174",
+    "http://lccn.loc.gov/88690997",
+    "http://www.loc.gov/item/88690997/",
+    "http://www.loc.gov/resource/g3852n.ct005174/",
+    "https://hdl.loc.gov/loc.gmd/g3852n.ct005174",
+    "https://search.catalog.loc.gov/instances/2ec19459-04dd-5f13-a938-77a394045437",
+    "https://www.loc.gov/item/88690997/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852n/ct005174.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690997/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington"
+  ],
+  "dct_subject_sm": [
+    "National Zoological Park (U.S.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1889 d1890"
+  ],
+  "dct_title_s": "Map of National Zoological Park, D.C.",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-88690997",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

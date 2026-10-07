@@ -1,0 +1,48 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Bureau of Public Roads. District No. 4.",
+    "Covers Wisconsin, Minnesota, South Dakota, and North Dakota.",
+    "Covers Wisconsin, Minnesota, South Dakota, and North Dakota. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: St. Paul, Minn. : The District, [1925?]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/90682085",
+    "http://www.loc.gov/item/90682085/",
+    "http://www.loc.gov/resource/g4061p.ct011760/",
+    "https://hdl.loc.gov/loc.gmd/g4061p.ct011760",
+    "https://search.catalog.loc.gov/instances/3d0864bf-42b6-58a6-be94-4457aec2b045",
+    "https://www.loc.gov/item/90682085/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd406/g4061/g4061p/ct011760.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90682085/\"}",
+  "dct_spatial_sm": [
+    "middle west",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Traffic flow--Middle West--Maps",
+    "United States--Middle West"
+  ],
+  "dct_temporal_sm": [
+    "1924",
+    "St. Paul, Minn. : The District, [1925?]"
+  ],
+  "dct_title_s": "1924 traffic chart, state highway systems : [North Central States]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90682085",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

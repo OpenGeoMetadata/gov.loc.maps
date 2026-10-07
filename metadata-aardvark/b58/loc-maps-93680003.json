@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"10-92.\"",
+    "\"CC.\"",
+    "\"September 1992 1000177.\"",
+    "\"September 1992 1000177.\" \"10-92.\" Includes tables indicating project numbers and locations. \"CC.\" Available also through the Library of Congress Web site as a raster image. ARP",
+    "ARP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes tables indicating project numbers and locations.",
+    "Publication statement: Ft. Worth, TX : USDA-SCS-National Cartographic Center ; [Harrisburg : State Conservationist, distributor], 1992."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3821n.ct007918",
+    "http://lccn.loc.gov/93680003",
+    "http://www.loc.gov/item/93680003/",
+    "http://www.loc.gov/resource/g3821n.ct007918/",
+    "https://hdl.loc.gov/loc.gmd/g3821n.ct007918",
+    "https://search.catalog.loc.gov/instances/b8727154-304e-5a6c-8ace-0772991069d6",
+    "https://www.loc.gov/item/93680003/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3821/g3821n/ct007918.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93680003/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Dams--Pennsylvania--Maps",
+    "Flood control--Pennsylvania--Maps",
+    "United States--Pennsylvania",
+    "Watershed management--Pennsylvania--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Watershed structures in Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93680003",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

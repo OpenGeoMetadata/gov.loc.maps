@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"To. 1. Pag. 138.\"",
+    "AACR2: 100; 651/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Le Page du Pratz, -1775",
+    "LC Maps of North America, 1750-1789, 1671",
+    "Publication statement: [Paris, 1758]",
+    "Relief shown pictorially and by hachures.",
+    "Relief shown pictorially and by hachures. \"To. 1. Pag. 138.\" Scale ca. 1:8,500,000. LC Maps of North America, 1750-1789, 1671 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 651/2",
+    "Scale ca. 1:8,500,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4010.ar167100",
+    "http://lccn.loc.gov/74692885",
+    "http://www.loc.gov/item/74692885/",
+    "http://www.loc.gov/resource/g4010.ar167100/",
+    "https://hdl.loc.gov/loc.gmd/g4010.ar167100",
+    "https://search.catalog.loc.gov/instances/dd0d655a-3274-5acf-a44b-6b3e33d409e3",
+    "https://www.loc.gov/item/74692885/"
+  ],
+  "dct_issued_s": "1758",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4010/g4010/ar167100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692885/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "mississippi",
+    "mississippi valley",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Louisiana--Maps--Early works to 1800",
+    "Mississippi Valley--Maps--Early works to 1800",
+    "United States--Louisiana",
+    "United States--Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "1758"
+  ],
+  "dct_title_s": "Carte de la Louisiane colonie française avec le cours du Fleuve St. Louis, les rivières adjacentes, les nations des naturels, les etablissems. français et les mines",
+  "gbl_dateRange_drsim": [
+    "[1758 TO 1758]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1758
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692885",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

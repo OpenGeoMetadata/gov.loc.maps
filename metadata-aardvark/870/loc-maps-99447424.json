@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Poole Brothers",
+    "Copyright no. class F 49617, Apr. 11, 1925.",
+    "Description derived from published bibliography.",
+    "Library of Congress. Civil War maps (2nd ed.), 282.5",
+    "Map accompanies pamphlet entitled Vicksburg for the Tourist, rev. ed. ([Chicago] Passenger Department, Illinois Central System, 1925) 32 p.",
+    "Map accompanies pamphlet entitled Vicksburg for the Tourist, rev. ed. ([Chicago] Passenger Department, Illinois Central System, 1925) 32 p. Copyright no. class F 49617, Apr. 11, 1925. Panoramic map in which \"black lines indicate the Union trenches,\" \"red lines indicate the Confederate line of defense,\" \"white lines show the park roads,\" and \"the stars mark general headquarters.\" Description derived from published bibliography. Scale not given. Library of Congress. Civil War maps (2nd ed.), 282.5 Available also through the Library of Congress web site as raster image.",
+    "Panoramic map in which \"black lines indicate the Union trenches,\" \"red lines indicate the Confederate line of defense,\" \"white lines show the park roads,\" and \"the stars mark general headquarters.\"",
+    "Publication statement: Chicago, Poole Bros., c1925.",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3984v.cw0282500",
+    "http://lccn.loc.gov/99447424",
+    "http://www.loc.gov/item/99447424/",
+    "http://www.loc.gov/resource/g3984v.cw0282500/",
+    "https://hdl.loc.gov/loc.gmd/g3984v.cw0282500",
+    "https://search.catalog.loc.gov/instances/a279bb54-b839-507a-8a11-b85cce10d248",
+    "https://www.loc.gov/item/99447424/"
+  ],
+  "dct_issued_s": "1925",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3984/g3984v/cw0282500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447424/\"}",
+  "dct_spatial_sm": [
+    "mississippi",
+    "united states",
+    "vicksburg national military park"
+  ],
+  "dct_subject_sm": [
+    "United States--Mississippi--Vicksburg National Military Park",
+    "Vicksburg National Military Park (Miss.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "dct_title_s": "The Vicksburg National Military Park and vicinity showing lines of siege and defense of the city. National cemetery in background",
+  "gbl_dateRange_drsim": [
+    "[1925 TO 1925]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1925
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447424",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

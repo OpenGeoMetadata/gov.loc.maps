@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Standard map series designation: [Series] A.M.S. 1101",
+    "[Series] A.M.S. 1101"
+  ],
+  "dct_description_sm": [
+    "Also shows shipping routes and time zones.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service, cartographer, issuing body",
+    "Publication statement: Washington : Army Map Service, Corps of Engineers, 1954.",
+    "Relief shown by shading, gradient tints, and spot heights.",
+    "Relief shown by shading, gradient tints, and spot heights. Also shows shipping routes and time zones. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map55000618",
+    "http://www.loc.gov/item/map55000618/",
+    "http://www.loc.gov/resource/g3200m.gct00152/",
+    "https://hdl.loc.gov/loc.gmd/g3200m.gct00152",
+    "https://search.catalog.loc.gov/instances/ec2cc455-d672-5799-982f-5a50ac53c467",
+    "https://www.loc.gov/item/map55000618/"
+  ],
+  "dct_issued_s": "1954",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3m/g3200m/g3200m/gct00152/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/map55000618/\"}",
+  "dct_spatial_sm": [
+    "earth {planet"
+  ],
+  "dct_subject_sm": [
+    "Earth {Planet}",
+    "Trade routes--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "dct_title_s": "The world, less polar regions",
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1954]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map55000618",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

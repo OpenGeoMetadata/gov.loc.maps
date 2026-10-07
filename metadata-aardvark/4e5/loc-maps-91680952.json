@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Sánchez, Josef María",
+    "LC Luso-Hispanic World, 975",
+    "Maggs number annotated in pencil in lower right corner: 276.",
+    "Mounted on cloth backing.",
+    "Oriented with north to the right.",
+    "Oriented with north to the right. Pen-and-ink and pencil. Mounted on cloth backing. Maggs number annotated in pencil in lower right corner: 276. LC Luso-Hispanic World, 975 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Pen-and-ink and pencil.",
+    "Publication statement: [1783]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4032s.lh000975",
+    "http://lccn.loc.gov/91680952",
+    "http://www.loc.gov/item/91680952/",
+    "http://www.loc.gov/resource/g4032s.lh000975/",
+    "https://hdl.loc.gov/loc.gmd/g4032s.lh000975",
+    "https://search.catalog.loc.gov/instances/53d86c25-c5c4-5543-8b8a-a2c218513f24",
+    "https://www.loc.gov/item/91680952/"
+  ],
+  "dct_issued_s": "1783",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032s/lh000975.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91680952/\"}",
+  "dct_spatial_sm": [
+    "san antonio bay region",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Texas--San Antonio Bay Region--Maps--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "San Antonio Bay Region (Tex.)--Maps, Manuscript--Early works to 1800",
+    "United States--Texas--San Antonio Bay Region"
+  ],
+  "dct_temporal_sm": [
+    "1783"
+  ],
+  "dct_title_s": "Plano del Lago de San Bernardo en el Seno Mexicano",
+  "gbl_dateRange_drsim": [
+    "[1783 TO 1783]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1783
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91680952",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: United States. Army. Illinois Infantry Regiment, 13th (1861-1864)",
+    "Description derived from published bibliography.",
+    "From its Military history and reminiscences of the Thirteenth regiment of Illinois volunteer infantry in the Civil War in the United States, 1861-65. Prepared by a committee of the regiment, 1891. Chicago, Woman's Temperance Publishing Association, 1892. Facing p. 366.",
+    "From its Military history and reminiscences of the Thirteenth regiment of Illinois volunteer infantry in the Civil War in the United States, 1861-65. Prepared by a committee of the regiment, 1891. Chicago, Woman's Temperance Publishing Association, 1892. Facing p. 366. Map indicates troop positions \"when Gen. Grant took command, Oct. 23, 1863,\" and on November 23, 24, and 25. Description derived from published bibliography. Scale ca 1:73,000. Library of Congress. Civil War maps (2nd ed.), 400.2 Available also through the Library of Congress web site as raster image.",
+    "Library of Congress. Civil War maps (2nd ed.), 400.2",
+    "Map indicates troop positions \"when Gen. Grant took command, Oct. 23, 1863,\" and on November 23, 24, and 25.",
+    "Publication statement: [Chicago, Woman's Temperance Publishing Association, 1892]",
+    "Scale ca 1:73,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3964c.cw0400200",
+    "http://lccn.loc.gov/99448837",
+    "http://www.loc.gov/item/99448837/",
+    "http://www.loc.gov/resource/g3964c.cw0400200/",
+    "https://hdl.loc.gov/loc.gmd/g3964c.cw0400200",
+    "https://search.catalog.loc.gov/instances/330f0b45-de72-5b87-ab23-eb16abac2db2",
+    "https://www.loc.gov/item/99448837/"
+  ],
+  "dct_issued_s": "1892",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964c/cw0400200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448837/\"}",
+  "dct_spatial_sm": [
+    "chattanooga",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Chattanooga (Tenn.)--History--Civil war, 1861-1865",
+    "Chattanooga, Battle of, Chattanooga, Tenn",
+    "Chattanooga, Battle of, Chattanooga, Tenn., 1863--Maps",
+    "United States--Tennessee--Chattanooga"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "dct_title_s": "Battlefield of Chatanooga. [October-November 1863]",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448837",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

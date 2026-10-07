@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Eastern Region",
+    "Folded title: Green Mountain National Forest.",
+    "Folded title: Green Mountain National Forest. Relief shown pictorially and by spot heights. Includes historical notes, location map, and ill. Text and ill. on verso. Scale ca. 1:150,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes historical notes, location map, and ill.",
+    "Publication statement: [Milwaukee] : The Region, 1953.",
+    "Relief shown pictorially and by spot heights.",
+    "Scale ca. 1:150,000.",
+    "Text and ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3752g.ct005730",
+    "http://lccn.loc.gov/78695354",
+    "http://www.loc.gov/item/78695354/",
+    "http://www.loc.gov/resource/g3752g.ct005730/",
+    "https://hdl.loc.gov/loc.gmd/g3752g.ct005730",
+    "https://search.catalog.loc.gov/instances/950b9f65-1906-55a9-beb4-e4499d6a64f9",
+    "https://www.loc.gov/item/78695354/"
+  ],
+  "dct_issued_s": "1953",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3752/g3752g/ct005730.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78695354/\"}",
+  "dct_spatial_sm": [
+    "green mountain national forest",
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Green Mountain National Forest (Vt.)--Maps",
+    "United States--Vermont--Green Mountain National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "dct_title_s": "Green Mountain National Forest, Vermont",
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1953]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78695354",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

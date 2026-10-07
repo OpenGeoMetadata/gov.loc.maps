@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Boschke, A.",
+    "DCP",
+    "LC copy 1 mounted on cloth backing. Copy 2 soiled, annotated in lead and col. pencils, and missing corner sections.",
+    "Oriented with north toward the upper left.",
+    "Partial cadastral map showing some landowners' names in rural areas.",
+    "Partial cadastral map showing some landowners' names in rural areas. Relief shown by contours. Depths shown by contours and soundings. Oriented with north toward the upper left. Available also through the Library of Congress Web site as a raster image. LC copy 1 mounted on cloth backing. Copy 2 soiled, annotated in lead and col. pencils, and missing corner sections. 2 copies DCP",
+    "Publication statement: [Washington? : s.n., 1880?]",
+    "Relief shown by contours. Depths shown by contours and soundings."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.la002271",
+    "http://hdl.loc.gov/loc.gmd/g3850.la002272",
+    "http://lccn.loc.gov/88693460",
+    "http://www.loc.gov/item/88693460/",
+    "http://www.loc.gov/resource/g3850.la002271/",
+    "http://www.loc.gov/resource/g3850.la002272/",
+    "https://hdl.loc.gov/loc.gmd/g3850.la002271",
+    "https://hdl.loc.gov/loc.gmd/g3850.la002272",
+    "https://search.catalog.loc.gov/instances/eff2cf0f-9f92-55c0-b2bb-0160528b11e6",
+    "https://www.loc.gov/item/88693460/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/la002271.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693460/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1880",
+    "[Washington? : s.n., 1880?]"
+  ],
+  "dct_title_s": "Topographical map of the District of Columbia",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-88693460",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

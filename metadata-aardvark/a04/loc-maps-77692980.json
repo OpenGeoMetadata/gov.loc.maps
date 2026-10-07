@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824",
+    "LC Maps of North America, 1750-1789, 963",
+    "LC copy imperfect: Deteriorated along fold and upper and lower margins. Publication information trimmed from lower margin.",
+    "Publication statement: London, 1776?]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. Shows coast of Essex County, Massachusetts and part of Rockingham County, New Hampshire. Scale ca. 1:52,000. LC Maps of North America, 1750-1789, 963 Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Deteriorated along fold and upper and lower margins. Publication information trimmed from lower margin. Vault AACR2",
+    "Scale ca. 1:52,000.",
+    "Shows coast of Essex County, Massachusetts and part of Rockingham County, New Hampshire.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3762c.ar096300",
+    "http://lccn.loc.gov/77692980",
+    "http://www.loc.gov/item/77692980/",
+    "http://www.loc.gov/resource/g3762c.ar096300/",
+    "https://hdl.loc.gov/loc.gmd/g3762c.ar096300",
+    "https://search.catalog.loc.gov/instances/3cf2678d-60dd-53a5-ad71-2c3cbe7dfdfe",
+    "https://www.loc.gov/item/77692980/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3762/g3762c/ar096300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77692980/\"}",
+  "dct_spatial_sm": [
+    "atlantic coast",
+    "essex county",
+    "massachusetts",
+    "new hampshire",
+    "rockingham county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlantic Coast (N.H.)--Maps--Early works to 1800",
+    "Coasts--Massachusetts--Essex County--Maps--Early works to 1800",
+    "Coasts--New Hampshire--Rockingham County--Maps--Early works to 1800",
+    "Essex County (Mass.)--Maps--Early works to 1800",
+    "Nautical charts--Massachusetts--Essex County--Early works to 1800",
+    "Rockingham County (N.H.)--Maps--Early works to 1800",
+    "United States--Massachusetts--Essex County",
+    "United States--New Hampshire--Atlantic Coast",
+    "United States--New Hampshire--Rockingham County"
+  ],
+  "dct_temporal_sm": [
+    "1781",
+    "London, 1776?]"
+  ],
+  "dct_title_s": "[Coast of New Hampshire and Massachusetts from Great Boars Head to Marblehead Harbor",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77692980",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

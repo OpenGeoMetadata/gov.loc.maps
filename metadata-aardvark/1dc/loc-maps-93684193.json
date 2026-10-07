@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 92-5j",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [18--?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Pen-and-ink and watercolor. Text on verso unrelated to map. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 92-5j Vault",
+    "Text on verso unrelated to map.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7908p.ct004262r",
+    "http://hdl.loc.gov/loc.gmd/g7908p.ct004262v",
+    "http://lccn.loc.gov/93684193",
+    "http://www.loc.gov/item/93684193/",
+    "http://www.loc.gov/resource/g7908p.ct004262r/",
+    "http://www.loc.gov/resource/g7908p.ct004262v/",
+    "https://hdl.loc.gov/loc.gmd/g7908p.ct004262r",
+    "https://hdl.loc.gov/loc.gmd/g7908p.ct004262v",
+    "https://search.catalog.loc.gov/instances/f31457f1-3669-576a-9a1c-36055abe790a",
+    "https://www.loc.gov/item/93684193/"
+  ],
+  "dct_language_sm": [
+    "korean"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7908/g7908p/ct004262r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93684193/\"}",
+  "dct_spatial_sm": [
+    "korea",
+    "namdo",
+    "pʻyŏngan",
+    "pʻyŏngan-namdo"
+  ],
+  "dct_subject_sm": [
+    "Korea--Pʻyŏngan-namdo",
+    "Pʻyŏngan-namdo (Korea)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[18--?]"
+  ],
+  "dct_title_s": "[Pʻyŏngan-namdo chŏndo]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93684193",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

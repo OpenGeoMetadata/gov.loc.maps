@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Hotchkiss, Jedediah, 1828-1899",
+    "In pencil on verso: 165.",
+    "In upper right corner: 223.",
+    "LC Civil War maps (2nd ed.), H298",
+    "Pen-and-ink on paper, sectioned in 2, and mounted on cloth.",
+    "Shows names of some residents.",
+    "Shows names of some residents. Pen-and-ink on paper, sectioned in 2, and mounted on cloth. In upper right corner: 223. In pencil on verso: 165. LC Civil War maps (2nd ed.), H298 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883l.cwh00298",
+    "http://lccn.loc.gov/2005625181",
+    "http://www.loc.gov/item/2005625181/",
+    "http://www.loc.gov/resource/g3883l.cwh00298/",
+    "https://hdl.loc.gov/loc.gmd/g3883l.cwh00298",
+    "https://search.catalog.loc.gov/instances/bbe3a620-ab9e-54f8-a4b0-119e59761fe4",
+    "https://www.loc.gov/item/2005625181/"
+  ],
+  "dct_issued_s": "1871",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883l/cwh00298.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625181/\"}",
+  "dct_spatial_sm": [
+    "lunenburg county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Virginia--Lunenburg County--Maps",
+    "Lunenburg County (Va.)--Maps, Manuscript",
+    "United States--Virginia",
+    "United States--Virginia--Lunenburg County"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "dct_title_s": "Preliminary map of Lunenburg County, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1871
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625181",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

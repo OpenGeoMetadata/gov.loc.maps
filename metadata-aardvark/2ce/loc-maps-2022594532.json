@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: New York title collection--drawer 53",
+    "Alternate supplied title: New York title collection--roads 1916-1920"
+  ],
+  "dct_description_sm": [
+    "Publication statement: [Various places] : [various publishers], [1916-1920]",
+    "This record covers single road maps of New York, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and may also include photocopies of printed or manuscript single maps, multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single road maps of New York, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and may also include photocopies of printed or manuscript single maps, multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022594532",
+    "http://www.loc.gov/item/2022594532/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ny-053/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ny-053",
+    "https://search.catalog.loc.gov/instances/156e4104-ffd8-582b-9cbe-935610ae73e1",
+    "https://www.loc.gov/item/2022594532/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ny:-0:53:ny-053:ny-053-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022594532/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Roads--New York (State)--Maps",
+    "United States--New York"
+  ],
+  "dct_temporal_sm": [
+    "1916/1920"
+  ],
+  "dct_title_s": "[Maps of New York--roads 1916-1920]",
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1920]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1916
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022594532",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

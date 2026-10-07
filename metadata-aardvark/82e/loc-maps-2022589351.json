@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Alaska title collection--cities and towns Angoon-Eska",
+    "Alternate supplied title: Alaska title collection--drawer 48"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "If a map in this collection may be in copyright, there is no online image available.",
+    "Publication statement: [Various places] : [various publishers], [approximately 1867 to 1969]",
+    "This record covers single maps of Alaska cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and blueline prints and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps of Alaska cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and blueline prints and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. If a map in this collection may be in copyright, there is no online image available. Available also through the Library of Congress Web site as a raster image.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589351",
+    "http://www.loc.gov/item/2022589351/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ak-048/",
+    "http://www.loc.gov/resource/gmdtitlecolmaps.ak-048/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ak-048",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolmaps.ak-048",
+    "https://search.catalog.loc.gov/instances/8797696f-b6d9-5413-9ce9-0be80714077c",
+    "https://www.loc.gov/item/2022589351/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolmaps:ak:-0:48:ak-048:ak-048-01-01/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589351/\"}",
+  "dct_spatial_sm": [
+    "alaska",
+    "angoon",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Angoon (Alaska)--Maps",
+    "Cities and towns--Alaska--Maps",
+    "United States--Alaska",
+    "United States--Alaska--Angoon"
+  ],
+  "dct_temporal_sm": [
+    "1867",
+    "[Various places] : [various publishers], [approximately 1867 to 1969]"
+  ],
+  "dct_title_s": "[Maps of Alaska--cities and towns Angoon-Eska]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022589351",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Original do Arquivo Histórico de Macau.\"",
+    "\"Segundo os estudos do General Castello Branco em 1907.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Portugal. Comissão de Cartografia das Colónias",
+    "In upper right margin: Leal Senado.",
+    "Publication statement: [Lisbon] : Commissão de Cartographia [sic], 1912.",
+    "Relief shown by hachures and spot heights. Depths shown by soundings.",
+    "Relief shown by hachures and spot heights. Depths shown by soundings. \"Segundo os estudos do General Castello Branco em 1907.\" In upper right margin: Leal Senado. \"Original do Arquivo Histórico de Macau.\" Transfer line print. Available also through the Library of Congress Web site as a raster image.",
+    "Transfer line print."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7823m.ct005442",
+    "http://lccn.loc.gov/89696066",
+    "http://www.loc.gov/item/89696066/",
+    "http://www.loc.gov/resource/g7823m.ct005442/",
+    "https://hdl.loc.gov/loc.gmd/g7823m.ct005442",
+    "https://search.catalog.loc.gov/instances/4478787c-b8a7-51dc-a720-47e633669a8e",
+    "https://www.loc.gov/item/89696066/"
+  ],
+  "dct_issued_s": "1912",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7823/g7823m/ct005442.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89696066/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "macau",
+    "special administrative region"
+  ],
+  "dct_subject_sm": [
+    "China--Macau",
+    "Harbors--China--Macau (Special Administrative Region)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dct_title_s": "Reconhecimento hydrográphico [sic] do pôrto e rada de Macau",
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89696066",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyrighted October 1907 ...\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chesapeake and Potomac Telephone Company; Nash, J. O.; Norris Peters Co",
+    "DCP",
+    "E XXc 11785 U.S. Copyright Office",
+    "E XXc 11785 U.S. Copyright Office Shows block numbers. \"Copyrighted October 1907 ...\" Oriented with north toward the upper left. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Oriented with north toward the upper left.",
+    "Publication statement: Washington : Chesapeake & Potomac Telephone Co. : Printed and for sale by the Norris Peters Co., c1907.",
+    "Shows block numbers."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004510",
+    "http://lccn.loc.gov/87691451",
+    "http://www.loc.gov/item/87691451/",
+    "http://www.loc.gov/resource/g3850.ct004510/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004510",
+    "https://search.catalog.loc.gov/instances/bc7516e9-7f5d-5c9d-8e4a-3249e93b6d27",
+    "https://www.loc.gov/item/87691451/"
+  ],
+  "dct_issued_s": "1907",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004510.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691451/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "City planning--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dct_title_s": "Map of the District of Columbia, October 1907 : showing present and proposed streets : compiled form [sic] latest data at the Office of the Engineer Commissioner, District of Columbia",
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87691451",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

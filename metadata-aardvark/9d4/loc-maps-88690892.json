@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Lots for sale by A.L. Barber & Co.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing lot lines, buildings, and some vegetation.",
+    "Cadastral map showing lot lines, buildings, and some vegetation. \"Lots for sale by A.L. Barber & Co.\" Includes text. Available also through the Library of Congress Web site as a raster image. LC copy fold-lined, mounted on cloth backing, and annotated in lead pencil to show proposed street extensions. DCP",
+    "Contributors: A.L. Barber and Co; Albright, J. J.; McClelland, D.",
+    "DCP",
+    "Includes text.",
+    "LC copy fold-lined, mounted on cloth backing, and annotated in lead pencil to show proposed street extensions.",
+    "Publication statement: [Washington? : s.n., 188-?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852l.ct005008",
+    "http://lccn.loc.gov/88690892",
+    "http://www.loc.gov/item/88690892/",
+    "http://www.loc.gov/resource/g3852l.ct005008/",
+    "https://hdl.loc.gov/loc.gmd/g3852l.ct005008",
+    "https://search.catalog.loc.gov/instances/ab53ca96-54fb-5036-8089-ed2cbbe13664",
+    "https://www.loc.gov/item/88690892/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852l/ct005008.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690892/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "ledroit park",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "LeDroit Park (Washington, D.C.)--Maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--LeDroit Park"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Plan of LeDroit Park, Washington, D.C.",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690892",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

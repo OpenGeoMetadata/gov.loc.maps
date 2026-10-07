@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyrighted, 1891, by C.N. Caspar.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Caspar, C. N. (Carl Nicolaus), 1854-1925; Steinhagen, G., cartographer",
+    "Includes index.",
+    "Includes index. \"Copyrighted, 1891, by C.N. Caspar.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Milwaukee] : Wright's Milwaukee County Directory, 1892.; ©1891"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4123m.ct006865",
+    "http://lccn.loc.gov/2015593101",
+    "http://www.loc.gov/item/2015593101/",
+    "http://www.loc.gov/resource/g4123m.ct006865/",
+    "https://hdl.loc.gov/loc.gmd/g4123m.ct006865",
+    "https://search.catalog.loc.gov/instances/b4774974-94dd-589f-a251-03909355b54e",
+    "https://www.loc.gov/item/2015593101/"
+  ],
+  "dct_issued_s": "1892",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4123/g4123m/ct006865.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2015593101/\"}",
+  "dct_spatial_sm": [
+    "milwaukee county",
+    "oconomowoc",
+    "pewaukee",
+    "united states",
+    "waukesha",
+    "wauwatosa",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "Milwaukee County (Wis.)--Maps",
+    "Oconomowoc (Wis.)--Maps",
+    "Pewaukee (Wis.)--Maps",
+    "United States--Wisconsin--Milwaukee County",
+    "United States--Wisconsin--Oconomowoc",
+    "United States--Wisconsin--Pewaukee",
+    "United States--Wisconsin--Waukesha",
+    "United States--Wisconsin--Wauwatosa",
+    "Waukesha (Wis.)--Maps",
+    "Wauwatosa (Wis.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "dct_title_s": "Map of Milwaukee County and plans of Pewaukee, Oconomowoc, Wauwatosa, Waukesha",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2015593101",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

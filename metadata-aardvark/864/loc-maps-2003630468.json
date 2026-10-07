@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Banks, Nathaniel Prentiss, 1816-1894",
+    "Fold-lined, rubber-stamped in upper margin: Department of State, Library, O 9562.",
+    "Library of Congress. Civil War maps (2nd ed.), 447",
+    "Pen-and-ink (black/red/blue) with blue watercolor on verso showing through to recto.",
+    "Publication statement: [1863?]",
+    "Shows towns, rivers, roads, selected shipwrecks, and Civil War \"Points of occupation\" marked by U.S. flags.",
+    "Shows towns, rivers, roads, selected shipwrecks, and Civil War \"Points of occupation\" marked by U.S. flags. Pen-and-ink (black/red/blue) with blue watercolor on verso showing through to recto. Fold-lined, rubber-stamped in upper margin: Department of State, Library, O 9562. Library of Congress. Civil War maps (2nd ed.), 447 Available also through the Library of Congress Web site as a raster image. Transfer; State Dept.",
+    "Transfer; State Dept."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4032c.cw0447000",
+    "http://lccn.loc.gov/2003630468",
+    "http://www.loc.gov/item/2003630468/",
+    "http://www.loc.gov/resource/g4032c.cw0447000/",
+    "https://hdl.loc.gov/loc.gmd/g4032c.cw0447000",
+    "https://search.catalog.loc.gov/instances/0052fc6f-b2b5-5ef3-90bf-49fa8bccf874",
+    "https://www.loc.gov/item/2003630468/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032c/cw0447000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003630468/\"}",
+  "dct_spatial_sm": [
+    "gulf coast",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gulf Coast (Tex.)--History--Civil War, 1861-1865--Maps",
+    "Gulf Coast (Tex.)--Maps",
+    "Gulf Coast (Tex.)--Strategic aspects--Maps",
+    "United States--Texas--Gulf Coast"
+  ],
+  "dct_temporal_sm": [
+    "1863",
+    "[1863?]"
+  ],
+  "dct_title_s": "Texas Coast showing points of occupation of expedition under Maj. Gen. N.P. Banks : Nov'r 1863",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003630468",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

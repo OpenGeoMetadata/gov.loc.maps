@@ -1,0 +1,80 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "As needed",
+    "Contributors: United States. National Imagery and Mapping Agency",
+    "FID Internal feature number., ESRI",
+    "Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000.",
+    "This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.",
+    "This polygon dataset represents coastlines, countries, and oceans. This data set was originally created for mission planning for military operations. Other potential applications include cartographic representation and boundary determination. The original World Vector Shoreline (WVS) was a digital data file containing the shorelines, international boundaries, and country names of the world. WVS data were processed into NGAs Vector Product Format in 1995, resulting in the highest resolution demarcation of coastline globally available, the World Vector Shoreline Plus.",
+    "publication date.",
+    "vector digital data."
+  ],
+  "dct_identifier_sm": [
+    "http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&BBID=21232127&v3=1",
+    "http://shoreline.noaa.gov/data/datasheets/wvs.html",
+    "https://catalog.loc.gov/vwebv/holdingsInfo?bibId=21232127"
+  ],
+  "dct_issued_s": "9999-01-01",
+  "dct_language_sm": [
+    "undetermined"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalog.loc.gov/vwebv/holdingsInfo?bibId=21232127\"}",
+  "dct_spatial_sm": [
+    "africa",
+    "asia",
+    "australia",
+    "earth",
+    "eastern hemisphere",
+    "europe",
+    "north america",
+    "northern hemisphere",
+    "polar regions",
+    "south america",
+    "southern hemisphere",
+    "western hemisphere"
+  ],
+  "dct_subject_sm": [
+    "Africa",
+    "Asia",
+    "Australia",
+    "Boundaries",
+    "Eastern Hemisphere",
+    "Europe",
+    "North America",
+    "Northern Hemisphere",
+    "Polar Regions",
+    "Shorelines",
+    "South America",
+    "Southern Hemisphere",
+    "Western Hemisphere",
+    "World",
+    "boundaries",
+    "oceans",
+    "polygon"
+  ],
+  "dct_temporal_sm": [
+    "9999-01-01"
+  ],
+  "dct_title_s": "Vector Shoreline Area World 1995.",
+  "gbl_dateRange_drsim": [
+    "[9999 TO 9999]"
+  ],
+  "gbl_displayNote_sm": [
+    "Unrestricted Access Online.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    9999
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-bibid:21232127",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

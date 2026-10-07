@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Bird's-eye view. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 787 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Contributors: Fowler, T. M. (Thaddeus Mortimer), 1842-1922; Moyer, James B.",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 787",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Morrisville, Pa., T. M. Fowler & James B. Moyer [1901]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824h.pm007870",
+    "http://lccn.loc.gov/75693030",
+    "http://www.loc.gov/item/75693030/",
+    "http://www.loc.gov/resource/g3824h.pm007870/",
+    "https://hdl.loc.gov/loc.gmd/g3824h.pm007870",
+    "https://search.catalog.loc.gov/instances/f2a87067-74df-5172-8c47-7e0fa29070ff",
+    "https://www.loc.gov/item/75693030/"
+  ],
+  "dct_issued_s": "1901",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824h/pm007870.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693030/\"}",
+  "dct_spatial_sm": [
+    "butler county",
+    "harmony",
+    "harmony (butler county)",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Harmony (Butler County, Pa.)",
+    "United States--Pennsylvania--Harmony (Butler County)"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "dct_title_s": "Harmony, Butler County, Pennsylvania 1901",
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1901
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693030",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

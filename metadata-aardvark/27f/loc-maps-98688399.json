@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 110",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: H.H. Lloyd & Co",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 129",
+    "Publication statement: New York, 1871.",
+    "Scale ca. 1:1,300,000.",
+    "Township and county map showing drainage, cities and towns, and the named railroad network."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4141p.rr001290",
+    "http://lccn.loc.gov/98688399",
+    "http://www.loc.gov/item/98688399/",
+    "http://www.loc.gov/resource/g4141p.rr001290/",
+    "https://hdl.loc.gov/loc.gmd/g4141p.rr001290",
+    "https://search.catalog.loc.gov/instances/40d43607-0705-5bc8-86a9-3fa31a1078da",
+    "https://www.loc.gov/item/98688399/"
+  ],
+  "dct_issued_s": "1871",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd414/g4141/g4141p/rr001290.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688399/\"}",
+  "dct_spatial_sm": [
+    "minnesota",
+    "united states",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "Postal Service--Wisconsin--Maps",
+    "Postal service--Minnesota--Maps",
+    "Railroads--Minnesota--Maps",
+    "Railroads--Wisconsin--Maps",
+    "United States--Minnesota",
+    "United States--Wisconsin"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "dct_title_s": "Railroad and post office map of Minnesota and Wisconsin",
+  "gbl_dateRange_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1871
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688399",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

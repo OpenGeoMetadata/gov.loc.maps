@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Направление оленеводства и собаководства"
+  ],
+  "dct_description_sm": [
+    "Original map at: National Library of Russia",
+    "T︠S︡vetnai︠a︡. Vykhody koordinat ne otmecheny.",
+    "T︠S︡vetnai︠a︡. Vykhody koordinat ne otmecheny. Uslovnye znaki: vzroslye oleni s vydeleniem ezdovykh, vzroslye sobaki s vydeleniem ezdovykh, pastusheskikh, okhotnichikh. Original map at: National Library of Russia Цветная. Выходы координат не отмечены. Условные знаки: взрослые олени с выделением ездовых, взрослые собаки с выделением ездовых, пастушеских, охотничих.",
+    "Uslovnye znaki: vzroslye oleni s vydeleniem ezdovykh, vzroslye sobaki s vydeleniem ezdovykh, pastusheskikh, okhotnichikh.",
+    "Условные знаки: взрослые олени с выделением ездовых, взрослые собаки с выделением ездовых, пастушеских, охотничих.",
+    "Цветная. Выходы координат не отмечены."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693922",
+    "http://www.loc.gov/item/2018693922/",
+    "http://www.loc.gov/resource/gdc.2018693922/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.nmap050",
+    "https://search.catalog.loc.gov/instances/892a1a3b-5269-5a79-8eea-aad31f9f3637",
+    "https://www.loc.gov/item/2018693922/"
+  ],
+  "dct_issued_s": "1932",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693922.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693922/2018693922.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693922:nmap050/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693922/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Olenevodstvo",
+    "Russian Federation",
+    "Siberia",
+    "Sobakovodstvo",
+    "maps"
+  ],
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "dct_title_s": "Napravlenie olenevodstva i sobakovodstva",
+  "gbl_dateRange_drsim": [
+    "[1932 TO 1932]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1932
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693922",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

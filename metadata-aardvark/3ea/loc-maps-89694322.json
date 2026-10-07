@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hygienic Laboratory (U.S.)",
+    "DCP",
+    "From: Bulletin 78, Hygienic Laboratory, P.H. & M.H.S.",
+    "From: Bulletin 78, Hygienic Laboratory, P.H. & M.H.S. Oriented with north toward the upper left. Includes note. Available also through the Library of Congress Web site as a raster image. LC copy annotated in pencil and darkened. DCP",
+    "Includes note.",
+    "LC copy annotated in pencil and darkened.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Washington? : Hygienic Laboratory, 1910?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851e.ct004584",
+    "http://lccn.loc.gov/89694322",
+    "http://www.loc.gov/item/89694322/",
+    "http://www.loc.gov/resource/g3851e.ct004584/",
+    "https://hdl.loc.gov/loc.gmd/g3851e.ct004584",
+    "https://search.catalog.loc.gov/instances/597956ca-d99b-5522-9af7-88abb6142c71",
+    "https://www.loc.gov/item/89694322/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct004584.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89694322/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Diphtheria--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1909",
+    "[Washington? : Hygienic Laboratory, 1910?]"
+  ],
+  "dct_title_s": "Map no. 15, District of Columbia, showing the location of residences at which cases of diphtheria occurred in 1909",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89694322",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

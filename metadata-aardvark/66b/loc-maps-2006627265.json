@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nova orbis terrarum delineatio singulari ratione accommodata meridiano tabb. Rudolphi astronomicarum"
+  ],
+  "dct_description_sm": [
+    "\"Although dated 1630, this \"modern depiction of the world,\" by Philippus Eckebrecht appears to be a later reprinting. It is dedicated to Emperor Leopold I of the Holy Roman Empire, who came to the throne only in 1658. The map was originally produced at the behest of astronomer Johannes Kepler (1571-1630) to reflect his new calculations of longitude and latitude based on planetary observation. First published in 1627, Kepler's astronomical tables were vastly more accurate than any previously existing. Framed by the two-headed eagle of the Holy Roman Empire, the map's design reflects the way in which in the 17th-century science was enlisted to serve political ends. The central hemisphere focuses on Europe, which is located over the eagle's body, while the eagle's wings span the entire globe. The imperial symbolism was used on Habsburg maps of the period and was an allusion to wars in the west with France and in the east with the Ottoman Empire. The central meridian runs through the Danish island that was home to the 16th-century observatory of Kepler's mentor, the astronomer Tycho Brahe. When Kepler succeeded Brahe as Imperial Mathematician in Prague under the reign of Rudolf II, he relied on Brahe's data to finalize his own calculations, known as the Rudolphine Tables.\" World Digital Library.",
+    "Appears in Johannes Kepler's Tabvlae Rudolphinae. Ulm : Johannes Saur, 1627-30.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bricker, Charles. Landmarks of mapmaking. 1977, p. 252-3",
+    "Contributors: Eckebrecht, Philipp, 1594-1667; Kepler, Johannes, 1571-1630; Walch, J. P. (Johann Philipp)",
+    "Included in map folder: Folder (24 x 31 cm.) containing 7 photocopies from printed references and 1 letter of correspondence all describing this map. Also included is a section of the original map folder with a manuscript note regarding the date of publication and representation in Kepler's atlas.",
+    "Includes note and ill. of double eagle.",
+    "LC copy imperfect: 3 vertical fold lines. Pin holes in cloth tape in all corners.",
+    "Map drawn in three parts (left to right): 1 half-hemisphere (15 cm. radius), 1 hemisphere (29 cm. in diameter), and 1 half-hemisphere (15 cm. radius).",
+    "Mounted on cloth.",
+    "Prime meridian based on the astronomer Tycho Brahe's observatory in Denmark.",
+    "Publication statement: [Nuremberg] : Philippus Eckebrecht, 1630.",
+    "Relief shown pictorially.",
+    "Shirley, Rodney W. Mapping of the world. 1983, p. 358-9"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct001471",
+    "http://lccn.loc.gov/2006627265",
+    "http://www.loc.gov/item/2006627265/",
+    "http://www.loc.gov/resource/g3200.ct001471/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct001471",
+    "https://search.catalog.loc.gov/instances/85ea9d18-0760-5ac4-8917-1e93aeb1a580",
+    "https://www.loc.gov/item/2006627265/"
+  ],
+  "dct_issued_s": "1630",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct001471.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006627265/\"}",
+  "dct_spatial_sm": [
+    "earth"
+  ],
+  "dct_subject_sm": [
+    "Earth",
+    "World maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1630"
+  ],
+  "dct_title_s": "Noua orbis terrarum delineatio singulari ratione accommodata meridiano tabb. Rudolphi astronomicarum",
+  "gbl_dateRange_drsim": [
+    "[1630 TO 1630]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1630
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006627265",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

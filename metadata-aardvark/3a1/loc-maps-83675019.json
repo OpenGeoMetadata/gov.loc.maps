@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Form AACR2: ga37 2007-12-03",
+    "Publication statement: [18--?]",
+    "Romanized.",
+    "Romanized. Available also through the Library of Congress Web site as a raster image. Form AACR2: ga37 2007-12-03"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7903cm.gct00156",
+    "http://lccn.loc.gov/83675019",
+    "http://www.loc.gov/item/83675019/",
+    "http://www.loc.gov/resource/g7903cm.gct00156/",
+    "https://hdl.loc.gov/loc.gmd/g7903cm.gct00156",
+    "https://search.catalog.loc.gov/instances/9b1c34ab-2ae5-5be0-bef4-abe46062681d",
+    "https://www.loc.gov/item/83675019/"
+  ],
+  "dct_language_sm": [
+    "korean"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7m/g7903m/g7903cm/gct00156/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83675019/\"}",
+  "dct_spatial_sm": [
+    "bukto",
+    "chʻungchʻŏng",
+    "chʻungchʻŏng-bukto",
+    "chʻungchʻŏng-namdo",
+    "japan",
+    "korea",
+    "namdo"
+  ],
+  "dct_subject_sm": [
+    "Chʻungchʻŏng-bukto (Korea)--Maps",
+    "Chʻungchʻŏng-namdo (Korea)--Maps",
+    "Japan",
+    "Japan--Maps",
+    "Korea--Chʻungchʻŏng-bukto",
+    "Korea--Chʻungchʻŏng-namdo"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[18--?]"
+  ],
+  "dct_title_s": "Haedong chido. Hosŏ chŏndo",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83675019",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Pen-and-ink and watercolor.",
+    "Pen-and-ink and watercolor. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [1721]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3984b.ct000659",
+    "http://lccn.loc.gov/2001628147",
+    "http://www.loc.gov/item/2001628147/",
+    "http://www.loc.gov/resource/g3984b.ct000659/",
+    "https://hdl.loc.gov/loc.gmd/g3984b.ct000659",
+    "https://search.catalog.loc.gov/instances/627433f4-0a75-5711-861b-426df332bdc0",
+    "https://www.loc.gov/item/2001628147/"
+  ],
+  "dct_issued_s": "1721",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3984/g3984b/ct000659.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001628147/\"}",
+  "dct_spatial_sm": [
+    "biloxi",
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Biloxi (Miss.)--Maps",
+    "Fortification--Mississippi--Biloxi--Maps",
+    "United States--Mississippi--Biloxi"
+  ],
+  "dct_temporal_sm": [
+    "1721"
+  ],
+  "dct_title_s": "Plan du fort projetteʼ au nouveau Bilocxy",
+  "gbl_dateRange_drsim": [
+    "[1721 TO 1721]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1721
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001628147",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

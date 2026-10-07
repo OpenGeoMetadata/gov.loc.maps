@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Another edition.",
+    "Another edition. Completely redrawn edition, with errors corrected. Description derived from published bibliography. Scale 1:1,500,000. LC Civil War Maps (2nd ed.), 14.5 Available also through the Library of Congress web site as raster image.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Completely redrawn edition, with errors corrected.",
+    "Contributors: Mahon, Charles",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 14.5",
+    "Publication statement: Phil. Bowen & Co. lith. [1861]",
+    "Scale 1:1,500,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3980.cw0014500",
+    "http://lccn.loc.gov/99447039",
+    "http://www.loc.gov/item/99447039/",
+    "http://www.loc.gov/resource/g3980.cw0014500/",
+    "https://hdl.loc.gov/loc.gmd/g3980.cw0014500",
+    "https://search.catalog.loc.gov/instances/263e1559-d4a7-57fc-88d4-f056c13e4ef9",
+    "https://www.loc.gov/item/99447039/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3980/g3980/cw0014500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447039/\"}",
+  "dct_spatial_sm": [
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mississippi--Maps",
+    "United States--Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Map of the alluvial region of the Mississippi",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447039",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

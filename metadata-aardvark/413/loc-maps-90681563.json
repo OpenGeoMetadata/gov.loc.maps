@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Alternate title: Craddock's map of McLennan County.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Craddock, C. Y.",
+    "Cover title.",
+    "Cover title. Alternate title: Craddock's map of McLennan County. Available also through the Library of Congress Web site as a raster image. LC copy annotated in ink and stamped to show deep test locations on a cadastral base map.",
+    "LC copy annotated in ink and stamped to show deep test locations on a cadastral base map.",
+    "Publication statement: Waco, Tex. : C.Y. Craddock, c1919."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/90681563",
+    "http://www.loc.gov/item/90681563/",
+    "http://www.loc.gov/resource/g4033m.la002385/",
+    "https://hdl.loc.gov/loc.gmd/g4033m.la002385",
+    "https://search.catalog.loc.gov/instances/5eaaaa48-8c7b-59a4-b5eb-e26344393dda",
+    "https://www.loc.gov/item/90681563/"
+  ],
+  "dct_issued_s": "1919",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033m/la002385.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90681563/\"}",
+  "dct_spatial_sm": [
+    "mclennan county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Oil wells--Texas--McLennan County--Maps",
+    "Real property--Texas--McLennan County--Maps",
+    "United States--Texas--McLennan County"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "dct_title_s": "McLennan County, showing location shallow oil wells, deep tests now drilling, and locations made",
+  "gbl_dateRange_drsim": [
+    "[1919 TO 1919]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1919
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90681563",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

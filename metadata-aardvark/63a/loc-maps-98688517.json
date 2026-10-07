@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rand McNally and Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 258",
+    "Publication statement: Chicago, 1879.",
+    "Scale ca. 1:2,000,000.",
+    "Shows relief by hachures, drainage, counties, cities and towns, roads, trails, and proposed or surveyed railroad lines. Title from cover."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4320.rr002580",
+    "http://lccn.loc.gov/98688517",
+    "http://www.loc.gov/item/98688517/",
+    "http://www.loc.gov/resource/g4320.rr002580/",
+    "https://hdl.loc.gov/loc.gmd/g4320.rr002580",
+    "https://search.catalog.loc.gov/instances/c4f2cc98-006e-566d-ae64-b7eda607ecc6",
+    "https://www.loc.gov/item/98688517/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd432/g4320/g4320/rr002580.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688517/\"}",
+  "dct_spatial_sm": [
+    "new mexico",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Mexico--Maps",
+    "United States--New Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Indexed map of New Mexico showing stage lines, counties lake & rivers",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688517",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

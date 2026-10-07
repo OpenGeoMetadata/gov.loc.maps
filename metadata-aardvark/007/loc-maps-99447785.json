@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows railroads.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Russia. Pereselencheskoe upravlenīe; Shokalʹskiĭ, I︠U︡. M. (I︠U︡liĭ Mikhaĭlovich), 1856-1940",
+    "In Russian.",
+    "Includes table of extreme high elevations.",
+    "LC copy torn at edge, taped, inscribed in ink by the author in upper margin: The Congress Library, Washington D.C., from J. de Schokalsky in remembrance of 2 visits--1912.",
+    "Publication statement: [St. Petersburg?] : Izd. Pereselencheskago upravlenīi︠a︡ Glavn. upr. zemleustr. i zemled., [1912?]",
+    "Pulkovo (St. Petersburg) meridian.",
+    "Relief and depths shown by gradient tints.",
+    "Relief and depths shown by gradient tints. Also shows railroads. Pulkovo (St. Petersburg) meridian. Includes table of extreme high elevations. Available also through the Library of Congress Web site as a raster image. In Russian. LC copy torn at edge, taped, inscribed in ink by the author in upper margin: The Congress Library, Washington D.C., from J. de Schokalsky in remembrance of 2 visits--1912."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7001c.mf000024",
+    "http://lccn.loc.gov/99447785",
+    "http://www.loc.gov/item/99447785/",
+    "http://www.loc.gov/resource/g7001c.mf000024/",
+    "https://hdl.loc.gov/loc.gmd/g7001c.mf000024",
+    "https://search.catalog.loc.gov/instances/b1edb89d-72be-5cc7-8673-31cea70b369c",
+    "https://www.loc.gov/item/99447785/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7001/g7001c/mf000024.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447785/\"}",
+  "dct_spatial_sm": [
+    "russia"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Russia--Maps",
+    "Russia",
+    "Russia--Maps, Physical"
+  ],
+  "dct_temporal_sm": [
+    "1912",
+    "[St. Petersburg?] : Izd. Pereselencheskago upravlenīi︠a︡ Glavn. upr. zemleustr. i zemled., [1912?]"
+  ],
+  "dct_title_s": "Gipsometricheskai︠a︡ karta Rossīĭskoĭ Imperīi : (opyt izobrazhenīi︠a︡ relʹefa Imperīi)",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447785",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

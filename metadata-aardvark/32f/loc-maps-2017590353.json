@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Kanab quadrangle, Utah, geologic map"
+  ],
+  "dct_description_sm": [
+    "\"Base map from U.S.G.S. Kanab (1967) 7.5' quadrangle ; Project manager, Robert F. Biek ; Cartographer, J. Buck Ehler.\"",
+    "\"Contains GIS files.\"",
+    "CD contains geographic information System (GIS) files in ESRI file geodtabase and shapefile formats. Also included are two plates -- the geologic map and explanation sheet in PDF format. The Kanab 7.5 quadrangle includes the city of Kanab and the Vermillion Cliffs step of the Grand Staircase.",
+    "Contributors: Hayden, Janice M.; Utah Geological Survey, cartographer.",
+    "Includes bibliographical references.",
+    "Publication statement: Salt Lake City, Utah : Utah Geological Survey, 2011.",
+    "Relief shown by contours and spot heights.",
+    "Requires Adobe Acrobat PDF Reader. Specialized GIS software is required to use the GIS files.",
+    "Title from disc surface."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2017590353",
+    "http://ugspub.nr.utah.gov/publications/geologicmaps/M-248DM_Plate1.pdf",
+    "http://ugspub.nr.utah.gov/publications/geologicmaps/M-248DM_Plate2.pdf",
+    "http://www.loc.gov/item/2017590353/",
+    "https://www.loc.gov/item/2017590353/"
+  ],
+  "dct_issued_s": "2011",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2017590353/\"}",
+  "dct_spatial_sm": [
+    "arizona",
+    "coconino county",
+    "kane county",
+    "mohave county",
+    "utah"
+  ],
+  "dct_subject_sm": [
+    "Geology--Arizona--Coconino County--Maps",
+    "Geology--Arizona--Mohave County--Maps",
+    "Geology--Utah--Kane County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_title_s": "Geologic map of the Kanab 7.5ʹ quadrangle, Kane County, Utah and Coconino and Mohave Counties, Arizona",
+  "gbl_dateRange_drsim": [
+    "[2011 TO 2011]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017590353",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base map copied in July 1952 ...\"",
+    "\"Lithographed by AMS, 11-52, 91684.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map title in upper margin: Washington and vicinity, Virginia, Maryland, District of Columbia.",
+    "Contributors: Regional Highway Planning Committee for Metropolitan Washington; United States. Army Map Service",
+    "DCP",
+    "Publication statement: [Washington?] : The Committee, [1952]",
+    "Relief shown by spot heights.",
+    "Relief shown by spot heights. Base map title in upper margin: Washington and vicinity, Virginia, Maryland, District of Columbia. \"Lithographed by AMS, 11-52, 91684.\" \"Base map copied in July 1952 ...\" Available also through the Library of Congress Web site as a raster image. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct004821",
+    "http://lccn.loc.gov/87695662",
+    "http://www.loc.gov/item/87695662/",
+    "http://www.loc.gov/resource/g3851p.ct004821/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct004821",
+    "https://search.catalog.loc.gov/instances/650f2905-611b-51a4-bc3f-a57651043f7c",
+    "https://www.loc.gov/item/87695662/"
+  ],
+  "dct_issued_s": "1952",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct004821.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695662/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "Highway planning--Washington (D.C.)--Maps",
+    "Highway planning--Washington Metropolitan Area--Maps",
+    "Streets--Washington (D.C.)--Planning--Maps",
+    "Streets--Washington Metropolitan Area--Planning--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Metropolitan Area"
+  ],
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "dct_title_s": "Highway improvements recommended by the Regional Highway Planning Committee for Metropolitan Washington : [Washington D.C. metropolitan area]",
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1952]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695662",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

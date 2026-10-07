@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beaucosté, E.",
+    "Imperfect: Some holes along folding line; map sectioned into 4 sheets.",
+    "LC Luso-Hispanic World, 475",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1805]",
+    "Relief shown by shading.",
+    "Relief shown by shading. Pen-and-ink and watercolor. Imperfect: Some holes along folding line; map sectioned into 4 sheets. LC Luso-Hispanic World, 475 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4930.ct000119",
+    "http://lccn.loc.gov/2008628129",
+    "http://www.loc.gov/item/2008628129/",
+    "http://www.loc.gov/resource/g4930.ct000119/",
+    "https://hdl.loc.gov/loc.gmd/g4930.ct000119",
+    "https://search.catalog.loc.gov/instances/5daad029-a68a-50db-976d-1f49e89cbf17",
+    "https://www.loc.gov/item/2008628129/"
+  ],
+  "dct_issued_s": "1805",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4930/g4930/ct000119.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008628129/\"}",
+  "dct_spatial_sm": [
+    "hispaniola"
+  ],
+  "dct_subject_sm": [
+    "Hispaniola",
+    "Hispaniola--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1805"
+  ],
+  "dct_title_s": "Carte de l'Isle St. Domingue",
+  "gbl_dateRange_drsim": [
+    "[1805 TO 1805]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1805
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008628129",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

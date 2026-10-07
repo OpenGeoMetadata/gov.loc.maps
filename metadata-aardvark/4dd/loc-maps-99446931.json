@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Hotchkiss, Jedediah, 1828-1899",
+    "Description derived from published bibliography.",
+    "LC Civil War maps (2nd ed.), H282",
+    "Publication statement: Staunton, Va. 1867.",
+    "Scale ca. 1:126,720.",
+    "Unfinished map, giving roads in red and drainage in blue. Some elevations are shown by hachures, but coverage is incomplete.",
+    "Unfinished map, giving roads in red and drainage in blue. Some elevations are shown by hachures, but coverage is incomplete. Description derived from published bibliography. Scale ca. 1:126,720. LC Civil War maps (2nd ed.), H282 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883a.cwh00282",
+    "http://lccn.loc.gov/99446931",
+    "http://www.loc.gov/item/99446931/",
+    "http://www.loc.gov/resource/g3883a.cwh00282/",
+    "https://hdl.loc.gov/loc.gmd/g3883a.cwh00282",
+    "https://search.catalog.loc.gov/instances/ff2a4743-41ca-56a1-8550-72611ed27f1d",
+    "https://www.loc.gov/item/99446931/"
+  ],
+  "dct_issued_s": "1867",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883a/cwh00282.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446931/\"}",
+  "dct_spatial_sm": [
+    "augusta county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Augusta County (Va.)--Maps",
+    "United States--Virginia--Augusta County"
+  ],
+  "dct_temporal_sm": [
+    "1867"
+  ],
+  "dct_title_s": "Augusta County, Virginia,",
+  "gbl_dateRange_drsim": [
+    "[1867 TO 1867]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1867
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446931",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

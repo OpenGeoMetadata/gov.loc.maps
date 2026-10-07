@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "In upper right corner: p. 2.",
+    "In upper right corner: p. 2. includes text and 4 diagrams. LC copy has red-bordered label affixed to verso, with 516/1 written in ink. Left margin trimmed. Available also through the Library of Congress Web site as a raster image.",
+    "LC copy has red-bordered label affixed to verso, with 516/1 written in ink. Left margin trimmed.",
+    "Publication statement: [England?] : [Publisher not identified], [between 1650 and 1699?]",
+    "includes text and 4 diagrams."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3180.ct003812",
+    "http://lccn.loc.gov/2013593143",
+    "http://www.loc.gov/item/2013593143/",
+    "http://www.loc.gov/resource/g3180.ct003812/",
+    "https://hdl.loc.gov/loc.gmd/g3180.ct003812",
+    "https://search.catalog.loc.gov/instances/d6eb4484-5f9e-5c4e-93c1-b040ff61aa2b",
+    "https://www.loc.gov/item/2013593143/"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3180/g3180/ct003812.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593143/\"}",
+  "dct_spatial_sm": [
+    "universe"
+  ],
+  "dct_subject_sm": [
+    "Astronomy--Charts, diagrams, etc.--Early works to 1800",
+    "Brahe, Tycho,--1546-1601",
+    "Copernicus, Nicolaus,--1473-1543",
+    "Descartes, René,--1596-1650",
+    "Ptolemy,--active 2nd century",
+    "Stars--Charts, diagrams, etc.--Early works to 1800",
+    "Universe"
+  ],
+  "dct_temporal_sm": [
+    "1650",
+    "[England?] : [Publisher not identified], [between 1650 and 1699?]"
+  ],
+  "dct_title_s": "The figure of the World",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593143",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

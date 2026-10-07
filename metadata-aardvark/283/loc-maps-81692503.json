@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"52895 2-66.\"",
+    "\"52895 2-66.\" Relief shown by spot heights. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1966]",
+    "Relief shown by spot heights."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7780.ct002712",
+    "http://lccn.loc.gov/81692503",
+    "http://www.loc.gov/item/81692503/",
+    "http://www.loc.gov/resource/g7780.ct002712/",
+    "https://hdl.loc.gov/loc.gmd/g7780.ct002712",
+    "https://search.catalog.loc.gov/instances/9cf0ceca-ccaf-5261-9e98-0e35dbb5f1a7",
+    "https://www.loc.gov/item/81692503/"
+  ],
+  "dct_issued_s": "1966",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7780/g7780/ct002712.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81692503/\"}",
+  "dct_spatial_sm": [
+    "bhutan"
+  ],
+  "dct_subject_sm": [
+    "Bhutan",
+    "Bhutan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "dct_title_s": "Bhutan",
+  "gbl_dateRange_drsim": [
+    "[1966 TO 1966]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81692503",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

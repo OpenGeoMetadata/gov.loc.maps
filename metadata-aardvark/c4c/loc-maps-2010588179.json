@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Domenech, Arnald; Roselli, Piero",
+    "Diagrammatic map of weights and measures in use in 27 Mediterranean and European seaports.",
+    "Diagrammatic map of weights and measures in use in 27 Mediterranean and European seaports. Oriented with north to the right. Each port city is represented by a vignette of a prominent local tower and the vignettes are connected by rhumb lines. Manuscript: pen-and-ink (light brown) and watercolors. Includes notes and an aerial view of the walled city of Siena in the upper margin (neck of sheet). LC Nautical charts on vellum, 4. Available also through the Library of Congress Web site as a raster image.",
+    "Each port city is represented by a vignette of a prominent local tower and the vignettes are connected by rhumb lines.",
+    "Includes notes and an aerial view of the walled city of Siena in the upper margin (neck of sheet).",
+    "LC Nautical charts on vellum, 4.",
+    "Manuscript: pen-and-ink (light brown) and watercolors.",
+    "Oriented with north to the right.",
+    "Publication statement: [1484]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5672m.ct003135",
+    "http://lccn.loc.gov/2010588179",
+    "http://www.loc.gov/item/2010588179/",
+    "http://www.loc.gov/resource/g5672m.ct003135/",
+    "https://hdl.loc.gov/loc.gmd/g5672m.ct003135",
+    "https://search.catalog.loc.gov/instances/0bd330ec-6161-5d8e-8502-bb6a2a2a10d6",
+    "https://www.loc.gov/item/2010588179/"
+  ],
+  "dct_issued_s": "1563",
+  "dct_language_sm": [
+    "catalan",
+    "valencian"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5672/g5672m/ct003135.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010588179/\"}",
+  "dct_spatial_sm": [
+    "europe",
+    "italy",
+    "mediterranean region",
+    "mediterranean sea",
+    "siena"
+  ],
+  "dct_subject_sm": [
+    "Aids to navigation--Europe--Maps--Early works to 1800",
+    "Aids to navigation--Mediterranean Region--Maps--Early works to 1800",
+    "Aids to navigation--Mediterranean Sea--Maps--Early works to 1800",
+    "Europe",
+    "Europe--Maps--Early works to 1800",
+    "Mediterranean Region",
+    "Mediterranean Region--Maps--Early works to 1800",
+    "Mediterranean Sea",
+    "Siena (Italy)--Maps--Early works to 1800",
+    "Weights and measures--Standards--Europe--Maps--Early works to 1800",
+    "Weights and measures--Standards--Mediterranean Region--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1563"
+  ],
+  "dct_title_s": "Asiento present hordenat a payon les responsions dels pezos e mezures : delahun boch al altre de tots los presents bochs nnomenats los quals son cap e regiment de la mercadoria hordenat : [Mediterraneo e Europa]",
+  "gbl_dateRange_drsim": [
+    "[1563 TO 1563]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1563
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010588179",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

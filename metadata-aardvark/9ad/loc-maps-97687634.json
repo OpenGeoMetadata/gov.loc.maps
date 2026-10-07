@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"13282 5-54.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1954]",
+    "Shows political status of countries.",
+    "Shows political status of countries. \"13282 5-54.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8200.ct002500",
+    "http://lccn.loc.gov/97687634",
+    "http://www.loc.gov/item/97687634/",
+    "http://www.loc.gov/resource/g8200.ct002500/",
+    "https://hdl.loc.gov/loc.gmd/g8200.ct002500",
+    "https://search.catalog.loc.gov/instances/a9ed112c-0d49-5d5f-90ee-819930d78986",
+    "https://www.loc.gov/item/97687634/"
+  ],
+  "dct_issued_s": "1954",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8200/g8200/ct002500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97687634/\"}",
+  "dct_spatial_sm": [
+    "africa"
+  ],
+  "dct_subject_sm": [
+    "Africa",
+    "Africa--Maps",
+    "Africa--Politics and government--1945-1960--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "dct_title_s": "Africa, administrative divisions, 1954",
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1954]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97687634",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

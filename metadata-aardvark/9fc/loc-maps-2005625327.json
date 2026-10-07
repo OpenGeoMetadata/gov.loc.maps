@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Palestina, sive Terrae Sanctae descriptio"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jansson, Jan, 1588-1664",
+    "Exhibition: Jordanian Display, Library of Congress, Washington, D.C., May 25-27, 2005.",
+    "Includes an inset view of Jerusalem and 18 indexed biblical scenes at top and bottom of sheet.",
+    "Oriented with north to the left.",
+    "Publication statement: Amstelodami : [s.n., 1650?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Oriented with north to the left. Includes an inset view of Jerusalem and 18 indexed biblical scenes at top and bottom of sheet. Available also through the Library of Congress Web site as a raster image. Exhibition: Jordanian Display, Library of Congress, Washington, D.C., May 25-27, 2005."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g74812.ct001380",
+    "http://lccn.loc.gov/2005625327",
+    "http://www.loc.gov/item/2005625327/",
+    "http://www.loc.gov/resource/g74812.ct001380/",
+    "https://hdl.loc.gov/loc.gmd/g74812.ct001380",
+    "https://search.catalog.loc.gov/instances/27505a26-5dbf-5bee-a354-4c9bff15458a",
+    "https://www.loc.gov/item/2005625327/"
+  ],
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g74812/g74812/ct001380.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625327/\"}",
+  "dct_spatial_sm": [
+    "israel",
+    "palestine"
+  ],
+  "dct_subject_sm": [
+    "Bible.--Old Testament--Geography--Maps--Early works to 1800",
+    "Israel",
+    "Israel--Maps",
+    "Palestine",
+    "Palestine--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1650",
+    "Amstelodami : [s.n., 1650?]"
+  ],
+  "dct_title_s": "Palestina, siue Terrae Sanctae descriptio",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625327",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

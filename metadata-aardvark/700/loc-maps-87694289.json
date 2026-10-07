@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"4-R-39460.\"",
+    "\"September 1985.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Covers South Jersey.",
+    "Covers South Jersey. \"September 1985.\" Includes note, key to numbered municipalities, and location map. \"4-R-39460.\" Available also through the Library of Congress Web site as a raster image.",
+    "Includes note, key to numbered municipalities, and location map.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [Somerset, N.J. : State Conservationist, distributor], 1986."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3810.ct006716",
+    "http://lccn.loc.gov/87694289",
+    "http://www.loc.gov/item/87694289/",
+    "http://www.loc.gov/resource/g3810.ct006716/",
+    "https://hdl.loc.gov/loc.gmd/g3810.ct006716",
+    "https://search.catalog.loc.gov/instances/2c65f01a-3934-5cf3-ad93-22b6ac4cb524",
+    "https://www.loc.gov/item/87694289/"
+  ],
+  "dct_issued_s": "1985",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3810/g3810/ct006716.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694289/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Jersey--Maps",
+    "United States--New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "dct_title_s": "Area two, New Jersey",
+  "gbl_dateRange_drsim": [
+    "[1985 TO 1985]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694289",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

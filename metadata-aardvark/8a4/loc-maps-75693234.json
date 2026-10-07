@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Includes illus., index to points of interest, and 2 insets. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 225 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Contributors: Beck & Pauli; Henry Wellge & Co; Wellge, H. (Henry)",
+    "Includes illus., index to points of interest, and 2 insets.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 225",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Milwaukee, H. Wellge & Co. [1888]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4154s.pm002250",
+    "http://lccn.loc.gov/75693234",
+    "http://www.loc.gov/item/75693234/",
+    "http://www.loc.gov/resource/g4154s.pm002250/",
+    "https://hdl.loc.gov/loc.gmd/g4154s.pm002250",
+    "https://search.catalog.loc.gov/instances/45a56238-8a2f-5a23-8a7f-46c2800c93c7",
+    "https://www.loc.gov/item/75693234/"
+  ],
+  "dct_issued_s": "1888",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd415/g4154/g4154s/pm002250.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693234/\"}",
+  "dct_spatial_sm": [
+    "iowa",
+    "sioux city",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Sioux City (Iowa)",
+    "United States--Iowa--Sioux City"
+  ],
+  "dct_temporal_sm": [
+    "1888"
+  ],
+  "dct_title_s": "Perspective map of Sioux City, Iowa. 1888",
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1888]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1888
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693234",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

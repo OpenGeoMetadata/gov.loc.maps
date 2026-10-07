@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: August Gast & Co; South Pacific Railroad Company of Missouri",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 564",
+    "Note: \"This company offers for sale one million acres of the best agricultural and mineral lands in the United States situated on the line of the road . . .\"",
+    "Outline map of Arkansas and parts of Kansas, Oklahoma, and Texas showing drainage, counties, cities and towns, finished and projected railroads with names along the lines.",
+    "Publication statement: [n.p.], 1870.",
+    "Scale [ca. 1:2,500,000]."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4041p.rr005640",
+    "http://lccn.loc.gov/98688807",
+    "http://www.loc.gov/item/98688807/",
+    "http://www.loc.gov/resource/g4041p.rr005640/",
+    "https://hdl.loc.gov/loc.gmd/g4041p.rr005640",
+    "https://search.catalog.loc.gov/instances/ba528367-f4ae-58e4-a03a-8863681fe262",
+    "https://www.loc.gov/item/98688807/"
+  ],
+  "dct_issued_s": "1870",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd404/g4041/g4041p/rr005640.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688807/\"}",
+  "dct_spatial_sm": [
+    "middle west",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Middle West--Maps",
+    "South Pacific Railroad Company of Missouri",
+    "United States--Middle West"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ],
+  "dct_title_s": "Map of South Pacific Rail Road Co. of Missouri",
+  "gbl_dateRange_drsim": [
+    "[1870 TO 1870]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1870
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688807",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

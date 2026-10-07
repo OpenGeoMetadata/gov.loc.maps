@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Oriented with north toward the upper left. Includes illus., index to points of interest, directory, and location diagram. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 614 Available also through the Library of Congress Web site as a raster image. AACR2 Copyright registration not found, 02-27-1998.",
+    "Contributors: Cinquin, Rene; Hughes & Bailey",
+    "Copyright registration not found, 02-27-1998.",
+    "Includes illus., index to points of interest, directory, and location diagram.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 614",
+    "Oriented with north toward the upper left.",
+    "Perspective map not drawn to scale.",
+    "Publication statement: N[ew] Y[ork] Hughes & Bailey, c1924."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804p.pm006140",
+    "http://lccn.loc.gov/75694831",
+    "http://www.loc.gov/item/75694831/",
+    "http://www.loc.gov/resource/g3804p.pm006140/",
+    "https://hdl.loc.gov/loc.gmd/g3804p.pm006140",
+    "https://search.catalog.loc.gov/instances/149d81fa-e96e-54a9-9301-60007d65aa7a",
+    "https://www.loc.gov/item/75694831/"
+  ],
+  "dct_issued_s": "1924",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804p/pm006140.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694831/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "pearl river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pearl River (N.Y.)",
+    "United States--New York (State)--Pearl River"
+  ],
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "dct_title_s": "Aero-view of Pearl River, New York, 1924",
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1924]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1924
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694831",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

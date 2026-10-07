@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Brazil, Bolivia and Peru"
+  ],
+  "dct_description_sm": [
+    "\"This hand-colored map of the northern part of South America originally appeared in A New General Atlas Exhibiting The Five Great Divisions of the Globe, published by John Grigg (1792-1864) in Philadelphia in 1829. It shows the still somewhat vague demarcation of the borders between countries in the interior of the continent. Grigg's atlas was based on the work of Conrad Malte-Brun (1755-1826), a Danish geographer who emigrated to France in 1799, where in 1803-07 he produced the six-volume Géographie mathématique, physique et politique de toutes les parties du monde (Mathematical, physical, and political geography of all parts of the world). In 1826, Malte-Brun completed a Universal Geography. Philadelphia publisher Anthony Finley (circa 1790-1840) produced an American version of Malte-Brun's geography in 1827-29, along with an accompanying atlas of 40 maps, which then was reissued by Grigg. Finley based his maps of much of the world on work by the London cartographer Aaron Arrowsmith, but he made his own maps of North and South America. Finley's engraver was James Hamilton Young, who was born in Scotland in 1793 and immigrated to the United States some time after 1800. Young later became the chief engraver for the noted Philadelphia map publisher Samuel Augustus Miller.\" World Digital Library.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Grigg & Elliot; Young, J. H. (James Hamilton), cartographer, engraver",
+    "Publication statement: [Philadelphia] : [Grigg & Elliot], [1829?]",
+    "Relief shown pictorially."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5400.br000014",
+    "http://lccn.loc.gov/2003627066",
+    "http://www.loc.gov/item/2003627066/",
+    "http://www.loc.gov/resource/g5400.br000014/",
+    "https://hdl.loc.gov/loc.gmd/g5400.br000014",
+    "https://search.catalog.loc.gov/instances/5a2ad03d-d218-59aa-9288-ccfa86b7dbbb",
+    "https://www.loc.gov/item/2003627066/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5400/g5400/br000014.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003627066/\"}",
+  "dct_spatial_sm": [
+    "bolivia",
+    "brazil",
+    "peru"
+  ],
+  "dct_subject_sm": [
+    "Bolivia",
+    "Bolivia--Maps",
+    "Brazil",
+    "Brazil--Maps",
+    "Peru",
+    "Peru--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1829",
+    "[Philadelphia] : [Grigg & Elliot], [1829?]"
+  ],
+  "dct_title_s": "Brazil, Bolivia & Peru",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003627066",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

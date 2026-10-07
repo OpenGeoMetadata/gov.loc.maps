@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1991-281-954/20152. Reprint 1991.\"",
+    "\"*GPO: 1991-281-954/20152. Reprint 1991.\" Includes text and area map. Col. ill. and text on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Col. ill. and text on verso.",
+    "Contributors: United States. National Park Service",
+    "Includes text and area map.",
+    "Publication statement: [Washington, D.C.] : The Service, [1991]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/91684626",
+    "http://www.loc.gov/item/91684626/",
+    "http://www.loc.gov/resource/g4032p.ct011435/",
+    "https://hdl.loc.gov/loc.gmd/g4032p.ct011435",
+    "https://search.catalog.loc.gov/instances/ec0acb19-e835-52b9-b2ed-e774d784a31e",
+    "https://www.loc.gov/item/91684626/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032p/ct011435.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91684626/\"}",
+  "dct_spatial_sm": [
+    "padre island national seashore",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Padre Island National Seashore (Tex.)--Maps",
+    "United States--Texas--Padre Island National Seashore"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "Padre Island National Seashore, Texas : official map and guide",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91684626",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

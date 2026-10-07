@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Tom. XIII, in 4⁰, no. 2. Tome 14, in 8⁰, page 263.\"",
+    "AACR2",
+    "Appears in Jean Francois de La Harp's Abŕégé de l'historie generale des voyages. 1780.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: [Bellin, Jacques Nicolas] 1703-1772",
+    "LC Maps of North America, 1750-1789, 260",
+    "Publication statement: [Paris, 1780?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. \"Tom. XIII, in 4⁰, no. 2. Tome 14, in 8⁰, page 263.\" Appears in Jean Francois de La Harp's Abŕégé de l'historie generale des voyages. 1780. Scale ca. 1:4,000,000. LC Maps of North America, 1750-1789, 260 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:4,000,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3402s.ar026000",
+    "http://lccn.loc.gov/73697070",
+    "http://www.loc.gov/item/73697070/",
+    "http://www.loc.gov/resource/g3402s.ar026000/",
+    "https://hdl.loc.gov/loc.gmd/g3402s.ar026000",
+    "https://search.catalog.loc.gov/instances/effe7f02-7eac-5fe7-9861-52fa225888d8",
+    "https://www.loc.gov/item/73697070/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3402/g3402s/ar026000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73697070/\"}",
+  "dct_spatial_sm": [
+    "gulf of saint lawrence",
+    "saint lawrence, gulf of",
+    "saint lawrence, gulf of."
+  ],
+  "dct_subject_sm": [
+    "Saint Lawrence, Gulf of",
+    "Saint Lawrence, Gulf of--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1780",
+    "[Paris, 1780?]"
+  ],
+  "dct_title_s": "Carte du golphe de St. Laurent et pays voisins, pour servir á l'Histoire générale des voyages",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73697070",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

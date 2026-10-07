@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This 1781 pen-and-ink and watercolor manuscript map shows the region around West Point, Virginia, situated at the point where the Pamunkey and Matapony (present-day Mattaponi) Rivers join to form the York River. The map shows soundings and channels in the rivers, as well as ferries, roads, and vegetation. The villages of Bingham, Delaware, and Brackson are shown, along with Brackson's Plantation, and the Meredy, Smith, Dodleys, and other plantations. The road to Williamsburg is visible in the lower left, running inland from the right bank of the York River. Shepperd's Warehouse is indicated on the left bank of the Matapony River, and an oyster bed is shown in the York River. Virginia was a colonial center of tobacco production, and the plantations most likely were part of the tobacco economy. Relief is shown by shading. Scale is given in miles. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 440; 651/1; 650/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Maps of North America, 1750-1789, 1460",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: [1781?]",
+    "Relief shown by shading. Depths shown by soundings.",
+    "Scale ca. 1:20,000.",
+    "Shows ferry routes, ship channels, and names of landholders.",
+    "Title on verso: West Point sur le riviere d'York au confluent du Pamunkey et du Matapony.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884w.ar146000",
+    "http://lccn.loc.gov/gm71002171",
+    "http://www.loc.gov/item/gm71002171/",
+    "http://www.loc.gov/resource/g3884w.ar146000/",
+    "https://hdl.loc.gov/loc.gmd/g3884w.ar146000",
+    "https://search.catalog.loc.gov/instances/df1a841b-ffde-5c9a-b633-55b2f29d7494",
+    "https://www.loc.gov/item/gm71002171/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884w/ar146000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002171/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "west point",
+    "york river"
+  ],
+  "dct_subject_sm": [
+    "Nautical charts--Virginia--York River--Early works to 1800",
+    "United States--Virginia--West Point",
+    "West Point (Va.)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1781",
+    "[1781?]"
+  ],
+  "dct_title_s": "Carte detaillée de West Point sur la rivière d'York au confluent des Rivières de Pamunkey et Matapony",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002171",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Delaware and North River Railroad; G.W. & C.B. Colton & Co",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 397",
+    "Map of the northeastern states showing drainage, cities and towns, and the railroad network with emphasis on the main line.",
+    "Publication statement: New York, c1890.",
+    "Scale ca. 1:1,250,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3716p.rr003970",
+    "http://lccn.loc.gov/98688648",
+    "http://www.loc.gov/item/98688648/",
+    "http://www.loc.gov/resource/g3716p.rr003970/",
+    "https://hdl.loc.gov/loc.gmd/g3716p.rr003970",
+    "https://search.catalog.loc.gov/instances/9fc42721-f855-5186-af4b-dc6a60af3698",
+    "https://www.loc.gov/item/98688648/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3716/g3716p/rr003970.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688648/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "new england",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware and North River Railroad",
+    "Railroads--Middle Atlantic States--Maps",
+    "Railroads--New England--Maps",
+    "United States--Middle Atlantic States",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Map showing the Delaware and North River Railroad and its connections between Kingston, Port Jarvis and Stroudsburg",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688648",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

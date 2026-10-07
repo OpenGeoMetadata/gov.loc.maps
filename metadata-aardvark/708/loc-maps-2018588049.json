@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: A. Hoen & Co; Fillmore, Millard, 1800-1874, collector; Herndon, William Lewis, 1813-1857, cartographer; Tyssowski, Jan, 1811-1856, cartographer",
+    "LC copy signed on verso: Millard Fillmore. Sectioned into 30 and mounted on cloth, folded to 22 x 16 cm.",
+    "Publication statement: Baltimore, Md. : Lith. by A. Hoen & Co., [1852?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. LC copy signed on verso: Millard Fillmore. Sectioned into 30 and mounted on cloth, folded to 22 x 16 cm. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018588049",
+    "http://www.loc.gov/item/2018588049/",
+    "http://www.loc.gov/resource/g5312h.fi000127/",
+    "https://hdl.loc.gov/loc.gmd/g5312h.fi000127",
+    "https://search.catalog.loc.gov/instances/5480bca2-7ba5-5c99-b69e-f430c3cc6076",
+    "https://www.loc.gov/item/2018588049/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5312/g5312h/fi000127.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018588049/\"}",
+  "dct_spatial_sm": [
+    "amazon river",
+    "huallaga river",
+    "peru",
+    "south america",
+    "ucayali river"
+  ],
+  "dct_subject_sm": [
+    "Amazon River--Maps",
+    "Huallaga River (Peru)--Maps",
+    "Peru--Amazon River",
+    "Peru--Huallaga River",
+    "Peru--Ucayali River",
+    "South America",
+    "South America--Maps",
+    "Ucayali River (Peru)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1852",
+    "Baltimore, Md. : Lith. by A. Hoen & Co., [1852?]"
+  ],
+  "dct_title_s": "Map of the rivers Huallaga, Ucayali & Amazon",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018588049",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

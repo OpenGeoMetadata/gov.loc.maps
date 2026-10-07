@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Indexed for points of interest.",
+    "LC Maps and charts of North America and the West Indies, 1750-1789, 475",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Oriented with north toward the lower right. Indexed for points of interest. Scale 1:720; 60 ft. to an in. LC Maps and charts of North America and the West Indies, 1750-1789, 475 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Oriented with north toward the lower right.",
+    "Publication statement: [17--]",
+    "Scale 1:720; 60 ft. to an in.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3424h.ct008153",
+    "http://lccn.loc.gov/74691493",
+    "http://www.loc.gov/item/74691493/",
+    "http://www.loc.gov/resource/g3424h.ct008153/",
+    "https://hdl.loc.gov/loc.gmd/g3424h.ct008153",
+    "https://search.catalog.loc.gov/instances/5de2d193-3d6f-5f10-ba92-a32fecb7cff0",
+    "https://www.loc.gov/item/74691493/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3424/g3424h/ct008153.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74691493/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "halifax",
+    "nova scotia"
+  ],
+  "dct_subject_sm": [
+    "Canada--Nova Scotia--Halifax",
+    "Docks--Nova Scotia--Halifax--Maps--Early works to 1800",
+    "Harbors--Nova Scotia--Halifax--Maps--Early works to 1800",
+    "Navy-yards and naval stations--Nova Scotia--Halifax--Maps--Early works to 1800",
+    "Wharves--Nova Scotia--Halifax--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1700",
+    "[17--]"
+  ],
+  "dct_title_s": "Plan of the Naval-yard at Halifax",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74691493",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

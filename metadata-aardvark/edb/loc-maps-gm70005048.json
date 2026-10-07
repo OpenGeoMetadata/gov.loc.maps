@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Gettysburg Battle-field"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Accompanied by: Gettysburg Battlefield directory; index to military organizations. 139-151 p.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bachelder, John B. (John Badger), 1825-1894; Geo. H. Walker & Co",
+    "Cover title: Gettysburg Battlefield directory, with index.",
+    "Cover title: Gettysburg Battlefield directory, with index. Includes \"Plan of the soldiers national cemetary.\" Accompanied by: Gettysburg Battlefield directory; index to military organizations. 139-151 p. Perspective map not drawn to scale. LC Civil War maps (2nd ed.) 324.2 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes \"Plan of the soldiers national cemetary.\"",
+    "LC Civil War maps (2nd ed.) 324.2",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Boston, Geo. H. Walker & Co., 1863."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824g.cw0324200",
+    "http://lccn.loc.gov/gm70005048",
+    "http://www.loc.gov/item/gm70005048/",
+    "http://www.loc.gov/resource/g3824g.cw0324200/",
+    "https://hdl.loc.gov/loc.gmd/g3824g.cw0324200",
+    "https://search.catalog.loc.gov/instances/e761bbab-8aa4-5008-ac20-88df8e3b1ee2",
+    "https://www.loc.gov/item/gm70005048/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824g/cw0324200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70005048/\"}",
+  "dct_spatial_sm": [
+    "gettysburg",
+    "gettysburg region",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gettysburg Region (Pa.)--Aerial views",
+    "Gettysburg, Battle of, Gettysburg, Pa., 1863--Maps",
+    "United States--Pennsylvania--Gettysburg"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Gettysburg Battlefield. Battle fought at Gettysburg, Pa. July 1st, 2d & 3d 1863 by the Federal and Confederate armies commanded respectively by Genl. G. G. Meade and Genl. Robert E. Lee",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70005048",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

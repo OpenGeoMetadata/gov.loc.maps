@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"3-85.\"",
+    "\"800098 (A04175).\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes notes.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1985]",
+    "Shows major administrative divisions.",
+    "Shows major administrative divisions. \"3-85.\" Includes notes. \"800098 (A04175).\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6510.ct002761",
+    "http://lccn.loc.gov/91686167",
+    "http://www.loc.gov/item/91686167/",
+    "http://www.loc.gov/resource/g6510.ct002761/",
+    "https://hdl.loc.gov/loc.gmd/g6510.ct002761",
+    "https://search.catalog.loc.gov/instances/92e19d78-27c2-5222-9d29-94276c738364",
+    "https://www.loc.gov/item/91686167/"
+  ],
+  "dct_issued_s": "1985",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6510/g6510/ct002761.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91686167/\"}",
+  "dct_spatial_sm": [
+    "czechoslovakia"
+  ],
+  "dct_subject_sm": [
+    "Czechoslovakia",
+    "Czechoslovakia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "dct_title_s": "Czechoslovakia",
+  "gbl_dateRange_drsim": [
+    "[1985 TO 1985]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91686167",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

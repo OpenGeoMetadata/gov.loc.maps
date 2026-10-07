@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing lot lines, dimensions, numbers, and street widths.",
+    "Cadastral map showing lot lines, dimensions, numbers, and street widths. Imperfect: Fold-lined, torn along left edge, has newspaper cutting affixed, extensively annotated in lead pencil and ink to show lot ownership status. Includes location map (inset). Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G. Hayward Lith; Rapelye, Augustus; Twiss, Jos'h H.",
+    "Imperfect: Fold-lined, torn along left edge, has newspaper cutting affixed, extensively annotated in lead pencil and ink to show lot ownership status.",
+    "Includes location map (inset).",
+    "Publication statement: [New York? : s.n., 1856]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct006594",
+    "http://lccn.loc.gov/2004625678",
+    "http://www.loc.gov/item/2004625678/",
+    "http://www.loc.gov/resource/g3804n.ct006594/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct006594",
+    "https://search.catalog.loc.gov/instances/b82a13fb-db9b-5986-be22-c1b0bb7f1d4f",
+    "https://www.loc.gov/item/2004625678/"
+  ],
+  "dct_issued_s": "1856",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct006594.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004625678/\"}",
+  "dct_spatial_sm": [
+    "laurel hill",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--New York (State)--New York--Maps",
+    "Laurel Hill (New York, N.Y.)--Maps",
+    "Real property--New York (State)--New York--Maps",
+    "United States--New York (State)--New York",
+    "United States--New York (State)--New York--Laurel Hill"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "dct_title_s": "Map B of part of the Laurel Hill tract : situated on Newtown Creek opposite Greenpoint & Brooklyn, belonging to Augustus Rapelye",
+  "gbl_dateRange_drsim": [
+    "[1856 TO 1856]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1856
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004625678",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

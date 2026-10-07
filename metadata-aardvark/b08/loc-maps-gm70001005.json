@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Inset: Shady Lake Recreation Area.",
+    "Inset: Shady Lake Recreation Area. Text on verso. Scale ca. 1:240,000. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Atlanta, 1969?]",
+    "Scale ca. 1:240,000.",
+    "Text on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm70001005",
+    "http://www.loc.gov/item/gm70001005/",
+    "http://www.loc.gov/resource/g4004m.ct011054/",
+    "https://hdl.loc.gov/loc.gmd/g4004m.ct011054",
+    "https://search.catalog.loc.gov/instances/1f5a55f4-3a41-5bfc-a86c-95f12608559d",
+    "https://www.loc.gov/item/gm70001005/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4004/g4004m/ct011054.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70001005/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "mena region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Recreation areas--Arkansas--Mena Region--Maps",
+    "United States--Arkansas--Mena Region"
+  ],
+  "dct_temporal_sm": [
+    "1969",
+    "[Atlanta, 1969?]"
+  ],
+  "dct_title_s": "Mena Recreational Area of the Ouachita National Forest. Ouachita National Forest, Arkansas, Mena & vicinity showing roads & points of interest",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70001005",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

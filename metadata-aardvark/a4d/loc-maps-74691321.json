@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 651/2; 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771; Rodney, George Brydges Rodney, Baron, 1719-1792; Stott, John",
+    "Includes descriptive index and text.",
+    "LC Maps of North America, 1750-1789, 2054",
+    "Publication statement: [London, 1763?]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. Stamped on: Hydrographical Office. Includes descriptive index and text. Scale ca. 1:20,000. LC Maps of North America, 1750-1789, 2054 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 651/2; 700/1",
+    "Scale ca. 1:20,000.",
+    "Stamped on: Hydrographical Office.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/74691321",
+    "http://www.loc.gov/item/74691321/",
+    "http://www.loc.gov/resource/g5082f.ar205400/",
+    "https://hdl.loc.gov/loc.gmd/g5082f.ar205400",
+    "https://search.catalog.loc.gov/instances/030f1371-ee42-5829-ba38-3fca58b00458",
+    "https://www.loc.gov/item/74691321/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5082/g5082f/ar205400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74691321/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "fort-de-france",
+    "fort-de-france bay",
+    "france",
+    "france bay",
+    "martinique"
+  ],
+  "dct_subject_sm": [
+    "Fort-de-France (Martinique)--Maps--Early works to 1800",
+    "Fort-de-France Bay (Martinique)--Maps--Early works to 1800",
+    "Martinique--Fort-de-France",
+    "Martinique--Fort-de-France Bay"
+  ],
+  "dct_temporal_sm": [
+    "1763",
+    "[London, 1763?]"
+  ],
+  "dct_title_s": "Plan of the great bay of Cul de Sac Royal, with the town, and environs of Port Royal, in the island of Martinique, in which are correctly laid down the shoals, soundings, depths of water, & anchorage",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74691321",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

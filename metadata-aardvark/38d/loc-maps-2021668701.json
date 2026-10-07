@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Turcici Imperii Descriptio"
+  ],
+  "dct_description_sm": [
+    "\"Scale approximately 1:12,300,000\"--Note extracted from World Digital Library.",
+    "Content in Latin.",
+    "Contributors: Gastaldi, Giacomo, 1500?-1565? Associated Name.; Ortelius, Abraham, 1527-1598 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map : hand colored ; 48.3 x 36.3 centimeters.",
+    "Publication statement: Antwerp : Frans Hogenberg, 1579.",
+    "Reference extracted from World Digital Library: Frans Koks, \"Ortelius Atlas\" in Memory of the World, Library of Congress, Washington, DC. https://memory.loc.gov/ammem/gmdhtml/gnrlort.html.|Marcel P.R. van den Broecke, Ortelius Atlas Maps: An Illustrated Guide (Utrecht, Netherlands: HES Publishers, 1996).|Marcel P.R. van den Broecke, \"Unstable Editions of Ortelius' Atlas.\" http://www.orteliusmaps.com/essays/mapcollector1995.htm.",
+    "The Flemish geographer and scholar Abraham Ortelius (1527-98) published the first edition of his Theatrum orbis terrarum (Theater of the world) in 1570. It contained 53 maps, each with a detailed commentary. It was the first true atlas in the modern sense: a bound book of map plates and accompanying text specifically produced to give a uniform, complete presentation. More than 7,300 copies of the atlas appeared in 31 editions between 1570 and 1612 in various languages, including French, Dutch, English, German, Italian, Latin, and Spanish. Ortelius began to produce his own maps from about 1560. This map of the Turkish Empire was first created in about 1570 and included in the atlas only in the 1570s. Perhaps the best known of all the 16th-century maps of the Middle East, it extends from Greece to Arabia and covers the Cradle of Civilization region. The Red Sea (Mare de Mecca) is shown relatively accurately, whereas the Arabian Gulf (Mare Elcatif) is misshapen by the exaggerated Arabian shoreline. The map includes the area of present-day Egypt, Israel, Lebanon, Syria, Iraq, Saudi Arabia, Turkey, Romania, Bulgaria, Serbia, and Greece. It is based on Ortelius's 1567 map of Asia but has greater detail. That map in turn depended for information on Arabia on Giacomo Gastaldi's Il Disegno della Seconda Parte dell'Asia (1561). A description of the Kingdom of Ormus (present-day Hormuz) is given in space under the ornamental label \"Regni Persiae pars, quod hodie a sophis gubernator\" (Part of Persia, which today is governed by philosophers). Other labels also convey information or the wisdom of the day, including the decorative title cartouche with the aphorism \"Concordia parue res crescent, Discordia maxime dilabuntur\" (Harmony enables things to grow, Discord brings the greatest to ruin). It is widely considered more accurate and complete than earlier maps of Asia, as it was informed by the travels of Marco Polo, in particular the account that appeared in Ramusio's Navigationi et Viaggi (Travels and voyages), published in 1550-59.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668701",
+    "http://www.loc.gov/item/2021668701/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_17578/",
+    "http://www.loc.gov/resource/wdl.17578/",
+    "https://hdl.loc.gov/loc.wdl/wdl.17578",
+    "https://www.loc.gov/item/2021668701/"
+  ],
+  "dct_issued_s": "1579-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_17578.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/17/57/8/wdl_17578/wdl_17578.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:57:8:wdl_17578:78/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668701/\"}",
+  "dct_subject_sm": [
+    "1579",
+    "Arabian Gulf",
+    "Arabian Peninsula",
+    "Black Sea",
+    "Caspian Sea",
+    "Ottoman Empire, 1288-1918",
+    "Persian Gulf",
+    "Red Sea"
+  ],
+  "dct_temporal_sm": [
+    "1579-01-01"
+  ],
+  "dct_title_s": "Representation of the Turkish Empire.",
+  "gbl_dateRange_drsim": [
+    "[1579 TO 1579]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1579
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668701",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: modelski, andrew m.; polimapas editôra (são paulo, brazil)"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi83105484/",
+    "https://www.loc.gov/item/hlas-bi83105484/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_publisher_sm": [
+    "Polimapas Editôra,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi83105484/\"}",
+  "dct_spatial_sm": [
+    "brazil"
+  ],
+  "dct_subject_sm": [
+    "brazil",
+    "geography",
+    "maps and cartography",
+    "maps and cartography -- brazil",
+    "rondônia, brazil (state)",
+    "rondônia, brazil (state) -- geography"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Rondônia, Território Federal, político, rodoviário, turístico, escolar polivisual. Equipe técnica, José Nönoya Filho et al.",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi83105484",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Sabine National Forest, Tenaha and Yellowpine Ranger Districts, Texas",
+    "Title at head of legend: Sabine National Forest, Tenaha and Yellowpine Ranger Districts, Texas"
+  ],
+  "dct_description_sm": [
+    "\"Forest Service Map.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes location map, indexed list to recreation sites, and index to topographic maps.",
+    "Publication statement: Atlanta, GA. : USDA Forest Service, Southern Region, 1981.",
+    "Text and col. ill. on verso.",
+    "Title from panel.",
+    "Title from panel. \"Forest Service Map.\" Includes location map, indexed list to recreation sites, and index to topographic maps. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2012586393",
+    "http://www.loc.gov/item/2012586393/",
+    "http://www.loc.gov/resource/g4032s.ct011469/",
+    "https://hdl.loc.gov/loc.gmd/g4032s.ct011469",
+    "https://search.catalog.loc.gov/instances/1cb98657-fbf0-571d-a9f3-fbc93ee2d059",
+    "https://www.loc.gov/item/2012586393/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032s/ct011469.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012586393/\"}",
+  "dct_spatial_sm": [
+    "sabine national forest",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Outdoor recreation--Texas--Sabine National Forest--Maps",
+    "Sabine National Forest (Tex.)--Maps",
+    "United States--Texas--Sabine National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "The Sabine National Forest, Texas :",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012586393",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

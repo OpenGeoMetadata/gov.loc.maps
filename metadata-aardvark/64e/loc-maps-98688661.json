@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Colton, J. H. (Joseph Hutchins), 1800-1893; Fort Wayne and Southern Railroad; Holman, W. J.",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 410",
+    "Publication statement: N[ew] Y[ork], [1855]",
+    "Scale ca. 1:350,000.",
+    "Scale of map of the eastern half of the United States is ca. 1:3,300,000. The map indicates \"Railroads finished and under way\" and \"railroads proposed.\" Chartered January 15, 1849."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4091p.rr004100",
+    "http://lccn.loc.gov/98688661",
+    "http://www.loc.gov/item/98688661/",
+    "http://www.loc.gov/resource/g4091p.rr004100/",
+    "https://hdl.loc.gov/loc.gmd/g4091p.rr004100",
+    "https://search.catalog.loc.gov/instances/dc0a46fa-c72e-5852-adc7-b05283e01f2a",
+    "https://www.loc.gov/item/98688661/"
+  ],
+  "dct_issued_s": "1855",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409/g4091/g4091p/rr004100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688661/\"}",
+  "dct_spatial_sm": [
+    "indiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Wayne and Southern Railroad",
+    "Railroads--Indiana--Maps",
+    "Railroads--United States--Maps",
+    "United States",
+    "United States--Indiana"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "dct_title_s": "A section of Colton's large map of Indiana with the Fort Wayne and Southern Rail Road marked upon it, as located also a map of the United States showing Road and its connections together with a profile of the Ohio river and lands adjoining and a section of the double track rail road tunnel under the Ohio river at Louisville, Kentucky & Jeffersonville, Indiana for the year 1855 ending Oct. 1, W. J. Holman, President and Chief Engr",
+  "gbl_dateRange_drsim": [
+    "[1855 TO 1855]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1855
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688661",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

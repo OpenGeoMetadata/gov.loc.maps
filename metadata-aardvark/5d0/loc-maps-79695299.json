@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"American Revolution Bicentennial, 1776-1976.\"",
+    "\"BiC-45.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Ocean Survey; U.S. Coast and Geodetic Survey, cartographer",
+    "Facsim. of nautical chart originally \"Published December 1894.\"",
+    "Includes tables of sailing information and inset of Norfolk harbor.",
+    "Publication statement: Washington : U.S. Dept. of Commerce, National Oceanic and Atmpspheric Administration, National Ocean Survey, [1976]",
+    "Relief shown by hachures. Depths shown by contours and soundings.",
+    "Title in lower margin: Hampton Roads.",
+    "Title in lower margin: Hampton Roads. Facsim. of nautical chart originally \"Published December 1894.\" Relief shown by hachures. Depths shown by contours and soundings. \"American Revolution Bicentennial, 1776-1976.\" \"BiC-45.\" Includes tables of sailing information and inset of Norfolk harbor. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882h.ct009102",
+    "http://lccn.loc.gov/79695299",
+    "http://www.loc.gov/item/79695299/",
+    "http://www.loc.gov/resource/g3882h.ct009102/",
+    "https://hdl.loc.gov/loc.gmd/g3882h.ct009102",
+    "https://search.catalog.loc.gov/instances/f34b78c6-db0d-5b4c-aad1-83812aa28afd",
+    "https://www.loc.gov/item/79695299/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882h/ct009102.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79695299/\"}",
+  "dct_spatial_sm": [
+    "hampton roads",
+    "norfolk",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Harbors--Virginia--Norfolk--Maps",
+    "Maps--Facsimiles",
+    "Nautical charts--Virginia--Hampton Roads",
+    "Roadsteads--Virginia--Hampton Roads--Maps",
+    "United States--Virginia--Norfolk"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "Hampton Roads, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79695299",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

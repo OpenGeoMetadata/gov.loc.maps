@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from USGS national atlas 1979 edition.\"",
+    "\"October 1979 4-R-37122-A. October 1979 Base 4-R-33577.\"",
+    "\"October 1979 4-R-37122-A. October 1979 Base 4-R-33577.\" \"Base compiled from USGS national atlas 1979 edition.\" \"Source: Prime farmland inventory USDA-SCS, Temple, Texas May 1979.\" Text on verso. Available also through the Library of Congress Web site as a raster image.",
+    "\"Source: Prime farmland inventory USDA-SCS, Temple, Texas May 1979.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1979.",
+    "Text on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82692886",
+    "http://www.loc.gov/item/82692886/",
+    "http://www.loc.gov/resource/g4031j.ct011282/",
+    "https://hdl.loc.gov/loc.gmd/g4031j.ct011282",
+    "https://search.catalog.loc.gov/instances/4d05c500-c252-50d1-bcc0-10411f99f3d5",
+    "https://www.loc.gov/item/82692886/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4031/g4031j/ct011282.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82692886/\"}",
+  "dct_spatial_sm": [
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Agricultural resources--Texas--Maps",
+    "Land capability for agriculture--Texas--Maps",
+    "Soil productivity--Texas--Maps",
+    "United States--Texas"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Prime farmland, state of Texas",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82692886",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

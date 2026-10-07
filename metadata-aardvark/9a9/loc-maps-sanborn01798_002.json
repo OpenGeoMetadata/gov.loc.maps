@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "3 sheet(s).",
+    "Publication statement: Sanborn Map Company, Sep 1892",
+    "Sep 1892.",
+    "Sep 1892. 3 sheet(s)."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4104cm.g017981892",
+    "http://www.loc.gov/item/sanborn01798_002/",
+    "http://www.loc.gov/resource/g4104cm.g017981892/",
+    "https://hdl.loc.gov/loc.gmd/g4104cm.g017981892",
+    "https://www.loc.gov/item/sanborn01798_002",
+    "https://www.loc.gov/item/sanborn01798_002/",
+    "https://www.loc.gov/resource/g4104cm.g017981892"
+  ],
+  "dct_issued_s": "1892-09",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn01798_002/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104cm/g017981892/01798_1892-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn01798_002/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "coal city",
+    "grundy county",
+    "illinois",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1892-09"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Coal City, Grundy County, Illinois.",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn01798_002",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

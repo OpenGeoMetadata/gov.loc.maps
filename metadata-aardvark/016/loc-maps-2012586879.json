@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"803223AI (G00541) 2-12\".",
+    "\"803223AI (G00541) 2-12\". Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes location map.",
+    "Publication statement: [Washington, D.C.] : [Central Intelligence Agency], [2012]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7780.ct003592",
+    "http://lccn.loc.gov/2012586879",
+    "http://www.loc.gov/item/2012586879/",
+    "http://www.loc.gov/resource/g7780.ct003592/",
+    "https://hdl.loc.gov/loc.gmd/g7780.ct003592",
+    "https://search.catalog.loc.gov/instances/ab55d188-0508-5811-a72e-1d6032871e33",
+    "https://www.loc.gov/item/2012586879/"
+  ],
+  "dct_issued_s": "2012",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7780/g7780/ct003592.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012586879/\"}",
+  "dct_spatial_sm": [
+    "bhutan"
+  ],
+  "dct_subject_sm": [
+    "Bhutan",
+    "Bhutan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_title_s": "Bhutan",
+  "gbl_dateRange_drsim": [
+    "[2012 TO 2012]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012586879",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

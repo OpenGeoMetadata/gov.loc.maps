@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chicago, Milwaukee, and St. Paul Railway Company; G.W. & C.B. Colton & Co",
+    "Description derived from published bibliography.",
+    "Detailed map of the north-central states showing drainage, cities and towns, township and county boundaries, and the railroads with names and emphasis on the main line. Incorporated in 1863 as the Milwaukee and St. Paul Railway. See items 464 and 465. In 1874 the word Chicago was added to the name. LC has a Rand McNally and Company map, measuring 35 x 45 cm., which uses the new name for the first time.",
+    "LC Railroad maps, 378",
+    "Publication statement: New York, 1881.",
+    "Scale 1:1,267,200."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4061p.rr003780",
+    "http://lccn.loc.gov/98688629",
+    "http://www.loc.gov/item/98688629/",
+    "http://www.loc.gov/resource/g4061p.rr003780/",
+    "https://hdl.loc.gov/loc.gmd/g4061p.rr003780",
+    "https://search.catalog.loc.gov/instances/535f41cb-e84d-5c2a-9b29-cb06c96e4b5b",
+    "https://www.loc.gov/item/98688629/"
+  ],
+  "dct_issued_s": "1881",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd406/g4061/g4061p/rr003780.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688629/\"}",
+  "dct_spatial_sm": [
+    "middle west",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Chicago, Milwaukee, and St. Paul Railway Company--Maps",
+    "Railroads--Middle West--Maps",
+    "United States--Middle West"
+  ],
+  "dct_temporal_sm": [
+    "1881"
+  ],
+  "dct_title_s": "Map of the railroads and extensions of the Chicago, Milwaukee, and St. Paul Railway Company",
+  "gbl_dateRange_drsim": [
+    "[1881 TO 1881]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1881
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688629",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

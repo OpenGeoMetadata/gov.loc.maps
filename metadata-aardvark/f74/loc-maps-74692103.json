@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Engraved for Bankes's New system of universal geography, published by royal authority.\"",
+    "AACR2: 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bowen, Thomas, -1790",
+    "LC Maps of North America, 1750-1789, 756",
+    "Prime meridian: London.",
+    "Prime meridian: London. Relief shown pictorially. \"Engraved for Bankes's New system of universal geography, published by royal authority.\" Scale ca. 1:10,000,000. LC Maps of North America, 1750-1789, 756 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651",
+    "Publication statement: [London, 178-?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:10,000,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.ar075600",
+    "http://lccn.loc.gov/74692103",
+    "http://www.loc.gov/item/74692103/",
+    "http://www.loc.gov/resource/g3700.ar075600/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ar075600",
+    "https://search.catalog.loc.gov/instances/7db41f70-986d-58d3-a94c-f85011faf94b",
+    "https://www.loc.gov/item/74692103/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ar075600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692103/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "A correct map of the United States of North America; including the British and Spanish territories, carefully laid down agreeable to the treaty of 1784",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692103",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map of Central Asia appeared in the 1839 edition of Stieler's Hand-Atlas über alle Theile der Erde (Stieler's portable atlas of all parts of the Earth), edited by Adolf Stieler and published by the firm of Justus Perthes in Gotha, Germany. The map was compiled and drawn in 1829 by Heinrich Karl Wilhelm Berghaus (1797-1884) and updated by him in 1834. The numbered key in the lower right-hand corner of the map indicates the states of the region as they existed in 1834. They included the Persian Empire, Afghanistan (composed of six separate entities), a federation of states in Baluchistan under the rule of the sirdar (tribal head) of Kelat, and a number of khanates and emirates in Central Asia, including Khiva and Bukhara (both in present-day Uzbekistan). Berghaus divides the vast region shown on the map into two subregions, defined as \"Iran\" and \"Turan,\" the latter being a geographic designation derived from the Persian for the region of Central Asia north of Afghanistan. Scale is given in German, French, and geographical miles. Berghaus was a German geographer, cartographer, and scholar. Trained as a surveyor, he worked for a time as a geographical engineer for the general staff of the Prussian army. In 1836 he founded a geographical school in Potsdam. A friend and collaborator of the great naturalist and explorer Alexander von Humboldt (1769-1859), Berghaus was a pioneer in incorporating into maps and atlases data from meteorology and climatology, hydrography, geology, ethnography, and other scientific fields.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Berghaus, Heinrich Karl Wilhelm, 1797-1884; Justus Perthes (Firm : Gotha, Germany)",
+    "From: Hand-atlas über alle Theile der Erde ... / Hrsg. von Adolf Stieler ... 1839, no. 43b.",
+    "In upper right corner: Neue Ausgabe no. XLVL, Stieler's Hand-Atlas (no. 43b)",
+    "Prime meridian: Ferro.",
+    "Publication statement: Gotha : Justus Perthes, 1835"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7620.ct001143",
+    "http://lccn.loc.gov/2006626074",
+    "http://www.loc.gov/item/2006626074/",
+    "http://www.loc.gov/resource/g7620.ct001143/",
+    "https://hdl.loc.gov/loc.gmd/g7620.ct001143",
+    "https://search.catalog.loc.gov/instances/bf89ed38-f5d9-5df8-90f4-aa2ac0791bc3",
+    "https://www.loc.gov/item/2006626074/"
+  ],
+  "dct_issued_s": "1835",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7620/g7620/ct001143.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006626074/\"}",
+  "dct_spatial_sm": [
+    "afghanistan",
+    "balochistān",
+    "balochistān (pakistan)",
+    "iran",
+    "pakistan"
+  ],
+  "dct_subject_sm": [
+    "Afghanistan",
+    "Afghanistan--Maps",
+    "Balochistān (Pakistan)",
+    "Balochistān (Pakistan)--Maps",
+    "Iran",
+    "Iran--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1835"
+  ],
+  "dct_title_s": "Iran und Turan : Persien, Afghanistan, Biludschistan, Turkestan : eine geographische Skizze",
+  "gbl_dateRange_drsim": [
+    "[1835 TO 1835]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1835
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006626074",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

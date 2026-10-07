@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"D. Fournier inv. & del.\"",
+    "AACR2: 700/1; 700/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Craskell, Thomas; Fournier, Daniel, 1710?-1766?; Moore, Henry, Sir, 1713-1769; Simpson, James (Surveyor)",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"D. Fournier inv. & del.\" Inscribed \"To the Right Honorable George, Earl of Hallifax, one of His Majesty's principal secretary's of state, &c. &c.\" Scale ca. 1:200,000. LC Maps of North America, 1750-1789, 1918 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 700/1; 700/3",
+    "Inscribed \"To the Right Honorable George, Earl of Hallifax, one of His Majesty's principal secretary's of state, &c. &c.\"",
+    "LC Maps of North America, 1750-1789, 1918",
+    "Publication statement: Londini, D. Fournier, 1763.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:200,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4960.ar191800",
+    "http://hdl.loc.gov/loc.gmd/g4960.ar191801",
+    "http://lccn.loc.gov/73691873",
+    "http://www.loc.gov/item/73691873/",
+    "http://www.loc.gov/resource/g4960.ar191800/",
+    "http://www.loc.gov/resource/g4960.ar191801/",
+    "https://hdl.loc.gov/loc.gmd/g4960.ar191800",
+    "https://hdl.loc.gov/loc.gmd/g4960.ar191801",
+    "https://search.catalog.loc.gov/instances/1f07d046-558f-5b3a-bf2d-c168f604cc8b",
+    "https://www.loc.gov/item/73691873/"
+  ],
+  "dct_issued_s": "1763",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4960/g4960/ar191800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691873/\"}",
+  "dct_spatial_sm": [
+    "jamaica"
+  ],
+  "dct_subject_sm": [
+    "Jamaica",
+    "Jamaica--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1763"
+  ],
+  "dct_title_s": "This map of the island of Jamaica;",
+  "gbl_dateRange_drsim": [
+    "[1763 TO 1763]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1763
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691873",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lindgren, Jolly",
+    "Includes legend and tourist attractions.",
+    "Publication statement: Spokane, Wash. : Lindgren Bros., c1940.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Title printed around the border. Includes legend and tourist attractions. Available also through the Library of Congress Web site as a raster image.",
+    "Title printed around the border."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4282g.ct003338",
+    "http://lccn.loc.gov/2012593514",
+    "http://www.loc.gov/item/2012593514/",
+    "http://www.loc.gov/resource/g4282g.ct003338/",
+    "https://hdl.loc.gov/loc.gmd/g4282g.ct003338",
+    "https://search.catalog.loc.gov/instances/d16b3886-0a81-592d-a4a2-f3075c5e0dbf",
+    "https://www.loc.gov/item/2012593514/"
+  ],
+  "dct_issued_s": "1940",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd428/g4282/g4282g/ct003338.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593514/\"}",
+  "dct_spatial_sm": [
+    "grand coulee dam",
+    "grand coulee dam region",
+    "united states",
+    "washington",
+    "washington (state)"
+  ],
+  "dct_subject_sm": [
+    "Grand Coulee Dam (Wash.)--Maps",
+    "Grand Coulee Dam Region (Wash.)--Maps",
+    "United States--Washington (State)--Grand Coulee Dam",
+    "United States--Washington (State)--Grand Coulee Dam Region"
+  ],
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "dct_title_s": "A hysterical map of the Grand Coulee Dam : all connected up with running water : added attraction, Dry Falls",
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1940]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1940
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593514",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

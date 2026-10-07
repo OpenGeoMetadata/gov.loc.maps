@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. General Land Office",
+    "Publication statement: [S.l. : $b s.n.], $c 1866.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows land grant railroads, seats of land offices, and coal regions. Upper right hand margin: No. 10. Available also through the Library of Congress Web site as a raster image.",
+    "Shows land grant railroads, seats of land offices, and coal regions.",
+    "Upper right hand margin: No. 10."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4000.ct002461",
+    "http://lccn.loc.gov/2009579451",
+    "http://www.loc.gov/item/2009579451/",
+    "http://www.loc.gov/resource/g4000.ct002461/",
+    "https://hdl.loc.gov/loc.gmd/g4000.ct002461",
+    "https://search.catalog.loc.gov/instances/736e7e18-d8ef-5b96-bed7-e5914f01a017",
+    "https://www.loc.gov/item/2009579451/"
+  ],
+  "dct_issued_s": "1866",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4000/g4000/ct002461.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009579451/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Arkansas--Maps",
+    "Public lands--Arkansas--Maps",
+    "United States--Arkansas"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "dct_title_s": "Map of Arkansas",
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1866
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009579451",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

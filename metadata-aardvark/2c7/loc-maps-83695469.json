@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Smith, Anson",
+    "Indexed.",
+    "LC Civil War maps (2nd ed.) 396.35",
+    "Pencil, pen and ink.",
+    "Pencil, pen and ink. Indexed. Signed letter to John Taylor, hand written in ink, on verso. LC Civil War maps (2nd ed.) 396.35 Available also through the Library of Congress Web site as a raster image. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: 1863.",
+    "Signed letter to John Taylor, hand written in ink, on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3964b.cw0396350",
+    "http://lccn.loc.gov/83695469",
+    "http://www.loc.gov/item/83695469/",
+    "http://www.loc.gov/resource/g3964b.cw0396350/",
+    "https://hdl.loc.gov/loc.gmd/g3964b.cw0396350",
+    "https://search.catalog.loc.gov/instances/49f721f7-f268-5a39-a1c0-2fd16da74685",
+    "https://www.loc.gov/item/83695469/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964b/cw0396350.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83695469/\"}",
+  "dct_spatial_sm": [
+    "brentwood",
+    "camp brentwood",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Camp Brentwood (Brentwood, Tenn.)--Maps, Manuscript",
+    "Manuscript maps",
+    "United States--Tennessee--Camp Brentwood"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "[Sketch map of Camp Brentwood, Tennessee, while serving as quarters for the 86th and 104th regiments of the Illinois volunteers]",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83695469",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

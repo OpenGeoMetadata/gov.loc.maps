@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "General map: Compiled in 1989 from 1:100,000-scale topographic maps dated 1978-1986. Planimetry revised from aerial photographs taken 1983-86 and other source data.",
+    "In upper and lower right margins of satellite image map: 30084-D3-SI-500-01.",
+    "In upper right margin of general map: 30084-D3-ST-500.",
+    "Includes inset showing components of mosaic and table of photographic data on satellite image map.",
+    "Publication statement: Reston, Va. : The Survey, 1991.",
+    "Relief shown by contours and spot heights on general map. Depths shown by contours and gradient tints on general map.",
+    "Relief shown by contours and spot heights on general map. Depths shown by contours and gradient tints on general map. Satellite image map: Imagery recorded with Multispectral Scanner (MSS) on Landsats 2, 4, and 5. Segments of each map separately titled: Florida, north section -- Florida, south section. General map: Compiled in 1989 from 1:100,000-scale topographic maps dated 1978-1986. Planimetry revised from aerial photographs taken 1983-86 and other source data. UTM grid. Includes inset showing components of mosaic and table of photographic data on satellite image map. In upper and lower right margins of satellite image map: 30084-D3-SI-500-01. In upper right margin of general map: 30084-D3-ST-500. Available also through the Library of Congress Web site as a raster image.",
+    "Satellite image map: Imagery recorded with Multispectral Scanner (MSS) on Landsats 2, 4, and 5.",
+    "Segments of each map separately titled: Florida, north section -- Florida, south section.",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95683307",
+    "http://www.loc.gov/item/95683307/",
+    "http://www.loc.gov/resource/g3931a.ct010193r/",
+    "http://www.loc.gov/resource/g3931a.ct010193v/",
+    "https://hdl.loc.gov/loc.gmd/g3931a.ct010193r",
+    "https://hdl.loc.gov/loc.gmd/g3931a.ct010193v",
+    "https://search.catalog.loc.gov/instances/051780c0-36ab-56fb-b7b2-7ea0f8c99308",
+    "https://www.loc.gov/item/95683307/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3931/g3931a/ct010193r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95683307/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Florida--Maps",
+    "Florida--Remote-sensing maps",
+    "United States--Florida"
+  ],
+  "dct_temporal_sm": [
+    "1985 d1989"
+  ],
+  "dct_title_s": "State of Florida",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95683307",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

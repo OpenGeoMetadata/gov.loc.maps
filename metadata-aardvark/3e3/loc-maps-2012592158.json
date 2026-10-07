@@ -1,0 +1,80 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: H.F. Walling's Map Establishment; Walling, Henry Francis, 1825-1888",
+    "Former wall map.",
+    "General-content county map showing physical relief, townships, buildings in rural areas, and householders' names in rural areas; also shows householders' names in borough and village insets.",
+    "General-content county map showing physical relief, townships, buildings in rural areas, and householders' names in rural areas; also shows householders' names in borough and village insets. Relief shown by shading, hachures, and form lines. Former wall map. Originally printed on western/eastern sheets (now conjoined and mounted on cloth backing). LC copy imperfect: Lightly stained, missing torn-away section at left center (including small portion of cartographic content), each sheet sectioned to 3 panels to enable folding, annotated in red ink/lead pencil. Includes 2 borough business directories, 4 street-map insets (boroughs of Bellefonte/Milesburg/Philipsburg/Unionville), 17 village insets, distance table, and ill. of county court-house. LC Land ownership maps, 721 Available also through the Library of Congress Web site as a raster image.",
+    "Includes 2 borough business directories, 4 street-map insets (boroughs of Bellefonte/Milesburg/Philipsburg/Unionville), 17 village insets, distance table, and ill. of county court-house.",
+    "LC Land ownership maps, 721",
+    "LC copy imperfect: Lightly stained, missing torn-away section at left center (including small portion of cartographic content), each sheet sectioned to 3 panels to enable folding, annotated in red ink/lead pencil.",
+    "Originally printed on western/eastern sheets (now conjoined and mounted on cloth backing).",
+    "Publication statement: New York : S.D. Tilden, 1861.",
+    "Relief shown by shading, hachures, and form lines."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823c.la000721",
+    "http://lccn.loc.gov/2012592158",
+    "http://www.loc.gov/item/2012592158/",
+    "http://www.loc.gov/resource/g3823c.la000721/",
+    "https://hdl.loc.gov/loc.gmd/g3823c.la000721",
+    "https://search.catalog.loc.gov/instances/064429f7-5950-53d5-91f0-9eb255b63852",
+    "https://www.loc.gov/item/2012592158/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823c/la000721.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592158/\"}",
+  "dct_spatial_sm": [
+    "bellefonte",
+    "centre county",
+    "milesburg",
+    "pennsylvania",
+    "philipsburg",
+    "unionville",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Bellefonte (Pa.)--Maps",
+    "Centre County (Pa.)--Maps",
+    "Cities and towns--Pennsylvania--Centre County--Maps",
+    "Landowners--Pennsylvania--Centre County--Maps",
+    "Milesburg (Pa.)--Maps",
+    "Philipsburg (Pa.)--Maps",
+    "Unionville (Centre County, Pa.)--Maps",
+    "United States--Pennsylvania--Bellefonte",
+    "United States--Pennsylvania--Centre County",
+    "United States--Pennsylvania--Milesburg",
+    "United States--Pennsylvania--Philipsburg",
+    "United States--Pennsylvania--Unionville",
+    "Villages--Pennsylvania--Centre County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Topographical map of Centre Co., Pennsylvania : from actual surveys",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2012592158",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

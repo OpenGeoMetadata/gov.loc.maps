@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Date and title from Stephenson's Civil War maps, 1989.",
+    "Drawn on a 3/8-in. grid.",
+    "LC Land ownership maps, 1197",
+    "Library of Congress. Civil War maps (2nd ed.), H20",
+    "Pen-and-ink and pencil mounted on paper.",
+    "Publication statement: [186-]",
+    "Relief shown by hachures.",
+    "Shows the names of some residents.",
+    "Shows the names of some residents. Relief shown by hachures. Date and title from Stephenson's Civil War maps, 1989. Drawn on a 3/8-in. grid. Pen-and-ink and pencil mounted on paper. Library of Congress. Civil War maps (2nd ed.), H20 LC Land ownership maps, 1197 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883a.cwh00020",
+    "http://lccn.loc.gov/2002627424",
+    "http://www.loc.gov/item/2002627424/",
+    "http://www.loc.gov/resource/g3883a.cwh00020/",
+    "https://hdl.loc.gov/loc.gmd/g3883a.cwh00020",
+    "https://search.catalog.loc.gov/instances/02483378-75cf-555c-8210-8f9f3ebc2731",
+    "https://www.loc.gov/item/2002627424/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883a/cwh00020.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002627424/\"}",
+  "dct_spatial_sm": [
+    "albemarle county",
+    "albermarle county",
+    "augusta county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Albemarle County (Va.)--Maps",
+    "Augusta County (Va.)--Maps",
+    "Landowners--Virginia--Albemarle County--Maps",
+    "Landowners--Virginia--Augusta County--Maps",
+    "United States--Virginia--Albermarle County",
+    "United States--Virginia--Augusta County"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "[Map of Albemarle County, north of the Virginia Central Railroad, and a portion of Augusta County along the south fork of the Shenandoah River]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002627424",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

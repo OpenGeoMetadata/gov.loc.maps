@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"39399 5-64.\"",
+    "\"39399 5-64.\" Shows political status of countries and date of independence. Includes comparative area map, map showing \"Political affiliation, 1952,\" and directory of government leaders and population. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes comparative area map, map showing \"Political affiliation, 1952,\" and directory of government leaders and population.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1964]",
+    "Shows political status of countries and date of independence."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8200.ct002509",
+    "http://lccn.loc.gov/97687653",
+    "http://www.loc.gov/item/97687653/",
+    "http://www.loc.gov/resource/g8200.ct002509/",
+    "https://hdl.loc.gov/loc.gmd/g8200.ct002509",
+    "https://search.catalog.loc.gov/instances/8f23f29b-a940-5284-ae0a-6c89b63cbfbc",
+    "https://www.loc.gov/item/97687653/"
+  ],
+  "dct_issued_s": "1964",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8200/g8200/ct002509.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97687653/\"}",
+  "dct_spatial_sm": [
+    "africa"
+  ],
+  "dct_subject_sm": [
+    "Africa",
+    "Africa--Maps",
+    "Africa--Politics and government--1960---Maps"
+  ],
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "dct_title_s": "Africa, administrative divisions, 1 May 1964",
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1964]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1964
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97687653",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

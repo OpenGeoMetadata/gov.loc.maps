@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: California title collection--counties Napa-Nevada",
+    "Alternate supplied title: California title collection--drawer 170"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Various places] : [various publishers], [approximately 1850 to 1970]",
+    "This record covers single maps covering counties of California, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps as well as some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show one to three counties, and may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps covering counties of California, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps as well as some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show one to three counties, and may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. Available also through the Library of Congress Web site as a raster image.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021589912",
+    "http://www.loc.gov/item/2021589912/",
+    "http://www.loc.gov/resource/gmdtitlecolmaps.ca-170/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolmaps.ca-170",
+    "https://search.catalog.loc.gov/instances/78f01fe5-b975-51cd-ade7-d59e1ccd452e",
+    "https://www.loc.gov/item/2021589912/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/master:gmd:gmdtitlecolmaps:ca:-1:70:ca-170:ca-170-02-01/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021589912/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "napa county",
+    "nevada county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Counties--California--Maps",
+    "Geology--California--Maps",
+    "Hydrology--California--Maps",
+    "Napa County (Calif.)--Maps",
+    "Nevada County (Calif.)--Maps",
+    "Outdoor recreation--California--Maps",
+    "Roads--California--Napa County--Maps",
+    "Roads--California--Nevada County--Maps",
+    "United States--California",
+    "United States--California--Napa County",
+    "United States--California--Nevada County"
+  ],
+  "dct_temporal_sm": [
+    "1850",
+    "[Various places] : [various publishers], [approximately 1850 to 1970]"
+  ],
+  "dct_title_s": "[Maps of California--counties Napa-Nevada]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2021589912",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

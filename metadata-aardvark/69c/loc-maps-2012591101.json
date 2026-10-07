@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright 1879. W.C. Walsh. Commissioner of the Genl. Land Office of the State of Texas.\"",
+    "\"Lithographed by August Gast & Co.s New Process. St. Louis.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: August Gast & Co; Texas. General Land Office; Walsh, W. C. (William C.), 1836-1924",
+    "LC Land ownership maps, 968",
+    "Mounted on paper stained throughout.",
+    "Publication statement: [Austin, Tex.] : General Land Office, c1879.",
+    "Shows land ownership.",
+    "Shows land ownership. \"Copyright 1879. W.C. Walsh. Commissioner of the Genl. Land Office of the State of Texas.\" \"Lithographed by August Gast & Co.s New Process. St. Louis.\" Mounted on paper stained throughout. LC Land ownership maps, 968 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033f.la000968",
+    "http://lccn.loc.gov/2012591101",
+    "http://www.loc.gov/item/2012591101/",
+    "http://www.loc.gov/resource/g4033f.la000968/",
+    "https://hdl.loc.gov/loc.gmd/g4033f.la000968",
+    "https://search.catalog.loc.gov/instances/6215a361-bd35-598b-8e43-53934cab49a3",
+    "https://www.loc.gov/item/2012591101/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033f/la000968.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012591101/\"}",
+  "dct_spatial_sm": [
+    "falls county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Falls County (Tex.)--Maps",
+    "Landowners--Texas--Falls County--Maps",
+    "Real property--Texas--Falls County--Maps",
+    "United States--Texas--Falls County"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Map of Falls County, Texas",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012591101",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

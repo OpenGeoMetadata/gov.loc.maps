@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 20-85",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Blaeu, Willem Janszoon, 1571-1638; Ende, Josua van den, approximately 1584-approximately 1634",
+    "Dated 1606 in statement of dedication.",
+    "Dated 1606 in statement of dedication. Relief shown pictorially. Described in: The mapping of the world / Rodney W. Shirley. London : Holland Press, 1983. No. 255, state 2. Includes ill. and 2 insets. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 20-85",
+    "Described in: The mapping of the world / Rodney W. Shirley. London : Holland Press, 1983. No. 255, state 2.",
+    "Includes ill. and 2 insets.",
+    "Publication statement: Amstelodami : Excudebat G. Ianssonius, [1606]",
+    "Relief shown pictorially."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct001217r",
+    "http://hdl.loc.gov/loc.gmd/g3200.ct001217v",
+    "http://lccn.loc.gov/87690702",
+    "http://www.loc.gov/item/87690702/",
+    "http://www.loc.gov/resource/g3200.ct001217r/",
+    "http://www.loc.gov/resource/g3200.ct001217v/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct001217r",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct001217v",
+    "https://search.catalog.loc.gov/instances/70884630-26ef-5c06-9cfa-031a6e0377fd",
+    "https://www.loc.gov/item/87690702/"
+  ],
+  "dct_issued_s": "1606",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct001217r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87690702/\"}",
+  "dct_spatial_sm": [
+    "earth"
+  ],
+  "dct_subject_sm": [
+    "Earth",
+    "World maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1606"
+  ],
+  "dct_title_s": "Nova totius terrarum orbis geographica ac hydrographica tabula",
+  "gbl_dateRange_drsim": [
+    "[1606 TO 1606]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1606
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87690702",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

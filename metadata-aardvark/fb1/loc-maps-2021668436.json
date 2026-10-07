@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Scale 1:330,000\"--Note extracted from World Digital Library.",
+    "Content in English and Inuktitut.",
+    "Contributors: Flaherty, Robert Joseph, 1884-1951 Annotator.; Wetallok Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : manuscript ; 36 x 31 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1909.",
+    "This map is the central object in the story of how geographical knowledge was passed from an Inuk man named Wetalltok to a non-native explorer. In an article in the Geographical Review in 1918, Robert J. Flaherty (1884--1951) recounted the story of how, while he was searching for iron ore deposits on the east coast of Hudson Bay, Canada, Wetallok explained the intricacies of the bay's island system and shared with him this remarkably accurate Eskimo map, which Flaherty reproduced in the article. Flaherty later became a director and producer whose first film, Nanook of the North (1922), was one of the best known documentaries of the silent-era. Flaherty also told the story of his encounter with Wetallok in his 1924 book, My Eskimo Friends: \"Nanook of the North.\" Recent historians of cartography, notably G. Malcolm Lewis in Cartographic Encounters: Perspectives on Native American Mapmaking and Map Use, and Lewis and David Woodward in History of Cartography, also have used the map as an example of indigenous cartography. The map is drawn with pencil on the back of a missionary lithograph. Notations are in English and Inuktitut syllabics. Flaherty's annotations include \"Little Whale River\" [with arrow], \"Whale River\" [with arrow], and \"3 days = dogs = app. 70 miles.\"",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668436",
+    "http://www.loc.gov/item/2021668436/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_06767/",
+    "http://www.loc.gov/resource/wdl.6767/",
+    "https://hdl.loc.gov/loc.wdl/wdl.6767",
+    "https://www.loc.gov/item/2021668436/"
+  ],
+  "dct_issued_s": "1909-01-01",
+  "dct_language_sm": [
+    "eng",
+    "inuktitut"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_06767.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/06/76/7/wdl_06767/wdl_06767.pdf\"}, {\"label\": \"ZIP: wdl_06767.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/06/76/7/wdl_06767/wdl_06767.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:06:76:7:wdl_06767:002_am004589/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668436/\"}",
+  "dct_spatial_sm": [
+    "belcher islands",
+    "canada",
+    "nunavut"
+  ],
+  "dct_subject_sm": [
+    "1909",
+    "Canada--Nunavut--Belcher Islands",
+    "Eskimo cartography",
+    "Indians of North America",
+    "Indigenous peoples",
+    "Inuit"
+  ],
+  "dct_temporal_sm": [
+    "1909-01-01"
+  ],
+  "dct_title_s": "Map of Belcher Islands.",
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1909
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668436",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

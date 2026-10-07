@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotated in pencil for English translation.",
+    "Annotated in pencil with Canal Zone Library map checklist number: 175.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Compagnie universelle du canal interocéanique de Panama. Chef de section",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1890]",
+    "Transferred from the collection of the Canal Zone Library-Museum, 1980.",
+    "Transferred from the collection of the Canal Zone Library-Museum, 1980. Pen-and-ink and watercolor. Annotated in pencil for English translation. Annotated in pencil with Canal Zone Library map checklist number: 175. Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4872p.pcc00003",
+    "http://lccn.loc.gov/83694740",
+    "http://www.loc.gov/item/83694740/",
+    "http://www.loc.gov/resource/g4872p.pcc00003/",
+    "https://hdl.loc.gov/loc.gmd/g4872p.pcc00003",
+    "https://search.catalog.loc.gov/instances/f1360707-3c2f-5ee0-9dbe-3afa379924f9",
+    "https://www.loc.gov/item/83694740/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4872/g4872p/pcc00003.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83694740/\"}",
+  "dct_spatial_sm": [
+    "panama",
+    "panama canal"
+  ],
+  "dct_subject_sm": [
+    "Geology--Panama--Panama Canal--Maps",
+    "Panama Canal (Panama)--Maps, Manuscript",
+    "Panama Canal (Panama)--Maps, Physical",
+    "Panama--Panama Canal"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Coupe geologique suivant le profil en long du canal à ecluses du kil. 54.200 au kil. 55.340, echelles de 1/1000 pour les longueurs [et] 1/500 pour les hauteurs : [Panama Canal] ; Profils en travers geologiques, nos. 54.300, 550, 800 et 55.044, 050, 135, 220, echelles de 1/1000 pour les longueurs [et] 1/500 pour les hauteurs",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83694740",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

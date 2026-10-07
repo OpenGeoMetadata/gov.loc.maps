@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771; Le Rouge, Georges-Louis",
+    "From the author's Atlas général contenant le detail des quatre parties du monde principalement. [1762]",
+    "Includes a table of comparative latitudes and longitudes.",
+    "LC Maps of North America, 1750-1789, 32",
+    "Publication statement: Paris, Le Rouge [1762]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Text in French and German. From the author's Atlas général contenant le detail des quatre parties du monde principalement. [1762] Includes a table of comparative latitudes and longitudes. Scale ca. 1:2,000,000. LC Maps of North America, 1750-1789, 32 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:2,000,000.",
+    "Text in French and German.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3400.ar003200",
+    "http://lccn.loc.gov/73695762",
+    "http://www.loc.gov/item/73695762/",
+    "http://www.loc.gov/resource/g3400.ar003200/",
+    "https://hdl.loc.gov/loc.gmd/g3400.ar003200",
+    "https://search.catalog.loc.gov/instances/2fd5c459-9141-54dd-b183-6aaf43290f93",
+    "https://www.loc.gov/item/73695762/"
+  ],
+  "dct_issued_s": "1762",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3400/g3400/ar003200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73695762/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "new france"
+  ],
+  "dct_subject_sm": [
+    "Canada",
+    "Canada--Maps--Early works to 1800",
+    "New France",
+    "New France--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1762"
+  ],
+  "dct_title_s": "Partie orientale du Canada",
+  "gbl_dateRange_drsim": [
+    "[1762 TO 1762]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1762
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73695762",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Maps of North America, 1750-1789, 1397",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Prime meridian: Charleston. Relief shown pictorially. Shows \"Old Cherokee Boundary\" which was changed in 1777. Scale ca. 1:260,000. LC Maps of North America, 1750-1789, 1397 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Prime meridian: Charleston.",
+    "Publication statement: [1777?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:260,000.",
+    "Shows \"Old Cherokee Boundary\" which was changed in 1777.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3901f.ar139700",
+    "http://lccn.loc.gov/73691634",
+    "http://www.loc.gov/item/73691634/",
+    "http://www.loc.gov/resource/g3901f.ar139700/",
+    "https://hdl.loc.gov/loc.gmd/g3901f.ar139700",
+    "https://search.catalog.loc.gov/instances/e3e3f933-1c77-51f0-94ec-7179b3f95e8a",
+    "https://www.loc.gov/item/73691634/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3901/g3901f/ar139700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691634/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "North Carolina--Boundaries--South Carolina--Maps, Manuscript--Early works to 1800",
+    "South Carolina--Boundaries--North Carolina--Maps, Manuscript--Early works to 1800",
+    "United States--North Carolina",
+    "United States--South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1777",
+    "[1777?]"
+  ],
+  "dct_title_s": "A Plan of that part of the boundary between the states of North and South Carolina, lying between that part of said boundary marked in 1764 and the old Cherokee boundary line. Fixed and marked by commissioners appointed by each respective colony, now states, in June A.D. 1772",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691634",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

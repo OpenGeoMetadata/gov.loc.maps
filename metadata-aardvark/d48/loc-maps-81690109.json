@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-15290.\"",
+    "\"October 1979.\"",
+    "\"October 1979.\" \"1-15290.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Publication statement: Lanham, MD : USDA-SCS, 1979."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881c.ct008944",
+    "http://lccn.loc.gov/81690109",
+    "http://www.loc.gov/item/81690109/",
+    "http://www.loc.gov/resource/g3881c.ct008944/",
+    "https://hdl.loc.gov/loc.gmd/g3881c.ct008944",
+    "https://search.catalog.loc.gov/instances/54a12159-d086-541d-a14e-4d090db07d4d",
+    "https://www.loc.gov/item/81690109/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881c/ct008944.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690109/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Physical geography--Virginia--Maps",
+    "United States--Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Major land resources areas (MLRA) adjusted to county boundaries, Virginia, by physiographic regions",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690109",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

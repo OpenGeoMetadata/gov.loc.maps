@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Luso-Hispanic World, 632",
+    "Maggs number annotated in pencil in lower right corner: 400.",
+    "Mounted on cloth backing.",
+    "Noteworthy acc. 1927-28, no. 98",
+    "Order no. annotated in pencil in lower margin: 367886/27 (incorrect no. should be 367884).",
+    "Pen-and-ink.",
+    "Prime meridian: Panama.",
+    "Printed label describing the map mounted on verso.",
+    "Publication statement: [1793]",
+    "Relief shown by shading. Depths shown by soundings.",
+    "Relief shown by shading. Depths shown by soundings. Prime meridian: Panama. Watermarks: J. Honig & Zoonen; and, beehive over the characters JH & Z. Pen-and-ink. Mounted on cloth backing. Printed label describing the map mounted on verso. Maggs number annotated in pencil in lower right corner: 400. Order no. annotated in pencil in lower margin: 367886/27 (incorrect no. should be 367884). LC Luso-Hispanic World, 632 Available also through the Library of Congress Web site as a raster image. Vault Noteworthy acc. 1927-28, no. 98",
+    "Vault",
+    "Watermarks: J. Honig & Zoonen; and, beehive over the characters JH & Z."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4872p.lh000632",
+    "http://lccn.loc.gov/90680560",
+    "http://www.loc.gov/item/90680560/",
+    "http://www.loc.gov/resource/g4872p.lh000632/",
+    "https://hdl.loc.gov/loc.gmd/g4872p.lh000632",
+    "https://search.catalog.loc.gov/instances/788bedff-bec4-5555-a4b5-37352e911022",
+    "https://www.loc.gov/item/90680560/"
+  ],
+  "dct_issued_s": "1793",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4872/g4872p/lh000632.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90680560/\"}",
+  "dct_spatial_sm": [
+    "gulf of panama",
+    "panama",
+    "panama, gulf of",
+    "panama, gulf of."
+  ],
+  "dct_subject_sm": [
+    "Coasts--Panama--Panama, Gulf of--Maps, Manuscript--Early works to 1800",
+    "Panama, Gulf of (Panama)--Maps, Manuscript--Early works to 1800",
+    "Panama--Panama, Gulf of"
+  ],
+  "dct_temporal_sm": [
+    "1793"
+  ],
+  "dct_title_s": "Carta esférica del Golfo de Panama",
+  "gbl_dateRange_drsim": [
+    "[1793 TO 1793]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1793
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90680560",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

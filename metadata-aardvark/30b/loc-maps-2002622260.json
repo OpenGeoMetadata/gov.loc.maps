@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Pendleton's Lithography.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: American Antiquarian Society; Gallatin, Albert, 1761-1849",
+    "From: American Antiquarian Society. Transactions and collections. Vol. 2, 1836, fol. p. 264.",
+    "Hand colored to show the location of Indian tribes and 11 linguistic families.",
+    "Publication statement: [Washington, D.C.] : The Society, [1836]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. \"Pendleton's Lithography.\" From: American Antiquarian Society. Transactions and collections. Vol. 2, 1836, fol. p. 264. Hand colored to show the location of Indian tribes and 11 linguistic families. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3301e.ct000669",
+    "http://hdl.loc.gov/loc.gmd/g3301e.ct007512",
+    "http://lccn.loc.gov/2002622260",
+    "http://www.loc.gov/item/2002622260/",
+    "http://www.loc.gov/resource/g3301e.ct000669/",
+    "http://www.loc.gov/resource/g3301e.ct007512/",
+    "https://hdl.loc.gov/loc.gmd/g3301e.ct000669",
+    "https://hdl.loc.gov/loc.gmd/g3301e.ct007512",
+    "https://search.catalog.loc.gov/instances/30a244f0-7576-5b4c-9d80-0173d4d95c15",
+    "https://www.loc.gov/item/2002622260/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3301/g3301e/ct000669.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002622260/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "Indians of North America--Maps",
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1600 d1800",
+    "Map of the Indian tribes of North America, about 1600 A.D. along the Atlantic, & about 1800 A.D. westwardly"
+  ],
+  "dct_title_s": "Map of the Indian tribes of North America, about 1600 A.D. along the Atlantic, & about 1800 A.D. westwardly",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002622260",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

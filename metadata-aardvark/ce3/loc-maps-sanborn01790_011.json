@@ -1,0 +1,83 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "132 sheet(s).",
+    "Bound. Other places as they appear on original: Blue Island, Bremen, Tinley Park, Burnside, Chicago Heights, Chicago Ridge, Clifton, Columbia Heights, Dolton, Fernwood, Gano, Glenwood, Harvey, Homewood, Kensington, Matteson, Morgan Park, Mount Greenwood, New Chicago, Orland, Palos Springs, Pullman, Purington, Riverdale, Roseland, South Holland, Thornton, Washington Heights, West Pullman, Wireton Park, Worth.",
+    "Vol. E, 1897."
+  ],
+  "dct_identifier_sm": [
+    "https://www.loc.gov/item/sanborn01790_011/"
+  ],
+  "dct_issued_s": "1897",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn01790_011/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104cm/g017901897E/01790_E_1897-0000a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn01790_011/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "Blue Island",
+    "Bremen",
+    "Burnside",
+    "Chicago",
+    "Chicago Heights",
+    "Chicago Ridge",
+    "Clifton",
+    "Columbia Heights",
+    "Cook County",
+    "Dolton",
+    "Fernwood",
+    "Gano",
+    "Glenwood",
+    "Harvey",
+    "Homewood",
+    "Illinois",
+    "Kensington",
+    "Matteson",
+    "Morgan Park",
+    "Mount Greenwood",
+    "New Chicago",
+    "Orland",
+    "Palos Springs",
+    "Pullman",
+    "Purington",
+    "Riverdale",
+    "Roseland",
+    "South Holland",
+    "Thornton",
+    "Tinley Park",
+    "United States",
+    "Washington Heights",
+    "West Pullman",
+    "Wireton Park",
+    "Worth"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Chicago, Cook County, Illinois.",
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete.",
+    "Catalog access is public. Item-level access restrictions have not been refreshed since the historical package; consult the LOC catalog for current access."
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn01790_011",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

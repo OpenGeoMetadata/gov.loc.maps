@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-16590.\"",
+    "\"March 1981.\"",
+    "\"March 1981.\" \"This natural soil group map is a generalization of the detailed soil map of St. Marys County Soil Survey ...\" Includes notes and location map. \"1-16590.\" Available also through the Library of Congress Web site as a raster image. Stamped on LC copy: Produced under contract printing.",
+    "\"This natural soil group map is a generalization of the detailed soil map of St. Marys County Soil Survey ...\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes notes and location map.",
+    "Publication statement: [Lanham? Md.] : The Service, [1981]",
+    "Stamped on LC copy: Produced under contract printing."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3843s.ct008738",
+    "http://lccn.loc.gov/81693031",
+    "http://www.loc.gov/item/81693031/",
+    "http://www.loc.gov/resource/g3843s.ct008738/",
+    "https://hdl.loc.gov/loc.gmd/g3843s.ct008738",
+    "https://search.catalog.loc.gov/instances/d17491e1-6f50-58c2-aa90-70de632c8dbf",
+    "https://www.loc.gov/item/81693031/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3843/g3843s/ct008738.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81693031/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "saint mary's county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soils--Maryland--Saint Mary's County--Maps",
+    "United States--Maryland--Saint Mary's County"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Natural soil groups, St. Marys County, Maryland",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81693031",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 26\" is in the upper left corner.",
+    "1:40,000.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: United States Coast Survey",
+    "Description derived from published bibliography.",
+    "From its Report of the Superintendent of the Coast Survey, showing the progress of the survey during the year 1864 (Washington, Government Printing Office, 1866). Map 26.",
+    "From its Report of the Superintendent of the Coast Survey, showing the progress of the survey during the year 1864 (Washington, Government Printing Office, 1866). Map 26. \"No. 26\" is in the upper left corner. Description derived from published bibliography. 1:40,000. LC Civil War Maps (2nd ed.), 368a.3 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 368a.3",
+    "Publication statement: [Washington, U.S. Coast Survey], 1864."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3912b.cw0368a30",
+    "http://lccn.loc.gov/99448825",
+    "http://www.loc.gov/item/99448825/",
+    "http://www.loc.gov/resource/g3912b.cw0368a30/",
+    "https://hdl.loc.gov/loc.gmd/g3912b.cw0368a30",
+    "https://search.catalog.loc.gov/instances/a750b49c-fdb4-5353-b30a-dcb20d6b00a8",
+    "https://www.loc.gov/item/99448825/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3912/g3912b/cw0368a30.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448825/\"}",
+  "dct_spatial_sm": [
+    "beaufort river",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Nautical charts--South Carolina--Beaufort River",
+    "United States--South Carolina--Beaufort River"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Preliminary chart of Beaufort River, Station Creek, Story and Harbor Rivers forming inside passage between Port Royal and St. Helena Sounds, South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448825",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

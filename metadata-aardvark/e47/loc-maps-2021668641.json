@@ -1,0 +1,79 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte de l'océan occidental et partie de l'Amérique septentrionale dressée pour l'intelligence du journal du voyage que le R.P. de Charlevoix de la Compagnie de Jesus a fait en 1720 au Canada, à la Louisiane & à St Domingue"
+  ],
+  "dct_description_sm": [
+    "Content in French.",
+    "Contributors: Bellin, Jacques-Nicolas, 1703-1772 Cartographer.; Desbrulins, F. Engraver.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of France.",
+    "Original resource extent: 1 map ; 27 x 40 centimeters.",
+    "Pierre-François-Xavier de Charlevoix was a French Jesuit priest who made a voyage to America in 1720-22. He had already taught in Quebec in 1705-9 and then was recalled to France. He departed Rochefort for New France on July 2, 1720, and arrived in Quebec on September 23 of that year. From there, he traveled to Montreal, Ontario, Niagara Falls, and as far as Lake Michigan. He then went down the Mississippi River to New Orleans, where he arrived on January 10, 1722. His vessel the Adour was shipwrecked in April 1722, making it impossible for him to reach his intended destination of Saint-Domingue (present-day Haiti). He traveled along the coast of Spanish Florida to Biloxi and then back to New Orleans, where he arrived on June 3, before eventually going to Cuba and Saint-Domingue, from where he departed for France. He arrived in Le Havre on December 26, 1722. He described his voyage in the third volume of his Histoire et description générale de la Nouvelle France (History and general description of New France), published in 1744. This map showing the route of Charlevoix's voyage is by Jacques Bellin (1703-72), a prolific cartographer attached to the French Marine Office. Bellin's maps and sea atlases reflect the careful mapping of bays, seas, and harbors that characterized 18th-century French naval cartography. The map is from the collection of the geographer Jean-Baptiste Bourguignon d'Anville (1697--1782). It was given to King Louis XVI in 1782 and deposited in the National Library of France in 1924.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1744.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668641",
+    "http://www.loc.gov/item/2021668641/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15493/",
+    "http://www.loc.gov/resource/wdl.15493/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15493",
+    "https://www.loc.gov/item/2021668641/"
+  ],
+  "dct_issued_s": "1744-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15493.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/49/3/wdl_15493/wdl_15493.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:49:3:wdl_15493:T0000001/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668641/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "cuba",
+    "florida",
+    "france",
+    "haiti",
+    "louisiana",
+    "quebec",
+    "united states of america"
+  ],
+  "dct_subject_sm": [
+    "1720 to 1722",
+    "Canada--Quebec",
+    "Charlevoix, Pierre-François-Xavier de, 1682-1761",
+    "Cuba",
+    "France",
+    "France in America",
+    "France--Colonies",
+    "Haiti",
+    "Jesuits",
+    "New France",
+    "United States of America",
+    "United States of America--Florida",
+    "United States of America--Louisiana",
+    "Voyages and travels"
+  ],
+  "dct_temporal_sm": [
+    "1744-01-01"
+  ],
+  "dct_title_s": "Map of the Western Ocean and Part of Northern America Drawn up to Record the Travels in 1720 of Father Charlevoix of the Society of Jesus in Canada, Louisiana and Saint-Domingue.",
+  "gbl_dateRange_drsim": [
+    "[1744 TO 1744]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1744
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668641",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: United States. National Park Service",
+    "Description derived from published bibliography.",
+    "Illustrates the descriptive leaflet. The map indicates the park boundary, earthworks, roads, and \"tactical disposition of troops on the night of Feb. 15, 1862.\"",
+    "Illustrates the descriptive leaflet. The map indicates the park boundary, earthworks, roads, and \"tactical disposition of troops on the night of Feb. 15, 1862.\" Description derived from published bibliography. Scale ca. 1:22,500. LC Civil War Maps (2nd ed.), 411.5 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 411.5",
+    "Publication statement: [Washington], Government Printing Office, reprint 1959.",
+    "Scale ca. 1:22,500."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3962f.cw0411500",
+    "http://lccn.loc.gov/99448849",
+    "http://www.loc.gov/item/99448849/",
+    "http://www.loc.gov/resource/g3962f.cw0411500/",
+    "https://hdl.loc.gov/loc.gmd/g3962f.cw0411500",
+    "https://search.catalog.loc.gov/instances/6a56710b-967c-5e95-8428-f19dbbbc1d25",
+    "https://www.loc.gov/item/99448849/"
+  ],
+  "dct_issued_s": "1959",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3962/g3962f/cw0411500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448849/\"}",
+  "dct_spatial_sm": [
+    "fort donelson national battlefield",
+    "kentucky",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Donelson National Battlefield (Tenn. and Ky.)--Maps",
+    "Tennessee--History--Civil War, 1861-1865--Maps",
+    "United States--Tennessee",
+    "United States--Tennessee--Fort Donelson National Battlefield"
+  ],
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "dct_title_s": "Fort Donelson National Military Park, Tennessee",
+  "gbl_dateRange_drsim": [
+    "[1959 TO 1959]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1959
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448849",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

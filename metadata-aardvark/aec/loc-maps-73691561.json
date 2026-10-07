@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "In pencil: 219.",
+    "LC Maps of North America, 1750-1789, 1645",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Oriented with north to the right. In pencil: 219. Scale ca. 1:7,300. LC Maps of North America, 1750-1789, 1645 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Oriented with north to the right.",
+    "Publication statement: 1782.",
+    "Scale ca. 1:7,300.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3934s.ar164500",
+    "http://lccn.loc.gov/73691561",
+    "http://www.loc.gov/item/73691561/",
+    "http://www.loc.gov/resource/g3934s.ar164500/",
+    "https://hdl.loc.gov/loc.gmd/g3934s.ar164500",
+    "https://search.catalog.loc.gov/instances/1443107e-4383-5422-ad90-08d331b9a685",
+    "https://www.loc.gov/item/73691561/"
+  ],
+  "dct_issued_s": "1782",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3934/g3934s/ar164500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691561/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "saint augustine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps--Early works to 1800",
+    "Saint Augustine (Fla.)--Maps, Manuscript--Early works to 1800",
+    "United States--Florida--Saint Augustine"
+  ],
+  "dct_temporal_sm": [
+    "1782"
+  ],
+  "dct_title_s": "St. Augustine and its environs",
+  "gbl_dateRange_drsim": [
+    "[1782 TO 1782]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1782
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691561",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"January 31, 1974.\"",
+    "\"January 31, 1974.\" \"NCPC map file no. 40.00/100.00-27336.\" Scale ca. 1:135,000. Available also through the Library of Congress Web site as a raster image. DCP AACR2",
+    "\"NCPC map file no. 40.00/100.00-27336.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Capital Planning Commission",
+    "DCP",
+    "Publication statement: [Washington] 1974.",
+    "Scale ca. 1:135,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct004883",
+    "http://lccn.loc.gov/75690029",
+    "http://www.loc.gov/item/75690029/",
+    "http://www.loc.gov/resource/g3851p.ct004883/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct004883",
+    "https://search.catalog.loc.gov/instances/9a8f68d2-53ad-5652-a302-eebe98fa7fba",
+    "https://www.loc.gov/item/75690029/"
+  ],
+  "dct_issued_s": "1974",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct004883.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75690029/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "Subways--Washington (D.C.)--Planning--Maps",
+    "Subways--Washington Metropolitan Area--Planning--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Metropolitan Area"
+  ],
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "dct_title_s": "Comprehensive plan for the National Capital, mass transportation plan",
+  "gbl_dateRange_drsim": [
+    "[1974 TO 1974]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1974
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75690029",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

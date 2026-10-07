@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotation in ink \"Ezra Ch[urch]\" west of Atlanta.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Civil War salted paper maps.",
+    "Contributors: Brooks, Alfred F.; Poe, O. M. (Orlando Metcalfe), 1832-1895; United States. Army. Military Division of the Mississippi. Chief Engrs. Office",
+    "In manuscript ink at lower left: \"Photographed at Chief Engr's Office, Mily. Divn. Miss., Atlanta, Ga.\"",
+    "In manuscript pencil at lower left: \"Federal lines in blue, Rebel [lines in] red.\"",
+    "LC copy imperfect: Sectioned horizontally in half, mounted on paper, margins trimmed.",
+    "Library of Congress. Civil War maps (2nd ed.), S33, 123",
+    "Publication statement: [Atlanta, Ga. : Military Division of the Mississippi, Chief Engineers Office, 1864?]",
+    "Relief shown by hachures.",
+    "Shows Union and Confederate works in southeastern Tennessee and northwestern Georgia.",
+    "Shows Union and Confederate works in southeastern Tennessee and northwestern Georgia. Relief shown by hachures. Civil War salted paper maps. Annotation in ink \"Ezra Ch[urch]\" west of Atlanta. In manuscript pencil at lower left: \"Federal lines in blue, Rebel [lines in] red.\" In manuscript ink at lower left: \"Photographed at Chief Engr's Office, Mily. Divn. Miss., Atlanta, Ga.\" LC copy imperfect: Sectioned horizontally in half, mounted on paper, margins trimmed. Library of Congress. Civil War maps (2nd ed.), S33, 123 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3921s.cws00033",
+    "http://lccn.loc.gov/2006459232",
+    "http://www.loc.gov/item/2006459232/",
+    "http://www.loc.gov/resource/g3921s.cws00033/",
+    "https://hdl.loc.gov/loc.gmd/g3921s.cws00033",
+    "https://search.catalog.loc.gov/instances/922340c6-0f06-5040-b2d7-ac8d8efa14fd",
+    "https://www.loc.gov/item/2006459232/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3921/g3921s/cws00033.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006459232/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--History--Civil War, 1861-1865--Maps",
+    "Sherman, William T.--(William Tecumseh),--1820-1891",
+    "Tennessee--History--Civil War, 1861-1865--Maps",
+    "United States--Georgia",
+    "United States--Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "1864-05-05",
+    "[Atlanta, Ga. : Military Division of the Mississippi, Chief Engineers Office, 1864?]"
+  ],
+  "dct_title_s": "Map illustrating the operations of the army under com'd of Maj. Gen. W.T. Sherman, in Georgia, from May 5th to September 4th, 1864",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006459232",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

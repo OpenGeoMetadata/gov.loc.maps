@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1000358-01.\"",
+    "\"Source: Base compiled from U.S.G.S. 1:500,000 state base map, Lambert conformal conic preojection. Administrative information from SCS field personnel.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Publication statement: [Washington, D.C.] : U.S. Department of Agriculture, Soil Conservation Service, 1987.",
+    "Shows soil and water conservation districts and Soil Conservation Service administrative areas and offices.",
+    "Shows soil and water conservation districts and Soil Conservation Service administrative areas and offices. \"Source: Base compiled from U.S.G.S. 1:500,000 state base map, Lambert conformal conic preojection. Administrative information from SCS field personnel.\" \"1000358-01.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881j.ct008995",
+    "http://lccn.loc.gov/2015587114",
+    "http://www.loc.gov/item/2015587114/",
+    "http://www.loc.gov/resource/g3881j.ct008995/",
+    "https://hdl.loc.gov/loc.gmd/g3881j.ct008995",
+    "https://search.catalog.loc.gov/instances/8f59f093-5ef7-5cfb-9bb3-130e7fa6ad29",
+    "https://www.loc.gov/item/2015587114/"
+  ],
+  "dct_issued_s": "1987",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881j/ct008995.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2015587114/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Soil conservation districts--Virginia--Maps",
+    "United States--Virginia",
+    "United States.--Soil Conservation Service--Maps",
+    "Water districts--Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "dct_title_s": "Administrative areas Virginia",
+  "gbl_dateRange_drsim": [
+    "[1987 TO 1987]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1987
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2015587114",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "A.M.S. M832",
+    "Standard map series designation: A.M.S. M832",
+    "Standard map series designation: [Series] M832",
+    "[Series] M832"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service; United States. Army. American Expeditionary Forces",
+    "Ed. statements differ, e.g.: First edition-AMS 1 -- First edition (AMS 1), 1944 -- Second edition (AEF) -- Second edition (A.E.F.) -- 2nd ed. (A.E.F.) -- Third edition (A.E.F.).",
+    "Filing title in lower margin at right on some sheets.",
+    "Former security classification statement in upper margin on some sheets: For use by War and Navy Department agencies only.",
+    "Imperfect: Sheets variously annotated, rubber-stamped, laminated, mounted on cloth backing.",
+    "Includes source-materials note, glossary, and diagrams.",
+    "Publication statement: Washington : Army Map Service, U.S. Army, 1944-",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Filing title in lower margin at right on some sheets. Sheets individually subtitled in upper margin at center. Various eds. of some sheets. Ed. statements differ, e.g.: First edition-AMS 1 -- First edition (AMS 1), 1944 -- Second edition (AEF) -- Second edition (A.E.F.) -- 2nd ed. (A.E.F.) -- Third edition (A.E.F.). Some sheets have grid identification statement: Nord de Guerre zone grid (blue), projection--Lambert conical orthomorphic. Former security classification statement in upper margin on some sheets: For use by War and Navy Department agencies only. Imperfect: Sheets variously annotated, rubber-stamped, laminated, mounted on cloth backing. Includes source-materials note, glossary, and diagrams. Available also through the Library of Congress Web site as a raster image.",
+    "Sheets individually subtitled in upper margin at center.",
+    "Some sheets have grid identification statement: Nord de Guerre zone grid (blue), projection--Lambert conical orthomorphic.",
+    "Various eds. of some sheets."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6000m.gct00041",
+    "http://lccn.loc.gov/2003630733",
+    "http://www.loc.gov/item/2003630733/",
+    "http://www.loc.gov/resource/g6000m.gct00041/",
+    "https://hdl.loc.gov/loc.gmd/g6000m.gct00041",
+    "https://search.catalog.loc.gov/instances/a86ab6a2-4abc-5144-a79b-cde3b29c0216",
+    "https://www.loc.gov/item/2003630733/"
+  ],
+  "dct_issued_s": "1944",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6m/g6000m/g6000m/gct00041/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003630733/\"}",
+  "dct_spatial_sm": [
+    "netherlands"
+  ],
+  "dct_subject_sm": [
+    "Netherlands",
+    "Netherlands--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "dct_title_s": "Eastern Holland 1:25,000",
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1944]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1944
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2003630733",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

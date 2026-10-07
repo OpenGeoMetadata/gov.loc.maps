@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1006770.\"",
+    "\"Map prepared using automated map construction, National Cartographic Center ... 1991.\"",
+    "\"November 1991.\"",
+    "\"November 1991.\" \"Map prepared using automated map construction, National Cartographic Center ... 1991.\" \"1006770.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Maryland. Water Resources Administration; National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Publication statement: Ft. Worth, TX : USDA-SCS-National Cartographic Center ; [Annapolis, Md. : State Conservationist, distributor], 1992."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842f.ct008690",
+    "http://lccn.loc.gov/92683639",
+    "http://www.loc.gov/item/92683639/",
+    "http://www.loc.gov/resource/g3842f.ct008690/",
+    "https://hdl.loc.gov/loc.gmd/g3842f.ct008690",
+    "https://search.catalog.loc.gov/instances/5f6d9057-8e1a-5c6b-8155-fdc9237660f5",
+    "https://www.loc.gov/item/92683639/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842f/ct008690.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92683639/\"}",
+  "dct_spatial_sm": [
+    "fishing creek watershed",
+    "frederick county",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Streamflow--Maryland--Fishing Creek Watershed (Frederick County)--Maps",
+    "United States--Maryland--Frederick County--Fishing Creek Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "Flowpath, Fishing Creek watershed, Frederick County, Maryland",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92683639",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

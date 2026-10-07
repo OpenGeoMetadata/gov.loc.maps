@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Content in Latin.",
+    "Contributors: Holanda, António de, approximately 1480-1556 Illustrator.; Homem, Lopo, flourished 1517-1565 Cartographer.; Manuel I, King of Portugal, 1469-1521 Patron.; Reinel, Jorge, active 16th century Cartographer.; Reinel, Pedro, born approximately 1464 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of France.",
+    "Original resource extent: 1 map, 4 pages, vellum : illustrations ; 59 x 41.5 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1519.",
+    "Reference extracted from World Digital Library: Catherine Hofmann, Hélène Richard, Emmanuelle Vagnon, et al., The Golden Age of Maritime Maps: When Europe Discovered the World (Buffalo, NY: Firefly, 2013).",
+    "The map presented here is from the Miller Atlas in the collections of the National Library of France. Produced for King Manuel I of Portugal in 1519 by cartographers Pedro Reinel, his son Jorge Reinel, and Lopo Homem and miniaturist António de Holanda, the atlas contains eight maps on six loose sheets, painted on both sides. This map (folio 1 recto in the atlas) shows the Portuguese hemisphere; folio 1 verso is a title page with the coat of arms of Catherine de' Medicis. The text above the coat of arms reads: Hec est universi orbis ad hanc usqz diem cogniti tabula quam ego Lupus homo Cosmographus in clarissima Ulisipone civitate Anno domini nostri Millessimo quigentessimo decimo nono jussu Emanuelis incliti lusitanie Regis collatis pluribs aliis tam vetustorum qz recentiorum tabulis mag na industria et dilligenti labore depinxi (This is the map of the entire world known up to this day, which I myself, Lopo Homem the cartographer, drew with great skill and careful work in the very famous city of Lisbon in the year of our Lord 1519 under the rule of the honored Emanuel King of Lusitania, having collated many other maps both ancient and recent). The Treaty of Tordesillas in 1494 settled Spanish and Portuguese conflicts over newly discovered and undiscovered lands in the New World. The map shows only the territory allocated to Portugal. The atlas takes its name from Emmanuel Miller, who purchased it in 1855 from a bookseller in Santarém, Portugal. Miller's widow sold it to the National Library of France in 1897.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668720",
+    "http://www.loc.gov/item/2021668720/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_18562/",
+    "http://www.loc.gov/resource/wdl.18562/",
+    "https://hdl.loc.gov/loc.wdl/wdl.18562",
+    "https://www.loc.gov/item/2021668720/"
+  ],
+  "dct_issued_s": "1519-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_18562.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/56/2/wdl_18562/wdl_18562.pdf\"}, {\"label\": \"ZIP: wdl_18562.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/56/2/wdl_18562/wdl_18562.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:18:56:2:wdl_18562:T0000001/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668720/\"}",
+  "dct_subject_sm": [
+    "1519",
+    "Mappae mundi",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1519-01-01"
+  ],
+  "dct_title_s": "Nautical Atlas of the World, Circular World Map of the Portuguese Hemisphere and Title Page.",
+  "gbl_dateRange_drsim": [
+    "[1519 TO 1519]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1519
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668720",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

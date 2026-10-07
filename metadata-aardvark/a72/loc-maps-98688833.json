@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"President Abraham Lincoln signed the Pacific Railroad Act into law on July 1, 1862. The act gave two companies, the Union Pacific Railroad and the Central Pacific Railroad, responsibility for completing the transcontinental railroad. The Union Pacific was to lay track westward from a point near Omaha, Nebraska, toward Ogden, Utah; the Central Pacific was to build eastward from Sacramento, California. The Union Pacific began construction on December 2, 1863. This map, submitted to Secretary of Interior James Harlan on September 18, 1865, by Lieutenant Colonel J.H. Simpson of the Army Corps of Engineers, shows the different routes between the Missouri River and the Platte Valley in Nebraska surveyed for the Union Pacific. Based on a map submitted by Silas Seymour, consulting engineer to the Union Pacific, the map shows five alternative routes with probable connections to existing railroads. Also shown are relief by hachures, county boundaries, drainage, vegetation, and roads. Nebraska was at this time a territory; it became the 37th state on March 1, 1867. Under the authorizing legislation, the railroad was not to have grades or curves exceeding the maximums on the Baltimore & Ohio Railroad, the first U.S. railroad to cross the Appalachians. This profile shows the careful attention paid by the engineers to the steepness of the grades on alternative routes considered for the line. The horizontal scale shown is one mile to one inch (1.61 kilometers to 2.54 centimeters), and the vertical scale is 60 feet to one inch (18.28 meters to 2.54 centimeters). The profile accompanied a topographic map showing five different routes between the Missouri River and the Platte Valley in Nebraska, which was part of a report submitted to Secretary of Interior James Harlan by Lieutenant Colonel J.H. Simpson of the Army Corps of Engineers.\" World Digital Library. Detailed map of Nebraska showing relief by hachures, drainage, vegetation, roads, and railroads.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Gillis, J. R.; Union Pacific Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 590",
+    "Publication statement: [Washington, D.C., 1865]",
+    "Scale 1:126,720."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4191p.rrm05900",
+    "http://hdl.loc.gov/loc.gmd/g4191p.rrp05900",
+    "http://lccn.loc.gov/98688833",
+    "http://www.loc.gov/item/98688833/",
+    "http://www.loc.gov/resource/g4191p.rrm05900/",
+    "http://www.loc.gov/resource/g4191p.rrp05900/",
+    "https://hdl.loc.gov/loc.gmd/g4191p.rrm05900",
+    "https://hdl.loc.gov/loc.gmd/g4191p.rrp05900",
+    "https://search.catalog.loc.gov/instances/c8814413-4a69-5a32-80ee-f0f20c665dc9",
+    "https://www.loc.gov/item/98688833/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd419/g4191/g4191p/rrm05900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688833/\"}",
+  "dct_spatial_sm": [
+    "iowa",
+    "nebraska",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Iowa--Maps",
+    "Railroads--Nebraska--Maps",
+    "Union Pacific Railroad Company--Maps",
+    "United States--Iowa",
+    "United States--Nebraska"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Map showing the different routes surveyed for the Union Pacific Rail Road between the Missouri River and the Platte Valley,",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688833",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

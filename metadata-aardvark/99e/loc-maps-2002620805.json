@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate panel title: Valley Forge, official map and guide",
+    "Valley Forge, official map and guide"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 2002--491-282/40234. Reprint 2002.\"",
+    "\"*GPO: 2002--491-282/40234. Reprint 2002.\" Also shows designated tour route. Panel title. Includes text, notes, descriptive index to points of interest, and col. ill. Text, map of troop movements, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Also shows designated tour route.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, notes, descriptive index to points of interest, and col. ill.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [2002]",
+    "Text, map of troop movements, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822v.ct008036",
+    "http://lccn.loc.gov/2002620805",
+    "http://www.loc.gov/item/2002620805/",
+    "http://www.loc.gov/resource/g3822v.ct008036/",
+    "https://hdl.loc.gov/loc.gmd/g3822v.ct008036",
+    "https://search.catalog.loc.gov/instances/237ed108-f02e-5d27-ab0b-c0c2f72946ba",
+    "https://www.loc.gov/item/2002620805/"
+  ],
+  "dct_issued_s": "2002",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822v/ct008036.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002620805/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states",
+    "valley forge national historical park"
+  ],
+  "dct_subject_sm": [
+    "United States--Pennsylvania--Valley Forge National Historical Park",
+    "Valley Forge National Historical Park (Pa.)--Maps",
+    "Valley Forge National Historical Park (Pa.)--Tours--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "dct_title_s": "Valley Forge National Historical Park, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[2002 TO 2002]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002620805",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

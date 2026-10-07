@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by a pamphlet entitled Map of the Railroads from Rome to Albany and Troy; with Explanatory Remarks and Sketches of the History, Geology and Present Condition of the Mohawk Valley. By Levi Williams, Civil Engineer. 1846.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: William, Levi",
+    "Description derived from published bibliography.",
+    "Detailed map of the Mohawk Valley from Troy to Rome showing drainage, relief by hachures, towns, and villages.",
+    "LC Railroad maps, 260",
+    "Publication statement: N. York, 1845.",
+    "Scale ca. 1:180,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3802m.rr002600",
+    "http://lccn.loc.gov/98688519",
+    "http://www.loc.gov/item/98688519/",
+    "http://www.loc.gov/resource/g3802m.rr002600/",
+    "https://hdl.loc.gov/loc.gmd/g3802m.rr002600",
+    "https://search.catalog.loc.gov/instances/8383267b-f24c-50f7-be28-78229d064d1c",
+    "https://www.loc.gov/item/98688519/"
+  ],
+  "dct_issued_s": "1845",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3802/g3802m/rr002600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688519/\"}",
+  "dct_spatial_sm": [
+    "mohawk river valley",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mohawk River Valley (N.Y.)--Maps",
+    "Railroads--New York (State)--Mohawk River Valley--Maps",
+    "United States--New York (State)--Mohawk River Valley"
+  ],
+  "dct_temporal_sm": [
+    "1845"
+  ],
+  "dct_title_s": "Map of the rail roads, from Rome to Albany and Troy, by one of the engineers who assisted in contructing, prepared from actual survey",
+  "gbl_dateRange_drsim": [
+    "[1845 TO 1845]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1845
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688519",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

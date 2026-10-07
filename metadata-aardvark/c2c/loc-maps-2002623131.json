@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Faithorne, Henry, active 1681-1688; Herrman, Augustine, 1621 or 1622-1686; Withinbrook, Thomas",
+    "Includes cartouche, portait of Augustine Herrman, text, and ill.",
+    "Oriented with north to the right.",
+    "Oriented with north to the right. Includes cartouche, portait of Augustine Herrman, text, and ill. Available also through the Library of Congress Web site as a raster image. Vault",
+    "Publication statement: [London] : Augustine Herrman and Thomas Withinbrook, 1673.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.ct000766",
+    "http://lccn.loc.gov/2002623131",
+    "http://www.loc.gov/item/2002623131/",
+    "http://www.loc.gov/resource/g3880.ct000766/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct000766",
+    "https://search.catalog.loc.gov/instances/52fd722e-7fbd-50b0-a646-8aa2d783a428",
+    "https://www.loc.gov/item/2002623131/"
+  ],
+  "dct_issued_s": "1673",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ct000766.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002623131/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Maryland--Maps--Early works to 1800",
+    "United States--Virginia",
+    "Virginia--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1673"
+  ],
+  "dct_title_s": "Virginia and Maryland as it is planted and inhabited this present year 1670",
+  "gbl_dateRange_drsim": [
+    "[1673 TO 1673]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1673
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002623131",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Ohayashi ōzakai ezu",
+    "沼津本町間門当村御林大境繪圖"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Lower left corner: Nanushi Jōzaemon, Kumigashira Yūemon, Chōemon.",
+    "Manuscript; watercolor and ink.",
+    "Manuscript; watercolor and ink. Relief shown pictorially. Lower left corner: Nanushi Jōzaemon, Kumigashira Yūemon, Chōemon. Stamped on: Sasano Bunko. Shows corporate ownership of agriculture and forest property around Numazu. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [Japan] : Numazu Honmachi Shōya, Tenmei 6 [1786]",
+    "Relief shown pictorially.",
+    "Shows corporate ownership of agriculture and forest property around Numazu.",
+    "Stamped on: Sasano Bunko.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7964n.ct001478",
+    "http://lccn.loc.gov/80691946",
+    "http://www.loc.gov/item/80691946/",
+    "http://www.loc.gov/resource/g7964n.ct001478/",
+    "https://hdl.loc.gov/loc.gmd/g7964n.ct001478",
+    "https://search.catalog.loc.gov/instances/a84bc389-00ed-5966-89f4-196dc7bf0de7",
+    "https://www.loc.gov/item/80691946/"
+  ],
+  "dct_issued_s": "1786",
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964n/ct001478.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80691946/\"}",
+  "dct_spatial_sm": [
+    "japan",
+    "numazu",
+    "numazu-shi"
+  ],
+  "dct_subject_sm": [
+    "Forest reserves--Japan--Numazu-shi--Maps--Early works to 1800",
+    "Japan--Numazu-shi",
+    "Numazu-shi (Japan)--Maps, Manuscript--Early works to 1800",
+    "Real property--Japan--Numazu-shi--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1786"
+  ],
+  "dct_title_s": "Numazuhon-machi, Higashimakado-mura, tōson ohayashi ōzakai ezu",
+  "gbl_dateRange_drsim": [
+    "[1786 TO 1786]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1786
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80691946",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

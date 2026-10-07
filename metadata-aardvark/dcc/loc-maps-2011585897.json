@@ -1,0 +1,47 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hostetter, Jacob, approximately 1766-approximately 1823",
+    "Publication statement: [Columbus?] : s.n., [182-?]",
+    "Shows part of Ohio and Lake Erie, major roads, drainage, and settlements.",
+    "Shows part of Ohio and Lake Erie, major roads, drainage, and settlements. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2011585897",
+    "http://www.loc.gov/item/2011585897/",
+    "http://www.loc.gov/resource/g4080.ct011780/",
+    "https://hdl.loc.gov/loc.gmd/g4080.ct011780",
+    "https://search.catalog.loc.gov/instances/790e7ee4-b9eb-5399-8743-7971bac2c04e",
+    "https://www.loc.gov/item/2011585897/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4080/g4080/ct011780.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011585897/\"}",
+  "dct_spatial_sm": [
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ohio--Maps",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "182?"
+  ],
+  "dct_title_s": "[Ohio]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011585897",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hales, John Groves; Wightman, Thomas",
+    "Copy imperfect: Brittle, soiled, sectioned and mounted on cloth backing.",
+    "Includes inset of Boston Neck and embellished title cartouche.",
+    "Publication statement: [Boston? : s.n., 1814]",
+    "Shows wards.",
+    "Shows wards. Includes inset of Boston Neck and embellished title cartouche. Copy imperfect: Brittle, soiled, sectioned and mounted on cloth backing. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.wd000501",
+    "http://lccn.loc.gov/2011589322",
+    "http://www.loc.gov/item/2011589322/",
+    "http://www.loc.gov/resource/g3764b.wd000501/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.wd000501",
+    "https://search.catalog.loc.gov/instances/1b2af08d-5deb-53db-9a19-48dabc2ff10b",
+    "https://www.loc.gov/item/2011589322/"
+  ],
+  "dct_issued_s": "1814",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/wd000501.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011589322/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston (Mass.)--Administrative and political divisions--Maps",
+    "Boston (Mass.)--Maps",
+    "Election districts--Massachusetts--Boston--Maps",
+    "United States--Massachusetts--Boston"
+  ],
+  "dct_temporal_sm": [
+    "1814"
+  ],
+  "dct_title_s": "Map of Boston in the state of Massachusetts : 1814",
+  "gbl_dateRange_drsim": [
+    "[1814 TO 1814]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1814
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011589322",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

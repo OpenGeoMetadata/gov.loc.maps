@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At upper right: 34.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Adam and Charles Black (Firm); Bartholomew, J. G. (John George), 1860-1920",
+    "LC copy stamped on: 626888.",
+    "Publication statement: Edinburgh : Published by A. & C. Black, [1879]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. At upper right: 34. LC copy stamped on: 626888. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7820.ct005240",
+    "http://lccn.loc.gov/2006629398",
+    "http://www.loc.gov/item/2006629398/",
+    "http://www.loc.gov/resource/g7820.ct005240/",
+    "https://hdl.loc.gov/loc.gmd/g7820.ct005240",
+    "https://search.catalog.loc.gov/instances/b71ca106-482c-50ef-9843-2e5d3dd48f7c",
+    "https://www.loc.gov/item/2006629398/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7820/g7820/ct005240.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006629398/\"}",
+  "dct_spatial_sm": [
+    "china"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "China",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006629398",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

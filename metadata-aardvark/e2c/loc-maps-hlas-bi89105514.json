@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: martin, dolores moyano; world eagle, inc",
+    "Includes social and economic conditions since 1945. [Ed]"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi89105514/",
+    "https://www.loc.gov/item/hlas-bi89105514/"
+  ],
+  "dct_issued_s": "1986",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "World Eagle,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi89105514/\"}",
+  "dct_spatial_sm": [
+    "massachusetts"
+  ],
+  "dct_subject_sm": [
+    "atlases",
+    "economic history",
+    "economic history -- maps and cartography",
+    "maps and cartography",
+    "social history",
+    "social history -- maps and cartography"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "dct_title_s": "Latin America today: an atlas of reproducible pages",
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi89105514",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

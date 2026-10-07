@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"April 1990 1004106-01.\"",
+    "\"April 1990 1004106-01.\" Shows structures constructed for multiple-purposes, floodwater retarding, drainage, and benefited areas. \"Source: Base compiled from 1:24,000 quadrangles, county general highway maps, and information from SCS field personnel.\" Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "\"Source: Base compiled from 1:24,000 quadrangles, county general highway maps, and information from SCS field personnel.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: F[or]t, TX : USDA-SCS National Cartographic Center ; [Jackson, Miss. : State Conservationist, distributor], 1990.",
+    "Shows structures constructed for multiple-purposes, floodwater retarding, drainage, and benefited areas."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/92682706",
+    "http://www.loc.gov/item/92682706/",
+    "http://www.loc.gov/resource/g3982b.ct010787/",
+    "https://hdl.loc.gov/loc.gmd/g3982b.ct010787",
+    "https://search.catalog.loc.gov/instances/01c237e0-8b7f-5c73-9786-a914d974a405",
+    "https://www.loc.gov/item/92682706/"
+  ],
+  "dct_issued_s": "1990",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3982/g3982b/ct010787.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92682706/\"}",
+  "dct_spatial_sm": [
+    "big creek watershed",
+    "big creek watershed (jones county)",
+    "jones county",
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Big Creek Watershed (Jones County, Miss.)--Maps",
+    "Flood control--Mississippi--Big Creek Watershed (Jones County)--Maps",
+    "United States--Mississippi--Big Creek Watershed (Jones County)",
+    "Watershed management--Mississippi--Big Creek Watershed (Jones County)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "dct_title_s": "Project map, Big Creek watershed : portion of Jasper, Jones, and Smith counties, Mississippi",
+  "gbl_dateRange_drsim": [
+    "[1990 TO 1990]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1990
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92682706",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

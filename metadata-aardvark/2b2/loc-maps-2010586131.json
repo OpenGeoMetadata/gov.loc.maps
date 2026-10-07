@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"CD90SSTF01.\"",
+    "\"Issued July 1994.\"",
+    "\"This issue has improved software\"--Shipping list.",
+    "Contains sample data weighted to represent the total population and contains 100-percent counts and unweighted sample counts for total persons and total housing units.",
+    "Contributors: United States. Bureau of the Census. Data User Services Division",
+    "Disc characteristics: CD-ROM.",
+    "Hierarchical file structure.",
+    "ISO 9660 format.",
+    "Publication statement: Washington, DC : U.S. Dept. of Commerce, Bureau of the Census, Data User Services Division, [1994]",
+    "Shipping list no.: 94-0036-E.",
+    "System requirements: Computer system capable of using a CD-ROM drive; if IBM PC or compatible, requires MS-DOS 3.3 or higher, DOS file manager software (e.g., Microsoft CD-ROM Extensions 2.0 or higher), requires appropriate retrieval software for ISO 9660 CD-ROMS (software included on the disk will run only on an MS-DOS PC); 520K RAM; CD-ROM drive.",
+    "Technical documentation included on disc.",
+    "Title from disc label.",
+    "Written in dBase III+ format."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2010586131",
+    "http://www.loc.gov/item/2010586131/",
+    "http://www.loc.gov/resource/gdcdatasets.2010586131/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.00275710660",
+    "https://search.catalog.loc.gov/instances/58040c43-d41b-5f07-a797-e330777b85c2",
+    "https://www.loc.gov/item/2010586131/"
+  ],
+  "dct_issued_s": "1994",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2010586131/\"}",
+  "dct_rights_sm": [
+    "Public Domain https://creativecommons.org/public-domain/"
+  ],
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Immigrants--United States--Statistics--Databases",
+    "United States--Census, 1990--Databases",
+    "United States--Population--Statistics--Databases"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_title_s": "1990 census of population and housing. Subject summary tape file (SSTF 1). The foreign-born population in the United States",
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010586131",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

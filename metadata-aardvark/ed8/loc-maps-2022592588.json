@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: California title collection--counties Sutter",
+    "Alternate supplied title: California title collection--drawer 208"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Various places] : [various publishers], [1850-1970]",
+    "This record covers single maps of counties of California, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps, multi-sheet single maps and may also include some plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps of counties of California, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps, multi-sheet single maps and may also include some plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. Available also through the Library of Congress Web site as a raster image.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022592588",
+    "http://www.loc.gov/item/2022592588/",
+    "http://www.loc.gov/resource/gmdtitlecolmaps.ca-208/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolmaps.ca-208",
+    "https://search.catalog.loc.gov/instances/436ab746-6455-5981-9583-a35caffaf340",
+    "https://www.loc.gov/item/2022592588/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolmaps:ca:-2:08:ca-208:ca-208-02-01/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022592588/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "sutter county",
+    "sutter county (calif.)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Geology--California--Maps",
+    "Hydrology--California--Maps",
+    "Outdoor recreation--California--Maps",
+    "Roads--California--Sutter County--Maps",
+    "Sutter County (Calif.)--Maps",
+    "United States--California--Sutter County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "1850/1970"
+  ],
+  "dct_title_s": "[Maps of California--counties Sutter]",
+  "gbl_dateRange_drsim": [
+    "[1850 TO 1970]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1850
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2022592588",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

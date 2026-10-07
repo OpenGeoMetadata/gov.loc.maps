@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Rhodes, James Ford, 1848-1927",
+    "Description derived from published bibliography.",
+    "From his History of the Civil War, 1861-1865. New York, The Macmillan Co., 1917. Facing p. 430.",
+    "From his History of the Civil War, 1861-1865. New York, The Macmillan Co., 1917. Facing p. 430. Map of central Virginia and the Shenandoah Valley indicating the operations of Union forces in blue and \"Gen. Lee's line of retreat\" in red. Description derived from published bibliography. Scale ca. 1:880,000. Library of Congress. Civil War maps (2nd ed.), 510.4 Available also through the Library of Congress web site as raster image.",
+    "Library of Congress. Civil War maps (2nd ed.), 510.4",
+    "Map of central Virginia and the Shenandoah Valley indicating the operations of Union forces in blue and \"Gen. Lee's line of retreat\" in red.",
+    "Publication statement: New York, The Macmillan Co., 1917.",
+    "Scale ca. 1:880,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881s.cw0510400",
+    "http://lccn.loc.gov/99448900",
+    "http://www.loc.gov/item/99448900/",
+    "http://www.loc.gov/resource/g3881s.cw0510400/",
+    "https://hdl.loc.gov/loc.gmd/g3881s.cw0510400",
+    "https://search.catalog.loc.gov/instances/796f43c2-051c-5abe-b5ea-b249fb3dd934",
+    "https://www.loc.gov/item/99448900/"
+  ],
+  "dct_issued_s": "1917",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881s/cw0510400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448900/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "dct_title_s": "Grant's and Sheridan's campaigns, 1864 [and 1865]",
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1917]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1917
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448900",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

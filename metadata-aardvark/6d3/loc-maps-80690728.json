@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"American Revolution Bicentennial, 1776-1976.\"",
+    "\"BiC-30.\"",
+    "\"Plate no. 1155.\"",
+    "AACR2: 110; 650/1; 650/4; 700/1; 710/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bache, A. D. (Alexander Dallas), 1806-1867; National Ocean Survey; U.S. Coast and Geodetic Survey",
+    "Facsim. of nautical chart originally \"Issued, October 1888.\"",
+    "Includes sailing information.",
+    "Publication statement: Washington : U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Ocean Survey, [1976]",
+    "Relief shown by shading. Depths shown by contours and soundings.",
+    "Scale 1:40,000.",
+    "Title in lower margin: St. Simon's Sound.",
+    "Title in lower margin: St. Simon's Sound. Facsim. of nautical chart originally \"Issued, October 1888.\" Relief shown by shading. Depths shown by contours and soundings. \"American Revolution Bicentennial, 1776-1976.\" \"Plate no. 1155.\" \"BiC-30.\" Includes sailing information. Scale 1:40,000. Available also through the Library of Congress Web site as a raster image. AACR2: 110; 650/1; 650/4; 700/1; 710/2"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/80690728",
+    "http://www.loc.gov/item/80690728/",
+    "http://www.loc.gov/resource/g3922s.ct010081/",
+    "https://hdl.loc.gov/loc.gmd/g3922s.ct010081",
+    "https://search.catalog.loc.gov/instances/9c33bf7a-c1e5-50b1-97ed-e941a480503d",
+    "https://www.loc.gov/item/80690728/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922s/ct010081.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80690728/\"}",
+  "dct_spatial_sm": [
+    "brunswick harbor",
+    "georgia",
+    "saint simons sound",
+    "turtle river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Maps--Facsimiles",
+    "Nautical charts--Georgia--Brunswick Harbor",
+    "Nautical charts--Georgia--Saint Simons Sound",
+    "Nautical charts--Georgia--Turtle River",
+    "United States--Georgia--Saint Simons Sound"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "St. Simon's Sound, Brunswick Harbor, and Turtle River, Georgia",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80690728",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

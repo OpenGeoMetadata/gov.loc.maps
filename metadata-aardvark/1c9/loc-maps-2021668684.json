@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Provincia de Lugo"
+  ],
+  "dct_description_sm": [
+    "\"Scale approximately 1:1,000,000|Part of \"España Geográfica Histórica Ilustrada\" and \"Atlas Geográfico Histórico de las provincias de España\"\"--Note extracted from World Digital Library.",
+    "Content in Spanish.",
+    "Contributors: Boronat y Satorre, Francisco, 19th century Lithographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Library of Galicia.",
+    "Original resource extent: 1 map : color ; 51 x 68.5 centimeters.",
+    "Publication statement: Madrid : Francisco Boronat y Satorre, [1870 to 1890]",
+    "This color lithographic map shows the Province of Lugo in Galicia, northwestern Spain. The map is flanked by a geographical review of the province on the left and a historical overview on the right. Above the map are the provincial shield and illustrations of figures in traditional costumes, allegories, and a dedication. Below the map is a view of the capital of the province, also called Lugo. The map shows the division of the province into partidos (judicial districts); scale is given in both leagues and kilometers. The name of the publisher, Francisco Boronat y Satorre, and the number of the map, 42, appear in the lower left. Boronat produced several editions of atlases of Spain, beginning in 1870 and continuing for the next 20 years. The titles of the atlases varied between editions: España Geográfica Histórica Ilustrada (Illustrated geographical history of Spain) or Atlas Geográfico Histórico de las provincias de España (Historical geographic atlas of the provinces of Spain). Boronat made use of the technology of chromolithography, which represented a great advance over previous methods, which required the hand coloring of printed maps. The technology was developed in Germany in the early 19th century and by 1840 had spread to France and England. In the 1880s Swiss chemist Hans Jakob Schmid invented photochrome, a chromolithographic process using colored black-and-white negatives, which enabled mass production of images in color before the days of color photography.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668684",
+    "http://www.loc.gov/item/2021668684/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_17278/",
+    "http://www.loc.gov/resource/wdl.17278/",
+    "https://hdl.loc.gov/loc.wdl/wdl.17278",
+    "https://www.loc.gov/item/2021668684/"
+  ],
+  "dct_issued_s": "1870-01-01",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_17278.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/17/27/8/wdl_17278/wdl_17278.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:27:8:wdl_17278:MAP_168/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668684/\"}",
+  "dct_spatial_sm": [
+    "galicia",
+    "spain"
+  ],
+  "dct_subject_sm": [
+    "1870 to 1890",
+    "Cityscapes",
+    "Clothing and dress",
+    "Geography",
+    "Spain--Galicia"
+  ],
+  "dct_temporal_sm": [
+    "1870-01-01"
+  ],
+  "dct_title_s": "Province of Lugo.",
+  "gbl_dateRange_drsim": [
+    "[1870 TO 1870]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1870
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668684",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

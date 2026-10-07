@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chace, J., cartographer, publisher; Rease, W. H, engraver, printer",
+    "Includes color illustrations, distance table, statistics table, directories, 29 insets of towns and villages, text, decorate border, and inset of \"Northern portion of Somerset County.\"",
+    "LC Land ownership maps, 275",
+    "LC copy sectioned in six and mounted on two sheets of cloth.",
+    "Publication statement: Portland and Philadelphia : J. Chace Jr., publisher : D.S. Stinson, topogr. engr., assistant publisher & general agent, 1860.",
+    "Relief shown by hachures.",
+    "Shows landowners.",
+    "Shows landowners. Relief shown by hachures. Includes color illustrations, distance table, statistics table, directories, 29 insets of towns and villages, text, decorate border, and inset of \"Northern portion of Somerset County.\" LC copy sectioned in six and mounted on two sheets of cloth. LC Land ownership maps, 275 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3733s.la000275",
+    "http://lccn.loc.gov/2012592370",
+    "http://www.loc.gov/item/2012592370/",
+    "http://www.loc.gov/resource/g3733s.la000275/",
+    "https://hdl.loc.gov/loc.gmd/g3733s.la000275",
+    "https://search.catalog.loc.gov/instances/c567e8c0-8dbb-55e2-bb4b-d0016565f50e",
+    "https://www.loc.gov/item/2012592370/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3733/g3733s/la000275.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592370/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "somerset county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cities and towns--Maine--Somerset County--Maps",
+    "Landowners--Maine--Somerset County--Maps",
+    "Real property--Maine--Somerset County--Maps",
+    "United States--Maine--Somerset County"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Map of Somerset County, Maine",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592370",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

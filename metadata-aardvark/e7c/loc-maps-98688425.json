@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Proof revised in Office of P.R.R. Surveys Feb. 10th 1855. All copies printed prior to this date contain errors. G. K. Warren, Lt. Topl. Engrs.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Parke, John G.; Preuss, Charles, 1803-1854; United States. War Department; Williams Smith, Issac; Williamson, R. S. (Robert Stockton), 1824-1882",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 157",
+    "Map shows \"practicable railway routes\" between Ft. Yuma on the Colorado River and the San Francisco Bay region.",
+    "Publication statement: New York, [1855?]",
+    "Relief shown by hachures.",
+    "Scale 1:600,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4361p.rr001570",
+    "http://lccn.loc.gov/98688425",
+    "http://www.loc.gov/item/98688425/",
+    "http://www.loc.gov/resource/g4361p.rr001570/",
+    "https://hdl.loc.gov/loc.gmd/g4361p.rr001570",
+    "https://search.catalog.loc.gov/instances/d6328605-42b2-584d-9c30-bf7a492dbfcb",
+    "https://www.loc.gov/item/98688425/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4361/g4361p/rr001570.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688425/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "California--Maps",
+    "Railroads--California--Maps",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "1855",
+    "New York, [1855?]"
+  ],
+  "dct_title_s": "General map of a survey in California : in connection with examinations for railroad routes to the Pacific Ocean",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688425",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

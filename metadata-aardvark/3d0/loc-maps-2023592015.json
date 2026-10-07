@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "CShapes 2.0 maps the borders and capitals of independent states and dependent territories from 1886 to 2019.",
+    "Contributors: Center for Comparative and International Studies (Zurich, Switzerland), cartographer",
+    "Dataset includes data files (CSV, Shapefile, GeoJSON).",
+    "Publication statement: Switzerland : ETH Zurich Center for Comparative and International Studies, 2022.",
+    "Title from title screen (viewed on November 20, 2023).",
+    "Title from title screen (viewed on November 20, 2023). Dataset includes data files (CSV, Shapefile, GeoJSON). CShapes 2.0 maps the borders and capitals of independent states and dependent territories from 1886 to 2019."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2023592015",
+    "http://www.loc.gov/item/2023592015/",
+    "http://www.loc.gov/resource/gdcdatasets.2023592015-csv/",
+    "http://www.loc.gov/resource/gdcdatasets.2023592015-documentation/",
+    "http://www.loc.gov/resource/gdcdatasets.2023592015-geojson/",
+    "http://www.loc.gov/resource/gdcdatasets.2023592015-shapefile/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2023592015-csv",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2023592015-documentation",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2023592015-geojson",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2023592015-shapefile",
+    "https://www.loc.gov/item/2023592015/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2023592015/\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution Non Commecial Share Alike 4.0 International License DLC https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "dct_subject_sm": [
+    "data sets",
+    "geospatial data",
+    "vector data",
+    "world maps"
+  ],
+  "dct_temporal_sm": [
+    "1886 d2019"
+  ],
+  "dct_title_s": "Cshapes 2.0",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2023592015",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Finlay, Hugh, 1732-1801",
+    "LC Maps of North America, 1750-1789, 622",
+    "Manuscript, pen-and-ink.",
+    "Publication statement: [1774?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Manuscript, pen-and-ink. Scale ca. 1:633,000; 10 miles to an in. LC Maps of North America, 1750-1789, 622 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:633,000; 10 miles to an in.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3451p.ar062200",
+    "http://lccn.loc.gov/74694522",
+    "http://www.loc.gov/item/74694522/",
+    "http://www.loc.gov/resource/g3451p.ar062200/",
+    "https://hdl.loc.gov/loc.gmd/g3451p.ar062200",
+    "https://search.catalog.loc.gov/instances/33fc2eb3-b414-5e57-b1b1-a38316932cc5",
+    "https://www.loc.gov/item/74694522/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3451/g3451p/ar062200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694522/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "québec",
+    "québec (province)"
+  ],
+  "dct_subject_sm": [
+    "Canada--Québec (Province)",
+    "Manuscript maps--Early works to 1800",
+    "Trails--Québec (Province)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1774",
+    "[1774?]"
+  ],
+  "dct_title_s": "Plan of the route from St. Francis to Connecticut River,",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694522",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

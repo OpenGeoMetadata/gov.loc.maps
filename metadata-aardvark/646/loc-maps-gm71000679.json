@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Faden, William, 1749-1836",
+    "Includes \"A sketch of Fort Island\" and \"Profile and plan of the sunk frames or chevaux de frise which formed the stockadoes in the river.\"",
+    "LC Maps of North America, 1750-1789, 1361",
+    "Manuscript, pen-and-ink (black and red) and watercolor.",
+    "Names \"Fort Mifflin\" and \"Fort Mercer\" added in a different hand.",
+    "Publication statement: 1777]",
+    "Scale ca. 1:32,400.",
+    "Shows soundings, disposition of ships, etc.",
+    "Title from the author's The course of Delaware River ... 1778.",
+    "Title from the author's The course of Delaware River ... 1778. Manuscript, pen-and-ink (black and red) and watercolor. Shows soundings, disposition of ships, etc. Names \"Fort Mifflin\" and \"Fort Mercer\" added in a different hand. Includes \"A sketch of Fort Island\" and \"Profile and plan of the sunk frames or chevaux de frise which formed the stockadoes in the river.\" Scale ca. 1:32,400. LC Maps of North America, 1750-1789, 1361 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3792d.ar136100",
+    "http://lccn.loc.gov/gm71000679",
+    "http://www.loc.gov/item/gm71000679/",
+    "http://www.loc.gov/resource/g3792d.ar136100/",
+    "https://hdl.loc.gov/loc.gmd/g3792d.ar136100",
+    "https://search.catalog.loc.gov/instances/39ff45f8-e157-538d-affe-b40198eccd55",
+    "https://www.loc.gov/item/gm71000679/"
+  ],
+  "dct_issued_s": "1777",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd379/g3792/g3792d/ar136100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000679/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "delaware river valley",
+    "new jersey",
+    "new york",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware River Valley (N.Y.-Del. and N.J.)--History--Revolution, 1775-1783--Maps, Manuscript--Early works to 1800",
+    "United States--New Jersey--Delaware River Valley",
+    "United States--Pennsylvania--Delaware River Valley"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "dct_title_s": "[The course of Delaware River from Philadelphia to Chester, exhibiting the several works erected by the rebels to defend its passage, with the attacks made upon them by His Majesty's land & sea forces",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000679",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

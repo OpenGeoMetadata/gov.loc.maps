@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Le cours de la riviére des Amazones dressé sur la relation"
+  ],
+  "dct_description_sm": [
+    "Content in French.",
+    "Contributors: Sanson, Nicolas, 1600-1667 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Nicolas Sanson (1600-67) is considered by many to be the founder of the French school of cartography. Originally from Abbeville, he was also known as Sanson d'Abbeville. He was trained as a military engineer but became a prolific cartographer who produced over 300 maps. Around 1643, he began publishing maps, working with publisher Pierre Mariette. This 1680 map of the Amazon most likely is a reprint by his son Guillaume (1633-1703), who carried on the family firm after Nicolas's death. The account referred to in the title is that of Christóbal de Acuña, Nuevo Descubrimiento del Gran Rio de las Amazonas (1641). De Acuña was one of the two Spanish Jesuits who in 1639 accompanied the Portuguese explorer Pedro Teixeira on his return voyage from Quito (in present-day Ecuador) to Pará after he had traveled up the Amazon in 1637-38.",
+    "Original resource at: National Library of Brazil.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1680.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668298",
+    "http://www.loc.gov/item/2021668298/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00139/",
+    "http://www.loc.gov/resource/wdl.139/",
+    "https://hdl.loc.gov/loc.wdl/wdl.139",
+    "https://www.loc.gov/item/2021668298/"
+  ],
+  "dct_issued_s": "1680-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00139.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/13/9/wdl_00139/wdl_00139.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:13:9:wdl_00139:cart513793/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668298/\"}",
+  "dct_spatial_sm": [
+    "bolivia",
+    "brazil",
+    "colombia",
+    "ecuador",
+    "peru"
+  ],
+  "dct_subject_sm": [
+    "1680",
+    "Acuña, Cristóbal de",
+    "Amazon River",
+    "Bolivia",
+    "Brazil",
+    "Colombia",
+    "Ecuador",
+    "Peru",
+    "Rivers"
+  ],
+  "dct_temporal_sm": [
+    "1680-01-01"
+  ],
+  "dct_title_s": "The Course of the River of the Amazons, Based on the Account of Christopher d'Acugna.",
+  "gbl_dateRange_drsim": [
+    "[1680 TO 1680]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1680
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668298",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

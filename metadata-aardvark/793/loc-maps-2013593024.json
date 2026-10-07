@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: J.H. Colton & Co",
+    "Has a vine motif frame.",
+    "LC copy stamped on: 626888.",
+    "Prime meridian: Washington, D.C.",
+    "Prime meridian: Washington, D.C. Has a vine motif frame. LC copy stamped on: 626888. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [New York] : J. H. Colton & Co., [1865]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7420.ct003771",
+    "http://lccn.loc.gov/2013593024",
+    "http://www.loc.gov/item/2013593024/",
+    "http://www.loc.gov/resource/g7420.ct003771/",
+    "https://hdl.loc.gov/loc.gmd/g7420.ct003771",
+    "https://search.catalog.loc.gov/instances/94cc0f98-84a3-523f-97c0-183577845410",
+    "https://www.loc.gov/item/2013593024/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7420/g7420/ct003771.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593024/\"}",
+  "dct_spatial_sm": [
+    "middle east"
+  ],
+  "dct_subject_sm": [
+    "Middle East",
+    "Middle East--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Colton's Persia Arabia & c.",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593024",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

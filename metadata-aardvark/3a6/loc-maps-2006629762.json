@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by: Map of Alaska : showing known gold-bearing rocks ... Washington, D.C. : United States Geological Survey, 1898. 44 p.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Includes 2 inset maps: The Klondike gold field, Canada -- Trails from Tide Water to the headwaters of the Yukon River, Alaska.",
+    "Includes parts of the Yukon Territory and northern British Columbia.",
+    "Publication statement: [Washington, D.C.] : U.S.Geological Survey, 1898.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Includes parts of the Yukon Territory and northern British Columbia. Includes 2 inset maps: The Klondike gold field, Canada -- Trails from Tide Water to the headwaters of the Yukon River, Alaska. Accompanied by: Map of Alaska : showing known gold-bearing rocks ... Washington, D.C. : United States Geological Survey, 1898. 44 p. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4371h.ct001125",
+    "http://lccn.loc.gov/2006629762",
+    "http://www.loc.gov/item/2006629762/",
+    "http://www.loc.gov/resource/g4371h.ct001125/",
+    "https://hdl.loc.gov/loc.gmd/g4371h.ct001125",
+    "https://search.catalog.loc.gov/instances/88c81110-7f05-579b-8358-ef906c49e1cd",
+    "https://www.loc.gov/item/2006629762/"
+  ],
+  "dct_issued_s": "1898",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd437/g4371/g4371h/ct001125.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006629762/\"}",
+  "dct_spatial_sm": [
+    "alaska",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coal--Alaska--Maps",
+    "Gold--Alaska--Maps",
+    "Steamboat lines--Alaska--Maps",
+    "Trails--Alaska--Maps",
+    "United States--Alaska"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "dct_title_s": "The gold and coal fields of Alaska : together with the principal steamer routes and trails",
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1898]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1898
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006629762",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

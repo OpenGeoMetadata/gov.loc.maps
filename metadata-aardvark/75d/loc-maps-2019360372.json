@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Wellge, H. (Henry), cartographer, publisher",
+    "Includes five inset views and index.",
+    "Panoramic aerial view.",
+    "Panoramic aerial view. Includes five inset views and index. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Copyright 1906; Milwaukee, E.U.A. : Publicado por H. Wellge, 1906."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2019360372",
+    "http://www.loc.gov/item/2019360372/",
+    "http://www.loc.gov/resource/g4414m.ct011649/",
+    "https://hdl.loc.gov/loc.gmd/g4414m.ct011649",
+    "https://search.catalog.loc.gov/instances/a04f1677-9778-5392-a245-548ec53e8861",
+    "https://www.loc.gov/item/2019360372/"
+  ],
+  "dct_issued_s": "1906",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4414/g4414m/ct011649.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2019360372/\"}",
+  "dct_spatial_sm": [
+    "mexico",
+    "mexico city"
+  ],
+  "dct_subject_sm": [
+    "Mexico City--Maps",
+    "Mexico--Mexico City"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "dct_title_s": "Plano perspectivo de la ciudad y del valle de Mexico D.F.",
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1906
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2019360372",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

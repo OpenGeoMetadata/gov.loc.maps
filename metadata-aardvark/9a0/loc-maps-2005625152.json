@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In pencil on verso: 370 crossed out.",
+    "LC Civil War maps (2nd ed.), H245",
+    "Pen-and-ink and pencil over ink grid on tracing linen, mounted on cloth.",
+    "Publication statement: [188-?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Title and scale from Stephenson's Civil War maps, 1989. Pen-and-ink and pencil over ink grid on tracing linen, mounted on cloth. In pencil on verso: 370 crossed out. LC Civil War maps (2nd ed.), H245 Available also through the Library of Congress web site as raster image.",
+    "Title and scale from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883a.cwh00245",
+    "http://lccn.loc.gov/2005625152",
+    "http://www.loc.gov/item/2005625152/",
+    "http://www.loc.gov/resource/g3883a.cwh00245/",
+    "https://hdl.loc.gov/loc.gmd/g3883a.cwh00245",
+    "https://search.catalog.loc.gov/instances/82da227b-3d22-56de-80f7-37af76fff062",
+    "https://www.loc.gov/item/2005625152/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883a/cwh00245.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625152/\"}",
+  "dct_spatial_sm": [
+    "alleghany county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Alleghany County (Va.)--Maps, Manuscript",
+    "Coal mines and mining--Virginia--Alleghany County--Maps",
+    "United States--Virginia--Alleghany County"
+  ],
+  "dct_temporal_sm": [
+    "188?"
+  ],
+  "dct_title_s": "[Map showing the location of Roaring Run Furnace lands in Alleghany County, Virginia, nearing Covington]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625152",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

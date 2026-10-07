@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"5,S-36,951.\"",
+    "\"7-7-78.\"",
+    "\"Source: Family of maps SCS draw. no. 5,R-34,214 (6-74) and information from field technicians.\"",
+    "At head of title: Map 5-1.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Lincoln, Nebr. : USDA-SCS, 1978.",
+    "Shows southwestern Ohio.",
+    "Shows southwestern Ohio. At head of title: Map 5-1. \"7-7-78.\" \"Source: Family of maps SCS draw. no. 5,R-34,214 (6-74) and information from field technicians.\" Includes location map. \"5,S-36,951.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81691036",
+    "http://www.loc.gov/item/81691036/",
+    "http://www.loc.gov/resource/g4081c.ct011802/",
+    "https://hdl.loc.gov/loc.gmd/g4081c.ct011802",
+    "https://search.catalog.loc.gov/instances/08c2c875-4beb-529d-84ab-8d905cc0f56e",
+    "https://www.loc.gov/item/81691036/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4081/g4081c/ct011802.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81691036/\"}",
+  "dct_spatial_sm": [
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Precipitation (Meteorology)--Ohio--Maps",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1931 d1960"
+  ],
+  "dct_title_s": "Average annual precipitation in inches, 1931-60, southwest Ohio River basin study area, Ohio",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81691036",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

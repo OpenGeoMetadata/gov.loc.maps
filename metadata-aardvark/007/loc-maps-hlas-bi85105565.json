@@ -1,0 +1,44 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: instituto geográfico militar (ecuador); modelski, andrew m."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi85105565/",
+    "https://www.loc.gov/item/hlas-bi85105565/"
+  ],
+  "dct_issued_s": "1982",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "PREDESUR,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi85105565/\"}",
+  "dct_spatial_sm": [
+    "ecuador"
+  ],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "dct_title_s": "La región sur del Ecuador: Programa Regional para el Desarrollo del Sur (PREDESUR)",
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1982]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi85105565",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

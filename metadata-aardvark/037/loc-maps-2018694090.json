@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Карта Забайкалская области с показанием земель по ведомствам"
+  ],
+  "dct_description_sm": [
+    "Karta Zabaĭkal'skoĭ oblasti s pokazaniem zemel' po vedomstvam (Sostavlena pri Mezhevom otdelenii po kazach'im voĭskam Vostochnoĭ sibiri Chikunov; Chertil vol'nyĭ chertezhnik Innokentiĭ Luzin.) Na karte pokazany zemli gorodskikh zhiteleĭ i kazakov raznykh brigad i polkov, gornykh zavodov, krest'i︠a︡n razlichnykh volosteĭ, kochui︠u︡shchikh inorodt︠s︡ev, namestnikov Taĭshi-Okina.",
+    "Karta Zabaĭkal'skoĭ oblasti s pokazaniem zemel' po vedomstvam (Sostavlena pri Mezhevom otdelenii po kazach'im voĭskam Vostochnoĭ sibiri Chikunov; Chertil vol'nyĭ chertezhnik Innokentiĭ Luzin.) Na karte pokazany zemli gorodskikh zhiteleĭ i kazakov raznykh brigad i polkov, gornykh zavodov, krest'i︠a︡n razlichnykh volosteĭ, kochui︠u︡shchikh inorodt︠s︡ev, namestnikov Taĭshi-Okina. Vost. Sibiri Chikunov. Original map at: Russian State Library Карта Забайкальской области с показанием земель по ведомствам (Составлена при Межевом отделении по казачьим войскам Восточной сибири Чикунов; Чертил вольный чертежник Иннокентий Лузин.) На карте показаны земли городских жителей и казаков разных бригад и полков, горных заводов, крестьян различных волостей, кочующих инородцев, наместников Тайши-Окина. Вост. Сибири Чикунов.",
+    "Original map at: Russian State Library",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1860-1869.",
+    "Vost. Sibiri Chikunov.",
+    "Вост. Сибири Чикунов.",
+    "Карта Забайкальской области с показанием земель по ведомствам (Составлена при Межевом отделении по казачьим войскам Восточной сибири Чикунов; Чертил вольный чертежник Иннокентий Лузин.) На карте показаны земли городских жителей и казаков разных бригад и полков, горных заводов, крестьян различных волостей, кочующих инородцев, наместников Тайши-Окина."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694090",
+    "http://www.loc.gov/item/2018694090/",
+    "http://www.loc.gov/resource/gdc.2018694090/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0021",
+    "https://search.catalog.loc.gov/instances/b77ad1ff-07b3-51a8-b56f-04d83a0e90e6",
+    "https://www.loc.gov/item/2018694090/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694090.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694090/2018694090.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694090:smf0021/full/pct:1.5625/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694090/\"}",
+  "dct_spatial_sm": [
+    "russian federation",
+    "zabaykalsky krai"
+  ],
+  "dct_subject_sm": [
+    "Overview",
+    "Russian Federation",
+    "Transbaikal Region",
+    "Zabaykalsky Krai"
+  ],
+  "dct_temporal_sm": [
+    "1860/1869"
+  ],
+  "dct_title_s": "Karta Zabaĭkalskai︠a︡ oblasti s pokazaniem zemel' po vedomstvam",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1869]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694090",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

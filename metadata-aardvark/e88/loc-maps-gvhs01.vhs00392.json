@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"A.P. Hill's route Madison C.H. 9th, Culpeper, Amisville, Warrenton 13th, Buckland Mills, Bristow [sic] 14th.\"--handwritten notation on map.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: McIntosh family.",
+    "In the McIntosh family papers, 1827-1966. Section 9.",
+    "Manuscripts",
+    "Publication statement: [S.l., 1863-1865].",
+    "This undated map of Prince William County, Va., also indicates Ewell's route and Lee's position at the start of the battle."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00392",
+    "http://www.loc.gov/item/001-CABIB20013485/",
+    "http://www.loc.gov/item/gvhs01.vhs00392/",
+    "http://www.loc.gov/resource/gvhs01.vhs00392/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00392",
+    "https://www.loc.gov/item/gvhs01.vhs00392/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00392.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00392/\"}",
+  "dct_spatial_sm": [
+    "prince william county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Bristoe Station, Battle of, Va",
+    "Bristoe Station, Battle of, Va., 1863--Maps",
+    "United States--Virginia--Prince William County"
+  ],
+  "dct_temporal_sm": [
+    "1863/1865"
+  ],
+  "dct_title_s": "Bristoe Campaign",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00392",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

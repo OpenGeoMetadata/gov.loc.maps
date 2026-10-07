@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Matthews-Northrup Company; Wisconsin Central Railroad Company (1871-1899)",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 620",
+    "Map of the western United States framed in border giving major stations along the route and a shippers guide. Shows relief by hachures, drainage, cities and towns, state boundaries, and the railroad network with named lines. The main line emphasized in heavy black.",
+    "Publication statement: Buffalo, [188-]",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr006200",
+    "http://lccn.loc.gov/98688860",
+    "http://www.loc.gov/item/98688860/",
+    "http://www.loc.gov/resource/g3701p.rr006200/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr006200",
+    "https://search.catalog.loc.gov/instances/80117c04-ff1e-5734-b924-418725b21ef8",
+    "https://www.loc.gov/item/98688860/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr006200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688860/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "Railroads--Wisconsin--Maps",
+    "United States",
+    "United States--Wisconsin",
+    "Wisconsin Central Railroad Company (1871-1899)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "188?"
+  ],
+  "dct_title_s": "Map of the Wisconsin Central Line and connections",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688860",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

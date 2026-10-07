@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"NP-HS-17,005.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Folded title: Hot Springs National Park, Arkansas.",
+    "Folded title: Hot Springs National Park, Arkansas. \"NP-HS-17,005.\" Text and illus. on verso. Scale ca. 1:14,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: [Washington, U.S. Govt. Print. Off., 1971]",
+    "Scale ca. 1:14,000.",
+    "Text and illus. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/73695970",
+    "http://www.loc.gov/item/73695970/",
+    "http://www.loc.gov/resource/g4004h.ct004841/",
+    "https://hdl.loc.gov/loc.gmd/g4004h.ct004841",
+    "https://search.catalog.loc.gov/instances/8b17570f-50f6-5963-a24f-cfab5fe31cf8",
+    "https://www.loc.gov/item/73695970/"
+  ],
+  "dct_issued_s": "1971",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4004/g4004h/ct004841.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73695970/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "hot springs",
+    "hot springs national park",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hot Springs National Park (Hot Springs, Ark.)--Maps",
+    "United States--Arkansas--Hot Springs--Hot Springs National Park"
+  ],
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "dct_title_s": "Hot Springs National Park. Dec. 1965",
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1971]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73695970",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

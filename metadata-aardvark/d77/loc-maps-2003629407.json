@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"December 1979.\"",
+    "\"December 1979.\" \"Source: Base map prepared by SCS, WTSC Carto Unit from USGS 1:1,000,000 Nat. Atlas.\" Includes location map. \"M7-EN-23602.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"M7-EN-23602.\"",
+    "\"Source: Base map prepared by SCS, WTSC Carto Unit from USGS 1:1,000,000 Nat. Atlas.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: [Washington, D.C.?] : Soil Conservation Service, 1979."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2003629407",
+    "http://www.loc.gov/item/2003629407/",
+    "http://www.loc.gov/resource/g4052n.ct011729/",
+    "https://hdl.loc.gov/loc.gmd/g4052n.ct011729",
+    "https://search.catalog.loc.gov/instances/884ca6e1-591a-529a-8c5c-0afd8bbea0c3",
+    "https://www.loc.gov/item/2003629407/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4052/g4052n/ct011729.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003629407/\"}",
+  "dct_spatial_sm": [
+    "north platte river watershed",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Groundwater--North Platte River Watershed--Maps",
+    "United States--North Platte River Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "General availability of ground water, Platte River Basin, Wyoming",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003629407",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

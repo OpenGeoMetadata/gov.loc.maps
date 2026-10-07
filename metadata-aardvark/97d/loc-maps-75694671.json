@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beck & Pauli; Stoner, J. J.",
+    "Includes illus. and index to points of interest.",
+    "Includes illus. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 458 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 458",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Madison, Wis., J. J. Stoner, c1884."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4254l.pm004580",
+    "http://lccn.loc.gov/75694671",
+    "http://www.loc.gov/item/75694671/",
+    "http://www.loc.gov/resource/g4254l.pm004580/",
+    "https://hdl.loc.gov/loc.gmd/g4254l.pm004580",
+    "https://search.catalog.loc.gov/instances/12361115-ee5a-5a03-af3b-674cead5d3d7",
+    "https://www.loc.gov/item/75694671/"
+  ],
+  "dct_issued_s": "1883",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd425/g4254/g4254l/pm004580.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694671/\"}",
+  "dct_spatial_sm": [
+    "livingston",
+    "montana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Livingston (Mont.)",
+    "United States--Montana--Livingston"
+  ],
+  "dct_temporal_sm": [
+    "1883"
+  ],
+  "dct_title_s": "Bird's eye view of Livingston, Mon., Gallatin County 1883",
+  "gbl_dateRange_drsim": [
+    "[1883 TO 1883]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1883
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694671",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

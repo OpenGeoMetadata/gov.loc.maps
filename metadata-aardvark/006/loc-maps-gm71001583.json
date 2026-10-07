@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers",
+    "Folded title: Do you live in the Coatesville-Modena area of Pennsylvania? Then you should know about floods and flood plain management.",
+    "Folded title: Do you live in the Coatesville-Modena area of Pennsylvania? Then you should know about floods and flood plain management. Includes flood elevations profile chart. Text, illus., and location map on verso. Scale ca. 1:12,500. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes flood elevations profile chart.",
+    "Publication statement: [Washington? 1970]",
+    "Scale ca. 1:12,500.",
+    "Text, illus., and location map on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822b.ct007840",
+    "http://lccn.loc.gov/gm71001583",
+    "http://www.loc.gov/item/gm71001583/",
+    "http://www.loc.gov/resource/g3822b.ct007840/",
+    "https://hdl.loc.gov/loc.gmd/g3822b.ct007840",
+    "https://search.catalog.loc.gov/instances/15460cd7-3d06-567f-a50a-83f3254fcfb3",
+    "https://www.loc.gov/item/gm71001583/"
+  ],
+  "dct_issued_s": "1970",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822b/ct007840.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71001583/\"}",
+  "dct_spatial_sm": [
+    "brandywine creek watershed",
+    "delaware",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Floods--Brandywine Creek Watershed (Pa. and Del.)--Maps",
+    "United States--Pennsylvania--Brandywine Creek Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "dct_title_s": "West Branch Brandywine Creek; Coatesville, S. Coatesville, Modena vicinity",
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1970]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1970
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71001583",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

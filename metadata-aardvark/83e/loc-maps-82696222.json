@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"May 1981.\"",
+    "\"Source: USGS 1:100 000 Norfolk and Plymouth Cos., Mass., base maps, dated 1976.\"",
+    "Also shows wells and areas with potential yields over 100 gal./min.",
+    "Also shows wells and areas with potential yields over 100 gal./min. \"May 1981.\" At head of title: Figure IV-3. \"Source: USGS 1:100 000 Norfolk and Plymouth Cos., Mass., base maps, dated 1976.\" Includes note and location map. Available also through the Library of Congress Web site as a raster image.",
+    "At head of title: Figure IV-3.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes note and location map.",
+    "Publication statement: [Lanham, Md.?] : The Service,, [1981]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3762n.ct005882",
+    "http://lccn.loc.gov/82696222",
+    "http://www.loc.gov/item/82696222/",
+    "http://www.loc.gov/resource/g3762n.ct005882/",
+    "https://hdl.loc.gov/loc.gmd/g3762n.ct005882",
+    "https://search.catalog.loc.gov/instances/4ac10f18-cdc3-5a5d-ae08-25c181a302a6",
+    "https://www.loc.gov/item/82696222/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3762/g3762n/ct005882.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82696222/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "north river watershed",
+    "plymouth county",
+    "south river watershed",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States--Massachusetts--Plymouth County--North River Watershed",
+    "United States--Massachusetts--Plymouth County--South River Watershed",
+    "Water-supply--Massachusetts--North River Watershed (Plymouth County)--Maps",
+    "Water-supply--Massachusetts--South River Watershed (Plymouth County)--Maps",
+    "Watersheds--Massachusetts--North River Watershed (Plymouth County)--Maps",
+    "Watersheds--Massachusetts--South River Watershed (Plymouth County)--Maps",
+    "Wells--Massachusetts--North River Watershed (Plymouth County)--Maps",
+    "Wells--Massachusetts--South River Watershed (Plymouth County)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Well watersheds, North and South Rivers basin, Norfolk and Plymouth Counties, Massachusetts",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82696222",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

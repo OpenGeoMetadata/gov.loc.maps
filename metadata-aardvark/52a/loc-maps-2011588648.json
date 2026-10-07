@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes text.",
+    "Pen-and-ink and colored pencil on two sheets of paper pasted together. Mounted on cardboard.",
+    "Pen-and-ink and colored pencil on two sheets of paper pasted together. Mounted on cardboard. Includes text. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [1914?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5832m.ct003563",
+    "http://lccn.loc.gov/2011588648",
+    "http://www.loc.gov/item/2011588648/",
+    "http://www.loc.gov/resource/g5832m.ct003563/",
+    "https://hdl.loc.gov/loc.gmd/g5832m.ct003563",
+    "https://search.catalog.loc.gov/instances/a84ee958-011e-5efa-b881-6cb15e783b54",
+    "https://www.loc.gov/item/2011588648/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5832/g5832m/ct003563.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011588648/\"}",
+  "dct_spatial_sm": [
+    "france",
+    "marne river valley"
+  ],
+  "dct_subject_sm": [
+    "France--Marne River Valley",
+    "Marne River Valley (France)--Maps",
+    "Marne, 1st Battle of the, France, 1914--Maps",
+    "World War, 1914-1918--Campaigns--France--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1914",
+    "[1914?]"
+  ],
+  "dct_title_s": "Situation le 9 septembre 1914 la veille de la Bataille de la Marne : [France]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011588648",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

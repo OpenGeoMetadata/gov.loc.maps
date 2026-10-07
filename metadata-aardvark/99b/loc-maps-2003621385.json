@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base map prepared by SCS, Portland Carto Unit from USGS 1:1,000,000 national atlas. Thematic detail prepared by state staff.\"",
+    "\"July 1977.\"",
+    "\"July 1977.\" \"Base map prepared by SCS, Portland Carto Unit from USGS 1:1,000,000 national atlas. Thematic detail prepared by state staff.\" \"M7-L-22828-28.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"M7-L-22828-28.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Publication statement: Portland, OR : U.S. Dept. of Agriculture, Soil Conservation Service, 1977."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2003621385",
+    "http://www.loc.gov/item/2003621385/",
+    "http://www.loc.gov/resource/g4052a.ct011684/",
+    "https://hdl.loc.gov/loc.gmd/g4052a.ct011684",
+    "https://search.catalog.loc.gov/instances/048c85d4-5705-5416-a4fb-7352eb17e837",
+    "https://www.loc.gov/item/2003621385/"
+  ],
+  "dct_issued_s": "1977",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4052/g4052a/ct011684.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003621385/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "arkansas river region",
+    "red river region",
+    "united states",
+    "white river region"
+  ],
+  "dct_subject_sm": [
+    "Arkansas River Region--Maps",
+    "Red River Region--Maps",
+    "United States--Arkansas River Region",
+    "United States--Arkansas--Red River Region",
+    "United States--Arkansas--White River Region",
+    "White River Region--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_title_s": "Arkansas-White-Red River basin : Colfax, Curry, Guadalupe, Harding, Mora, Quay, San Miguel, and Union counties, New Mexico",
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003621385",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

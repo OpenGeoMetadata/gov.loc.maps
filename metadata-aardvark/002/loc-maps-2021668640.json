@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Content in French.",
+    "Contributors: Levasseur, Guillaume, died 1643 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of France.",
+    "Original resource extent: 1 map : manuscript, illuminated on vellum ; 74.5 x 99 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1601.",
+    "Reference extracted from World Digital Library: Sarah Toulouse, \"Marine Cartography and Navigation in Renaissance France,\" in David Woodward, editor, The History of Cartography, vol. 3, Cartography in the European Renaissance (Chicago: University of Chicago Press, 2007).",
+    "This portolan map of the Atlantic Ocean, made by Guillaume Levasseur in 1601, reflects the high level of accuracy achieved by French mapmakers of the Norman school of hydrographers, who by this time had been charting the Atlantic for well over a century. The map is also a rich store of historic place-names. For Canada, it provides 28 place-names extracted from the writings of Jacques Cartier, seven of which were original. \"Quebec,\" for example, makes its appearance here for the first time. The northeastern part of North America is labeled as New France and shown with the French coat of arms, even though the first permanent French settlements were not established until several years later (Quebec City in 1608). The map shows the coasts of Europe from Hamburg to Cape Matapan; of Africa from Cyrene to the Cape of Good Hope; and the Atlantic coasts of the Americas from Labrador to the Rio de la Plata and the Pacific coasts from Nicaragua to Conceptión. A ship's pilot, Levasseur is known as the most learned of the Norman hydrographers. He wrote two treatises on hydrography as well as works on mathematical sines and fortifications. Other than a world map that appears in one of his treatises, this is his sole surviving cartographic work.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668640",
+    "http://www.loc.gov/item/2021668640/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15492/",
+    "http://www.loc.gov/resource/wdl.15492/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15492",
+    "https://www.loc.gov/item/2021668640/"
+  ],
+  "dct_issued_s": "1601-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_15492.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/49/2/wdl_15492/wdl_15492.pdf\"}, {\"label\": \"ZIP: wdl_15492.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/49/2/wdl_15492/wdl_15492.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:49:2:wdl_15492:T0000001/full/pct:1.5625/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668640/\"}",
+  "dct_subject_sm": [
+    "1601",
+    "Atlantic Ocean",
+    "Cartier, Jacques, 1491-1557",
+    "Manuscript maps",
+    "Nautical charts",
+    "Portolan charts"
+  ],
+  "dct_temporal_sm": [
+    "1601-01-01"
+  ],
+  "dct_title_s": "Map of the Atlantic Ocean, 1601.",
+  "gbl_dateRange_drsim": [
+    "[1601 TO 1601]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1601
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668640",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: American Automobile Association",
+    "Folded title: Virginia, main traveled routes and their principal connections into adjoining states.",
+    "Folded title: Virginia, main traveled routes and their principal connections into adjoining states. Includes \"Strip map of direct highway between Washington and Richmond,\" 4 local route maps, and advertisements. Text, advertisements, and 9 local route maps on verso. Scale ca. 1:1,600,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes \"Strip map of direct highway between Washington and Richmond,\" 4 local route maps, and advertisements.",
+    "Publication statement: New York [c1912]",
+    "Scale ca. 1:1,600,000.",
+    "Text, advertisements, and 9 local route maps on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881p.ct008993",
+    "http://lccn.loc.gov/73696022",
+    "http://www.loc.gov/item/73696022/",
+    "http://www.loc.gov/resource/g3881p.ct008993/",
+    "https://hdl.loc.gov/loc.gmd/g3881p.ct008993",
+    "https://search.catalog.loc.gov/instances/594b24e3-73ae-5bff-bb16-ac251c03f954",
+    "https://www.loc.gov/item/73696022/"
+  ],
+  "dct_issued_s": "1912",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881p/ct008993.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73696022/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Roads--Virginia--Maps",
+    "United States--Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dct_title_s": "Main routes in Virginia and principal connections into adjoining states",
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73696022",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

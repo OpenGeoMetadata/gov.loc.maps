@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Plano da fortaleza da Ilha das Cobras destinada a incomodar os navios que fundiarem no ancoradouro"
+  ],
+  "dct_description_sm": [
+    "Content in Portuguese.",
+    "Contributors: Bulhões, José Correia Rangel de, flourished 1749-1800 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 manuscript map ; 41 x 54 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1789.",
+    "This map shows the fort on Das Cobras Island, near Rio de Janeiro. The title of the map--\"Map of the Fortress of Cobras Island Built to Harass Ships that Anchor in the Harbor\"--is taken from the note in the lower right, and indicates the role that the fort played in defending the harbor. The first fort was erected on the island in the 1620s, when Portugal's Brazilian holdings were under threat from the Dutch as well as from the French and the English. Over the next century, the fort was rebuilt and expanded, and eventually included a house for the fort commander, a chapel, barracks, and storehouses for supplies.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668334",
+    "http://www.loc.gov/item/2021668334/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00872/",
+    "http://www.loc.gov/resource/wdl.872/",
+    "https://hdl.loc.gov/loc.wdl/wdl.872",
+    "https://www.loc.gov/item/2021668334/"
+  ],
+  "dct_issued_s": "1789-01-01",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00872.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/87/2/wdl_00872/wdl_00872.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:87:2:wdl_00872:cart209332/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668334/\"}",
+  "dct_spatial_sm": [
+    "brazil"
+  ],
+  "dct_subject_sm": [
+    "1789",
+    "Brazil",
+    "Cobras Island",
+    "Forts and fortifications",
+    "Manuscript maps"
+  ],
+  "dct_temporal_sm": [
+    "1789-01-01"
+  ],
+  "dct_title_s": "Map of the Fortress of Cobras Island Built to Harass Ships that Anchor in the Harbor.",
+  "gbl_dateRange_drsim": [
+    "[1789 TO 1789]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1789
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668334",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

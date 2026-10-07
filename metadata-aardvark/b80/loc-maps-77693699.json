@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 110; 650/1; 651/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Bird's-eye view. Indexed for points of interest. Perspective map not drawn to scale. Available also through the Library of Congress Web site as a raster image. AACR2: 110; 650/1; 651/3",
+    "Contributors: Geo. H. Walker & Co; Poole (A.F.) & Co",
+    "Indexed for points of interest.",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Brockton, Mass., A.F. Poole & Co., c1885."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3774w.ct006255",
+    "http://lccn.loc.gov/77693699",
+    "http://www.loc.gov/item/77693699/",
+    "http://www.loc.gov/resource/g3774w.ct006255/",
+    "https://hdl.loc.gov/loc.gmd/g3774w.ct006255",
+    "https://search.catalog.loc.gov/instances/ae69a420-ffb5-58f0-9986-de8070745ed7",
+    "https://www.loc.gov/item/77693699/"
+  ],
+  "dct_issued_s": "1885",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd377/g3774/g3774w/ct006255.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77693699/\"}",
+  "dct_spatial_sm": [
+    "oakland beach",
+    "rhode island",
+    "united states",
+    "warwick"
+  ],
+  "dct_subject_sm": [
+    "Fortification--Rhode Island--Warwick--Maps",
+    "Oakland Beach, Warwick, R.I.--Aerial views",
+    "United States--Rhode Island--Warwick",
+    "Warwick (R.I.)--Buildings, structures, etc.--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "dct_title_s": "Camp Wetmore, R.I. brigade militia, July 7th to 11th, 1885, Oakland Beach",
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1885]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1885
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77693699",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

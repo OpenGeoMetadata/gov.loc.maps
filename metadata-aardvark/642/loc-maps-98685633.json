@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte des Etats-Unis de L'Amerique Septentrionale",
+    "United States of North America"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Arrowsmith, Aaron, 1750-1823, cartographer; Tardieu, Pierre Alexandre, 1756-1844, cartographer",
+    "English. Some text in both English and French, some text in only English or French.",
+    "Includes text, illustrations, and inset \"Plan de la ville de Washington située sur le Territoire de Columbia, cedé par les etats de Virginie et Maryland aux Etats Unis d'Amérique et établi par eux comme le siege de leur gouvernement depuis l'année 1800.\"",
+    "LC copy has each sheet sectioned into 15 and mounted on cloth. Each sheet has on upper right verso a label from \"Chez Picquet géographe-graveur\".",
+    "Publication statement: À Paris : Chez Tardieu, graveur et editeur-propriétaire, Place de l'Estrapade, no. 18 et 979 : Chez Dezauche, ingénieur géographe, rue des Noyers, an 1802.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Includes text, illustrations, and inset \"Plan de la ville de Washington située sur le Territoire de Columbia, cedé par les etats de Virginie et Maryland aux Etats Unis d'Amérique et établi par eux comme le siege de leur gouvernement depuis l'année 1800.\" LC copy has each sheet sectioned into 15 and mounted on cloth. Each sheet has on upper right verso a label from \"Chez Picquet géographe-graveur\". Available also through the Library of Congress Web site as a raster image. English. Some text in both English and French, some text in only English or French."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.ct004295",
+    "http://lccn.loc.gov/98685633",
+    "http://www.loc.gov/item/98685633/",
+    "http://www.loc.gov/resource/g3700.ct004295/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ct004295",
+    "https://search.catalog.loc.gov/instances/b2b42349-b1c0-50a5-ac3d-1d1dd0d91079",
+    "https://www.loc.gov/item/98685633/"
+  ],
+  "dct_issued_s": "1802",
+  "dct_language_sm": [
+    "eng",
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ct004295.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98685633/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1802"
+  ],
+  "dct_title_s": "United States of Nth. America = Carte des Etats-Unis de L'Amerique Septentrionale",
+  "gbl_dateRange_drsim": [
+    "[1802 TO 1802]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1802
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98685633",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

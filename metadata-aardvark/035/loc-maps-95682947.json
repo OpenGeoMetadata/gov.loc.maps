@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from USGS quadrangle sheets and Georgetown County highway map.\"",
+    "\"January 1983 Base 4-R-37925.\"",
+    "\"September 1986 4-R-37925-1.\"",
+    "\"September 1986 4-R-37925-1.\" Alternate title: Georgetown County, South Carolina. \"Base compiled from USGS quadrangle sheets and Georgetown County highway map.\" Includes notes and location map. Text on verso. \"January 1983 Base 4-R-37925.\" Available also through the Library of Congress Web site as a raster image.",
+    "Alternate title: Georgetown County, South Carolina.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: South Carolina Land Resources Conservation Commission; United States. Soil Conservation Service",
+    "Includes notes and location map.",
+    "Publication statement: Columbia, S.C. : The Service, [1986]",
+    "Text on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95682947",
+    "http://www.loc.gov/item/95682947/",
+    "http://www.loc.gov/resource/g3913g.ct009923/",
+    "https://hdl.loc.gov/loc.gmd/g3913g.ct009923",
+    "https://search.catalog.loc.gov/instances/831d4d53-ba60-588a-b81c-c715dcf00e6b",
+    "https://www.loc.gov/item/95682947/"
+  ],
+  "dct_issued_s": "1986",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3913/g3913g/ct009923.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95682947/\"}",
+  "dct_spatial_sm": [
+    "gegorgetown county",
+    "georgetown county",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Agricultural resources--South Carolina--Georgetown County--Maps",
+    "Land capability for agriculture--South Carolina--Gegorgetown County--Maps",
+    "Soil productivity--South Carolina--Georgetown County--Maps",
+    "United States--South Carolina--Georgetown County"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "dct_title_s": "Important farmlands map, Georgetown County, South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95682947",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

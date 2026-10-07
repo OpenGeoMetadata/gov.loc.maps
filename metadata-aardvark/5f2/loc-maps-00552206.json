@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Said to be a print from a tracing of a French map. Additions made in the Office of the General of the Army of the United States and furnished to the Coast and Geodetic Survey by Col. Black, U.S.A.\"",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Blueprint.",
+    "Blueprint. \"Said to be a print from a tracing of a French map. Additions made in the Office of the General of the Army of the United States and furnished to the Coast and Geodetic Survey by Col. Black, U.S.A.\" Available also through the Library of Congress web site as a raster image.",
+    "Contributors: United States. Army",
+    "Publication statement: [S.l.], 1898?"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4971s.ct000496",
+    "http://lccn.loc.gov/00552206",
+    "http://www.loc.gov/item/00552206/",
+    "http://www.loc.gov/resource/g4971s.ct000496/",
+    "https://hdl.loc.gov/loc.gmd/g4971s.ct000496",
+    "https://search.catalog.loc.gov/instances/9851e862-ffcc-5080-80f8-c4c2a8257726",
+    "https://www.loc.gov/item/00552206/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4971/g4971s/ct000496.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00552206/\"}",
+  "dct_spatial_sm": [
+    "puerto rico"
+  ],
+  "dct_subject_sm": [
+    "Puerto Rico",
+    "Puerto Rico--History--Maps",
+    "Spanish-American War, 1898--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1898",
+    "[S.l.], 1898?"
+  ],
+  "dct_title_s": "Isla de Puerto Rico",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00552206",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

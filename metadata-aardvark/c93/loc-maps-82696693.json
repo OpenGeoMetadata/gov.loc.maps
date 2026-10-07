@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Friends of the National Zoo (U.S.); National Zoological Park (U.S.); National Zoological Park (U.S.). Office of Graphics & Exhibits",
+    "DCP",
+    "Panel title.",
+    "Panel title. Text, location map, and ill. on verso. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Publication statement: Washington : National Zoological Park, Smithsonian Institution, [1982?]",
+    "Text, location map, and ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852n.ct005163",
+    "http://lccn.loc.gov/82696693",
+    "http://www.loc.gov/item/82696693/",
+    "http://www.loc.gov/resource/g3852n.ct005163/",
+    "https://hdl.loc.gov/loc.gmd/g3852n.ct005163",
+    "https://search.catalog.loc.gov/instances/599d7aba-b37a-5680-97a0-f8e52660d61e",
+    "https://www.loc.gov/item/82696693/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852n/ct005163.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82696693/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington"
+  ],
+  "dct_subject_sm": [
+    "National Zoological Park (U.S.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1982",
+    "Washington : National Zoological Park, Smithsonian Institution, [1982?]"
+  ],
+  "dct_title_s": "Zoo : [Washington D.C.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82696693",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

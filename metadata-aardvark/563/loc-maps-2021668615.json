@@ -1,0 +1,116 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Il Bacino orientale del mediterraneo il mar rosso ed il golfo persico"
+  ],
+  "dct_description_sm": [
+    "\"Scale 1:7,500,000\"--Note extracted from World Digital Library.",
+    "Content in Italian.",
+    "Contributors: Paravia (Firm) Creator.; Salussolia Lithographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : color ; 60 x 71 centimeters.",
+    "Publication statement: Turin : G.B. Paravia, [1890 to 1900]",
+    "This undated Italian map of the Middle East was published by the firm G.B. Paravia of Turin, Italy. It is a political map marking the boundaries of states and empires at the date of printing, probably at the very end of the 19th century. A clue to dating is the designation of Somalia Italiana (Italian Somalia). A series of Italian protectorates was established in the Horn of Africa beginning in the late 1880s, indicating that the map was produced after that time. International political boundaries are indicated by colored borders. Internal boundaries and jurisdictions generally are not shown, as is the case with Sudan Anglo-Egiziano (Anglo-Egyptian Sudan), where Sudan is shown as an extension of Egypt proper, thus giving another clue to the date, as joint rule over Sudan began in 1899. The area at bottom left that is labeled Sudan corresponds to parts of present-day Sudan, South Sudan, Central African Republic, and Chad. The map covers the region from Tunisia on the west to the borders of Afghanistan on the east, and Switzerland on the north to Sudan and parts of Somalia on the south. Except for river courses and large lakes, few internal geologic or hydrographic features are shown. The scale is given in kilometers. Place-names are in Italian. The firm of G.B. Paravia specialized in educational publishing. The map was printed in color at the Salussolia press of Turin, one of several lithographers in the city, which printed books, banknotes, and advertising posters as well as maps. A note on the map indicates that it was loaned by the American Geographical Society to the Paris Peace Conference of 1918--19, convened to draw up peace treaties after World War I.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668615",
+    "http://www.loc.gov/item/2021668615/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15040/",
+    "http://www.loc.gov/resource/wdl.15040/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15040",
+    "https://www.loc.gov/item/2021668615/"
+  ],
+  "dct_issued_s": "1890-01-01",
+  "dct_language_sm": [
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15040.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/04/0/wdl_15040/wdl_15040.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:04:0:wdl_15040:am004844/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668615/\"}",
+  "dct_spatial_sm": [
+    "albania",
+    "armenia",
+    "azerbaijan",
+    "bahrain",
+    "bosnia and herzegovina",
+    "bulgaria",
+    "croatia",
+    "cyprus",
+    "egypt",
+    "eritrea",
+    "former yugoslav republic of macedonia",
+    "georgia",
+    "greece",
+    "iran, islamic republic of",
+    "iraq",
+    "israel",
+    "italy",
+    "jordan",
+    "kuwait",
+    "oman",
+    "romania",
+    "serbia",
+    "slovenia",
+    "turkey",
+    "united arab emirates",
+    "yemen"
+  ],
+  "dct_subject_sm": [
+    "1890 to 1900",
+    "Albania",
+    "Arabian Gulf",
+    "Arabian Peninsula",
+    "Armenia",
+    "Azerbaijan",
+    "Bahrain",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Egypt",
+    "Eritrea",
+    "Former Yugoslav Republic of Macedonia",
+    "Georgia",
+    "Greece",
+    "Iran, Islamic Republic of",
+    "Iraq",
+    "Israel",
+    "Italy",
+    "Jordan",
+    "Kuwait",
+    "Oman",
+    "Persian Gulf",
+    "Red Sea",
+    "Romania",
+    "Serbia",
+    "Slovenia",
+    "Treaty of Versailles (1919)",
+    "Turkey",
+    "United Arab Emirates",
+    "Yemen"
+  ],
+  "dct_temporal_sm": [
+    "1890-01-01"
+  ],
+  "dct_title_s": "The Eastern Basin of the Mediterranean, the Red Sea, and the Persian Gulf.",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668615",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

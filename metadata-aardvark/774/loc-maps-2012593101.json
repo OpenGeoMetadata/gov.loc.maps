@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Boyle and Mercer counties, Kentucky"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: D.G. Beers & Co; H.J. Toudy & Co; Worley & Bracher",
+    "Copy imperfect: Shellacked, sectioned in 4 separated and torn along horizontal and vertical folds, and mounted on cloth backing.",
+    "LC Land ownership maps, 226",
+    "Publication statement: Philadelphia : D.G. Beers & Co., 1876",
+    "Relief shown by contours.",
+    "Shows the names of some residents.",
+    "Shows the names of some residents. Relief shown by contours. Copy imperfect: Shellacked, sectioned in 4 separated and torn along horizontal and vertical folds, and mounted on cloth backing. LC Land ownership maps, 226 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3953b.la000226",
+    "http://lccn.loc.gov/2012593101",
+    "http://www.loc.gov/item/2012593101/",
+    "http://www.loc.gov/resource/g3953b.la000226/",
+    "https://hdl.loc.gov/loc.gmd/g3953b.la000226",
+    "https://search.catalog.loc.gov/instances/2c166bf3-2d73-5c62-bbd7-41f77710a932",
+    "https://www.loc.gov/item/2012593101/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd395/g3953/g3953b/la000226.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593101/\"}",
+  "dct_spatial_sm": [
+    "boyle county",
+    "kentucky",
+    "mercer county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boyle County (Ky.)--Maps",
+    "Landowners--Kentucky--Boyle County--Maps",
+    "Landowners--Kentucky--Mercer County--Maps",
+    "Mercer County (Ky.)--Maps",
+    "Real property--Kentucky--Boyle County--Maps",
+    "Real property--Kentucky--Mercer County--Maps",
+    "United States--Kentucky--Boyle County",
+    "United States--Kentucky--Mercer County"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Map of Boyle & Mercer counties, Kentucky",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593101",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

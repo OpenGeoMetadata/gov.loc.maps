@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Contributors: United States. National Park Service",
+    "Includes text and ill.",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [Washington] : The Service, [1977?]",
+    "Text, 2 location maps, and ill. on verso.",
+    "Title from verso.",
+    "Title from verso. Bird's-eye-view. Includes text and ill. Text, 2 location maps, and ill. on verso. Perspective map not drawn to scale. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3744c.ct005616",
+    "http://lccn.loc.gov/78696403",
+    "http://www.loc.gov/item/78696403/",
+    "http://www.loc.gov/resource/g3744c.ct005616/",
+    "https://hdl.loc.gov/loc.gmd/g3744c.ct005616",
+    "https://search.catalog.loc.gov/instances/1340065b-40ab-55db-999e-b04e4a015075",
+    "https://www.loc.gov/item/78696403/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd374/g3744/g3744c/ct005616.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78696403/\"}",
+  "dct_spatial_sm": [
+    "cornish",
+    "gaudens national historical park",
+    "new hampshire",
+    "saint",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Saint-Gaudens National Historical Park (Cornish, N.H.)--Aerial views",
+    "United States--New Hampshire--Cornish--Saint-Gaudens National Historical Park"
+  ],
+  "dct_temporal_sm": [
+    "1977",
+    "[Washington] : The Service, [1977?]"
+  ],
+  "dct_title_s": "The Saint-Gaudens National Historic Site",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78696403",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte de la rade de Benguela et Riviere de Cantonbelle"
+  ],
+  "dct_description_sm": [
+    "Content in French.",
+    "Contributors: Bellin, Jacques-Nicolas, 1703-1772 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 map ; 22 x 35 centimeters.",
+    "Publication statement: Paris? : [publisher not identified], [1700 to 1799]",
+    "This map of the Bay of Benguela, on the coast of present-day Angola, is by the French cartographer Jacques-Nicolas Bellin (1703-72). Trained as a hydrographer, Bellin was attached to the French Marine Office and specialized in producing maritime maps showing coastlines. In 1764, he published Le Petit Atlas Maritime (Small maritime atlas), a work in five volumes containing 581 maps. Bellin's maps were in the tradition of Sanson and de L'Isle, and placed great emphasis on scientific accuracy rather than on artistic beauty for its own sake.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668389",
+    "http://www.loc.gov/item/2021668389/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_01207/",
+    "http://www.loc.gov/resource/wdl.1207/",
+    "https://hdl.loc.gov/loc.wdl/wdl.1207",
+    "https://www.loc.gov/item/2021668389/"
+  ],
+  "dct_issued_s": "1700-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_01207.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/01/20/7/wdl_01207/wdl_01207.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:20:7:wdl_01207:cart172373/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668389/\"}",
+  "dct_spatial_sm": [
+    "angola",
+    "benguela"
+  ],
+  "dct_subject_sm": [
+    "1700",
+    "Angola--Benguela",
+    "Coasts",
+    "Rivers"
+  ],
+  "dct_temporal_sm": [
+    "1700-01-01"
+  ],
+  "dct_title_s": "Map of the Bay of Benguela and the Cantonbelle River.",
+  "gbl_dateRange_drsim": [
+    "[1700 TO 1700]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1700
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668389",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

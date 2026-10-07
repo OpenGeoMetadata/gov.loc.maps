@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Accompanied by the author's Explanation for the new map of Nova Scotia and Cape Britain, with the adjacent parts of New England and Canada. 24 p.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771",
+    "Includes table of sources of observations.",
+    "Prime meridian: Ferro.",
+    "Publication statement: [London] Thos. Jefferys, 1755.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Prime meridian: Ferro. Shows Maritime Provinces, New England, and St. Lawrence Valley region to Montreal. Includes table of sources of observations. Accompanied by the author's Explanation for the new map of Nova Scotia and Cape Britain, with the adjacent parts of New England and Canada. 24 p. Scale ca. 1:1,900,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:1,900,000.",
+    "Shows Maritime Provinces, New England, and St. Lawrence Valley region to Montreal.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3420.ct008119",
+    "http://lccn.loc.gov/74691320",
+    "http://www.loc.gov/item/74691320/",
+    "http://www.loc.gov/resource/g3420.ct008119/",
+    "https://hdl.loc.gov/loc.gmd/g3420.ct008119",
+    "https://search.catalog.loc.gov/instances/7919866a-a243-5334-b798-3a00d02ffdb6",
+    "https://www.loc.gov/item/74691320/"
+  ],
+  "dct_issued_s": "1755",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3420/g3420/ct008119.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74691320/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "maritime provinces",
+    "new england",
+    "north america",
+    "nova scotia",
+    "saint lawrence river valley",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--Maps--Early works to 1800",
+    "Canada--Maritime Provinces",
+    "Canada--Nova Scotia",
+    "Maritime Provinces--Maps--Early works to 1800",
+    "New England--Maps--Early works to 1800",
+    "North America--Saint Lawrence River Valley",
+    "Nova Scotia--Maps--Early works to 1800",
+    "Saint Lawrence River Valley--Maps--Early works to 1800",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1755"
+  ],
+  "dct_title_s": "A new map of Nova Scotia, and Cape Britain. With the adjacent parts of New England and Canada, composed from a great number of actual surveys; and other materials regulated by many new astronomical observations of the longitude as well as latitude; with an explanation",
+  "gbl_dateRange_drsim": [
+    "[1755 TO 1755]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1755
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74691320",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

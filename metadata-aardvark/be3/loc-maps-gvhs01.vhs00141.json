@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Diary (Mss5:1 Sn237:1 v. 4, p. 450).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary image.",
+    "Publication statement: [S.l., 1863-1865].",
+    "Relief shown by hachures.",
+    "Shows the terrain and Confederate fortifications around Vicksburg, Miss., in mid-May, 1863, just after Confederate Gen. Pemberton was forced to evacuate Hayne's Bluff. Indicated are the locations of Union forces under Sherman, McPherson, McClernand, and Carr.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00141",
+    "http://www.loc.gov/item/001-CABIB20009358/",
+    "http://www.loc.gov/item/gvhs01.vhs00141/",
+    "http://www.loc.gov/resource/gvhs01.vhs00141/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00141",
+    "https://www.loc.gov/item/gvhs01.vhs00141/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00141.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00141/\"}",
+  "dct_spatial_sm": [
+    "confederate states of america",
+    "mississippi",
+    "united states",
+    "vicksburg"
+  ],
+  "dct_subject_sm": [
+    "Fortification--Confederate States of America",
+    "Mississippi--History--Civil War, 1861-1865--Maps",
+    "United States--Mississippi--Vicksburg",
+    "Vicksburg (Miss.)--History--Siege, 1863--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1863/1865"
+  ],
+  "dct_title_s": "The Enemy's fortifications around Vicksburg",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00141",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Kitchin, Thomas, -1784",
+    "From The London magazine: or, Gentleman's monthly intelligencer (1758), vol. 7.",
+    "LC Maps of North America, 1750-1789, 805",
+    "Printed for R. Baldwin.",
+    "Printed for R. Baldwin. From The London magazine: or, Gentleman's monthly intelligencer (1758), vol. 7. LC Maps of North America, 1750-1789, 805 Available also through the Library of Congress web site as a raster image.",
+    "Publication statement: [London], 1758."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3780.ar080500",
+    "http://lccn.loc.gov/99466765",
+    "http://www.loc.gov/item/99466765/",
+    "http://www.loc.gov/resource/g3780.ar080500/",
+    "https://hdl.loc.gov/loc.gmd/g3780.ar080500",
+    "https://search.catalog.loc.gov/instances/3b422b13-8b35-5822-98f5-79d5bfb312b8",
+    "https://www.loc.gov/item/99466765/"
+  ],
+  "dct_issued_s": "1758",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd378/g3780/g3780/ar080500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466765/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "rhode island",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Connecticut--Maps",
+    "Rhode Island--Maps",
+    "United States--Connecticut",
+    "United States--Rhode Island"
+  ],
+  "dct_temporal_sm": [
+    "1758"
+  ],
+  "dct_title_s": "A map of the colonies in Connecticut and Rhode Island, divided by counties & townships, from best authorities",
+  "gbl_dateRange_drsim": [
+    "[1758 TO 1758]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1758
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466765",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

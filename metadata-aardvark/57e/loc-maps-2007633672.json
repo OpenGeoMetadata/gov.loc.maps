@@ -1,0 +1,49 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Thornton, John, 1641-1708",
+    "Oriented with north to the right.",
+    "Oriented with north to the right. Available also through the Library of Congress Web site as a raster image. Vault",
+    "Publication statement: London : Signe of England, Scotland, and Ireland in the Minories, [ca. 1680]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4900.ct002237",
+    "http://lccn.loc.gov/2007633672",
+    "http://www.loc.gov/item/2007633672/",
+    "http://www.loc.gov/resource/g4900.ct002237/",
+    "https://hdl.loc.gov/loc.gmd/g4900.ct002237",
+    "https://search.catalog.loc.gov/instances/a36e90d1-5af3-5921-8611-43170c1f1e11",
+    "https://www.loc.gov/item/2007633672/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4900/g4900/ct002237.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007633672/\"}",
+  "dct_spatial_sm": [
+    "west indies"
+  ],
+  "dct_subject_sm": [
+    "West Indies",
+    "West Indies--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1680",
+    "London : Signe of England, Scotland, and Ireland in the Minories, [ca. 1680]"
+  ],
+  "dct_title_s": "A chart of the Caribe Ilands [sic]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007633672",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

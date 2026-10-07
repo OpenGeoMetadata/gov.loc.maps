@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Harrison County, Ky",
+    "Map of Harrison County, Kentucky"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beers, D. G. (Daniel G.); D.G. Beers & Co; H.J. Toudy & Co; Lanagan, J.; Worley & Bracher",
+    "LC Land ownership maps, 232",
+    "LC copy imperfect: Fragile and darkened. Sectioned in 2 and mounted on cloth backing.",
+    "Publication statement: Philad. Philadelphia : Printed by J.H Toudy & Co.; Philadelphia : D.G. Beers, 1877.",
+    "Relief shown by contours and spot heights.",
+    "Shows names of landowners.",
+    "Shows names of landowners. Relief shown by contours and spot heights. LC copy imperfect: Fragile and darkened. Sectioned in 2 and mounted on cloth backing. LC Land ownership maps, 232 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3953h.la000232",
+    "http://lccn.loc.gov/2013593249",
+    "http://www.loc.gov/item/2013593249/",
+    "http://www.loc.gov/resource/g3953h.la000232/",
+    "https://hdl.loc.gov/loc.gmd/g3953h.la000232",
+    "https://search.catalog.loc.gov/instances/035708f9-c586-580a-b0b3-a7a89a8b2ca5",
+    "https://www.loc.gov/item/2013593249/"
+  ],
+  "dct_issued_s": "1877",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd395/g3953/g3953h/la000232.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593249/\"}",
+  "dct_spatial_sm": [
+    "harrison county",
+    "kentucky",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Harrison County (Ky.)--Maps",
+    "Landowners--Kentucky--Harrison County--Maps",
+    "Real property--Kentucky--Harrison County--Maps",
+    "United States--Kentucky--Harrison County"
+  ],
+  "dct_temporal_sm": [
+    "1877"
+  ],
+  "dct_title_s": "Map of Harrison County, Ky. : from new & actual surveys",
+  "gbl_dateRange_drsim": [
+    "[1877 TO 1877]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1877
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593249",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

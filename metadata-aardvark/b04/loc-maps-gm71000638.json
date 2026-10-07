@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Maps of North America, 1750-1789, 1559",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: 1780?]",
+    "Scale ca. 1:17,500.",
+    "Title from William Faden's Catalogue of a curious and valuable collection of original maps and plans. 1862.",
+    "Title from William Faden's Catalogue of a curious and valuable collection of original maps and plans. 1862. Manuscript, pen-and-ink and watercolor. Scale ca. 1:17,500. LC Maps of North America, 1750-1789, 1559 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3914c.ar155900",
+    "http://lccn.loc.gov/gm71000638",
+    "http://www.loc.gov/item/gm71000638/",
+    "http://www.loc.gov/resource/g3914c.ar155900/",
+    "https://hdl.loc.gov/loc.gmd/g3914c.ar155900",
+    "https://search.catalog.loc.gov/instances/86df9810-ade0-50c5-aac3-756c59095d0b",
+    "https://www.loc.gov/item/gm71000638/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3914/g3914c/ar155900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000638/\"}",
+  "dct_spatial_sm": [
+    "charleston",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Charleston (S.C.)--History--Siege, 1780--Maps, Manuscript--Early works to 1800",
+    "United States--South Carolina--Charleston"
+  ],
+  "dct_temporal_sm": [
+    "1780",
+    "1780?]"
+  ],
+  "dct_title_s": "[The Investiture of Charleston, S.C. by the English army, in 1780. With the position of each corps",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000638",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

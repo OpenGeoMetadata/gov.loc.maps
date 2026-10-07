@@ -1,0 +1,81 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"From the field notes and journal of Capt. J.C. Frémont.\"",
+    "\"This map, produced in 1846 in seven sections, was compiled by order of the U.S. Senate from the field notes and journal of Captain John C. Frémont (1813-90) and associated sketches and notes of his assistant, Charles Preuss (1803-54). It traces the route to the Pacific paralleling the large river systems traversing the North American continent. Frémont was an experienced frontiersman who led four expeditions into the western regions of the United States. Popularly known in his day as \"The Pathfinder,\" Frémont worked with the frontiersman Kit Carson and made large contributions to early knowledge about the geography of the American West. Each section of the map shows in great detail the initial route that Frémont took on his second expedition, in 1843-44, along the Kansas, Platte, Snake, and Walla Walla Rivers and parts of the Oregon Trail. The map includes temperature readings, altitude, and weather patterns for each day of the journey, as well as extensive notes describing the terrain, flora and fauna, and the Native American tribes encountered. The scale is 10 miles to the inch (16.09 kilometers to 2.54 centimeters). As one of the most famous explorers of the West, Frémont became military governor of California in 1847, one of the first senators from California in 1850, and the first Republican candidate for president of the United States in 1856. In 1853 he published The Exploring Expedition to the Rocky Mountains, Oregon and California: To Which is Added a Description of the Physical Geography of California: With Recent Notices of the Gold Region from the Latest and Most Authentic Sources.\" World Digital Library.",
+    "3 copies, copy 2 missing data from top of map",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Frémont, John Charles, 1813-1890; Preuss, Charles, 1803-1854; United States. Congress. Senate",
+    "Includes meteorological observations.",
+    "Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, 168",
+    "Publication statement: Baltimore, 1846.",
+    "Segments fit together with overlap."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4127o.mf000048",
+    "http://hdl.loc.gov/loc.gmd/g4127o.mf000049",
+    "http://hdl.loc.gov/loc.gmd/g4127o.mf000050",
+    "http://hdl.loc.gov/loc.gmd/g4127o.mf000051",
+    "http://hdl.loc.gov/loc.gmd/g4127o.mf000052",
+    "http://hdl.loc.gov/loc.gmd/g4127o.mf000053",
+    "http://hdl.loc.gov/loc.gmd/g4127o.mf000054",
+    "http://lccn.loc.gov/99446202",
+    "http://www.loc.gov/item/99446202/",
+    "http://www.loc.gov/resource/g4127o.mf000048/",
+    "http://www.loc.gov/resource/g4127o.mf000049/",
+    "http://www.loc.gov/resource/g4127o.mf000050/",
+    "http://www.loc.gov/resource/g4127o.mf000051/",
+    "http://www.loc.gov/resource/g4127o.mf000052/",
+    "http://www.loc.gov/resource/g4127o.mf000053/",
+    "http://www.loc.gov/resource/g4127o.mf000054/",
+    "https://hdl.loc.gov/loc.gmd/g4127o.mf000048",
+    "https://hdl.loc.gov/loc.gmd/g4127o.mf000049",
+    "https://hdl.loc.gov/loc.gmd/g4127o.mf000050",
+    "https://hdl.loc.gov/loc.gmd/g4127o.mf000051",
+    "https://hdl.loc.gov/loc.gmd/g4127o.mf000052",
+    "https://hdl.loc.gov/loc.gmd/g4127o.mf000053",
+    "https://hdl.loc.gov/loc.gmd/g4127o.mf000054",
+    "https://search.catalog.loc.gov/instances/efcf40d4-e760-5af7-8448-ede1ca0b3b65",
+    "https://www.loc.gov/item/99446202/"
+  ],
+  "dct_issued_s": "1846",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4127/g4127o/mf000048.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446202/\"}",
+  "dct_spatial_sm": [
+    "northwestern states",
+    "oregon national historic trail",
+    "oregon trail",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Northwestern States--Maps",
+    "Oregon National Historic Trail--Maps",
+    "United States--Northwestern States",
+    "United States--Oregon Trail"
+  ],
+  "dct_temporal_sm": [
+    "1846"
+  ],
+  "dct_title_s": "Topographical map of the road from Missouri to Oregon, commencing at the mouth of the Kansas in the Missouri River and ending at the mouth of the Walla-Wallah in the Columbia",
+  "gbl_dateRange_drsim": [
+    "[1846 TO 1846]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1846
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446202",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows locations of Catholic churches and indigenous communities.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: D'Almonte, Enrique; Spain. Ministerio de Estado",
+    "Includes text.",
+    "Insets: Islote Elobey Peq́eño -- Angulo Suroeste de Corsico -- Cabo de San Juan y litoral inmediato al norte del mismo -- Bata y sus inmediaciones -- Cascadas de Buia.",
+    "Publication statement: [Madrid?] : Ministerio de Estado, 1903",
+    "Relief shown by shading.",
+    "Relief shown by shading. Also shows locations of Catholic churches and indigenous communities. Insets: Islote Elobey Peq́eño -- Angulo Suroeste de Corsico -- Cabo de San Juan y litoral inmediato al norte del mismo -- Bata y sus inmediaciones -- Cascadas de Buia. Includes text. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8660.ct003046",
+    "http://lccn.loc.gov/2012590213",
+    "http://www.loc.gov/item/2012590213/",
+    "http://www.loc.gov/resource/g8660.ct003046/",
+    "https://hdl.loc.gov/loc.gmd/g8660.ct003046",
+    "https://search.catalog.loc.gov/instances/01dc5fdd-049e-5b2c-9ea6-e688f727f596",
+    "https://www.loc.gov/item/2012590213/"
+  ],
+  "dct_issued_s": "1903",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8660/g8660/ct003046.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590213/\"}",
+  "dct_spatial_sm": [
+    "equatorial guinea"
+  ],
+  "dct_subject_sm": [
+    "Catholic Church--Missions--Equatorial Guinea--Maps",
+    "Equatorial Guinea",
+    "Equatorial Guinea--Maps",
+    "Indigenous peoples--Equatorial Guinea--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dct_title_s": "Muni : Guinea Continental Espańola",
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1903]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590213",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

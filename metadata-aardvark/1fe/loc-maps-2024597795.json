@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotated in pencil at bottom left: \"My 42 CWB.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Oriented with north toward lower left.",
+    "Oriented with north toward lower left. Pen-and-ink (red, blue) and mounted on cloth backed paper. Annotations made in pencil at title statement with losses to left and right borders. Annotated in pencil at bottom left: \"My 42 CWB. Available also through the Library of Congress Web site as a raster image. vcFY25",
+    "Pen-and-ink (red, blue) and mounted on cloth backed paper. Annotations made in pencil at title statement with losses to left and right borders.",
+    "Publication statement: [Pennsylvania?] : [Producer not identified], [1856?]",
+    "vcFY25"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597795",
+    "http://www.loc.gov/item/2024597795/",
+    "http://www.loc.gov/resource/g3824g.ct006049/",
+    "https://hdl.loc.gov/loc.gmd/g3824g.ct006049",
+    "https://search.catalog.loc.gov/instances/b16a140c-e2c0-5979-aad1-9fd845f0aacb",
+    "https://www.loc.gov/item/2024597795/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824g:ct006049/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597795/\"}",
+  "dct_spatial_sm": [
+    "greencastle",
+    "greencastle (pa.)",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Greencastle (Pa.)--Maps",
+    "United States--Pennsylvania--Greencastle (Pa.)"
+  ],
+  "dct_temporal_sm": [
+    "1856",
+    "[Pennsylvania?] : [Producer not identified], [1856?]"
+  ],
+  "dct_title_s": "A map and Profile of Greencastle [Pa.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597795",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

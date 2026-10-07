@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1992-312-248/40144.\"",
+    "\"*GPO: 1992-312-248/40144.\" Panel title: San Antonio Missions National Historical Park, Texas. Includes text, location map, and ill. Text, ill., plan of Mission San José, and mini map of Texas showing Spanish missions in Texas, 1659-1795 on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, location map, and ill.",
+    "Panel title: San Antonio Missions National Historical Park, Texas.",
+    "Publication statement: [Washington, D.C.] : The Service, [1992]",
+    "Text, ill., plan of Mission San José, and mini map of Texas showing Spanish missions in Texas, 1659-1795 on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/92684502",
+    "http://www.loc.gov/item/92684502/",
+    "http://www.loc.gov/resource/g4034s.ct011613/",
+    "https://hdl.loc.gov/loc.gmd/g4034s.ct011613",
+    "https://search.catalog.loc.gov/instances/c955c748-a30c-5e9e-b940-1bb024b0bb5d",
+    "https://www.loc.gov/item/92684502/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4034/g4034s/ct011613.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92684502/\"}",
+  "dct_spatial_sm": [
+    "san antonio",
+    "san antonio missions national historical park",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "San Antonio Missions National Historical Park (San Antonio, Tex.)--Maps",
+    "United States--Texas--San Antonio--San Antonio Missions National Historical Park"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "San Antonio missions : official map and guide",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92684502",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

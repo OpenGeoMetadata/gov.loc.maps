@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 2006-320-369/00521 Reprint 2004.\"",
+    "\"*GPO: 2006-320-369/00521 Reprint 2004.\" Title from panel. Includes text. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text.",
+    "Publication statement: [Washington, D.C.] : National Park Service , [1994]",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2007627679",
+    "http://www.loc.gov/item/2007627679/",
+    "http://www.loc.gov/resource/g3982b.ct010782/",
+    "https://hdl.loc.gov/loc.gmd/g3982b.ct010782",
+    "https://search.catalog.loc.gov/instances/3bb0e1cc-c877-5cf1-acde-ef81505eb673",
+    "https://www.loc.gov/item/2007627679/"
+  ],
+  "dct_issued_s": "2004",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3982/g3982b/ct010782.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007627679/\"}",
+  "dct_spatial_sm": [
+    "brice's crossroads, battle of, miss., 1864",
+    "mississippi",
+    "tupelo, battle of, tupelo, miss., 1864",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Brice's Crossroads, Battle of, Miss., 1864--Maps",
+    "Mississippi--History--Civil War, 1861-1865--Maps",
+    "Tupelo, Battle of, Tupelo, Miss., 1864--Maps",
+    "United States--History--Civil War, 1861-1865--Campaigns--Maps",
+    "United States--Mississippi",
+    "United States--Mississippi--Brice's Crossroads, Battle of, Miss., 1864",
+    "United States--Mississippi--Tupelo, Battle of, Tupelo, Miss., 1864"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "dct_title_s": "Brices Cross Roads, Tupelo",
+  "gbl_dateRange_drsim": [
+    "[2004 TO 2004]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007627679",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651; 700",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Probst, Johann Michael, -1809; Voch, Lukas, 1728-1783",
+    "Each sheet from different states.",
+    "Hand colored.",
+    "Hand colored. Prime meridian: London and Ferron. Relief shown pictorially. Includes note \"Camp of the colonists 1776,\" across the Hudson River from Kings Bridge and insets \"Ichnographia portus Bostoniensis\" ca. 1:150,000 and \"Ichnographia urbis Boston.\" Each sheet from different states. Scale ca. 1:460,000. LC Maps of North America, 1750-1789, 803 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651; 700",
+    "Includes note \"Camp of the colonists 1776,\" across the Hudson River from Kings Bridge and insets \"Ichnographia portus Bostoniensis\" ca. 1:150,000 and \"Ichnographia urbis Boston.\"",
+    "LC Maps of North America, 1750-1789, 803",
+    "Prime meridian: London and Ferron.",
+    "Publication statement: Augsburg, I. M. Probst, 1777.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:460,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3720.ar080300",
+    "http://lccn.loc.gov/74692168",
+    "http://www.loc.gov/item/74692168/",
+    "http://www.loc.gov/resource/g3720.ar080300/",
+    "https://hdl.loc.gov/loc.gmd/g3720.ar080300",
+    "https://search.catalog.loc.gov/instances/fb253922-02dc-5071-a9df-7271afd08d0c",
+    "https://www.loc.gov/item/74692168/"
+  ],
+  "dct_issued_s": "1777",
+  "dct_language_sm": [
+    "eng",
+    "englat",
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd372/g3720/g3720/ar080300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692168/\"}",
+  "dct_spatial_sm": [
+    "new england",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New England--Maps--Early works to 1800",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "dct_title_s": "A map of the most inhabited part of New England, containing the provinces of Massachusets Bay and New Hampshire, with the colonies of Conecticut and Rhode Island, divided into counties and townships; the whole composed from actual surveys and its situation adjusted by astronomical observations",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692168",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

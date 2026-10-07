@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"June 1994.\"",
+    "\"June 1994.\" Idaho, Oregon, and Washington not shown. \"Map no. A-1.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"Map no. A-1.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Western Area Power Administration",
+    "Idaho, Oregon, and Washington not shown.",
+    "Publication statement: [Golden, Colo.] : The Administration, [1994]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95682154",
+    "http://www.loc.gov/item/95682154/",
+    "http://www.loc.gov/resource/g4051n.ct011670/",
+    "https://hdl.loc.gov/loc.gmd/g4051n.ct011670",
+    "https://search.catalog.loc.gov/instances/98bd67e9-64b5-5c10-a9d9-654a563f2e45",
+    "https://www.loc.gov/item/95682154/"
+  ],
+  "dct_issued_s": "1994",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4051/g4051n/ct011670.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95682154/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west"
+  ],
+  "dct_subject_sm": [
+    "Electric power distribution--West (U.S.)--Maps",
+    "Electric power-plants--West (U.S.)--Maps",
+    "Interconnected electric utility systems--West (U.S.)--Maps",
+    "United States--West"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_title_s": "Transmission facilities : [western United States]",
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95682154",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

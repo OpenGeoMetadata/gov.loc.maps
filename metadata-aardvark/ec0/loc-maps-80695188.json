@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Reprint 1980.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Covers Washington central business district.",
+    "DCP",
+    "Folded title: Welcome to Washington.",
+    "Folded title: Welcome to Washington. \"Reprint 1980.\" Covers Washington central business district. Selected buildings shown pictorially. Includes text, tourist information, and col. ill. Text, tourist information, map of Washington region, and col. ill. on verso. Scale not given. Available also through the Library of Congress Web site as a raster image. DCP AACR2",
+    "Includes text, tourist information, and col. ill.",
+    "Publication statement: [Washington] : The Service : for sale by the Supt. of Docs., U.S. Govt. Print. Off., [1980]",
+    "Scale not given.",
+    "Selected buildings shown pictorially.",
+    "Text, tourist information, map of Washington region, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851e.ct004622",
+    "http://lccn.loc.gov/80695188",
+    "http://www.loc.gov/item/80695188/",
+    "http://www.loc.gov/resource/g3851e.ct004622/",
+    "https://hdl.loc.gov/loc.gmd/g3851e.ct004622",
+    "https://search.catalog.loc.gov/instances/245dfede-4d81-53cb-a39c-2a3818eb6969",
+    "https://www.loc.gov/item/80695188/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct004622.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80695188/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Central business districts--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Washington DC",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80695188",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

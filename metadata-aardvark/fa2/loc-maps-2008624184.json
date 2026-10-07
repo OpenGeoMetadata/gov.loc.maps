@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no.: 2008-179",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Bird's-eye view. Relief shown pictorially. Includes col. ill. and index to points of interest. Copy imperfect: Stained. Available also through the Library of Congress Web site as a raster image. PM3 Acquisitions control no.: 2008-179",
+    "Contributors: Beck & Pauli; O.H. Bailey & Co",
+    "Copy imperfect: Stained.",
+    "Includes col. ill. and index to points of interest.",
+    "PM3",
+    "Publication statement: Boston : O.H. Bailey & Co., publishers, 1878",
+    "Relief shown pictorially."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3784c.pm020230",
+    "http://lccn.loc.gov/2008624184",
+    "http://www.loc.gov/item/2008624184/",
+    "http://www.loc.gov/resource/g3784c.pm020230/",
+    "https://hdl.loc.gov/loc.gmd/g3784c.pm020230",
+    "https://search.catalog.loc.gov/instances/e35c3ee7-5b3a-576b-8a7f-ce9bf483e72a",
+    "https://www.loc.gov/item/2008624184/"
+  ],
+  "dct_issued_s": "1878",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd378/g3784/g3784c/pm020230.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008624184/\"}",
+  "dct_spatial_sm": [
+    "collinsville",
+    "connecticut",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Collinsville (Conn.)--Aerial views",
+    "United States--Connecticut--Collinsville"
+  ],
+  "dct_temporal_sm": [
+    "1878"
+  ],
+  "dct_title_s": "View of Collinsville, Conn",
+  "gbl_dateRange_drsim": [
+    "[1878 TO 1878]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1878
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008624184",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

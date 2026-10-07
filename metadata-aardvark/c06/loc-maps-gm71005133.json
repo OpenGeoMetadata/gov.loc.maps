@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Complete map of Zhili Province",
+    "Complete map of Zhili Province",
+    "直隷全圖 /"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hubei Sheng (China) Guan shu ju",
+    "Includes text which explains administrative divisions, location of provincial capital, and distance between cities and towns.",
+    "One of 26 maps in \"Da Qing yi tong yu di quan tu\" which was compiled in 1864.",
+    "Publication statement: Wuchan : Hubei guan shu ju, Qing Tongzhi 3 nian [1864]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:1,000,000.",
+    "Shows mountains, lakes, and coasts of Hebei Province.",
+    "Wood block print.",
+    "Wood block print. Shows mountains, lakes, and coasts of Hebei Province. Relief shown pictorially. One of 26 maps in \"Da Qing yi tong yu di quan tu\" which was compiled in 1864. Includes text which explains administrative divisions, location of provincial capital, and distance between cities and towns. Scale ca. 1:1,000,000. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7823h.ct002564",
+    "http://lccn.loc.gov/gm71005133",
+    "http://www.loc.gov/item/gm71005133/",
+    "http://www.loc.gov/resource/g7823h.ct002564/",
+    "https://hdl.loc.gov/loc.gmd/g7823h.ct002564",
+    "https://search.catalog.loc.gov/instances/a6b51e56-171c-59b9-b181-30ddf25dc6d7",
+    "https://www.loc.gov/item/gm71005133/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7823/g7823h/ct002564.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005133/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "hebei sheng"
+  ],
+  "dct_subject_sm": [
+    "China--Hebei Sheng",
+    "Hebei Sheng (China)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Zhili quan tu",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005133",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

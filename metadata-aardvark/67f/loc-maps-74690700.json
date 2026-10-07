@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lahaurie Meritorio, Josef",
+    "Depths shown by soundings.",
+    "Depths shown by soundings. Manuscript, pen-and-ink. Watermarks: J. Kool; and, Strasburg fleur-de-lis. Mounted on cloth backing. Maggs number annotated in pencil in lower right corner: 275. Scale ca. 1:11,500. LC Luso-Hispanic World, 334 LC Maps of North America, 1750-1789, 1831 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "LC Luso-Hispanic World, 334",
+    "LC Maps of North America, 1750-1789, 1831",
+    "Maggs number annotated in pencil in lower right corner: 275.",
+    "Manuscript, pen-and-ink.",
+    "Mounted on cloth backing.",
+    "Publication statement: [1786]",
+    "Scale ca. 1:11,500.",
+    "Vault",
+    "Watermarks: J. Kool; and, Strasburg fleur-de-lis."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4922s.lh000334",
+    "http://lccn.loc.gov/74690700",
+    "http://www.loc.gov/item/74690700/",
+    "http://www.loc.gov/resource/g4922s.lh000334/",
+    "https://hdl.loc.gov/loc.gmd/g4922s.lh000334",
+    "https://search.catalog.loc.gov/instances/fb34db6b-a4c1-5fc6-a147-a5b0ea93e73b",
+    "https://www.loc.gov/item/74690700/"
+  ],
+  "dct_issued_s": "1786",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4922/g4922s/lh000334.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74690700/\"}",
+  "dct_spatial_sm": [
+    "cuba",
+    "samá bay"
+  ],
+  "dct_subject_sm": [
+    "Cuba--Samá Bay",
+    "Samá Bay (Cuba)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1786"
+  ],
+  "dct_title_s": "Plano del Puerto de Samá, situado en la costa del N. de la ysla de Sntiágo. de Cuba",
+  "gbl_dateRange_drsim": [
+    "[1786 TO 1786]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1786
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74690700",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

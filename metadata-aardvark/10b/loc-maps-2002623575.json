@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contains selected single sheet and portfolio maps available from federal depository, military (National Imagery and Mapping Agency (NIMA)), and commercial sources. Consists mostly of current material which focuses primarily on military history and NSA studies and some older resources which are retained for historical research.",
+    "Contributors: Dudley Knox Library.",
+    "Last modified: 03/12/02.",
+    "Mode of access: World Wide Web.",
+    "Publication statement: Monterey, CA : Dudley Knox Library, Naval Postgraduate School, 2000-",
+    "Title from web page (viewed on Apr. 4, 2002)."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2002623575",
+    "http://web.nps.navy.mil/~library/mapcollection.htm",
+    "http://www.loc.gov/item/2002623575/",
+    "https://www.loc.gov/item/2002623575/"
+  ],
+  "dct_issued_s": "2000",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2002623575/\"}",
+  "dct_subject_sm": [
+    "Internet resource--Maps",
+    "Military history--Maps",
+    "Military maps--History",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_title_s": "Map collection",
+  "gbl_dateRange_drsim": [
+    "[2000 TO 2000]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002623575",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

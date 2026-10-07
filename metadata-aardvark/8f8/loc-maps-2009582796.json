@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Manuscript title from verso : Naqshah-i Ṭihrān",
+    "Naqshah-ʼi shahr-i dār al-Khalāfah-ʼi Nāṣirī-i Ṭihrān",
+    "نقشۀ شهر دار الخلافۀ ناصرى طهران صانها الله تعالى عن الحدثان /"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Maḥmūd, Munajjimʹbāshī; Qulī Khān, Riz̤ā",
+    "Includes location map and statistical table.",
+    "LC copy sectioned into twenty sheets and mounted on cloth. Some losses along folds and edges and staining.",
+    "Publication statement: [Tehran] : Vizārat-i ʻUlūm, 1309 [1889]",
+    "Shows land use.",
+    "Shows land use. Includes location map and statistical table. LC copy sectioned into twenty sheets and mounted on cloth. Some losses along folds and edges and staining. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7624t.ct001792",
+    "http://lccn.loc.gov/2009582796",
+    "http://www.loc.gov/item/2009582796/",
+    "http://www.loc.gov/resource/g7624t.ct001792/",
+    "https://hdl.loc.gov/loc.gmd/g7624t.ct001792",
+    "https://search.catalog.loc.gov/instances/3bcbdb77-7e83-5a73-9b59-099f1d243b68",
+    "https://www.loc.gov/item/2009582796/"
+  ],
+  "dct_issued_s": "1889",
+  "dct_language_sm": [
+    "persian"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7624/g7624t/ct001792.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009582796/\"}",
+  "dct_spatial_sm": [
+    "iran",
+    "tehran"
+  ],
+  "dct_subject_sm": [
+    "Iran--Tehran",
+    "Land use--Iran--Tehran--Maps",
+    "Tehran (Iran)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "dct_title_s": "Naqshah-ʼi shahr-i dār al-Khilāfah-ʼi Nāṣirī-i Ṭihrān ṣānahā Allāh taʻālá ʻan al-ḥadas̲ān",
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009582796",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

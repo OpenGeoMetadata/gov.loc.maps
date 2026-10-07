@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Accompanied by: A Proclamation by the President of the United States of America.",
+    "Accompanied by: A Proclamation by the President of the United States of America. Available also through the Library of Congress web site as a raster image. 2 copies",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: United States. General Land Office",
+    "Publication statement: [S.l.], 1916."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3732m.np000035",
+    "http://lccn.loc.gov/98687174",
+    "http://www.loc.gov/item/98687174/",
+    "http://www.loc.gov/resource/g3732m.np000035/",
+    "https://hdl.loc.gov/loc.gmd/g3732m.np000035",
+    "https://search.catalog.loc.gov/instances/679e0ca1-17c0-5d0d-abce-0dc6635d0c3b",
+    "https://www.loc.gov/item/98687174/"
+  ],
+  "dct_issued_s": "1916",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3732/g3732m/np000035.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687174/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "mount desert island",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mount Desert Island (Me.)--Maps",
+    "United States--Maine--Mount Desert Island"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "dct_title_s": "Sieur de Monts National Monument, Mount Desert Island, Maine",
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1916
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687174",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

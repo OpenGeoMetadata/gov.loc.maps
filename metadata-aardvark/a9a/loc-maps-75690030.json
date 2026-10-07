@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Map no. 13.\"",
+    "\"Map no. 13.\" \"N.C.P.C. map file no. 07.72/100.00-27370.\" Scale ca. 1:54,000. Available also through the Library of Congress Web site as a raster image. DCP AACR2",
+    "\"N.C.P.C. map file no. 07.72/100.00-27370.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Capital Planning Commission",
+    "DCP",
+    "Publication statement: [Washington, 1973]",
+    "Scale ca. 1:54,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851g.ct004678",
+    "http://lccn.loc.gov/75690030",
+    "http://www.loc.gov/item/75690030/",
+    "http://www.loc.gov/resource/g3851g.ct004678/",
+    "https://hdl.loc.gov/loc.gmd/g3851g.ct004678",
+    "https://search.catalog.loc.gov/instances/ef74876c-6deb-5c02-9e94-887cf0f94191",
+    "https://www.loc.gov/item/75690030/"
+  ],
+  "dct_issued_s": "1973",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851g/ct004678.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75690030/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "City planning--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "dct_title_s": "Recommendations to the District of Columbia government on the 1975-1980 six-year capital improvements program, for the District of Columbia, as submitted to the District of Columbia, October, 1973",
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1973]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1973
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75690030",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

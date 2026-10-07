@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"4-R-37245.\"",
+    "\"August 1979.\"",
+    "\"August 1979.\" \"Base compiled from U.S.G.S. quadrangle sheets and Florida County General Highway Map, polyconic projections.\" UTM grid. Includes text, notes, and location map. \"4-R-37245.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"Base compiled from U.S.G.S. quadrangle sheets and Florida County General Highway Map, polyconic projections.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes text, notes, and location map.",
+    "Publication statement: [Fort Worth, Tex.?] : The Service, [1979]",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82696572",
+    "http://www.loc.gov/item/82696572/",
+    "http://www.loc.gov/resource/g3933w.ct010370/",
+    "https://hdl.loc.gov/loc.gmd/g3933w.ct010370",
+    "https://search.catalog.loc.gov/instances/e1e84229-b038-54ee-9f65-5fa484d05030",
+    "https://www.loc.gov/item/82696572/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3933/g3933w/ct010370.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82696572/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "united states",
+    "washington county"
+  ],
+  "dct_subject_sm": [
+    "Roads--Florida--Washington County--Subgrades--Maps",
+    "Soil mechanics--Florida--Washington County--Maps",
+    "United States--Florida--Washington County"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Washington County, Florida : soil interpretive map of limitation for local roads and streets",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82696572",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

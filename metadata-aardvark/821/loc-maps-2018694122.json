@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Схематическая карта заселяемых частей Тобольской, Томской, Енисейской, Иркутской губерний и Верхотурского уезда Пермской губ"
+  ],
+  "dct_description_sm": [
+    "Original map at: Russian State Library",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], 1907.",
+    "The map details district, province and national borders, railroads, postal routes and roads. Inhabited resettlement districts and storehouses for agricultural equipment and technology are also shown.",
+    "The map details district, province and national borders, railroads, postal routes and roads. Inhabited resettlement districts and storehouses for agricultural equipment and technology are also shown. Original map at: Russian State Library"
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694122",
+    "http://www.loc.gov/item/2018694122/",
+    "http://www.loc.gov/resource/gdc.2018694122/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0060",
+    "https://search.catalog.loc.gov/instances/69182238-12f1-5b49-b54b-aed783258f22",
+    "https://www.loc.gov/item/2018694122/"
+  ],
+  "dct_issued_s": "1907",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694122.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694122/2018694122.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694122:smf0060/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694122/\"}",
+  "dct_spatial_sm": [
+    "omsk oblast",
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Omsk Oblast",
+    "Russian Federation"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dct_title_s": "Skhematicheskai︠a︡ karta zaseli︠a︡emykh chasteĭ Tobol'skoĭ, Tomskoĭ, Eniseĭskoĭ, Irkutskoĭ guberniĭ i Verkhoturskogo uezda Permskoĭ gub",
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694122",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

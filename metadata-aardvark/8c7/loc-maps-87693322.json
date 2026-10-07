@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral maps showing property lines, line dimensions, and lot numbers for 1 or 2 squares. Some sheets do not show lots.",
+    "Cadastral maps showing property lines, line dimensions, and lot numbers for 1 or 2 squares. Some sheets do not show lots. Title varies: Plan of squares nos. ... Washington D.C. Squares individually numbered in the title. Pen-and-ink and pencil. Lot areas on some maps lightly tinted. Some sheets watermarked: J Whatman 1872. In pencil on verso of some sheets: Maps of Washington property. Available also through the Library of Congress Web site as a raster image. Some LC sheets stained, taped, or have fold lines. Vault DCP",
+    "Contributors: Gibbs, Charles E.",
+    "DCP",
+    "In pencil on verso of some sheets: Maps of Washington property.",
+    "Pen-and-ink and pencil. Lot areas on some maps lightly tinted.",
+    "Publication statement: [1872?]",
+    "Some LC sheets stained, taped, or have fold lines.",
+    "Some sheets watermarked: J Whatman 1872.",
+    "Squares individually numbered in the title.",
+    "Title varies: Plan of squares nos. ... Washington D.C.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851gm.gct00332",
+    "http://lccn.loc.gov/87693322",
+    "http://www.loc.gov/item/87693322/",
+    "http://www.loc.gov/resource/g3851gm.gct00332/",
+    "https://hdl.loc.gov/loc.gmd/g3851gm.gct00332",
+    "https://search.catalog.loc.gov/instances/a6ad091c-4f10-5432-887e-a89fb0b2ab97",
+    "https://www.loc.gov/item/87693322/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385m/g3851m/g3851gm/gct00332/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87693322/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "City blocks--Washington (D.C.)--Maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1872",
+    "[1872?]"
+  ],
+  "dct_title_s": "Plan of square no. ... Washington D.C.",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87693322",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

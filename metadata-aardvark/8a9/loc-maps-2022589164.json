@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Maine title collection drawer 55",
+    "Alternate supplied title: Maine title collection--cities and towns Lim-Mada",
+    "Maine title collection drawer 55",
+    "Maine title collection--cities and towns Lim-Mada"
+  ],
+  "dct_description_sm": [
+    "Most maps before 1800 are photocopies or facsimiles.",
+    "Most maps before 1800 are photocopies or facsimiles. This record covers single maps of Maine cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show different subjects such as landowners or recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger.",
+    "Publication statement: [Various places] : [various publishers], [approximately 1795 to 1962]",
+    "This record covers single maps of Maine cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show different subjects such as landowners or recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589164",
+    "http://www.loc.gov/item/2022589164/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.me-055/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.me-055",
+    "https://search.catalog.loc.gov/instances/98016417-6ee7-55a9-a222-95d684fbd1fc",
+    "https://www.loc.gov/item/2022589164/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:me:-0:55:me-055:me-055-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589164/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cities and towns--Maine--Maps",
+    "Landowners--Maine--Maps",
+    "United States--Maine"
+  ],
+  "dct_temporal_sm": [
+    "1795",
+    "[Various places] : [various publishers], [approximately 1795 to 1962]"
+  ],
+  "dct_title_s": "[Maps of Maine--cities and towns Lim-Mada]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022589164",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

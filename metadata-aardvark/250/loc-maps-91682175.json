@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"504716 (543987) 1-81.\"",
+    "\"Map data 1981, except for depiction of international-related features, updated as of 1 December 1990.\"",
+    "\"Map data 1981, except for depiction of international-related features, updated as of 1 December 1990.\" Shows the area eastward from Libya to Afghanistan, and southward from Soviet Union to Ethiopia. \"504716 (543987) 1-81.\" Includes location/distance map with radial distances centered at Jerusalem. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes location/distance map with radial distances centered at Jerusalem.",
+    "Publication statement: [Washington] : Central Intelligence Agency, [1990]",
+    "Shows the area eastward from Libya to Afghanistan, and southward from Soviet Union to Ethiopia."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7420.ct000920",
+    "http://lccn.loc.gov/91682175",
+    "http://www.loc.gov/item/91682175/",
+    "http://www.loc.gov/resource/g7420.ct000920/",
+    "https://hdl.loc.gov/loc.gmd/g7420.ct000920",
+    "https://search.catalog.loc.gov/instances/70c68f49-a7fd-53b6-83a9-5e83bed17d58",
+    "https://www.loc.gov/item/91682175/"
+  ],
+  "dct_issued_s": "1990",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7420/g7420/ct000920.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91682175/\"}",
+  "dct_spatial_sm": [
+    "middle east"
+  ],
+  "dct_subject_sm": [
+    "Middle East",
+    "Middle East--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "dct_title_s": "The Middle East",
+  "gbl_dateRange_drsim": [
+    "[1990 TO 1990]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1990
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91682175",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

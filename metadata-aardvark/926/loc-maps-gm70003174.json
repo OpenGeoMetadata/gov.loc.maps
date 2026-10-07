@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"75583.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes location map, comparative area map, and maps of \"Economic activity,\" \"Vegetation and agricultural cash crops,\" \"Ethnic groups,\" and \"Population.\"",
+    "Publication statement: [Washington, 1969]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. \"75583.\" Includes location map, comparative area map, and maps of \"Economic activity,\" \"Vegetation and agricultural cash crops,\" \"Ethnic groups,\" and \"Population.\" Scale 1:2,370,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale 1:2,370,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8410.ct003840",
+    "http://lccn.loc.gov/gm70003174",
+    "http://www.loc.gov/item/gm70003174/",
+    "http://www.loc.gov/resource/g8410.ct003840/",
+    "https://hdl.loc.gov/loc.gmd/g8410.ct003840",
+    "https://search.catalog.loc.gov/instances/9e35d623-699c-51ba-867c-2631d2703b68",
+    "https://www.loc.gov/item/gm70003174/"
+  ],
+  "dct_issued_s": "1969",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8410/g8410/ct003840.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70003174/\"}",
+  "dct_spatial_sm": [
+    "kenya"
+  ],
+  "dct_subject_sm": [
+    "Agriculture--Kenya--Maps",
+    "Ethnology--Kenya--Maps",
+    "Kenya",
+    "Kenya--Economic conditions--1963---Maps",
+    "Kenya--Maps",
+    "Kenya--Population--Maps",
+    "Phytogeography--Kenya--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "dct_title_s": "Kenya. 12-69",
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1969]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70003174",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

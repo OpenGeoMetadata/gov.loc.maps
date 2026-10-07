@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"General Land Office. Oct. 1-1900.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint",
+    "Contributors: Texas. General Land Office",
+    "LC Land ownership maps, 1130",
+    "Mounted on cloth.",
+    "Publication statement: [Austin, Tex.] : General Land Office, 1900.",
+    "Shows land ownership.",
+    "Shows land ownership. Blueprint Mounted on cloth. \"General Land Office. Oct. 1-1900.\" LC Land ownership maps, 1130 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033s.la001130",
+    "http://lccn.loc.gov/2012590062",
+    "http://www.loc.gov/item/2012590062/",
+    "http://www.loc.gov/resource/g4033s.la001130/",
+    "https://hdl.loc.gov/loc.gmd/g4033s.la001130",
+    "https://search.catalog.loc.gov/instances/67956c58-18e2-5225-8a28-eacf370e855d",
+    "https://www.loc.gov/item/2012590062/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033s/la001130.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590062/\"}",
+  "dct_spatial_sm": [
+    "starr county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Texas--Starr County--Maps",
+    "Real property--Texas--Starr County--Maps",
+    "Starr County (Tex.)--Maps",
+    "United States--Texas--Starr County"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Map of Starr County",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590062",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

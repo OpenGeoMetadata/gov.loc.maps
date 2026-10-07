@@ -1,0 +1,78 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"38077-G3-CF-050.\"",
+    "\"Map edited 1991.\"",
+    "\"Map edited 1991.\" Relief shown by contours and spot heights. Title in left upper margin: Fairfax Co., Arlington Co., cities of Alexandria, Fairfax, and Falls Church., Va. Title in right lower margin: Fairfax County, Arlington County, cities of Alexandria, Fairfax, and Falls Church, Va. In center upper margin: Commonwealth of Virginia, Division of Mineral Resources. Includes location map, index to 24,000-scale maps, and conversion table. \"38077-G3-CF-050.\" Available also through the Library of Congress Web site as a raster image. DCP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); Virginia. Division of Mineral Resources",
+    "DCP",
+    "In center upper margin: Commonwealth of Virginia, Division of Mineral Resources.",
+    "Includes location map, index to 24,000-scale maps, and conversion table.",
+    "Publication statement: Reston, Va. : The Survey, 1992.",
+    "Relief shown by contours and spot heights.",
+    "Title in left upper margin: Fairfax Co., Arlington Co., cities of Alexandria, Fairfax, and Falls Church., Va.",
+    "Title in right lower margin: Fairfax County, Arlington County, cities of Alexandria, Fairfax, and Falls Church, Va."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883f.ct009248",
+    "http://lccn.loc.gov/95686027",
+    "http://www.loc.gov/item/95686027/",
+    "http://www.loc.gov/resource/g3883f.ct009248/",
+    "https://hdl.loc.gov/loc.gmd/g3883f.ct009248",
+    "https://search.catalog.loc.gov/instances/b18bb0fe-a138-5aa9-8f09-a861004c0817",
+    "https://www.loc.gov/item/95686027/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883f/ct009248.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95686027/\"}",
+  "dct_spatial_sm": [
+    "alexandria",
+    "arlington county",
+    "fairfax",
+    "fairfax county",
+    "falls church",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Alexandria (Va.)--Maps",
+    "Arlington County (Va.)--Maps",
+    "Fairfax (Va.)--Maps",
+    "Fairfax County (Va.)--Maps",
+    "Falls Church (Va.)--Maps",
+    "United States--Virginia--Alexandria",
+    "United States--Virginia--Arlington County",
+    "United States--Virginia--Fairfax",
+    "United States--Virginia--Fairfax County",
+    "United States--Virginia--Falls Church"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "Fairfax County, Arlington County, cities of Alexandria, Fairfax, and Falls Church, Virginia : 1:50 000-scale topographic map",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-95686027",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

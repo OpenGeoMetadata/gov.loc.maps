@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Buildings shown pictorially.",
+    "Contributors: Barrillon, J. N.",
+    "Imaginary map.",
+    "Imaginary map. Relief shown by hachures. Buildings shown pictorially. Includes text. Available also through the Library of Congress Web site as a raster image.",
+    "Includes text.",
+    "Publication statement: 1858.",
+    "Relief shown by hachures."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g9930.ct003849",
+    "http://lccn.loc.gov/2013585074",
+    "http://www.loc.gov/item/2013585074/",
+    "http://www.loc.gov/resource/g9930.ct003849/",
+    "https://hdl.loc.gov/loc.gmd/g9930.ct003849",
+    "https://search.catalog.loc.gov/instances/c1a5513f-baa2-5f22-ac1e-a7cab675b734",
+    "https://www.loc.gov/item/2013585074/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd9/g9930/g9930/ct003849.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013585074/\"}",
+  "dct_subject_sm": [
+    "Hell--Maps",
+    "Manuscript maps"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Map of the road to Hell!!",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013585074",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

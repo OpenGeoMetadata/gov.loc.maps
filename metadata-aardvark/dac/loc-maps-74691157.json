@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 72.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bellin, Jacques Nicolas, 1703-1772; France. Dépôt des cartes et plans de la marine",
+    "Includes text.",
+    "LC Maps of North America, 1750-1789, 1847",
+    "Publication statement: [Paris, 1754]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. \"No. 72.\" Includes text. Scale ca. 1:1,300,000. LC Maps of North America, 1750-1789, 1847 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:1,300,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4930.ar184700",
+    "http://lccn.loc.gov/74691157",
+    "http://www.loc.gov/item/74691157/",
+    "http://www.loc.gov/resource/g4930.ar184700/",
+    "https://hdl.loc.gov/loc.gmd/g4930.ar184700",
+    "https://search.catalog.loc.gov/instances/2fa535a9-287e-5920-94d7-77fee6103eb7",
+    "https://www.loc.gov/item/74691157/"
+  ],
+  "dct_issued_s": "1750",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4930/g4930/ar184700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74691157/\"}",
+  "dct_spatial_sm": [
+    "hispaniola"
+  ],
+  "dct_subject_sm": [
+    "Hispaniola",
+    "Hispaniola--Maps--Early works to 1800",
+    "Nautical charts--Hispaniola--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1750"
+  ],
+  "dct_title_s": "Carte réduite de l'isle de Saint Domingue et de ses débouquements pour servir aux vaisseaux du roy. Dréssée au Dépost des cartes plans et journaux de la marine. Par ordre de M. Rouillé chr. comte de Jouy, &ca. secretaire d'État ayant le Départment de la marine. 1750",
+  "gbl_dateRange_drsim": [
+    "[1750 TO 1750]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1750
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74691157",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

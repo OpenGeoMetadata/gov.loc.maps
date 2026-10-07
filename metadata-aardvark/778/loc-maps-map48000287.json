@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service",
+    "Publication statement: Washington, 1946-"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map48000287",
+    "http://www.loc.gov/item/map48000287/",
+    "http://www.loc.gov/resource/gmdsetmaps.map48000287-001/",
+    "http://www.loc.gov/resource/gmdsetmaps.map48000287-002/",
+    "http://www.loc.gov/resource/gmdsetmaps.map48000287-003/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map48000287-001",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map48000287-002",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map48000287-003",
+    "https://search.catalog.loc.gov/instances/0975027b-cc5c-5194-9ed0-0df061c79cae",
+    "https://www.loc.gov/item/map48000287/"
+  ],
+  "dct_issued_s": "1946",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:ma:p4:80:00:28:7-:00:1:map48000287-001:cs000001r/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map48000287/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "California--Maps",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "dct_title_s": "California 1:50,000",
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1946]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1946
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-map48000287",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

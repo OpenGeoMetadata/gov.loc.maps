@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Maps of North America, 1750-1789, 1089",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Oriented with north to the bottom. Relief shown by shading. Scale 1:79,200; protracted by a scale of 100 chains to an in. LC Maps of North America, 1750-1789, 1089 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Oriented with north to the bottom.",
+    "Publication statement: [177-?]",
+    "Relief shown by shading.",
+    "Scale 1:79,200; protracted by a scale of 100 chains to an in.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3803o.ar108900",
+    "http://lccn.loc.gov/73691649",
+    "http://www.loc.gov/item/73691649/",
+    "http://www.loc.gov/resource/g3803o.ar108900/",
+    "https://hdl.loc.gov/loc.gmd/g3803o.ar108900",
+    "https://search.catalog.loc.gov/instances/dd77e421-37da-5150-8b38-6419a69b9f01",
+    "https://www.loc.gov/item/73691649/"
+  ],
+  "dct_issued_s": "1770",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3803/g3803o/ar108900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691649/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "orange county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Orange County (N.Y.)--Maps, Manuscript--Early works to 1800",
+    "United States--New York (State)--Orange County"
+  ],
+  "dct_temporal_sm": [
+    "1770"
+  ],
+  "dct_title_s": "Map of that part of Orange County lying to the north of the mountains of the highlands shewing that Chester is a much more central & convenient spott to all the country whereon to erect the new court house than that vulgarly known by the name of Goshen Town",
+  "gbl_dateRange_drsim": [
+    "[1770 TO 1770]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1770
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691649",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

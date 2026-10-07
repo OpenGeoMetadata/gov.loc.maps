@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Gamble, W. H. (William H.)",
+    "DCP",
+    "LC copy fold-lined, torn, missing edge sections, annotated in lead and blue pencils to show proposed cable-car lines, laminated, and mounted on cloth backing.",
+    "Publication statement: [Washington, D.C.? : s.n.], 1875.",
+    "Shows major buildings and streetcar lines.",
+    "Shows major buildings and streetcar lines. Available also through the Library of Congress Web site as a raster image. LC copy fold-lined, torn, missing edge sections, annotated in lead and blue pencils to show proposed cable-car lines, laminated, and mounted on cloth backing. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004417",
+    "http://lccn.loc.gov/88693468",
+    "http://www.loc.gov/item/88693468/",
+    "http://www.loc.gov/resource/g3850.ct004417/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004417",
+    "https://search.catalog.loc.gov/instances/c55c1bf5-c3fc-574c-be51-13d7da8d072a",
+    "https://www.loc.gov/item/88693468/"
+  ],
+  "dct_issued_s": "1875",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004417.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693468/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "dct_title_s": "Plan of the city of Washington : the capitol [sic] of the United States of America",
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1875
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693468",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

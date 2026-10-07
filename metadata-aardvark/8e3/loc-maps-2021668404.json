@@ -1,0 +1,76 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "De Kusten van Arabie het Roode Meer,en Persie Zee van Bassora voor by 't Nau van Ormus Tot aan den Indus, Guzaratte en Kaap Comorin"
+  ],
+  "dct_description_sm": [
+    "Content in Dutch.",
+    "Contributors: Aa, Pieter van der, 1659-1733 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map; black and white; 14 x 21.50 centimeters.",
+    "Publication statement: Leiden : [publisher not identified], 1707.",
+    "This 1707 map of the Arabian Peninsula and adjacent regions is the work of Pieter van der Aa (1659-1733), a Dutch publisher and bookseller based in Leiden who specialized in reissuing maps acquired from earlier mapmakers. The map appears to be based on an earlier Portuguese work, and uses a mix of Dutch, Latin, and Portuguese for titles and place names. The map covers only the eastern and central parts of the peninsula, which is shaped differently than shown on many other maps. The map shows four rivers on the Arabian (western) side, but they reach more deeply into the peninsula than on other maps. The map gives three names for Al Ahsa: \"Ahsa,\" \"Labsa,\" and \"Lessa.\" The Arabian Gulf is called the Persian Gulf or Gulf of Basra. The Strait of Hormuz is called Fretum Bassora or Strait of Basra.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668404",
+    "http://www.loc.gov/item/2021668404/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_02914/",
+    "http://www.loc.gov/resource/wdl.2914/",
+    "https://hdl.loc.gov/loc.wdl/wdl.2914",
+    "https://www.loc.gov/item/2021668404/"
+  ],
+  "dct_issued_s": "1707-01-01",
+  "dct_language_sm": [
+    "dut",
+    "flemish"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_02914.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/02/91/4/wdl_02914/wdl_02914.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:91:4:wdl_02914:360/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668404/\"}",
+  "dct_spatial_sm": [
+    "iraq",
+    "kuwait",
+    "oman",
+    "qatar",
+    "saudi arabia",
+    "united arab emirates",
+    "yemen"
+  ],
+  "dct_subject_sm": [
+    "1707",
+    "Arabian Gulf",
+    "Arabian Peninsula",
+    "Iraq",
+    "Kuwait",
+    "Oman",
+    "Persian Gulf",
+    "Qatar",
+    "Saudi Arabia",
+    "United Arab Emirates",
+    "Yemen"
+  ],
+  "dct_temporal_sm": [
+    "1707-01-01"
+  ],
+  "dct_title_s": "The Coast of Arabia the Red Sea, and Persian Sea of Bassora Past the Straits of Hormuz to India, Gujarat and Cape Comorin.",
+  "gbl_dateRange_drsim": [
+    "[1707 TO 1707]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1707
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668404",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

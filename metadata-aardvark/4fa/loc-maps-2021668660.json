@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Afrika"
+  ],
+  "dct_description_sm": [
+    "\"Scale 1:10,000,000\"--Note extracted from World Digital Library.",
+    "Content in German.",
+    "Contributors: Linde, Vladimir V., born 1878 Artist.; Wagner & Debes Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : color, mounted on linen ; 99 x 77 centimeters.",
+    "Publication statement: Hamburg : L. Friederichsen & Company, 1914.",
+    "This map of Africa was published in Germany in 1914, shortly before the outbreak of World War I. It shows the ocean liner routes between Germany and Africa, as well as coastal and inland routes. Relief is shown by hachures and spot elevations. In the lower left are an illustration of a steamship on the high seas and a listing of the major German steamship lines providing service to Africa, Woermann-Linie A.G., Deutsche Ost-Afrika Linie, Hamburg-Amerika Linie, and Hamburg-Bremer Afrika-Linie A.G. In the upper right is an inset map of the coastal region of the German colony of Cameroon and an inset to the inset showing the inland course of the Cameroon River. Below these maps is another inset showing the eastern part of German East Africa. The key at the lower right indicates the wealth of information contained in the map. Two distance scales are provided, kilometers and nautical miles. Different colors are used to mark the colonial possessions of Germany, Great Britain, Belgium, France, Italy, Portugal, Spain, and Turkey. Symbols indicate cities and towns by population size, forts and military posts, ruins, railroads (operational and planned), caravan routes, mountain passes, wells and springs, and swamps and other geographic features. There is an alphabetical list of abbreviations for geographic terms in local languages and their German equivalents. Roman numerals are used to identify the districts and other administrative divisions in the Belgian Congo and German East Africa. The map was prepared by Wagner & Debes, a German firm that specialized in providing maps for inclusion in the famous guidebooks for travelers published by Karl Baedeker in the 19th and early 20th centuries. A stamp at the bottom indicates that the map was loaned by the American Geographical Society of New York to the Peace Conference at Versailles, 1918-19.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668660",
+    "http://www.loc.gov/item/2021668660/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15665/",
+    "http://www.loc.gov/resource/wdl.15665/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15665",
+    "https://www.loc.gov/item/2021668660/"
+  ],
+  "dct_issued_s": "1914-01-01",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15665.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/66/5/wdl_15665/wdl_15665.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:66:5:wdl_15665:am005045/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668660/\"}",
+  "dct_subject_sm": [
+    "1914",
+    "German East Africa Line (Shipping firm)",
+    "Germany--Colonies",
+    "Hamburg America Line (Shipping firm)",
+    "Hamburg-Bremen Africa Line (Shipping firm)",
+    "Ocean",
+    "Ships",
+    "Steamboat lines",
+    "Tourism",
+    "Woermann Line (Shipping firm)",
+    "World War, 1914-1918"
+  ],
+  "dct_temporal_sm": [
+    "1914-01-01"
+  ],
+  "dct_title_s": "Africa, 1914.",
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1914
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668660",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

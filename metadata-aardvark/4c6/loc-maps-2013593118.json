@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Descriptive map of Anderson County, S.C.",
+    "Map of Anderson County, S.C."
+  ],
+  "dct_description_sm": [
+    "\"Entered according to act of Congress, in the year 1877, by S.M. Pegg in the office of the Librarian of Congress at Washington.\"",
+    "\"Pen drawing outlines by J.H. von Hasseln, inside lettering by Geo. E. Brown, title, margin, and marginal notes by Rev. H.F. Chreitzberg, Jas. M Cathcart assisted.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brown, George B.; Pegg, S. M.; Von Hasseln, J. H.",
+    "Includes notes and text in margins giving history, description, names and statistics.",
+    "LC Copy imperfect: Two sheets joined together, shellacked, darkended along top margin, small holes lower left corner with minor losses, torn along center fold-lined with minor losses, and mounted on cloth.",
+    "LC Land ownership maps, 832",
+    "Oriented with north toward upper right.",
+    "Publication statement: New York : Printed by Charles Hart, 1877.; [Anderson, S.C.?] : S.M. Pegg, 1877.",
+    "Relief shown by hachures.",
+    "Shows residences, cemeteries, churches, mills/factories, Masonic lodges, islands, post offices, public roads, railroads, proposed railroads, drainage, towns, townships, and landowners.",
+    "Shows residences, cemeteries, churches, mills/factories, Masonic lodges, islands, post offices, public roads, railroads, proposed railroads, drainage, towns, townships, and landowners. Relief shown by hachures. Oriented with north toward upper right. \"Entered according to act of Congress, in the year 1877, by S.M. Pegg in the office of the Librarian of Congress at Washington.\" \"Pen drawing outlines by J.H. von Hasseln, inside lettering by Geo. E. Brown, title, margin, and marginal notes by Rev. H.F. Chreitzberg, Jas. M Cathcart assisted.\" Includes notes and text in margins giving history, description, names and statistics. LC Copy imperfect: Two sheets joined together, shellacked, darkended along top margin, small holes lower left corner with minor losses, torn along center fold-lined with minor losses, and mounted on cloth. LC Land ownership maps, 832 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3913a.la000832a",
+    "http://hdl.loc.gov/loc.gmd/g3913a.la000832b",
+    "http://lccn.loc.gov/2013593118",
+    "http://www.loc.gov/item/2013593118/",
+    "http://www.loc.gov/resource/g3913a.la000832a/",
+    "http://www.loc.gov/resource/g3913a.la000832b/",
+    "https://hdl.loc.gov/loc.gmd/g3913a.la000832a",
+    "https://hdl.loc.gov/loc.gmd/g3913a.la000832b",
+    "https://search.catalog.loc.gov/instances/d5d35291-d89d-5490-9593-54f9f7aefcab",
+    "https://www.loc.gov/item/2013593118/"
+  ],
+  "dct_issued_s": "1877",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3913/g3913a/la000832a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593118/\"}",
+  "dct_spatial_sm": [
+    "anderson county",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Anderson County (S.C.)--Maps",
+    "Landowners--South Carolina--Anderson County--Maps",
+    "Real property--South Carolina--Anderson County--Maps",
+    "United States--South Carolina--Anderson County"
+  ],
+  "dct_temporal_sm": [
+    "1877"
+  ],
+  "dct_title_s": "General descriptive map of Anderson County, S.C",
+  "gbl_dateRange_drsim": [
+    "[1877 TO 1877]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1877
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593118",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

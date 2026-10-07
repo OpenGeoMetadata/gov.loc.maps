@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Mappa das fronteiras russo-austro-allemãs onde se travam as grandes batalhas da actual guerra européa"
+  ],
+  "dct_description_sm": [
+    "\"As printed in O Imparcial newspaper\"--Note extracted from World Digital Library.",
+    "Content in French and Portuguese.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 map : black-and-white ; 48 x 36 centimeters.",
+    "Publication statement: Rio de Janeiro : Brazilian Advertising Company, 1914.",
+    "This map of the eastern front in World War I, probably dating from late 1914, shows the locations of the major battles along the frontiers between the main Central Powers, Germany and Austria-Hungary, and the Russian Empire, a member of the Triple Entente allied with Great Britain and France. The map was published by O Imparcial, a leading Rio de Janeiro newspaper, and reflects the keen interest of the Brazilian public in the war in Europe. The title of the map is in Portuguese; the map itself is in French. The table in the lower right lists the 23 army corps that made up the bulk of the German army in 1914. Each corps was based in a different military district and headquartered in a major city in that district. A corps generally was composed of two (in some cases three) divisions. The troops in these divisions were drawn from the cities, towns, and rural areas of the district. German preparations for war were based on the Schlieffen Plan, named after Field Marshall Alfred von Schlieffen (1833-1913), chief of the Imperial German General Staff from 1891 to 1906. Assuming that Germany would have to fight a two-front war against France and Russia, Schlieffen developed a plan that called for using almost the entire German army to win a quick and decisive victory in the west, and then shifting troops eastward to face Russia. The Schlieffen Plan ultimately failed. The Germans were unable to capture Paris and to knock France out of the war, and thus became bogged down in a long conflict in the west at the same time that they and their Austrian allies were fighting Russia in the east.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668736",
+    "http://www.loc.gov/item/2021668736/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_18966/",
+    "http://www.loc.gov/resource/wdl.18966/",
+    "https://hdl.loc.gov/loc.wdl/wdl.18966",
+    "https://www.loc.gov/item/2021668736/"
+  ],
+  "dct_issued_s": "1914-01-01",
+  "dct_language_sm": [
+    "fre",
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_18966.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/96/6/wdl_18966/wdl_18966.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:18:96:6:wdl_18966:cart163099/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668736/\"}",
+  "dct_spatial_sm": [
+    "austria",
+    "czech republic",
+    "denmark",
+    "germany",
+    "poland",
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "1914",
+    "Austria",
+    "Czech Republic",
+    "Denmark",
+    "Germany",
+    "Maps",
+    "Poland",
+    "Russian Federation",
+    "World War, 1914-1918"
+  ],
+  "dct_temporal_sm": [
+    "1914-01-01"
+  ],
+  "dct_title_s": "Map of the Russian-Austrian-German Borders Where the Great Battles of the Current European War Are Fought.",
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1914
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668736",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

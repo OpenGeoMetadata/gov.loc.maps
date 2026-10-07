@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Robertson & Seibert; Stanstead, Shefford, and Chambly Railroad",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 570",
+    "Map of the New England states and part of Canada showing the railroad network, relief by hachures, and place names.",
+    "Publication statement: N[ew] Y[ork], 1858.",
+    "Scale ca. 1:2,250,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3721p.rr005700",
+    "http://lccn.loc.gov/98688813",
+    "http://www.loc.gov/item/98688813/",
+    "http://www.loc.gov/resource/g3721p.rr005700/",
+    "https://hdl.loc.gov/loc.gmd/g3721p.rr005700",
+    "https://search.catalog.loc.gov/instances/f1acc799-1c1a-5c10-8a55-c866efea5c29",
+    "https://www.loc.gov/item/98688813/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd372/g3721/g3721p/rr005700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688813/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "new england",
+    "québec",
+    "québec (province)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--Québec (Province)",
+    "Railroads--New England--Maps",
+    "Railroads--Québec (Province)--Maps",
+    "Stanstead, Shefford, and Chambly Railroad",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Map of the Stanstead, Shefford, and Chambly Rail Road, and its connections",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688813",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

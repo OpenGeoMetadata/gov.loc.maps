@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 651/2; 650/3; 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Blaskowitz, Charles; Faden, William, 1749-1836",
+    "Hand colored.",
+    "Hand colored. Relief shown by hachures. Depths shown by soundings. Inscribed \"To the Right Honourable Hugh Earl Percy ... with His Lordship's permission ... by ... Wm. Faden.\" Includes text, \"References to the batteries,\" and \"A list of the principal farms in Rhode Island.\" Scale ca. 1:50,000. LC Maps of North America, 1750-1789, 1003 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 651/2; 650/3; 700/1",
+    "Includes text, \"References to the batteries,\" and \"A list of the principal farms in Rhode Island.\"",
+    "Inscribed \"To the Right Honourable Hugh Earl Percy ... with His Lordship's permission ... by ... Wm. Faden.\"",
+    "LC Maps of North America, 1750-1789, 1003",
+    "Publication statement: [London] Engraved & printed for Wm. Faden, 1777.",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Scale ca. 1:50,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3772n.ar100301",
+    "http://lccn.loc.gov/74692135",
+    "http://www.loc.gov/item/74692135/",
+    "http://www.loc.gov/resource/g3772n.ar100301/",
+    "https://hdl.loc.gov/loc.gmd/g3772n.ar100301",
+    "https://search.catalog.loc.gov/instances/475a78ed-55b8-5680-84e1-8eb2b54b97f0",
+    "https://www.loc.gov/item/74692135/"
+  ],
+  "dct_issued_s": "1777",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd377/g3772/g3772n/ar100301.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692135/\"}",
+  "dct_spatial_sm": [
+    "narragansett bay",
+    "rhode island",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Narragansett Bay (R.I.)--Maps--Early works to 1800",
+    "Nautical charts--Rhode Island--Narragansett Bay--Early works to 1800",
+    "Rhode Island--Defenses--Maps--Early works to 1800",
+    "United States--Rhode Island--Narragansett Bay"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "dct_title_s": "A topographical chart of the bay of Narraganset in the province of New England, with all the isles contained therein, among which Rhode Island and Connonicut have been particularly surveyed, shewing the true position & bearings of the banks, shoals, rocks &c. as likewise the soundings; To which have been added the several works & batteries raised by the Americans. Taken by order of the principal farmers on Rhode Island",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692135",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

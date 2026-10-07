@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Aragón de Ioan Baptista Lavaña"
+  ],
+  "dct_description_sm": [
+    "\"Scale 1:276,000. 5 leagues = 11.5 centimeters. Graduated margins. Relief shown by outlined mountains.\"--Note extracted from World Digital Library.",
+    "Content in Spanish.",
+    "Contributors: Lavanha, João Baptista, 1555-1624 Cartographer.; Leonardo de Argensola, Lupercio, 1559-1613 Contributor.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Spain.",
+    "Original resource extent: 1 map on 2 sheets: print, color. 122 x 112 centimeters.",
+    "Publication statement: Zaragoza : Pascual Bujenas, [1675 to 1700]",
+    "This map is the oldest known image of Aragon, the first Spanish map produced according to scientific procedures, and the most important map for 17th- and 18th-century Spanish cartography. It became the basis for all subsequent maps of the region, and is the only one that was made using direct measurement and surveys. The map was created by order of the Deputation of the Kingdom of Aragon by cartographer Juan Bautista Labaña (1555--1624), who employed the triangulation method. In 1610--15, Labaña travelled around the country making the necessary observations from vertices established in towers and on mountain peaks. He described these researches in his Itinerario del Reino de Aragón (Itinerary of the Kingdom of Aragon), where he recorded all the readings used to create the map, the manuscript of which is preserved in the Leiden University library. The map was printed in Madrid on six copper plates in 1619--20. The style of drawing is sober, far removed from the ostentation and aestheticism of contemporary maps published in the Netherlands. Labaña represented the essential elements of the territory clearly and used easy-to-read calligraphy. Only two versions of the map are known to exist: the first is the original, drawn by Labaña and printed by Diego de Astor in 1617--20, from which several copies were made, and a second one that was corrected and enhanced by Tomas Fermin de Lezaun in 1777. The National Library of Spain copy is a print of Labaña's original plate, although with accompanying text by Lupercio Leonardo de Argensola added in the late 17th century by Aragonese printer Pascual Bueno. Labaña was born in Lisbon and was a mathematics teacher for King Don Sebastián. After Portugal was joined to the Spanish crown in 1580, he moved to Madrid, where he lived most of his life. In 1582, he was named professor in the Academy of Sciences, where he taught mathematics, cosmography, and geography. Labaña tutored the sons and nephews of King Philip III of Spain, who also named him senior cartographer and chronicler of the kingdom. The author of the accompanying text, the Spanish writer Argensola, was born in Huesca in 1559 and died in Naples in 1612. In 1599, Philip III named him senior chronicler to the crown of Aragon. Among his works were Anales de la historia de Aragón (Milestones of the history of Aragon) and the Declaración sumaria de la historia de Aragón (Summary declaration of the history of Aragon), which was used to complete the geographical information in this map.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668453",
+    "http://www.loc.gov/item/2021668453/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_07325/",
+    "http://www.loc.gov/resource/wdl.7325/",
+    "https://hdl.loc.gov/loc.wdl/wdl.7325",
+    "https://www.loc.gov/item/2021668453/"
+  ],
+  "dct_issued_s": "1675-01-01",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_07325.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/07/32/5/wdl_07325/wdl_07325.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:07:32:5:wdl_07325:mr_000045_0002/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668453/\"}",
+  "dct_spatial_sm": [
+    "aragón",
+    "spain"
+  ],
+  "dct_subject_sm": [
+    "1617 to 1620",
+    "Spain--Aragón"
+  ],
+  "dct_temporal_sm": [
+    "1675-01-01"
+  ],
+  "dct_title_s": "Map of the Kingdom of Aragon by Juan Bautista Labaña.",
+  "gbl_dateRange_drsim": [
+    "[1675 TO 1675]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1675
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668453",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

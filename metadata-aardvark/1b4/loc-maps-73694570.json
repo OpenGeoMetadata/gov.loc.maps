@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Smith, John, 1580-1631",
+    "Facsimile.",
+    "Facsimile. Tenth state, rev. 1624. Relief shown pictorially. Oriented with north to the right. To accompany \"The true travels, adventures and observations of Captaine John Smith ... from the London edition of 1629.\" Scale ca. 1:1,280,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Oriented with north to the right.",
+    "Publication statement: [London, 1629. Richmond, Va., Franklin Press, 1819]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:1,280,000.",
+    "Tenth state, rev. 1624.",
+    "To accompany \"The true travels, adventures and observations of Captaine John Smith ... from the London edition of 1629.\""
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.ct008919",
+    "http://lccn.loc.gov/73694570",
+    "http://www.loc.gov/item/73694570/",
+    "http://www.loc.gov/resource/g3880.ct008919/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct008919",
+    "https://search.catalog.loc.gov/instances/708c5feb-cb99-5b9a-9303-7812d791958b",
+    "https://www.loc.gov/item/73694570/"
+  ],
+  "dct_issued_s": "1819",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ct008919.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73694570/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps--Early works to 1800--Facsimiles"
+  ],
+  "dct_temporal_sm": [
+    "1819"
+  ],
+  "dct_title_s": "Virginia,",
+  "gbl_dateRange_drsim": [
+    "[1819 TO 1819]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1819
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73694570",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

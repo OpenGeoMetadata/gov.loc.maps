@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Published according to act of Parliament, 1st November, 1776, by W. Hawkes ... \"",
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Barber, J., active 1776; Hawkes, W.",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"Published according to act of Parliament, 1st November, 1776, by W. Hawkes ... \" Shows radial distances. Includes \"Chronological table of the most interesting occurrences since the commencement of hostilities in North America.\" Scale ca. 1:220,000. LC Maps of North America, 1750-1789, 1096 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1",
+    "Includes \"Chronological table of the most interesting occurrences since the commencement of hostilities in North America.\"",
+    "LC Maps of North America, 1750-1789, 1096",
+    "Publication statement: [London, W. Hawkes, 1776]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:220,000.",
+    "Shows radial distances.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ar109600",
+    "http://lccn.loc.gov/74692117",
+    "http://www.loc.gov/item/74692117/",
+    "http://www.loc.gov/resource/g3804n.ar109600/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ar109600",
+    "https://search.catalog.loc.gov/instances/02cd2272-93bf-55d1-b9e5-e20ad433d90b",
+    "https://www.loc.gov/item/74692117/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ar109600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692117/\"}",
+  "dct_spatial_sm": [
+    "new york (state)",
+    "new york region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New York Region--Maps--Early works to 1800",
+    "United States--New York (State)--New York Region"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "The Country twenty five miles round New York,",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692117",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

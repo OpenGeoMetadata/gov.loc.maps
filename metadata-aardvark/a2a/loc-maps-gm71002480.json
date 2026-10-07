@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Complete view of the Summer Palace",
+    "Complete view of the Summer Palace",
+    "[颐和园全图]"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hummel, Arthur W. (Arthur William), Sr., 1884-1975",
+    "Hummel purchase 1934, no. 7.",
+    "Oriented with north toward the upper right.",
+    "Perspective map not drawn to scale.",
+    "Previous call number: G7824.B4:2Y4A35 1887 .Y4 Vault",
+    "Publication statement: [After 1891]",
+    "Relief shown pictorially.",
+    "Shows a panoramic view of the Summer Palaces and the grounds before they were reconstructed in 1888.",
+    "Title supplied.",
+    "Title supplied. Oriented with north toward the upper right. Relief shown pictorially. Shows a panoramic view of the Summer Palaces and the grounds before they were reconstructed in 1888. Hummel purchase 1934, no. 7. Perspective map not drawn to scale. Available also through the Library of Congress Web site as a raster image. Previous call number: G7824.B4:2Y4A35 1887 .Y4 Vault AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7824b.ct002440",
+    "http://lccn.loc.gov/gm71002480",
+    "http://www.loc.gov/item/gm71002480/",
+    "http://www.loc.gov/resource/g7824b.ct002440/",
+    "https://hdl.loc.gov/loc.gmd/g7824b.ct002440",
+    "https://search.catalog.loc.gov/instances/e5abdfb2-2fe9-5cf9-be9f-a8f2dd57da17",
+    "https://www.loc.gov/item/gm71002480/"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7824/g7824b/ct002440.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002480/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "yihe yuan (beijing)"
+  ],
+  "dct_subject_sm": [
+    "China--Yihe Yuan (Beijing)",
+    "Yihe Yuan (Beijing, China)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "[Yihe Yuan quan tu]",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002480",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

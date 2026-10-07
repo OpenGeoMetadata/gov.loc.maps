@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Friends' Book Association of Philadelphia; Philadelphia Young Friends' Association; Smith, John L., 1846-",
+    "Covers Philadelphia region.",
+    "Hand colored.",
+    "Hand colored. Shows meeting-houses, burial grounds, schools, and railroads. Covers Philadelphia region. Scale 1:380,160; 6 miles to 1 in. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: Philadelphia, Friends' Book Association, 1897.",
+    "Scale 1:380,160; 6 miles to 1 in.",
+    "Shows meeting-houses, burial grounds, schools, and railroads."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/78693053",
+    "http://www.loc.gov/item/78693053/",
+    "http://www.loc.gov/resource/g3824p.ct010382/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.ct010382",
+    "https://search.catalog.loc.gov/instances/e62bbabd-3cfe-5b09-b2b9-46a31cc4344c",
+    "https://www.loc.gov/item/78693053/"
+  ],
+  "dct_issued_s": "1897",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ct010382.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78693053/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "philadelphia region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Quaker church buildings--Pennsylvania--Philadelphia Region--Maps",
+    "Society of Friends--Pennsylvania--Philadelphia Region--Maps",
+    "United States--Pennsylvania--Philadelphia Region"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "dct_title_s": "Map showing the locations of meetings within the limits of Philadelphia Yearly Meeting",
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78693053",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

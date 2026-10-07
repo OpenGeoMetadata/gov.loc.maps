@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Department of Agriculture",
+    "DCP",
+    "Includes text, index, and location map.",
+    "Publication statement: Washington : The Dept., [1978]",
+    "Scale ca. 1:9,600.",
+    "Text and ill. on verso.",
+    "Title from verso.",
+    "Title from verso. Includes text, index, and location map. Text and ill. on verso. Scale ca. 1:9,600. Available also through the Library of Congress Web site as a raster image. DCP AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852n.ct005195",
+    "http://lccn.loc.gov/80692306",
+    "http://www.loc.gov/item/80692306/",
+    "http://www.loc.gov/resource/g3852n.ct005195/",
+    "https://hdl.loc.gov/loc.gmd/g3852n.ct005195",
+    "https://search.catalog.loc.gov/instances/0f256305-2b02-5210-bb10-4c5781414965",
+    "https://www.loc.gov/item/80692306/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852n/ct005195.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80692306/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington"
+  ],
+  "dct_subject_sm": [
+    "National Arboretum (U.S.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "The United States National Arboretum",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80692306",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: La Tourrette, John",
+    "Includes insets: New Orleans 29 x 21 cm. and land districts 18 x 19 cm.",
+    "Prime meridian: Washington, D.C.",
+    "Publication statement: New Orleans : John La Tourrette, 1848.",
+    "Shows land ownership.",
+    "Shows land ownership. Includes insets: New Orleans 29 x 21 cm. and land districts 18 x 19 cm. Prime meridian: Washington, D.C. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4011g.ct001894",
+    "http://lccn.loc.gov/2006629760",
+    "http://www.loc.gov/item/2006629760/",
+    "http://www.loc.gov/resource/g4011g.ct001894/",
+    "https://hdl.loc.gov/loc.gmd/g4011g.ct001894",
+    "https://search.catalog.loc.gov/instances/3ac1fa61-072b-5f31-8865-20b9a87dbbad",
+    "https://www.loc.gov/item/2006629760/"
+  ],
+  "dct_issued_s": "1848",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4011/g4011g/ct001894.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006629760/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Louisiana--Maps",
+    "Real property--Louisiana--Maps",
+    "United States--Louisiana"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "dct_title_s": "La Tourrette's reference map of the state of Louisiana : from the original surveys of the United States, which show the townships, sections, or mile squares, Spanish grants, settlement rights & c., also the plantations with the owners names engraved thereon",
+  "gbl_dateRange_drsim": [
+    "[1848 TO 1848]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1848
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006629760",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

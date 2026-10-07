@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Marion Co., W. Va",
+    "Title in margin: Marion Co., W. Va"
+  ],
+  "dct_description_sm": [
+    "\"39080-D2-CF-100.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Includes location map, index to 24,000-scale maps, and conversion table.",
+    "Publication statement: Reston, Va. : The Survey, 1988.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Includes location map, index to 24,000-scale maps, and conversion table. \"39080-D2-CF-100.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3893m.ct009524",
+    "http://lccn.loc.gov/96680316",
+    "http://www.loc.gov/item/96680316/",
+    "http://www.loc.gov/resource/g3893m.ct009524/",
+    "https://hdl.loc.gov/loc.gmd/g3893m.ct009524",
+    "https://search.catalog.loc.gov/instances/e2cdd89d-68d1-5813-bf9f-4b5e535cbcb6",
+    "https://www.loc.gov/item/96680316/"
+  ],
+  "dct_issued_s": "1988",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3893/g3893m/ct009524.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96680316/\"}",
+  "dct_spatial_sm": [
+    "marion county",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Marion County (W. Va.)--Maps",
+    "United States--West Virginia--Marion County"
+  ],
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "dct_title_s": "Marion County, West Virginia : 1:100 000-scale topographic map",
+  "gbl_dateRange_drsim": [
+    "[1988 TO 1988]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1988
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-96680316",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

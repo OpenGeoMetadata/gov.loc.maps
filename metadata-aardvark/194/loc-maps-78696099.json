@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 700",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Contributors: Mann, Arthur, 1901-1963",
+    "From the papers of Arthur William Mann in LC Manuscript Division.",
+    "Guard sheet attached.",
+    "Manuscript; pen-and-ink and blue pencil.",
+    "Manuscript; pen-and-ink and blue pencil. Guard sheet attached. Cadastral map. From the papers of Arthur William Mann in LC Manuscript Division. Scale 1:1,200; 1 in. = 100 ft. Available also through the Library of Congress Web site as a raster image. Vault AACR2: 700",
+    "Publication statement: [192-?]",
+    "Scale 1:1,200; 1 in. = 100 ft.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct005747",
+    "http://lccn.loc.gov/78696099",
+    "http://www.loc.gov/item/78696099/",
+    "http://www.loc.gov/resource/g3804n.ct005747/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct005747",
+    "https://search.catalog.loc.gov/instances/e66c1df9-64d4-533f-bb76-37e959ecb353",
+    "https://www.loc.gov/item/78696099/"
+  ],
+  "dct_issued_s": "1920",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct005747.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78696099/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ebbets Field (New York, N.Y.)--Maps",
+    "United States--New York (State)--New York--Ebbets Field"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dct_title_s": "Ebbets Field",
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1920
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78696099",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

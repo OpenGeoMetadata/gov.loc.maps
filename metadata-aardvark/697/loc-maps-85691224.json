@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Spanish *GPO: 1983--381-609/427 Reprint 1983.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Covers Washington central business district.",
+    "Covers Washington central business district. Selected buildings shown pictorially. Panel title: Bienvenido a Washington. \"Spanish *GPO: 1983--381-609/427 Reprint 1983.\" Includes text in Spanish and col. ill. Text and tourist information in Spanish, region map, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image. DCP",
+    "DCP",
+    "Includes text in Spanish and col. ill.",
+    "Panel title: Bienvenido a Washington.",
+    "Publication statement: [Washington : National Park Service, 1983]",
+    "Selected buildings shown pictorially.",
+    "Text and tourist information in Spanish, region map, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851e.ct004617",
+    "http://lccn.loc.gov/85691224",
+    "http://www.loc.gov/item/85691224/",
+    "http://www.loc.gov/resource/g3851e.ct004617/",
+    "https://hdl.loc.gov/loc.gmd/g3851e.ct004617",
+    "https://search.catalog.loc.gov/instances/754a5e63-7411-5483-839b-fe6d30e31ee1",
+    "https://www.loc.gov/item/85691224/"
+  ],
+  "dct_issued_s": "1983",
+  "dct_language_sm": [
+    "eng",
+    "spa",
+    "spaeng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct004617.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85691224/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington region"
+  ],
+  "dct_subject_sm": [
+    "Central business districts--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Region",
+    "Washington (D.C.)--Maps",
+    "Washington Region--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "dct_title_s": "Washington, DC",
+  "gbl_dateRange_drsim": [
+    "[1983 TO 1983]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1983
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85691224",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

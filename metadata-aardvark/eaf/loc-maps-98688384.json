@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Printed for the History of the Railroads of the United States by H. V. Poor.\"",
+    "At head of title: G. Woolworth Colton's series of railroad maps, No 2.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Colton, G. Woolworth (George Woolworth), 1827-1901",
+    "Description derived from published bibliography.",
+    "Inset: The eastern portion of Massachusetts on an enlarged scale. 28 x 26 cm.",
+    "LC Railroad maps, 111",
+    "LC also has 1861 edition.",
+    "Publication statement: New York, 1860.",
+    "Scale ca. 1:900,000.",
+    "Shows state, county, and township boundaries and indicates mileage between stations."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3721p.rr001110",
+    "http://lccn.loc.gov/98688384",
+    "http://www.loc.gov/item/98688384/",
+    "http://www.loc.gov/resource/g3721p.rr001110/",
+    "https://hdl.loc.gov/loc.gmd/g3721p.rr001110",
+    "https://search.catalog.loc.gov/instances/b5cf41e0-2a94-5bda-a7d0-9cc8f37ed325",
+    "https://www.loc.gov/item/98688384/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd372/g3721/g3721p/rr001110.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688384/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "new england",
+    "québec",
+    "québec (province)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--Québec (Province)",
+    "Railroads--New England--Maps",
+    "Railroads--Québec (Province)--Maps",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut and Lower Canada, 1860",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688384",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

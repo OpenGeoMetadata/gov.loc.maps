@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Gentry, Abm. M. (Abram Morrice), 1823-; Texas and New Orleans Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 577",
+    "Publication statement: [n.p.], 1860.",
+    "Scale ca. 1:2,300,000.",
+    "Shows railroads actually built, partially finished, under contract, and chartered but not under contract. Covers area of the U.S. Southwest and northern Mexico and includes Louisiana, Arkansas, and parts of adjacent states."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3936p.rr005770",
+    "http://lccn.loc.gov/98688820",
+    "http://www.loc.gov/item/98688820/",
+    "http://www.loc.gov/resource/g3936p.rr005770/",
+    "https://hdl.loc.gov/loc.gmd/g3936p.rr005770",
+    "https://search.catalog.loc.gov/instances/4cd4ab22-6bfe-5280-aa2c-020916d66749",
+    "https://www.loc.gov/item/98688820/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3936/g3936p/rr005770.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688820/\"}",
+  "dct_spatial_sm": [
+    "american border region",
+    "mexican",
+    "mexican-american border region",
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mexican-American Border Region",
+    "Railroads--Mexican-American Border Region--Maps",
+    "Railroads--Southern States--Maps",
+    "Texas and New Orleans Railroad Company",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Map of Texas, showing the line of the Texas and New Orleans Rail Road, and its connections in the U.S. and adjacent territories",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688820",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1855 by J. H. Colton & Co. in [...] the Southern District of New York.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: J.H. Colton & Co., cartographer, publisher",
+    "Full page-size text titled \"The State of Maryland\" and 2 Maryland population data tables on verso.",
+    "General-content state map hand colored to distinguish counties.",
+    "General-content state map hand colored to distinguish counties. Hundred (township) names printed in Delaware portion. Relief shown by hachures. \"Entered according to Act of Congress in the year 1855 by J. H. Colton & Co. in [...] the Southern District of New York.\" Prime meridians: Greenwich and Washington D.C. This map is an atlas page appearing in: Colton's general atlas. New York : 1857. LC copy imperfect: Typewritten source note attached to verso at upper sheet edge, adhesive label with inked number affixed to verso. Includes text, notes, inset of \"District of Columbia\", 2 D.C. population data tables, and index to D.C. points-of-interest. Full page-size text titled \"The State of Maryland\" and 2 Maryland population data tables on verso. Plate number at lower right: No. 24. Available also through the Library of Congress Web site as a raster image.",
+    "Hundred (township) names printed in Delaware portion.",
+    "Includes text, notes, inset of \"District of Columbia\", 2 D.C. population data tables, and index to D.C. points-of-interest.",
+    "LC copy imperfect: Typewritten source note attached to verso at upper sheet edge, adhesive label with inked number affixed to verso.",
+    "Plate number at lower right: No. 24.",
+    "Prime meridians: Greenwich and Washington D.C.",
+    "Publication statement: New York : Published by J.H. Colton & Co., [1857]",
+    "Relief shown by hachures.",
+    "This map is an atlas page appearing in: Colton's general atlas. New York : 1857."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3830.ct008430",
+    "http://lccn.loc.gov/2017593564",
+    "http://www.loc.gov/item/2017593564/",
+    "http://www.loc.gov/resource/g3830.ct008430/",
+    "https://hdl.loc.gov/loc.gmd/g3830.ct008430",
+    "https://search.catalog.loc.gov/instances/9ea48cfd-caf2-5bc0-bc7f-1415f5c21857",
+    "https://www.loc.gov/item/2017593564/"
+  ],
+  "dct_issued_s": "1857",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd383/g3830/g3830/ct008430.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017593564/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "district of columbia",
+    "maryland",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Delaware--Maps",
+    "Maryland--Maps",
+    "United States--Delaware",
+    "United States--District of Columbia--Washington",
+    "United States--Maryland",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_title_s": "Delaware and Maryland",
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1857
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017593564",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

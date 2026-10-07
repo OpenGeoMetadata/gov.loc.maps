@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Runnels County"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Copy imperfect: Mounted on paper.",
+    "LC Land ownership maps, 1112",
+    "Publication statement: [S.l. : s.n.., 1879?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows names of residents. Stamped at upper right and left: J.N. Winters & Co. Real Estate, Loan and Insurance Agents. Ballinger, Texas. Copy imperfect: Mounted on paper. LC Land ownership maps, 1112 Available also through the Library of Congress Web site as a raster image.",
+    "Shows names of residents.",
+    "Stamped at upper right and left: J.N. Winters & Co. Real Estate, Loan and Insurance Agents. Ballinger, Texas."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033r.la001112",
+    "http://lccn.loc.gov/2012590079",
+    "http://www.loc.gov/item/2012590079/",
+    "http://www.loc.gov/resource/g4033r.la001112/",
+    "https://hdl.loc.gov/loc.gmd/g4033r.la001112",
+    "https://search.catalog.loc.gov/instances/17d8a6e7-a977-526f-b2f4-bf679dca5ea3",
+    "https://www.loc.gov/item/2012590079/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033r/la001112.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590079/\"}",
+  "dct_spatial_sm": [
+    "runnels county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Texas--Runnels County--Maps",
+    "Runnels County (Tex.)--Maps",
+    "United States--Texas--Runnels County"
+  ],
+  "dct_temporal_sm": [
+    "1879",
+    "[S.l. : s.n.., 1879?]"
+  ],
+  "dct_title_s": "Map of Runnels Co",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590079",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

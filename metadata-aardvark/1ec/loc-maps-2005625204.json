@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Tract number 1, plat of William T. Mann, 1,147 acres patent"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Includes inset.",
+    "LC Civil War maps (2nd ed.), H320",
+    "Pen-and-ink and pencil (some col.), mounted on cloth.",
+    "Publication statement: [187-?]",
+    "Shows area near New River in Fayette County, West Virginia and names of some residents.",
+    "Shows area near New River in Fayette County, West Virginia and names of some residents. Pen-and-ink and pencil (some col.), mounted on cloth. Includes inset. LC Civil War maps (2nd ed.), H320 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3983f.cwh00320",
+    "http://lccn.loc.gov/2005625204",
+    "http://www.loc.gov/item/2005625204/",
+    "http://www.loc.gov/resource/g3983f.cwh00320/",
+    "https://hdl.loc.gov/loc.gmd/g3983f.cwh00320",
+    "https://search.catalog.loc.gov/instances/b34bdab7-02bd-5ba4-8680-71e9948fc561",
+    "https://www.loc.gov/item/2005625204/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3983/g3983f/cwh00320.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625204/\"}",
+  "dct_spatial_sm": [
+    "fayette county",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Fayette County (W. Va.)--Maps, Manuscript",
+    "Landowners--West Virginia--Fayette County--Maps",
+    "Real property--West Virginia--Fayette County--Maps",
+    "United States--West Virginia--Fayette County"
+  ],
+  "dct_temporal_sm": [
+    "187?"
+  ],
+  "dct_title_s": "Tract no. 1, plat of Wm. T. Mann, 1,147 A. patent : according to patent calls, corrected by lat. & dep",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625204",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

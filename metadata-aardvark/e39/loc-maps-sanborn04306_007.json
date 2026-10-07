@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "6 sheet(s).",
+    "Jan 1949.",
+    "Jan 1949. 6 sheet(s).",
+    "Publication statement: Sanborn Map Company, Jan 1949"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4144gm.g043061949",
+    "http://www.loc.gov/item/sanborn04306_007/",
+    "http://www.loc.gov/resource/g4144gm.g043061949/",
+    "https://hdl.loc.gov/loc.gmd/g4144gm.g043061949",
+    "https://www.loc.gov/item/sanborn04306_007",
+    "https://www.loc.gov/item/sanborn04306_007/",
+    "https://www.loc.gov/resource/g4144gm.g043061949"
+  ],
+  "dct_issued_s": "1949-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn04306_007/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd414m/g4144m/g4144gm/g043061949/04306_1949-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn04306_007/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "granite falls",
+    "minnesota",
+    "united states",
+    "yellow medicine and chippewa counties"
+  ],
+  "dct_temporal_sm": [
+    "1949-01"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Granite Falls, Yellow Medicine And Chippewa Counties, Minnesota.",
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1949]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn04306_007",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

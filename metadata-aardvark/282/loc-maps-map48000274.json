@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service., cartographer",
+    "Includes index to adjoining sheets and boundaries diagram.",
+    "Publication statement: Washington, D.C. : Army Map Service, [1946-]",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Includes index to adjoining sheets and boundaries diagram. Various editions of some sheets. Available also through the Library of Congress Web site as a raster image.",
+    "Various editions of some sheets."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map48000274",
+    "http://www.loc.gov/item/map48000274/",
+    "http://www.loc.gov/resource/gmdsetmaps.map48000274/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map48000274",
+    "https://search.catalog.loc.gov/instances/3e2f80be-ab10-5120-9a16-c9cae8569cbc",
+    "https://www.loc.gov/item/map48000274/"
+  ],
+  "dct_issued_s": "1946",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:ma:p4:80:00:27:4:map48000274:cs000001r/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map48000274/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Jersey--Maps",
+    "United States--New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "dct_title_s": "New Jersey 1:25,000. transverse Mercator projection",
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1946]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1946
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-map48000274",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

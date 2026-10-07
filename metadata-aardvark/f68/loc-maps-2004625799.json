@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Miller & Co",
+    "Hand watercolored in green, pink, and blue to show unidentified land subdivisions.",
+    "Imperfect: Shellacked, cracked, mounted on cloth backing.",
+    "Includes bar \"Scale of chains\".",
+    "Property survey map of tracts in Flushing, Queens County, Long Island, N.Y.",
+    "Property survey map of tracts in Flushing, Queens County, Long Island, N.Y. Shows tract lines, dimensions, tract-line compass orientations, buildings, trees, field usage identifications, and street names. Hand watercolored in green, pink, and blue to show unidentified land subdivisions. Imperfect: Shellacked, cracked, mounted on cloth backing. Includes bar \"Scale of chains\". Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: N.Y. [i.e. New York] : Miller's Lith., [1845?]",
+    "Shows tract lines, dimensions, tract-line compass orientations, buildings, trees, field usage identifications, and street names."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct006604",
+    "http://lccn.loc.gov/2004625799",
+    "http://www.loc.gov/item/2004625799/",
+    "http://www.loc.gov/resource/g3804n.ct006604/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct006604",
+    "https://search.catalog.loc.gov/instances/7aeaba8c-6ff9-59ee-8078-46fb3fca34c7",
+    "https://www.loc.gov/item/2004625799/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct006604.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004625799/\"}",
+  "dct_spatial_sm": [
+    "flushing",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Flushing (New York, N.Y.)--Surveys--Maps",
+    "Land use, Rural--New York (State)--New York--Maps",
+    "Real property--New York (State)--New York--Maps",
+    "United States--New York (State)--New York",
+    "United States--New York (State)--New York--Flushing"
+  ],
+  "dct_temporal_sm": [
+    "1845",
+    "N.Y. [i.e. New York] : Miller's Lith., [1845?]"
+  ],
+  "dct_title_s": "Map of the Howland Place, Whitestone Avenue, Flushing, L.I.",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004625799",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

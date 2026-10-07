@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows block numbers.",
+    "At head of title: No. I.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Norris Peters Co",
+    "DCP",
+    "Includes directory of \"Width of streets and avenues.\"",
+    "LC copy brittle and torn at fold lines.",
+    "Publication statement: [Washington, D.C.? : s.n., 1898?]",
+    "Shows \"Typhoid fever\" and \"Malarial fevers.\"",
+    "Shows \"Typhoid fever\" and \"Malarial fevers.\" Also shows block numbers. At head of title: No. I. Includes directory of \"Width of streets and avenues.\" Available also through the Library of Congress Web site as a raster image. LC copy brittle and torn at fold lines. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851e.ct004587",
+    "http://lccn.loc.gov/92680485",
+    "http://www.loc.gov/item/92680485/",
+    "http://www.loc.gov/resource/g3851e.ct004587/",
+    "https://hdl.loc.gov/loc.gmd/g3851e.ct004587",
+    "https://search.catalog.loc.gov/instances/dd0d5bc7-7674-5010-ba36-b814bbe6be1a",
+    "https://www.loc.gov/item/92680485/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct004587.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92680485/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Communicable diseases--Mortality--Washington (D.C.)--Maps",
+    "Malaria--Mortality--Washington (D.C.)--Maps",
+    "Typhoid fever--Mortality--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1898",
+    "[Washington, D.C.? : s.n., 1898?]"
+  ],
+  "dct_title_s": "Map of the city of Washington showing location of fatal cases of zymotic diseases for the year ended June 30, 1898",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92680485",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

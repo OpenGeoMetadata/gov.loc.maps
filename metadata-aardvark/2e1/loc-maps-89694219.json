@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1000301.\"",
+    "Alternate title in right upper margin: Conservation planning and application.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes notes and index of conservation districts.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [Amherst, Mass. : State Conservationist, distributor], 1988.",
+    "Shows soil conservation districts, Soil Conservation Service areas and offices, and minor civil divisions.",
+    "Shows soil conservation districts, Soil Conservation Service areas and offices, and minor civil divisions. Alternate title in right upper margin: Conservation planning and application. Includes notes and index of conservation districts. \"1000301.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3761g.ct005794",
+    "http://lccn.loc.gov/89694219",
+    "http://www.loc.gov/item/89694219/",
+    "http://www.loc.gov/resource/g3761g.ct005794/",
+    "https://hdl.loc.gov/loc.gmd/g3761g.ct005794",
+    "https://search.catalog.loc.gov/instances/cf22410f-3d7a-5bae-8300-4fa060aebdf1",
+    "https://www.loc.gov/item/89694219/"
+  ],
+  "dct_issued_s": "1988",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3761/g3761g/ct005794.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89694219/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Conservation of natural resources--Massachusetts--Maps",
+    "Soil conservation districts--Massachusetts--Maps",
+    "United States--Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "dct_title_s": "Conservation planning and application, Massachusetts : February 1988",
+  "gbl_dateRange_drsim": [
+    "[1988 TO 1988]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1988
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89694219",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

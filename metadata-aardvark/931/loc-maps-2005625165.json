@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In pencil on verso: 149.",
+    "Includes a list of tracts of land and a geological column of coal measures, scale 1 in. to 300 ft.",
+    "Library of Congress. Civil War maps (2nd ed.), H258",
+    "Pen-and-ink on tracing linen, mounted on cloth.",
+    "Pen-and-ink on tracing linen, mounted on cloth. Title from Stephenson's Civil War maps, 1989. Includes a list of tracts of land and a geological column of coal measures, scale 1 in. to 300 ft. In pencil on verso: 149. Library of Congress. Civil War maps (2nd ed.), H258 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: [188-?]",
+    "Title from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3893r.cwh00258",
+    "http://lccn.loc.gov/2005625165",
+    "http://www.loc.gov/item/2005625165/",
+    "http://www.loc.gov/resource/g3893r.cwh00258/",
+    "https://hdl.loc.gov/loc.gmd/g3893r.cwh00258",
+    "https://search.catalog.loc.gov/instances/b8e8fc2e-dd52-596a-af58-114920bf7054",
+    "https://www.loc.gov/item/2005625165/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3893/g3893r/cwh00258.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625165/\"}",
+  "dct_spatial_sm": [
+    "raleigh county",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Coal mines and mining--West Virginia--Raleigh County--Maps",
+    "Coal--West Virginia--Raleigh County--Maps",
+    "Raleigh County (W. Va.)--Maps",
+    "United States--West Virginia--Raleigh County"
+  ],
+  "dct_temporal_sm": [
+    "188?"
+  ],
+  "dct_title_s": "[Survey of a tract of 9,138 acres of coal lands on the New River in Raleigh County, West Virginia, west of Quinnimont]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625165",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Map of Beijing and its environs",
+    "Map of Beijing and its environs",
+    "[北京城郊图]"
+  ],
+  "dct_description_sm": [
+    "Annotated in black ink: Map of Peking & the environs. Drawn by Chinese from European surveys, circa 1886, Peking.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rockhill, William Woodville, 1854-1914",
+    "Gift; W.W. Rockhill; 1884.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1886?]",
+    "Relief shown by shading and hachures.",
+    "Shows the site of old Summer Palace, Yuanming and the royal hunting park \"Nan yuan xing gong\"",
+    "Shows the site of old Summer Palace, Yuanming and the royal hunting park \"Nan yuan xing gong\" Relief shown by shading and hachures. Title supplied. Pen-and-ink and watercolor. Annotated in black ink: Map of Peking & the environs. Drawn by Chinese from European surveys, circa 1886, Peking. Available also through the Library of Congress Web site as a raster image. Gift; W.W. Rockhill; 1884.",
+    "Title supplied."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7824b.ct001965",
+    "http://lccn.loc.gov/gm71002466",
+    "http://www.loc.gov/item/gm71002466/",
+    "http://www.loc.gov/resource/g7824b.ct001965/",
+    "https://hdl.loc.gov/loc.gmd/g7824b.ct001965",
+    "https://search.catalog.loc.gov/instances/20c743ee-96b2-5d12-b103-40eb3eb275a5",
+    "https://www.loc.gov/item/gm71002466/"
+  ],
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7824/g7824b/ct001965.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002466/\"}",
+  "dct_spatial_sm": [
+    "beijing",
+    "china"
+  ],
+  "dct_subject_sm": [
+    "Beijing (China)--Maps, Manuscript",
+    "China--Beijing"
+  ],
+  "dct_temporal_sm": [
+    "1886",
+    "[1886?]"
+  ],
+  "dct_title_s": "[Beijing cheng jiao tu]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002466",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

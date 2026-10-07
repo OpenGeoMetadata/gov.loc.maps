@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: McAlpine, William J. (William Jarvis)",
+    "Description derived from published bibliography.",
+    "For a similar map see Carl I. Wheat's Mapping the Transmississippi West, v. 3 (San Francisco, Institute of Historical Cartography, 1957-63.) p. 193.",
+    "LC Railroad maps, 22",
+    "Publication statement: [n.p., 1853]",
+    "Scale ca. 1:7,000,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr000220",
+    "http://lccn.loc.gov/98688315",
+    "http://www.loc.gov/item/98688315/",
+    "http://www.loc.gov/resource/g3701p.rr000220/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr000220",
+    "https://search.catalog.loc.gov/instances/09b3a56f-90f7-5eb8-b7f2-9a70b68010fd",
+    "https://www.loc.gov/item/98688315/"
+  ],
+  "dct_issued_s": "1853",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr000220.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688315/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "dct_title_s": "[Outline map of the United States showing proposed railroad routes to the Pacific]",
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1853
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688315",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

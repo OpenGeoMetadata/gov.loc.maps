@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"737760 (R00855) 11-95.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes note and insets of Brcko and Sarajevo regions.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1995]",
+    "Shows Dayton agreement line, Serb-controlled areas, Croat-controlled areas, and Muslim-controlled areas.",
+    "Shows Dayton agreement line, Serb-controlled areas, Croat-controlled areas, and Muslim-controlled areas. \"737760 (R00855) 11-95.\" Includes note and insets of Brcko and Sarajevo regions. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6861f.ct000230",
+    "http://lccn.loc.gov/95685686",
+    "http://www.loc.gov/item/95685686/",
+    "http://www.loc.gov/resource/g6861f.ct000230/",
+    "https://hdl.loc.gov/loc.gmd/g6861f.ct000230",
+    "https://search.catalog.loc.gov/instances/54a7f722-9ed0-520b-bca0-126d1009f31d",
+    "https://www.loc.gov/item/95685686/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6861/g6861f/ct000230.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95685686/\"}",
+  "dct_spatial_sm": [
+    "bosnia and hercegovina",
+    "bosnia and herzegovina"
+  ],
+  "dct_subject_sm": [
+    "Bosnia and Hercegovina",
+    "Bosnia and Herzegovina--Administrative and political divisions--Maps",
+    "Bosnia and Herzegovina--History--Partition, 1995--Maps",
+    "Ethnology--Bosnia and Herzegovina--Maps",
+    "Partition, Territorial--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Dayton agreement over areas of control, 24 November 1995 : [Bosnia and Hercegovina]",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95685686",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by soundings.",
+    "Depths shown by soundings. Prime meridian: Tenerife. Oriented with north to the left. Watermark: Strasburg fleur-de-lis. Pen-and-ink. Mounted on cloth backing. Maggs number annotated in pencil in lower right margin: 278. LC Luso-Hispanic World, 352 Available also through the Library of Congress Web site as a raster image. Vault",
+    "LC Luso-Hispanic World, 352",
+    "Maggs number annotated in pencil in lower right margin: 278.",
+    "Mounted on cloth backing.",
+    "Oriented with north to the left.",
+    "Pen-and-ink.",
+    "Prime meridian: Tenerife.",
+    "Publication statement: [1791]",
+    "Vault",
+    "Watermark: Strasburg fleur-de-lis."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4922h.lh000352",
+    "http://lccn.loc.gov/91680724",
+    "http://www.loc.gov/item/91680724/",
+    "http://www.loc.gov/resource/g4922h.lh000352/",
+    "https://hdl.loc.gov/loc.gmd/g4922h.lh000352",
+    "https://search.catalog.loc.gov/instances/c3a6f622-444a-5c16-a04c-065332c0debe",
+    "https://www.loc.gov/item/91680724/"
+  ],
+  "dct_issued_s": "1791",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4922/g4922h/lh000352.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91680724/\"}",
+  "dct_spatial_sm": [
+    "cuba",
+    "havana bay"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Cuba--Havana Bay--Maps--Early works to 1800",
+    "Cuba--Havana Bay",
+    "Havana Bay (Cuba)--Maps, Manuscript--Early works to 1800",
+    "Manuscript maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1791"
+  ],
+  "dct_title_s": "Plano del Puerto de Sn. Christobal de la Habana situado en la costa del N. de la ysla de Cuba en la latd. de 23 gs. 10 ms. y en la longd. de 293 gs. 43 ms. segun merio. de The",
+  "gbl_dateRange_drsim": [
+    "[1791 TO 1791]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1791
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91680724",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

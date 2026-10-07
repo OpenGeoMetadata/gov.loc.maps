@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Geologic map of the Hite Crossing Lower Dirty Devil River area"
+  ],
+  "dct_description_sm": [
+    "\"Contains GIS files.\"",
+    "\"Project manager: Robert F. Biek; GIS and cartography: J. Buck Ehler and Jay C. Hill.\"",
+    "Contributors: Utah Geological Survey, cartographer.; Willis, Grant C.",
+    "Includes Cross-section, Map symbols, Correlation of map units, Lithologic column, Geologic mapping sources, and colored photographs.",
+    "Publication statement: [Salt Lake City, Utah] : Utah Geological Survey, 2012.",
+    "Relief shown by contours.",
+    "System requirements: Adobe Acrobat Reader.",
+    "System requirements: Adobe Acrobat Reader. Relief shown by contours. \"Contains GIS files.\" \"Project manager: Robert F. Biek; GIS and cartography: J. Buck Ehler and Jay C. Hill.\" Includes Cross-section, Map symbols, Correlation of map units, Lithologic column, Geologic mapping sources, and colored photographs."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2017590334",
+    "http://ugspub.nr.utah.gov/publications/geologicmaps/M-254DM/M-254DM_Booklet.pdf",
+    "http://ugspub.nr.utah.gov/publications/geologicmaps/M-254DM/M-254DMr.pdf",
+    "http://www.loc.gov/item/2017590334/",
+    "https://www.loc.gov/item/2017590334/"
+  ],
+  "dct_issued_s": "2012",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2017590334/\"}",
+  "dct_spatial_sm": [
+    "arizona",
+    "dirty devil river region",
+    "garfield county",
+    "glen canyon national recreation area",
+    "san juan county",
+    "utah"
+  ],
+  "dct_subject_sm": [
+    "Dirty Devil River Region (Utah)--Maps",
+    "Geology--Glen Canyon National Recreation Area (Utah and Ariz.)",
+    "Geology--Utah--Garfield County",
+    "Geology--Utah--San Juan County"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_title_s": "Geologic map of the Hite Crossing-Lower Dirty Devil River area, Glen Canyon National Recreation area, Garfield and San Juan Counties, Utah",
+  "gbl_dateRange_drsim": [
+    "[2012 TO 2012]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017590334",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

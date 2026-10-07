@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Washington, George, 1732-1799 (Author)",
+    "Publication statement: 1750/1752"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/mgw1c.004/",
+    "http://www.loc.gov/item/mgw1c00004/",
+    "http://www.loc.gov/resource/mgw1c.004/",
+    "https://www.loc.gov/item/mgw1c.004/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/mss/mgw/mgw1c/004/004.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/mgw1c.004/\"}",
+  "dct_rights_sm": [
+    "No known restrictions on use or reproduction."
+  ],
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Manuscripts",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1750/1752"
+  ],
+  "dct_title_s": "George Washington Papers, Series 1, Exercise Books, Diaries, and Surveys 1745-99, Subseries 1C, Surveys, 1749-1752: Surveys, 1750-1752",
+  "gbl_dateRange_drsim": [
+    "[1750 TO 1752]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1750
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-mgw1c.004",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

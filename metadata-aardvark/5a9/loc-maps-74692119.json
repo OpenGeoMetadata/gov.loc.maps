@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 440; 651/1; 651/2; 700",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: McComb, John, 1763-1853; Tiebout, Cornelius, 1777-1832",
+    "Hand colored.",
+    "Hand colored. Shows ward boundaries. Includes index to buildings. Scale ca. 1:13,000. Wheat & Brun. Maps and Charts (1978 ed.) 387 LC Maps of North America, 1750-1789, 1113 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 440; 651/1; 651/2; 700",
+    "Includes index to buildings.",
+    "LC Maps of North America, 1750-1789, 1113",
+    "Publication statement: [New York?] 1789.",
+    "Scale ca. 1:13,000.",
+    "Shows ward boundaries.",
+    "Vault",
+    "Wheat & Brun. Maps and Charts (1978 ed.) 387"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ar111300",
+    "http://lccn.loc.gov/74692119",
+    "http://www.loc.gov/item/74692119/",
+    "http://www.loc.gov/resource/g3804n.ar111300/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ar111300",
+    "https://search.catalog.loc.gov/instances/cab20653-24d2-5e71-97cd-a85b542ab399",
+    "https://www.loc.gov/item/74692119/"
+  ],
+  "dct_issued_s": "1789",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ar111300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692119/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "new york city",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New York (N.Y.)--Administrative and political divisions--Maps--Early works to 1800",
+    "New York (N.Y.)--Maps--Early works to 1800",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1789"
+  ],
+  "dct_title_s": "Plan of the city of New York",
+  "gbl_dateRange_drsim": [
+    "[1789 TO 1789]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1789
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692119",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Plan de la position de l'armée françoise autour de Newport et du mouillage de l'escadre dans la rade de cette ville (Map of the position of the French Army around Newport and the squadron moored in the harbor of this city) is a manuscript map in pen-and-ink and watercolor of Newport, Rhode Island, during the Revolutionary War. The map is oriented with north to the upper left. It includes very detailed information on streets and buildings in Newport. It shows the defense plan for the city and its environs, focusing narrowly on the area around Newport from Brenton Point to Coddington Point. It highlights General Rochambeau's main troop encampments around Newport as well as the position of the fleet of Admiral Charles Louis de Ternay at the entrance to Newport Harbor. It shows the chief moorages of the French fleet and land batteries protecting the city and the port from Brenton Point, Goat Island, and Rose Island. A legend with a numerical key is used to signify forts, batteries, troop encampments, and ships. The map is watermarked and shows relief (by hachures and shading), gardens, fields, windmills, and vegetation. Scale is indicated in toises, an old unit measuring almost two meters. French forces remained in Newport for more than a year (1780-81) before Rochambeau marched westward through Connecticut in June-July 1781 to join up with George Washington's American troops in New York. This proved to be a prelude to the Battle of Yorktown in Virginia that ultimately ended the Revolutionary War. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 440; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Has watermarks.",
+    "Includes index to fortifications, French army camps, and French naval vessels.",
+    "LC Maps of North America, 1750-1789, 1020",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: 1780.",
+    "Relief shown by hachures and shading.",
+    "Scale ca. 1:7,250.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3774n.ar102000",
+    "http://lccn.loc.gov/gm71002159",
+    "http://www.loc.gov/item/gm71002159/",
+    "http://www.loc.gov/resource/g3774n.ar102000/",
+    "https://hdl.loc.gov/loc.gmd/g3774n.ar102000",
+    "https://search.catalog.loc.gov/instances/360d3d9f-141e-5816-88e3-a1d58de7f9e5",
+    "https://www.loc.gov/item/gm71002159/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd377/g3774/g3774n/ar102000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002159/\"}",
+  "dct_spatial_sm": [
+    "island",
+    "newport",
+    "rhode island",
+    "rhode island (island)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Newport (R.I.)--History--Revolution, 1775-1783--Maps, Manuscript--Early works to 1800",
+    "Rhode Island (R.I. : Island)--Defenses--Maps, Manuscript--Early works to 1800",
+    "United States--Rhode Island--Newport",
+    "United States--Rhode Island--Rhode Island (Island)"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "Plan de la position de l'armée françoise autour de Newport et du mouillage de l'escadre dans la rade de cette ville",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002159",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Alaska title collection--drawer 23",
+    "Alternate supplied title: Alaska title collection--various subjects Mining & Minerals (Gold-Rampart Placer Reg.)"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "If a map in this collection may be in copyright, there is no online image available.",
+    "Publication statement: [Various places] : [various publishers], [approximately 1898-1970]",
+    "This record covers single maps of Alaska as a whole covering various subjects, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps of Alaska as a whole covering various subjects, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. If a map in this collection may be in copyright, there is no online image available. Available also through the Library of Congress Web site as a raster image.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589331",
+    "http://www.loc.gov/item/2022589331/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ak-023/",
+    "http://www.loc.gov/resource/gmdtitlecolmaps.ak-023/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ak-023",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolmaps.ak-023",
+    "https://search.catalog.loc.gov/instances/463a4f22-f30a-58aa-8365-5ba35aea01a3",
+    "https://www.loc.gov/item/2022589331/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolmaps:ak:-0:23:ak-023:ak-023-01-01/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589331/\"}",
+  "dct_spatial_sm": [
+    "alaska",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Alaska--Maps",
+    "Gold mines and mining--Alaska--Maps",
+    "Mines and mineral resources--Alaska--Maps",
+    "United States--Alaska"
+  ],
+  "dct_temporal_sm": [
+    "1898/1970",
+    "[Various places] : [various publishers], [approximately 1898-1970]"
+  ],
+  "dct_title_s": "[Maps of Alaska--various subjects Mining & Minerals (Gold-Rampart Placer Reg.)]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022589331",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

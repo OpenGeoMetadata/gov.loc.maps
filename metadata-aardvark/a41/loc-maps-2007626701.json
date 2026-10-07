@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Merged into the 15th A.C., Aug 64.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blue print.",
+    "Contributors: Bell, C. J.",
+    "Date \"June 1890\" printed on label, label affixed to map.",
+    "Gift; Miss Eleanor Sherman Fitch; July 7, 1942.",
+    "LC Civil War maps (2nd ed.), S180, 121",
+    "Publication statement: Topeka, Kan. : C.J. Bell, 1890.",
+    "Relief shown by hachures.",
+    "Shows dates, troop positions, and campsites in northwestern Georgia between Chattanooga and Atlanta.",
+    "Shows dates, troop positions, and campsites in northwestern Georgia between Chattanooga and Atlanta. Relief shown by hachures. Blue print. \"Merged into the 15th A.C., Aug 64.\" Date \"June 1890\" printed on label, label affixed to map. LC Civil War maps (2nd ed.), S180, 121 Available also through the Library of Congress Web site as a raster image. Gift; Miss Eleanor Sherman Fitch; July 7, 1942."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3921s.cws00180",
+    "http://lccn.loc.gov/2007626701",
+    "http://www.loc.gov/item/2007626701/",
+    "http://www.loc.gov/resource/g3921s.cws00180/",
+    "https://hdl.loc.gov/loc.gmd/g3921s.cws00180",
+    "https://search.catalog.loc.gov/instances/d6e908e6-119a-5848-82f0-461404dfdfc2",
+    "https://www.loc.gov/item/2007626701/"
+  ],
+  "dct_issued_s": "1864-05-04",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3921/g3921s/cws00180.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007626701/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlanta Campaign",
+    "Atlanta Campaign, 1864--Maps",
+    "Georgia--History--Civil War, 1861-1865--Maps",
+    "United States--Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1864-05-04"
+  ],
+  "dct_title_s": "Atlanta campaign,\" left wing 16th Army Corps., May 4th to Sept. 8th, 1864 : Maj. Genl. G.M. Dodge, comdg., Genls. Corse and Burke, comdg. divisions",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007626701",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

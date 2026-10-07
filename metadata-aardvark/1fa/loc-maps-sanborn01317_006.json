@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "11 sheet(s).",
+    "Apr 1924.",
+    "Apr 1924. 11 sheet(s). Other places as they appear on original: Coronado, Coronado Beach, Wilbur-by-the-Beach, Hawk's Park.",
+    "Other places as they appear on original: Coronado, Coronado Beach, Wilbur-by-the-Beach, Hawk's Park.",
+    "Publication statement: Sanborn Map Company, Apr 1924"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3934nm.g3934nm_g013171924",
+    "http://www.loc.gov/item/sanborn01317_006/",
+    "http://www.loc.gov/resource/g3934nm.g3934nm_g013171924/",
+    "https://hdl.loc.gov/loc.gmd/g3934nm.g3934nm_g013171924",
+    "https://www.loc.gov/item/sanborn01317_006",
+    "https://www.loc.gov/item/sanborn01317_006/",
+    "https://www.loc.gov/resource/g3934nm.g3934nm_g013171924"
+  ],
+  "dct_issued_s": "1924-04",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn01317_006/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393m/g3934m/g3934nm/g3934nm_g013171924/01317_1924-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn01317_006/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "coronado",
+    "coronado beach",
+    "florida",
+    "hawk's park",
+    "new smyrna",
+    "united states",
+    "valusia county",
+    "wilbur-by--beach"
+  ],
+  "dct_temporal_sm": [
+    "1924-04"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from New Smyrna, Valusia County, Florida.",
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1924]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1924
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn01317_006",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

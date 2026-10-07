@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Blue Ridge Parkway",
+    "Title in upper margin: Blue Ridge Parkway"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 1987--181-415/60152. Reprint 1987.\"",
+    "\"*GPO: 1987--181-415/60152. Reprint 1987.\" Relief shown by spot heights. Title from verso. Text, col. ill., and table of park facilities on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Publication statement: [Washington, D.C.] : The Service, [1987]",
+    "Relief shown by spot heights.",
+    "Text, col. ill., and table of park facilities on verso.",
+    "Title from verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/96680208",
+    "http://www.loc.gov/item/96680208/",
+    "http://www.loc.gov/resource/g3902b.ct009607/",
+    "https://hdl.loc.gov/loc.gmd/g3902b.ct009607",
+    "https://search.catalog.loc.gov/instances/80e60540-1449-5005-806b-d1dfa5ceb35e",
+    "https://www.loc.gov/item/96680208/"
+  ],
+  "dct_issued_s": "1987",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902b/ct009607.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96680208/\"}",
+  "dct_spatial_sm": [
+    "blue ridge parkway",
+    "north carolina",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Blue Ridge Parkway (N.C. and Va.)--Maps",
+    "United States--North Carolina--Blue Ridge Parkway",
+    "United States--Virginia--Blue Ridge Parkway"
+  ],
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "dct_title_s": "Blue Ridge Parkway, Virginia and North Carolina",
+  "gbl_dateRange_drsim": [
+    "[1987 TO 1987]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1987
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96680208",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

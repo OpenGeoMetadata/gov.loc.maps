@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1855 by J. H. Colton & Co.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: J.H. Colton & Co",
+    "Description derived from published bibliography.",
+    "General map of eastern Virginia, Maryland, Delaware, southern Pennsylvania, and northern North Carolina.",
+    "Includes bar scale below the publisher's statement.",
+    "LC Civil War maps (2nd ed.), 479.3",
+    "Printed by Lang & Cooper, N.Y.",
+    "Publication statement: New York : J.H. Colton's Geographic Establishment , [186-?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. \"Entered according to Act of Congress in the year 1855 by J. H. Colton & Co.\" Printed by Lang & Cooper, N.Y. General map of eastern Virginia, Maryland, Delaware, southern Pennsylvania, and northern North Carolina. Includes bar scale below the publisher's statement. Description derived from published bibliography. LC Civil War maps (2nd ed.), 479.3 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.cw0479300",
+    "http://lccn.loc.gov/2006629753",
+    "http://www.loc.gov/item/2006629753/",
+    "http://www.loc.gov/resource/g3880.cw0479300/",
+    "https://hdl.loc.gov/loc.gmd/g3880.cw0479300",
+    "https://search.catalog.loc.gov/instances/5f2947e2-994c-580a-8759-3bbf6bbcc26a",
+    "https://www.loc.gov/item/2006629753/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/cw0479300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006629753/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "J.H. Colton's topographical map of seat of war in Virginia, Maryland, &c",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006629753",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

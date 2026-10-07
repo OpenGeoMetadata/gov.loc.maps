@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "West Bank LandScan HD",
+    "West Bank LandScan High Definition"
+  ],
+  "dct_description_sm": [
+    "\"LandScan HD is developed for individual countries around the world and provides gridded population estimates at 3 arc-second resolution. The LandScan HD model incorporates current land use and infrastructure data from a variety of sources, applies facility occupancy estimates from ORNL's Population Density Tables (PDT) project, and leverages novel image processing algorithms developed at ORNL to rapidly map building structures and neighborhood areas using high-performance computing environments. In this way, LandScan HD is developed using a 'bottom-up' approach where high resolution population estimates are not dependent on a recently conducted, high quality census. This approach is particularly useful for parts of the world that regularly experience large changes in population distribution due to rapid growth, natural hazards, or conflict. LandScan HD was developed for the U.S. Department of Defense and is used for rapid consequence and risk assessment as well as emergency planning and management\"--XML metadata file.",
+    "Contributors: Oak Ridge National Laboratory. Geospatial Science and Human Security Division. Human Dynamics Section, cartographer; Oak Ridge National Laboratory. Geospatial Science and Human Security Division. Human Geography Group, cartographer",
+    "Publication statement: [Oak Ridge, Tennessee] : Human Geography Group, Geospatial Science and Human Security Division, Oak Ridge National Laboratory, 2022-2023.",
+    "Source: National Geospatial-Intelligence Agency (NGA) via the EnhancedView Web-Hosting Service (EVWHS)/Global Enhanced GEOINT Delivery (G-EGD).",
+    "The temporal extent of v 1.0 is defined as the range of dates of the images used to identify areas of human settlement (2014-2015).",
+    "The temporal extent of v 1.0 is defined as the range of dates of the images used to identify areas of human settlement (2014-2015). The temporal extent of v 2.0 is derived from the population data sources (2021-2023). \"LandScan HD is developed for individual countries around the world and provides gridded population estimates at 3 arc-second resolution. The LandScan HD model incorporates current land use and infrastructure data from a variety of sources, applies facility occupancy estimates from ORNL's Population Density Tables (PDT) project, and leverages novel image processing algorithms developed at ORNL to rapidly map building structures and neighborhood areas using high-performance computing environments. In this way, LandScan HD is developed using a 'bottom-up' approach where high resolution population estimates are not dependent on a recently conducted, high quality census. This approach is particularly useful for parts of the world that regularly experience large changes in population distribution due to rapid growth, natural hazards, or conflict. LandScan HD was developed for the U.S. Department of Defense and is used for rapid consequence and risk assessment as well as emergency planning and management\"--XML metadata file. Source: National Geospatial-Intelligence Agency (NGA) via the EnhancedView Web-Hosting Service (EVWHS)/Global Enhanced GEOINT Delivery (G-EGD).",
+    "The temporal extent of v 2.0 is derived from the population data sources (2021-2023)."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2025367462",
+    "http://www.loc.gov/item/2025367462/",
+    "http://www.loc.gov/resource/gdcdatasets.2025367462_v1/",
+    "http://www.loc.gov/resource/gdcdatasets.2025367462_v2/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2025367462_v1",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2025367462_v2",
+    "https://search.catalog.loc.gov/instances/4711b293-e455-4bfd-b531-a3047be7c5ca",
+    "https://www.loc.gov/item/2025367462/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2025367462/\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution-NonCommercial 4.0 International https://creativecommons.org/licenses/by-nc/4.0/",
+    "The Library of Congress is providing access to the LandScan HD West Bank with permission from the rightsholder. The rightsholder has made this collection available pursuant to a Creative Commons license for non-commercial use, which allows users to use and reuse materials in the collection for noncommercial purposes, provided that they comply with the terms of the license. See https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "dct_spatial_sm": [
+    "west bank"
+  ],
+  "dct_subject_sm": [
+    "West Bank",
+    "West Bank--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2022/2023"
+  ],
+  "dct_title_s": "LandScan HD West Bank",
+  "gbl_dateRange_drsim": [
+    "[2022 TO 2023]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2025367462",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

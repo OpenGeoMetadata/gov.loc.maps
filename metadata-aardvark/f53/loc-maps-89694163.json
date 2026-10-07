@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"4-R-38991.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes source materials note and project index.",
+    "Includes source materials note and project index. \"4-R-38991.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [Harrisburg, Pa. : State Conservationist, distributor], 1988."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3821c.ct006979",
+    "http://lccn.loc.gov/89694163",
+    "http://www.loc.gov/item/89694163/",
+    "http://www.loc.gov/resource/g3821c.ct006979/",
+    "https://hdl.loc.gov/loc.gmd/g3821c.ct006979",
+    "https://search.catalog.loc.gov/instances/e75059c1-4714-587b-99f7-c232c09de99b",
+    "https://www.loc.gov/item/89694163/"
+  ],
+  "dct_issued_s": "1986",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3821/g3821c/ct006979.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89694163/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States--Pennsylvania",
+    "Water resources development--Pennsylvania--Maps",
+    "Watershed management--Pennsylvania--Maps",
+    "Watersheds--Pennsylvania--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "dct_title_s": "Status of PL 566 watershed projects, Pennsylvania : October 1986",
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89694163",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

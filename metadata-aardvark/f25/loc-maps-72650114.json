@@ -1,0 +1,43 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Nikolaos Sophianos was a 16th-century Greek priest, scholar, translator, and publisher. He was born on Corfu and sent to Rome at an early age, where he studied at the Greek school on the Quirinal. He completed the first grammar of the Modern Greek language and translated works from ancient into Modern Greek. At some point he left Rome to settle in Venice, where by 1545 he had set up a press. Sophianos's only known cartographic work is this map of his native country. Known as the Hellados perigraphe (Description of Greece), it was printed in Rome in 1540 and in Basel in 1544. All copies of the first two printings have been lost. The map shown here is from a third printing made in Basel in 1545 by Johannes Oporinus. Only two or three copies of this printing are known to have survived, including this one from the Library of Congress, which, however, was extensively damaged at some point in the past. To accompany the 1545 edition, Oporinus commissioned a commentary in Latin by Nicolaus Gerbel (1485-1560), a professor of law at the University of Strasbourg and a friend of Martin Luther. This commentary contains a detailed discussion of the place names on the map and their sources. In his map, Sophianos uses an extended definition of Greece, including in it all of the Balkans south of the Danube, as well as western Asia Minor.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Gerbel, Nicolaus, approximately 1485-1560; Sophianos, Nikolaos",
+    "Publication statement: Basilea [Ex officina I. Opporini, 1545]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6810.ct001164",
+    "http://lccn.loc.gov/72650114",
+    "http://www.loc.gov/item/72650114/",
+    "http://www.loc.gov/resource/g6810.ct001164/",
+    "https://hdl.loc.gov/loc.gmd/g6810.ct001164",
+    "https://search.catalog.loc.gov/instances/aea1ba69-d9d0-53ce-90e3-a24204e3c2cd",
+    "https://www.loc.gov/item/72650114/"
+  ],
+  "dct_language_sm": [
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6810/g6810/ct001164.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/72650114/\"}",
+  "dct_spatial_sm": [
+    "greece"
+  ],
+  "dct_subject_sm": [
+    "Greece",
+    "Greece--Maps--Early works to 1800"
+  ],
+  "dct_title_s": "Nicolai Gerbelij in descriptionem Graeciae Sophiani, praefatio",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-72650114",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

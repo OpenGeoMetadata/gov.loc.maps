@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Handwritten title on verso: Soil map Jackson Co. Miss",
+    "Jackson County, Mississippi soil map",
+    "Soil map Jackson Co. Miss"
+  ],
+  "dct_description_sm": [
+    "\"Base map in part from U.S. Coast and Geodetic Survey Charts.\"",
+    "\"Field operations Bureau of Chemistry and Soils 1927.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mississippi Geological Survey; United States. Bureau of Chemistry and Soils",
+    "Includes conventional signs.",
+    "Publication statement: Washington, DC : U.S. Department of Agriculture, Bureau of Chemisty and Soils, 1927",
+    "Relief shown by contours and spot heights.",
+    "Shows distribution of soil types by colors and symbols.",
+    "Shows distribution of soil types by colors and symbols. Relief shown by contours and spot heights. \"Field operations Bureau of Chemistry and Soils 1927.\" \"Base map in part from U.S. Coast and Geodetic Survey Charts.\" Includes conventional signs. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3983j.ct003623",
+    "http://lccn.loc.gov/2012593365",
+    "http://www.loc.gov/item/2012593365/",
+    "http://www.loc.gov/resource/g3983j.ct003623/",
+    "https://hdl.loc.gov/loc.gmd/g3983j.ct003623",
+    "https://search.catalog.loc.gov/instances/7b1c1540-a17c-5fb7-bca8-93ccfe0d0202",
+    "https://www.loc.gov/item/2012593365/"
+  ],
+  "dct_issued_s": "1927",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3983/g3983j/ct003623.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593365/\"}",
+  "dct_spatial_sm": [
+    "jackson county",
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Jackson County (Miss.)--Maps",
+    "Soil surveys--Mississippi--Jackson County",
+    "Soils--Mississippi--Jackson County--Maps",
+    "United States--Mississippi--Jackson County"
+  ],
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "dct_title_s": "Soil map Jackson County, Mississippi",
+  "gbl_dateRange_drsim": [
+    "[1927 TO 1927]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1927
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2012593365",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

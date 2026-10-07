@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mahone, William, 1826-1895; Norfolk and Petersburg Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 491",
+    "Map of the eastern United States between the Chesapeake Bay and the Mississippi River. Shows drainage, place names and the railroad network. Chartered March 17, 1851. Line completed in 1858. consolidated in April 1871, forming part of the Atlantic, Mississippi, and Ohio Railroad.",
+    "Publication statement: Norfolk, Va., [1858]",
+    "Scale 1:1,267,200."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr004910",
+    "http://lccn.loc.gov/98688739",
+    "http://www.loc.gov/item/98688739/",
+    "http://www.loc.gov/resource/g3701p.rr004910/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr004910",
+    "https://search.catalog.loc.gov/instances/01f41260-6151-5bfb-a1ae-b76dbcdd9a29",
+    "https://www.loc.gov/item/98688739/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr004910.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688739/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Norfolk and Petersburg Railroad Company--Maps",
+    "Railroads--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Map showing route of Norfolk & Petersburg Rail Road and its connections with Ohio & Mississippi Rivers, William Mahone, Chief Engineer, F. Bourquin & Co., Philada",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688739",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

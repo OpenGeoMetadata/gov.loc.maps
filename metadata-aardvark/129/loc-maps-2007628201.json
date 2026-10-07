@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Dripps, M. (Matthew); Harrison, John F. (Surveyor)",
+    "LC copy imperfect: Brittle, with losses along edges.",
+    "Phillips, 2291",
+    "Publication statement: N.Y. : Mathew Dripps, 1867.",
+    "Versos of maps blank.",
+    "Versos of maps blank. LC copy imperfect: Brittle, with losses along edges. Phillips, 2291 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804nm.gct00085",
+    "http://lccn.loc.gov/2007628201",
+    "http://www.loc.gov/item/2007628201/",
+    "http://www.loc.gov/resource/g3804nm.gct00085/",
+    "https://hdl.loc.gov/loc.gmd/g3804nm.gct00085",
+    "https://search.catalog.loc.gov/instances/6aeb1141-c8f1-5c8e-a85a-a9070e828c49",
+    "https://www.loc.gov/item/2007628201/"
+  ],
+  "dct_issued_s": "1866",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380m/g3804m/g3804nm/gct00085/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007628201/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "new york city",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--New York (State)--New York--Maps",
+    "New York (N.Y.)--Maps",
+    "Real property--New York (State)--New York--Maps",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "dct_title_s": "Plan of New York City from the Battery to Spuyten Duyvil Creek : showing every lot and building thereon : old farm lines, street numbers at the corners of blocks, railroads, steamboat landings, bulkhead and pier lines, etc., etc., etc",
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1866
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007628201",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

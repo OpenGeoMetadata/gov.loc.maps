@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"19-4761 6-19.\"",
+    "Contributors: United States. Central Intelligence Agency, cartographer",
+    "Includes location map and inset of Hawar Islands.",
+    "Publication statement: [Washington, D.C.] : [Central Intelligence Agency], [2019]",
+    "Shows administrative boundaries.",
+    "Shows administrative boundaries. Source data scale 1:325,000. Includes location map and inset of Hawar Islands. \"19-4761 6-19.\"",
+    "Source data scale 1:325,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2026356037",
+    "http://www.loc.gov/item/2026356037/",
+    "http://www.loc.gov/resource/gmddigstackspublic.2026356037/",
+    "https://hdl.loc.gov/loc.gmd/gmddigstackspublic.2026356037",
+    "https://search.catalog.loc.gov/instances/48fc2a45-1947-4333-b4fb-bdae6d377687",
+    "https://www.loc.gov/item/2026356037/"
+  ],
+  "dct_issued_s": "2019",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmddigstackspublic/20/26/35/60/37/2026356037/2026356037.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2026356037/\"}",
+  "dct_rights_sm": [
+    "Public Domain https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_spatial_sm": [
+    "bahrain"
+  ],
+  "dct_subject_sm": [
+    "Bahrain",
+    "Bahrain--Administrative and political divisions"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dct_title_s": "Bahrain : administrative divisions",
+  "gbl_dateRange_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "gbl_displayNote_sm": [
+    "Open to research.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2026356037",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2; 650/3; 650/4",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint on cloth.",
+    "Blueprint on cloth. Shows land ownership and oil and gas wells. Scale ca. 1:31,000. Available also through the Library of Congress Web site as a raster image. LC copy annotated in multiple colors. AACR2: 650/1; 651/2; 650/3; 650/4",
+    "Contributors: Indian Territory Map Co",
+    "LC copy annotated in multiple colors.",
+    "Publication statement: Muskogee, I.T. [1903?]",
+    "Scale ca. 1:31,000.",
+    "Shows land ownership and oil and gas wells."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm71005606",
+    "http://www.loc.gov/item/gm71005606/",
+    "http://www.loc.gov/resource/g4023m.ct011235/",
+    "https://hdl.loc.gov/loc.gmd/g4023m.ct011235",
+    "https://search.catalog.loc.gov/instances/aec4abb2-dbe8-587f-9ab2-9429a9b097a8",
+    "https://www.loc.gov/item/gm71005606/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4023/g4023m/ct011235.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005606/\"}",
+  "dct_spatial_sm": [
+    "muskogee county",
+    "oklahoma",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Muskogee County (Okla.)--Maps",
+    "Natural gas--Oklahoma--Muskogee County--Maps",
+    "Oil fields--Oklahoma--Muskogee County--Maps",
+    "Real property--Oklahoma--Muskogee County--Maps",
+    "United States--Oklahoma--Muskogee County"
+  ],
+  "dct_temporal_sm": [
+    "1903",
+    "Muskogee, I.T. [1903?]"
+  ],
+  "dct_title_s": "Muskogee oil field",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005606",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

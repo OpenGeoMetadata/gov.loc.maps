@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Engraved under the direction of C. H. Waite.\"",
+    "\"The entire map is printed from electrotype plates, sections of which can be used for special railroad maps, publishers premium maps, maps to accompany reports, pamphlets, etc., etc., and for various advertising purposes. Designs furnished upon publication.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rand McNally and Company",
+    "Includes insets of Alaska and Washington.",
+    "LC Railroad maps, 59",
+    "Prime meridian: Washington.",
+    "Publication statement: Chicago, c1876.",
+    "Relief shown by hachures.",
+    "Scale ca. 1:2,027,520; approx. 32 miles to 1 in.",
+    "Very detailed map of the continental United States and parts of Canada and Mexico including drainage, international, state and county boundaries, cities and towns, canals, roads, trails, railroads, and railroads under construction. This map is very similar in cartography, content and scale to the maps which make up Rand, McNally & Co's Business Atlas containing large scale maps of each state and territory of the Great Mississippi Valley and Pacific Slope, Accompanied by a New and Original Compilation and Ready Reference Index, Showing in Detail the Entire Railroad System...Together with all Post Offices, Railroad Stations and Villages...(Chicago, 1876-77). [From published bibliography]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr000590",
+    "http://lccn.loc.gov/gm71000839",
+    "http://www.loc.gov/item/gm71000839/",
+    "http://www.loc.gov/resource/g3701p.rr000590/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr000590",
+    "https://search.catalog.loc.gov/instances/fa1f87c6-707a-53c6-9891-665bfd351f7a",
+    "https://www.loc.gov/item/gm71000839/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr000590.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000839/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "United States",
+    "United States--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Rand McNally & Co's new railroad and county map of the United States and Canada. Compiled from the latest government surveys, and drawn to an accurate scale",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000839",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

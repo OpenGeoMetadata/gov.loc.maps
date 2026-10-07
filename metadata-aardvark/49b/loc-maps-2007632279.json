@@ -1,0 +1,75 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Military map no. 1",
+    "Reconnaissance maps : Department of California",
+    "Title in top margin: Reconnaissance maps : Department of California",
+    "Title inside map border: Military map no. 1"
+  ],
+  "dct_description_sm": [
+    "\"Officially compiled and published at the Engineer Office, Head Quarters Department of California in 1869 and 70, by order of Brigadier General E. O. C. Ord, Commdg. [signed in facsimile] Geo. M. Wheeler, Lieutenant of Engineers in charge. Head Quarters Dept. of Cal., Oct. 26th 1870.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hamel, P. W.; Lockwood, D. W. (Daniel Wright); Wheeler, George M. (George Montague), 1842-1905",
+    "Copy imperfect: Holes and losses along top and bottom edges repaired with tape.",
+    "Covers Elko, White Pine, Lander, Nye, and Lincoln counties in Nevada.",
+    "Covers Elko, White Pine, Lander, Nye, and Lincoln counties in Nevada. Relief shown by hachures and spot heights. \"Officially compiled and published at the Engineer Office, Head Quarters Department of California in 1869 and 70, by order of Brigadier General E. O. C. Ord, Commdg. [signed in facsimile] Geo. M. Wheeler, Lieutenant of Engineers in charge. Head Quarters Dept. of Cal., Oct. 26th 1870.\" Copy imperfect: Holes and losses along top and bottom edges repaired with tape. Includes text. In red on verso: 23. LC Civil War maps (2nd ed.), S182 Available also through the Library of Congress Web site as a raster image. Gift; Miss Eleanor Sherman Fitch; July 7, 1942.",
+    "Gift; Miss Eleanor Sherman Fitch; July 7, 1942.",
+    "In red on verso: 23.",
+    "Includes text.",
+    "LC Civil War maps (2nd ed.), S182",
+    "Publication statement: [California] : Engineer Office, Head Quarters Department of California, 1870",
+    "Relief shown by hachures and spot heights."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4350.ct004258",
+    "http://hdl.loc.gov/loc.gmd/g4350.cws00182",
+    "http://lccn.loc.gov/2007632279",
+    "http://www.loc.gov/item/2007632279/",
+    "http://www.loc.gov/resource/g4350.ct004258/",
+    "http://www.loc.gov/resource/g4350.cws00182/",
+    "https://hdl.loc.gov/loc.gmd/g4350.ct004258",
+    "https://hdl.loc.gov/loc.gmd/g4350.cws00182",
+    "https://search.catalog.loc.gov/instances/b18f962f-0b5d-558f-b8c2-2bad660d65a7",
+    "https://www.loc.gov/item/2007632279/"
+  ],
+  "dct_issued_s": "1870",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd435/g4350/g4350/cws00182.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007632279/\"}",
+  "dct_spatial_sm": [
+    "nevada",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Military topography--Nevada--Maps",
+    "Nevada--Maps",
+    "United States--Nevada"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ],
+  "dct_title_s": "Map showing detailed topography of the country traversed by the reconnaissance expedition through southern and southeastern Nevada",
+  "gbl_dateRange_drsim": [
+    "[1870 TO 1870]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1870
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2007632279",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

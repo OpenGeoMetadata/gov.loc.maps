@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Montrésor, John, 1736-1799",
+    "LC Maps of North America, 1750-1789, 838",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Mounted on cloth backing with reinforced edges. Relief shown pictorially. Shows campsite locations for the author's expedition from Quebec into Maine. Scale ca. 1:390,000. LC Maps of North America, 1750-1789, 838 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Mounted on cloth backing with reinforced edges.",
+    "Publication statement: [1761?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:390,000.",
+    "Shows campsite locations for the author's expedition from Quebec into Maine.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3730.ar083800",
+    "http://lccn.loc.gov/74692578",
+    "http://www.loc.gov/item/74692578/",
+    "http://www.loc.gov/resource/g3730.ar083800/",
+    "https://hdl.loc.gov/loc.gmd/g3730.ar083800",
+    "https://search.catalog.loc.gov/instances/802969fe-e680-57cd-83fe-c890a2070fd6",
+    "https://www.loc.gov/item/74692578/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3730/g3730/ar083800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692578/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "chaudière river",
+    "kennebec river",
+    "maine",
+    "penobscot river",
+    "québec",
+    "québec (province)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--Québec (Province)",
+    "Canada--Québec--Chaudière River",
+    "Chaudière River (Québec)--Maps, Manuscript--Early works to 1800",
+    "Kennebec River (Me.)--Maps, Manuscript--Early works to 1800",
+    "Maine--Maps, Manuscript--Early works to 1800",
+    "Penobscot River (Me.)--Maps, Manuscript--Early works to 1800",
+    "Québec (Province)--Maps, Manuscript--Early works to 1800",
+    "United States--Maine",
+    "United States--Maine--Kennebec River",
+    "United States--Maine--Penobscot River"
+  ],
+  "dct_temporal_sm": [
+    "1761",
+    "[1761?]"
+  ],
+  "dct_title_s": "A map of the sources of the Chaudière, Penobscot, and Kennebec rivers,",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692578",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

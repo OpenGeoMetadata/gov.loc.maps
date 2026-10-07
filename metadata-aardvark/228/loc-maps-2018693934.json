@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Геологическая карта береговой полосы озера Байкала. Составлена на основании исследований 1877-80 г. И.Д.Черским"
+  ],
+  "dct_description_sm": [
+    "Contributors: Cherskiĭ, Ivan, 1845-1892",
+    "Original map at: National Library of Russia",
+    "Publication statement: Saint Petersburg, Russia : Imperatorskoe Russkoe Geograficheskoe obshchestvo, Imperatorskoe S.Peterburgskoe Mineralogicheskoe obshchestvo, pech. Kartograficheskoe zavedenie A.Il'ina, 1880-",
+    "T︠S︡vetnai︠a︡. Restavrirovana. Bez kartograficheskoĭ setki.",
+    "T︠S︡vetnai︠a︡. Restavrirovana. Bez kartograficheskoĭ setki. Uslovnye znaki: geologicheskie sistemy (7), marshruty Cherskogo i Chekanovskogo, padenie i napravlenie plastov, vykhody i mesta dobychi razlichnykh porod, linii promerov glubin. Ukazateli: Nazvanie nekotorykh mest sistemy doliny Onguren (a-f); Nazvanii︠a︡ nekotorykh m. Original map at: National Library of Russia Цветная. Реставрирована. Без картографической сетки. Условные знаки: геологические системы (7), маршруты Черского и Чекановского, падение и направление пластов, выходы и места добычи различных пород, линии промеров глубин. Указатели: Название некоторых мест системы долины Онгурен (a-f); Названия некоторых м.",
+    "Uslovnye znaki: geologicheskie sistemy (7), marshruty Cherskogo i Chekanovskogo, padenie i napravlenie plastov, vykhody i mesta dobychi razlichnykh porod, linii promerov glubin. Ukazateli: Nazvanie nekotorykh mest sistemy doliny Onguren (a-f); Nazvanii︠a︡ nekotorykh m.",
+    "Условные знаки: геологические системы (7), маршруты Черского и Чекановского, падение и направление пластов, выходы и места добычи различных пород, линии промеров глубин. Указатели: Название некоторых мест системы долины Онгурен (a-f); Названия некоторых м.",
+    "Цветная. Реставрирована. Без картографической сетки."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693934",
+    "http://www.loc.gov/item/2018693934/",
+    "http://www.loc.gov/resource/gdc.2018693934/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.nmap062a",
+    "https://search.catalog.loc.gov/instances/7b9c7bd4-145a-5825-893d-10db8f2741de",
+    "https://www.loc.gov/item/2018693934/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693934.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693934/2018693934.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693934:nmap062a/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693934/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation",
+    "Siberia",
+    "maps"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Geologicheskai︠a︡ karta beregovoĭ polosy ozera Baĭkala. Sostavlena na osnovanii issledovaniĭ 1877-80 g. I.D.Cherskim",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693934",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "A new and accurate plan of the city of New York in the state of New York in North America, published in 1797"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hayward, Geo. (George), active 1834-1872, engraver; Valentine, D. T. (David Thomas), 1801-1869",
+    "Includes illustrations of ships.",
+    "LC Ward maps 148",
+    "LC copy mounted on cloth.",
+    "Publication information from the Manual.",
+    "Publication statement: [New York, N.Y.] : [Common Council of the City of New York], [1853]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows Manhattan below North St. Publication information from the Manual. Includes illustrations of ships. LC copy mounted on cloth. LC Ward maps 148 Available also through the Library of Congress Web site as a raster image.",
+    "Shows Manhattan below North St."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2020587095",
+    "http://www.loc.gov/item/2020587095/",
+    "http://www.loc.gov/resource/g3804n.wd000148/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.wd000148",
+    "https://search.catalog.loc.gov/instances/a6fa45cb-52d1-5355-aa3f-0dd5259f7719",
+    "https://www.loc.gov/item/2020587095/"
+  ],
+  "dct_issued_s": "1853",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/wd000148.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2020587095/\"}",
+  "dct_spatial_sm": [
+    "manhattan",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Manhattan (New York, N.Y.)--Maps--Early works to 1800--Facsimiles",
+    "United States--New York (State)--New York--Manhattan (New York, N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "dct_title_s": "A new & accurate plan of the city of New York in the state of New York in North America, published in 1797",
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1853
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2020587095",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

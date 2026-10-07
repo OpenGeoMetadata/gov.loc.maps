@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Cramer, L. H.; Mott, J. W.",
+    "Publication statement: [S.l.], 1879."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804s.ct000611",
+    "http://lccn.loc.gov/00561206",
+    "http://www.loc.gov/item/00561206/",
+    "http://www.loc.gov/resource/g3804s.ct000611/",
+    "https://hdl.loc.gov/loc.gmd/g3804s.ct000611",
+    "https://search.catalog.loc.gov/instances/c4ad787b-5794-564b-a010-05d2d3d23ea9",
+    "https://www.loc.gov/item/00561206/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804s/ct000611.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00561206/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "saratoga springs",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Saratoga Springs (N.Y.)--Maps",
+    "United States--New York (State)--Saratoga Springs"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Map of the town of Saratoga Springs, Saratoga Co., N.Y.",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00561206",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

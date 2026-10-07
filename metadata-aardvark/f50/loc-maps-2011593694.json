@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also covers boroughs of East Newark and Harrison.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: A.S. Holbrook's Printing Office",
+    "Includes notes, directory of \"Streets, lands, courts & alleys not named on the map\", ill., and advertisements.",
+    "LC copy imperfect: Brittle, torn at fold lines, removed from city directory.",
+    "Oriented with north toward the upper right.",
+    "Publication statement: [Newark] : A.S. Holbrook's Printing Office, 1876.",
+    "Shows radial distances from city center.",
+    "Street map hand col. to show wards and ward numbers.",
+    "Street map hand col. to show wards and ward numbers. Shows radial distances from city center. Also covers boroughs of East Newark and Harrison. Oriented with north toward the upper right. Includes notes, directory of \"Streets, lands, courts & alleys not named on the map\", ill., and advertisements. LC copy imperfect: Brittle, torn at fold lines, removed from city directory. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814n.wd000525",
+    "http://lccn.loc.gov/2011593694",
+    "http://www.loc.gov/item/2011593694/",
+    "http://www.loc.gov/resource/g3814n.wd000525/",
+    "https://hdl.loc.gov/loc.gmd/g3814n.wd000525",
+    "https://search.catalog.loc.gov/instances/21d0558e-a13b-5b00-a8bc-05c2f60ae489",
+    "https://www.loc.gov/item/2011593694/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814n/wd000525.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011593694/\"}",
+  "dct_spatial_sm": [
+    "east newark",
+    "harrison",
+    "new jersey",
+    "newark",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "East Newark (N.J.)--Maps",
+    "Harrison (N.J.)--Maps",
+    "Newark (N.J.)--Administrative and political divisions--Maps",
+    "Newark (N.J.)--Maps",
+    "United States--New Jersey--East Newark",
+    "United States--New Jersey--Harrison",
+    "United States--New Jersey--Newark"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Holbrook's map of the city of Newark, New Jersey",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011593694",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

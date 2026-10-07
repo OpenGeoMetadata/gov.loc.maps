@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"38076-H4-ST-500.\"",
+    "Alternate titles in right upper and lower margins: Maryland and Delaware.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Includes notes.",
+    "Publication statement: Reston, Va. : Interior--Geological Survey, 1990.",
+    "Relief shown by contours and spot heights. Depths shown by contours.",
+    "Relief shown by contours and spot heights. Depths shown by contours. Alternate titles in right upper and lower margins: Maryland and Delaware. UTM 50,000-meter grid. Includes notes. \"38076-H4-ST-500.\" Available also through the Library of Congress Web site as a raster image.",
+    "UTM 50,000-meter grid."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3840.ct008480",
+    "http://lccn.loc.gov/91680007",
+    "http://www.loc.gov/item/91680007/",
+    "http://www.loc.gov/resource/g3840.ct008480/",
+    "https://hdl.loc.gov/loc.gmd/g3840.ct008480",
+    "https://search.catalog.loc.gov/instances/270ca007-7d6f-5856-87c4-aa09048649ae",
+    "https://www.loc.gov/item/91680007/"
+  ],
+  "dct_issued_s": "1990",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3840/g3840/ct008480.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91680007/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware--Maps",
+    "Maryland--Maps",
+    "United States--Delaware",
+    "United States--Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "dct_title_s": "States of Maryland and Delaware",
+  "gbl_dateRange_drsim": [
+    "[1990 TO 1990]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1990
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91680007",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

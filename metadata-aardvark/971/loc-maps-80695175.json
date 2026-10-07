@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hughes & Fowler",
+    "Includes text, list of village and town officers, business directory, location map, and ill.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 568.1",
+    "Oriented with north toward the upper left.",
+    "Oriented with north toward the upper left. Includes text, list of village and town officers, business directory, location map, and ill. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 568.1 Available also through the Library of Congress Web site as a raster image. AACR2: 651",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Brooklyn : Hughes & Fowler, c1922."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804g.pm005681",
+    "http://lccn.loc.gov/80695175",
+    "http://www.loc.gov/item/80695175/",
+    "http://www.loc.gov/resource/g3804g.pm005681/",
+    "https://hdl.loc.gov/loc.gmd/g3804g.pm005681",
+    "https://search.catalog.loc.gov/instances/53ee4098-3bb5-5899-b5fa-0d4595b5e2cd",
+    "https://www.loc.gov/item/80695175/"
+  ],
+  "dct_issued_s": "1922",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804g/pm005681.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80695175/\"}",
+  "dct_spatial_sm": [
+    "goshen",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Goshen (N.Y.)",
+    "United States--New York (State)--Goshen"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "dct_title_s": "Aero view of Goshen, New York : 1922",
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1922
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80695175",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

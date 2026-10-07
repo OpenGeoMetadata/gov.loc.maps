@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Dr. Joseph Chavanne's map of central Africa, most likely created in the early 1880s, is a product of the European imperial \"scramble for Africa.\" Although the Dutch and Portuguese established trading posts along the coasts of Africa as early as the late 15th century, the European race to claim significant tracts of territory in sub-Saharan Africa began in earnest only in the late 19th century. Belgium, Britain, France, and Germany all carved out competing claims, based on the discoveries of inland explorers whose expeditions Chavanne documents. Originally from Vienna, Chavanne was both a geographer and a traveler in his own right. His work was admired in Europe not only for his geographic knowledge and cartographic skill but for the ethnographic insights he drew from his own travels. Chavanne continued his work on central Africa with more extensive mapping of the entire Congo region.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: A. Hartleben's Verlag; Chavanne, Josef, 1846-1902",
+    "Publication statement: Wien ; Pest ; Leipzig : A. Hartleben's Verlag, [ca. 1885]",
+    "Relief shown by hachures."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8631s.ct000154",
+    "http://lccn.loc.gov/98687117",
+    "http://www.loc.gov/item/98687117/",
+    "http://www.loc.gov/resource/g8631s.ct000154/",
+    "https://hdl.loc.gov/loc.gmd/g8631s.ct000154",
+    "https://search.catalog.loc.gov/instances/fc005f49-c468-5599-9941-cc9d62a15742",
+    "https://www.loc.gov/item/98687117/"
+  ],
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8631/g8631s/ct000154.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687117/\"}",
+  "dct_spatial_sm": [
+    "africa",
+    "africa, central",
+    "central africa"
+  ],
+  "dct_subject_sm": [
+    "Africa, Central--Discovery and exploration--Maps",
+    "Africa--Africa, Central"
+  ],
+  "dct_temporal_sm": [
+    "1866 d1881",
+    "Wien ; Pest ; Leipzig : A. Hartleben's Verlag, [ca. 1885]"
+  ],
+  "dct_title_s": "Central-Afrika nach den neuesten Forschungen bearbeitet von Dr. Joseph Chavanne",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687117",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

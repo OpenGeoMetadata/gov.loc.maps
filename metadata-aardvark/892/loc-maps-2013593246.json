@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map of the Town (township) of Richland, Oswego County (N.Y.).",
+    "Cadastral map of the Town (township) of Richland, Oswego County (N.Y.). Shows patent areas (named), individual land tracts, tract acreages, and owners' names; the insets show land tracts, lots, building coverage, occupants' names, and relief (by hachures). LC copy imperfect: Mounted on cloth backing, laminated, darkened. Includes historical note, statistical table of the \"Town of Richland for the year ending June 1st 1860\", list of names of town supervisors (by year), inset \"Plan of Pulaski\" (with indexed business directory and index of residences), inset of Holmesville (with business directory), and illustrations of prominent buildings. Available also through the Library of Congress Web site as a raster image. 2 copies",
+    "Contributors: Butler, J. B.; French, Ebenezer",
+    "Includes historical note, statistical table of the \"Town of Richland for the year ending June 1st 1860\", list of names of town supervisors (by year), inset \"Plan of Pulaski\" (with indexed business directory and index of residences), inset of Holmesville (with business directory), and illustrations of prominent buildings.",
+    "LC copy imperfect: Mounted on cloth backing, laminated, darkened.",
+    "Publication statement: [New York State?] : [publisher not identified], [1861?]",
+    "Shows patent areas (named), individual land tracts, tract acreages, and owners' names; the insets show land tracts, lots, building coverage, occupants' names, and relief (by hachures)."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804r.la002119",
+    "http://lccn.loc.gov/2013593246",
+    "http://www.loc.gov/item/2013593246/",
+    "http://www.loc.gov/resource/g3804r.la002119/",
+    "https://hdl.loc.gov/loc.gmd/g3804r.la002119",
+    "https://search.catalog.loc.gov/instances/807517da-95de-5aed-aa55-e51394bc9840",
+    "https://www.loc.gov/item/2013593246/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804r/la002119.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593246/\"}",
+  "dct_spatial_sm": [
+    "holmesville",
+    "new york",
+    "new york (state)",
+    "pulaski",
+    "richland",
+    "richland (town)",
+    "town",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Holmesville (N.Y.)--Maps",
+    "Landowners--New York (State)--Holmesville--Maps",
+    "Landowners--New York (State)--Pulaski--Maps",
+    "Landowners--New York (State)--Richland (Town)--Maps",
+    "Pulaski (N.Y.)--Maps",
+    "Real property--New York (State)--Holmesville--Maps",
+    "Real property--New York (State)--Pulaski--Maps",
+    "Real property--New York (State)--Richland (Town)--Maps",
+    "Richland (N.Y. : Town)--Maps",
+    "United States--New York (State)--Holmesville",
+    "United States--New York (State)--Pulaski",
+    "United States--New York (State)--Richland (Town)"
+  ],
+  "dct_temporal_sm": [
+    "1861",
+    "[New York State?] : [publisher not identified], [1861?]"
+  ],
+  "dct_title_s": "Map of Richland, Oswego Co. N.Y. : from actual surveys",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593246",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

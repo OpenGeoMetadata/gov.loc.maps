@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Yazoo County, Mississippi"
+  ],
+  "dct_description_sm": [
+    "\"Note: The public roads where located by actual surveys. Made by Mercer & Fontaine.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing the names of landowners.",
+    "Contributors: Mercer, J. W.",
+    "Copy imperfect: Torn along vertical fold, minor losses in lower right corner, and mounted on cloth.",
+    "LC Land ownership maps, 390",
+    "On green sticker in lower right corner: G.W. Terry, Map colorer & mounter, Rice's Building, 70 Dearborn St., Chicago, Ill.",
+    "Publication statement: Yazoo City, Miss. : Mercer & Fontaine, 1874.",
+    "Relief shown by contours.",
+    "Relief shown by contours. Cadastral map showing the names of landowners. \"Note: The public roads where located by actual surveys. Made by Mercer & Fontaine.\" On green sticker in lower right corner: G.W. Terry, Map colorer & mounter, Rice's Building, 70 Dearborn St., Chicago, Ill. Copy imperfect: Torn along vertical fold, minor losses in lower right corner, and mounted on cloth. LC Land ownership maps, 390 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3983y.la000390",
+    "http://lccn.loc.gov/2012593696",
+    "http://www.loc.gov/item/2012593696/",
+    "http://www.loc.gov/resource/g3983y.la000390/",
+    "https://hdl.loc.gov/loc.gmd/g3983y.la000390",
+    "https://search.catalog.loc.gov/instances/a702bf93-8ee6-5861-90b2-42fa758ca399",
+    "https://www.loc.gov/item/2012593696/"
+  ],
+  "dct_issued_s": "1874",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3983/g3983y/la000390.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593696/\"}",
+  "dct_spatial_sm": [
+    "mississippi",
+    "united states",
+    "yazoo county"
+  ],
+  "dct_subject_sm": [
+    "Landowners--MIssissippi--Yazoo County--Maps",
+    "Real property--MIssissippi--Yazoo County--Maps",
+    "Roads--MIssissippi--Yazoo County--Maps",
+    "United States--Mississippi--Yazoo County",
+    "Yazoo County (Miss.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "dct_title_s": "Map of Yazoo County, Miss. : containing the public roads, schools, churches, precincts, farms, residences, gins &c. &c",
+  "gbl_dateRange_drsim": [
+    "[1874 TO 1874]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1874
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593696",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

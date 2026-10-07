@@ -1,0 +1,46 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Sanson, Guillaume",
+    "Publication statement: [S.l., 1680?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5672m.ct000432",
+    "http://lccn.loc.gov/2001620436",
+    "http://www.loc.gov/item/2001620436/",
+    "http://www.loc.gov/resource/g5672m.ct000432/",
+    "https://hdl.loc.gov/loc.gmd/g5672m.ct000432",
+    "https://search.catalog.loc.gov/instances/4a54f9f0-f331-5de6-b50a-d09ece7cc237",
+    "https://www.loc.gov/item/2001620436/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5672/g5672m/ct000432.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001620436/\"}",
+  "dct_spatial_sm": [
+    "mediterranean sea"
+  ],
+  "dct_subject_sm": [
+    "Mediterranean Sea",
+    "Mediterranean Sea--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1680",
+    "[S.l., 1680?]"
+  ],
+  "dct_title_s": "Carte nouvelle de la mer mediterranee",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001620436",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

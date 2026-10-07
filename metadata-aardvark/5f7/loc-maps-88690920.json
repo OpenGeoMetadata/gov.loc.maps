@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Map edited 1979.\"",
+    "Alternate title in right lower margin: Middlesex Co., Conn. : N4114.5-W7218/24.5X27.5 : 1979.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Conn. coordinate and UTM grids.",
+    "Contributors: Connecticut. State Highway Department; Geological Survey (U.S.)",
+    "In center upper margin: State of Connecticut, Highway Department.",
+    "Includes notes, insignia, \"Index to 1:24 000-scale maps,\" and location map.",
+    "LC copy fold-lined.",
+    "Publication statement: Reston, Va. : Interior--Geological Survey, 1979.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Alternate title in right lower margin: Middlesex Co., Conn. : N4114.5-W7218/24.5X27.5 : 1979. \"Map edited 1979.\" In center upper margin: State of Connecticut, Highway Department. Conn. coordinate and UTM grids. Includes notes, insignia, \"Index to 1:24 000-scale maps,\" and location map. Available also through the Library of Congress Web site as a raster image. LC copy fold-lined."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3783m.ct006290",
+    "http://lccn.loc.gov/88690920",
+    "http://www.loc.gov/item/88690920/",
+    "http://www.loc.gov/resource/g3783m.ct006290/",
+    "https://hdl.loc.gov/loc.gmd/g3783m.ct006290",
+    "https://search.catalog.loc.gov/instances/934a23b5-3fcf-5e39-9ebb-89275868849e",
+    "https://www.loc.gov/item/88690920/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd378/g3783/g3783m/ct006290.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690920/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "middlesex county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Middlesex County (Conn.)--Maps",
+    "United States--Connecticut--Middlesex County"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Middlesex County, Connecticut",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-88690920",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

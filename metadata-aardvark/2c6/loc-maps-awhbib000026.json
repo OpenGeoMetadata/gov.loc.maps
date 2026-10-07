@@ -1,0 +1,40 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Publication statement: Chicago; H.M. Coushá, 1933"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3820.awh00010",
+    "http://www.loc.gov/item/awhbib000026/",
+    "http://www.loc.gov/item/g3820.awh00010/",
+    "http://www.loc.gov/resource/g3820.awh00010/",
+    "https://hdl.loc.gov/loc.gmd/g3820.awh00010",
+    "https://www.loc.gov/item/awhbib000026/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3820/g3820/awh00010.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/awhbib000026/\"}",
+  "dct_rights_sm": [
+    "For rights relating to this resource, visit http://hdl.loc.gov/loc.natlib/awh.access"
+  ],
+  "dct_subject_sm": [
+    "Automobile driving--1930-1940.",
+    "Maps",
+    "Women--Transportation--1930-1940."
+  ],
+  "dct_title_s": "[Detail from \"Shell road map: Pennsylvania\" showing woman driving a car with license plates in the background]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-awhbib000026",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

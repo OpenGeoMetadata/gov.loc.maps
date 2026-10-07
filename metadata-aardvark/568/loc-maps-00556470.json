@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802440A1 (RO2077) 12-99.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1999]",
+    "Relief shown by shading.",
+    "Relief shown by shading. \"Base 802440A1 (RO2077) 12-99.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6490.ct000994",
+    "http://lccn.loc.gov/00556470",
+    "http://www.loc.gov/item/00556470/",
+    "http://www.loc.gov/resource/g6490.ct000994/",
+    "https://hdl.loc.gov/loc.gmd/g6490.ct000994",
+    "https://search.catalog.loc.gov/instances/74a592d3-9e11-50c9-be97-9aa2fe891af3",
+    "https://www.loc.gov/item/00556470/"
+  ],
+  "dct_issued_s": "1999",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6490/g6490/ct000994.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00556470/\"}",
+  "dct_spatial_sm": [
+    "austria"
+  ],
+  "dct_subject_sm": [
+    "Austria",
+    "Austria--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "dct_title_s": "Austria",
+  "gbl_dateRange_drsim": [
+    "[1999 TO 1999]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1999
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00556470",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

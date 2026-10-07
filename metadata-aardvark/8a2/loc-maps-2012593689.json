@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Madison County, Tennessee"
+  ],
+  "dct_description_sm": [
+    "Annotated.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beers, D. G. (Daniel G.); D.G. Beers & Co; H.J. Toudy & Co; Lanagan, J.; Worley & Bracher",
+    "County map showing rural buildings, householders' names, warranty-deed tracts, tract numbers, warrantees' names, and tract acreages; the insets show real-property tracts (lots), owners' names, and building coverage.",
+    "County map showing rural buildings, householders' names, warranty-deed tracts, tract numbers, warrantees' names, and tract acreages; the insets show real-property tracts (lots), owners' names, and building coverage. Hand col. to emphasize township boundaries and areas. Annotated. Includes index to businesses and 1870 population census. Insets: Medon -- Pinson -- Henderson -- Denmark -- Spring Creek. LC Land ownership maps, 874 Available also through the Library of Congress Web site as a raster image.",
+    "Hand col. to emphasize township boundaries and areas.",
+    "Includes index to businesses and 1870 population census.",
+    "Insets: Medon -- Pinson -- Henderson -- Denmark -- Spring Creek.",
+    "LC Land ownership maps, 874",
+    "Publication statement: Philadelphia : D.G. Beers & Co., 1877"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3963m.la000874",
+    "http://lccn.loc.gov/2012593689",
+    "http://www.loc.gov/item/2012593689/",
+    "http://www.loc.gov/resource/g3963m.la000874/",
+    "https://hdl.loc.gov/loc.gmd/g3963m.la000874",
+    "https://search.catalog.loc.gov/instances/5c71271e-eb95-51d9-962d-aeaba7c0dc9f",
+    "https://www.loc.gov/item/2012593689/"
+  ],
+  "dct_issued_s": "1877",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3963/g3963m/la000874.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593689/\"}",
+  "dct_spatial_sm": [
+    "madison county",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Tennessee--Madison County--Maps",
+    "Madison County (Tenn.)--Maps",
+    "Real property--Tennessee--Madison County--Maps",
+    "United States--Tennessee--Madison County"
+  ],
+  "dct_temporal_sm": [
+    "1877"
+  ],
+  "dct_title_s": "Map of Madison County, Tenn. : from actual surveys and official records",
+  "gbl_dateRange_drsim": [
+    "[1877 TO 1877]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1877
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593689",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Approved--T.C. Mendenhall, Superintendent, U.S.C. & G.S.\"",
+    "Also shows block numbers and major buildings.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ewing, Maskell C.; U.S. Coast and Geodetic Survey",
+    "DCP",
+    "Includes text.",
+    "LC copy fold-lined, taped, and annotated in pencil: Original is in Coast Survey.",
+    "Publication statement: [Washington, D.C.?] : U.S.C. & G.S., [1837?]",
+    "Relief shown by hachures. Depths shown by contours and soundings.",
+    "Relief shown by hachures. Depths shown by contours and soundings. Also shows block numbers and major buildings. \"Approved--T.C. Mendenhall, Superintendent, U.S.C. & G.S.\" Includes text. Available also through the Library of Congress Web site as a raster image. LC copy fold-lined, taped, and annotated in pencil: Original is in Coast Survey. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct005046",
+    "http://lccn.loc.gov/87695755",
+    "http://www.loc.gov/item/87695755/",
+    "http://www.loc.gov/resource/g3851p.ct005046/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct005046",
+    "https://search.catalog.loc.gov/instances/0e5e37bf-7932-5547-94a8-45736368b123",
+    "https://www.loc.gov/item/87695755/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct005046.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695755/\"}",
+  "dct_spatial_sm": [
+    "anacostia river estuary",
+    "district of columbia",
+    "maryland",
+    "potomac river estuary",
+    "united states",
+    "virginia",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Harbors--Washington (D.C.)--Maps",
+    "Nautical charts--Anacostia River Estuary (Md. and Washington, D.C.)",
+    "Nautical charts--Potomac River Estuary",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Anacostia River Estuary",
+    "United States--District of Columbia--Washington--Potomac River Estuary",
+    "United States--Maryland--Anacostia River Estuary",
+    "United States--Maryland--Potomac River Estuary",
+    "United States--Virginia--Potomac River Estuary",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1837",
+    "[Washington, D.C.?] : U.S.C. & G.S., [1837?]"
+  ],
+  "dct_title_s": "Chart of the Potomac River and Eastern Branch from the Sister Islands to Geesboro Point and thence to the Navy Yard Bridge : with the topography of the adjacent country : made in pursuance of a resolution of the Corporation of the City of Washington, approved 26th May 1837",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695755",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

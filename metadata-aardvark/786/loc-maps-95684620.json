@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802330 (R00002) 7-94.\"",
+    "\"Base 802330 (R00002) 7-94.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1994]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6080.ct001662",
+    "http://lccn.loc.gov/95684620",
+    "http://www.loc.gov/item/95684620/",
+    "http://www.loc.gov/resource/g6080.ct001662/",
+    "https://hdl.loc.gov/loc.gmd/g6080.ct001662",
+    "https://search.catalog.loc.gov/instances/2017cc47-daa0-514c-8e18-2961f398ffe9",
+    "https://www.loc.gov/item/95684620/"
+  ],
+  "dct_issued_s": "1994",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6080/g6080/ct001662.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95684620/\"}",
+  "dct_spatial_sm": [
+    "germany"
+  ],
+  "dct_subject_sm": [
+    "Germany",
+    "Germany--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_title_s": "Germany",
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95684620",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Indexed.",
+    "LC Luso-Hispanic World, 757",
+    "Maggs number annotated in pencil in lower right corner: 280.",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Watermark: D. & C. Blauw. Oriented with north to the left. Relief shown pictorially. Soundings shown in fathoms. Mounted on cloth backing. Maggs number annotated in pencil in lower right corner: 280. Shows coast in the regions of Añasco and Mayagüez. Indexed. Scale ca. 1:35,000. LC Luso-Hispanic World, 757 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Mounted on cloth backing.",
+    "Oriented with north to the left.",
+    "Publication statement: [1780?]",
+    "Relief shown pictorially. Soundings shown in fathoms.",
+    "Scale ca. 1:35,000.",
+    "Shows coast in the regions of Añasco and Mayagüez.",
+    "Vault",
+    "Watermark: D. & C. Blauw."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4974a.lh000757",
+    "http://lccn.loc.gov/73691814",
+    "http://www.loc.gov/item/73691814/",
+    "http://www.loc.gov/resource/g4974a.lh000757/",
+    "https://hdl.loc.gov/loc.gmd/g4974a.lh000757",
+    "https://search.catalog.loc.gov/instances/353c9829-ecf2-5707-9a3f-b49daaf8b967",
+    "https://www.loc.gov/item/73691814/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4974/g4974a/lh000757.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691814/\"}",
+  "dct_spatial_sm": [
+    "añasco region",
+    "mayagüez region",
+    "puerto rico"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Puerto Rico--Añasco Region--Maps--Early works to 1800",
+    "Coasts--Puerto Rico--Mayagüez Region--Maps--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "Puerto Rico--Añasco Region",
+    "Puerto Rico--Mayagüez Region"
+  ],
+  "dct_temporal_sm": [
+    "1780",
+    "[1780?]"
+  ],
+  "dct_title_s": "Plano de la enzenada de San Franco. en la parte occl. de la ysla de Puerto Rico",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691814",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

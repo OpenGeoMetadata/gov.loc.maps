@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"4-R-39119.\"",
+    "\"May 1985.\"",
+    "\"May 1985.\" Alternate title at lower right: Camden Co., N.J. : N3934-W7443.5/26X25.5, 1978. UTM grid. Includes notes. \"4-R-39119.\" Available also through the Library of Congress Web site as a raster image.",
+    "Alternate title at lower right: Camden Co., N.J. : N3934-W7443.5/26X25.5, 1978.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); United States. Soil Conservation Service",
+    "Includes notes.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1985.",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3813c.ct006830",
+    "http://lccn.loc.gov/85695370",
+    "http://www.loc.gov/item/85695370/",
+    "http://www.loc.gov/resource/g3813c.ct006830/",
+    "https://hdl.loc.gov/loc.gmd/g3813c.ct006830",
+    "https://search.catalog.loc.gov/instances/36de424b-639a-5f23-9a0e-5a999b38cb72",
+    "https://www.loc.gov/item/85695370/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3813/g3813c/ct006830.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85695370/\"}",
+  "dct_spatial_sm": [
+    "camden county",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Camden County (N.J.)--Maps",
+    "United States--New Jersey--Camden County"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Camden County, New Jersey",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85695370",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

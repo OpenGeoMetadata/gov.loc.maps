@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Description derived from published bibliography.",
+    "From Harper's weekly, v. 8, July 9, 1864. p. 438.",
+    "From Harper's weekly, v. 8, July 9, 1864. p. 438. This map was acquired by the Library of Congress in 1948 with the purchase of the papers and maps of Maj. Jedediah Hotchkiss. Map of central Virginia showing place names, roads, railroads, and rivers. Troop positions are not depicted. Map illustrations on verso: Late Brigadier- General Hays -- Brigadier-General F.C. Barlow -- General Grant's campaign, a view on the Pamunkey -- General Grant's campaign, landing of cattle for the use of the army. Description derived from published bibliography. Scale ca. 1:900,000. LC Civil War Maps (2nd ed.), 492.5 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 492.5",
+    "Map illustrations on verso: Late Brigadier- General Hays -- Brigadier-General F.C. Barlow -- General Grant's campaign, a view on the Pamunkey -- General Grant's campaign, landing of cattle for the use of the army.",
+    "Map of central Virginia showing place names, roads, railroads, and rivers. Troop positions are not depicted.",
+    "Publication statement: [S.l.], 1864.",
+    "Scale ca. 1:900,000.",
+    "This map was acquired by the Library of Congress in 1948 with the purchase of the papers and maps of Maj. Jedediah Hotchkiss."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.cw0492500",
+    "http://lccn.loc.gov/99448873",
+    "http://www.loc.gov/item/99448873/",
+    "http://www.loc.gov/resource/g3880.cw0492500/",
+    "https://hdl.loc.gov/loc.gmd/g3880.cw0492500",
+    "https://search.catalog.loc.gov/instances/78a33701-756b-507c-8839-09307110e6f5",
+    "https://www.loc.gov/item/99448873/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/cw0492500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448873/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Map illustrating General Grant's campaign in Virginia",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448873",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

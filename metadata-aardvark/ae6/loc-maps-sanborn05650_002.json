@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "519. Other places as they appear on original: Mountain Lake, Packanack Lake, Wayne.",
+    "9 sheet(s).",
+    "Aug 1935 - Feb 1947.",
+    "Aug 1935 - Feb 1947. 9 sheet(s). 519. Other places as they appear on original: Mountain Lake, Packanack Lake, Wayne.",
+    "Publication statement: Sanborn Map Company, Aug 1935 - Feb 1947"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814wm.g3814wm_g056501947",
+    "http://www.loc.gov/item/sanborn05650_002/",
+    "http://www.loc.gov/resource/g3814wm.g3814wm_g056501947/",
+    "https://hdl.loc.gov/loc.gmd/g3814wm.g3814wm_g056501947",
+    "https://www.loc.gov/item/sanborn05650_002",
+    "https://www.loc.gov/item/sanborn05650_002/",
+    "https://www.loc.gov/resource/g3814wm.g3814wm_g056501947"
+  ],
+  "dct_issued_s": "1947-08",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn05650_002/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381m/g3814m/g3814wm/g3814wm_g056501947/05650_1947-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn05650_002/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "mountain lake",
+    "new jersey",
+    "packanack lake",
+    "passaic county",
+    "united states",
+    "wayne",
+    "wayne twp"
+  ],
+  "dct_temporal_sm": [
+    "1947-08"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Wayne Twp, Passaic County, New Jersey.",
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1947]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn05650_002",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

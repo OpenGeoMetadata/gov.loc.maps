@@ -1,0 +1,75 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "New York City",
+    "Title of volume 1: Map of 23d Ward",
+    "Title of volume 2: Southern half of map of 24th Ward, vol. II",
+    "Title of volume 3: Northern half of map of 24th Ward, vol. III",
+    "Title of volume 4: Map of Southern part of 12th Ward",
+    "Title of volume 5: Map of Northern part of 12th Ward"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beers, F. W. (Frederick W.), cartographer",
+    "Each volume has the ward coverage at head of title, for example, \"Southern half of map of 24th Ward, vol. II, New York City.\"",
+    "List of geographical atlases in the Library of Congress, 2296",
+    "On title page of volumes 4 and 5: compiled and drawn by F.W. Beers., C.E., assisted by the late Dr. H. Windwart and others.",
+    "Publication statement: New York : published by J. B. Beers & Co., no. 36 Vesey Street, 1876-",
+    "Title from \"List of geographical atlases.\"",
+    "Title from \"List of geographical atlases.\" Each volume has the ward coverage at head of title, for example, \"Southern half of map of 24th Ward, vol. II, New York City.\" On title page of volumes 4 and 5: compiled and drawn by F.W. Beers., C.E., assisted by the late Dr. H. Windwart and others. List of geographical atlases in the Library of Congress, 2296 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2020593207",
+    "http://www.loc.gov/item/2020593207/",
+    "http://www.loc.gov/resource/gmdatlases.2020593207-001/",
+    "http://www.loc.gov/resource/gmdatlases.2020593207-002/",
+    "http://www.loc.gov/resource/gmdatlases.2020593207-003/",
+    "http://www.loc.gov/resource/gmdatlases.2020593207-004/",
+    "http://www.loc.gov/resource/gmdatlases.2020593207-005/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2020593207-001",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2020593207-002",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2020593207-003",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2020593207-004",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2020593207-005",
+    "https://search.catalog.loc.gov/instances/e132810f-fa2a-5e8e-9c9b-a783bd14b09e",
+    "https://www.loc.gov/item/2020593207/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:20:20:59:32:07:-0:01:2020593207-001:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2020593207/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--New York (State)--New York--Maps",
+    "Real property--New York (State)--New York--Maps",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "New York City from official records and surveys",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2020593207",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

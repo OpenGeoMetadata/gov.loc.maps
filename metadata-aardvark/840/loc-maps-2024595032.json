@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "ATSDR's Geospatial Research, Analysis, & Services Program (GRASP) created the Centers for Disease Control and Prevention and Agency for Toxic Substances and Disease Registry Social Vulnerability Index (hereafter, CDC/ATSDR SVI or SVI) to help public health officials and emergency response planners identify and map the communities that will most likely need support before, during, and after a hazardous event. SVI indicates the relative vulnerability of every U.S. census tract. Census tracts are subdivisions of counties for which the Census collects statistical data. SVI ranks the tracts on 16 social factors, such as unemployment, racial and ethnic minority status, and disability status. Then, SVI further groups the factors into four related themes. Thus, each tract receives a ranking for each Census variable and for each of the four themes as well as an overall ranking.",
+    "Contributors: Center for Disease Control, cartographer; United States Department of Health and Human Services, cartographer; United States. Agency for Toxic Substances and Disease Registry, cartographer",
+    "Covers 7 datasets which span 2000, 2010, 2014, 2016, 2018a, 2020, and 2022. Each year has a county level geodatabase, tract level geodatabase, and a documentation file. 2014-2022 also has a tribal tract geodatabase.",
+    "Publication statement: Atlanta, Georgia: United States Department of Health and Human Services, Center for Disease Control, 2000-2022."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024595032",
+    "http://www.loc.gov/item/2024595032/",
+    "http://www.loc.gov/resource/gdcdatasets.2024595032_2000/",
+    "http://www.loc.gov/resource/gdcdatasets.2024595032_2010/",
+    "http://www.loc.gov/resource/gdcdatasets.2024595032_2014/",
+    "http://www.loc.gov/resource/gdcdatasets.2024595032_2016/",
+    "http://www.loc.gov/resource/gdcdatasets.2024595032_2018/",
+    "http://www.loc.gov/resource/gdcdatasets.2024595032_2020/",
+    "http://www.loc.gov/resource/gdcdatasets.2024595032_2022/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024595032_2000",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024595032_2010",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024595032_2014",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024595032_2016",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024595032_2018",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024595032_2020",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024595032_2022",
+    "https://search.catalog.loc.gov/instances/f2c9675b-aaa4-5e3c-bf45-10d3eac4af62",
+    "https://www.loc.gov/item/2024595032/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2024595032/\"}",
+  "dct_rights_sm": [
+    "Public Domain https://creativecommons.org/public-domain/"
+  ],
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Disasters--Social aspects--United States--Maps",
+    "Emergency management",
+    "Environmental risk assessment",
+    "Natural disasters--Risk assessment--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2000/2022"
+  ],
+  "dct_title_s": "Social vulnerability index",
+  "gbl_dateRange_drsim": [
+    "[2000 TO 2022]"
+  ],
+  "gbl_displayNote_sm": [
+    "The contents of the Library of Congress Social vulnerability index collection are in the public domain and are free to use and reuse.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024595032",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\" I.W. Field, map mounter, 410 Walnut St. Phila.\"",
+    "\"Printed by F. Bourquin, 320 Chestnut St. Phila.\"",
+    "Ancillary maps: Abingdon -- Batavia -- Brookville -- Fairfield -- Glasgow -- Libertyville -- Lockridge -- Pleasant Plain -- Salina.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Warner, George E., 1826?-1917; Worley & Bracher",
+    "Includes business directories, distance chart, and population table.",
+    "LC Land ownership maps, 192",
+    "LC copy sectioned in four, mounted on cloth, and laminated.",
+    "Publication statement: Fairfield, Iowa : Harrison & Warner, 1871.",
+    "Shows landowners.",
+    "Shows landowners. \" I.W. Field, map mounter, 410 Walnut St. Phila.\" \"Printed by F. Bourquin, 320 Chestnut St. Phila.\" Includes business directories, distance chart, and population table. LC copy sectioned in four, mounted on cloth, and laminated. Ancillary maps: Abingdon -- Batavia -- Brookville -- Fairfield -- Glasgow -- Libertyville -- Lockridge -- Pleasant Plain -- Salina. LC Land ownership maps, 192 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4153j.la000192",
+    "http://lccn.loc.gov/2012587550",
+    "http://www.loc.gov/item/2012587550/",
+    "http://www.loc.gov/resource/g4153j.la000192/",
+    "https://hdl.loc.gov/loc.gmd/g4153j.la000192",
+    "https://search.catalog.loc.gov/instances/14bf1640-1b9d-58fe-87b9-9ad1fa702499",
+    "https://www.loc.gov/item/2012587550/"
+  ],
+  "dct_issued_s": "1871",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd415/g4153/g4153j/la000192.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012587550/\"}",
+  "dct_spatial_sm": [
+    "iowa",
+    "jefferson county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Jefferson County (Iowa)--Maps",
+    "Landowners--Iowa--Jefferson County--Maps",
+    "Real property--Iowa--Jefferson County--Maps",
+    "United States--Iowa--Jefferson County"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "dct_title_s": "Map of Jefferson County, Iowa",
+  "gbl_dateRange_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1871
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012587550",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

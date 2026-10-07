@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to act of Congress in the Clerks Office of the U.S. District Court by V.P. Corbett [in the year] 1861 for the Dist. of Colum[bi]a.\"",
+    "\"Entered according to act of Congress in the Clerks Office of the U.S. District Court by V.P. Corbett [in the year] 1861 for the Dist. of Colum[bi]a.\" \"Map of northern Virginia showing troop camps, entrenchments, forts, batteries, roads, railroads, street pattern of Washington and Alexandria, towns, drainage, vegetation and some indication of relief by hachures\" -- LC Civil War maps / Stephenson. Depths shown by isolines. Shows Manassas during the Battle of Bull Run and the Washington Metropolitan Area. This item is in the Map Collection of the Library of Virginia; please contact the Library's Archives Research Services department for more information. LC Civil War maps (2nd ed.), 563 Available also through the Library of Congress Web site as a raster image. C.1, 1967, source unknown, gift, ALE; c.2, 1967, photocopy, LVA, ALE.",
+    "\"Map of northern Virginia showing troop camps, entrenchments, forts, batteries, roads, railroads, street pattern of Washington and Alexandria, towns, drainage, vegetation and some indication of relief by hachures\" -- LC Civil War maps / Stephenson.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "C.1, 1967, source unknown, gift, ALE; c.2, 1967, photocopy, LVA, ALE.",
+    "Contributors: A. Hoen & Co.; Corbett, V. P.",
+    "Depths shown by isolines.",
+    "LC Civil War maps (2nd ed.), 563",
+    "Publication statement: Washington, D.C. : V.P. Corbett ; Baltimore, [Md.] : Lith. by A. Hoen & Co., 1861.",
+    "Shows Manassas during the Battle of Bull Run and the Washington Metropolitan Area.",
+    "This item is in the Map Collection of the Library of Virginia; please contact the Library's Archives Research Services department for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/glva01.lva00010",
+    "http://www.loc.gov/item/lva0000010/",
+    "http://www.loc.gov/resource/glva01.lva00010/",
+    "https://hdl.loc.gov/loc.ndlpcoop/glva01.lva00010",
+    "https://www.loc.gov/item/lva0000010/"
+  ],
+  "dct_issued_s": "1861-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdlva/glva/glva01/lva00010.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/lva0000010/\"}",
+  "dct_spatial_sm": [
+    "manassas region",
+    "united states",
+    "virginia",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "Bull Run, 1st Battle of, Va",
+    "Bull Run, 1st Battle of, Va., 1861--Maps",
+    "Manassas Region (Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia--Manassas Region",
+    "United States--Washington Metropolitan Area",
+    "Washington Metropolitan Area--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1861-01-01"
+  ],
+  "dct_title_s": "Map of the seat of war showing the battles of July 18th & 21st, 1861",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-lva0000010",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

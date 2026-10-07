@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Civil War salted paper maps. AL-30.",
+    "Contributors: Michler, N. (Nathaniel), 1827-1881; Weyss, J. E.",
+    "Library of Congress. Civil War maps (2nd ed.), 445",
+    "Publication statement: [S.l. : s.n.] , 1863.",
+    "Shows roads, railroad, drainage, and troop positions are indicated in color. There is no explanation for the numbers of colors used to denote troop positions. The base map has faded.",
+    "Shows roads, railroad, drainage, and troop positions are indicated in color. There is no explanation for the numbers of colors used to denote troop positions. The base map has faded. Sun print. Similar copy, more legible but with some different information on base map, see G3964.M9S5 1863 .W4 CW 446. Civil War salted paper maps. AL-30. Library of Congress. Civil War maps (2nd ed.), 445 Available also through the Library of Congress Web site as a raster image.",
+    "Similar copy, more legible but with some different information on base map, see G3964.M9S5 1863 .W4 CW 446.",
+    "Sun print."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3964m.cw0445000",
+    "http://lccn.loc.gov/2007627471",
+    "http://www.loc.gov/item/2007627471/",
+    "http://www.loc.gov/resource/g3964m.cw0445000/",
+    "https://hdl.loc.gov/loc.gmd/g3964m.cw0445000",
+    "https://search.catalog.loc.gov/instances/4af7df91-9705-5a78-990e-0a391e97aae0",
+    "https://www.loc.gov/item/2007627471/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964m/cw0445000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007627471/\"}",
+  "dct_spatial_sm": [
+    "murfreesboro",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Murfreesboro (Tenn.)--Maps",
+    "Stones River, Battle of, Murfreesboro, Tenn",
+    "Stones River, Battle of, Murfreesboro, Tenn., 1862-1863--Maps",
+    "United States--Tennessee--Murfreesboro"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Topographical sketch of the environs of Murfreesboro, Tennessee / surveyed Jan. 1863 under the direction of Capt. N. Michler, U.S.A., Chief Topl. Engr., Army of the Cumberland, by Maj. J.E. Weyss, Capt. W. Starling, Capt. D. Thruston, Capt. J.W. Stinchcomb, Lieut. M. Allen, Lieut. Mackelfatrick, U.S. Vols",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007627471",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

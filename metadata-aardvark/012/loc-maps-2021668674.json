@@ -1,0 +1,80 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Tabvla Sexta De Asia"
+  ],
+  "dct_description_sm": [
+    "Content in Latin.",
+    "Contributors: Berlinghieri, Francesco, 1440-1501 Contributor.; Ptolemy, 2nd century Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map : woodcut ; 29 x 48 centimeters.",
+    "Publication statement: Florence : Francesco Berlinghieri, 1482.",
+    "This map of the Roman province of Asia is from Ptolemy's Geographia, which was published in 1482 in an edition by Francesco Berlinghieri. The depiction of Arabia is regarded as the basis for future representations of the peninsula, which changed as new and more accurate geographic information reached Europe. The Qatar Peninsula is labeled Ichthiophagi--literally, \"fish eaters.\" It is accurately located on the southern coast of the Arabian Gulf. However the island of Tyllo (or Tylos, present-day Bahrain), which should be across from Qatar, is too far east, near the Strait of Hormuz. Boundaries are shown as thick double lines. Mountains are represented as slabs and shaded; they have a double outline, perhaps an attempt to indicate height. The indentures of the coastline, the lines of rivers, and outlines of the mountains have a characteristic semi-circular appearance. Nomenclature is approximately the same as in the 1478 edition of Geographia printed in Rome. The engraver is unknown, but scholars have suggested that it was Francesco Rosselli, one of the most important engravers in Florence at the time. Claudius Ptolemaeus, known in English as Ptolemy, was a mathematician, astronomer, geographer, and astrologer who was born in the late first century, most likely in a town in the Thebaid called Ptolemais Hermiou in Roman Egypt. He lived in Egypt and died in Alexandria around the year 168. Berlinghieri, a Florentine scholar and diplomat, was the first modern European to interpret, expand upon, and republish the works of Ptolemy.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668674",
+    "http://www.loc.gov/item/2021668674/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_16196/",
+    "http://www.loc.gov/resource/wdl.16196/",
+    "https://hdl.loc.gov/loc.wdl/wdl.16196",
+    "https://www.loc.gov/item/2021668674/"
+  ],
+  "dct_issued_s": "1482-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_16196.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/16/19/6/wdl_16196/wdl_16196.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:16:19:6:wdl_16196:197/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668674/\"}",
+  "dct_spatial_sm": [
+    "bahrain",
+    "iran, islamic republic of",
+    "jordan",
+    "kuwait",
+    "oman",
+    "qatar",
+    "saudi arabia",
+    "united arab emirates",
+    "yemen"
+  ],
+  "dct_subject_sm": [
+    "83 to 168",
+    "Arabian Gulf",
+    "Arabian Peninsula",
+    "Bahrain",
+    "Iran, Islamic Republic of",
+    "Jordan",
+    "Kuwait",
+    "Oman",
+    "Persian Gulf",
+    "Qatar",
+    "Red Sea",
+    "Saudi Arabia",
+    "United Arab Emirates",
+    "Yemen"
+  ],
+  "dct_temporal_sm": [
+    "1482-01-01"
+  ],
+  "dct_title_s": "Sixth Map of Asia.",
+  "gbl_dateRange_drsim": [
+    "[1482 TO 1482]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1482
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668674",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

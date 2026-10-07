@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Asher & Co",
+    "Description derived from published bibliography.",
+    "Library of Congress. Civil War maps (2nd ed.), 21",
+    "Map of southeastern United States showing forts and battlefields, railroads, state boundaries, rivers, and town.",
+    "Map of southeastern United States showing forts and battlefields, railroads, state boundaries, rivers, and town. Principal engagements are not described in this or in the following issues (LC Civil War Maps (2nd ed.), nos. 22 and 23). Population statistics and \"Date[s] of admission and secession of the Southern States\" are given in lower left corner. Description derived from published bibliography. Scale ca. 1:3,250,000. Library of Congress. Civil War maps (2nd ed.), 21 Available also through the Library of Congress web site as raster image.",
+    "Population statistics and \"Date[s] of admission and secession of the Southern States\" are given in lower left corner.",
+    "Principal engagements are not described in this or in the following issues (LC Civil War Maps (2nd ed.), nos. 22 and 23).",
+    "Publication statement: Buffalo, N.Y. E. R. Jewett & Co., engravers c1862.",
+    "Scale ca. 1:3,250,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701s.cw0021000",
+    "http://lccn.loc.gov/99466783",
+    "http://www.loc.gov/item/99466783/",
+    "http://www.loc.gov/resource/g3701s.cw0021000/",
+    "https://hdl.loc.gov/loc.gmd/g3701s.cw0021000",
+    "https://search.catalog.loc.gov/instances/b7121b87-2edd-5bb6-9675-3b5d63477a9b",
+    "https://www.loc.gov/item/99466783/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701s/cw0021000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466783/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "The historical war map",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466783",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

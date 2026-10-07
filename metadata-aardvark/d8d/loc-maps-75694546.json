@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Includes illus. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 268 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Contributors: Bailey, O. H. (Oakley Hoopes), 1843-1947; Hazen, J. C., joint author",
+    "Includes illus. and index to points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 268",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Boston [1878]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764a.pm002680",
+    "http://lccn.loc.gov/75694546",
+    "http://www.loc.gov/item/75694546/",
+    "http://www.loc.gov/resource/g3764a.pm002680/",
+    "https://hdl.loc.gov/loc.gmd/g3764a.pm002680",
+    "https://search.catalog.loc.gov/instances/3e1aa38a-8a74-595b-b648-c0b3d9f96aee",
+    "https://www.loc.gov/item/75694546/"
+  ],
+  "dct_issued_s": "1878",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764a/pm002680.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694546/\"}",
+  "dct_spatial_sm": [
+    "ashland",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ashland (Mass.)",
+    "United States--Massachusetts--Ashland"
+  ],
+  "dct_temporal_sm": [
+    "1878"
+  ],
+  "dct_title_s": "View of Ashland, Mass. 1878",
+  "gbl_dateRange_drsim": [
+    "[1878 TO 1878]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1878
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694546",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

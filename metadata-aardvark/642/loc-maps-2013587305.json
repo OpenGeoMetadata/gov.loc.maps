@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also available online.",
+    "Contributors: Ashworth, Chad E.; Geological Survey (U.S.); Lawton (Okla.); Rendon, Samuel H.; Smith, S. Jerrod (Stephen Jerrod), 1977-",
+    "Includes bibliographical references (p. 9).",
+    "Includes bibliographical references (p. 9). Also available online.",
+    "Publication statement: Reston, Va. : U.S. Dept. of Interior, U.S. Geological Survey, 2012."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2013587305",
+    "http://pubs.usgs.gov/sir/2012/5026/",
+    "http://www.loc.gov/item/2013587305/",
+    "https://www.loc.gov/item/2013587305/"
+  ],
+  "dct_issued_s": "2012",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2013587305/\"}",
+  "dct_spatial_sm": [
+    "ellsworth",
+    "lake",
+    "lawtonka",
+    "lawtonka dam",
+    "oklahoma"
+  ],
+  "dct_subject_sm": [
+    "Dam failures--Oklahoma--Ellsworth, Lake--Maps",
+    "Dam failures--Oklahoma--Lawtonka Dam--Maps",
+    "Dam failures--Oklahoma--Lawtonka, Lake--Maps",
+    "Ellsworth, Lake, (Okla.)--Maps",
+    "Floodplain management--Oklahoma--Ellsworth, Lake--Maps",
+    "Floodplain management--Oklahoma--Lawtonka Dam--Maps",
+    "Floodplain management--Oklahoma--Lawtonka, Lake--Maps",
+    "Lawtonka, Lake, (Okla.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_title_s": "Dam-breach analysis and flood-inundation mapping for Lakes Ellsworth and Lawtonka near Lawton, Oklahoma",
+  "gbl_dateRange_drsim": [
+    "[2012 TO 2012]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013587305",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

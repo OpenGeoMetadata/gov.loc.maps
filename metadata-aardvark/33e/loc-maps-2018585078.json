@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Collection material in English.",
+    "Contributors: Deyo, Morton L. (Morton Lyndholm), 1887-1973., collector; United States. Army; United States. Navy",
+    "Finding aid available in the Geography and Map Reading Room and at http://hdl.loc.gov/loc.gmd/eadgmd.gm018006",
+    "Maps transferred from the Manuscript Division Morton L. Deyo Papers in 1996.",
+    "Materials donated by the Naval Historical Foundation.",
+    "Publication statement: [Various places] : [various publishers], 1944-1945.",
+    "The collection consists of maps related to Morton L. Deyo's role as a naval task force commander during World War II. Six of the maps depict amphibious landing intelligence in southern France. Two maps show operations in the Pacific.",
+    "Title supplied by cataloger.",
+    "Transfer ; LC Manuscript Division."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018585078",
+    "http://www.loc.gov/item/2018585078/",
+    "http://www.loc.gov/resource/gmdfindingaids.2018585078/",
+    "https://hdl.loc.gov/loc.gmd/gmdfindingaids.2018585078",
+    "https://search.catalog.loc.gov/instances/ff614237-6ba6-5ebd-b03a-060f03648b87",
+    "https://www.loc.gov/item/2018585078/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdfindingaids:2018585078:2018585078-001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018585078/\"}",
+  "dct_spatial_sm": [
+    "cannes",
+    "france",
+    "grasse",
+    "japan",
+    "nice"
+  ],
+  "dct_subject_sm": [
+    "France--Cannes",
+    "France--Grasse",
+    "France--Nice",
+    "Japan",
+    "United States.--Army",
+    "United States.--Navy",
+    "World War, 1939-1945--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1944/1945"
+  ],
+  "dct_title_s": "Morton L. Deyo World War II map collection",
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1945]"
+  ],
+  "gbl_displayNote_sm": [
+    "Open to research.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1944
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018585078",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

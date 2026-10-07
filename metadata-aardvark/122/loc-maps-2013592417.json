@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Map of Indian territory, edition of July 1902, revised to date, and county divisions made under direction of Sequoyah Statehood Convention, August and September 1905; by D.W. Bolich, Civil Engineer, Muskogee, Ind. Ter.\"",
+    "AACR2",
+    "Acquisitions control no.: 99-6",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Covers part of eastern Oklahoma.",
+    "Publication statement: St. Louis, MO : Aug. Gast Bank Note & Litho. Company Map Publishers, [1905]",
+    "Shows names of land owners and railroads.",
+    "Shows names of land owners and railroads. Covers part of eastern Oklahoma. \"Map of Indian territory, edition of July 1902, revised to date, and county divisions made under direction of Sequoyah Statehood Convention, August and September 1905; by D.W. Bolich, Civil Engineer, Muskogee, Ind. Ter.\" Available also through the Library of Congress Web site as a raster image. Acquisitions control no.: 99-6 AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2013592417",
+    "http://www.loc.gov/item/2013592417/",
+    "http://www.loc.gov/resource/g4021g.ct011168/",
+    "https://hdl.loc.gov/loc.gmd/g4021g.ct011168",
+    "https://search.catalog.loc.gov/instances/67c00f0a-9a68-5e98-a5a3-5d677363909a",
+    "https://www.loc.gov/item/2013592417/"
+  ],
+  "dct_issued_s": "1905",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4021/g4021g/ct011168.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013592417/\"}",
+  "dct_spatial_sm": [
+    "oklahoma",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Oklahoma--Maps",
+    "Railroads--Oklahoma--Maps",
+    "United States--Oklahoma"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dct_title_s": "State of Sequoyah",
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1905]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1905
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013592417",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: A. Hoen & Co., printer; R.L. Polk & Co., cartographer",
+    "Includes list of street car routes.",
+    "LC Ward maps 22",
+    "LC copy mounted on cloth.",
+    "Publication statement: Baltimore, Md. : photolith. by A. Hoen & Co., [1887]; [Baltimore] : [R.L. Polk & Co.], [1887]",
+    "Shows wards, precincts, and police precincts.",
+    "Shows wards, precincts, and police precincts. Includes list of street car routes. LC copy mounted on cloth. LC Ward maps 22 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2020587112",
+    "http://www.loc.gov/item/2020587112/",
+    "http://www.loc.gov/resource/g3844b.wd000022/",
+    "https://hdl.loc.gov/loc.gmd/g3844b.wd000022",
+    "https://search.catalog.loc.gov/instances/8d74b04e-3ad8-536a-8076-3b7299d19638",
+    "https://www.loc.gov/item/2020587112/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3844/g3844b/wd000022.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2020587112/\"}",
+  "dct_spatial_sm": [
+    "baltimore",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Baltimore (Md.)--Administrative and political divisions--Maps",
+    "United States--Maryland--Baltimore"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "Map of Baltimore : published with R.L. Polk & Co's Baltimore City directory for 1887",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2020587112",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

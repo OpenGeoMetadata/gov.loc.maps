@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Williams, W. A.",
+    "Description derived from published bibliography.",
+    "Indicates fortifications, half-mile distance circles centered on Fort Pickens, beacons, roads and streets, vegetation, and a few soundings.",
+    "Indicates fortifications, half-mile distance circles centered on Fort Pickens, beacons, roads and streets, vegetation, and a few soundings. Description derived from published bibliography. Scale ca. 1:31,000. LC Civil War Maps (2nd ed.), 120 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 120",
+    "Publication statement: Boston, L. Prang & Co., [186-]",
+    "Scale ca. 1:31,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3934p.cw0120000",
+    "http://lccn.loc.gov/99447280",
+    "http://www.loc.gov/item/99447280/",
+    "http://www.loc.gov/resource/g3934p.cw0120000/",
+    "https://hdl.loc.gov/loc.gmd/g3934p.cw0120000",
+    "https://search.catalog.loc.gov/instances/5231cc31-cba7-5563-9dcb-810f9bee2cfc",
+    "https://www.loc.gov/item/99447280/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3934/g3934p/cw0120000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447280/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "fort pickens",
+    "pensacola navy yard",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Pickens (Fla.)--Maps",
+    "Pensacola Navy Yard (Fla.)--Maps",
+    "United States--Florida--Fort Pickens",
+    "United States--Florida--Pensacola Navy Yard"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "Sketch of Pensacola Navy Yard and Fort Pickens from U.S. coast surveys",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447280",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

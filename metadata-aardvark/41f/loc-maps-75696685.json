@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1000 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Contributors: Fowler, T. M. (Thaddeus Mortimer), 1842-1922; Moyer, James B.",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1000",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Morrisville, Pa., T. M. Fowler & James B. Moyer [1897]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3894m.pm010000",
+    "http://lccn.loc.gov/75696685",
+    "http://www.loc.gov/item/75696685/",
+    "http://www.loc.gov/resource/g3894m.pm010000/",
+    "https://hdl.loc.gov/loc.gmd/g3894m.pm010000",
+    "https://search.catalog.loc.gov/instances/75c1d93b-cb14-5f3d-a665-a9cca99d0f0f",
+    "https://www.loc.gov/item/75696685/"
+  ],
+  "dct_issued_s": "1897",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3894/g3894m/pm010000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75696685/\"}",
+  "dct_spatial_sm": [
+    "morgantown",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Morgantown (W. Va.)--Maps",
+    "United States--West Virginia--Morgantown"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "dct_title_s": "Morgantown, West Virginia 1897",
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75696685",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This manuscript pen-and-ink and watercolor map shows Plymouth Township in the southwest of the French colony of Saint-Domingue (present-day Haiti). The map is oriented with north to the bottom. Relief is shown by hachures. The map shows the eastern limits of Baradères in 1781 and the revised limits of 1790, as well as property tracts with the names of their owners. Located on the western part of the island of Hispaniola, Saint-Domingue was one of France's most valuable colonies, with an economy based almost entirely on sugarcane plantations worked by slaves. At the time the map was made, the plantation economy still dominated the island. Toussaint-Louverture, a former slave and later the first black general in the French Army, helped to spark a rebellion in 1791 that was inspired by the French Revolution of 1789 and that ultimately led to the establishment in 1804 of the Republic of Haiti as the first independent nation of Latin America. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 440; 650; 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Frignet",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Oriented with north to the bottom.",
+    "Publication statement: [1790]",
+    "Relief shown by hachures.",
+    "Shows eastern limits as of 1781 and 1790 and names of owners of real property tracts.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4943g.ct001278",
+    "http://lccn.loc.gov/gm71002302",
+    "http://www.loc.gov/item/gm71002302/",
+    "http://www.loc.gov/resource/g4943g.ct001278/",
+    "https://hdl.loc.gov/loc.gmd/g4943g.ct001278",
+    "https://search.catalog.loc.gov/instances/a2ed118c-f94d-5165-951d-54cd2466e7da",
+    "https://www.loc.gov/item/gm71002302/"
+  ],
+  "dct_issued_s": "1790",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4943/g4943g/ct001278.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002302/\"}",
+  "dct_spatial_sm": [
+    "department",
+    "grand'anse",
+    "grand'anse (dept.)",
+    "haiti"
+  ],
+  "dct_subject_sm": [
+    "Haiti--Grand'Anse (Dept.)",
+    "Real property--Haiti--Grand'Anse (Department)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1790"
+  ],
+  "dct_title_s": "Plan du canton de Plimouth et partie des Baradéres",
+  "gbl_dateRange_drsim": [
+    "[1790 TO 1790]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1790
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002302",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

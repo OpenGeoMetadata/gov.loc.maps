@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802816 (R00627) 6-01.\"",
+    "Also issued without shaded relief.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes note.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2001]",
+    "Relief shown by shading.",
+    "Relief shown by shading. \"Base 802816 (R00627) 6-01.\" Also issued without shaded relief. Includes note. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7260.ct000978",
+    "http://lccn.loc.gov/2001622672",
+    "http://www.loc.gov/item/2001622672/",
+    "http://www.loc.gov/resource/g7260.ct000978/",
+    "https://hdl.loc.gov/loc.gmd/g7260.ct000978",
+    "https://search.catalog.loc.gov/instances/7135fda3-7579-5720-b318-f260f91f70da",
+    "https://www.loc.gov/item/2001622672/"
+  ],
+  "dct_issued_s": "2001",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7260/g7260/ct000978.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001622672/\"}",
+  "dct_spatial_sm": [
+    "tajikistan"
+  ],
+  "dct_subject_sm": [
+    "Tajikistan",
+    "Tajikistan--Maps",
+    "Tajikistan--Maps, Physical"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "dct_title_s": "Tajikistan",
+  "gbl_dateRange_drsim": [
+    "[2001 TO 2001]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001622672",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

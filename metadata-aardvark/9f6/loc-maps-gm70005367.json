@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2; 710",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Drake, Ira S.; Thomas, Cowperthwait & Co",
+    "General map of the eastern half of the United States, framed in decorative borders, indicating drainage, state boundaries, major cities and towns, roads, railroads, canals, and distances. [From published bibliography]",
+    "Insets: Map of the copper mine region.--Vicinity of Niagara Falls.--Map of the maritime and overland routes to California.--Map of the gold and quicksilver district of California.--Map of New England or eastern states.",
+    "LC Railroad maps, 23",
+    "Publication statement: Philadelphia, Thomas, Cowperthwait & Co., 1853, c1848.",
+    "Scale ca. 1:3,700,000.",
+    "Shows railroads in operation, in progress of construction, and proposed."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.rr000230",
+    "http://lccn.loc.gov/gm70005367",
+    "http://www.loc.gov/item/gm70005367/",
+    "http://www.loc.gov/resource/g3700.rr000230/",
+    "https://hdl.loc.gov/loc.gmd/g3700.rr000230",
+    "https://search.catalog.loc.gov/instances/88c04a42-564b-5462-b0bd-d6dd9b1fb64a",
+    "https://www.loc.gov/item/gm70005367/"
+  ],
+  "dct_issued_s": "1853",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/rr000230.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70005367/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "United States",
+    "United States--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "dct_title_s": "Mitchell's new traveller's guide through the United States, showing the rail roads, canals, stage roads &c. with distances from place to place",
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1853
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70005367",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

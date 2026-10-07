@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "96489 U.S. Copyright Office",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Texas & Pacific Railway",
+    "Description derived from published bibliography.",
+    "General map of the United States showing relief by hachures, drainage, and the railroad network with emphasis on the main line.",
+    "LC Railroad maps, 579",
+    "Publication statement: New York, 1876.",
+    "Scale 1:5,400,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr005790",
+    "http://lccn.loc.gov/98688822",
+    "http://www.loc.gov/item/98688822/",
+    "http://www.loc.gov/resource/g3701p.rr005790/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr005790",
+    "https://search.catalog.loc.gov/instances/86ba2093-42d7-53de-9685-0d8013c41aed",
+    "https://www.loc.gov/item/98688822/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr005790.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688822/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "Texas & Pacific Railway--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Texas and Pacific Railway and its connections",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688822",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

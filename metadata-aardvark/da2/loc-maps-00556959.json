@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"May 1998.\"",
+    "\"May 1998.\" Pictorial map. Includes text and col. ill. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Agricultural Research Service",
+    "Includes text and col. ill.",
+    "Pictorial map.",
+    "Publication statement: Beltsville, MD : USDA-ARS, Beltsville Agricultural Research Center, [1998]",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3844b.ct008763",
+    "http://lccn.loc.gov/00556959",
+    "http://www.loc.gov/item/00556959/",
+    "http://www.loc.gov/resource/g3844b.ct008763/",
+    "https://hdl.loc.gov/loc.gmd/g3844b.ct008763",
+    "https://search.catalog.loc.gov/instances/effbe954-b310-5552-9662-a33297dea805",
+    "https://www.loc.gov/item/00556959/"
+  ],
+  "dct_issued_s": "1998",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3844/g3844b/ct008763.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00556959/\"}",
+  "dct_spatial_sm": [
+    "beltsville",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Beltsville Agricultural Research Center--Maps, Pictorial",
+    "United States--Maryland--Beltsville"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dct_title_s": "Beltsville Agricultural Research Center",
+  "gbl_dateRange_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00556959",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

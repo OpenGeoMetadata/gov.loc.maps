@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"N.B. Since the evacuation of Boston ... \"",
+    "AACR2: 100; 651/1; 650/2; 651/3; 651/4",
+    "Annotated: Engraved & printed for Wm. Faden, Charing Cross.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Page, Thomas Hyde, Sir, 1746-1821",
+    "Includes \"References to the fortifications &ca.\" and \"References to the town.\"",
+    "LC Maps of North America, 1750-1789, 933",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Relief shown by hachures. \"N.B. Since the evacuation of Boston ... \" Annotated: Engraved & printed for Wm. Faden, Charing Cross. Includes \"References to the fortifications &ca.\" and \"References to the town.\" Scale ca. 1:9,600. LC Maps of North America, 1750-1789, 933 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 650/2; 651/3; 651/4",
+    "Publication statement: [1777?]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:9,600.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.ct000250",
+    "http://lccn.loc.gov/gm71000621",
+    "http://www.loc.gov/item/gm71000621/",
+    "http://www.loc.gov/resource/g3764b.ct000250/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ct000250",
+    "https://search.catalog.loc.gov/instances/dc3c840b-2cf6-54ac-bbc4-943d9f94336a",
+    "https://www.loc.gov/item/gm71000621/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/ct000250.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000621/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston (Mass.)--Buildings, structures, etc.--Maps, Manuscript--Early works to 1800",
+    "Boston (Mass.)--History--Siege, 1775-1776--Maps, Manuscript--Early works to 1800",
+    "Boston (Mass.)--Maps, Manuscript--Early works to 1800",
+    "Fortification--Massachusetts--Boston--Maps, Manuscript--Early works to 1800",
+    "United States--Massachusetts--Boston"
+  ],
+  "dct_temporal_sm": [
+    "1777",
+    "[1777?]"
+  ],
+  "dct_title_s": "A plan of the town of Boston with the intrenchments &ca. of His Majesty's forces in 1775, from the observations of Lieut. Page of His Majesty's Corps of Engineers, and from those of other gentlemen",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000621",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

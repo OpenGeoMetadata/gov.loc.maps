@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"5000-meter universal transverse Mercator grid ... \"",
+    "\"N4104.5--W7441/32X41.\"",
+    "\"Projection ... (Lambert conformal conic).\"",
+    "AACR2",
+    "Alternate title in right lower margin: Pike Co., Pa., 1973.",
+    "Alternate title in right lower margin: Pike Co., Pa., 1973. At head of title: Commonwealth of Pennsylvania, Department of Environmental Resources, Topographic and Geologic Survey. \"5000-meter universal transverse Mercator grid ... \" \"Projection ... (Lambert conformal conic).\" Relief shown by contours and spot heights. \"N4104.5--W7441/32X41.\" Includes index and location maps. Scale 1:50,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "At head of title: Commonwealth of Pennsylvania, Department of Environmental Resources, Topographic and Geologic Survey.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); Pennsylvania. Bureau of Topographic and Geologic Survey",
+    "Includes index and location maps.",
+    "Publication statement: Reston, Va., 1976.",
+    "Relief shown by contours and spot heights.",
+    "Scale 1:50,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823p.ct008270",
+    "http://lccn.loc.gov/78690937",
+    "http://www.loc.gov/item/78690937/",
+    "http://www.loc.gov/resource/g3823p.ct008270/",
+    "https://hdl.loc.gov/loc.gmd/g3823p.ct008270",
+    "https://search.catalog.loc.gov/instances/367fa5f0-3cdc-5207-a085-3ba643267af9",
+    "https://www.loc.gov/item/78690937/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823p/ct008270.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78690937/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "pike county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pike County (Pa.)--Maps",
+    "United States--Pennsylvania--Pike County"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "Pike County, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-78690937",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

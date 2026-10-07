@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Series K715",
+    "Standard map series designation: Series K715"
+  ],
+  "dct_description_sm": [
+    "1,000-meter universal transverse Mercator grid.",
+    "Accompanied by sheet index map: Index to maps of Cyprus 1:50,000. [1] sheet : color map, notes ; 27 x 39 cm.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Common title from upper margin at left.",
+    "Contributors: United States. Army Map Service, cartographer",
+    "Includes source-materials note, grid numbering diagram, sheet coverage diagram, adjoining-sheet diagram, grid convergence diagram, and glossary in lower margin; AMS logotype in upper margin on some sheets.",
+    "LC has 47 sheets as of January 2017.",
+    "LC set includes official letter declaring the set to be in the public domain.",
+    "Publication statement: Washington, D.C. : Army Map Service, Army Corps of Engineers, [1964-1969]; [Washington] : Printed by Army Map Service, Corps of Engineers, 1964-1969.",
+    "Relief shown by contours and spot heights; depths shown by contours and soundings on some sheets.",
+    "Specific sheet filing title in lower margin at right, for example: Ktima, Cyprus -- Limassol, Cyprus -- Nicosia south, Cyprus -- Larnaca, Cyprus -- Cape Andreas, Cyprus.",
+    "Specific sheet titles in upper margin at center.",
+    "Stock numbers in lower margin at right, for example: Stock no. K715X38101***02 -- Stock no. K715X4312III; some sheets have no stock number.",
+    "Topographic quadrangle maps of Cyprus.",
+    "Topographic quadrangle maps of Cyprus. Relief shown by contours and spot heights; depths shown by contours and soundings on some sheets. Common title from upper margin at left. Specific sheet titles in upper margin at center. Specific sheet filing title in lower margin at right, for example: Ktima, Cyprus -- Limassol, Cyprus -- Nicosia south, Cyprus -- Larnaca, Cyprus -- Cape Andreas, Cyprus. Various editions/revisions of some sheets, for example: Edition 1-AMS -- Edition 2-AMS. 1,000-meter universal transverse Mercator grid. LC set includes official letter declaring the set to be in the public domain. LC has 47 sheets as of January 2017. Accompanied by sheet index map: Index to maps of Cyprus 1:50,000. [1] sheet : color map, notes ; 27 x 39 cm. Includes source-materials note, grid numbering diagram, sheet coverage diagram, adjoining-sheet diagram, grid convergence diagram, and glossary in lower margin; AMS logotype in upper margin on some sheets. Stock numbers in lower margin at right, for example: Stock no. K715X38101***02 -- Stock no. K715X4312III; some sheets have no stock number. Available also through the Library of Congress Web site as a raster image.",
+    "Various editions/revisions of some sheets, for example: Edition 1-AMS -- Edition 2-AMS."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7450m.gct00475",
+    "http://lccn.loc.gov/2017588191",
+    "http://www.loc.gov/item/2017588191/",
+    "http://www.loc.gov/resource/g7450m.gct00475/",
+    "https://hdl.loc.gov/loc.gmd/g7450m.gct00475",
+    "https://search.catalog.loc.gov/instances/e6d5318d-31f7-5ca0-ab25-f0fa58465329",
+    "https://www.loc.gov/item/2017588191/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7m/g7450m/g7450m/gct00475/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017588191/\"}",
+  "dct_spatial_sm": [
+    "cyprus"
+  ],
+  "dct_subject_sm": [
+    "Cyprus",
+    "Cyprus--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1964/1969"
+  ],
+  "dct_title_s": "Cyprus 1:50,000",
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1969]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1964
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2017588191",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

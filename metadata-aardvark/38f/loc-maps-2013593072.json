@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Snyder Brothers",
+    "Includes business directories, advertisements, views of public, residential, and commercial properties.",
+    "Includes business directories, advertisements, views of public, residential, and commercial properties. Insets: Blueville -- Sharpsburg -- Palmer -- Edinburg -- Morrisonville -- Taylorville -- Marvel -- Rosamond -- Pana -- Assumption -- Millersville. LC copy imperfect: Mounted on cloth backing, original sheets sectioned into 4 panels to enable folding. LC Land ownership maps, 101 Available also through the Library of Congress Web site as a raster image.",
+    "Insets: Blueville -- Sharpsburg -- Palmer -- Edinburg -- Morrisonville -- Taylorville -- Marvel -- Rosamond -- Pana -- Assumption -- Millersville.",
+    "LC Land ownership maps, 101",
+    "LC copy imperfect: Mounted on cloth backing, original sheets sectioned into 4 panels to enable folding.",
+    "Publication statement: Chicago : Chicago Lithographic Co.; Chicago, Ill. : Snyder Brothers, 1872."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4103c.la000101",
+    "http://lccn.loc.gov/2013593072",
+    "http://www.loc.gov/item/2013593072/",
+    "http://www.loc.gov/resource/g4103c.la000101/",
+    "https://hdl.loc.gov/loc.gmd/g4103c.la000101",
+    "https://search.catalog.loc.gov/instances/9cc6f231-4702-5704-9df2-0ba1de0b71d2",
+    "https://www.loc.gov/item/2013593072/"
+  ],
+  "dct_issued_s": "1877",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410/g4103/g4103c/la000101.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593072/\"}",
+  "dct_spatial_sm": [
+    "christian county",
+    "illinois",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Illinois--Christian County--Maps",
+    "Real property--Illinois--Christian County--Maps",
+    "United States--Illinois--Christian County"
+  ],
+  "dct_temporal_sm": [
+    "1877"
+  ],
+  "dct_title_s": "Map of Christian County, Illinois",
+  "gbl_dateRange_drsim": [
+    "[1877 TO 1877]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1877
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593072",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

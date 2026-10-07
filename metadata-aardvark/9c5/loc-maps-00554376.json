@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanying microfiche for Alaska, New York, and Louisiana, dated 1986 filed in G&M microfiche collection",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Block boundaries are based on the Universal Transverse Mercator grid system.",
+    "Contributors: United States. Bureau of Land Management; United States. Minerals Management Service",
+    "Earlier sheets produced by the Bureau of Land Management.",
+    "In upper right margin of some sheets: Duplicate original -- Original.",
+    "Includes location diagram and notes.",
+    "Includes various issues of some sheets.",
+    "Publication statement: [Washington, D.C.] : The Service, 1976-",
+    "Sheets individually numbered in upper right and lower left margins, e.g.: NH17-10.",
+    "Sheets individually titled in upper left and lower right margins, e.g.: Tarpon Springs.",
+    "Shows cadastral information for leasing purposes.",
+    "Shows cadastral information for leasing purposes. Earlier sheets produced by the Bureau of Land Management. In upper right margin of some sheets: Duplicate original -- Original. Includes various issues of some sheets. Sheets individually titled in upper left and lower right margins, e.g.: Tarpon Springs. Sheets individually numbered in upper right and lower left margins, e.g.: NH17-10. Block boundaries are based on the Universal Transverse Mercator grid system. Some sheets include diagram showing subdivision of blocks and lists of irregular blocks and zone boundary blocks. Includes location diagram and notes. Available also through the Library of Congress Web site as a raster image. Accompanying microfiche for Alaska, New York, and Louisiana, dated 1986 filed in G&M microfiche collection",
+    "Some sheets include diagram showing subdivision of blocks and lists of irregular blocks and zone boundary blocks."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/00554376",
+    "http://www.loc.gov/item/00554376/",
+    "http://www.loc.gov/resource/gmdsetmaps.00554376/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.00554376",
+    "https://search.catalog.loc.gov/instances/a29ae617-98d4-5ccf-a665-ba197213f5a4",
+    "https://www.loc.gov/item/00554376/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:00:55:43:76:00554376:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/00554376/\"}",
+  "dct_spatial_sm": [
+    "continental shelf",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Continental shelf--United States--Maps",
+    "United States--Continental shelf"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "Outer continental shelf official protraction diagram : [United States]",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00554376",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

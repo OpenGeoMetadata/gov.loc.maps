@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Меркаторская карта Восточного океана и Берингова моря"
+  ],
+  "dct_description_sm": [
+    "Contributors: Gidrograficheskiĭ departament Morskogo ministerstva",
+    "Original map at: National Library of Russia",
+    "Pokazany: rel'ef shtrikhami,otmetki glubin v sazheni︠a︡kh, meli, rify, podvodnye i nadvodnye kamni, magnitnye sklonenii︠a︡. Primechanie: ostrova i meli, otmechennye voprositel'nymi znakami, ni kem iz moreplavateleĭ ne byli usmotreny i naneseny na kartu so slov promysh.",
+    "Publication statement: Saint Petersburg, Russia : Gidrograficheskiĭ departament Morskogo ministerstva, 1848.",
+    "Sostavlena iz raznykh zhurnalov i kart. Kartograficheskai︠a︡ setka cherez 1°, vykhody koordinat cherez 30'; schet dolgot ot Parizha, Grinvicha, Sankt-Peterburga. Dop.karty: [1] Plan Bukhty na N-oĭ storone ostrova Mednago. Glubina v sazheni︠a︡kh. S karty G. Ingenstrema. M-b.",
+    "Sostavlena iz raznykh zhurnalov i kart. Kartograficheskai︠a︡ setka cherez 1°, vykhody koordinat cherez 30'; schet dolgot ot Parizha, Grinvicha, Sankt-Peterburga. Dop.karty: [1] Plan Bukhty na N-oĭ storone ostrova Mednago. Glubina v sazheni︠a︡kh. S karty G. Ingenstrema. M-b. Pokazany: rel'ef shtrikhami,otmetki glubin v sazheni︠a︡kh, meli, rify, podvodnye i nadvodnye kamni, magnitnye sklonenii︠a︡. Primechanie: ostrova i meli, otmechennye voprositel'nymi znakami, ni kem iz moreplavateleĭ ne byli usmotreny i naneseny na kartu so slov promysh. Original map at: National Library of Russia Составлена из разных журналов и карт. Картографическая сетка через 1°, выходы координат через 30'; счет долгот от Парижа, Гринвича, Санкт-Петербурга. Доп.карты: [1] План Бухты на N-ой стороне острова Меднаго. Глубина в саженях. С карты Г. Ингенстрема. М-б. Показаны: рельеф штрихами,отметки глубин в саженях, мели, рифы, подводные и надводные камни, магнитные склонения. Примечание: острова и мели, отмеченные вопросительными знаками, ни кем из мореплавателей не были усмотрены и нанесены на карту со слов промыш.",
+    "Показаны: рельеф штрихами,отметки глубин в саженях, мели, рифы, подводные и надводные камни, магнитные склонения. Примечание: острова и мели, отмеченные вопросительными знаками, ни кем из мореплавателей не были усмотрены и нанесены на карту со слов промыш.",
+    "Составлена из разных журналов и карт. Картографическая сетка через 1°, выходы координат через 30'; счет долгот от Парижа, Гринвича, Санкт-Петербурга. Доп.карты: [1] План Бухты на N-ой стороне острова Меднаго. Глубина в саженях. С карты Г. Ингенстрема. М-б."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693916",
+    "http://www.loc.gov/item/2018693916/",
+    "http://www.loc.gov/resource/gdc.2018693916/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.nmap044",
+    "https://search.catalog.loc.gov/instances/09d3c124-0278-5480-b1a0-31b3954b2408",
+    "https://www.loc.gov/item/2018693916/"
+  ],
+  "dct_issued_s": "1848",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693916.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693916/2018693916.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693916:nmap044/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693916/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation",
+    "Siberia",
+    "maps"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "dct_title_s": "Merkatorskai︠a︡ karta Vostochnogo okeana i Beringova mori︠a︡",
+  "gbl_dateRange_drsim": [
+    "[1848 TO 1848]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1848
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693916",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

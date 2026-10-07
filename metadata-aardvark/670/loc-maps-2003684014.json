@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Forest Service map.\"",
+    "\"Land status current as of May 1984.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes indexes to recreation sites and to topographic map, and location map.",
+    "Includes indexes to recreation sites and to topographic map, and location map. \"Forest Service map.\" \"Land status current as of May 1984.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Atlanta, Ga. : U.S. Dept. of Agriculture, Forest Service, [1984]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2003684014",
+    "http://www.loc.gov/item/2003684014/",
+    "http://www.loc.gov/resource/g3972c.ct010670/",
+    "https://hdl.loc.gov/loc.gmd/g3972c.ct010670",
+    "https://search.catalog.loc.gov/instances/5ef476f2-6673-5176-9801-1b95cf78cde9",
+    "https://www.loc.gov/item/2003684014/"
+  ],
+  "dct_issued_s": "1984",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3972/g3972c/ct010670.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003684014/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "conecuh national forest",
+    "conecuh trail",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Conecuh National Forest (Ala.)--Maps",
+    "United States--Alabama--Conecuh Trail"
+  ],
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "dct_title_s": "Conecuh National Forest, Alabama : St. Stephens and Tallahassee meridians, 1983",
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1984]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003684014",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

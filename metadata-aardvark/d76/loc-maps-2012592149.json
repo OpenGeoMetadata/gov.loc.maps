@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Land ownership maps, 696",
+    "LC copy imperfect: Mounted on cloth backing, torn at edges/fold line, halved to enable folding, laminated.",
+    "Publication statement: [Pennsylvania? : s.n., 1858?].",
+    "Relief shown by hachures.",
+    "Shows roads, railroads, townships, schools, quarries, houses in rural areas, and householders' names.",
+    "Shows roads, railroads, townships, schools, quarries, houses in rural areas, and householders' names. Relief shown by hachures. LC copy imperfect: Mounted on cloth backing, torn at edges/fold line, halved to enable folding, laminated. LC Land ownership maps, 696 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823a.la000696",
+    "http://lccn.loc.gov/2012592149",
+    "http://www.loc.gov/item/2012592149/",
+    "http://www.loc.gov/resource/g3823a.la000696/",
+    "https://hdl.loc.gov/loc.gmd/g3823a.la000696",
+    "https://search.catalog.loc.gov/instances/c9001c8f-6e22-562b-91f3-a68f2d4174e6",
+    "https://www.loc.gov/item/2012592149/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823a/la000696.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592149/\"}",
+  "dct_spatial_sm": [
+    "adams county",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Adams County (Pa.)--Maps",
+    "Landowners--Pennsylvania--Adams County--Maps",
+    "United States--Pennsylvania--Adams County"
+  ],
+  "dct_temporal_sm": [
+    "1858",
+    "[Pennsylvania? : s.n., 1858?]."
+  ],
+  "dct_title_s": "Map of Adams Co., Pa",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592149",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

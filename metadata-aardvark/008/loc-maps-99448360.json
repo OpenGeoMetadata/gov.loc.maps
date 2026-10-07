@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to act of Congress AD. 1865 by Virtue & Yorston.\"",
+    "Available also through the Library of Congress web site as raster image.",
+    "Caption in lower margin: A topographical map of the ground on which the battles of Chickamauga and Ringgold were fought for the possession of the great railroad triangle of Tennessee and Georgia.",
+    "Contributors: Sholl, Charles",
+    "Description derived from published bibliography.",
+    "From Tomes, Robert. The war with the South. New York, Virtue & Yorston, 1862-1867. v. 3, between p. 222 and 223.",
+    "From Tomes, Robert. The war with the South. New York, Virtue & Yorston, 1862-1867. v. 3, between p. 222 and 223. Signed (facsim.): Charles Sholl, Topl. Engineers. \"Entered according to act of Congress AD. 1865 by Virtue & Yorston.\" Caption in lower margin: A topographical map of the ground on which the battles of Chickamauga and Ringgold were fought for the possession of the great railroad triangle of Tennessee and Georgia. Description derived from published bibliography. Scale ca. 1:157,500. LC Civil War maps (2nd ed.), 401.4 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War maps (2nd ed.), 401.4",
+    "Publication statement: [New York, Virtue & Yorston, 1862-1867]",
+    "Scale ca. 1:157,500.",
+    "Signed (facsim.): Charles Sholl, Topl. Engineers."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3964c.cw0401400",
+    "http://lccn.loc.gov/99448360",
+    "http://www.loc.gov/item/99448360/",
+    "http://www.loc.gov/resource/g3964c.cw0401400/",
+    "https://hdl.loc.gov/loc.gmd/g3964c.cw0401400",
+    "https://search.catalog.loc.gov/instances/093d40b2-058b-5338-b668-366ab70edac4",
+    "https://www.loc.gov/item/99448360/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964c/cw0401400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448360/\"}",
+  "dct_spatial_sm": [
+    "chattanooga",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Chattanooga (Tenn.)--History--Civil War, 1861-1865--Maps",
+    "United States--Tennessee--Chattanooga"
+  ],
+  "dct_temporal_sm": [
+    "1862/1867"
+  ],
+  "dct_title_s": "Chattanooga and its defences,",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1867]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448360",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

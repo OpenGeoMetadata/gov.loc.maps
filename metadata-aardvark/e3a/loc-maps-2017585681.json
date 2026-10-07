@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Appears in Samuel Dunn's New atlas of the mundane system. Fourth edition. London : Laurie & Whittle, 1796.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Dunn, Samuel, -1794; Martin, Benjamin, 1705-1782, cartographer",
+    "Includes text and astronomical diagrams.",
+    "Includes text and astronomical diagrams. Appears in Samuel Dunn's New atlas of the mundane system. Fourth edition. London : Laurie & Whittle, 1796. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: London : Published by Laurie & Whittle, no. 33 Fleet Street, as the act directs, May the 12th, 1794."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct009316",
+    "http://lccn.loc.gov/2017585681",
+    "http://www.loc.gov/item/2017585681/",
+    "http://www.loc.gov/resource/g3200.ct009316/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct009316",
+    "https://search.catalog.loc.gov/instances/1f5cec8c-f319-5f01-8a88-bfefeb7484ff",
+    "https://www.loc.gov/item/2017585681/"
+  ],
+  "dct_issued_s": "1794",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct009316.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585681/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Astronomy--Charts, diagrams, etc.--Early works to 1800",
+    "Earth (Planet)"
+  ],
+  "dct_temporal_sm": [
+    "1794"
+  ],
+  "dct_title_s": "A map of the world on a new projection with a delineation of the various parts and phenomena of the solar system to facilitate the principles and study of geography and astronomy",
+  "gbl_dateRange_drsim": [
+    "[1794 TO 1794]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1794
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585681",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

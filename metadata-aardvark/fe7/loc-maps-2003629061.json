@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Ellipsoid & datum: WGS 84.\"",
+    "\"NIMA ref. no. K341SIRAQREFGRA.\"",
+    "\"Suitable for reference purposes only.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Imagery and Mapping Agency",
+    "Publication statement: Bethesda, MD : National Imagery and Mapping Agency, c2003.",
+    "Relief shown by shading.",
+    "Relief shown by shading. \"Suitable for reference purposes only.\" \"Ellipsoid & datum: WGS 84.\" \"NIMA ref. no. K341SIRAQREFGRA.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7610.ct002060",
+    "http://lccn.loc.gov/2003629061",
+    "http://www.loc.gov/item/2003629061/",
+    "http://www.loc.gov/resource/g7610.ct002060/",
+    "https://hdl.loc.gov/loc.gmd/g7610.ct002060",
+    "https://search.catalog.loc.gov/instances/afb31694-7f8d-5869-b4b7-3c5fffa6778c",
+    "https://www.loc.gov/item/2003629061/"
+  ],
+  "dct_issued_s": "2003",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7610/g7610/ct002060.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003629061/\"}",
+  "dct_spatial_sm": [
+    "iraq"
+  ],
+  "dct_subject_sm": [
+    "Iraq",
+    "Iraq--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_title_s": "Iraq",
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003629061",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

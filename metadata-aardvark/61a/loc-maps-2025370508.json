@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Title from vendor: First railway in the Levant"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC copy mounted on cloth.",
+    "Publication statement: [Turkey] : [publisher not identified], [1894]",
+    "Relief shown by form lines.",
+    "Relief shown by form lines. Title provided by cataloger. LC copy mounted on cloth. Available also through the Library of Congress Web site as a raster image. Turkish (Arabic script).",
+    "Title provided by cataloger.",
+    "Turkish (Arabic script)."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2025370508",
+    "http://www.loc.gov/item/2025370508/",
+    "http://www.loc.gov/resource/g7461p.ct012166/",
+    "https://hdl.loc.gov/loc.gmd/g7461p.ct012166",
+    "https://search.catalog.loc.gov/instances/607a858a-f050-5589-b0b9-5afc5f1a409d",
+    "https://www.loc.gov/item/2025370508/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "turkish, ottoman (1500-1928)"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7461:g7461p:ct012166/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2025370508/\"}",
+  "dct_spatial_sm": [
+    "damascus (syria)",
+    "damascus ‡v maps",
+    "hauran (syria)",
+    "hauran ‡v maps",
+    "syria"
+  ],
+  "dct_subject_sm": [
+    "Railroads ‡z Syria ‡v Maps",
+    "Railroads ‡z Syria--Damascus ‡v Maps",
+    "Railroads ‡z Syria--Hauran ‡v Maps",
+    "Syria--Damascus (Syria)",
+    "Syria--Hauran (Syria)"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "[Ligne Damas-Hauran]",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2025370508",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

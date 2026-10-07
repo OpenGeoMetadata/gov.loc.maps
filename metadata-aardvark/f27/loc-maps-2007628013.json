@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "San Fernando Valley, California"
+  ],
+  "dct_description_sm": [
+    "\"Copyrighted by Franklin P. Borgnis, L.A.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Borgnis, Franklin P.",
+    "LC copy stamped on: Cl.F 39086.",
+    "Publication date inferred from date of acquisition.",
+    "Publication statement: L[os] A[ngeles] : Franklin P. Borgnis, [1923]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows major roads, public streets, and cities and towns in the San Fernando Valley region of the City of Los Angeles. \"Copyrighted by Franklin P. Borgnis, L.A.\" Publication date inferred from date of acquisition. LC copy stamped on: Cl.F 39086. Available also through the Library of Congress Web site as a raster image.",
+    "Shows major roads, public streets, and cities and towns in the San Fernando Valley region of the City of Los Angeles."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2007628013",
+    "http://www.loc.gov/item/2007628013/",
+    "http://www.loc.gov/resource/g4362s.ct011037/",
+    "https://hdl.loc.gov/loc.gmd/g4362s.ct011037",
+    "https://search.catalog.loc.gov/instances/cf28df6e-2c49-5b9a-bafa-f0b1b0947310",
+    "https://www.loc.gov/item/2007628013/"
+  ],
+  "dct_issued_s": "1923",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4362/g4362s/ct011037.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007628013/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "los angeles region",
+    "san fernando valley",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cities and towns--California--San Fernando Valley--Maps",
+    "Los Angeles Region (Calif.)--Maps",
+    "Roads--California--San Fernando Valley--Maps",
+    "San Fernando Valley (Calif.)--Maps",
+    "United States--California--San Fernando Valley"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "dct_title_s": "Map of San Fernando Valley, California",
+  "gbl_dateRange_drsim": [
+    "[1923 TO 1923]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1923
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007628013",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

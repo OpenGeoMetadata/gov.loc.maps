@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "017. Key map to edition. Other places as they appear on original: Caraleigh.",
+    "1914 - Dec 1950 Vol. 2, 1914 - Dec 1950.",
+    "1914 - Dec 1950 Vol. 2, 1914 - Dec 1950. 43 sheet(s). 017. Key map to edition. Other places as they appear on original: Caraleigh.",
+    "43 sheet(s).",
+    "Publication statement: Sanborn Map Company, 1914 - Dec 1950 Vol. 2, 1914 - Dec 1950"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3904rm.g3904rm_g06471195002",
+    "http://www.loc.gov/item/sanborn06471_008/",
+    "http://www.loc.gov/resource/g3904rm.g3904rm_g06471195002/",
+    "https://hdl.loc.gov/loc.gmd/g3904rm.g3904rm_g06471195002",
+    "https://www.loc.gov/item/sanborn06471_008",
+    "https://www.loc.gov/item/sanborn06471_008/",
+    "https://www.loc.gov/resource/g3904rm.g3904rm_g06471195002"
+  ],
+  "dct_issued_s": "1950",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn06471_008/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390m/g3904m/g3904rm/g3904rm_g06471195002/06471_02_1950-0000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn06471_008/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "caraleigh",
+    "north carolina",
+    "raleigh",
+    "united states",
+    "wake county"
+  ],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Raleigh, Wake County, North Carolina.",
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1950]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn06471_008",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"... 1-63.\"",
+    "\"... 1-63.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1963]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8330.ct002884",
+    "http://lccn.loc.gov/97687610",
+    "http://www.loc.gov/item/97687610/",
+    "http://www.loc.gov/resource/g8330.ct002884/",
+    "https://hdl.loc.gov/loc.gmd/g8330.ct002884",
+    "https://search.catalog.loc.gov/instances/27b6de58-0cbb-5ea1-9f79-0b1f9a70135b",
+    "https://www.loc.gov/item/97687610/"
+  ],
+  "dct_issued_s": "1963",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8330/g8330/ct002884.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97687610/\"}",
+  "dct_spatial_sm": [
+    "ethiopia"
+  ],
+  "dct_subject_sm": [
+    "Ethiopia",
+    "Ethiopia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1963"
+  ],
+  "dct_title_s": "Ethiopia",
+  "gbl_dateRange_drsim": [
+    "[1963 TO 1963]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1963
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97687610",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

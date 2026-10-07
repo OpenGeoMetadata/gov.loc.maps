@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Biscayne",
+    "Title at upper left: Biscayne"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 2000--460-976/00240. Reprint 2000.\"",
+    "\"*GPO: 2000--460-976/00240. Reprint 2000.\" Depths shown by gradient tints. Includes tourist information and area map. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Depths shown by gradient tints.",
+    "Includes tourist information and area map.",
+    "Publication statement: [Washington, D.C.] : The Service, [2000]",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/00555652",
+    "http://www.loc.gov/item/00555652/",
+    "http://www.loc.gov/resource/g3932b.ct010241/",
+    "https://hdl.loc.gov/loc.gmd/g3932b.ct010241",
+    "https://search.catalog.loc.gov/instances/e752a5be-f0a8-5c52-90db-f32d8e860c9d",
+    "https://www.loc.gov/item/00555652/"
+  ],
+  "dct_issued_s": "2000",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3932/g3932b/ct010241.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00555652/\"}",
+  "dct_spatial_sm": [
+    "biscayne national park",
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Biscayne National Park (Fla.)--Maps",
+    "United States--Florida--Biscayne National Park"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_title_s": "Biscayne National Park, Florida",
+  "gbl_dateRange_drsim": [
+    "[2000 TO 2000]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00555652",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

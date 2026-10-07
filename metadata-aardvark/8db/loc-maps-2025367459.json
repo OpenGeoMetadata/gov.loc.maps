@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "LandScan high definition Turkiye v1.0",
+    "Turkiye LandScan HD data"
+  ],
+  "dct_description_sm": [
+    "\"The temporal extent is defined as the range of dates of the population sources.\"",
+    "\"The temporal extent is defined as the range of dates of the population sources.\" Includes bibliographical references in XML metadata file. Title from XML metadata file.",
+    "Contributors: Oak Ridge National Laboratory. Geospatial Science and Human Security Division. Human Dynamics Section, cartographer",
+    "Includes bibliographical references in XML metadata file.",
+    "Publication statement: [Oak Ridge, Tennessee] : Oak Ridge National Laboratory, Geospatial Science and Human Security Division, Human Dynamics Section, 2023.",
+    "Title from XML metadata file."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2025367459",
+    "http://www.loc.gov/item/2025367459/",
+    "http://www.loc.gov/resource/gdcdatasets.2025367459/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2025367459",
+    "https://search.catalog.loc.gov/instances/377ac4d5-bb69-4efe-ab1d-57959b6093be",
+    "https://www.loc.gov/item/2025367459/"
+  ],
+  "dct_issued_s": "2022",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2025367459/\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 International License DLC http://creativecommons.org/licenses/by/4.0"
+  ],
+  "dct_spatial_sm": [
+    "turkey"
+  ],
+  "dct_subject_sm": [
+    "Population density--Turkey",
+    "Turkey",
+    "Turkey--Population"
+  ],
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "dct_title_s": "LandScan HD Turkiye",
+  "gbl_dateRange_drsim": [
+    "[2022 TO 2022]"
+  ],
+  "gbl_displayNote_sm": [
+    "Open to research.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2025367459",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: García Cubas, Antonio, 1832-1912",
+    "Form AACR2: ga36 2007-02-08",
+    "Issued in sheets.",
+    "Maps dated 1884 to 1886; no. 28 and [29] are numbered 28.",
+    "Phillips 2685",
+    "Publication statement: México, Debray Suc's, c1884-86.",
+    "Running title.",
+    "Running title. Issued in sheets. Maps dated 1884 to 1886; no. 28 and [29] are numbered 28. Phillips 2685 Available also through the Library of Congress Web site as a raster image. Form AACR2: ga36 2007-02-08"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4410m.gct00091",
+    "http://lccn.loc.gov/2007627316",
+    "http://www.loc.gov/item/2007627316/",
+    "http://www.loc.gov/resource/g4410m.gct00091/",
+    "https://hdl.loc.gov/loc.gmd/g4410m.gct00091",
+    "https://search.catalog.loc.gov/instances/334863ae-4bf4-596f-b759-de70cb09c759",
+    "https://www.loc.gov/item/2007627316/"
+  ],
+  "dct_issued_s": "1884",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4m/g4410m/g4410m/gct00091/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007627316/\"}",
+  "dct_spatial_sm": [
+    "mexico"
+  ],
+  "dct_subject_sm": [
+    "Mexico",
+    "Mexico--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_title_s": "Atlas mexicano",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007627316",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

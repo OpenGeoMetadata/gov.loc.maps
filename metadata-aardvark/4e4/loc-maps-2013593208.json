@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Chōsen chishitsuzu",
+    "Geological atlas of Chosen"
+  ],
+  "dct_description_sm": [
+    "Available through the Library of Congress Web site as a raster image.",
+    "Contributors: Chōsen Sōtokufu Chishitsu Chōsajo",
+    "Electronic reproduction. Washington, D.C. : Geography & Maps Division, Library of Congress, 2010. Mode of access: World Wide Web. Reproduction made from a copy owned by: U.S. Geological Survey Library.",
+    "LC copy: Property stamp \"U.S. Geological Survey Library.\"",
+    "Publication statement: Seoul : Government General of Chosen, Geological Survey, 1929-1932.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. LC copy: Property stamp \"U.S. Geological Survey Library.\" Available through the Library of Congress Web site as a raster image. Electronic reproduction. Washington, D.C. : Geography & Maps Division, Library of Congress, 2010. Mode of access: World Wide Web. Reproduction made from a copy owned by: U.S. Geological Survey Library. 第八輯. 兼二浦沙里院及載寧圖幅 = No-8. Kenjiho Shariin Sainei sheet / by S. Shimamura, Government General of Chosen, Geological Survey -- 第九輯. 海南及右水營圖幅 = No.-9. Kainan Usuiei sheets by Yoshio Kinosaki -- 第十輯. 慶州永川大邱及委館圖幅 = No-10. Keishu-Eisen-Taikyu and Wakwan sheets / by Iwao Tateiwa -- 第十一輯. 莞島蘆花島青山島及太郎島及所安島圖幅 = No-11. Kwanto Rokwato Seizanto and Taroto and Shoanto sheets / by S. Shimamura -- 第十二輯. 東倉殷山别倉里及城川圖幅 = No-12. Toso Inzan Bessori and Seisen sheets / by Iwao Tateiwa -- 第十三輯. 青陽大川里扶餘及南浦圖幅 = No-13. Seiyo Daisenri Fuyo and Ranpo sheets / by S. Shimamura -- 第十四輯. 載德新福場古堡及吾足里圖幅 = No-14. Saitoku Shimpukujo Koho and Gosokuri sheets / by Yoshio Kinosaki.",
+    "第八輯. 兼二浦沙里院及載寧圖幅 = No-8. Kenjiho Shariin Sainei sheet / by S. Shimamura, Government General of Chosen, Geological Survey -- 第九輯. 海南及右水營圖幅 = No.-9. Kainan Usuiei sheets by Yoshio Kinosaki -- 第十輯. 慶州永川大邱及委館圖幅 = No-10. Keishu-Eisen-Taikyu and Wakwan sheets / by Iwao Tateiwa -- 第十一輯. 莞島蘆花島青山島及太郎島及所安島圖幅 = No-11. Kwanto Rokwato Seizanto and Taroto and Shoanto sheets / by S. Shimamura -- 第十二輯. 東倉殷山别倉里及城川圖幅 = No-12. Toso Inzan Bessori and Seisen sheets / by Iwao Tateiwa -- 第十三輯. 青陽大川里扶餘及南浦圖幅 = No-13. Seiyo Daisenri Fuyo and Ranpo sheets / by S. Shimamura -- 第十四輯. 載德新福場古堡及吾足里圖幅 = No-14. Saitoku Shimpukujo Koho and Gosokuri sheets / by Yoshio Kinosaki."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7901cm.gct00307",
+    "http://lccn.loc.gov/2013593208",
+    "http://www.loc.gov/item/2013593208/",
+    "http://www.loc.gov/resource/g7901cm.gct00307/",
+    "https://hdl.loc.gov/loc.gmd/g7901cm.gct00307",
+    "https://search.catalog.loc.gov/instances/4228880d-3fa4-5e6c-9c27-c13c982edffe",
+    "https://www.loc.gov/item/2013593208/"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7m/g7901m/g7901cm/gct00307/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593208/\"}",
+  "dct_spatial_sm": [
+    "korea"
+  ],
+  "dct_subject_sm": [
+    "Geology--Korea--Maps",
+    "Korea"
+  ],
+  "dct_temporal_sm": [
+    "1929/1932"
+  ],
+  "dct_title_s": "Geological atlas of Chosen",
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1932]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1929
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593208",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

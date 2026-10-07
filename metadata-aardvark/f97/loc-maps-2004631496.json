@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Anderson, H. (Hugh), 1782-1866; Narstin, John L.; Robinson, John Hamilton, 1782-1819",
+    "Imperfect: Backed with cloth and cut into sections.",
+    "Includes notes, ill., and tables of coordinates and other statistical data.",
+    "Publication statement: Philadelphia : John L. Narstin, c1819.",
+    "Relief shown by hachures and pictorially.",
+    "Relief shown by hachures and pictorially. Includes notes, ill., and tables of coordinates and other statistical data. Imperfect: Backed with cloth and cut into sections. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ct001309",
+    "http://lccn.loc.gov/2004631496",
+    "http://www.loc.gov/item/2004631496/",
+    "http://www.loc.gov/resource/g3300.ct001309/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ct001309",
+    "https://search.catalog.loc.gov/instances/a3b74459-7fd9-5408-a59b-992b3a511d53",
+    "https://www.loc.gov/item/2004631496/"
+  ],
+  "dct_issued_s": "1819",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ct001309.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004631496/\"}",
+  "dct_spatial_sm": [
+    "mexico",
+    "north america",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mexico",
+    "Mexico--Maps",
+    "North America",
+    "North America--Maps",
+    "United States",
+    "United States--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1819"
+  ],
+  "dct_title_s": "A map of Mexico, Louisiana, and the Missouri Territory : including also the state of Mississippi, Alabama Territory, East and West Florida, Georgia, South Carolina & part of the Island of Cuba",
+  "gbl_dateRange_drsim": [
+    "[1819 TO 1819]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1819
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004631496",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

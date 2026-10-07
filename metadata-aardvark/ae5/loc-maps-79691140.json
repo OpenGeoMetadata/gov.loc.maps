@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 700/1",
+    "Appears in the Political magazine, May, 1781, v. 2.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bew, John, -1793; Lodge, John, -1796",
+    "Hand colored.",
+    "LC Maps of North America, 1750-1789, 1405",
+    "Publication statement: London : J. Bew, 1781.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Hand colored. Appears in the Political magazine, May, 1781, v. 2. Scale ca. 1:5,300,000. LC Maps of North America, 1750-1789, 1405 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 700/1",
+    "Scale ca. 1:5,300,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3860.ar140500",
+    "http://lccn.loc.gov/79691140",
+    "http://www.loc.gov/item/79691140/",
+    "http://www.loc.gov/resource/g3860.ar140500/",
+    "https://hdl.loc.gov/loc.gmd/g3860.ar140500",
+    "https://search.catalog.loc.gov/instances/d03afa46-c2d3-5027-8c32-f25f047ea0ef",
+    "https://www.loc.gov/item/79691140/"
+  ],
+  "dct_issued_s": "1781",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3860/g3860/ar140500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79691140/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Southern States--Maps--Early works to 1800",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1781"
+  ],
+  "dct_title_s": "A map of East and West Florida, Georgia, and Louisiana : with the islands of Cuba, Bahama, and the countries surrounding the Gulf of Mexico, with the tract of the Spanish galleons, and of our fleets thro' the Straits of Florida, from the best authorities",
+  "gbl_dateRange_drsim": [
+    "[1781 TO 1781]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1781
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79691140",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

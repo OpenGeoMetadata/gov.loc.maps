@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "清内府輿地圖縮摹本"
+  ],
+  "dct_description_sm": [
+    "Content in Chinese.",
+    "Contributors: Liu, Yan, active 19th century Author; Weng, Tonghe, 1830--1904 Contributor",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Central Library.",
+    "Original resource extent: 1 volume ; 18.9 x 12.3 centimeters.",
+    "Publication statement: Jinling (present-day Nanjing) : [Publisher not identified], [1821 to 1850]",
+    "This work is by Liu Yan, also called Dezhi, a middle- and late-Qing dynasty scholar in history, geography, and astronomy. Liu Yan produced and contributed to a number of works in the field of geography, including Ji yuan bian (Dictionary of reign names), Li dai di li yan ge tu (A historical geographical atlas of dynasties), and Li dai di li zhi yun bian jin shi (Dictionary of geographical names with new explanations). Although most of his works appeared under the name of his teacher, the renowned geographer Li Zhaoluo (1769--1841), Liu Yan's contribution to scholarship is indisputable. He used a work written by his uncle Liu Chengru, also a student of Li Zhaoluo, to produce this copy in reduced size, which was published in the 14th year (1834) of Emperor Daoguang (reigned 1821--50) with the inscription: Huang chao nei fu yu di tu suo mo ben (Abridged copy of the geographical map in the inner court of the Qing dynasty). The work is in three parts. Part one consists of historical anecdotes about the dynasty; part two deals with arable land, tax regulations, and customs; part three features charts of waterways. Simplified world maps appear before and after the title page. At the front is an inscription by Weng Tonghe (1830--1904), a Confucian scholar and a member of the Hanlin Academy, who later became minister of the Ministry of Revenue, Public Works, and War. Weng Tonghe copied the work, with commentaries, when he was working as a Hanlin compiler. This was shortly after the Anglo-French invasion of China of 1858--60, an event that focused attention on the geography of Xinjiang and the diplomatic activities concerning borders with the four main external powers (Great Britain, France, the United States, and Russia). The work provides information about the locations of mountains, rivers, and barracks at strategic points. Also interesting are the discussions of commerce and of various negotiations between China and foreign governments. Annotations are written in red, black, yellow, and green colors with, for example, a note that reads \"Commerce with Taiwan\" next to the place-name of Lu'ermen, a seaport in Tainan, Taiwan. When Weng Tonghe became the tutor of Emperor Guangxu, he used this manuscript to instruct the emperor about negotiations concerning border protection.",
+    "Title devised, in English, by Library staff.",
+    "Title revised per Asian Division.--cc28 2023-01-06"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668269",
+    "http://www.loc.gov/item/2021668269/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_11426/",
+    "http://www.loc.gov/resource/wdl.11426/",
+    "https://hdl.loc.gov/loc.wdl/wdl.11426",
+    "https://www.loc.gov/item/2021668269/"
+  ],
+  "dct_issued_s": "1821",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_11426.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/42/6/wdl_11426/wdl_11426.pdf\"}, {\"label\": \"ZIP: wdl_11426.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/42/6/wdl_11426/wdl_11426.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:42:6:wdl_11426:0004/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668269/\"}",
+  "dct_spatial_sm": [
+    "china"
+  ],
+  "dct_subject_sm": [
+    "1821 to 1850",
+    "China",
+    "Commerce",
+    "Gazetteers",
+    "Historical geography",
+    "Manners and customs",
+    "Taxation"
+  ],
+  "dct_temporal_sm": [
+    "1821"
+  ],
+  "dct_title_s": "Qing nei fu yu di tu suo mo ben",
+  "gbl_dateRange_drsim": [
+    "[1821 TO 1821]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1821
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668269",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beck & Pauli; Norris, Wellge & Co; Wellge, H. (Henry)",
+    "Includes index to points of interest and inset \"Bayfield and the Apostle Islands.\"",
+    "Includes index to points of interest and inset \"Bayfield and the Apostle Islands.\" Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1021 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1021",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Milwaukee, Norris, Wellge & Co. [1886]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4124b.pm010210",
+    "http://lccn.loc.gov/75696703",
+    "http://www.loc.gov/item/75696703/",
+    "http://www.loc.gov/resource/g4124b.pm010210/",
+    "https://hdl.loc.gov/loc.gmd/g4124b.pm010210",
+    "https://search.catalog.loc.gov/instances/f2e20e37-9df0-5b29-a746-1f6d88dad03c",
+    "https://www.loc.gov/item/75696703/"
+  ],
+  "dct_issued_s": "1886",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4124/g4124b/pm010210.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75696703/\"}",
+  "dct_spatial_sm": [
+    "bayfield",
+    "united states",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "Bayfield (Wis.)",
+    "United States--Wisconsin--Bayfield"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "dct_title_s": "Bird's eye view of Bayfield, Wis., county seat of Bayfield County 1886",
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1886]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1886
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75696703",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Li, Changchuan; Shi, Zhonghua",
+    "Insets: Taiping Yang xing shi = Map of Pacific Ocean -- Zhaowa Dao = Java -- Ying shu Malai Bandao = British Malay Pen.",
+    "Map imperfect: Wrinkles all over and chipped along the folding lines.",
+    "On the back of envelop: \"Man tie dong ya jing ji diao cha ju.\"",
+    "Place names in Chinese, English, and overseas Chinese dialect.",
+    "Publication statement: [Shanghai, China] : Shanghai shi jie yu di xue she : Ge fu shi jie shu ju, [1939?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. On the back of envelop: \"Man tie dong ya jing ji diao cha ju.\" Map imperfect: Wrinkles all over and chipped along the folding lines. Insets: Taiping Yang xing shi = Map of Pacific Ocean -- Zhaowa Dao = Java -- Ying shu Malai Bandao = British Malay Pen. Available also through the Library of Congress Web site as a raster image. Place names in Chinese, English, and overseas Chinese dialect."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8000.ct004305",
+    "http://lccn.loc.gov/2006626412",
+    "http://www.loc.gov/item/2006626412/",
+    "http://www.loc.gov/resource/g8000.ct004305/",
+    "https://hdl.loc.gov/loc.gmd/g8000.ct004305",
+    "https://search.catalog.loc.gov/instances/6193ba7f-2ee7-5579-8287-f6d168af5e9c",
+    "https://www.loc.gov/item/2006626412/"
+  ],
+  "dct_language_sm": [
+    "chi",
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8000/g8000/ct004305.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006626412/\"}",
+  "dct_spatial_sm": [
+    "southeast asia"
+  ],
+  "dct_subject_sm": [
+    "Southeast Asia",
+    "Southeast Asia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1939",
+    "[Shanghai, China] : Shanghai shi jie yu di xue she : Ge fu shi jie shu ju, [1939?]"
+  ],
+  "dct_title_s": "Nanyang Qundao xian shi tu",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006626412",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Bond-aided roads shown by heavy black lines. Fifty per cent land grant roads shown by red lines. Free land grant roads shown by green lines. Connections shown by light black lines.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Quartermaster Corps",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 65",
+    "Outline map of the United States showing major drainage, cities and towns, and military posts.",
+    "Publication statement: Washington, 1892.",
+    "Scale ca. 1:5,000,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr000650",
+    "http://lccn.loc.gov/98688343",
+    "http://www.loc.gov/item/98688343/",
+    "http://www.loc.gov/resource/g3701p.rr000650/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr000650",
+    "https://search.catalog.loc.gov/instances/66ddf0f5-5f31-56a1-967d-03da67264346",
+    "https://www.loc.gov/item/98688343/"
+  ],
+  "dct_issued_s": "1892",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr000650.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688343/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Military bases--United States--Maps",
+    "Railroad land grants--United States--Maps",
+    "Railroads--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "dct_title_s": "Map of land-grant and bond-aided railroads of the United States",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688343",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

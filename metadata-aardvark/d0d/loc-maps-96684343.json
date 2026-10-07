@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "NJ Coastal Heritage Trail, Absecon & Cape May regions",
+    "Title within map area: NJ Coastal Heritage Trail, Absecon & Cape May regions"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: New Jersey; United States. National Park Service",
+    "Includes text, index to points of interest, and 2 location maps.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.?] : The Service ; [Trenton?] : State of N.J., [1995?]",
+    "Shows points of interest along southern part of the N.J. Heritage Trail.",
+    "Shows points of interest along southern part of the N.J. Heritage Trail. Panel title. Includes text, index to points of interest, and 2 location maps. Text and ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text and ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3812n.ct006819",
+    "http://lccn.loc.gov/96684343",
+    "http://www.loc.gov/item/96684343/",
+    "http://www.loc.gov/resource/g3812n.ct006819/",
+    "https://hdl.loc.gov/loc.gmd/g3812n.ct006819",
+    "https://search.catalog.loc.gov/instances/da05f81b-052b-5d50-9d28-4e4df4727075",
+    "https://www.loc.gov/item/96684343/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3812/g3812n/ct006819.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96684343/\"}",
+  "dct_spatial_sm": [
+    "absecon region",
+    "cape may region",
+    "new jersey",
+    "new jersey coastal heritage trail",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Absecon Region (N.J.)--Maps",
+    "Cape May Region (N.J.)--Maps",
+    "Heritage tourism--New Jersey--Absecon Region--Maps",
+    "Heritage tourism--New Jersey--Cape May Region--Maps",
+    "New Jersey Coastal Heritage Trail (N.J.)--Maps",
+    "United States--New Jersey--Absecon Region",
+    "United States--New Jersey--Cape May Region",
+    "United States--New Jersey--New Jersey Coastal Heritage Trail"
+  ],
+  "dct_temporal_sm": [
+    "1995",
+    "[Washington, D.C.?] : The Service ; [Trenton?] : State of N.J., [1995?]"
+  ],
+  "dct_title_s": "New Jersey Coastal Heritage Trail, Absecon & Cape May regions",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96684343",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

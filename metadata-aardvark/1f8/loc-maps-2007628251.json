@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Title in margin: West Virginia",
+    "West Virginia"
+  ],
+  "dct_description_sm": [
+    "\"1963.\"",
+    "\"Interior--Geological Survey, Reston, Virginia--1984.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); West Virginia Geological and Economic Survey",
+    "Publication statement: Morgantown, W. Va. : U.S. Geological Survey, 1984.",
+    "Relief shown by spot heights.",
+    "Shows counties and highway system.",
+    "Shows counties and highway system. \"1963.\" Relief shown by spot heights. \"Interior--Geological Survey, Reston, Virginia--1984.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2007628251",
+    "http://www.loc.gov/item/2007628251/",
+    "http://www.loc.gov/resource/g3891f.ct009393/",
+    "https://hdl.loc.gov/loc.gmd/g3891f.ct009393",
+    "https://search.catalog.loc.gov/instances/f0282d77-d070-5183-8b37-1637f14b2a97",
+    "https://www.loc.gov/item/2007628251/"
+  ],
+  "dct_issued_s": "1984",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3891/g3891f/ct009393.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007628251/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Counties--West Virginia--Maps",
+    "Roads--West Virginia--Maps",
+    "United States--West Virginia",
+    "West Virginia--Administrative and political divisions--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "dct_title_s": "State of West Virginia",
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1984]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007628251",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

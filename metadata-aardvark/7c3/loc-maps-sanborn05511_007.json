@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "59 sheet(s).",
+    "Double-paged plates numbered 1 - 28. Bound. Other places as they appear on original: Hoboken.",
+    "Publication statement: Sanborn Map Company, Vol. 7, 1891",
+    "Vol. 7, 1891.",
+    "Vol. 7, 1891. 59 sheet(s). Double-paged plates numbered 1 - 28. Bound. Other places as they appear on original: Hoboken."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814hm.g3814hm_g05511189107",
+    "http://www.loc.gov/item/sanborn05511_007/",
+    "http://www.loc.gov/resource/g3814hm.g3814hm_g05511189107/",
+    "https://hdl.loc.gov/loc.gmd/g3814hm.g3814hm_g05511189107",
+    "https://www.loc.gov/item/sanborn05511_007",
+    "https://www.loc.gov/item/sanborn05511_007/",
+    "https://www.loc.gov/resource/g3814hm.g3814hm_g05511189107"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn05511_007/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381m/g3814m/g3814hm/g3814hm_g05511189107/05511_07_1891-0000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn05511_007/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "hoboken",
+    "hudson co.",
+    "hudson county",
+    "new jersey",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Hudson Co., Hudson County, New Jersey.",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn05511_007",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

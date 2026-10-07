@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Меркаторская карта Северо-восточной части Сибири к путешествию лейтенанта барона Врангеля, в 1820, 21, 22 и 23 годах"
+  ],
+  "dct_description_sm": [
+    "Cherno-belai︠a︡. Iz [Atlasa k puteshestvii︠u︡ Vrangeli︠a︡], 1841.Kartograficheskai︠a︡ setka po dolgote cherez 10°, s vykhodom koordinat cherez 5°, po shirote cherez 5°, s vykhodom koordinat cherez 1°; schet dolgot ot Grinvicha.",
+    "Cherno-belai︠a︡. Iz [Atlasa k puteshestvii︠u︡ Vrangeli︠a︡], 1841.Kartograficheskai︠a︡ setka po dolgote cherez 10°, s vykhodom koordinat cherez 5°, po shirote cherez 5°, s vykhodom koordinat cherez 1°; schet dolgot ot Grinvicha. Uslovnye znaki: put' na nartakh, put' na verkhovykh loshadi︠a︡kh, mesta, opredelennye po shirotam i dolgotam, severnyĭ predel lesov, granit︠s︡a. Pokazany: naselennye punkty (na puti sledovanii︠a︡ ėkspedit︠s︡ii, s datoĭ stoi︠a︡nok v nikh), mesta stoi︠a︡nok ėkspedit︠s︡ii Vrangeli︠a︡, mar. Original map at: National Library of Russia Черно-белая. Из [Атласа к путешествию Врангеля], 1841.Картографическая сетка по долготе через 10°, с выходом координат через 5°, по широте через 5°, с выходом координат через 1°; счет долгот от Гринвича. Условные знаки: путь на нартах, путь на верховых лошадях, места, определенные по широтам и долготам, северный предел лесов, граница. Показаны: населенные пункты (на пути следования экспедиции, с датой стоянок в них), места стоянок экспедиции Врангеля, мар.",
+    "Original map at: National Library of Russia",
+    "Publication statement: [place of publication not identified] : [publisher not identified], [1841]",
+    "Uslovnye znaki: put' na nartakh, put' na verkhovykh loshadi︠a︡kh, mesta, opredelennye po shirotam i dolgotam, severnyĭ predel lesov, granit︠s︡a. Pokazany: naselennye punkty (na puti sledovanii︠a︡ ėkspedit︠s︡ii, s datoĭ stoi︠a︡nok v nikh), mesta stoi︠a︡nok ėkspedit︠s︡ii Vrangeli︠a︡, mar.",
+    "Условные знаки: путь на нартах, путь на верховых лошадях, места, определенные по широтам и долготам, северный предел лесов, граница. Показаны: населенные пункты (на пути следования экспедиции, с датой стоянок в них), места стоянок экспедиции Врангеля, мар.",
+    "Черно-белая. Из [Атласа к путешествию Врангеля], 1841.Картографическая сетка по долготе через 10°, с выходом координат через 5°, по широте через 5°, с выходом координат через 1°; счет долгот от Гринвича."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693903",
+    "http://www.loc.gov/item/2018693903/",
+    "http://www.loc.gov/resource/gdc.2018693903/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.nmap031",
+    "https://search.catalog.loc.gov/instances/8a4a7df8-439c-5a55-a81d-4f49b5191648",
+    "https://www.loc.gov/item/2018693903/"
+  ],
+  "dct_issued_s": "1841",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693903.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693903/2018693903.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693903:nmap031/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693903/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Ethnography",
+    "Russian Federation",
+    "Siberia",
+    "maps"
+  ],
+  "dct_temporal_sm": [
+    "1841"
+  ],
+  "dct_title_s": "Merkatorskai︠a︡ karta Severo-vostochnoĭ chasti Sibiri k puteshestvii︠u︡ leĭtenanta barona Vrangeli︠a︡, v 1820, 21, 22 i 23 godakh",
+  "gbl_dateRange_drsim": [
+    "[1841 TO 1841]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1841
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693903",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

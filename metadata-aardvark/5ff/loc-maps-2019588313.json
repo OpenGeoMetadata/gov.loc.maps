@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by index map of Indiana 1:25,000 A.M.S. V851, 1 map : color ; 36 x 45 cm.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service, cartographer",
+    "Includes various editions of some sheets.",
+    "Publication statement: Washington, D.C. : Army Map Service, 1949-",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Accompanied by index map of Indiana 1:25,000 A.M.S. V851, 1 map : color ; 36 x 45 cm. Includes various editions of some sheets. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2019588313",
+    "http://www.loc.gov/item/2019588313/",
+    "http://www.loc.gov/resource/g4090m.gct00602/",
+    "https://hdl.loc.gov/loc.gmd/g4090m.gct00602",
+    "https://search.catalog.loc.gov/instances/6078ff86-7bb5-57df-96df-7adfe8c51631",
+    "https://www.loc.gov/item/2019588313/"
+  ],
+  "dct_issued_s": "1949",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409m/g4090m/g4090m/gct00602/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2019588313/\"}",
+  "dct_spatial_sm": [
+    "indiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Indiana--Maps",
+    "United States--Indiana"
+  ],
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "dct_title_s": "Indiana 1:25,000",
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1949]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2019588313",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

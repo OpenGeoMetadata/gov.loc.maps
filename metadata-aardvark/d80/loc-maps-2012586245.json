@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright 1879, W.C. Walsh, Commissioner of the Gen. Land Office of the State of Texas.\"",
+    "\"Lithographed by A. Gast & Co.-St. Louis & N.Y. new process.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: August Gast & Co; Walsh, W. C. (William C.), 1836-1924",
+    "LC Land ownership maps, 911",
+    "Publication statement: [Austin, Tex.] : Texas General Land Office, c1879.",
+    "Shows land ownership.",
+    "Shows land ownership. \"Copyright 1879, W.C. Walsh, Commissioner of the Gen. Land Office of the State of Texas.\" \"Lithographed by A. Gast & Co.-St. Louis & N.Y. new process.\" Two copies. Copy 1 has losses along the borders. Copy 2 has losses along the borders. LC Land ownership maps, 911 Available also through the Library of Congress Web site as a raster image.",
+    "Two copies. Copy 1 has losses along the borders. Copy 2 has losses along the borders."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033b.la000911",
+    "http://lccn.loc.gov/2012586245",
+    "http://www.loc.gov/item/2012586245/",
+    "http://www.loc.gov/resource/g4033b.la000911/",
+    "https://hdl.loc.gov/loc.gmd/g4033b.la000911",
+    "https://search.catalog.loc.gov/instances/a3ed80d3-9535-5b74-9c88-1b9fcf063a88",
+    "https://www.loc.gov/item/2012586245/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033b/la000911.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012586245/\"}",
+  "dct_spatial_sm": [
+    "burleson county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Burleson County (Tex.)--Maps",
+    "Landowners--Texas--Burleson County--Maps",
+    "Real property--Texas--Burleson County--Maps",
+    "United States--Texas--Burleson County"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Map of Burleson Co., Texas",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012586245",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

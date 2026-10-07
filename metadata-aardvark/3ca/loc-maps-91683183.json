@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Covers vicinity of Center Market bounded by 4th, B, 11th, and D streets N.W.",
+    "Covers vicinity of Center Market bounded by 4th, B, 11th, and D streets N.W. Shows block outlines, numbers, and dimensions. Pen-and-ink (black and brown) on tracing linen. Probably traced by Dr. Joseph M. Toner from an earlier map dated ca. 180-. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "DCP",
+    "Pen-and-ink (black and brown) on tracing linen.",
+    "Probably traced by Dr. Joseph M. Toner from an earlier map dated ca. 180-.",
+    "Publication statement: [187-?]",
+    "Shows block outlines, numbers, and dimensions.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852c.ct004044",
+    "http://lccn.loc.gov/91683183",
+    "http://www.loc.gov/item/91683183/",
+    "http://www.loc.gov/resource/g3852c.ct004044/",
+    "https://hdl.loc.gov/loc.gmd/g3852c.ct004044",
+    "https://search.catalog.loc.gov/instances/f6d556b9-d5b7-5fdf-8946-d8d26f174326",
+    "https://www.loc.gov/item/91683183/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852c/ct004044.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91683183/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington"
+  ],
+  "dct_subject_sm": [
+    "Center Market (Washington, D.C.)--Maps, Manuscript",
+    "Manuscript maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1800 d1809"
+  ],
+  "dct_title_s": "Original divisions of market squares : [Washington D.C.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91683183",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

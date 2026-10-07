@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"A.M.S. G541.\"",
+    "\"G.S.G.S. 4434.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service, cartographer",
+    "Publication statement: Washington : Army Map Service, 1942-",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Various editions of some sheets. \"G.S.G.S. 4434.\" \"A.M.S. G541.\" Available also through the Library of Congress Web site as a raster image.",
+    "Various editions of some sheets."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8860m.gct00167",
+    "http://lccn.loc.gov/2009575772",
+    "http://www.loc.gov/item/2009575772/",
+    "http://www.loc.gov/resource/g8860m.gct00167/",
+    "https://hdl.loc.gov/loc.gmd/g8860m.gct00167",
+    "https://search.catalog.loc.gov/instances/b3bbcf6c-25d7-5c62-9401-69335ecd936e",
+    "https://www.loc.gov/item/2009575772/"
+  ],
+  "dct_issued_s": "1942",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8m/g8860m/g8860m/gct00167/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009575772/\"}",
+  "dct_spatial_sm": [
+    "sierra leone"
+  ],
+  "dct_subject_sm": [
+    "Sierra Leone",
+    "Sierra Leone--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "dct_title_s": "Sierra Leone, Africa - 1:250,000",
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1942]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1942
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009575772",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

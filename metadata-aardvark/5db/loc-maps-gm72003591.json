@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2",
+    "Accompanied by Hills map collection title page and table of contents.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Grant, James, deputy surveyor; [Sutherland, Alexander (Engineer])",
+    "Has watermark.",
+    "LC Maps of North America, 1750-1789, 1249",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Has watermark. Relief shown by shading. Sketch of Bonhamton shows \"Redoubts for its defence in the winter, 1776-1777.\" Accompanied by Hills map collection title page and table of contents. Scale ca. 1:12,000 and scale not given. LC Maps of North America, 1750-1789, 1249 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1; 651/2",
+    "Publication statement: [1777?]",
+    "Relief shown by shading.",
+    "Scale ca. 1:12,000 and scale not given.",
+    "Sketch of Bonhamton shows \"Redoubts for its defence in the winter, 1776-1777.\"",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814p.ar124900",
+    "http://lccn.loc.gov/gm72003591",
+    "http://www.loc.gov/item/gm72003591/",
+    "http://www.loc.gov/resource/g3814p.ar124900/",
+    "https://hdl.loc.gov/loc.gmd/g3814p.ar124900",
+    "https://search.catalog.loc.gov/instances/3d070676-da70-5f38-a185-0f03c5d21b21",
+    "https://www.loc.gov/item/gm72003591/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814p/ar124900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm72003591/\"}",
+  "dct_spatial_sm": [
+    "bonhamtown",
+    "new jersey",
+    "perth amboy",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Bonhamtown (N.J.)--Maps, Manuscript--Early works to 1800",
+    "Perth Amboy (N.J.)--Maps, Manuscript--Early works to 1800",
+    "United States--New Jersey--Bonhamtown",
+    "United States--New Jersey--Perth Amboy"
+  ],
+  "dct_temporal_sm": [
+    "1777",
+    "[1777?]"
+  ],
+  "dct_title_s": "Plan of Perth Amboy from an actual survey. Sketch of Bonham Town",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm72003591",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

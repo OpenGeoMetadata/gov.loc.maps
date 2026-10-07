@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "伏見城下町絵図"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing landownership in Fushimi, Kyoto.",
+    "Cadastral map showing landownership in Fushimi, Kyoto. Relief shown pictorially. Title will be \"Fushimi jōka ezu\" inferred from OPAC https://kochizu.gsi.go.jp/items/156, Nov. 25, 2020. Date, scale, and authorship of the map are not indicated. The map was most likely made between 1595 and 1598 before the Uji River was made into Lake. Incomplete legend data: color codes lacking explanation. Red indicates castle, blue means water or river; yellow indicates street; and green means grass or trees. Includes text and col. ill. Available also through the Library of Congress Web site as a raster image. Class no. will be changed to G7964.K98G46 1595 .F81 Vault.",
+    "Class no. will be changed to G7964.K98G46 1595 .F81 Vault.",
+    "Date, scale, and authorship of the map are not indicated. The map was most likely made between 1595 and 1598 before the Uji River was made into Lake.",
+    "Includes text and col. ill.",
+    "Incomplete legend data: color codes lacking explanation. Red indicates castle, blue means water or river; yellow indicates street; and green means grass or trees.",
+    "Publication statement: [Japan : publisher not identified], [between 1595 and 1598?]",
+    "Relief shown pictorially.",
+    "Title will be \"Fushimi jōka ezu\" inferred from OPAC https://kochizu.gsi.go.jp/items/156, Nov. 25, 2020."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2012587014",
+    "http://www.loc.gov/item/2012587014/",
+    "http://www.loc.gov/resource/g7964k.ct011895/",
+    "https://hdl.loc.gov/loc.gmd/g7964k.ct011895",
+    "https://search.catalog.loc.gov/instances/2e8b2418-99a9-5479-a9e7-47e5ebcca866",
+    "https://www.loc.gov/item/2012587014/"
+  ],
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7964/g7964k/ct011895.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012587014/\"}",
+  "dct_spatial_sm": [
+    "honshū",
+    "japan",
+    "kyoto"
+  ],
+  "dct_subject_sm": [
+    "Honshū (Japan)--Maps",
+    "Japan--Honshū",
+    "Japan--Kyoto",
+    "Kyoto (Japan)--Maps",
+    "Landowners--Japan--Kyoto--Maps",
+    "Real Property--Japan--Kyoto--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1595",
+    "[Japan : publisher not identified], [between 1595 and 1598?]"
+  ],
+  "dct_title_s": "Fushimi jōka machiezu",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012587014",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

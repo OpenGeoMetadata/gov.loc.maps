@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "AACR2 Includes illus. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1070 Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Borders trimmed off.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes illus.",
+    "LC copy imperfect: Borders trimmed off.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1070",
+    "Perspective map not drawn to scale.",
+    "Publication statement: n.p., between 1870 and 1880]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3464c.pm010700",
+    "http://lccn.loc.gov/75696737",
+    "http://www.loc.gov/item/75696737/",
+    "http://www.loc.gov/resource/g3464c.pm010700/",
+    "https://hdl.loc.gov/loc.gmd/g3464c.pm010700",
+    "https://search.catalog.loc.gov/instances/6d7a9123-4abb-5843-bbd5-702468d841b8",
+    "https://www.loc.gov/item/75696737/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3464/g3464c/pm010700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75696737/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "chatham",
+    "ontario"
+  ],
+  "dct_subject_sm": [
+    "Canada--Ontario--Chatham",
+    "Chatham (Ont.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1870",
+    "n.p., between 1870 and 1880]"
+  ],
+  "dct_title_s": "[Bird's eye view of Chatham, Ontario",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75696737",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

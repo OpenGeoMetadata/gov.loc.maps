@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisition Control Number: ACQ0011969",
+    "An Intact Forest Landscape (IFL) is a seamless mosaic of forest and naturally treeless ecosystems within the zone of current forest extent, which exhibit no remotely detected signs of human activity or habitat fragmentation and is large enough to maintain all native biological diversity, including viable populations of wide-ranging species. IFLs have high conservation value and are critical for stabilizing terrestrial carbon storage, harboring biodiversity, regulating hydrological regimes, and providing other ecosystem functions.",
+    "Contributors: Global Forest Watch (Organization), cartographer",
+    "Dataset includes shapefiles for intact forest landscapes for the years 2000, 2013, 2016, and 2020, as well as forest zone extent.",
+    "Publication statement: United States : Global Forest Watch, [2006-2021]; © 2006-2021.",
+    "Source data scale 1:1,000,000.",
+    "Title from website.",
+    "Title from website. Source data scale 1:1,000,000. An Intact Forest Landscape (IFL) is a seamless mosaic of forest and naturally treeless ecosystems within the zone of current forest extent, which exhibit no remotely detected signs of human activity or habitat fragmentation and is large enough to maintain all native biological diversity, including viable populations of wide-ranging species. IFLs have high conservation value and are critical for stabilizing terrestrial carbon storage, harboring biodiversity, regulating hydrological regimes, and providing other ecosystem functions. Dataset includes shapefiles for intact forest landscapes for the years 2000, 2013, 2016, and 2020, as well as forest zone extent. Acquisition Control Number: ACQ0011969"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024586134",
+    "http://www.loc.gov/item/2024586134/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586134/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586134",
+    "https://www.loc.gov/item/2024586134/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2024586134/\"}",
+  "dct_rights_sm": [
+    "Distributed under a Creative Commons 4.0 International License. Copyright The IFL Mapping Team, 2006-2021. DLC https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_spatial_sm": [
+    "earth (planet)",
+    "greece"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)",
+    "Forests and forestry--Greece--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2006/2021"
+  ],
+  "dct_title_s": "Intact forest landscapes",
+  "gbl_dateRange_drsim": [
+    "[2006 TO 2021]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024586134",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

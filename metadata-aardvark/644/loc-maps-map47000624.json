@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Vallancey, Charles, 1721-1812, cartographer",
+    "Includes 8 folded color maps.",
+    "Includes 8 folded color maps. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Dublin?] : [publisher not identified], [1776]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map47000624",
+    "http://www.loc.gov/item/map47000624/",
+    "http://www.loc.gov/resource/gmdatlases.map47000624/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.map47000624",
+    "https://search.catalog.loc.gov/instances/6a73a564-67a3-5c91-ac3f-042f11641003",
+    "https://www.loc.gov/item/map47000624/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:ma:p4:70:00:62:4:map47000624:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map47000624/\"}",
+  "dct_spatial_sm": [
+    "ireland"
+  ],
+  "dct_subject_sm": [
+    "Ireland",
+    "Ireland--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "The military survey of Ireland",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map47000624",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

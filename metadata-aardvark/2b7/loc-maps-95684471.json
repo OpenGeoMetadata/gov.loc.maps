@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"6-49.\"",
+    "Also covers Susquehanna River watershed.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes notes.",
+    "Publication statement: [Washington, D.C.?] : The Service ; [Chester, Pa. : Northeast National Technical Center, distributor, 1994?]",
+    "Shows increase/decrease of prime farmland by 10% increments within hydrologic units (regions).",
+    "Shows increase/decrease of prime farmland by 10% increments within hydrologic units (regions). Also covers Susquehanna River watershed. Includes notes. \"6-49.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842c.ct008677",
+    "http://lccn.loc.gov/95684471",
+    "http://www.loc.gov/item/95684471/",
+    "http://www.loc.gov/resource/g3842c.ct008677/",
+    "https://hdl.loc.gov/loc.gmd/g3842c.ct008677",
+    "https://search.catalog.loc.gov/instances/818adadd-8559-5141-b353-e6c36e96d6cd",
+    "https://www.loc.gov/item/95684471/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842c/ct008677.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95684471/\"}",
+  "dct_spatial_sm": [
+    "chesapeake bay watershed",
+    "delaware",
+    "district of columbia",
+    "maryland",
+    "new york (state)",
+    "pennsylvania",
+    "susquehanna river watershed",
+    "united states",
+    "virginia",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Agriculture--Economic aspects--Chesapeake Bay Watershed--Maps",
+    "Agriculture--Economic aspects--Susquehanna River Watershed--Maps",
+    "Land use, Rural--Economic aspects--Chesapeake Bay Watershed--Maps",
+    "Land use, Rural--Economic aspects--Susquehanna River Watershed--Maps",
+    "United States--Delaware--Chesapeake Bay Watershed",
+    "United States--District of Columbia--Chesapeake Bay Watershed",
+    "United States--Maryland--Chesapeake Bay Watershed",
+    "United States--Maryland--Susquehanna River Watershed",
+    "United States--New York (State)--Chesapeake Bay Watershed",
+    "United States--New York (State)--Susquehanna River Watershed",
+    "United States--Pennsylvania--Chesapeake Bay Watershed",
+    "United States--Pennsylvania--Susquehanna River Watershed",
+    "United States--Virginia--Chesapeake Bay Watershed",
+    "United States--West Virginia--Chesapeake Bay Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1982 d1992",
+    "[Washington, D.C.?] : The Service ; [Chester, Pa. : Northeast National Technical Center, distributor, 1994?]"
+  ],
+  "dct_title_s": "Chesapeake Bay watershed, percent change in farming of prime farmland 1982-1992",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95684471",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}
