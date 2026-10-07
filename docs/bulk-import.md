@@ -39,8 +39,10 @@ processing can enrich these records through the existing review process.
 Download the official `https://loc-sanborn-maps.s3.amazonaws.com/metadata.jsonl`.
 Verify its SHA-256 against `reports/sanborn-bulk.json`. Restore the versioned
 `loc-state-production` artifact from [run 37618971993](https://github.com/OpenGeoMetadata/gov.loc.maps/actions/runs/37618971993)
-with the normal `loc-maps restore` command. The daily recovery snapshot provides
-an additional copy if workflow artifacts expire. Use the checkpoint from that run
+with the normal `loc-maps restore` command. The exact JSONL source, source README,
+and checkpoint archive are also retained as assets on the draft release
+`source-sanborn-20261007` (visible to maintainers), so reproduction does not depend
+on workflow artifact retention. Use the checkpoint from that run
 for identical scope; later checkpoints can include more records.
 
 From this checkout, with dependencies installed:
