@@ -1,9 +1,9 @@
-# Library of Congress Maps — incomplete pilot preview
+# Library of Congress Maps — partial collection
 
-**This branch contains 126 validated Aardvark item records plus one collection record.**
-Browse [metadata-aardvark/](metadata-aardvark/). Only 126 of the 200 selected pilot
-items have been fetched; this is not the complete LOC collection. Do not merge this
-preview as the production release. The production harvester continues independently.
+**13,014 map items plus one collection record are available in this branch.**
+Browse [metadata-aardvark/](metadata-aardvark/). The bulk import adds 12,888
+inventory-matched Sanborn items. Full collection reconciliation remains pending.
+See the [bulk import report](reports/sanborn-bulk.json) and [reproduction instructions](docs/bulk-import.md).
 
 # Project documentation
 
@@ -15,10 +15,9 @@ Congress product**. It follows the publishing conventions of
 
 ## Publication status
 
-**The default branch contains an incomplete preview: 126 item records plus one
-collection record.** Browse [metadata-aardvark/](metadata-aardvark/). The full
-collection harvest is not yet complete; the collection record and preview report
-identify this limitation.
+This branch contains a partial collection, including a bulk metadata import from
+the official LC Labs Sanborn package. Existing pilot records are preserved.
+This is not a reconciled full release; weekly updates remain disabled.
 
 The recovery workflow can seed a full harvest from the verified pilot cache,
 retaining all downloaded sources while requiring a new, complete inventory.

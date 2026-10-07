@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "019. 11 skeleton maps. Other places as they appear on original: Jersey City.",
+    "72 sheet(s).",
+    "Publication statement: Sanborn Map Company, Vol. 3, 1910 - Dec 1950",
+    "Vol. 3, 1910 - Dec 1950.",
+    "Vol. 3, 1910 - Dec 1950. 72 sheet(s). 019. 11 skeleton maps. Other places as they appear on original: Jersey City."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814hm.g3814hm_g05511195003",
+    "http://www.loc.gov/item/sanborn05511_030/",
+    "http://www.loc.gov/resource/g3814hm.g3814hm_g05511195003/",
+    "https://hdl.loc.gov/loc.gmd/g3814hm.g3814hm_g05511195003",
+    "https://www.loc.gov/item/sanborn05511_030",
+    "https://www.loc.gov/item/sanborn05511_030/",
+    "https://www.loc.gov/resource/g3814hm.g3814hm_g05511195003"
+  ],
+  "dct_issued_s": "1950-12",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn05511_030/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381m/g3814m/g3814hm/g3814hm_g05511195003/05511_03_1950-0000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn05511_030/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "hudson co.",
+    "hudson county",
+    "jersey city",
+    "new jersey",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1950-12"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Hudson Co., Hudson County, New Jersey.",
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1950]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn05511_030",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

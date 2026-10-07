@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "1923; Republished 1954.",
+    "1923; Republished 1954. 77 sheet(s). 35 X 29 cm. Bound. Other places as they appear on original: Brokaw, Rothschild, Schofield.",
+    "35 X 29 cm. Bound. Other places as they appear on original: Brokaw, Rothschild, Schofield.",
+    "77 sheet(s).",
+    "Publication statement: Sanborn Map Company, 1923; Republished 1954"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4124wm.g097311954",
+    "http://www.loc.gov/item/sanborn09731_008/",
+    "http://www.loc.gov/resource/g4124wm.g097311954/",
+    "https://hdl.loc.gov/loc.gmd/g4124wm.g097311954",
+    "https://www.loc.gov/item/sanborn09731_008",
+    "https://www.loc.gov/item/sanborn09731_008/",
+    "https://www.loc.gov/resource/g4124wm.g097311954"
+  ],
+  "dct_issued_s": "1954",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn09731_008/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412m/g4124m/g4124wm/g097311954/09731_1954-0000a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn09731_008/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "brokaw",
+    "marathon county",
+    "rothschild",
+    "schofield",
+    "united states",
+    "wausau",
+    "wisconsin"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Wausau, Marathon County, Wisconsin.",
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1954]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn09731_008",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

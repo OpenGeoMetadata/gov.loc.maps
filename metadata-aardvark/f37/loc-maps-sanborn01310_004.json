@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "1948 - 1960; Republished 1960 Vol. 2.",
+    "1948 - 1960; Republished 1960 Vol. 2. 57 sheet(s). Bound. Other places as they appear on original: Bal Harbour, Bay Harbor Islands, Golden Beach, Indian Creek Village, North Bay Village, Sunny Isles, Surfside.",
+    "57 sheet(s).",
+    "Bound. Other places as they appear on original: Bal Harbour, Bay Harbor Islands, Golden Beach, Indian Creek Village, North Bay Village, Sunny Isles, Surfside.",
+    "Publication statement: Sanborn Map Company, 1948 - 1960; Republished 1960 Vol. 2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3934mm.g3934mm_g01310196002",
+    "http://www.loc.gov/item/sanborn01310_004/",
+    "http://www.loc.gov/resource/g3934mm.g3934mm_g01310196002/",
+    "https://hdl.loc.gov/loc.gmd/g3934mm.g3934mm_g01310196002",
+    "https://www.loc.gov/item/sanborn01310_004",
+    "https://www.loc.gov/item/sanborn01310_004/",
+    "https://www.loc.gov/resource/g3934mm.g3934mm_g01310196002"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn01310_004/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393m/g3934m/g3934mm/g3934mm_g01310196002/01310_02_1960-0000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn01310_004/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "bal harbour",
+    "bay harbor islands",
+    "dade county",
+    "florida",
+    "golden beach",
+    "indian creek village",
+    "miami beach",
+    "north bay village",
+    "sunny isles",
+    "surfside",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1948/1960"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Miami Beach, Dade County, Florida.",
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1960]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn01310_004",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

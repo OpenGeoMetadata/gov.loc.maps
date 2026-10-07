@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "8 sheet(s).",
+    "May 1911.",
+    "May 1911. 8 sheet(s).",
+    "Publication statement: Sanborn Map Company, May 1911"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4034mm.g4034mm_g086671911",
+    "http://www.loc.gov/item/sanborn08667_006/",
+    "http://www.loc.gov/resource/g4034mm.g4034mm_g086671911/",
+    "https://hdl.loc.gov/loc.gmd/g4034mm.g4034mm_g086671911",
+    "https://www.loc.gov/item/sanborn08667_006",
+    "https://www.loc.gov/item/sanborn08667_006/",
+    "https://www.loc.gov/resource/g4034mm.g4034mm_g086671911"
+  ],
+  "dct_issued_s": "1911-05",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn08667_006/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403m/g4034m/g4034mm/g4034mm_g086671911/08667_1911-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn08667_006/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "mount pleasant",
+    "texas",
+    "titus county",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1911-05"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Mount Pleasant, Titus County, Texas.",
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1911
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn08667_006",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,26 @@
+{
+  "added": 12888,
+  "checkpoint_run": "https://github.com/OpenGeoMetadata/gov.loc.maps/actions/runs/37618971993",
+  "download_seconds_approximate": 19,
+  "existing_preserved": 1,
+  "generated_total": 13015,
+  "geometry_policy": "Enriched city coordinates are excluded",
+  "geometry_records": 0,
+  "inventory_complete": false,
+  "mapping": "sanborn-bulk-v1",
+  "matched": 12889,
+  "membership": "Exact canonical identifier match against checkpoint items",
+  "not_yet_discovered": 37711,
+  "package_documentation": "https://data.labs.loc.gov/sanborn/",
+  "references": {
+    "http://iiif.io/api/presentation#manifest": 12992,
+    "http://schema.org/downloadUrl": 104,
+    "http://schema.org/thumbnailUrl": 12989,
+    "http://schema.org/url": 13015
+  },
+  "source": "https://loc-sanborn-maps.s3.amazonaws.com/metadata.jsonl",
+  "source_compiled": "2024-01",
+  "source_records": 50600,
+  "source_sha256": "c553e098012136d1942dbbd421eac6af9c9d587cf6fe69272c2bc2e97c0f16be",
+  "withdrawals_enabled": false
+}

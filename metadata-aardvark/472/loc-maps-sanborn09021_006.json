@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "20 sheet(s).",
+    "May 1912.",
+    "May 1912. 20 sheet(s). Other places as they appear on original: Falmouth, Stafford Co; Spottsylvania Court House, Spottsylvania Co.",
+    "Other places as they appear on original: Falmouth, Stafford Co; Spottsylvania Court House, Spottsylvania Co.",
+    "Publication statement: Sanborn Map Company, May 1912"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884fm.g3884fm_g090211912",
+    "http://www.loc.gov/item/sanborn09021_006/",
+    "http://www.loc.gov/resource/g3884fm.g3884fm_g090211912/",
+    "https://hdl.loc.gov/loc.gmd/g3884fm.g3884fm_g090211912",
+    "https://www.loc.gov/item/sanborn09021_006",
+    "https://www.loc.gov/item/sanborn09021_006/",
+    "https://www.loc.gov/resource/g3884fm.g3884fm_g090211912"
+  ],
+  "dct_issued_s": "1912-05",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn09021_006/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388m/g3884m/g3884fm/g3884fm_g090211912/09021_1912-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn09021_006/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "falmouth",
+    "fredericksburg",
+    "independent cities",
+    "spottsylvania county",
+    "spottsylvania court house",
+    "stafford county",
+    "united states",
+    "virginia"
+  ],
+  "dct_temporal_sm": [
+    "1912-05"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Fredericksburg, Independent Cities, Virginia.",
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn09021_006",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

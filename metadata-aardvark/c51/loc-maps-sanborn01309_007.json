@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "123 sheet(s).",
+    "1921.",
+    "1921. 123 sheet(s). Map of congested district. 2 skeleton maps. Bound (not titled as Vol. 1).",
+    "Map of congested district. 2 skeleton maps. Bound (not titled as Vol. 1).",
+    "Publication statement: Sanborn Map Company, 1921"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3934mm.g3934mm_g013091921",
+    "http://www.loc.gov/item/sanborn01309_007/",
+    "http://www.loc.gov/resource/g3934mm.g3934mm_g013091921/",
+    "https://hdl.loc.gov/loc.gmd/g3934mm.g3934mm_g013091921",
+    "https://www.loc.gov/item/sanborn01309_007",
+    "https://www.loc.gov/item/sanborn01309_007/",
+    "https://www.loc.gov/resource/g3934mm.g3934mm_g013091921"
+  ],
+  "dct_issued_s": "1924",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn01309_007/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393m/g3934m/g3934mm/g3934mm_g013091921/01309_1921-0000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn01309_007/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "dade county",
+    "florida",
+    "miami",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Miami, Dade County, Florida.",
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1924]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1924
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn01309_007",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

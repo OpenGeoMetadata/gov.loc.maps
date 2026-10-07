@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "42 sheet(s).",
+    "Feb 1926.",
+    "Feb 1926. 42 sheet(s). Other places as they appear on original: South Beloit, Illinois.",
+    "Other places as they appear on original: South Beloit, Illinois.",
+    "Publication statement: Sanborn Map Company, Feb 1926"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4124bm.g094961926",
+    "http://www.loc.gov/item/sanborn09496_007/",
+    "http://www.loc.gov/resource/g4124bm.g094961926/",
+    "https://hdl.loc.gov/loc.gmd/g4124bm.g094961926",
+    "https://www.loc.gov/item/sanborn09496_007",
+    "https://www.loc.gov/item/sanborn09496_007/",
+    "https://www.loc.gov/resource/g4124bm.g094961926"
+  ],
+  "dct_issued_s": "1926-02",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn09496_007/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412m/g4124m/g4124bm/g094961926/09496_1926-0000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn09496_007/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "beloit",
+    "illinois",
+    "rock county",
+    "south beloit",
+    "united states",
+    "wisconsin"
+  ],
+  "dct_temporal_sm": [
+    "1926-02"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Beloit, Rock County, Wisconsin.",
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1926]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1926
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn09496_007",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

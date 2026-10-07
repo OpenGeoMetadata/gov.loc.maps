@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "082. Key map to edition.",
+    "117 sheet(s).",
+    "1920 - Oct 1950; Vol. 2.",
+    "1920 - Oct 1950; Vol. 2. 117 sheet(s). 082. Key map to edition.",
+    "Publication statement: Sanborn Map Company, 1920 - Oct 1950; Vol. 2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4364sm.g4364sm_g00810195002",
+    "http://www.loc.gov/item/sanborn00810_009/",
+    "http://www.loc.gov/resource/g4364sm.g4364sm_g00810195002/",
+    "https://hdl.loc.gov/loc.gmd/g4364sm.g4364sm_g00810195002",
+    "https://www.loc.gov/item/sanborn00810_009",
+    "https://www.loc.gov/item/sanborn00810_009/",
+    "https://www.loc.gov/resource/g4364sm.g4364sm_g00810195002"
+  ],
+  "dct_issued_s": "1950",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn00810_009/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436m/g4364m/g4364sm/g4364sm_g00810195002/00810_02_1950-0000a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn00810_009/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "california",
+    "san diego",
+    "san diego county",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from San Diego, San Diego County, California.",
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1950]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn00810_009",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

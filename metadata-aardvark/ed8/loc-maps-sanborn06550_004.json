@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "5 sheet(s).",
+    "Feb 1908.",
+    "Feb 1908. 5 sheet(s).",
+    "Publication statement: Sanborn Map Company, Feb 1908"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4174lm.g065501908",
+    "http://www.loc.gov/item/sanborn06550_004/",
+    "http://www.loc.gov/resource/g4174lm.g065501908/",
+    "https://hdl.loc.gov/loc.gmd/g4174lm.g065501908",
+    "https://www.loc.gov/item/sanborn06550_004",
+    "https://www.loc.gov/item/sanborn06550_004/",
+    "https://www.loc.gov/resource/g4174lm.g065501908"
+  ],
+  "dct_issued_s": "1908-02",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn06550_004/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd417m/g4174m/g4174lm/g065501908/06550_1908-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn06550_004/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "lisbon",
+    "north dakota",
+    "ransom county",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1908-02"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Lisbon, Ransom County, North Dakota.",
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1908]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1908
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn06550_004",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

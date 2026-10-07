@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "13 sheet(s).",
+    "Aug 1917.",
+    "Aug 1917. 13 sheet(s). Other places as they appear on original: Nogales, Mexico..",
+    "Other places as they appear on original: Nogales, Mexico..",
+    "Publication statement: Sanborn Map Company, Aug 1917"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4334nm.g001641917",
+    "http://www.loc.gov/item/sanborn00164_006/",
+    "http://www.loc.gov/resource/g4334nm.g001641917/",
+    "https://hdl.loc.gov/loc.gmd/g4334nm.g001641917",
+    "https://www.loc.gov/item/sanborn00164_006",
+    "https://www.loc.gov/item/sanborn00164_006/",
+    "https://www.loc.gov/resource/g4334nm.g001641917"
+  ],
+  "dct_issued_s": "1917-08",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn00164_006/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd433m/g4334m/g4334nm/g001641917/00164_1917-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn00164_006/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "arizona",
+    "mexico",
+    "nogales",
+    "santa cruz county",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1917-08"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Nogales, Santa Cruz County, Arizona.",
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1917]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1917
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn00164_006",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

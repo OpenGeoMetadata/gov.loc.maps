@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "3 sheet(s).",
+    "May 1909.",
+    "May 1909. 3 sheet(s).",
+    "Publication statement: Sanborn Map Company, May 1909"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4164hm.g4164hm_g046871909",
+    "http://www.loc.gov/item/sanborn04687_004/",
+    "http://www.loc.gov/resource/g4164hm.g4164hm_g046871909/",
+    "https://hdl.loc.gov/loc.gmd/g4164hm.g4164hm_g046871909",
+    "https://www.loc.gov/item/sanborn04687_004",
+    "https://www.loc.gov/item/sanborn04687_004/",
+    "https://www.loc.gov/resource/g4164hm.g4164hm_g046871909"
+  ],
+  "dct_issued_s": "1909-05",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn04687_004/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd416m/g4164m/g4164hm/g4164hm_g046871909/04687_1909-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn04687_004/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "caldwell county",
+    "hamilton",
+    "missouri",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1909-05"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Hamilton, Caldwell County, Missouri.",
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1909
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn04687_004",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

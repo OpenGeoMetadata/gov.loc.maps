@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "1938.",
+    "1938. 61 sheet(s). Bound.",
+    "61 sheet(s).",
+    "Bound.",
+    "Publication statement: Sanborn Map Company, 1938"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814nm.g3814nm_g055781938",
+    "http://www.loc.gov/item/sanborn05578_001/",
+    "http://www.loc.gov/resource/g3814nm.g3814nm_g055781938/",
+    "https://hdl.loc.gov/loc.gmd/g3814nm.g3814nm_g055781938",
+    "https://www.loc.gov/item/sanborn05578_001",
+    "https://www.loc.gov/item/sanborn05578_001/",
+    "https://www.loc.gov/resource/g3814nm.g3814nm_g055781938"
+  ],
+  "dct_issued_s": "1938",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn05578_001/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381m/g3814m/g3814nm/g3814nm_g055781938/05578_1938-0000a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn05578_001/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "essex county",
+    "new jersey",
+    "nutley-glen ridge",
+    "united states"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Nutley-Glen Ridge, Essex County, New Jersey.",
+  "gbl_dateRange_drsim": [
+    "[1938 TO 1938]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1938
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn05578_001",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

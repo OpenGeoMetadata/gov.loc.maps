@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "5 sheet(s).",
+    "Mar 1906.",
+    "Mar 1906. 5 sheet(s). Other places as they appear on original: Coronado Beach.",
+    "Other places as they appear on original: Coronado Beach.",
+    "Publication statement: Sanborn Map Company, Mar 1906"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3934nm.g3934nm_g013171906",
+    "http://www.loc.gov/item/sanborn01317_003/",
+    "http://www.loc.gov/resource/g3934nm.g3934nm_g013171906/",
+    "https://hdl.loc.gov/loc.gmd/g3934nm.g3934nm_g013171906",
+    "https://www.loc.gov/item/sanborn01317_003",
+    "https://www.loc.gov/item/sanborn01317_003/",
+    "https://www.loc.gov/resource/g3934nm.g3934nm_g013171906"
+  ],
+  "dct_issued_s": "1906-03",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn01317_003/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393m/g3934m/g3934nm/g3934nm_g013171906/01317_1906-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn01317_003/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "coronado beach",
+    "florida",
+    "new smyrna",
+    "united states",
+    "valusia county"
+  ],
+  "dct_temporal_sm": [
+    "1906-03"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from New Smyrna, Valusia County, Florida.",
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation), matched to a later LOC maps discovery. Collection coverage remains incomplete."
+  ],
+  "gbl_indexYear_im": [
+    1906
+  ],
+  "gbl_mdModified_dt": "2026-10-07T13:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn01317_003",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}
