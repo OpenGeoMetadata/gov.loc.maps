@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotated in color to indicate \"gauges of southern rail roads.\" The additions were \"compiled under direction of Lieut. Col. J. N. Macomb, A.D.C., Chief Top. Engr.\" and \"corrected to date Feby. 9th 1864.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Philadelphia Board of Trade. Committee on Inland Transportation",
+    "Copy is partially mutilated; three corners are missing.",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 142",
+    "Listed as \"another copy\" in R.W. Stephenson's Civil War Maps (Washington, Govt. print. off,. 1961), no. 44.",
+    "Publication statement: Philadelphia, Drawn & engraved by P.S. Duval & Son, Lithrs., 1863, c1862.",
+    "Scale ca. 1:1,880,000.",
+    "Shows location and date of engagements, forts, railroads, state and county boundaries, roads, towns, and rivers.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3861p.rr001420",
+    "http://lccn.loc.gov/98688411",
+    "http://www.loc.gov/item/98688411/",
+    "http://www.loc.gov/resource/g3861p.rr001420/",
+    "https://hdl.loc.gov/loc.gmd/g3861p.rr001420",
+    "https://search.catalog.loc.gov/instances/2f950d34-80cf-56b1-9b81-8cd5bac77181",
+    "https://www.loc.gov/item/98688411/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3861/g3861p/rr001420.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688411/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Southern States--Maps",
+    "Railroads--United States--Maps",
+    "United States",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Hazard's rail road & military map of the southern states",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688411",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

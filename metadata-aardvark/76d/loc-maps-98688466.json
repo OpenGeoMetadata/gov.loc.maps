@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Richter, Leopold",
+    "Description derived from published bibliography.",
+    "Detailed map showing relief by hachures, drainage, minerals, township and county boundaries, cities and towns, roads, and railroads.",
+    "LC Railroad maps, 205",
+    "Publication statement: Springfield, Ill., St. Louis Mo., 1861.",
+    "Scale 1:380,160."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4100.rr002050",
+    "http://lccn.loc.gov/98688466",
+    "http://www.loc.gov/item/98688466/",
+    "http://www.loc.gov/resource/g4100.rr002050/",
+    "https://hdl.loc.gov/loc.gmd/g4100.rr002050",
+    "https://search.catalog.loc.gov/instances/80f9e0d9-a15c-56ed-bfc9-251efb457b9a",
+    "https://www.loc.gov/item/98688466/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410/g4100/g4100/rr002050.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688466/\"}",
+  "dct_spatial_sm": [
+    "illinois",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Illinois--Maps",
+    "United States--Illinois"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Sectional map of the state of Illinois : especially exhibiting the exact boundaries of counties as established by law and the general topography of the state as towns, streams, lakes, ponds, bluffs, rail-roads, state-& common-roads & tc. also the main coal field, mineral districts, outcrops of coalbanks, mines & tc",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688466",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Molitor, E.; Poe, O. M. (Orlando Metcalfe), 1832-1895; United States. War Department. Engineer Bureau",
+    "In pencil in upper-right margin: 52.",
+    "Includes note.",
+    "LC copy imperfect: Margins trimmed, mounted on paper.",
+    "Library of Congress. Civil War maps (2nd ed.), S40, 138",
+    "Main entry from Stephenson's Civil War maps, 1989.",
+    "Publication statement: [Washington, D.C.?] : U.S. War Dept., Engineer Bureau, [1864?]",
+    "Relief shown by hachures and spot heights.",
+    "Relief shown by hachures and spot heights. Main entry from Stephenson's Civil War maps, 1989. Includes note. In pencil in upper-right margin: 52. LC copy imperfect: Margins trimmed, mounted on paper. Library of Congress. Civil War maps (2nd ed.), S40, 138 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3924a.cws00040",
+    "http://lccn.loc.gov/2006459233",
+    "http://www.loc.gov/item/2006459233/",
+    "http://www.loc.gov/resource/g3924a.cws00040/",
+    "https://hdl.loc.gov/loc.gmd/g3924a.cws00040",
+    "https://search.catalog.loc.gov/instances/ca924d0c-5f41-5d28-bb23-fa78c3f2f33d",
+    "https://www.loc.gov/item/2006459233/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3924/g3924a/cws00040.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006459233/\"}",
+  "dct_spatial_sm": [
+    "atlanta",
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlanta (Ga.)--History--Civil War, 1861-1865--Maps",
+    "Atlanta Campaign",
+    "Atlanta Campaign, 1864--Maps",
+    "Sherman, William T.--(William Tecumseh),--1820-1891",
+    "United States--Georgia--Atlanta"
+  ],
+  "dct_temporal_sm": [
+    "1864-07-19",
+    "[Washington, D.C.?] : U.S. War Dept., Engineer Bureau, [1864?]"
+  ],
+  "dct_title_s": "Map illustrating the siege of Atlanta, Ga. by the U.S. forces, under command of Maj. Gen. W.T. Sherman : from the passage of Peach Tree Creek, July 19th, 1864 to the commencement of the movement upon the enemy's lines of communication south of Atlanta, August 26, 1864",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006459233",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

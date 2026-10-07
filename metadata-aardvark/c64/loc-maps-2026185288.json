@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1855 by J.H. Colton in the Clerks Office of the District Court of the Southern District of New York.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: J.H. Colton & Co., cartographer, publisher",
+    "LC Land ownership maps, 503",
+    "LC copy is torn along fold lines and margins, and has had extensive repair with preservation paper and tape.",
+    "List of maps of America in the Library of Congress, page 176",
+    "NYCretrocat",
+    "North oriented towards the lower left.",
+    "North oriented towards the lower left. \"Entered according to Act of Congress in the year 1855 by J.H. Colton in the Clerks Office of the District Court of the Southern District of New York.\" LC copy is torn along fold lines and margins, and has had extensive repair with preservation paper and tape. List of maps of America in the Library of Congress, page 176 LC Land ownership maps, 503 Available also through the Library of Congress Web site as a raster image. NYCretrocat",
+    "Publication statement: New York : published by J.H. Colton & Co., no. 172 William Street, 1855."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2026185288",
+    "http://www.loc.gov/item/2026185288/",
+    "http://www.loc.gov/resource/g3804n.la000503a/",
+    "http://www.loc.gov/resource/g3804n.la000503b/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.la000503a",
+    "https://hdl.loc.gov/loc.gmd/g3804n.la000503b",
+    "https://search.catalog.loc.gov/instances/095b84ea-7c7b-4271-bbc0-2e39457b9f58",
+    "https://www.loc.gov/item/2026185288/"
+  ],
+  "dct_issued_s": "1855",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/la000503a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2026185288/\"}",
+  "dct_spatial_sm": [
+    "brooklyn",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Brooklyn (New York, N.Y.)",
+    "Landowners--New York (State)--New York",
+    "Real property--New York (State)--New York",
+    "United States--New York (State)--New York--Brooklyn (New York, N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "dct_title_s": "Map of the city of Brooklyn, as consolidated by an act of the legislature of the state of New York : including Brooklyn, Williamsburgh, Green Point, Bushwick : constructed from the official maps of the commissions and other authentic sources, exhibiting the farm lines & names of original owners",
+  "gbl_dateRange_drsim": [
+    "[1855 TO 1855]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1855
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2026185288",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

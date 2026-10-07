@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Davis, Donald E., 1952-; Geological Survey (U.S.); Wilhelms, Don E.",
+    "Described in: Icarus 15, 1971. p. 368-72.",
+    "Geologic and artistic interpretations have been combined to produce reconstructions of the visual appearance of the Moon at two geologically significant points in its evolution.",
+    "Geologic and artistic interpretations have been combined to produce reconstructions of the visual appearance of the Moon at two geologically significant points in its evolution. Relief shown by shading. Title supplied by cataloger. Maps hand painted on top of original remote-sensing image. Maps signed \"Don Davis\" at lower right. Described in: Icarus 15, 1971. p. 368-72. Available also through the Library of Congress Web site as a raster image.",
+    "Maps hand painted on top of original remote-sensing image.",
+    "Maps signed \"Don Davis\" at lower right.",
+    "Publication statement: [Menlo Park, Calif. : U.S. Geological Survey, 1971]",
+    "Relief shown by shading.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3196c.wc000001",
+    "http://hdl.loc.gov/loc.gmd/g3196c.wc000002",
+    "http://hdl.loc.gov/loc.gmd/g3196c.wc000003",
+    "http://lccn.loc.gov/2006629901",
+    "http://www.loc.gov/item/2006629901/",
+    "http://www.loc.gov/resource/g3196c.wc000001/",
+    "http://www.loc.gov/resource/g3196c.wc000002/",
+    "http://www.loc.gov/resource/g3196c.wc000003/",
+    "https://hdl.loc.gov/loc.gmd/g3196c.wc000001",
+    "https://hdl.loc.gov/loc.gmd/g3196c.wc000002",
+    "https://hdl.loc.gov/loc.gmd/g3196c.wc000003",
+    "https://search.catalog.loc.gov/instances/fab78c42-4f9b-5a0c-b4a3-a6b09bccd893",
+    "https://www.loc.gov/item/2006629901/"
+  ],
+  "dct_issued_s": "3000",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3196/g3196c/wc000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006629901/\"}",
+  "dct_spatial_sm": [
+    "moon"
+  ],
+  "dct_subject_sm": [
+    "Geomorphology--Moon--Maps",
+    "Moon",
+    "Moon--Remote-sensing images"
+  ],
+  "dct_temporal_sm": [
+    "3000"
+  ],
+  "dct_title_s": "[Maps of the surface of the Moon",
+  "gbl_dateRange_drsim": [
+    "[3000 TO 3000]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    3000
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006629901",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

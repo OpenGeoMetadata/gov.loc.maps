@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Карта островов Галапагос. 1826"
+  ],
+  "dct_description_sm": [
+    "Contributors: Kruzenshtern, Ivan Fedorovich, 1770-1846",
+    "From the atlas \"Атлас Южного моря сочиненный флота капитан командором Крузенштерном.\"",
+    "Na ėtom zhe liste karta: Karta ostrovov Gilberta. 1826.",
+    "Na ėtom zhe liste karta: Karta ostrovov Gilberta. 1826. Original map at: National Library of Russia На этом же листе карта: Карта островов Гилберта. 1826. From the atlas \"Атлас Южного моря сочиненный флота капитан командором Крузенштерном.\"",
+    "Original map at: National Library of Russia",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], 1826.",
+    "На этом же листе карта: Карта островов Гилберта. 1826."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693856",
+    "http://www.loc.gov/item/2018693856/",
+    "http://www.loc.gov/resource/gdc.2018693856/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.natl0006_04201",
+    "https://search.catalog.loc.gov/instances/e030370d-65f5-56c5-92ab-b1b60c2ce3a7",
+    "https://www.loc.gov/item/2018693856/"
+  ],
+  "dct_issued_s": "1826",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693856.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693856/2018693856.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693856:natl0006_04201/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693856/\"}",
+  "dct_spatial_sm": [
+    "ecuador",
+    "galápagos"
+  ],
+  "dct_subject_sm": [
+    "19th Century",
+    "Cartography",
+    "Ecuador",
+    "Galápagos",
+    "World Voyages"
+  ],
+  "dct_temporal_sm": [
+    "1826"
+  ],
+  "dct_title_s": "Karta ostrovov Galapagos. 1826",
+  "gbl_dateRange_drsim": [
+    "[1826 TO 1826]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1826
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693856",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

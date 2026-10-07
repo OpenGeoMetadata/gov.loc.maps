@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-13265.\"",
+    "\"Base source: U.S.G.S. Topo Quad Sheets 1:24,000.\"",
+    "\"July 1978.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1980.",
+    "Shows flood control dam, reservoir, and benefited area.",
+    "Shows flood control dam, reservoir, and benefited area. \"Base source: U.S.G.S. Topo Quad Sheets 1:24,000.\" \"July 1978.\" Includes location map. \"1-13265.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81690287",
+    "http://www.loc.gov/item/81690287/",
+    "http://www.loc.gov/resource/g3892m.ct009443/",
+    "https://hdl.loc.gov/loc.gmd/g3892m.ct009443",
+    "https://search.catalog.loc.gov/instances/f8bcfaee-e81e-5949-baea-0cfec509cb57",
+    "https://www.loc.gov/item/81690287/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3892/g3892m/ct009443.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690287/\"}",
+  "dct_spatial_sm": [
+    "fayette county",
+    "meadow creek watershed",
+    "meadow creek watershed (fayette county)",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Flood control--West Virginia--Meadow Creek watershed (Fayette County)--Maps",
+    "United States--West Virginia--Meadow Creek Watershed (Fayette County)"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Project map, Meadow Creek watershed, Fayette County, West Virginia, Drainage Area 6530 AC",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690287",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bowles, John, 1701-1779",
+    "Hand colored.",
+    "Has watermarks.",
+    "Includes \"Explanation.\"",
+    "LC Maps of North America, 1750-1789, 1148",
+    "Manuscript title on verso: Attack Long Island, 1776.",
+    "Manuscript title on verso: Attack Long Island, 1776. Hand colored. Has watermarks. Includes \"Explanation.\" Scale ca. 1:100,000. LC Maps of North America, 1750-1789, 1148 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [London] Printed for J. Bowles, 1776.",
+    "Scale ca. 1:100,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3802l.ar114800",
+    "http://lccn.loc.gov/73691630",
+    "http://www.loc.gov/item/73691630/",
+    "http://www.loc.gov/resource/g3802l.ar114800/",
+    "https://hdl.loc.gov/loc.gmd/g3802l.ar114800",
+    "https://search.catalog.loc.gov/instances/9acf4af3-3d37-59a9-ae5a-02984a33baab",
+    "https://www.loc.gov/item/73691630/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3802/g3802l/ar114800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691630/\"}",
+  "dct_spatial_sm": [
+    "long island",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Long Island, Battle of, New York, N.Y., 1776--Maps--Early works to 1800",
+    "New York (State)--History--Revolution, 1775-1783--Maps--Early works to 1800",
+    "United States--New York (State)",
+    "United States--New York (State)--Long Island"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "Plan of the attack on the provincial army on Long Island, August 27th 1776. With the draughts of New York Island, Staten Island, and the adjacent part of the continent",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691630",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

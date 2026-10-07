@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This repository hosts the exposure information for the world. It includes figures, summaries and data for each country or territory, for the region.\"--README file.",
+    "Contributors: Global Earthquake Model Foundation (Italy), cartographer",
+    "Publication statement: Pavia, Italy : Global Earthquake Model Foundation, 2023",
+    "Title from README file, viewed 5/20/2025.",
+    "Title from README file, viewed 5/20/2025. \"This repository hosts the exposure information for the world. It includes figures, summaries and data for each country or territory, for the region.\"--README file."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024586105",
+    "http://www.loc.gov/item/2024586105/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586105/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586105",
+    "https://search.catalog.loc.gov/instances/77f296f2-5cf5-50c7-88b3-1025b3d9cc6b",
+    "https://www.loc.gov/item/2024586105/"
+  ],
+  "dct_issued_s": "2023",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2024586105/\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International DLC https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "dct_subject_sm": [
+    "Earthquakes--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "dct_title_s": "Global exposure model",
+  "gbl_dateRange_drsim": [
+    "[2023 TO 2023]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024586105",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

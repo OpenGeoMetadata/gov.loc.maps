@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"737414 (R00855) 10-95.\"",
+    "Also shows control areas in Croatia including UN sectors.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes note.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1995]",
+    "Shows Serbian/Croatian/Muslim areas of control and UN-declared safe/patrolled areas.",
+    "Shows Serbian/Croatian/Muslim areas of control and UN-declared safe/patrolled areas. Also shows control areas in Croatia including UN sectors. \"737414 (R00855) 10-95.\" Includes note. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6861f.ct003051",
+    "http://lccn.loc.gov/2009584259",
+    "http://www.loc.gov/item/2009584259/",
+    "http://www.loc.gov/resource/g6861f.ct003051/",
+    "https://hdl.loc.gov/loc.gmd/g6861f.ct003051",
+    "https://search.catalog.loc.gov/instances/decb33e8-a869-502f-9a62-9de9dd0d7da8",
+    "https://www.loc.gov/item/2009584259/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6861/g6861f/ct003051.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009584259/\"}",
+  "dct_spatial_sm": [
+    "bosnia and herzegovina",
+    "croatia"
+  ],
+  "dct_subject_sm": [
+    "Bosnia and Herzegovina",
+    "Bosnia and Herzegovina--Administrative and political divisions--Maps",
+    "Bosnia and Herzegovina--History--Partition, 1995--Maps",
+    "Croatia",
+    "Ethnology--Bosnia and Herzegovina--Maps",
+    "Jurisdiction, Territorial--Bosnia and Herzegovina--Maps",
+    "Jurisdiction, Territorial--Croatia--Maps",
+    "United Nations.--Peacekeeping forces--Bosnia and Herzegovina--Maps",
+    "United Nations.--Peacekeeping forces--Croatia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Areas of control, 20 October 1995 : [Bosnia and Hercegovina with Croatia]",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009584259",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

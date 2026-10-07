@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1004119.01.\"",
+    "\"November 1988.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes coded key to zoning districts, source materials note, and location map.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [Somerset, N.J. : State Conservationist, distributor], 1989.",
+    "Shows \"1988 land use.\"",
+    "Shows \"1988 land use.\" \"November 1988.\" Includes coded key to zoning districts, source materials note, and location map. \"1004119.01.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3812j.ct006826",
+    "http://lccn.loc.gov/90683495",
+    "http://www.loc.gov/item/90683495/",
+    "http://www.loc.gov/resource/g3812j.ct006826/",
+    "https://hdl.loc.gov/loc.gmd/g3812j.ct006826",
+    "https://search.catalog.loc.gov/instances/b0dc58a7-07df-55e1-a575-e51ea36e58a3",
+    "https://www.loc.gov/item/90683495/"
+  ],
+  "dct_issued_s": "1988",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3812/g3812j/ct006826.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90683495/\"}",
+  "dct_spatial_sm": [
+    "jackson brook watershed",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Land use--New Jersey--Jackson Brook Watershed--Maps",
+    "United States--New Jersey--Jackson Brook Watershed",
+    "Zoning--New Jersey--Jackson Brook Watershed--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "dct_title_s": "Land use and zoning map, Jackson Brook watershed, Morris County, New Jersey",
+  "gbl_dateRange_drsim": [
+    "[1988 TO 1988]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1988
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90683495",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

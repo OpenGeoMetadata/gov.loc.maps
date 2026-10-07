@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1970-392-717/89.\"",
+    "\"July 1953 NHS-SM-7001.\"",
+    "\"July 1953 NHS-SM-7001.\" \"1970-392-717/89.\" Includes text and inset of the \"Historic site area.\" Text and illus. on verso. Scale ca. 1:15,800. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and inset of the \"Historic site area.\"",
+    "Publication statement: Washington, U.S. Govt. Print. Off. [1969, reprinted 1970]",
+    "Scale ca. 1:15,800.",
+    "Text and illus. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764s.ct006249",
+    "http://lccn.loc.gov/75692106",
+    "http://www.loc.gov/item/75692106/",
+    "http://www.loc.gov/resource/g3764s.ct006249/",
+    "https://hdl.loc.gov/loc.gmd/g3764s.ct006249",
+    "https://search.catalog.loc.gov/instances/029948dd-2459-5658-b05f-629e83ab9240",
+    "https://www.loc.gov/item/75692106/"
+  ],
+  "dct_issued_s": "1970",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764s/ct006249.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75692106/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "salem",
+    "salem maritime national historic site",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Salem Maritime National Historic Site (Mass.)--Maps",
+    "United States--Massachusetts--Salem--Salem Maritime National Historic Site"
+  ],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "dct_title_s": "Salem Maritime National Historic Site, Massachusetts. July 1953",
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1970]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1970
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75692106",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

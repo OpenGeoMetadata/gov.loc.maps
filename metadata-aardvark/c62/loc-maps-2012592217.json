@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright: Entered, according to Act of Congress, in the year eighteen hundred and ninety, by C.I. Heydrick and L.P. Hancock, in the office of the Librarian of Congress at Washington.\"",
+    "2 copies",
+    "Also covers the City of Oil City.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hancock, L. P.; Heydrick, C. I.",
+    "Does not show oilfields or wells.",
+    "Includes scale of rods.",
+    "Publication statement: [Pennsylvania?] : C.I. Heydrick : L.P. Hancock, 1890.",
+    "Shows real-property tracts, boundaries, acreages, and owners' names in an oilfield speculative area.",
+    "Shows real-property tracts, boundaries, acreages, and owners' names in an oilfield speculative area. Does not show oilfields or wells. Also covers the City of Oil City. \"Copyright: Entered, according to Act of Congress, in the year eighteen hundred and ninety, by C.I. Heydrick and L.P. Hancock, in the office of the Librarian of Congress at Washington.\" Includes scale of rods. Available also through the Library of Congress Web site as a raster image. 2 copies"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824c.la002083",
+    "http://lccn.loc.gov/2012592217",
+    "http://www.loc.gov/item/2012592217/",
+    "http://www.loc.gov/resource/g3824c.la002083/",
+    "https://hdl.loc.gov/loc.gmd/g3824c.la002083",
+    "https://search.catalog.loc.gov/instances/70c33e33-03a1-50cd-86e5-24e0083b9120",
+    "https://www.loc.gov/item/2012592217/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824c/la002083.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592217/\"}",
+  "dct_spatial_sm": [
+    "cornplanter",
+    "cornplanter (township)",
+    "oil city",
+    "pennsylvania",
+    "township",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Pennsylvania--Cornplanter (Township)--Maps",
+    "Landowners--Pennsylvania--Oil City--Maps",
+    "Real property--Pennsylvania--Cornplanter (Township)--Maps",
+    "Real property--Pennsylvania--Oil City--Maps",
+    "United States--Pennsylvania--Cornplanter (Township)",
+    "United States--Pennsylvania--Oil City"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Map of Cornplanter Township, Venango Co., Pa",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592217",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Published by T. M. Fowler & James B. Moyer.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. \"Published by T. M. Fowler & James B. Moyer.\" Indexed for points of interest. Perspective map not drawn to scale. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Contributors: Fowler, T. M. (Thaddeus Mortimer), 1842-1922; Moyer, James B.",
+    "Indexed for points of interest.",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Morrisville, Pa., 1900."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824l.pm020546",
+    "http://lccn.loc.gov/77691645",
+    "http://www.loc.gov/item/77691645/",
+    "http://www.loc.gov/resource/g3824l.pm020546/",
+    "https://hdl.loc.gov/loc.gmd/g3824l.pm020546",
+    "https://search.catalog.loc.gov/instances/39a71ddc-ee34-5231-bd07-089f8e42ec0f",
+    "https://www.loc.gov/item/77691645/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824l/pm020546.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77691645/\"}",
+  "dct_spatial_sm": [
+    "ligonier",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ligonier (Pa.)--Aerial views",
+    "United States--Pennsylvania--Ligonier"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Ligonier, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77691645",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

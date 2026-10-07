@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Atlas of Ulster County, N.Y."
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Conserved Project ID 5475 2024 Library of Congress Conservation Division. For treatment information, contact the Conservation Division. pda",
+    "Contributors: Beers, F. W. (Frederick W.), cartographer",
+    "Includes landowners, business directories, and illustrations of local dwellings and businesses.",
+    "LC copy imperfect: disbound.",
+    "List of geographical atlases in the Library of Congress, 2259",
+    "Pagination irregular, includes blank pages, and ends with page 140.",
+    "Publication statement: New York : published by Walker & Jewett, 36 Vesey Street, 1875.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Pagination irregular, includes blank pages, and ends with page 140. Includes landowners, business directories, and illustrations of local dwellings and businesses. LC copy imperfect: disbound. List of geographical atlases in the Library of Congress, 2259 Available also through the Library of Congress Web site as a raster image. Conserved Project ID 5475 2024 Library of Congress Conservation Division. For treatment information, contact the Conservation Division. pda"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/84675002",
+    "http://www.loc.gov/item/84675002/",
+    "http://www.loc.gov/resource/gmdatlases.84675002/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.84675002",
+    "https://search.catalog.loc.gov/instances/aa6d11b0-1e59-540a-857e-3bbc8bb7de33",
+    "https://www.loc.gov/item/84675002/"
+  ],
+  "dct_issued_s": "1875",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:84:67:50:02:84675002:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/84675002/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "ulster county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--New York (State)--Ulster County--Maps",
+    "Real property--New York (State)--Ulster County--Maps",
+    "Ulster County (N.Y.)--Directories",
+    "Ulster County (N.Y.)--Maps",
+    "United States--New York (State)--Ulster County"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "dct_title_s": "County atlas of Ulster, New York : from recent and actual surveys and records",
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1875
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-84675002",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

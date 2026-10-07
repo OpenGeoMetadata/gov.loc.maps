@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Карта южной половины Восточной Сибири, части Монголии, Маньчжурии и Сахалиина : к общему очерку орографии Восточной Сибири П. Кропоткина"
+  ],
+  "dct_description_sm": [
+    "A general sketch of the orography of Eastern Siberia by P. Kropotkin.",
+    "Contributors: Kropotkin, P., cartographer",
+    "Na obshchegeograficheskoĭ karte vydeleny t︠s︡entry guberniĭ i uezdov. Pokazany kreposti, stanit︠s︡y, derevni, karauly, fabriki i zavody, rudniki, zolotye priiski, monastyri. Naneseny pochtovye i proselochnye dorogi.",
+    "Original map at: Russian State Library",
+    "Orography is a branch of the science of geomorphology that deals with the disposition and character of hills and mountains. The orography of a region concerns its elevated terrain. This general sketch of the orography of eastern Siberia and adjacent areas shows hills, plateaus, lowlands, mountain ranges, and other features. Also shown are provincial and district centers, fortresses, Cossack villages, guard posts, factories and plants, mines, gold fields, monasteries, and postal and country roads. World Digital Library.",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], [1875]",
+    "Setka geograficheskikh koordinat. Dolgota ot Ferro.",
+    "На общегеографической карте выделены центры губерний и уездов. Показаны крепости, станицы, деревни, караулы, фабрики и заводы, рудники, золотые прииски, монастыри. Нанесены почтовые и проселочные дороги.",
+    "Сетка географических координат. Долгота от Ферро."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694067",
+    "http://www.loc.gov/item/2018694067/",
+    "http://www.loc.gov/resource/gdc.2018694067/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0017",
+    "https://search.catalog.loc.gov/instances/737f0d00-b8a9-54e4-b6fc-0352a05d91d9",
+    "https://www.loc.gov/item/2018694067/"
+  ],
+  "dct_issued_s": "1875",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694067.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694067/2018694067.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694067:smf0017/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694067/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "irkutsk oblast",
+    "mongolia",
+    "russian federation",
+    "sakhalin oblast"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "Irkutsk Oblast",
+    "Mongolia",
+    "Mountains",
+    "Russian Federation",
+    "Sakhalin Oblast",
+    "Siberia"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "dct_title_s": "Karta i︠u︡zhnoĭ poloviny Vostochnoĭ Sibiri, chasti Mongolii, Man'chzhurii i Sakhaliina : k obshchemu ocherku orografii Vostochnoĭ Sibiri P. Kropotkina",
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1875
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694067",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

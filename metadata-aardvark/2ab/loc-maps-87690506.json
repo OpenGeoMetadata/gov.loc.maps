@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered ... 1860 by John Wilson ... District Court for the Northern District of Illinois.\"",
+    "\"Entered ... 1860 by John Wilson ... District Court for the Northern District of Illinois.\" Cadastral map showing acreages and names of some rural landowners. Includes ill. of buildings in margins. LC Land ownership maps 117 Available also through the Library of Congress Web site as a raster image. Conserved; 04-85-740 1985 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda LC copy imperfect.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing acreages and names of some rural landowners.",
+    "Conserved; 04-85-740 1985 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Contributors: Wilson, John (Surveyor)",
+    "Includes ill. of buildings in margins.",
+    "LC Land ownership maps 117",
+    "LC copy imperfect.",
+    "Publication statement: Plato, Iroquois Co., [Ill.] : J. Wilson, [1860]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4103i.la000117",
+    "http://lccn.loc.gov/87690506",
+    "http://www.loc.gov/item/87690506/",
+    "http://www.loc.gov/resource/g4103i.la000117/",
+    "https://hdl.loc.gov/loc.gmd/g4103i.la000117",
+    "https://search.catalog.loc.gov/instances/eae30ce2-cf16-572e-a203-a73918f20fea",
+    "https://www.loc.gov/item/87690506/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410/g4103/g4103i/la000117.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87690506/\"}",
+  "dct_spatial_sm": [
+    "illinois",
+    "iroquois county",
+    "kankakee county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Real property--Illinois--Iroquois County--Maps",
+    "Real property--Illinois--Kankakee County--Maps",
+    "United States--Illinois--Iroquois County",
+    "United States--Illinois--Kankakee County"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Map of Iroquois and Kankakee counties",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87690506",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

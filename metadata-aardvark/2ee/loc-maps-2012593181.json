@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Walworth County, Wisconsin"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: W.W. Hixson & Co",
+    "LC Land ownership maps, 1441",
+    "LC copy imperfect: Torn at fold lines, missing small marginal sections in right margin.",
+    "LC copy imperfect: Torn at fold lines, missing small marginal sections in right margin. LC Land ownership maps, 1441 Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Rockford, Ill. : W. W. Hixon & Co., 1900."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4123w.la001441",
+    "http://lccn.loc.gov/2012593181",
+    "http://www.loc.gov/item/2012593181/",
+    "http://www.loc.gov/resource/g4123w.la001441/",
+    "https://hdl.loc.gov/loc.gmd/g4123w.la001441",
+    "https://search.catalog.loc.gov/instances/66c92926-bbfc-5d87-a9a5-e71d70449098",
+    "https://www.loc.gov/item/2012593181/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4123/g4123w/la001441.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593181/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "walworth county",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Wisconsin--Walworth County--Maps",
+    "Real property--Wisconsin--Walworth County--Maps",
+    "United States--Wisconsin--Walworth County"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Map of Walworth County, Wis",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593181",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

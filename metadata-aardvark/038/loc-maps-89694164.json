@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1000095.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes source materials note and indexes of completed \"Floodplain management\" and \"Flood insurance\" studies.",
+    "Includes source materials note and indexes of completed \"Floodplain management\" and \"Flood insurance\" studies. \"1000095.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [College Park, Md. : State Conservationist, distributor], 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3841n.ct008499",
+    "http://lccn.loc.gov/89694164",
+    "http://www.loc.gov/item/89694164/",
+    "http://www.loc.gov/resource/g3841n.ct008499/",
+    "https://hdl.loc.gov/loc.gmd/g3841n.ct008499",
+    "https://search.catalog.loc.gov/instances/d99e65d4-9337-55a6-aaae-1cb195c2517d",
+    "https://www.loc.gov/item/89694164/"
+  ],
+  "dct_issued_s": "1989",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3841/g3841n/ct008499.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89694164/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Flood control--Maryland--Maps",
+    "Flood insurance--Maryland--Maps",
+    "Floodplain management--Maryland--Maps",
+    "United States--Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "dct_title_s": "Status of floodplain management and flood insurance, Maryland : January 1989",
+  "gbl_dateRange_drsim": [
+    "[1989 TO 1989]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1989
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89694164",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

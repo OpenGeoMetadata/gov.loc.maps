@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"D C 56 1.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: A. Hoen & Co",
+    "DCP",
+    "LC copy brittle and mounted on cloth backing.",
+    "Oriented with north toward the upper left.",
+    "Partial cadastral map.",
+    "Publication statement: [Washington? : s.n., 190-?]",
+    "Relief shown by contours.",
+    "Relief shown by contours. Partial cadastral map. Oriented with north toward the upper left. \"D C 56 1.\" Available also through the Library of Congress Web site as a raster image. LC copy brittle and mounted on cloth backing. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.la002290",
+    "http://lccn.loc.gov/87691435",
+    "http://www.loc.gov/item/87691435/",
+    "http://www.loc.gov/resource/g3850.la002290/",
+    "https://hdl.loc.gov/loc.gmd/g3850.la002290",
+    "https://search.catalog.loc.gov/instances/a1c7ae5c-129f-57c8-8075-7381e9a893a6",
+    "https://www.loc.gov/item/87691435/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/la002290.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691435/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Map of the District of Columbia",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-87691435",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

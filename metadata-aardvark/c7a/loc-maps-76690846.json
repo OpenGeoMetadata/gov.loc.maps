@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Are to be sold by Thomas Bassett in Fleet street and by Richard Chiswell in St. Pauls Churchyard.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bassett, Thomas (Bookseller); Chiswell, Richard; Goos, Abraham; Speed, John, 1552?-1629",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"Are to be sold by Thomas Bassett in Fleet street and by Richard Chiswell in St. Pauls Churchyard.\" Includes text, inset of Greenland, col. illus. of native figures and town views in margins. Scale ca. 1:30,000,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Includes text, inset of Greenland, col. illus. of native figures and town views in margins.",
+    "Publication statement: [London] Are to be sold by Thomas Bassett, 1626.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:30,000,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3290.ct007271",
+    "http://hdl.loc.gov/loc.gmd/g3290.ct007272",
+    "http://hdl.loc.gov/loc.gmd/g3290.ct007273",
+    "http://lccn.loc.gov/76690846",
+    "http://www.loc.gov/item/76690846/",
+    "http://www.loc.gov/resource/g3290.ct007271/",
+    "http://www.loc.gov/resource/g3290.ct007272/",
+    "http://www.loc.gov/resource/g3290.ct007273/",
+    "https://hdl.loc.gov/loc.gmd/g3290.ct007271",
+    "https://hdl.loc.gov/loc.gmd/g3290.ct007272",
+    "https://hdl.loc.gov/loc.gmd/g3290.ct007273",
+    "https://search.catalog.loc.gov/instances/c4f8021a-8ace-5b94-bca5-d373f48dcbca",
+    "https://www.loc.gov/item/76690846/"
+  ],
+  "dct_issued_s": "1626",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3290/g3290/ct007271.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76690846/\"}",
+  "dct_spatial_sm": [
+    "america"
+  ],
+  "dct_subject_sm": [
+    "America",
+    "America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1626"
+  ],
+  "dct_title_s": "America with those known parts in that unknowne worlde both people and manner of buildings",
+  "gbl_dateRange_drsim": [
+    "[1626 TO 1626]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1626
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76690846",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Standard atlas of Pike County, Illinois"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 2010-048",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Balliet & Volk; Bourquin, F. (Frederick), 1808-; Geo. A. Ogle & Co",
+    "Includes indexes, map of the United States, and map of Illinois.",
+    "Includes indexes, map of the United States, and map of Illinois. LC copy imperfect: Lower portion of title page torn away. Available also through the Library of Congress Web site as a raster image. Vendor: John Carbonell Acquisitions control no. 2010-048",
+    "LC copy imperfect: Lower portion of title page torn away.",
+    "Publication statement: Chicago : Geo. A. Ogle & Co., 1895",
+    "Vendor: John Carbonell"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4103pm.gla00153",
+    "http://lccn.loc.gov/2010589986",
+    "http://www.loc.gov/item/2010589986/",
+    "http://www.loc.gov/resource/g4103pm.gla00153/",
+    "https://hdl.loc.gov/loc.gmd/g4103pm.gla00153",
+    "https://search.catalog.loc.gov/instances/d67097e0-64bc-57c4-95c1-c5255a101e0a",
+    "https://www.loc.gov/item/2010589986/"
+  ],
+  "dct_issued_s": "1895",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4103m/g4103pm/gla00153/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010589986/\"}",
+  "dct_spatial_sm": [
+    "illinois",
+    "pike county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Illinois--Pike County--Maps",
+    "Pike County (Ill.)--Directories",
+    "Pike County (Ill.)--Maps",
+    "Real property--Illinois--Pike County--Maps",
+    "United States--Illinois--Pike County"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dct_title_s": "Plat book of Pike County, Illinois",
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010589986",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

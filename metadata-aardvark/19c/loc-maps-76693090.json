@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Fowler & Kelly; Fowler, T. M. (Thaddeus Mortimer), 1842-1922",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 802",
+    "Perspective map not drawn to scale.",
+    "Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 802 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: Morrisville, Pa., Fowler & Kelly, c1907."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824p.pm008020",
+    "http://lccn.loc.gov/76693090",
+    "http://www.loc.gov/item/76693090/",
+    "http://www.loc.gov/resource/g3824p.pm008020/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.pm008020",
+    "https://search.catalog.loc.gov/instances/5e738ac3-b473-503e-a6a6-81fa9af1d830",
+    "https://www.loc.gov/item/76693090/"
+  ],
+  "dct_issued_s": "1907",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/pm008020.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76693090/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "philadelphia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Philadelphia (Pa.)",
+    "United States--Pennsylvania--Philadelphia"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dct_title_s": "Birds eye view of Manayunk, Wissahickon=Roxborough from West Laurel Hill Cemetery, Philadelphia, Pennsylvania 1907",
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76693090",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

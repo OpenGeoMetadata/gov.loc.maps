@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Möllerische Buchhandlung; Pingeling, T. A. (Thomas Albrecht), 1727-1803",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Includes distance chart and text. Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651",
+    "Includes distance chart and text.",
+    "Publication statement: Hamburg, Möllerische Buchhandlung, 1776.",
+    "Relief shown pictorially.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar014200",
+    "http://lccn.loc.gov/74693084",
+    "http://www.loc.gov/item/74693084/",
+    "http://www.loc.gov/resource/g3300.ar014200/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar014200",
+    "https://search.catalog.loc.gov/instances/05b692d6-710a-5649-9ee6-8b2eb2b00878",
+    "https://www.loc.gov/item/74693084/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar014200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693084/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "North America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "Allgemeine Charte Nord America als den Sitz des Krieges zwischen den Konigl. Engl. Truppen u:den Provinzialen",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693084",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

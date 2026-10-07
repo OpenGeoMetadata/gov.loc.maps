@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Hawaii title collection--drawer 14",
+    "Alternate supplied title: Hawaii title collection--islands Maui 1906-1966--Mn",
+    "Alternate supplied title: Hawaiian islands title collection Maui 1906-1966--Mn"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "HI-14-01 through HI-14-22.",
+    "Publication statement: [Various places] : [various publishers], [from approximately 1906 to 1966]",
+    "This record covers single maps of the island of Maui, Hawaii, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps also show various subjects including coasts, parks and reserves, roads, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps of the island of Maui, Hawaii, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps also show various subjects including coasts, parks and reserves, roads, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. Available also through the Library of Congress Web site as a raster image. HI-14-01 through HI-14-22.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589216",
+    "http://www.loc.gov/item/2022589216/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.hi-014/",
+    "http://www.loc.gov/resource/gmdtitlecolmaps.hi-014/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.hi-014",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolmaps.hi-014",
+    "https://search.catalog.loc.gov/instances/83821da7-08ec-5a5f-b9a0-bf4ed07f53c2",
+    "https://www.loc.gov/item/2022589216/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolmaps:hi:-0:14:hi-014:hi-014-01-01/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589216/\"}",
+  "dct_spatial_sm": [
+    "hawaii",
+    "maui",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Maui (Hawaii)--Maps",
+    "Outdoor recreation--Hawaii--Maui--Maps",
+    "Parks--Hawaii--Maui--Maps",
+    "Trails--Hawaii--Maui--Maps",
+    "United States--Hawaii",
+    "United States--Hawaii--Maui"
+  ],
+  "dct_temporal_sm": [
+    "1906",
+    "[Various places] : [various publishers], [from approximately 1906 to 1966]"
+  ],
+  "dct_title_s": "[Maps of Hawaii--islands Maui 1906-1966--Mn]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2022589216",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

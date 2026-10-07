@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Black, brown, red inks, and light brown and green washes.",
+    "Contributors: Carbery, Lewis",
+    "Covers Thirty-Second Street between P and R streets N.W.",
+    "Covers Thirty-Second Street between P and R streets N.W. Oriented with north to the left. Black, brown, red inks, and light brown and green washes. Soiled, stained, faced with gauze, and mounted on cloth backing. Includes text, partial cadastral map of Valley Street, and statement of approval. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 506 Vault DCP",
+    "DCP",
+    "Includes text, partial cadastral map of Valley Street, and statement of approval.",
+    "Oriented with north to the left.",
+    "Phillips. Washington 506",
+    "Publication statement: 1858.",
+    "Soiled, stained, faced with gauze, and mounted on cloth backing.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852t.ct006217r",
+    "http://hdl.loc.gov/loc.gmd/g3852t.ct006217v",
+    "http://lccn.loc.gov/88693342",
+    "http://www.loc.gov/item/88693342/",
+    "http://www.loc.gov/resource/g3852t.ct006217r/",
+    "http://www.loc.gov/resource/g3852t.ct006217v/",
+    "https://hdl.loc.gov/loc.gmd/g3852t.ct006217r",
+    "https://hdl.loc.gov/loc.gmd/g3852t.ct006217v",
+    "https://search.catalog.loc.gov/instances/23a3411c-46ca-57c0-a0fa-995fee827d37",
+    "https://www.loc.gov/item/88693342/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006217r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693342/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "second street",
+    "thirty",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "Real property--Washington (D.C.)--Maps",
+    "Streets--Washington (D.C.)--Charts, diagrams, etc",
+    "Thirty-Second Street (Washington, D.C.)--Maps, Manuscript",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Thirty-Second Street"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Profile of Valley Street taken up the center from the curb line on West Street to the curb line on Road Street : [Georgetown, Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693342",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

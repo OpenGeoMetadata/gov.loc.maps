@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802211 (R01143) 9-97.\"",
+    "\"Base 802211 (R01143) 9-97.\" Relief shown by shading. Also issued without shaded relief. Includes note. Available also through the Library of Congress Web site as a raster image.",
+    "Also issued without shaded relief.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes note.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1997]",
+    "Relief shown by shading."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7090.ct000976",
+    "http://lccn.loc.gov/97689673",
+    "http://www.loc.gov/item/97689673/",
+    "http://www.loc.gov/resource/g7090.ct000976/",
+    "https://hdl.loc.gov/loc.gmd/g7090.ct000976",
+    "https://search.catalog.loc.gov/instances/a3fb52a7-b9d9-53ef-9547-80f5db032d19",
+    "https://www.loc.gov/item/97689673/"
+  ],
+  "dct_issued_s": "1997",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7090/g7090/ct000976.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97689673/\"}",
+  "dct_spatial_sm": [
+    "belarus"
+  ],
+  "dct_subject_sm": [
+    "Belarus",
+    "Belarus--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "dct_title_s": "Belarus",
+  "gbl_dateRange_drsim": [
+    "[1997 TO 1997]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97689673",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

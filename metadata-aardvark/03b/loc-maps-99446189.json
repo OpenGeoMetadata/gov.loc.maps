@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"The California gold rush of 1849 began with the strikes at Sutter's Mill on the American River near Sacramento. This map produced in 1850 shows the location of the main gold workings in the mining district. The map indicates towns, ranches, Indian villages, old Spanish missions, as well as rivers, roads, the topography of the mountains, geological formations (particularly as they relate to gold), and inlets and bays along the Pacific coast. It focuses on the parts of California east of San Francisco Bay, especially along the rivers in the foothills of the Sierra Nevada Mountains where most of the gold was found. The two main rivers of the region, the Sacramento and the San Joaquin, are shown, along with their main tributaries, which include the American, Calaveras, Tuolumne (marked Touleme on the map), Mariposa, and Mercedes Rivers and many lesser streams. The map is by William A. Jackson, an engineer who was active in mining in the earliest period of the gold rush and who was familiar with the many claims being worked by \"49ers.\" Jackson produced other mining maps of the region, including some in brilliant color schemes. He is considered to have been among the best cartographic recorders of the earliest mining activities in the California gold rush. No scale is shown on this map.\" World Digital Library.",
+    "3 copies; one original, one positive photostat, and one negative photostat.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Jackson, Wm. A. (William A.); Lambert & Lane's Lith",
+    "Publication statement: [S.l., 1850]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4361h.mf000060",
+    "http://lccn.loc.gov/99446189",
+    "http://www.loc.gov/item/99446189/",
+    "http://www.loc.gov/resource/g4361h.mf000060/",
+    "https://hdl.loc.gov/loc.gmd/g4361h.mf000060",
+    "https://search.catalog.loc.gov/instances/f0b13d56-4865-5381-ae2d-f72e06e42c26",
+    "https://www.loc.gov/item/99446189/"
+  ],
+  "dct_issued_s": "1850",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4361/g4361h/mf000060.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446189/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gold mines and mining--California--Maps",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "dct_title_s": "Map of the mining district of California",
+  "gbl_dateRange_drsim": [
+    "[1850 TO 1850]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1850
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446189",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Manuscript, pen-and-ink.",
+    "Manuscript, pen-and-ink. Monogram: PL. Scale not given. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Monogram: PL.",
+    "Publication statement: [19--]",
+    "Scale not given.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3802l.ct004118",
+    "http://lccn.loc.gov/gm71000866",
+    "http://www.loc.gov/item/gm71000866/",
+    "http://www.loc.gov/resource/g3802l.ct004118/",
+    "https://hdl.loc.gov/loc.gmd/g3802l.ct004118",
+    "https://search.catalog.loc.gov/instances/703a3158-d465-52a2-b901-9e7d061c0ef7",
+    "https://www.loc.gov/item/gm71000866/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3802/g3802l/ct004118.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000866/\"}",
+  "dct_spatial_sm": [
+    "long island",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Long Island, Battle of, New York, N.Y., 1776--Maps, Manuscript",
+    "United States--New York (State)--Long Island"
+  ],
+  "dct_temporal_sm": [
+    "1900",
+    "[19--]"
+  ],
+  "dct_title_s": "Battle of Long Island",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000866",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

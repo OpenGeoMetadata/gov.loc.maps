@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Atlas of Bureau County, Illinois",
+    "Twentieth century atlas of Bureau County, Illinois"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Middle-West Publishing Co",
+    "LC copy accompanied by loose map sheet, \"The school land plat, section sixteen, Princeton township, sec. 16, twp. 16 N, R. 9 E of the 4th P.M.\", inserted by previous owner.",
+    "LC copy accompanied by loose map sheet, \"The school land plat, section sixteen, Princeton township, sec. 16, twp. 16 N, R. 9 E of the 4th P.M.\", inserted by previous owner. LC copy imperfect: boards and title page detached. Available also through the Library of Congress Web site as a raster image.",
+    "LC copy imperfect: boards and title page detached.",
+    "Publication statement: Chicago, Ill. : Middle West Pub. Co., 1905."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2013591209",
+    "http://www.loc.gov/item/2013591209/",
+    "http://www.loc.gov/resource/gmdatlases.2013591209/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2013591209",
+    "https://search.catalog.loc.gov/instances/2130a6fe-8d66-5d5b-bb7d-423b98dc5025",
+    "https://www.loc.gov/item/2013591209/"
+  ],
+  "dct_issued_s": "1905",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:20:13:59:12:09:2013591209:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013591209/\"}",
+  "dct_spatial_sm": [
+    "bureau county",
+    "illinois",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Bureau County (Ill.)--Directories",
+    "Bureau County (Ill.)--Maps",
+    "Landowners--Illinois--Bureau County--Maps",
+    "Real property--Illinois--Bureau County--Maps",
+    "United States--Illinois--Bureau County"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dct_title_s": "20th century atlas of Bureau County, Illinois : containing maps of villages, cities and townships of the county, of the state, United States and world",
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1905]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1905
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013591209",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

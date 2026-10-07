@@ -1,0 +1,77 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte du théâtre des opérations (front occidental) avec répertoire alphabétique"
+  ],
+  "dct_description_sm": [
+    "\"Scale 1:500,000\"--Note extracted from World Digital Library.",
+    "Carte du théâtre des opérations: (front occidental) avec répertoire alphabétique (Map of the theater of operations [Western Front] with alphabetical directory) is a set of 15 detailed military maps produced in 1915 by the Geographical Service of the French army. The maps are preceded by a comprehensive, 73-page index of places, with each place keyed to a specific quadrant on one of the maps. The maps cover the entire Western Front and adjacent regions, including northern and eastern France, all of Belgium and Luxembourg, and western Germany. Portions of the Netherlands, the United Kingdom, and Switzerland also are shown. The maps show all militarily relevant features, including elevation and terrain, canals, roads, railroads, rivers and lakes, and towns and villages. Each of the maps is named after a major city located in the region covered by the map. These names are: I-Gand (Ghent, Belgium); II-La Haye (The Hague, The Netherlands); III -Dusseldorf (Düsseldorf, Germany); IV-Boulogne (France); V-Lille (France); VI-Bruxelles (Brussels, Belgium); VII-Francfort (Frankfurt, Germany); VIII-Rouen (France); IX-Paris (France); X-Nancy (France); XI-Karlsruhe (Germany); XII-Le Mans (France); XIII-Orléans (France); XIV-Troyes (France); and XV-Mulhouse (France). The maps provide a detailed picture of the terrain on which the great battles of World War I, notably the Battle of the Somme (July 1-November 18, 1916) and the Battle of Verdun (February 21-December 18, 1916), were fought.",
+    "Content in French.",
+    "Contributors: France. Armée. Service géographique Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 15 maps : colored ; 29 x 38 centimeters folded to 31 x 20 centimeters.",
+    "Publication statement: Paris : Army Geographical Service, 1915.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668740",
+    "http://www.loc.gov/item/2021668740/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_18970/",
+    "http://www.loc.gov/resource/wdl.18970/",
+    "https://hdl.loc.gov/loc.wdl/wdl.18970",
+    "https://www.loc.gov/item/2021668740/"
+  ],
+  "dct_issued_s": "1915-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_18970.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/97/0/wdl_18970/wdl_18970.pdf\"}, {\"label\": \"ZIP: wdl_18970.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/97/0/wdl_18970/wdl_18970.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:18:97:0:wdl_18970:cart1417551_001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668740/\"}",
+  "dct_spatial_sm": [
+    "belgium",
+    "england",
+    "france",
+    "germany",
+    "luxembourg",
+    "netherlands",
+    "switzerland",
+    "united kingdom of great britain and northern ireland"
+  ],
+  "dct_subject_sm": [
+    "1915",
+    "Belgium",
+    "France",
+    "Germany",
+    "Luxembourg",
+    "Maps",
+    "Military maps",
+    "Netherlands",
+    "Switzerland",
+    "Topographic maps",
+    "United Kingdom of Great Britain and Northern Ireland--England",
+    "World War, 1914-1918"
+  ],
+  "dct_temporal_sm": [
+    "1915-01-01"
+  ],
+  "dct_title_s": "Map of the Theater of Operations (Western Front) with Alphabetical Directory.",
+  "gbl_dateRange_drsim": [
+    "[1915 TO 1915]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1915
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668740",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

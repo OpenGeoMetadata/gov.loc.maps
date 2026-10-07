@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mortier, Pierre; Sanson, Nicolas, 1600-1667",
+    "Hand colored.",
+    "Includes inset.",
+    "On verso: [Plate no.] 8.",
+    "Publication statement: Amsterdam, Chez P. Mortier [1700]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Title in upper right corner: Partie orientale de l'Amérique angloise. Hand colored. Includes inset. On verso: [Plate no.] 8. Scale ca. 1:6,000,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:6,000,000.",
+    "Title in upper right corner: Partie orientale de l'Amérique angloise.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.np000005",
+    "http://lccn.loc.gov/74693318",
+    "http://www.loc.gov/item/74693318/",
+    "http://www.loc.gov/resource/g3300.np000005/",
+    "https://hdl.loc.gov/loc.gmd/g3300.np000005",
+    "https://search.catalog.loc.gov/instances/145ead8f-8ed9-58c7-a790-4c07f573f999",
+    "https://www.loc.gov/item/74693318/"
+  ],
+  "dct_issued_s": "1700",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/np000005.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693318/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "North America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1700"
+  ],
+  "dct_title_s": "Carte nouvelle de l'Amérique Angloise, contenant la Virginie, Mary-Land, Caroline, Pensylvania, Nouvelle Iorck, N:Iarsey, N. France, et les terres nouvellement découerte dressé sur les relations les plus nouvelles",
+  "gbl_dateRange_drsim": [
+    "[1700 TO 1700]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1700
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693318",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of portions of the milit'y dep'ts of Washington, Pennsylvania, Annapolis and north eastern Virginia"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: United States. Topographical Bureau",
+    "DCP",
+    "Imperfect: losses on the upper and lower left edges.",
+    "LC Civil War maps (2nd ed.), H13",
+    "Pen-and-ink with some annotations in pencil, on 2 sheets pasted together and mounted on cloth.",
+    "Probable Confederate copy of Bureau of Topographical Engineers original.",
+    "Relief shown by shading.",
+    "Relief shown by shading. Shows Washington D.C. region, including western part of Maryland and northeastern Virginia. Does not show Pennsylvania with the exception of Gettysburg. Probable Confederate copy of Bureau of Topographical Engineers original. Pen-and-ink with some annotations in pencil, on 2 sheets pasted together and mounted on cloth. Imperfect: losses on the upper and lower left edges. LC Civil War maps (2nd ed.), H13 Available also through the Library of Congress web site as raster image. DCP",
+    "Shows Washington D.C. region, including western part of Maryland and northeastern Virginia. Does not show Pennsylvania with the exception of Gettysburg."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.cwh00013",
+    "http://lccn.loc.gov/2002627436",
+    "http://www.loc.gov/item/2002627436/",
+    "http://www.loc.gov/resource/g3850.cwh00013/",
+    "https://hdl.loc.gov/loc.gmd/g3850.cwh00013",
+    "https://search.catalog.loc.gov/instances/fa7757df-c5bd-50d4-a162-7596a24c77f5",
+    "https://www.loc.gov/item/2002627436/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/cwh00013.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002627436/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "maryland",
+    "united states",
+    "virginia",
+    "washington",
+    "washington region"
+  ],
+  "dct_subject_sm": [
+    "Maryland--Maps, Manuscript",
+    "United States--District of Columbia--Washington",
+    "United States--Maryland",
+    "United States--Virginia",
+    "Virginia--Maps, Manuscript",
+    "Washington Region--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Part of map of portions of the milit'y dep'ts of Washington, Pennsylvania, Annapolis, and north eastern Virginia",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002627436",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

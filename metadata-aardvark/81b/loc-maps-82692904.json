@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"... provides information on large areas of land in the county.\"",
+    "\"Base compiled from U.S. Geological Survey quadrangle sheets and county highway map, polyconic projection.\"",
+    "\"May 1981 4-R-31898. June 1978 Base 4-R-36769.\"",
+    "\"May 1981 4-R-31898. June 1978 Base 4-R-36769.\" \"Base compiled from U.S. Geological Survey quadrangle sheets and county highway map, polyconic projection.\" \"... provides information on large areas of land in the county.\" Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1981."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82692904",
+    "http://www.loc.gov/item/82692904/",
+    "http://www.loc.gov/resource/g3963k.ct010621/",
+    "https://hdl.loc.gov/loc.gmd/g3963k.ct010621",
+    "https://search.catalog.loc.gov/instances/7e68e244-d9d0-5cb9-91d5-670ee21da6fa",
+    "https://www.loc.gov/item/82692904/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3963/g3963k/ct010621.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82692904/\"}",
+  "dct_spatial_sm": [
+    "knox county",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soils--Tennessee--Knox County--Maps",
+    "United States--Tennessee--Knox County"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Soil resource map, Knox County, Tennessee",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82692904",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

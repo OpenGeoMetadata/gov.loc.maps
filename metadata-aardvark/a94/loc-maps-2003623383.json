@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Saucier, F., approximately 1712-1757",
+    "Copy annotated in pencil: No 5 and 84482-06.",
+    "Includes wind rose.",
+    "LC Luso-Hispanic world, 915",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: 1749.",
+    "Shows the Mississippi River in the vicinity of New Orleans from Colapissas to English Turn, lakes Maurepas and Pontchartrain, location of Native American settlements, fortifications, and natural features.",
+    "Shows the Mississippi River in the vicinity of New Orleans from Colapissas to English Turn, lakes Maurepas and Pontchartrain, location of Native American settlements, fortifications, and natural features. Pen-and-ink and watercolor. Copy annotated in pencil: No 5 and 84482-06. Includes wind rose. LC Luso-Hispanic world, 915 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4042m.lh000915",
+    "http://lccn.loc.gov/2003623383",
+    "http://www.loc.gov/item/2003623383/",
+    "http://www.loc.gov/resource/g4042m.lh000915/",
+    "https://hdl.loc.gov/loc.gmd/g4042m.lh000915",
+    "https://search.catalog.loc.gov/instances/4153e406-510b-5dd7-a0fd-1bb00afb67c6",
+    "https://www.loc.gov/item/2003623383/"
+  ],
+  "dct_issued_s": "1749",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd404/g4042/g4042m/lh000915.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003623383/\"}",
+  "dct_spatial_sm": [
+    "mississippi river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mississippi River--Maps, Manuscript--Early works to 1800",
+    "United States--Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "1749"
+  ],
+  "dct_title_s": "Carte particulière du cours du fleuve St. Louis depuis le village sauvage jusqu'au dessous du Detour aux Angloix, des lacs Pontchartrain & Maurepas & des rivières & bayouc qui y aboutissent",
+  "gbl_dateRange_drsim": [
+    "[1749 TO 1749]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1749
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003623383",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Upper Missouri National Wild and Scenic River"
+  ],
+  "dct_description_sm": [
+    "\"U.S. Government Printing Office: 1990-792-235.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Bureau of Land Management. Lewistown District",
+    "Includes text, ill. (chiefly col.), and index map.",
+    "Map 1 oriented with north to the upper right; map 2 oriented with north to the upper left.",
+    "Publication statement: Lewistown, Mont. : Lewistown District, 1990 printing.",
+    "Relief shown by contours.",
+    "Relief shown by contours. Title from panel. \"U.S. Government Printing Office: 1990-792-235.\" Map 1 oriented with north to the upper right; map 2 oriented with north to the upper left. Includes text, ill. (chiefly col.), and index map. Available also through the Library of Congress Web site as a raster image.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2012591819",
+    "http://www.loc.gov/item/2012591819/",
+    "http://www.loc.gov/resource/g4052m.ct011724/",
+    "https://hdl.loc.gov/loc.gmd/g4052m.ct011724",
+    "https://search.catalog.loc.gov/instances/55794a02-a3ec-58f3-b77e-4e208665b168",
+    "https://www.loc.gov/item/2012591819/"
+  ],
+  "dct_issued_s": "1990",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4052/g4052m/ct011724.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012591819/\"}",
+  "dct_spatial_sm": [
+    "missouri river",
+    "missouri river region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Missouri River Region--Description and travel--Maps",
+    "Missouri River--Maps",
+    "Outdoor recreation--Missouri River Region--Maps",
+    "United States--Missouri River",
+    "United States--Missouri River Region"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "dct_title_s": "Upper Missouri National Wild & Scenic River : maps 3 & 4",
+  "gbl_dateRange_drsim": [
+    "[1990 TO 1990]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1990
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012591819",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

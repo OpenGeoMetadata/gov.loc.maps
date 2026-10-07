@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to act of Congress in the year 1901 by G.M. Boyd in the office of the Librarian of Congress at Washington, D.C.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "City street map showing ward boundaries, ward names, and principal buildings.",
+    "City street map showing ward boundaries, ward names, and principal buildings. Oriented with north toward the upper left. \"Entered according to act of Congress in the year 1901 by G.M. Boyd in the office of the Librarian of Congress at Washington, D.C.\" LC copy imperfect: Torn at left margin, removed from city directory. Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Boyd, G. M. (Guy Mortimer); Cowden, M. B.; Harrisburg (Pa.). City Engineer",
+    "LC copy imperfect: Torn at left margin, removed from city directory.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Philadelphia : G.M. Boyd], 1901"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824h.wd000544",
+    "http://lccn.loc.gov/2011593722",
+    "http://www.loc.gov/item/2011593722/",
+    "http://www.loc.gov/resource/g3824h.wd000544/",
+    "https://hdl.loc.gov/loc.gmd/g3824h.wd000544",
+    "https://search.catalog.loc.gov/instances/beeef15e-0267-5f3c-bc8c-a0d7c9f44e26",
+    "https://www.loc.gov/item/2011593722/"
+  ],
+  "dct_issued_s": "1901",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824h/wd000544.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011593722/\"}",
+  "dct_spatial_sm": [
+    "harrisburg",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Harrisburg (Pa.)--Administrative and political divisions--Maps",
+    "Harrisburg (Pa.)--Maps",
+    "United States--Pennsylvania--Harrisburg"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "dct_title_s": "Map of Harrisburg City, Dauphin Co. Pa",
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1901
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011593722",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

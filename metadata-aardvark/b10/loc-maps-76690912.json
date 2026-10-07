@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Automobile road map of Fresno County,\" text, and illus. on verso.",
+    "AACR2: 651/1; 651/2; 651/3; 651/4",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Schmidt Litho. Co",
+    "Includes illus. (part col.).",
+    "Panorama.",
+    "Panorama. Relief shown pictorially. Includes illus. (part col.). \"Automobile road map of Fresno County,\" text, and illus. on verso. Available also through the Library of Congress Web site as a raster image. AACR2: 651/1; 651/2; 651/3; 651/4",
+    "Publication statement: [Fresno, Calif., Fresno County Chamber of Commerce, 1923?]",
+    "Relief shown pictorially."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/76690912",
+    "http://www.loc.gov/item/76690912/",
+    "http://www.loc.gov/resource/g4361a.ct010994r/",
+    "http://www.loc.gov/resource/g4361a.ct010994v/",
+    "https://hdl.loc.gov/loc.gmd/g4361a.ct010994r",
+    "https://hdl.loc.gov/loc.gmd/g4361a.ct010994v",
+    "https://search.catalog.loc.gov/instances/bf1a15cf-8234-5da0-bb53-6d6c183d5423",
+    "https://www.loc.gov/item/76690912/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4361/g4361a/ct010994r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76690912/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "fresno county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "California--Aerial views",
+    "California--Maps, Pictorial",
+    "Fresno County (Calif.)--Aerial views",
+    "Fresno County (Calif.)--Maps",
+    "Roads--California--Fresno County--Maps",
+    "United States--California",
+    "United States--California--Fresno County"
+  ],
+  "dct_temporal_sm": [
+    "1923",
+    "[Fresno, Calif., Fresno County Chamber of Commerce, 1923?]"
+  ],
+  "dct_title_s": "Pictorial map of Fresno County and mid-California's Garden of the Sun",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76690912",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

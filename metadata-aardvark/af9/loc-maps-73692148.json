@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"12348.\"",
+    "\"12348.\" \"Base: [China Land Survey] 1:1,000,000 ... 1948.\" \"Source: Jen-min Shou-tsʻe (Peoples New Handbook) vol. 1, Ta Kung-pao (Great Bookstore), Shanghai, Feb. 1951.\" Shows \"Communist administrative divisions-1952\" and \"Nationalist administrative divisions-1948.\" Scale 1:2,500,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "\"Base: [China Land Survey] 1:1,000,000 ... 1948.\"",
+    "\"Source: Jen-min Shou-tsʻe (Peoples New Handbook) vol. 1, Ta Kung-pao (Great Bookstore), Shanghai, Feb. 1951.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, 1953]",
+    "Scale 1:2,500,000.",
+    "Shows \"Communist administrative divisions-1952\" and \"Nationalist administrative divisions-1948.\""
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7821f.ct002988",
+    "http://lccn.loc.gov/73692148",
+    "http://www.loc.gov/item/73692148/",
+    "http://www.loc.gov/resource/g7821f.ct002988/",
+    "https://hdl.loc.gov/loc.gmd/g7821f.ct002988",
+    "https://search.catalog.loc.gov/instances/234861d0-c676-5a78-9295-fc1adf809434",
+    "https://www.loc.gov/item/73692148/"
+  ],
+  "dct_issued_s": "1952",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7821/g7821f/ct002988.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73692148/\"}",
+  "dct_spatial_sm": [
+    "china"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Administrative and political divisions--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "dct_title_s": "China: Southwest District Communist administrative divisions, 1952. 2-53",
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1952]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73692148",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

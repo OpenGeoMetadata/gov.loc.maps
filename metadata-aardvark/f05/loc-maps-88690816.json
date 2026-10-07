@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Cadastral map. Includes approval statement by \"Surveyor Dist. of Columbia.\" Available also through the Library of Congress Web site as a raster image. LC copy mounted on cloth backing. DCP",
+    "Contributors: District of Columbia. Office of the Surveyor; Lang, John C.; Mitchell, Thomas A.",
+    "DCP",
+    "Includes approval statement by \"Surveyor Dist. of Columbia.\"",
+    "LC copy mounted on cloth backing.",
+    "Publication statement: [Washington? : s.n.], 1892."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852f.ct004921",
+    "http://lccn.loc.gov/88690816",
+    "http://www.loc.gov/item/88690816/",
+    "http://www.loc.gov/resource/g3852f.ct004921/",
+    "https://hdl.loc.gov/loc.gmd/g3852f.ct004921",
+    "https://search.catalog.loc.gov/instances/f7601062-b2ab-5ce4-8026-3df26c31fcb6",
+    "https://www.loc.gov/item/88690816/"
+  ],
+  "dct_issued_s": "1892",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852f/ct004921.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690816/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "fort lincoln heights",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Fort Lincoln Heights (Washington, D.C.)--Maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Fort Lincoln Heights"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "dct_title_s": "Subdivision of Fort Lincoln Heights, District of Columbia",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690816",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

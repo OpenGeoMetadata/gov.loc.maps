@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Faden, William, 1749-1836",
+    "Covers Belize.",
+    "Covers Belize. Relief shown by hachures. Depths shown by soundings. Sectioned and mounted on cloth backing. Includes text of treaty and convention, descriptive index, and inset of \"Mosquitia or the Mosquito Shore with the eastern part of Yucatan as far as the 20th degree of north latitude,\" ca. 1:5,300,000. Available also through the Library of Congress Web site as a raster image. Vault",
+    "Includes text of treaty and convention, descriptive index, and inset of \"Mosquitia or the Mosquito Shore with the eastern part of Yucatan as far as the 20th degree of north latitude,\" ca. 1:5,300,000.",
+    "Publication statement: London : W. Faden, 1787.",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Sectioned and mounted on cloth backing.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4820.ct008386",
+    "http://lccn.loc.gov/86692593",
+    "http://www.loc.gov/item/86692593/",
+    "http://www.loc.gov/resource/g4820.ct008386/",
+    "https://hdl.loc.gov/loc.gmd/g4820.ct008386",
+    "https://search.catalog.loc.gov/instances/42b17edc-4751-5054-a196-2bb76cff1e55",
+    "https://www.loc.gov/item/86692593/"
+  ],
+  "dct_issued_s": "1787",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4820/g4820/ct008386.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86692593/\"}",
+  "dct_spatial_sm": [
+    "belize"
+  ],
+  "dct_subject_sm": [
+    "Belize",
+    "Belize--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1787"
+  ],
+  "dct_title_s": "A map of a part of Yucatan, or of that part of the eastern shore within the Bay of Honduras alloted to Great Britain for the cutting of Logwood, in consequence of the convention signed with Spain on the 14th July 1786",
+  "gbl_dateRange_drsim": [
+    "[1787 TO 1787]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1787
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86692593",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

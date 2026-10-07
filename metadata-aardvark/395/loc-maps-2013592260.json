@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1006176.\"",
+    "\"June 1990.\"",
+    "\"June 1990.\" \"1006176.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Publication statement: Fort Worth, TX : USDA, NRCS, Cartography & Geospatial Center, 1998."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2013592260",
+    "http://www.loc.gov/item/2013592260/",
+    "http://www.loc.gov/resource/g4031j.ct011289/",
+    "https://hdl.loc.gov/loc.gmd/g4031j.ct011289",
+    "https://search.catalog.loc.gov/instances/db4fb577-986d-5e98-847c-7a6e572acdd9",
+    "https://www.loc.gov/item/2013592260/"
+  ],
+  "dct_issued_s": "1998",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4031/g4031j/ct011289.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013592260/\"}",
+  "dct_spatial_sm": [
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soil texture--Texas--Maps",
+    "United States--Texas"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dct_title_s": "Dominant soil texture, Texas",
+  "gbl_dateRange_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013592260",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

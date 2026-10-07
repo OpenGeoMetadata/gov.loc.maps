@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 440; 651/1",
+    "Annotated on verso: Purchased out of Lord Colvil's collection.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Morris, Charles (Surveyor)",
+    "Depths shown by soundings.",
+    "Has watermark.",
+    "LC Maps of North America, 1750-1789, 375",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: [1764]",
+    "Scale not given.",
+    "Title from annotation on verso.",
+    "Title from annotation on verso. Manuscript, pen-and-ink and watercolor. Depths shown by soundings. Has watermark. Annotated on verso: Purchased out of Lord Colvil's collection. Scale not given. LC Maps of North America, 1750-1789, 375 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 440; 651/1",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3422c.ar037500",
+    "http://lccn.loc.gov/74694514",
+    "http://www.loc.gov/item/74694514/",
+    "http://www.loc.gov/resource/g3422c.ar037500/",
+    "https://hdl.loc.gov/loc.gmd/g3422c.ar037500",
+    "https://search.catalog.loc.gov/instances/7bad3f44-c0e3-5988-b2e9-9a65fb2a5deb",
+    "https://www.loc.gov/item/74694514/"
+  ],
+  "dct_issued_s": "1764",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3422/g3422c/ar037500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694514/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "canso",
+    "canso, strait of",
+    "canso, strait of.",
+    "nova scotia",
+    "strait of"
+  ],
+  "dct_subject_sm": [
+    "Canada--Nova Scotia--Canso, Strait of",
+    "Canso, Strait of (N.S.)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "dct_title_s": "Northern part of the Gut of Canso, part of the island of Cape Bocton,",
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1764
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694514",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

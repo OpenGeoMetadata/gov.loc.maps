@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "Devaux Neck is formed by the Tulfinny River and Coosawatchie River as they branch off the Broad River. The Peninsula is crossed by the Charleston and Savannah Railroad. Map shows rebel forces protecting the railroad while Union forces, the 127th NY under Gen. Edward E. Potter, advance up the peninsula.",
+    "In the Robert Knox Sneden Diary (Mss5:1 Sn237:1 v. 6, p. 196).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary image.",
+    "Publication statement: [S.l., 1864-1865]",
+    "Relief shown by hachures.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00182",
+    "http://www.loc.gov/item/001-CABIB20011396/",
+    "http://www.loc.gov/item/gvhs01.vhs00182/",
+    "http://www.loc.gov/resource/gvhs01.vhs00182/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00182",
+    "https://www.loc.gov/item/gvhs01.vhs00182/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00182.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00182/\"}",
+  "dct_spatial_sm": [
+    "devaux neck",
+    "jasper county",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Charleston and Savannah Railroad",
+    "Devaux Neck (S.C.)--History--Civil War, 1861-1865--Maps",
+    "Jasper County (S.C)--History--Civil War, 1861-1865--Maps",
+    "Potter, Edward Elmer,--1823-1889",
+    "South Carolina--History--Civil War, 1861-1865--Maps",
+    "United States--South Carolina--Devaux Neck",
+    "United States--South Carolina--Jasper County"
+  ],
+  "dct_temporal_sm": [
+    "1864/1865"
+  ],
+  "dct_title_s": "Map of Devaux Neck on Broad River, South Carolina.",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00182",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

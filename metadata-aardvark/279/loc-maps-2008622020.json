@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2007-107",
+    "Annotations in ink, pencil, and colored pencil on some maps.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blue line print.",
+    "Blue line print. Includes index map. Annotations in ink, pencil, and colored pencil on some maps. LC copy imperfect: Title page torn vertically along left side, front cover wanting, rear cover badly damaged, all maps significantly faded. Available also through the Library of Congress Web site as a raster image. Vendor: John Carbonell Acquisitions control no. 2007-107",
+    "Contributors: Metropolitan Street Railway Company. Maintenance of Way Department",
+    "Includes index map.",
+    "LC copy imperfect: Title page torn vertically along left side, front cover wanting, rear cover badly damaged, all maps significantly faded.",
+    "Publication statement: New York : Maintenance of Way Dept., Metropolitan Street Railway Co., 1896.",
+    "Vendor: John Carbonell"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804nm.gla00207",
+    "http://lccn.loc.gov/2008622020",
+    "http://www.loc.gov/item/2008622020/",
+    "http://www.loc.gov/resource/g3804nm.gla00207/",
+    "https://hdl.loc.gov/loc.gmd/g3804nm.gla00207",
+    "https://search.catalog.loc.gov/instances/a4175fde-4d37-57c8-a380-ea8269f5b8e1",
+    "https://www.loc.gov/item/2008622020/"
+  ],
+  "dct_issued_s": "1896",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380m/g3804m/g3804nm/gla00207/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008622020/\"}",
+  "dct_spatial_sm": [
+    "manhattan",
+    "manhattan (new york)",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Manhattan (New York, N.Y.)--Maps",
+    "Street-railroads--New York (State)--New York--Maps",
+    "United States--New York (State)--Manhattan (New York)",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dct_title_s": "Atlas of the city of New York lying south of 166th st. showing surface railroads",
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1896
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008622020",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

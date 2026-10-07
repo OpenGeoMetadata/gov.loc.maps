@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1862 by J. H. Colton.\"",
+    "1862 editions are listed as entry nos. 25.8-25.9.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Colton, J. H. (Joseph Hutchins), 1800-1893",
+    "Description derived from published bibliography.",
+    "General map showing state and county boundaries, roads and railroads, fortifications, and place names. Drawings of ships offshore depict the Union blockade of the coast.",
+    "LC Civil War Maps (2nd ed.), 48.2",
+    "Printed by Lang & Laing Lith., N.Y. appears in the lower left corner.",
+    "Printed by Lang & Laing Lith., N.Y. appears in the lower left corner. \"Entered according to Act of Congress in the year 1862 by J. H. Colton.\" General map showing state and county boundaries, roads and railroads, fortifications, and place names. Drawings of ships offshore depict the Union blockade of the coast. 1862 editions are listed as entry nos. 25.8-25.9. Description derived from published bibliography. Scale 1:760,320. LC Civil War Maps (2nd ed.), 48.2 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: New York, J. H. Colton, 1864.",
+    "Scale 1:760,320."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g37093.cw0048200",
+    "http://lccn.loc.gov/99447143",
+    "http://www.loc.gov/item/99447143/",
+    "http://www.loc.gov/resource/g37093.cw0048200/",
+    "https://hdl.loc.gov/loc.gmd/g37093.cw0048200",
+    "https://search.catalog.loc.gov/instances/5f773c54-2be1-5106-a9e4-e90d182c69fd",
+    "https://www.loc.gov/item/99447143/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g37093/g37093/cw0048200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447143/\"}",
+  "dct_spatial_sm": [
+    "atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlantic States--Maps",
+    "United States--Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Colton's new topographical map of the states of Virginia, Maryland and Delaware, showing also eastern Tennessee & parts of other adjoining states, all the fortifications, military stations, rail roads, common roads and other internal improvements",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447143",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

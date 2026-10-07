@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Hotchkiss, Jedediah, 1828-1899",
+    "Includes an index to the locations of regiments and brigades in the Valley Division and a pencil annotation at the lower edge which reads, \"Hd. Qrs. of Maj. Gen. Jackson in a fence corner, Sunday night.\"",
+    "LC Civil War maps (2nd ed.), H90",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Includes an index to the locations of regiments and brigades in the Valley Division and a pencil annotation at the lower edge which reads, \"Hd. Qrs. of Maj. Gen. Jackson in a fence corner, Sunday night.\" LC Civil War maps (2nd ed.), H90 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884w.cwh00090",
+    "http://lccn.loc.gov/99446755",
+    "http://www.loc.gov/item/99446755/",
+    "http://www.loc.gov/resource/g3884w.cwh00090/",
+    "https://hdl.loc.gov/loc.gmd/g3884w.cwh00090",
+    "https://search.catalog.loc.gov/instances/04b992a2-5258-594c-a71f-dc848f8d75b0",
+    "https://www.loc.gov/item/99446755/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884w/cwh00090.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446755/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "winchester"
+  ],
+  "dct_subject_sm": [
+    "Kernstown, 1st Battle of, Winchester, Va., 1862--Maps, Manuscript",
+    "Kernstown, Battle of",
+    "United States--Virginia--Winchester"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Battle of Kernstown, Sunday, 23 March, 1862",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446755",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

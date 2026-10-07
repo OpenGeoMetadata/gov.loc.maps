@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Colors indicate parishes: yellow is Candelaria, pink is San José, blue is Sacramento, green is Santa Anna, and peach is Santa Rita.",
+    "Colors indicate parishes: yellow is Candelaria, pink is San José, blue is Sacramento, green is Santa Anna, and peach is Santa Rita. Available also through the Library of Congress web site as a raster image. Latin American Atlantic Port Cities exhibit, 1986, #30.",
+    "Contributors: Michellerie, E. de la",
+    "Latin American Atlantic Port Cities exhibit, 1986, #30.",
+    "Publication statement: [S.l., 1831]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5404r.ct000633",
+    "http://lccn.loc.gov/2001620476",
+    "http://www.loc.gov/item/2001620476/",
+    "http://www.loc.gov/resource/g5404r.ct000633/",
+    "https://hdl.loc.gov/loc.gmd/g5404r.ct000633",
+    "https://search.catalog.loc.gov/instances/31cfad27-670f-5692-852a-a060389adf71",
+    "https://www.loc.gov/item/2001620476/"
+  ],
+  "dct_issued_s": "1831",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5404/g5404r/ct000633.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001620476/\"}",
+  "dct_spatial_sm": [
+    "brazil",
+    "rio de janeiro"
+  ],
+  "dct_subject_sm": [
+    "Brazil--Rio de Janeiro",
+    "Rio de Janeiro (Brazil)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1831"
+  ],
+  "dct_title_s": "A capital do Brasil",
+  "gbl_dateRange_drsim": [
+    "[1831 TO 1831]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1831
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001620476",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

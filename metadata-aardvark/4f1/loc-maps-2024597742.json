@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Manuscript title around border: Portland Harbor, Maine"
+  ],
+  "dct_description_sm": [
+    "At head of title: Engr. Dept. U. States Topl. Bureau.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bache, Hartman, 1797-1872, cartographer",
+    "Depths shown by soundings.",
+    "Depths shown by soundings. Oriented with north toward upper left. Pen-and-ink on tracing linen. At head of title: Engr. Dept. U. States Topl. Bureau. In ink on blue bordered label, 841H 1820. Stamped at bottom right: U.S.C. & G. Survey, Library and Archives acc. no. 1000. Includes note. Available also through the Library of Congress Web site as a raster image. vcFY25",
+    "In ink on blue bordered label, 841H 1820.",
+    "Includes note.",
+    "Oriented with north toward upper left.",
+    "Pen-and-ink on tracing linen.",
+    "Publication statement: [Maine?] : Hartman Bache, 1820.",
+    "Stamped at bottom right: U.S.C. & G. Survey, Library and Archives acc. no. 1000.",
+    "vcFY25"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597742",
+    "http://www.loc.gov/item/2024597742/",
+    "http://www.loc.gov/resource/g3732p.ct005087/",
+    "https://hdl.loc.gov/loc.gmd/g3732p.ct005087",
+    "https://search.catalog.loc.gov/instances/eaef1cb6-2638-5068-a500-bb382c81baa8",
+    "https://www.loc.gov/item/2024597742/"
+  ],
+  "dct_issued_s": "1820",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3732/g3732p/ct005087.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597742/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "portland harbor",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Portland Harbor (Me.)--Maps",
+    "United States--Maine--Portland Harbor"
+  ],
+  "dct_temporal_sm": [
+    "1820"
+  ],
+  "dct_title_s": "Survey of Portland Harbour in the state of Maine",
+  "gbl_dateRange_drsim": [
+    "[1820 TO 1820]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1820
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597742",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

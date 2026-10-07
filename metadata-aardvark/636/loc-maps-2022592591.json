@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: California title collection--counties Tulare 1939-1970",
+    "Alternate supplied title: California title collection--drawer 212"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Various places] : [various publishers], [1939-1970]",
+    "This record covers single maps of counties of California, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps, multi-sheet single maps and may also include some plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps of counties of California, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps, multi-sheet single maps and may also include some plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. Available also through the Library of Congress Web site as a raster image.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022592591",
+    "http://www.loc.gov/item/2022592591/",
+    "http://www.loc.gov/resource/gmdtitlecolmaps.ca-212/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolmaps.ca-212",
+    "https://search.catalog.loc.gov/instances/391f96a2-81c6-5290-9d96-f30c897ced4c",
+    "https://www.loc.gov/item/2022592591/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2022592591/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "tulare county",
+    "tulare county (calif.)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Geology--California--Maps",
+    "Hydrology--California--Maps",
+    "Outdoor recreation--California--Maps",
+    "Roads--California--Tulare County--Maps",
+    "Tulare County (Calif.)--Maps",
+    "United States--California--Tulare County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "1939/1970"
+  ],
+  "dct_title_s": "[Maps of California--counties Tulare 1939-1970]",
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1970]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1939
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2022592591",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

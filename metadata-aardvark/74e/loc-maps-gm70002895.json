@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Middleton, Wallace & Co. Lithrs., Odd Fellows Hall, Cin. O.\"",
+    "AACR2: 110; 650",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: D.B. Cooke & Co",
+    "LC Railroad maps, 118",
+    "Outline map of the north-central states showing the railroad network in operation and in progress of construction. [From published bibliography]",
+    "Publication statement: Chicago, 1855.",
+    "Scale ca. 1:1,250,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4071p.rr001180",
+    "http://lccn.loc.gov/gm70002895",
+    "http://www.loc.gov/item/gm70002895/",
+    "http://www.loc.gov/resource/g4071p.rr001180/",
+    "https://hdl.loc.gov/loc.gmd/g4071p.rr001180",
+    "https://search.catalog.loc.gov/instances/b14a02d2-b2da-5d9e-878a-1e63387f7d62",
+    "https://www.loc.gov/item/gm70002895/"
+  ],
+  "dct_issued_s": "1855",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd407/g4071/g4071p/rr001180.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70002895/\"}",
+  "dct_spatial_sm": [
+    "middle west",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Middle West--Maps",
+    "United States--Middle West"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "dct_title_s": "D.B. Cooke & Co.'s great western railway guide exhibiting all stations and distances from each other",
+  "gbl_dateRange_drsim": [
+    "[1855 TO 1855]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1855
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70002895",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

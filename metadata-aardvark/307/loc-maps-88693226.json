@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Engraved from a copy in the possession of Wm. Taylor Esq. and published by George G. Smith, engraver ... Boston, 1835.\"",
+    "\"I have examined this plan ... Stephen P. Fuller, surveyor, Boston, July 2d 1835.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bonner, John, approximately 1643-1726; Dewing, Francis, active 1716-1722; Fuller, Stephen P.; Price, William, active 1725-1769; Smith, George Girdler, 1795-1878",
+    "Facsimile.",
+    "Includes index to points of interest and chronologies of \"Great fires\" and \"Genll. small pox.\"",
+    "Oriented with north toward the upper right.",
+    "Original version: [Boston] : Sold by Capt. John Bonner and Willm. Price, [1725].",
+    "Pictorial map showing buildings.",
+    "Pictorial map showing buildings. Facsimile. \"Engraved from a copy in the possession of Wm. Taylor Esq. and published by George G. Smith, engraver ... Boston, 1835.\" Redrawn from a copy of State II (1725). \"I have examined this plan ... Stephen P. Fuller, surveyor, Boston, July 2d 1835.\" Oriented with north toward the upper right. Includes index to points of interest and chronologies of \"Great fires\" and \"Genll. small pox.\" Available also through the Library of Congress Web site as a raster image. Original version: [Boston] : Sold by Capt. John Bonner and Willm. Price, [1725].",
+    "Publication statement: [Boston? : s.n., 19--]",
+    "Redrawn from a copy of State II (1725)."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.ct005901",
+    "http://lccn.loc.gov/88693226",
+    "http://www.loc.gov/item/88693226/",
+    "http://www.loc.gov/resource/g3764b.ct005901/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ct005901",
+    "https://search.catalog.loc.gov/instances/039ab6e5-458e-5207-984a-553b058c56fe",
+    "https://www.loc.gov/item/88693226/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/ct005901.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693226/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston (Mass.)--Maps--Early works to 1800--Facsimiles",
+    "United States--Massachusetts--Boston"
+  ],
+  "dct_temporal_sm": [
+    "1725",
+    "[Boston? : s.n., 19--]"
+  ],
+  "dct_title_s": "The town of Boston in New England",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693226",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

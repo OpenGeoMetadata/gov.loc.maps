@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Glacier National Park, Montana"
+  ],
+  "dct_description_sm": [
+    "\"Surveyed in 1900-1904 and 1907-1912.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contour interval 100 feet. Datum is mean sea level.",
+    "Contributors: Baldwin, H. L. (Harry L.), cartographer; Geological Survey (U.S.), engraver, printer; Marshall, R. B. (Robert Bradford), 1867-1949, cartographer; United States. Department of the Interior, cartographer, issuing body",
+    "Includes diagram of township.",
+    "Publication statement: [Washington, D.C.] : Engraved and printed by the U.S. Geological Survey, 1915.; [Washington, D.C.] : United States Department of the Interior, 1915.",
+    "Relief shown by contours, shading, and spot heights.",
+    "Relief shown by contours, shading, and spot heights. Shows park boundary, U.S. township and section lines, county lines, general-map features of roads, highways, and railroads, and other geographical features. \"Surveyed in 1900-1904 and 1907-1912.\" Contour interval 100 feet. Datum is mean sea level. Includes diagram of township. Available also through the Library of Congress Web site as a raster image.",
+    "Shows park boundary, U.S. township and section lines, county lines, general-map features of roads, highways, and railroads, and other geographical features."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2016586564",
+    "http://www.loc.gov/item/2016586564/",
+    "http://www.loc.gov/resource/g4252g.ct007663/",
+    "https://hdl.loc.gov/loc.gmd/g4252g.ct007663",
+    "https://search.catalog.loc.gov/instances/d75b3be9-b620-52ae-a097-06ca22fa3b0d",
+    "https://www.loc.gov/item/2016586564/"
+  ],
+  "dct_issued_s": "1915",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd425/g4252/g4252g/ct007663.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2016586564/\"}",
+  "dct_spatial_sm": [
+    "glacier national park",
+    "montana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Glacier National Park (Mont.)--Administrative and political divisions--Maps",
+    "Glacier National Park (Mont.)--Maps",
+    "United States--Montana--Glacier National Park"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "dct_title_s": "Administrative map of Glacier National Park, Montana",
+  "gbl_dateRange_drsim": [
+    "[1915 TO 1915]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1915
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2016586564",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

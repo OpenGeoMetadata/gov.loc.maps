@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Bird's-eye view. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 368 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 710/1",
+    "Contributors: Chicago Lithographing Co; Ruger, A.",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 368",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Chicago, Chicago Lithographing Co. [1868?]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4114n.pm003680",
+    "http://lccn.loc.gov/73693441",
+    "http://www.loc.gov/item/73693441/",
+    "http://www.loc.gov/resource/g4114n.pm003680/",
+    "https://hdl.loc.gov/loc.gmd/g4114n.pm003680",
+    "https://search.catalog.loc.gov/instances/1e3de652-66f2-51b7-b399-97a88fcff2b9",
+    "https://www.loc.gov/item/73693441/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd411/g4114/g4114n/pm003680.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693441/\"}",
+  "dct_spatial_sm": [
+    "michigan",
+    "niles",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Niles (Mich.)--Maps",
+    "United States--Michigan--Niles"
+  ],
+  "dct_temporal_sm": [
+    "1868",
+    "Chicago, Chicago Lithographing Co. [1868?]"
+  ],
+  "dct_title_s": "Niles, Berrien County, Michigan",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693441",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

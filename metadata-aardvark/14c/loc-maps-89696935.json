@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Material prepared by Field Personnel. Reproduction only by SCS Cartographic Staff, Fort Worth, Texas.\"",
+    "\"May 1989 1004290.\"",
+    "At head of title: Figure 2.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes notes.",
+    "Oriented with north toward the upper right.",
+    "Photomap.",
+    "Photomap. \"May 1989 1004290.\" At head of title: Figure 2. \"Material prepared by Field Personnel. Reproduction only by SCS Cartographic Staff, Fort Worth, Texas.\" Oriented with north toward the upper right. Includes notes. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [West Warwick, R.I. : State Conservationist, distributor], 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3772p.ct006262",
+    "http://lccn.loc.gov/89696935",
+    "http://www.loc.gov/item/89696935/",
+    "http://www.loc.gov/resource/g3772p.ct006262/",
+    "https://hdl.loc.gov/loc.gmd/g3772p.ct006262",
+    "https://search.catalog.loc.gov/instances/2c992a17-40ec-50a7-abd1-b070d0c95972",
+    "https://www.loc.gov/item/89696935/"
+  ],
+  "dct_issued_s": "1988",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd377/g3772/g3772p/ct006262.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89696935/\"}",
+  "dct_spatial_sm": [
+    "pascoag reservoir region",
+    "pascoag river valley",
+    "rhode island",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Floodplains--Rhode Island--Pascoag Reservoir Region--Maps",
+    "Pascoag Reservoir Region (R.I.)--Remote-sensing maps",
+    "Pascoag River Valley (R.I.)--Remote-sensing maps",
+    "United States--Rhode Island--Pascoag Reservoir Region",
+    "United States--Rhode Island--Pascoag River Valley"
+  ],
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "dct_title_s": "Flood plain management study, Pascoag Reservoir upper and low dams, flood inundation map, Burrillville, Rhode Island : November 1988",
+  "gbl_dateRange_drsim": [
+    "[1988 TO 1988]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1988
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89696935",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

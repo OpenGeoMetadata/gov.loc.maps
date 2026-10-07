@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nova verior et integra totivs orbis descriptio nvne primvm in lvcem edita per Alfonsvm de sancta crvz Cæsaris Charoli V archicosmographvm, MDXLII"
+  ],
+  "dct_description_sm": [
+    "\"Shelfmark: KoB AB 50 St.f.\"--Note extracted from World Digital Library.",
+    "Alonzo de Santa Cruz (1505--67) was a well-known Spanish cartographer. As cosmographer at the Casa de contratación, the business enterprise in Seville that had a monopoly on the trade with the New World, he was responsible for the Padrón Real, a map documenting the newly discovered countries across the Atlantic. This world map, published by Alonzo de Santa Cruz in 1542, bears the title Nova verior et integra totivs orbis descriptio nvne primvm in lvcem edita per Alfonsvm de Santa Cruz Cæsaris Charoli V archicosmographvm, A.D. MDXLII (A new, more true and complete description of the whole world, first published by Alonzo de Santa Cruz, principal cosmographer to Emperor Charles V, 1542). The scale of the map is 1:34,000,000. It is drawn on three conjoined sheets of parchment measuring a total of 79 by 146 centimeters. The map is made in the form of two half spheres, one northern and one southern, each consisting of 36 globe segments, which are used to form a globe measuring 39 centimeters in diameter. The map was probably acquired by the Swedish philologist and historian Johan Gabriel Sparwenfeld during his journey in Spain in 1689--90. Sparwenfeld donated parts of his collections to the National Library of Sweden in 1706.",
+    "Content in Latin.",
+    "Contributors: Santa Cruz, Alonso de, 1505-1567 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Sweden.",
+    "Original resource extent: 3 sheets, parchment ; 79 x 146 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1542.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668586",
+    "http://www.loc.gov/item/2021668586/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_14400/",
+    "http://www.loc.gov/resource/wdl.14400/",
+    "https://hdl.loc.gov/loc.wdl/wdl.14400",
+    "https://www.loc.gov/item/2021668586/"
+  ],
+  "dct_issued_s": "1542-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_14400.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/14/40/0/wdl_14400/wdl_14400.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:40:0:wdl_14400:AB50SantaCruz_1542/full/pct:1.5625/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668586/\"}",
+  "dct_subject_sm": [
+    "1542",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1542-01-01"
+  ],
+  "dct_title_s": "A New, More True and Complete Description of the Whole World, First Published by Alonzo de Santa Cruz, Principal Cosmographer to Emperor Charles V, 1542.",
+  "gbl_dateRange_drsim": [
+    "[1542 TO 1542]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1542
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668586",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

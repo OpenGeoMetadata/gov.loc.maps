@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Cadastral map. Relief shown by hachures. Title from John R. Hébert's list of maps. Pen-and-ink and watercolor. Watermark: J Whatman 1801. From the papers of Vicente Sebastián Pintado. Described in: Vicente Sebastián Pintado, Surveyor General of Spanish West Florida, 1805-17 : the man and his maps / by John R. Hébert. Imago mundi, v. 39, pp. 50-72. 1987. p. 64, no. 24. In upper left corner: Plat no 29. LC Luso-Hispanic World, 955 Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Pintado, Vicente Sebastián, 1774-1829",
+    "Described in: Vicente Sebastián Pintado, Surveyor General of Spanish West Florida, 1805-17 : the man and his maps / by John R. Hébert. Imago mundi, v. 39, pp. 50-72. 1987. p. 64, no. 24.",
+    "From the papers of Vicente Sebastián Pintado.",
+    "In upper left corner: Plat no 29.",
+    "LC Luso-Hispanic World, 955",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [ca. 1805]",
+    "Relief shown by hachures.",
+    "Title from John R. Hébert's list of maps.",
+    "Watermark: J Whatman 1801."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4013e.lh000955",
+    "http://lccn.loc.gov/2013585034",
+    "http://www.loc.gov/item/2013585034/",
+    "http://www.loc.gov/resource/g4013e.lh000955/",
+    "https://hdl.loc.gov/loc.gmd/g4013e.lh000955",
+    "https://search.catalog.loc.gov/instances/5d23d335-7418-5893-837d-b466eef1f2bc",
+    "https://www.loc.gov/item/2013585034/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4013/g4013e/lh000955.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013585034/\"}",
+  "dct_spatial_sm": [
+    "east baton rouge parish",
+    "louisiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "East Baton Rouge Parish (La.)--Maps",
+    "Manuscript maps",
+    "Real property--Louisiana--East Baton Rouge Parish--Maps",
+    "United States--Louisiana--East Baton Rouge Parish"
+  ],
+  "dct_temporal_sm": [
+    "1805",
+    "[ca. 1805]"
+  ],
+  "dct_title_s": "[Plat of the concessions to Manuel Gayoso de Lemos in Baton Rouge District, Spanish West Florida]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013585034",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

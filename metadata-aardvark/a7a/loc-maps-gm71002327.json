@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Montrésor, John, 1736-1799",
+    "Has watermark.",
+    "In upper margin: No. 7.",
+    "LC Maps of North America, 1750-1789, 1166",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Has watermark. Oriented with north to the left. Relief shown by hachures and shading. Shows proposed British redoubts, \"rebel redout,\" and \"Fort Independence.\" In upper margin: No. 7. Stamped on verso: Montresor. Scale ca. 1:7,000. LC Maps of North America, 1750-1789, 1166 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Oriented with north to the left.",
+    "Publication statement: [1777?]",
+    "Relief shown by hachures and shading.",
+    "Scale ca. 1:7,000.",
+    "Shows proposed British redoubts, \"rebel redout,\" and \"Fort Independence.\"",
+    "Stamped on verso: Montresor.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ar116600",
+    "http://lccn.loc.gov/gm71002327",
+    "http://www.loc.gov/item/gm71002327/",
+    "http://www.loc.gov/resource/g3804n.ar116600/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ar116600",
+    "https://search.catalog.loc.gov/instances/0ca223e9-b4b4-5746-a838-3891201d2a68",
+    "https://www.loc.gov/item/gm71002327/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ar116600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002327/\"}",
+  "dct_spatial_sm": [
+    "kingsbridge",
+    "kingsbridge (new york)",
+    "new york",
+    "new york (state)",
+    "new york city",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fortification--New York (State)--New York--Maps--Early works to 1800",
+    "Kingsbridge (New York, N.Y.)--Buildings, structures, etc.--Maps, Manuscript--Early works to 1800",
+    "New York (N.Y.)--Buildings, structures, etc.--Maps, Manuscript--Early works to 1800",
+    "United States--New York (State)--Kingsbridge (New York)",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1777",
+    "[1777?]"
+  ],
+  "dct_title_s": "Sketch of the Heights of Kingsbridge, with the proposed redouts couloured yellow",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002327",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

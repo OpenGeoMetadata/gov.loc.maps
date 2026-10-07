@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 650/2; 650/3; 651/4; 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771; Rodney, George Brydges Rodney, Baron, 1719-1792; Stott, John",
+    "Includes descriptive index and text.",
+    "LC Maps of North America, 1750-1789, 2055",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [London] Printed for Thos. Jefferys [1763?]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. Oriented with north toward the upper left. Stamped on: Hydrographical Office. Includes descriptive index and text. Scale ca. 1:8,400. LC Maps of North America, 1750-1789, 2055 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 650/2; 650/3; 651/4; 700/1",
+    "Scale ca. 1:8,400.",
+    "Stamped on: Hydrographical Office.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/74691322",
+    "http://www.loc.gov/item/74691322/",
+    "http://www.loc.gov/resource/g5084s.ar205500/",
+    "https://hdl.loc.gov/loc.gmd/g5084s.ar205500",
+    "https://search.catalog.loc.gov/instances/ff618ba9-da36-5912-9ed7-77d91b6ef967",
+    "https://www.loc.gov/item/74691322/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5084/g5084s/ar205500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74691322/\"}",
+  "dct_spatial_sm": [
+    "martinique",
+    "pierre",
+    "saint",
+    "saint-pierre"
+  ],
+  "dct_subject_sm": [
+    "Fortification--Martinique--Saint-Pierre--Maps--Early works to 1800",
+    "Harbors--Martinique--Saint-Pierre--Maps--Early works to 1800",
+    "Martinique--Saint-Pierre",
+    "Saint-Pierre (Martinique)--Buildings, structures, etc.--Maps--Early works to 1800",
+    "Saint-Pierre (Martinique)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1763",
+    "[London] Printed for Thos. Jefferys [1763?]"
+  ],
+  "dct_title_s": "Plan of the bay, town, fortifications, and environs, of St. Pierre, in the island of Martinique",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74691322",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

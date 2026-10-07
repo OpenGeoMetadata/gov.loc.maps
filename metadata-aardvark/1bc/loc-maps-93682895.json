@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Another copy, without railroads highlighted in red, is in the Fillmore map collection no. 261.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bache, A. D. (Alexander Dallas), 1806-1867; Fillmore, Millard, 1800-1874, collector; United States Coast Survey, cartographer",
+    "Covers the area west to east, from Jackson, Miss. to Montgomery, Ala. and north to south, from Philadelphia, Miss./Centreville, Ala. to Gulf of Mexico.",
+    "Library of Congress. Civil War maps (2nd ed.), 260",
+    "Publication statement: [Washington, D.C.] : United States Coast Survey, 1863.",
+    "Transferred from the Allen family papers in LC Manuscript Division. Annotated in ink on verso: Itinerary, march to Montgomery April 12 (or 13) to April 25, 1865, 16th A.C. LC copy imperfect: water marks scattered in map and deteriorated along folded lines.",
+    "Vault",
+    "Vault Covers the area west to east, from Jackson, Miss. to Montgomery, Ala. and north to south, from Philadelphia, Miss./Centreville, Ala. to Gulf of Mexico. Transferred from the Allen family papers in LC Manuscript Division. Annotated in ink on verso: Itinerary, march to Montgomery April 12 (or 13) to April 25, 1865, 16th A.C. LC copy imperfect: water marks scattered in map and deteriorated along folded lines. Another copy, without railroads highlighted in red, is in the Fillmore map collection no. 261. Library of Congress. Civil War maps (2nd ed.), 260 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3981s.cw0260000",
+    "http://hdl.loc.gov/loc.gmd/g3981s.cw1058000",
+    "http://lccn.loc.gov/93682895",
+    "http://www.loc.gov/item/93682895/",
+    "http://www.loc.gov/resource/g3981s.cw0260000/",
+    "http://www.loc.gov/resource/g3981s.cw1058000/",
+    "http://www.loc.gov/resource/g3981s.fi000261/",
+    "https://hdl.loc.gov/loc.gmd/g3981s.cw0260000",
+    "https://hdl.loc.gov/loc.gmd/g3981s.cw1058000",
+    "https://hdl.loc.gov/loc.gmd/g3981s.fi000261",
+    "https://search.catalog.loc.gov/instances/96dc9729-0880-5d45-b512-a82a03367639",
+    "https://www.loc.gov/item/93682895/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3981/g3981s/cw0260000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93682895/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Alabama--History--Civil War, 1861-1865--Maps",
+    "Allen family--Private collections",
+    "Mississippi--History--Civil War, 1861-1865--Maps",
+    "United States--Alabama",
+    "United States--Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Southern Mississippi and Alabama : showing the approaches to Mobile",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93682895",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

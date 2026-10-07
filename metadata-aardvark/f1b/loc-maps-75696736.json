@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brosius, H.; Charles Shober & Co; Chicago Lithographing Co",
+    "Includes illus. and index to points of interest.",
+    "Includes illus. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1069 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1069",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [n.p., 1875]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3464b.pm010690",
+    "http://lccn.loc.gov/75696736",
+    "http://www.loc.gov/item/75696736/",
+    "http://www.loc.gov/resource/g3464b.pm010690/",
+    "https://hdl.loc.gov/loc.gmd/g3464b.pm010690",
+    "https://search.catalog.loc.gov/instances/38bdcee3-e9a4-59c3-998c-fb175e910d3a",
+    "https://www.loc.gov/item/75696736/"
+  ],
+  "dct_issued_s": "1875",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3464/g3464b/pm010690.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75696736/\"}",
+  "dct_spatial_sm": [
+    "brantford",
+    "canada",
+    "ontario"
+  ],
+  "dct_subject_sm": [
+    "Brantford (Ont.)--Maps",
+    "Canada--Ontario--Brantford"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "dct_title_s": "Bird's eye view of Brantford, province Ontario, Canada 1875",
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1875
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75696736",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

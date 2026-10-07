@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"34.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Johnson and Ward",
+    "DCP",
+    "Includes ill.",
+    "LC copy accompanied by typewritten information card: [From] Johnson's new illustrated family atlas, Johnson & Ward, New York, 1863.",
+    "Part of gazetteer on verso.",
+    "Publication statement: [New York] : Johnson and Ward, [1863]",
+    "Shows wards, block numbers, extent of built-up area, and major buildings.",
+    "Shows wards, block numbers, extent of built-up area, and major buildings. Includes ill. Part of gazetteer on verso. \"34.\" Available also through the Library of Congress Web site as a raster image. LC copy accompanied by typewritten information card: [From] Johnson's new illustrated family atlas, Johnson & Ward, New York, 1863. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.wd000567",
+    "http://lccn.loc.gov/88694005",
+    "http://www.loc.gov/item/88694005/",
+    "http://www.loc.gov/resource/g3850.wd000567/",
+    "https://hdl.loc.gov/loc.gmd/g3850.wd000567",
+    "https://search.catalog.loc.gov/instances/88e24ea2-5e73-572c-b205-dee3b9c73d44",
+    "https://www.loc.gov/item/88694005/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/wd000567.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88694005/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "georgetown",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Georgetown (Washington, D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Georgetown",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Johnson's Georgetown and the city of Washington : the capital of the United States of America",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88694005",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"2,000 meter Universal Transverse Mercator grid, Zone 15.\"",
+    "\"Base compiled from U.S.G.S. quadrangle sheets and Oklahoma county highway map ...\"",
+    "\"July 1979 4-R-37194. July 1979 Base 4-R-37172.\"",
+    "\"July 1979 4-R-37194. July 1979 Base 4-R-37172.\" \"Base compiled from U.S.G.S. quadrangle sheets and Oklahoma county highway map ...\" \"2,000 meter Universal Transverse Mercator grid, Zone 15.\" Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1979."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/85693522",
+    "http://www.loc.gov/item/85693522/",
+    "http://www.loc.gov/resource/g4022p.ct011212/",
+    "https://hdl.loc.gov/loc.gmd/g4022p.ct011212",
+    "https://search.catalog.loc.gov/instances/16800b54-8c0e-52ce-b981-2c5b3b039999",
+    "https://www.loc.gov/item/85693522/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4022/g4022p/ct011212.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85693522/\"}",
+  "dct_spatial_sm": [
+    "oklahoma",
+    "paw paw bottoms watershed",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Paw Paw Bottoms Watershed (Okla.)--Maps",
+    "United States--Oklahoma--Paw Paw Bottoms Watershed",
+    "Water resources development--Oklahoma--Paw Paw Bottoms Watershed--Maps",
+    "Watershed management--Oklahoma--Paw Paw Bottoms Watershed--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Project map, Paw Paw Bottoms Watershed, a portion of Sequoyah County, Oklahoma",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85693522",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

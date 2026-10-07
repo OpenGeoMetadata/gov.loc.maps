@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1,O-12,727.\"",
+    "\"Base Source: USDA, SCS, in cooperation with VPI&SU and Virginia SWCC.\"",
+    "\"Base Source: USDA, SCS, in cooperation with VPI&SU and Virginia SWCC.\" \"October 1979.\" Indexed. \"1,O-12,727.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"October 1979.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Indexed.",
+    "Publication statement: Lanham, Md. : USDA-SCS, 1979."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881j.ct008998",
+    "http://lccn.loc.gov/81690106",
+    "http://www.loc.gov/item/81690106/",
+    "http://www.loc.gov/resource/g3881j.ct008998/",
+    "https://hdl.loc.gov/loc.gmd/g3881j.ct008998",
+    "https://search.catalog.loc.gov/instances/e3cdc2c6-6c03-5927-b312-02ea53066551",
+    "https://www.loc.gov/item/81690106/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881j/ct008998.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690106/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Soil surveys--Virginia--Maps",
+    "United States--Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Status of soil surveys, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690106",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

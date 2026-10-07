@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This 1671 map of Salvador on the northeastern coast of Brazil is from the monumental work by the Dutch writer Arnoldus Montanus (1625-83), De Nieuwe en Onbekende Weereld: Of Beschryving van America en 't Zuid-land (The new and unknown world: Or description of America and the southland). Montanus was a Protestant minister and headmaster of the Latin School in the town of Schoonhoven. He wrote books on church history and theology, the history of the Low Countries, and the peoples and cultures of the Americas and Australia. (The \"Southland\" in the title of his book refers to the recently-discovered Australia.) Montanus never visited the New World and his work contains numerous errors and fantastic conceptions about the people of the Americas. Nonetheless, it became a standard work in Europe and was widely read for many years. The publisher of the work was the Amsterdam bookseller and engraver Jacob van Meurs, who was active from 1651 to 1680 and specialized in works of history, geography, and travelogues.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Contributors: Montanus, Arnoldus, 1625?-1683",
+    "From the author's De Nieuwe en onbekende weereld ... 1671.",
+    "Includes index and ill.",
+    "Publication statement: [Amsterdam, J. Meurs, 1671]",
+    "Relief shown pictorially.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5404s.ct001236",
+    "http://lccn.loc.gov/2004632029",
+    "http://www.loc.gov/item/2004632029/",
+    "http://www.loc.gov/resource/g5404s.ct001236/",
+    "https://hdl.loc.gov/loc.gmd/g5404s.ct001236",
+    "https://search.catalog.loc.gov/instances/dc57e15e-afdf-5276-9825-6ccd462cdd25",
+    "https://www.loc.gov/item/2004632029/"
+  ],
+  "dct_issued_s": "1671",
+  "dct_language_sm": [
+    "dut"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5404/g5404s/ct001236.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004632029/\"}",
+  "dct_spatial_sm": [
+    "brazil",
+    "salvador"
+  ],
+  "dct_subject_sm": [
+    "Brazil--Salvador",
+    "Salvador (Brazil)--Aerial views--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1671"
+  ],
+  "dct_title_s": "Urbs Salvador",
+  "gbl_dateRange_drsim": [
+    "[1671 TO 1671]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1671
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004632029",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

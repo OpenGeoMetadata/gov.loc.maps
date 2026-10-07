@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At head of title: U.S. Coast Survey, A. D. Bache. Supdt.",
+    "At head of title: U.S. Coast Survey, A. D. Bache. Supdt. Chart of Cape Hatteras and environs showing soundings, lighthouses, and bottom contours at 6, 12, and 18 feet. Description derived from published bibliography. Scale 1:200,000. LC Civil War Maps (2nd ed.), 306.5 Available also through the Library of Congress web site as raster image.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Chart of Cape Hatteras and environs showing soundings, lighthouses, and bottom contours at 6, 12, and 18 feet.",
+    "Contributors: United States Coast Survey",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 306.5",
+    "Publication statement: [Washington U.S. Coast Survey], 1861.",
+    "Scale 1:200,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3902c.cw0306500",
+    "http://lccn.loc.gov/99447456",
+    "http://www.loc.gov/item/99447456/",
+    "http://www.loc.gov/resource/g3902c.cw0306500/",
+    "https://hdl.loc.gov/loc.gmd/g3902c.cw0306500",
+    "https://search.catalog.loc.gov/instances/a02bf41e-0d1f-5ec8-aa3d-5683a6d0c30e",
+    "https://www.loc.gov/item/99447456/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902c/cw0306500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447456/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coasts--North Carolina",
+    "United States--North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Sketch of the coast of North Carolina from Oregon Inlet to Ocracoke Inlet",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447456",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

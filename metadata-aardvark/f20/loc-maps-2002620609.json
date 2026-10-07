@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Fort Washington, Fort Washington Park, Maryland",
+    "Title on verso: Fort Washington, Fort Washington Park, Maryland"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 1999--454-767/60459. Reprint 1995.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and col. ill.",
+    "Panel title.",
+    "Principal map covers entire park.",
+    "Principal map covers entire park. \"*GPO: 1999--454-767/60459. Reprint 1995.\" Panel title. Includes text and col. ill. Text, 2 maps of fort vicinity, map of \"British advance on Washington 1814\", and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington, D.C.] : The Service, [1999]",
+    "Text, 2 maps of fort vicinity, map of \"British advance on Washington 1814\", and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842f.ct008799",
+    "http://lccn.loc.gov/2002620609",
+    "http://www.loc.gov/item/2002620609/",
+    "http://www.loc.gov/resource/g3842f.ct008799/",
+    "https://hdl.loc.gov/loc.gmd/g3842f.ct008799",
+    "https://search.catalog.loc.gov/instances/fbb25f66-143b-5b12-8519-07c641bef1a9",
+    "https://www.loc.gov/item/2002620609/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842f/ct008799.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002620609/\"}",
+  "dct_spatial_sm": [
+    "fort washington",
+    "fort washington park",
+    "fort washington(fort)",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Washington (Md. : Fort)--Maps",
+    "Fort Washington Park (Md.)--Maps",
+    "United States--Maryland--Fort Washington Park",
+    "United States--Maryland--Fort Washington(Fort)"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Fort Washington, Fort Washington Park, Maryland, official map and guide",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002620609",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

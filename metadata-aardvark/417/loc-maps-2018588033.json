@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of the basin of LaPlata"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bien, Julius, 1826-1909; Fillmore, Millard, 1800-1874, collector; Page, Thomas Jefferson, 1808-1899, cartographer",
+    "Includes cross-section diagram \"Vertical Section of the Rivers Parana and Paraguay from Curumba to the sea.\"",
+    "LC copy signed on verso on yellow sticker: Millard Fillmore. Sept 14 1858.",
+    "Publication statement: New York : Engd. on stone by J. Bien, [1856?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Includes cross-section diagram \"Vertical Section of the Rivers Parana and Paraguay from Curumba to the sea.\" LC copy signed on verso on yellow sticker: Millard Fillmore. Sept 14 1858. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018588033",
+    "http://www.loc.gov/item/2018588033/",
+    "http://www.loc.gov/resource/g5202r.fi000158/",
+    "https://hdl.loc.gov/loc.gmd/g5202r.fi000158",
+    "https://search.catalog.loc.gov/instances/d970b42c-3a70-5eee-88cb-a36aeadcfacf",
+    "https://www.loc.gov/item/2018588033/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5202/g5202r/fi000158.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018588033/\"}",
+  "dct_spatial_sm": [
+    "argentina",
+    "rio de la plata",
+    "uruguay"
+  ],
+  "dct_subject_sm": [
+    "Argentina--Rio de la Plata",
+    "Rio de la Plata (Argentina and Uruguay)--Maps",
+    "Uruguay--Rio de la Plata"
+  ],
+  "dct_temporal_sm": [
+    "1856",
+    "New York : Engd. on stone by J. Bien, [1856?]"
+  ],
+  "dct_title_s": "Map of the basin of La Plata : based upon the results of the expedition under the command of Thos. J. Page, U.S. Navy, in the years 1853,-'54,-'55, & 56 and of the adjacent countries",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018588033",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

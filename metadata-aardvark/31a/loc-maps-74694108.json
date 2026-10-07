@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 440; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Liguera y Antayo, Juan de",
+    "Depths shown by soundings.",
+    "Indexed.",
+    "LC Luso-Hispanic World, 851",
+    "LC Maps of North America, 1750-1789, 1599",
+    "Manuscript, pen-and-ink and watercolors.",
+    "Mounted on cloth backing.",
+    "Prime meridian: Tenerife.",
+    "Printed label describing the map mounted on verso.",
+    "Publication statement: [1751]",
+    "Scale ca. 1:650,000.",
+    "Vault",
+    "Watermarks: IV; and, fleur-de-lis.",
+    "Watermarks: IV; and, fleur-de-lis. Manuscript, pen-and-ink and watercolors. Prime meridian: Tenerife. Depths shown by soundings. Indexed. Mounted on cloth backing. Printed label describing the map mounted on verso. Scale ca. 1:650,000. LC Maps of North America, 1750-1789, 1599 LC Luso-Hispanic World, 851 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 440; 651/1"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3862c.ar159900",
+    "http://lccn.loc.gov/74694108",
+    "http://www.loc.gov/item/74694108/",
+    "http://www.loc.gov/resource/g3862c.ar159900/",
+    "https://hdl.loc.gov/loc.gmd/g3862c.ar159900",
+    "https://search.catalog.loc.gov/instances/ba68016b-8887-5377-8d3f-ea66cd65778a",
+    "https://www.loc.gov/item/74694108/"
+  ],
+  "dct_issued_s": "1751",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3862/g3862c/ar159900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694108/\"}",
+  "dct_spatial_sm": [
+    "gulf coast",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gulf Coast (U.S.)--Maps, Manuscript--Early works to 1800",
+    "United States--Gulf Coast"
+  ],
+  "dct_temporal_sm": [
+    "1751"
+  ],
+  "dct_title_s": "Plano y costa de la Palisada o de Misipipi zituada, su entrada o Cabo de Lodo en 29 gs. 17 ms. de lattud. norte y en longd. de 385 gs. 3 ms. segun Tenerife",
+  "gbl_dateRange_drsim": [
+    "[1751 TO 1751]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1751
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694108",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

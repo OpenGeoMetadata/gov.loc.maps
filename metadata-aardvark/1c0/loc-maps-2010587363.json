@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2010-057",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Low, Esther Prentiss, 1762-1816; Scoles, John, 1772?-1853",
+    "Covers the southeast United States from northern Georgia south to northern Florida and west to the Mississippi River.",
+    "Covers the southeast United States from northern Georgia south to northern Florida and west to the Mississippi River. Shows general locations of Native American tribes. Relief shown pictorially. In lower margin: Engd. for the New encyclopedia published by E. Low, N. York. Prime meridians: Philadelphia and London. Available also through the Library of Congress Web site as a raster image. Vendor: Sloan Acquisitions control no. 2010-057",
+    "In lower margin: Engd. for the New encyclopedia published by E. Low, N. York.",
+    "Prime meridians: Philadelphia and London.",
+    "Publication statement: [New York? : E. Low], 1831.",
+    "Relief shown pictorially.",
+    "Shows general locations of Native American tribes.",
+    "Vendor: Sloan"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2010587363",
+    "http://www.loc.gov/item/2010587363/",
+    "http://www.loc.gov/resource/g3920.ct009968/",
+    "https://hdl.loc.gov/loc.gmd/g3920.ct009968",
+    "https://search.catalog.loc.gov/instances/7d9ff51e-9568-5b70-b101-427227dec018",
+    "https://www.loc.gov/item/2010587363/"
+  ],
+  "dct_issued_s": "1831",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3920/g3920/ct009968.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010587363/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "georgia",
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--Maps",
+    "Indians of North America--Alabama--Maps",
+    "Indians of North America--Georgia--Maps",
+    "Indians of North America--Mississippi--Maps",
+    "United States--Alabama",
+    "United States--Georgia",
+    "United States--Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "1831"
+  ],
+  "dct_title_s": "Georgia, from the latest authorities",
+  "gbl_dateRange_drsim": [
+    "[1831 TO 1831]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1831
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010587363",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

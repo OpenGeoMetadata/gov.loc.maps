@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from 1:500,000 U.S.G.S. state base map ...\"",
+    "\"Base compiled from 1:500,000 U.S.G.S. state base map ...\" In lower right corner: April 1981 4-R-36695. In right lower margin: April 1981 base 4-R-37392-A. UTM grid. Includes location map and table of slope data. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "In lower right corner: April 1981 4-R-36695.",
+    "In right lower margin: April 1981 base 4-R-37392-A.",
+    "Includes location map and table of slope data.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1982.",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82693780",
+    "http://www.loc.gov/item/82693780/",
+    "http://www.loc.gov/resource/g3921j.ct009986/",
+    "https://hdl.loc.gov/loc.gmd/g3921j.ct009986",
+    "https://search.catalog.loc.gov/instances/5a6ef4e6-deef-50e8-86e8-9957a7bb1483",
+    "https://www.loc.gov/item/82693780/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3921/g3921j/ct009986.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82693780/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Slopes (Physical geography)--Georgia--Maps",
+    "Soils--Georgia--Maps",
+    "United States--Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Major land resource area and soil associations map, southwest Georgia land and water resource cooperative study",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82693780",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

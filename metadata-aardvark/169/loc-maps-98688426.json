@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At head of title: Coast route, California Map no. 1.",
+    "At head of title: Coast route, California Map no. 1. Relief shown by hachures. From U.S. War Department, Explorations and Surveys for a Railroad Route from the Mississippi River to the Pacific Ocean. Topographical Maps . . . to Illustrate the Various Reports . . . (Washington, 1859) Description derived from published bibliography. Scale 1:760,320. LC Railroad maps, 158 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Custer, H.; Davis, Jefferson, 1808-1889; Parke, John G.; United States. War Department",
+    "Description derived from published bibliography.",
+    "From U.S. War Department, Explorations and Surveys for a Railroad Route from the Mississippi River to the Pacific Ocean. Topographical Maps . . . to Illustrate the Various Reports . . . (Washington, 1859)",
+    "LC Railroad maps, 158",
+    "Publication statement: [Washington, D.C., 1859]",
+    "Relief shown by hachures.",
+    "Scale 1:760,320."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4360.rr001580",
+    "http://lccn.loc.gov/98688426",
+    "http://www.loc.gov/item/98688426/",
+    "http://www.loc.gov/resource/g4360.rr001580/",
+    "https://hdl.loc.gov/loc.gmd/g4360.rr001580",
+    "https://search.catalog.loc.gov/instances/20673f34-ebe8-5c0f-bd22-a0eb43b6175f",
+    "https://www.loc.gov/item/98688426/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4360/g4360/rr001580.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688426/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "California--Maps",
+    "Railroads--California--Surveying--Maps",
+    "Trails--California--Maps",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "1854 d1855"
+  ],
+  "dct_title_s": "From San Francisco Bay to the Plains of Los Angeles : from explorations and surveys",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688426",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

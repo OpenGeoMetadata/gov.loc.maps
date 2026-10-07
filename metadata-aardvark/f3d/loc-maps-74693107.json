@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"2.\"",
+    "\"Longitud oriental de la isla del Hierro.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: López, Juan, 1765-1825",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"Longitud oriental de la isla del Hierro.\" \"2.\" Scale ca. 1:23,000,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [n.p., 1780?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:23,000,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar017400",
+    "http://lccn.loc.gov/74693107",
+    "http://www.loc.gov/item/74693107/",
+    "http://www.loc.gov/resource/g3300.ar017400/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar017400",
+    "https://search.catalog.loc.gov/instances/3429cfad-3a2f-5d99-b3ac-4a192ff97fa6",
+    "https://www.loc.gov/item/74693107/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar017400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693107/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "North America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1780",
+    "[n.p., 1780?]"
+  ],
+  "dct_title_s": "Mapa de la America Septentrional",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693107",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

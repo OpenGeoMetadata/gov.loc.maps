@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lapie, M. (Pierre), 1779-1850",
+    "From: Nouvelles annales des voyages, de la géographie et de l'histoire, ou recueil, tome XI, 1821.",
+    "In upper right margin: Nouvelles annales des voyages, Tome XII, [page 21].",
+    "In upper right margin: Nouvelles annales des voyages, Tome XII, [page 21]. From: Nouvelles annales des voyages, de la géographie et de l'histoire, ou recueil, tome XI, 1821. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Paris : Librairie de Gide Fils, 1821]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/87691922",
+    "http://www.loc.gov/item/87691922/",
+    "http://www.loc.gov/resource/g4050.ct011654/",
+    "https://hdl.loc.gov/loc.gmd/g4050.ct011654",
+    "https://search.catalog.loc.gov/instances/4b6bdd33-5f51-594f-951d-c69c32711b78",
+    "https://www.loc.gov/item/87691922/"
+  ],
+  "dct_issued_s": "1821",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4050/g4050/ct011654.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691922/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west"
+  ],
+  "dct_subject_sm": [
+    "United States--West",
+    "West (U.S.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1821"
+  ],
+  "dct_title_s": "Carte de la partie occidentale des Etats-Unis : dressée pour servir à l'intelligence des découvertes des Américans dans cette partie et notamment pour celles de M.M. Hunt et Stuart, faites en 1811, 12, et 13",
+  "gbl_dateRange_drsim": [
+    "[1821 TO 1821]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1821
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87691922",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

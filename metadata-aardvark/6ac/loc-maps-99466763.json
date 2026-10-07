@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "From The universal magazine of knowledge and pleasure (1788, vol. 66)",
+    "From The universal magazine of knowledge and pleasure (1788, vol. 66) Includes western Long Island and southeast Massachusetts. Shows towns, roads, rivers, some navigational hazards along the coast, \"Lands Granted to New York by Connecticut\", and relief. Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, 159 Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 829 Available also through the Library of Congress web site as a raster image.",
+    "Includes western Long Island and southeast Massachusetts. Shows towns, roads, rivers, some navigational hazards along the coast, \"Lands Granted to New York by Connecticut\", and relief.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 829",
+    "Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, 159",
+    "Publication statement: [London, 1780]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3780.ar082900",
+    "http://lccn.loc.gov/99466763",
+    "http://www.loc.gov/item/99466763/",
+    "http://www.loc.gov/resource/g3780.ar082900/",
+    "https://hdl.loc.gov/loc.gmd/g3780.ar082900",
+    "https://search.catalog.loc.gov/instances/4b3ff0a7-6249-565c-906e-9bb0c9b0928a",
+    "https://www.loc.gov/item/99466763/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd378/g3780/g3780/ar082900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466763/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "rhode island",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Connecticut--Maps--Early works to 1800",
+    "Rhode Island--Maps--Early works to 1800",
+    "United States--Connecticut",
+    "United States--Rhode Island"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "A new and accurate map of Connecticut and Rhode Island, from best authorities",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466763",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

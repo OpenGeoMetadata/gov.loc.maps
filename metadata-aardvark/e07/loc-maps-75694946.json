@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Includes illus. and index to points of interest. Perspe tive map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 733 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Contributors: Downs, A. E. (Albert E.); Fowler, T. M. (Thaddeus Mortimer), 1842-1922; Moyer, James B.",
+    "Includes illus. and index to points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 733",
+    "Perspe tive map not drawn to scale.",
+    "Publication statement: Morrisville, Pa., T. M. Fowler & James B. Moyer [1892]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824a.pm007330",
+    "http://lccn.loc.gov/75694946",
+    "http://www.loc.gov/item/75694946/",
+    "http://www.loc.gov/resource/g3824a.pm007330/",
+    "https://hdl.loc.gov/loc.gmd/g3824a.pm007330",
+    "https://search.catalog.loc.gov/instances/f4336a82-da70-581c-9a83-80b36f314b5f",
+    "https://www.loc.gov/item/75694946/"
+  ],
+  "dct_issued_s": "1892",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824a/pm007330.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694946/\"}",
+  "dct_spatial_sm": [
+    "archbald",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Archbald (Pa.)",
+    "United States--Pennsylvania--Archbald"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "dct_title_s": "Archbald, Lackawanna County, Pa. 1892",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694946",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

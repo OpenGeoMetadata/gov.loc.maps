@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Homann, Johann Baptist, 1663-1724",
+    "Hand written text in German on verso.",
+    "Includes two illustrations: Whitehall and the Bourse.",
+    "Inset view of London: Prospect der Königl. Haupt und Residentz Stadt London. 15 x 56 cm.",
+    "Inset view of London: Prospect der Königl. Haupt und Residentz Stadt London. 15 x 56 cm. Includes two illustrations: Whitehall and the Bourse. Hand written text in German on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Nürnberg : s.n., 1740?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5754l.ct003475r",
+    "http://hdl.loc.gov/loc.gmd/g5754l.ct003475v",
+    "http://lccn.loc.gov/2011590010",
+    "http://www.loc.gov/item/2011590010/",
+    "http://www.loc.gov/resource/g5754l.ct003475r/",
+    "http://www.loc.gov/resource/g5754l.ct003475v/",
+    "https://hdl.loc.gov/loc.gmd/g5754l.ct003475r",
+    "https://hdl.loc.gov/loc.gmd/g5754l.ct003475v",
+    "https://search.catalog.loc.gov/instances/84129cfb-5200-5cbc-a9cf-bf924f8885e6",
+    "https://www.loc.gov/item/2011590010/"
+  ],
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5754/g5754l/ct003475r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011590010/\"}",
+  "dct_spatial_sm": [
+    "england",
+    "london"
+  ],
+  "dct_subject_sm": [
+    "England--London",
+    "London (England)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1740",
+    "[Nürnberg : s.n., 1740?]"
+  ],
+  "dct_title_s": "Accurater Prospect und Grundris der Königl. Gros-Britan̄isch. Haupt- und Residentz-Stadt London",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011590010",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Baist, G. Wm. (George William), 1859-1927",
+    "DCP",
+    "Phillips 1505",
+    "Phillips 1505 Available also through the Library of Congress Web site as a raster image. DCP",
+    "Publication statement: Philadelphia : G.W. Baist, 1903."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851bm.gct00131a",
+    "http://hdl.loc.gov/loc.gmd/g3851bm.gct00131b",
+    "http://hdl.loc.gov/loc.gmd/g3851bm.gct00131c",
+    "http://lccn.loc.gov/87675190",
+    "http://www.loc.gov/item/87675190/",
+    "http://www.loc.gov/resource/g3851bm.gct00131a/",
+    "http://www.loc.gov/resource/g3851bm.gct00131b/",
+    "http://www.loc.gov/resource/g3851bm.gct00131c/",
+    "https://hdl.loc.gov/loc.gmd/g3851bm.gct00131a",
+    "https://hdl.loc.gov/loc.gmd/g3851bm.gct00131b",
+    "https://hdl.loc.gov/loc.gmd/g3851bm.gct00131c",
+    "https://search.catalog.loc.gov/instances/e8f3c3c5-cf9f-524e-a7e4-9af6bc322479",
+    "https://www.loc.gov/item/87675190/"
+  ],
+  "dct_issued_s": "1903",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385m/g3851m/g3851bm/gct00131a/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87675190/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dct_title_s": "Baist's real estate atlas of surveys of Washington, District of Columbia : complete in three volumes",
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1903]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87675190",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

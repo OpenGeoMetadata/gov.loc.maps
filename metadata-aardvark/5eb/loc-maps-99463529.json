@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802403 (RO2605) 6-99.\"",
+    "Also covers extensive adjacent regions.",
+    "Also issued without shaded relief.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1999]",
+    "Relief shown by shading.",
+    "Relief shown by shading. \"Base 802403 (RO2605) 6-99.\" Also issued without shaded relief. Also covers extensive adjacent regions. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7130.ct000999",
+    "http://lccn.loc.gov/99463529",
+    "http://www.loc.gov/item/99463529/",
+    "http://www.loc.gov/resource/g7130.ct000999/",
+    "https://hdl.loc.gov/loc.gmd/g7130.ct000999",
+    "https://search.catalog.loc.gov/instances/428fa251-c9d9-5843-b138-714debd61771",
+    "https://www.loc.gov/item/99463529/"
+  ],
+  "dct_issued_s": "1999",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7130/g7130/ct000999.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99463529/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "georgia (republic)",
+    "republic"
+  ],
+  "dct_subject_sm": [
+    "Georgia (Republic)",
+    "Georgia (Republic)--Maps",
+    "Georgia (Republic)--Maps, Physical"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "dct_title_s": "Georgia",
+  "gbl_dateRange_drsim": [
+    "[1999 TO 1999]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1999
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99463529",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

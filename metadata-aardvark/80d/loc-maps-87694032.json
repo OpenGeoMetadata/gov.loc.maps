@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Alternate title at lower right: Washington, District of Columbia.",
+    "Alternate title at lower right: Washington, District of Columbia. Oriented with north toward the upper left. Available also through the Library of Congress Web site as a raster image. LC copy laminated, halved, and mounted on cloth backing. DCP 2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Bureau of the Census",
+    "DCP",
+    "LC copy laminated, halved, and mounted on cloth backing.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Washington?] : The Bureau, [1960?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851e.ct004576",
+    "http://lccn.loc.gov/87694032",
+    "http://www.loc.gov/item/87694032/",
+    "http://www.loc.gov/resource/g3851e.ct004576/",
+    "https://hdl.loc.gov/loc.gmd/g3851e.ct004576",
+    "https://search.catalog.loc.gov/instances/7a6b52e0-a5b7-521d-b268-5b0e0702a871",
+    "https://www.loc.gov/item/87694032/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct004576.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694032/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Census districts--Washington (D.C.)--Maps",
+    "City blocks--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1960",
+    "[Washington?] : The Bureau, [1960?]"
+  ],
+  "dct_title_s": "Washington, District of Columbia, by census tracts and blocks : 1960",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694032",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

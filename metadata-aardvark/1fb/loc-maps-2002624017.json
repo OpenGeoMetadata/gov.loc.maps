@@ -1,0 +1,98 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Cecil County, Maryland"
+  ],
+  "dct_description_sm": [
+    "\"Entered according to act of Congress in the year 1858 by Simon J. Martenet in the clerks office of the eastern district of Maryland.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Martenet, Simon J., cartographer, publisher; R.L. Barnes' Map Col'g & Mounting Establishment, bookseller",
+    "Insets: Cherry Hill -- Rising Sun -- Brick Meeting House -- Port Deposit -- Charlestown -- Chesapeake City -- Warwick -- North East -- Elkton -- Fredericktown -- Cecilton.",
+    "LC Land ownership maps, 290",
+    "LC copy sectioned in 4 and mounted on 1 sheet of cloth.",
+    "Publication statement: Baltimore : Simon J. Martenet, No. 6 South St., [1858].; Philadelphia : from R. L. Barnes' Map Colg. & Mounting Establishment, [1858]",
+    "Shows landowners.",
+    "Shows landowners. \"Entered according to act of Congress in the year 1858 by Simon J. Martenet in the clerks office of the eastern district of Maryland.\" Insets: Cherry Hill -- Rising Sun -- Brick Meeting House -- Port Deposit -- Charlestown -- Chesapeake City -- Warwick -- North East -- Elkton -- Fredericktown -- Cecilton. LC copy sectioned in 4 and mounted on 1 sheet of cloth. LC Land ownership maps, 290 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3843c.la000290",
+    "http://lccn.loc.gov/2002624017",
+    "http://www.loc.gov/item/2002624017/",
+    "http://www.loc.gov/resource/g3843c.la000290/",
+    "https://hdl.loc.gov/loc.gmd/g3843c.la000290",
+    "https://search.catalog.loc.gov/instances/c35436fd-a38f-58e1-a463-f88a431437fe",
+    "https://www.loc.gov/item/2002624017/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3843/g3843c/la000290.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002624017/\"}",
+  "dct_spatial_sm": [
+    "calvert",
+    "cecil county",
+    "cecilton",
+    "charlestown",
+    "cherry hill",
+    "chesapeake city",
+    "elkton",
+    "fredericktown",
+    "maryland",
+    "north east",
+    "port deposit",
+    "rising sun",
+    "united states",
+    "warwick"
+  ],
+  "dct_subject_sm": [
+    "Calvert (Md.)--Maps",
+    "Cecil County (Md.)--Maps",
+    "Cecilton (Md.)--Maps",
+    "Charlestown (Md.)--Maps",
+    "Cherry Hill (Md.)--Maps",
+    "Chesapeake City (Md.)--Maps",
+    "Elkton (Md.)--Maps",
+    "Fredericktown (Md.)--Maps",
+    "Landowners--Maryland--Cecil County--Maps",
+    "North East (Md.)--Maps",
+    "Port Deposit (Md.)--Maps",
+    "Real property--Maryland--Cecil County--Maps",
+    "Rising Sun (Md.)--Maps",
+    "United States--Maryland--Calvert",
+    "United States--Maryland--Cecil County",
+    "United States--Maryland--Cecilton",
+    "United States--Maryland--Charlestown",
+    "United States--Maryland--Cherry Hill",
+    "United States--Maryland--Chesapeake City",
+    "United States--Maryland--Elkton",
+    "United States--Maryland--Fredericktown",
+    "United States--Maryland--North East",
+    "United States--Maryland--Port Deposit",
+    "United States--Maryland--Rising Sun",
+    "United States--Maryland--Warwick",
+    "Warwick (Md.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Martenet's map of Cecil County, Maryland : from the coast, and original surveys",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002624017",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

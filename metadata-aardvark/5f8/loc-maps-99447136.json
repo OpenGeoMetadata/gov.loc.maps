@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Electrotype copy no. 1 by G. Mathiot, U.S.G.S., no. 5\" printed in upper margin.",
+    "(Its no. 5)",
+    "(Its no. 5) At head of title: U.S. Coast Survey, A. D. Bache, Supt. \"Electrotype copy no. 1 by G. Mathiot, U.S.G.S., no. 5\" printed in upper margin. Chart of the Gulf coast indicating soundings, lights, and bottom contours at 10 and 100 fathoms. Stamped in the lower right corner: From collection of David Dixon Porter. Description derived from published bibliography. Scale 1:1,200,000. LC Civil War Maps (2nd ed.), 47.6 Available also through the Library of Congress web site as raster image.",
+    "At head of title: U.S. Coast Survey, A. D. Bache, Supt.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Chart of the Gulf coast indicating soundings, lights, and bottom contours at 10 and 100 fathoms.",
+    "Contributors: United States Coast Survey",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 47.6",
+    "Publication statement: [Washington, U.S. Coast Survey], 1863.",
+    "Scale 1:1,200,000.",
+    "Stamped in the lower right corner: From collection of David Dixon Porter."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3862c.cw0047600",
+    "http://lccn.loc.gov/99447136",
+    "http://www.loc.gov/item/99447136/",
+    "http://www.loc.gov/resource/g3862c.cw0047600/",
+    "https://hdl.loc.gov/loc.gmd/g3862c.cw0047600",
+    "https://search.catalog.loc.gov/instances/abb9d165-7180-5c77-bfe9-9cd442762a87",
+    "https://www.loc.gov/item/99447136/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3862/g3862c/cw0047600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447136/\"}",
+  "dct_spatial_sm": [
+    "gulf coast",
+    "gulf states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Gulf States--Maps",
+    "Gulf Coast (U.S.)--Maps",
+    "Nautical charts--Gulf Coast (U.S.)",
+    "United States--Gulf Coast"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Gulf coast of the United States; Key West to Rio Grande",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447136",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

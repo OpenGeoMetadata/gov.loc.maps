@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"58329.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, 1968]",
+    "Scale 1:32,000,000.",
+    "Shows radial distances.",
+    "Shows radial distances. \"58329.\" Scale 1:32,000,000. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3201b.ct002683",
+    "http://lccn.loc.gov/75692495",
+    "http://www.loc.gov/item/75692495/",
+    "http://www.loc.gov/resource/g3201b.ct002683/",
+    "https://hdl.loc.gov/loc.gmd/g3201b.ct002683",
+    "https://search.catalog.loc.gov/instances/f801c7db-0b59-59b2-8144-f01b30f3088f",
+    "https://www.loc.gov/item/75692495/"
+  ],
+  "dct_issued_s": "1968",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201b/ct002683.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75692495/\"}",
+  "dct_spatial_sm": [
+    "earth",
+    "korea",
+    "seoul"
+  ],
+  "dct_subject_sm": [
+    "Azimuthal equidistant projection (Cartography)--Maps",
+    "Earth",
+    "Seoul (Korea)--Distances, etc.--Maps",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "dct_title_s": "Azimuthal equidistant projection centered on Seoul, 37⁰34ʹN., 127⁰00ʹE. 10-68",
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1968]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75692495",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

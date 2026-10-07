@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte de l'Egypte, de la Nubie, de l'Abissinie &c"
+  ],
+  "dct_description_sm": [
+    "\"Map scale approximately 1:9,200,000\"--Note extracted from World Digital Library.",
+    "Content in French.",
+    "Contributors: Desrosiers, active 1705-1711 Engraver.; L'Isle, Guillaume de, 1675-1726 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "French cartographer Guillaume de L'Isle (1675-1726) was admitted into the Royal Academy of Sciences when he was 27 years old and subsequently became the first person to receive the title Premier Géographe du Roi (principal geographer to the king). He was one of the most important cartographers of the early 18th century and a major figure in making Paris a center of cartographic science. At the time de L'Isle was engaged in cartographic research, the prestige of a cartographer and the authority of his maps were generally gauged by the veracity of his sources, which were based on reporting by explorers and travelers. The map by de L'Isle shown here was published in 1707 and indicates the various kingdoms in northwest Africa and Arabia, with their borders clearly demarcated. Some of the discursive labels on the African peoples are interesting: the inhabitants of the Lumptunes Desert (in present-day Nigeria) are described as \"superb and brutal;\" \"Falasian or Exiled Fugitive Jews\" live in the Kingdom of Changala; and toward the lower left are the Bokkemeale who trade \"elephant teeth\" with their neighbors, the Bakké-Bakké. Towns, oases, and settlements are noted. In the area of Qatar is a town labeled \"Catema.\" The pearl banks of the Red Sea and Arabian Gulf are also shown. Scale is indicated in three measures: Turkish common miles, nautical leagues, and French common leagues.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map : hand colored ; 48 x 59 centimeters.",
+    "Publication statement: Paris : Quai de l'Horloge à l'Aigle de l'Or, 1707.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668731",
+    "http://www.loc.gov/item/2021668731/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_18899/",
+    "http://www.loc.gov/resource/wdl.18899/",
+    "https://hdl.loc.gov/loc.wdl/wdl.18899",
+    "https://www.loc.gov/item/2021668731/"
+  ],
+  "dct_issued_s": "1707-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_18899.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/89/9/wdl_18899/wdl_18899.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:18:89:9:wdl_18899:HC.MAP.0666/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668731/\"}",
+  "dct_subject_sm": [
+    "1707",
+    "Arabian Gulf",
+    "Arabian Peninsula",
+    "Maps",
+    "Persian Gulf",
+    "Red Sea"
+  ],
+  "dct_temporal_sm": [
+    "1707-01-01"
+  ],
+  "dct_title_s": "Map of Egypt, Nubia, Abyssinia, etc..",
+  "gbl_dateRange_drsim": [
+    "[1707 TO 1707]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1707
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668731",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

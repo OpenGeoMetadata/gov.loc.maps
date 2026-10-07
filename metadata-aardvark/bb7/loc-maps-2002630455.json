@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title: Big South Fork",
+    "Big South Fork"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 2000--460-976/00197 Reprint 2000.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2000]",
+    "Relief shown by shading.",
+    "Text and col. ill. on verso.",
+    "Title from panel.",
+    "Title from panel. \"*GPO: 2000--460-976/00197 Reprint 2000.\" Relief shown by shading. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2002630455",
+    "http://www.loc.gov/item/2002630455/",
+    "http://www.loc.gov/resource/g3962b.ct010528/",
+    "https://hdl.loc.gov/loc.gmd/g3962b.ct010528",
+    "https://search.catalog.loc.gov/instances/ad87e741-e3a2-554a-af95-a356c40c15d8",
+    "https://www.loc.gov/item/2002630455/"
+  ],
+  "dct_issued_s": "2000",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3962/g3962b/ct010528.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002630455/\"}",
+  "dct_spatial_sm": [
+    "big south fork national river",
+    "big south fork national river and recreation area",
+    "kentucky",
+    "recreation area",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Big South Fork National River and Recreation Area (Tenn. and Ky.)--Maps",
+    "United States--Tennessee--Big South Fork National River and Recreation Area"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_title_s": "Big South Fork National River and Recreation Area, Kentucky/Tennessee",
+  "gbl_dateRange_drsim": [
+    "[2000 TO 2000]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002630455",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

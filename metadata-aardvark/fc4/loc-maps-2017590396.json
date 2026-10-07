@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map: Hotchkiss' Geological Map of Virginia and West Virginia, the Geology by Prof. William B. Rogers, chiefly from the Virginia State Survey, 1835-41, \"With later oservations in some parts.'",
+    "Base map: Hotchkiss' Geological Map of Virginia and West Virginia, the Geology by Prof. William B. Rogers, chiefly from the Virginia State Survey, 1835-41, \"With later oservations in some parts.' In pencil on verso: Geological, Va. ... [illegible] and red & white sticker: 138. Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hotchkiss, Jedediah, 1828-1899, cartographer",
+    "In pencil on verso: Geological, Va. ... [illegible] and red & white sticker: 138.",
+    "Publication statement: Copyright 1875; Richmond, Va. : A. Hoen & Co., [1875]; Staunton, Va. : J. Hotchkiss, [1875]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881p.ct009022",
+    "http://lccn.loc.gov/2017590396",
+    "http://www.loc.gov/item/2017590396/",
+    "http://www.loc.gov/resource/g3881p.ct009022/",
+    "https://hdl.loc.gov/loc.gmd/g3881p.ct009022",
+    "https://search.catalog.loc.gov/instances/5586efb9-8bf7-5177-9d31-e0227a34eedf",
+    "https://www.loc.gov/item/2017590396/"
+  ],
+  "dct_issued_s": "1875",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881p/ct009022.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017590396/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Virginia--Maps",
+    "United States--Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "dct_title_s": "Map showing proposed routes of the Richmond and Southwest Railway",
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1875
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017590396",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

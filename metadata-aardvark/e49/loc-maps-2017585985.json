@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Pen-and-ink and watercolor. Mounted on cloth backed paper.",
+    "Publication statement: [Nova Scotia?] : [Producer not indicated], [1770?]",
+    "Shows region from Lake Erie in the west to Cape Breton Island in the east, Anticosti Island in the North and to Boston in the south.",
+    "Shows region from Lake Erie in the west to Cape Breton Island in the east, Anticosti Island in the North and to Boston in the south. Title provided by cataloger. Pen-and-ink and watercolor. Mounted on cloth backed paper. Available also through the Library of Congress Web site as a raster image.",
+    "Title provided by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3410.ct008126",
+    "http://lccn.loc.gov/2017585985",
+    "http://www.loc.gov/item/2017585985/",
+    "http://www.loc.gov/resource/g3410.ct008126/",
+    "https://hdl.loc.gov/loc.gmd/g3410.ct008126",
+    "https://search.catalog.loc.gov/instances/3454af07-8f0e-556a-92c5-89221ce5967f",
+    "https://www.loc.gov/item/2017585985/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3410/g3410/ct008126.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585985/\"}",
+  "dct_spatial_sm": [
+    "atlantic provinces",
+    "canada",
+    "new england",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlantic provinces--Maps--Early works to 1800",
+    "Canada--Atlantic provinces",
+    "New England--Maps--Early works to 1800",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1770",
+    "[Nova Scotia?] : [Producer not indicated], [1770?]"
+  ],
+  "dct_title_s": "Partie du Canada, Nouvelle Angleterre, Acadie",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585985",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Ce qui est haché marque ce qui est reste depuis le tremblement de terre de 1692.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Le Rouge, Georges-Louis",
+    "From the author's Recueil des plans de l'Amerique septentrionale. 1755.",
+    "Indexed for forts.",
+    "LC Maps of North America, 1750-1789, 1947",
+    "Oriented with north toward the lower right.",
+    "Oriented with north toward the lower right. From the author's Recueil des plans de l'Amerique septentrionale. 1755. \"Ce qui est haché marque ce qui est reste depuis le tremblement de terre de 1692.\" Indexed for forts. Scale ca. 1:7,700. LC Maps of North America, 1750-1789, 1947 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Publication statement: [Paris, 1755]",
+    "Scale ca. 1:7,700.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4964p.ar194700",
+    "http://lccn.loc.gov/73691840",
+    "http://www.loc.gov/item/73691840/",
+    "http://www.loc.gov/resource/g4964p.ar194700/",
+    "https://hdl.loc.gov/loc.gmd/g4964p.ar194700",
+    "https://search.catalog.loc.gov/instances/93ba885a-8e42-5e5b-9792-da16e1115009",
+    "https://www.loc.gov/item/73691840/"
+  ],
+  "dct_issued_s": "1755",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4964/g4964p/ar194700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691840/\"}",
+  "dct_spatial_sm": [
+    "jamaica",
+    "port royal"
+  ],
+  "dct_subject_sm": [
+    "Jamaica--Port Royal",
+    "Port Royal (Jamaica)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1755"
+  ],
+  "dct_title_s": "Port-Royal de Jamaique",
+  "gbl_dateRange_drsim": [
+    "[1755 TO 1755]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1755
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691840",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

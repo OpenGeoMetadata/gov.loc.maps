@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Nohl, W. G.; Welcke, Robert A.",
+    "LC Land ownership maps, 1411",
+    "LC Land ownership maps, 1411 Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: N.Y. : Robert A. Welcke, Photo-lith; [New York?] : W.G. Nohl, 1898."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4123a.la001411",
+    "http://lccn.loc.gov/2012593185",
+    "http://www.loc.gov/item/2012593185/",
+    "http://www.loc.gov/resource/g4123a.la001411/",
+    "https://hdl.loc.gov/loc.gmd/g4123a.la001411",
+    "https://search.catalog.loc.gov/instances/28a4adaf-54dd-52fd-a660-f3be44526c9b",
+    "https://www.loc.gov/item/2012593185/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4123/g4123a/la001411.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593185/\"}",
+  "dct_spatial_sm": [
+    "ashland county",
+    "united states",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Wisconsin--Ashland County--Maps",
+    "Real property--Wisconsin--Ashland County--Maps",
+    "United States--Wisconsin--Ashland County"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Map of Ashland County, Wis",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593185",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

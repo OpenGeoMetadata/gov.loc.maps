@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Used through the kindness of the Imperial Life Ins. Co.\"",
+    "\"Used through the kindness of the Imperial Life Ins. Co.\" Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 342 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Calvert Lithographing Co. (Detroit, Mich.)",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 342",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Detroit [1889?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4114d.pm003420",
+    "http://lccn.loc.gov/76693077",
+    "http://www.loc.gov/item/76693077/",
+    "http://www.loc.gov/resource/g4114d.pm003420/",
+    "https://hdl.loc.gov/loc.gmd/g4114d.pm003420",
+    "https://search.catalog.loc.gov/instances/5093b430-d7c2-56b1-b387-9c478e044277",
+    "https://www.loc.gov/item/76693077/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd411/g4114/g4114d/pm003420.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76693077/\"}",
+  "dct_spatial_sm": [
+    "detroit",
+    "michigan",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Detroit (Mich.)",
+    "United States--Michigan--Detroit"
+  ],
+  "dct_temporal_sm": [
+    "1889",
+    "Detroit [1889?]"
+  ],
+  "dct_title_s": "Birds eye view--showing about three miles square--of the central portion of the city of Detroit, Michigan",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76693077",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

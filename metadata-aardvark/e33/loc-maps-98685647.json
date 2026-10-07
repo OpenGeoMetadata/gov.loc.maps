@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Faden, William, 1749-1836, cartographer, publisher",
+    "Includes notes and illustrated cartouche.",
+    "Publication statement: Charing Cross : Published as the act directs Feby. 11 1793 by Willm. Faden, Geographer to the King, 1793.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Includes notes and illustrated cartouche. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ct001218",
+    "http://lccn.loc.gov/98685647",
+    "http://www.loc.gov/item/98685647/",
+    "http://www.loc.gov/resource/g3300.ct001218/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ct001218",
+    "https://search.catalog.loc.gov/instances/ff2e3639-e060-51af-974d-bdf17af48314",
+    "https://www.loc.gov/item/98685647/"
+  ],
+  "dct_issued_s": "1793",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ct001218.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98685647/\"}",
+  "dct_spatial_sm": [
+    "north america",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "North America--Maps",
+    "United States",
+    "United States--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1793"
+  ],
+  "dct_title_s": "The United States of North America, with the British territories and those of Spain : according to the treaty of 1784",
+  "gbl_dateRange_drsim": [
+    "[1793 TO 1793]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1793
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98685647",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At bottom of map: Garrard.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "In lower right corner: 36.",
+    "Library of Congress. Civil War maps (2nd ed.), S91, 192",
+    "Pencil (some col.) on verso of blue lined paper, mounted on paper.",
+    "Similar to a map in the Atlas to accompany the official records of the Union and Confederate Armies, 1891-95, pl. 65, no. 3.",
+    "Title and date from Stephenson's Civil War maps, 1989.",
+    "Title and date from Stephenson's Civil War maps, 1989. Similar to a map in the Atlas to accompany the official records of the Union and Confederate Armies, 1891-95, pl. 65, no. 3. Pencil (some col.) on verso of blue lined paper, mounted on paper. At bottom of map: Garrard. In lower right corner: 36. Library of Congress. Civil War maps (2nd ed.), S91, 192 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3924m.cws00091",
+    "http://lccn.loc.gov/2006635269",
+    "http://www.loc.gov/item/2006635269/",
+    "http://www.loc.gov/resource/g3924m.cws00091/",
+    "https://hdl.loc.gov/loc.gmd/g3924m.cws00091",
+    "https://search.catalog.loc.gov/instances/b8d942cc-6d5a-55a5-9fca-6c863fa9086e",
+    "https://www.loc.gov/item/2006635269/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3924/g3924m/cws00091.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006635269/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "marietta",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Marietta (Ga.)--History--Civil War, 1861-1865--Maps",
+    "United States--Georgia--Marietta"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "[Map of the Union troop positions southwest of Marietta, Georgia, June 10-July 3, 1864]",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006635269",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Map of the river systems in Mengjin County",
+    "Map of the river systems in Mengjin County",
+    "孟津縣河圖"
+  ],
+  "dct_description_sm": [
+    "AACR2: 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hummel, Arthur W. (Arthur William), Sr., 1884-1975",
+    "Cover title.",
+    "Hummel purchase 1934, no. 26.",
+    "Includes text.",
+    "Labels pasted on to show physical features.",
+    "Manuscript on silk.",
+    "Oriented with north to the bottom.",
+    "Pictorial map.",
+    "Previous call number: G7823.M4C3 1767 .M4 Vault Shelf",
+    "Publication statement: [Between 1734 and 1779]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:25,000.",
+    "Shows rivers, mountains, towns, and roads in Mengjin Xian, Henan Province.",
+    "Shows rivers, mountains, towns, and roads in Mengjin Xian, Henan Province. Cover title. Manuscript on silk. Labels pasted on to show physical features. Oriented with north to the bottom. Pictorial map. Relief shown pictorially. Hummel purchase 1934, no. 26. Includes text. Scale ca. 1:25,000. Available also through the Library of Congress Web site as a raster image. Previous call number: G7823.M4C3 1767 .M4 Vault Shelf AACR2: 700/1"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7823m.ct003371",
+    "http://lccn.loc.gov/gm71005097",
+    "http://www.loc.gov/item/gm71005097/",
+    "http://www.loc.gov/resource/g7823m.ct003371/",
+    "https://hdl.loc.gov/loc.gmd/g7823m.ct003371",
+    "https://search.catalog.loc.gov/instances/ea539f6a-e8f6-5b44-8e78-20207819c10d",
+    "https://www.loc.gov/item/gm71005097/"
+  ],
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7823/g7823m/ct003371.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005097/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "mengjin xian"
+  ],
+  "dct_subject_sm": [
+    "China--Mengjin Xian",
+    "Mengjin Xian (China)--Maps",
+    "Rivers--China--Mengjin Xian--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1734",
+    "[Between 1734 and 1779]"
+  ],
+  "dct_title_s": "Mengjin Xian he tu",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005097",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

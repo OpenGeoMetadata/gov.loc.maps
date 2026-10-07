@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Marshall, Eric (Eric Stewart), 1879-1963; Shackleton, Ernest Henry, Sir, 1874-1922",
+    "From Geographical Journal, 1909.",
+    "From Geographical Journal, 1909. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: England : Royal Geographic Society, 1909."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g9801s.ct000775",
+    "http://lccn.loc.gov/2002624044",
+    "http://www.loc.gov/item/2002624044/",
+    "http://www.loc.gov/resource/g9801s.ct000775/",
+    "https://hdl.loc.gov/loc.gmd/g9801s.ct000775",
+    "https://search.catalog.loc.gov/instances/95072e5c-2fae-5cbd-8462-63c3ad9aa37a",
+    "https://www.loc.gov/item/2002624044/"
+  ],
+  "dct_issued_s": "1909",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd9/g9801/g9801s/ct000775.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002624044/\"}",
+  "dct_spatial_sm": [
+    "antarctica"
+  ],
+  "dct_subject_sm": [
+    "Antarctica",
+    "Antarctica--Discovery and exploration--British--Maps",
+    "British Antarctic Expedition--(1907-1909)"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dct_title_s": "Route and Surveys of the Southern Journey Party, 1908-09",
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1909
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002624044",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

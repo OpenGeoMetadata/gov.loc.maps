@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"12688.\"",
+    "\"3-23-78.\"",
+    "\"Source: 1969 U.S. Geological Survey quadrangles.\"",
+    "\"Source: 1969 U.S. Geological Survey quadrangles.\" \"3-23-78.\" Includes location map. \"12688.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Hyattsville, Md. : USDA-SCS, [1978]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822c.ct007835",
+    "http://lccn.loc.gov/81690271",
+    "http://www.loc.gov/item/81690271/",
+    "http://www.loc.gov/resource/g3822c.ct007835/",
+    "https://hdl.loc.gov/loc.gmd/g3822c.ct007835",
+    "https://search.catalog.loc.gov/instances/efc3131f-47ad-5169-bcae-112c9c4ed7e0",
+    "https://www.loc.gov/item/81690271/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822c/ct007835.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690271/\"}",
+  "dct_spatial_sm": [
+    "chickies creek watershed",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Agricultural resources--Pennsylvania--Chickies Creek watershed--Maps",
+    "Land capability for agriculture--Pennsylvania--Chickies Creek watershed--Maps",
+    "Land use, Rural--Pennsylvania--Chickies Creek watershed--Maps",
+    "United States--Pennsylvania--Chickies Creek watershed"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Important farmlands, Chickies Creek watershed, Lancaster and Lebanon Counties, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690271",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

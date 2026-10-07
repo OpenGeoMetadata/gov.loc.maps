@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"December 1968.\"",
+    "\"December 1968.\" Includes numbered textual directory of \"Soil associations.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Pennsylvania State University. Agricultural Experiment Station; Pennsylvania State University. Agricultural Extension Service; Pennsylvania. State Soil and Water Conservation Commission; United States. Soil Conservation Service",
+    "Includes numbered textual directory of \"Soil associations.\"",
+    "Publication statement: [Lanham, Md.?] : Soil Conservation Service, [1968?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823b.ct008159",
+    "http://lccn.loc.gov/92683608",
+    "http://www.loc.gov/item/92683608/",
+    "http://www.loc.gov/resource/g3823b.ct008159/",
+    "https://hdl.loc.gov/loc.gmd/g3823b.ct008159",
+    "https://search.catalog.loc.gov/instances/a7800fb0-d6ca-5a66-8855-8edc69f1633e",
+    "https://www.loc.gov/item/92683608/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823b/ct008159.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92683608/\"}",
+  "dct_spatial_sm": [
+    "berks county",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soils--Pennsylvania--Berks County--Maps",
+    "United States--Pennsylvania--Berks County"
+  ],
+  "dct_temporal_sm": [
+    "1968",
+    "[Lanham, Md.?] : Soil Conservation Service, [1968?]"
+  ],
+  "dct_title_s": "General soil map, Berks County, Pennsylvania",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92683608",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

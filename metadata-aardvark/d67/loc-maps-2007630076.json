@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Defence [sic] at St. Louis",
+    "Title on verso in a different hand: Defence [sic] at St. Louis"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Talcott, Andrew, 1797-1883",
+    "Imperfect: Fold-lined, mounted on cloth, edged with cloth tape.",
+    "Includes 4 profiles.",
+    "Misidentified in the 1st ed. of Stephenson's Civil War Maps under CW 303.",
+    "On verso in pencil at upper left: Catalogued W.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1819?]",
+    "Title supplied by cataloger.",
+    "Title supplied by cataloger. Misidentified in the 1st ed. of Stephenson's Civil War Maps under CW 303. Pen-and-ink and watercolor. Includes 4 profiles. On verso in pencil at upper left: Catalogued W. Imperfect: Fold-lined, mounted on cloth, edged with cloth tape. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4194f.ct002008",
+    "http://lccn.loc.gov/2007630076",
+    "http://www.loc.gov/item/2007630076/",
+    "http://www.loc.gov/resource/g4194f.ct002008/",
+    "https://hdl.loc.gov/loc.gmd/g4194f.ct002008",
+    "https://search.catalog.loc.gov/instances/a28f6310-dd18-5f66-83bd-ed83bb842a2d",
+    "https://www.loc.gov/item/2007630076/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd419/g4194/g4194f/ct002008.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007630076/\"}",
+  "dct_spatial_sm": [
+    "fort atkinson",
+    "nebraska",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Atkinson (Neb.)--Maps, Manuscript",
+    "Fortification--Nebraska--Maps",
+    "United States--Nebraska--Fort Atkinson"
+  ],
+  "dct_temporal_sm": [
+    "1819",
+    "[1819?]"
+  ],
+  "dct_title_s": "[Plan of Fort Atkinson, Nebraska]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007630076",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

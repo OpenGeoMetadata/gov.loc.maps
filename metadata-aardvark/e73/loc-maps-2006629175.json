@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Novvel atlas"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Blaeu, Joan, 1596-1673; Blaeu, Willem Janszoon, 1571-1638",
+    "French text. Maps in Latin.",
+    "Koeman, C. Atlantes Neerlandici, Bl 16 A",
+    "LC copy assembled from loose sheets.",
+    "LC copy imperfect: Lacking 16 maps: Nova totius terrarum orbis geographica ac hydrographica tabula -- Regiones sub polo arctico -- Europa -- Norwegue -- Dioccesis stavangriensis -- Dania regnum -- Fionia vulgo funen -- Suecia, Dania, et Norvegia -- Gothia -- Ducatus Uplandia -- Magni ducatus Lithuaniae -- Novam hanc territorii Francofurtensis tabulam -- Danubius, fluvius Europae maximus -- Rhenus fluviorum Europae celeberrimus -- Trevirensis archiepiscopatus et Lutzenburgi ducatus -- Des bancs de sable et secheresses qui sont devant Dunkercke, le long de la coste de Flandre, entre Ostende & Calais.",
+    "Maps by numerous cartographers, as well as Willem and Joan Blaeu.",
+    "Publication statement: A Amsterdam : Iean Blaeu, 1647.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Maps by numerous cartographers, as well as Willem and Joan Blaeu. LC copy assembled from loose sheets. LC copy imperfect: Lacking 16 maps: Nova totius terrarum orbis geographica ac hydrographica tabula -- Regiones sub polo arctico -- Europa -- Norwegue -- Dioccesis stavangriensis -- Dania regnum -- Fionia vulgo funen -- Suecia, Dania, et Norvegia -- Gothia -- Ducatus Uplandia -- Magni ducatus Lithuaniae -- Novam hanc territorii Francofurtensis tabulam -- Danubius, fluvius Europae maximus -- Rhenus fluviorum Europae celeberrimus -- Trevirensis archiepiscopatus et Lutzenburgi ducatus -- Des bancs de sable et secheresses qui sont devant Dunkercke, le long de la coste de Flandre, entre Ostende & Calais. Koeman, C. Atlantes Neerlandici, Bl 16 A Available also through the Library of Congress Web site as a raster image. French text. Maps in Latin. Vault Drawer",
+    "Vault Drawer"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200m.gct00035",
+    "http://lccn.loc.gov/2006629175",
+    "http://www.loc.gov/item/2006629175/",
+    "http://www.loc.gov/resource/g3200m.gct00035/",
+    "https://hdl.loc.gov/loc.gmd/g3200m.gct00035",
+    "https://search.catalog.loc.gov/instances/4cf3aba9-d8e0-5356-95cc-99d3ee71bc3b",
+    "https://www.loc.gov/item/2006629175/"
+  ],
+  "dct_issued_s": "1647",
+  "dct_language_sm": [
+    "fre",
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3m/g3200m/g3200m/gct00035/ca000001t.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006629175/\"}",
+  "dct_spatial_sm": [
+    "earth",
+    "netherlands"
+  ],
+  "dct_subject_sm": [
+    "Atlases--Netherlands--Early works to 1800",
+    "Earth"
+  ],
+  "dct_temporal_sm": [
+    "1647"
+  ],
+  "dct_title_s": "Le theatre du monde, ou, Novvel atlas",
+  "gbl_dateRange_drsim": [
+    "[1647 TO 1647]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1647
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006629175",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

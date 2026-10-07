@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Lambert conformal conic projection, standard parallels 33⁰ and 45⁰.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Date under population legend: 1974.",
+    "Publication statement: Reston, Va. : The Survey, 1975.",
+    "Relief shown by contours and spot heights.",
+    "Scale 1:500,000; 1 in. equals approx. 8 miles.",
+    "Title in right lower margin: New Jersey, base map with highways and contours.",
+    "Title in right lower margin: New Jersey, base map with highways and contours. \"Lambert conformal conic projection, standard parallels 33⁰ and 45⁰.\" Relief shown by contours and spot heights. Date under population legend: 1974. Scale 1:500,000; 1 in. equals approx. 8 miles. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3810.ct006718",
+    "http://lccn.loc.gov/79690043",
+    "http://www.loc.gov/item/79690043/",
+    "http://www.loc.gov/resource/g3810.ct006718/",
+    "https://hdl.loc.gov/loc.gmd/g3810.ct006718",
+    "https://search.catalog.loc.gov/instances/9519076a-0df0-54b4-a7fd-d9595058f7f5",
+    "https://www.loc.gov/item/79690043/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3810/g3810/ct006718.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79690043/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Jersey--Maps",
+    "United States--New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "State of New Jersey",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79690043",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

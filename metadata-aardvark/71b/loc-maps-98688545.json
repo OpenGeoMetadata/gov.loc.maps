@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Kayler, R. S.",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 287",
+    "Publication statement: Columbus, 1898.",
+    "Scale ca. 1:500,000.",
+    "Shows counties, cities and towns, railroad network with named lines, and a list of \"Railways operating in Ohio\" and \"Electric railways operating in Ohio.\""
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4081p.rr002870",
+    "http://lccn.loc.gov/98688545",
+    "http://www.loc.gov/item/98688545/",
+    "http://www.loc.gov/resource/g4081p.rr002870/",
+    "https://hdl.loc.gov/loc.gmd/g4081p.rr002870",
+    "https://search.catalog.loc.gov/instances/b621aac1-8a81-5050-bcc1-4bfe53b10b74",
+    "https://www.loc.gov/item/98688545/"
+  ],
+  "dct_issued_s": "1898",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4081/g4081p/rr002870.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688545/\"}",
+  "dct_spatial_sm": [
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Electric railroads--Ohio--Maps",
+    "Railroads--Ohio--Maps",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "dct_title_s": "Railroad map of Ohio published by the state, prepared under the direction of commissioner of railroads and telegraphs",
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1898]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1898
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688545",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

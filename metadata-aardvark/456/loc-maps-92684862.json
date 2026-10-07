@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base map information including bathymetry was compiled by the National Ocean Service (NOS).\"",
+    "\"MS-1.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: U.S. Coast and Geodetic Survey; United States. National Ocean Service; United States. National Oceanic and Atmospheric Administration",
+    "Depths shown by gradient tints and contours.",
+    "Depths shown by gradient tints and contours. In upper right coner: Gulf of Mexico. \"MS-1.\" \"Base map information including bathymetry was compiled by the National Ocean Service (NOS).\" Includes text, 3-dimensional views, NOS survey index, boundary coordinates, Loran linear interpolator, and location map. Available also through the Library of Congress Web site as a raster image.",
+    "In upper right coner: Gulf of Mexico.",
+    "Includes text, 3-dimensional views, NOS survey index, boundary coordinates, Loran linear interpolator, and location map.",
+    "Publication statement: Washington, D.C.] : National Oceanic and Atmospheric Administration, National Ocean Service, Coast and Geodetic Service, 1992."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/92684862",
+    "http://www.loc.gov/item/92684862/",
+    "http://www.loc.gov/resource/g4032f.ct011405/",
+    "https://hdl.loc.gov/loc.gmd/g4032f.ct011405",
+    "https://search.catalog.loc.gov/instances/41cdaa4b-91a0-51c2-840b-ccb49b410441",
+    "https://www.loc.gov/item/92684862/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032f/ct011405.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92684862/\"}",
+  "dct_spatial_sm": [
+    "flower garden banks national sanctuary",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Flower Garden Banks National Sanctuary (Tex.)--Maps",
+    "United States--Texas--Flower Garden Banks National Sanctuary"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Flower Garden Banks National Marine Sanctuary, bathymetric map",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92684862",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

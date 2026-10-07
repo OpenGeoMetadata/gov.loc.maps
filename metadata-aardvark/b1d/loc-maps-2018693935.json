@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Карта Забайкальской области"
+  ],
+  "dct_description_sm": [
+    "Original map at: National Library of Russia",
+    "Otmecheny: granit︠s︡y uezdov, naselennye punkty (5 grupp), dorogi (zheleznye, pochtovye, gruntovye), pochtovye stant︠s︡ii, mineral'nye i kislye kli︠u︡chi; rel'ef shtrikhami i otmyvkoĭ.",
+    "Publication statement: Saint Petersburg, Russia : Kartograficheskoe zavedenie A. Il'ina, 1893-1902.",
+    "T︠S︡vetnai︠a︡. Kartograficheskai︠a︡ setka cherez 2°; schet dolgot ot Pulkova.",
+    "T︠S︡vetnai︠a︡. Kartograficheskai︠a︡ setka cherez 2°; schet dolgot ot Pulkova. Otmecheny: granit︠s︡y uezdov, naselennye punkty (5 grupp), dorogi (zheleznye, pochtovye, gruntovye), pochtovye stant︠s︡ii, mineral'nye i kislye kli︠u︡chi; rel'ef shtrikhami i otmyvkoĭ. Original map at: National Library of Russia Цветная. Картографическая сетка через 2°; счет долгот от Пулкова. Отмечены: границы уездов, населенные пункты (5 групп), дороги (железные, почтовые, грунтовые), почтовые станции, минеральные и кислые ключи; рельеф штрихами и отмывкой.",
+    "Отмечены: границы уездов, населенные пункты (5 групп), дороги (железные, почтовые, грунтовые), почтовые станции, минеральные и кислые ключи; рельеф штрихами и отмывкой.",
+    "Цветная. Картографическая сетка через 2°; счет долгот от Пулкова."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693935",
+    "http://www.loc.gov/item/2018693935/",
+    "http://www.loc.gov/resource/gdc.2018693935/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.nmap063",
+    "https://search.catalog.loc.gov/instances/9690cd4d-fb39-5588-95a7-709ecf827b47",
+    "https://www.loc.gov/item/2018693935/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693935.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693935/2018693935.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693935:nmap063/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693935/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation",
+    "Siberia",
+    "maps"
+  ],
+  "dct_temporal_sm": [
+    "1893/1902"
+  ],
+  "dct_title_s": "Karta Zabaĭkal'skoĭ oblasti",
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1902]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693935",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

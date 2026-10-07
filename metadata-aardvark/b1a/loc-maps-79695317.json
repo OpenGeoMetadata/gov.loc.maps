@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"American Revolution Bicentennial, 1776-1976.\"",
+    "\"BiC-54.\"",
+    "\"Plate no. 2710.\"",
+    "\"Polyconic projection.\"",
+    "AACR2: 110; 650/2; 651/3; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Ocean Survey; U.S. Coast and Geodetic Survey",
+    "Facsim. of nautical chart originally \"Published at Washington, D.C., November 1901 ...\"",
+    "Includes sailing information.",
+    "Publication statement: Washington : U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Ocean Survey, [1976]",
+    "Relief shown by shading and hachures. Depths shown by contours and soundings.",
+    "Scale 1:20,000.",
+    "Title in lower margin: Delaware Breakwater.",
+    "Title in lower margin: Delaware Breakwater. Facsim. of nautical chart originally \"Published at Washington, D.C., November 1901 ...\" Relief shown by shading and hachures. Depths shown by contours and soundings. \"Polyconic projection.\" \"American Revolution Bicentennial, 1776-1976.\" \"Plate no. 2710.\" \"BiC-54.\" Includes sailing information. Scale 1:20,000. Available also through the Library of Congress Web site as a raster image. AACR2: 110; 650/2; 651/3; 710/1"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3832h.ct008460",
+    "http://lccn.loc.gov/79695317",
+    "http://www.loc.gov/item/79695317/",
+    "http://www.loc.gov/resource/g3832h.ct008460/",
+    "https://hdl.loc.gov/loc.gmd/g3832h.ct008460",
+    "https://search.catalog.loc.gov/instances/6d995ecb-f88c-5661-bd90-d7c69d517a58",
+    "https://www.loc.gov/item/79695317/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd383/g3832/g3832h/ct008460.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79695317/\"}",
+  "dct_spatial_sm": [
+    "atlantic coast",
+    "cape henlopen",
+    "delaware",
+    "henlopen, cape",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlantic Coast (Del.)--Facsimiles",
+    "Coasts--Delaware--Facsimiles",
+    "Nautical charts--Delaware--Henlopen, Cape--Facsimiles",
+    "United States--Delaware",
+    "United States--Delaware--Henlopen, Cape"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "Cape Henlopen and the Delaware Breakwater",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79695317",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

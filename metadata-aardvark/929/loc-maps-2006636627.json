@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Europe"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rand McNally and Company",
+    "Publication statement: Chicago : Rand McNally Co., 1894.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows submarine telegraph lines. Available also through the Library of Congress Web site as a raster image.",
+    "Shows submarine telegraph lines."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5700.ct001974",
+    "http://lccn.loc.gov/2006636627",
+    "http://www.loc.gov/item/2006636627/",
+    "http://www.loc.gov/resource/g5700.ct001974/",
+    "https://hdl.loc.gov/loc.gmd/g5700.ct001974",
+    "https://search.catalog.loc.gov/instances/a5e63a24-16af-5cc1-aca4-c867f83f0259",
+    "https://www.loc.gov/item/2006636627/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5700/g5700/ct001974.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006636627/\"}",
+  "dct_spatial_sm": [
+    "europe"
+  ],
+  "dct_subject_sm": [
+    "Europe",
+    "Europe--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "Rand, McNally & Co.'s map of Europe : compiled from the latest and most authentic sources",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006636627",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

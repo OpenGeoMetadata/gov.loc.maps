@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"4-R-36489.\"",
+    "\"Base map prepared by the Geological Survey in cooperation with the Soil Conservation Service.\"",
+    "\"Base map prepared by the Geological Survey in cooperation with the Soil Conservation Service.\" Base map \"Compiled in 1976 from USGS 1:24 000-scale topographic maps dated 1969-1970.\" UTM grid. Includes text and location map. \"4-R-36489.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map \"Compiled in 1976 from USGS 1:24 000-scale topographic maps dated 1969-1970.\"",
+    "Contributors: Geological Survey (U.S.); United States. Soil Conservation Service",
+    "Includes text and location map.",
+    "Publication statement: [Fort Worth? Tex.] : The Service, [1980?]",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81694158",
+    "http://www.loc.gov/item/81694158/",
+    "http://www.loc.gov/resource/g3933e.ct010338/",
+    "https://hdl.loc.gov/loc.gmd/g3933e.ct010338",
+    "https://search.catalog.loc.gov/instances/681abb35-f0ed-5905-8751-449004c1a4d2",
+    "https://www.loc.gov/item/81694158/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3933/g3933e/ct010338.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81694158/\"}",
+  "dct_spatial_sm": [
+    "escambia county",
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Roads--Florida--Escambia County--Maps",
+    "Soil mechanics--Florida--Escambia County--Maps",
+    "United States--Florida--Escambia County"
+  ],
+  "dct_temporal_sm": [
+    "1980",
+    "[Fort Worth? Tex.] : The Service, [1980?]"
+  ],
+  "dct_title_s": "Escambia County, Florida : soil interpretive map of limitation for local roads and streets",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81694158",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

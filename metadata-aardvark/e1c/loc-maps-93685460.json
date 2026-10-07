@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Philadelphia District",
+    "Panel title.",
+    "Panel title. Title at bottom: Blue Marsh Lake project. Text and trail distance list on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Philadelphia?] : The District, [1991?]",
+    "Text and trail distance list on verso.",
+    "Title at bottom: Blue Marsh Lake project."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822b.ct007842",
+    "http://lccn.loc.gov/93685460",
+    "http://www.loc.gov/item/93685460/",
+    "http://www.loc.gov/resource/g3822b.ct007842/",
+    "https://hdl.loc.gov/loc.gmd/g3822b.ct007842",
+    "https://search.catalog.loc.gov/instances/e55d8b53-d909-568e-af15-2b8bbd65340c",
+    "https://www.loc.gov/item/93685460/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822b/ct007842.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93685460/\"}",
+  "dct_spatial_sm": [
+    "blue marsh lake region",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hiking--Pennsylvania--Blue Marsh Lake Region--Maps",
+    "Trails--Pennsylvania--Blue Marsh Lake Region--Maps",
+    "United States--Pennsylvania--Blue Marsh Lake Region"
+  ],
+  "dct_temporal_sm": [
+    "1991",
+    "[Philadelphia?] : The District, [1991?]"
+  ],
+  "dct_title_s": "Blue Marsh Lake hiking trails",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93685460",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

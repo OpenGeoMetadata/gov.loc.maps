@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 69.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bowen, Emanuel, -1767",
+    "From the author's A complete atlas or distinct view of the known world. 1752.",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"No. 69.\" From the author's A complete atlas or distinct view of the known world. 1752. Includes list of parishes with size in acres. Scale ca. 1:85,000. LC Maps of North America, 1750-1789, 2085 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Includes list of parishes with size in acres.",
+    "LC Maps of North America, 1750-1789, 2085",
+    "Publication statement: [London, 1752]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:85,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5140.ar208501",
+    "http://lccn.loc.gov/74693271",
+    "http://www.loc.gov/item/74693271/",
+    "http://www.loc.gov/resource/g5140.ar208501/",
+    "https://hdl.loc.gov/loc.gmd/g5140.ar208501",
+    "https://search.catalog.loc.gov/instances/cda2f2b5-92f8-5de8-bfba-2ec7cc9e8713",
+    "https://www.loc.gov/item/74693271/"
+  ],
+  "dct_issued_s": "1752",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5140/g5140/ar208501.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693271/\"}",
+  "dct_spatial_sm": [
+    "barbados"
+  ],
+  "dct_subject_sm": [
+    "Barbados",
+    "Barbados--Administrative and political divisions--Maps--Early works to 1800",
+    "Barbados--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1752"
+  ],
+  "dct_title_s": "An accurate map of the island of Barbadoes. Drawn from an actual survey containing all the towns, churches, fortifications, roads, paths, plantations, &c",
+  "gbl_dateRange_drsim": [
+    "[1752 TO 1752]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1752
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693271",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

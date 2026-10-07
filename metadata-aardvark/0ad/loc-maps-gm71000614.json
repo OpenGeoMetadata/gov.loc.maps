@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Called a rough draft of the same cartographer's \"Plan of Charles Town... after the action of the 17th. June 1775.\" (Faden 28). It is however, a detailed delineation of the Battle of Bunker Hill.",
+    "Has watermarks.",
+    "LC Maps of North America, 1750-1789, 920",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Names and writing are similar to Lieut. Page's Plan of action which happen'd 17th. June 1775. (Faden 25)",
+    "North is oriented to the bottom.",
+    "Oriented with north toward the upper right.",
+    "Publication statement: 1775]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:4,500.",
+    "Shows position of British and \"Rebel\" troops during the Battle of Bunker Hill.",
+    "Title from William Faden's Catalogue of a curious and valuable collection of original maps and plans, 1862.",
+    "Title from William Faden's Catalogue of a curious and valuable collection of original maps and plans, 1862. Manuscript, pen-and-ink and watercolor. Has watermarks. Oriented with north toward the upper right. Relief shown by hachures. Shows position of British and \"Rebel\" troops during the Battle of Bunker Hill. North is oriented to the bottom. Called a rough draft of the same cartographer's \"Plan of Charles Town... after the action of the 17th. June 1775.\" (Faden 28). It is however, a detailed delineation of the Battle of Bunker Hill. Names and writing are similar to Lieut. Page's Plan of action which happen'd 17th. June 1775. (Faden 25) Scale ca. 1:4,500. LC Maps of North America, 1750-1789, 920 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.ar092000",
+    "http://lccn.loc.gov/gm71000614",
+    "http://www.loc.gov/item/gm71000614/",
+    "http://www.loc.gov/resource/g3764b.ar092000/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ar092000",
+    "https://search.catalog.loc.gov/instances/9c00b9ef-9b12-5940-802a-8b08c40cd9f4",
+    "https://www.loc.gov/item/gm71000614/"
+  ],
+  "dct_issued_s": "1775",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/ar092000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000614/\"}",
+  "dct_spatial_sm": [
+    "boston (bunker hill)",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Bunker Hill, Battle of, Boston, Mass., 1775--Maps, Manuscript--Early works to 1800",
+    "United States--Massachusetts--Boston (Bunker Hill)"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_title_s": "[Rough draft of Charlestown, in water colour",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000614",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

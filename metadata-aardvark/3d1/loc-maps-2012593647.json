@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geil, Samuel",
+    "Includes ancillary maps of Weedsport, Auburn, and Union Springs, statistics, and illustrations.",
+    "LC Land ownership maps, 478",
+    "LC copy sectioned in four and mounted on cloth.",
+    "Publication statement: Auburn : Sold by Milton Alden, general agent, [1853]; Philadelphia : Published by Samuel Geil, 1853.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows landowners. Includes ancillary maps of Weedsport, Auburn, and Union Springs, statistics, and illustrations. LC copy sectioned in four and mounted on cloth. LC Land ownership maps, 478 Available also through the Library of Congress Web site as a raster image.",
+    "Shows landowners."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3803c.la000478",
+    "http://lccn.loc.gov/2012593647",
+    "http://www.loc.gov/item/2012593647/",
+    "http://www.loc.gov/resource/g3803c.la000478/",
+    "https://hdl.loc.gov/loc.gmd/g3803c.la000478",
+    "https://search.catalog.loc.gov/instances/eaef374b-ac49-554b-a8b2-1ce4407a5e2f",
+    "https://www.loc.gov/item/2012593647/"
+  ],
+  "dct_issued_s": "1853",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3803/g3803c/la000478.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593647/\"}",
+  "dct_spatial_sm": [
+    "cayuga county",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cayuga County (N.Y.)--Maps",
+    "Landowners--New York (State)--Cayuga County--Maps",
+    "Real property--New York (State)--Cayuga County--Maps",
+    "United States--New York (State)--Cayuga County"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "dct_title_s": "Map of Cayuga County, New York : from actual surveys",
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1853
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593647",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

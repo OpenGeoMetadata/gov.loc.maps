@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Alternate title: Big Bend.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, col. ill., and location map.",
+    "Publication statement: [Washington] : The Service, [1983]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. Alternate title: Big Bend. Includes text, col. ill., and location map. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/84692713",
+    "http://www.loc.gov/item/84692713/",
+    "http://www.loc.gov/resource/g4032b.ct011365/",
+    "https://hdl.loc.gov/loc.gmd/g4032b.ct011365",
+    "https://search.catalog.loc.gov/instances/b6b256f3-390c-50d5-b86f-69bce4aa762b",
+    "https://www.loc.gov/item/84692713/"
+  ],
+  "dct_issued_s": "1983",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032b/ct011365.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/84692713/\"}",
+  "dct_spatial_sm": [
+    "big bend national park",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Big Bend National Park (Tex.)--Maps",
+    "United States--Texas--Big Bend National Park"
+  ],
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "dct_title_s": "Big Bend National Park",
+  "gbl_dateRange_drsim": [
+    "[1983 TO 1983]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1983
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-84692713",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

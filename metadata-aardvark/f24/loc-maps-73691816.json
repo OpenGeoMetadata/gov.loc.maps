@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/2; 650/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Maps of North America, 1750-1789, 1253",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Relief shown pictorially. Scale ca. 1:63,000. LC Maps of North America, 1750-1789, 1253 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650/2; 650/3",
+    "Publication statement: [180-]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:63,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3811p.ct000075",
+    "http://lccn.loc.gov/73691816",
+    "http://www.loc.gov/item/73691816/",
+    "http://www.loc.gov/resource/g3811p.ct000075/",
+    "https://hdl.loc.gov/loc.gmd/g3811p.ct000075",
+    "https://search.catalog.loc.gov/instances/fcaa65e4-4cae-5b0d-b2ba-bb344c90dbd0",
+    "https://www.loc.gov/item/73691816/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3811/g3811p/ct000075.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691816/\"}",
+  "dct_spatial_sm": [
+    "mercer county",
+    "middlesex county",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "Roads--New Jersey--Mercer County--Maps--Early works to 1800",
+    "Roads--New Jersey--Middlesex County--Maps--Early works to 1800",
+    "Trenton and New Brunswick Turnpike Road, N.J.--Maps--Early works to 1800",
+    "United States--New Jersey--Mercer County",
+    "United States--New Jersey--Middlesex County"
+  ],
+  "dct_temporal_sm": [
+    "180?"
+  ],
+  "dct_title_s": "A Map of the Trenton and New-Brunswick Turnpike-road",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691816",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

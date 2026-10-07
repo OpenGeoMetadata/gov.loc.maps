@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Cadastral map. Covers northeastern portion of town of Montville, Connecticut. Signed at lower right: Humphry Avery, survr. for the county of New London. Pen-and-ink. Map backed with cloth. Includes notes and text. Imperfect: Scuff marks, tears, and darkening of paper. Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Avery, Humphry",
+    "Covers northeastern portion of town of Montville, Connecticut.",
+    "Imperfect: Scuff marks, tears, and darkening of paper.",
+    "Includes notes and text.",
+    "Map backed with cloth.",
+    "Pen-and-ink.",
+    "Publication statement: 1736.",
+    "Signed at lower right: Humphry Avery, survr. for the county of New London."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3784m.ct001054",
+    "http://lccn.loc.gov/2003620278",
+    "http://www.loc.gov/item/2003620278/",
+    "http://www.loc.gov/resource/g3784m.ct001054/",
+    "https://hdl.loc.gov/loc.gmd/g3784m.ct001054",
+    "https://search.catalog.loc.gov/instances/c757ddc0-1c5a-5944-a630-15a9357424d3",
+    "https://www.loc.gov/item/2003620278/"
+  ],
+  "dct_issued_s": "1736",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd378/g3784/g3784m/ct001054.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003620278/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "montville",
+    "montville (town)",
+    "town",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mohegan Indians--Connecticut--Montville (Town)--Maps",
+    "Montville (Conn. : Town)--Maps, Manuscript",
+    "Real property--Connecticut--Montville (Town)--Maps",
+    "United States--Connecticut--Montville (Town)"
+  ],
+  "dct_temporal_sm": [
+    "1736"
+  ],
+  "dct_title_s": "A plan of the lands in New London sequestred for the sole use and improvement of the Mohegan Indian tribe",
+  "gbl_dateRange_drsim": [
+    "[1736 TO 1736]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1736
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003620278",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

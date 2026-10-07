@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2008-200",
+    "Annotations in pencil on some maps.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: W.W. Hixson & Co",
+    "Includes index.",
+    "Includes index. Stamped in blue ink inside front cover: \"Al. H. Schlapper.\" In manuscript in ink inside front cover: \"This book is the property of Al. H. Schlapper.\" Annotations in pencil on some maps. LC copy imperfect: Minor insect damage to last several pages. Available also through the Library of Congress Web site as a raster image. Vendor: John Carbonell Acquisitions control no. 2008-200",
+    "LC copy imperfect: Minor insect damage to last several pages.",
+    "Publication statement: Rockford, Ill. : W.W. Hixson & Co., [1920?]",
+    "Stamped in blue ink inside front cover: \"Al. H. Schlapper.\" In manuscript in ink inside front cover: \"This book is the property of Al. H. Schlapper.\"",
+    "Vendor: John Carbonell"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4163lm.gla00084",
+    "http://lccn.loc.gov/2008629005",
+    "http://www.loc.gov/item/2008629005/",
+    "http://www.loc.gov/resource/g4163lm.gla00084/",
+    "https://hdl.loc.gov/loc.gmd/g4163lm.gla00084",
+    "https://search.catalog.loc.gov/instances/0c1fb499-614f-55e7-9670-47a9b58789a8",
+    "https://www.loc.gov/item/2008629005/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd416m/g4163m/g4163lm/gla00084/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008629005/\"}",
+  "dct_spatial_sm": [
+    "lafayette county",
+    "missouri",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Lafayette County (Mo.)--Maps",
+    "Landowners--Missouri--Lafayette County--Maps",
+    "Real property--Missouri--Lafayette County--Maps",
+    "United States--Missouri--Lafayette County"
+  ],
+  "dct_temporal_sm": [
+    "1920",
+    "Rockford, Ill. : W.W. Hixson & Co., [1920?]"
+  ],
+  "dct_title_s": "Atlas of Lafayette County, Missouri",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008629005",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

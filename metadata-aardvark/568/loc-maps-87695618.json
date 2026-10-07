@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows block and ward numbers.",
+    "Also shows block and ward numbers. Hand col. to show street paving types for 1872 and 1873. At head of legend: Nov. 1st 18[missing] pavements. Base map title: Map of the city of Washington in the District of Columbia : established as the permanent seat of the government of the United States of America / W.J. Stone sc. Wash'n. Annotated in ink in upper margin: [1st word missing] map before granting permits to open stree[ts?]. Legend on separate sheet affixed to recto. Includes index to points of interest. Available also through the Library of Congress Web site as a raster image. LC copy soiled, brittle, lacking sections along margins, and mounted on cloth backing. Vault DCP",
+    "Annotated in ink in upper margin: [1st word missing] map before granting permits to open stree[ts?].",
+    "At head of legend: Nov. 1st 18[missing] pavements.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map title: Map of the city of Washington in the District of Columbia : established as the permanent seat of the government of the United States of America / W.J. Stone sc. Wash'n.",
+    "Contributors: Stone, William James, 1798-1865",
+    "DCP",
+    "Hand col. to show street paving types for 1872 and 1873.",
+    "Includes index to points of interest.",
+    "LC copy soiled, brittle, lacking sections along margins, and mounted on cloth backing.",
+    "Legend on separate sheet affixed to recto.",
+    "Publication statement: [Washington? : s.n., 1873?]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct001355",
+    "http://lccn.loc.gov/87695618",
+    "http://www.loc.gov/item/87695618/",
+    "http://www.loc.gov/resource/g3851p.ct001355/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct001355",
+    "https://search.catalog.loc.gov/instances/1700ab69-5460-5c0b-8285-2af26d0d60c1",
+    "https://www.loc.gov/item/87695618/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct001355.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695618/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Pavements--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1872 d1873",
+    "[Washington? : s.n., 1873?]"
+  ],
+  "dct_title_s": "[Map of Washington D.C. showing wood, concrete, and stone street pavements]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695618",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

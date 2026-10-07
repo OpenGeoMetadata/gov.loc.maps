@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"May 1st 1848.\"",
+    "\"May 1st 1848.\" Oriented with north toward the upper left. Relief shown by hachures. Includes 2 elevation profiles. Scale ca. 1:180,000. Available also through the Library of Congress Web site as a raster image. AACR2: 610/1; 650/3",
+    "AACR2: 610/1; 650/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bufford's Lith; Kennedy, Archibald, active 1850; Moore, James, active 19th century",
+    "Includes 2 elevation profiles.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: Boston : J. H. Bufford's Lithography, [1848]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:180,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3751p.ct005638",
+    "http://lccn.loc.gov/79693228",
+    "http://www.loc.gov/item/79693228/",
+    "http://www.loc.gov/resource/g3751p.ct005638/",
+    "https://hdl.loc.gov/loc.gmd/g3751p.ct005638",
+    "https://search.catalog.loc.gov/instances/cf86abd9-87a6-5867-a306-d6cc18535414",
+    "https://www.loc.gov/item/79693228/"
+  ],
+  "dct_issued_s": "1848",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3751/g3751p/ct005638.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79693228/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Vermont--Maps",
+    "United States--Vermont",
+    "Vermont Central Railroad Company--Maps",
+    "Vermont and Canada Railroad Co.--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "dct_title_s": "Map & profiles of the Vt. Central and Vt. and Canada Railroads",
+  "gbl_dateRange_drsim": [
+    "[1848 TO 1848]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1848
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79693228",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

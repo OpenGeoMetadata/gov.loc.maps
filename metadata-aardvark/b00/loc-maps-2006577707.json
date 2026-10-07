@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "World War 2 military situation maps, 1944-1945",
+    "World War Two military situation maps, 1944-1945"
+  ],
+  "dct_description_sm": [
+    "Contributors: allied forces. army group, 12th. engineer section; library of congress. geography and map division; library of congress. national digital library program; united states. army. army group, 1st. headquarters",
+    "This collection contains maps showing troop positions beginning on June 6, 1944 to July 26, 1945. Starting with the D-Day Invasion, the maps give daily details on the military campaigns in Western Europe, showing the progress of the Allied Forces as they push towards Germany. Some of the sheets are accompanied by a declassified \"G-3 Report\" giving detailed information on troop positions for the period 3 Mar. 1945-26 July 1945. These maps and reports were used by the commanders of the United States forces in their evaluation of the campaigns and for planning future strategies."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2006577707",
+    "http://www.loc.gov/collections/sitmaps/",
+    "http://www.loc.gov/collections/world-war-ii-maps-military-situation-maps-from-1944-to-1945/about-this-collection/",
+    "http://www.loc.gov/item/2006577707/",
+    "https://hdl.loc.gov/loc.gmd/collgmd.gm000014",
+    "https://lccn.loc.gov/2006577707",
+    "https://search.catalog.loc.gov/instances/7b393703-7da8-5cb5-811d-e21b8b414f40",
+    "https://www.loc.gov/item/2006577707",
+    "https://www.loc.gov/item/2006577707/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://www.loc.gov/static/collections/world-war-ii-maps-military-situation-maps-from-1944-to-1945/500_500.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006577707/\"}",
+  "dct_spatial_sm": [
+    "northern france",
+    "western front"
+  ],
+  "dct_subject_sm": [
+    "American History",
+    "Great Depression & World War II, 1929-1945",
+    "Maps & Geography",
+    "Military History",
+    "Military Maps",
+    "World War II"
+  ],
+  "dct_temporal_sm": [
+    "200?"
+  ],
+  "dct_title_s": "World War II Military Situation Maps",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006577707",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

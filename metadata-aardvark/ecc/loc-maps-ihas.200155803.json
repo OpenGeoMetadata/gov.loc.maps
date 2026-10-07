@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: J. & C. Walker",
+    "From Wilkinson, [John] Gardner, Sir, 1797-1875. Modern Egypt and Thebes: being a description of Egypt, including the information required for travellers to that country. 2 vols. London: John Murray, 1843, vol. 1, facing page 1.",
+    "Publication statement: John Murray, London, 1843"
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/ihas.200155803/",
+    "http://www.loc.gov/resource/music.musihas-200155803/",
+    "https://hdl.loc.gov/loc.music/ihas.200155803",
+    "https://www.loc.gov/item/ihas.200155803/"
+  ],
+  "dct_issued_s": "1843",
+  "dct_language_sm": [
+    "no linguistic content",
+    "not applicable"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: musihas-200155803.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/music/musihas-200155803/musihas-200155803.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:music:musihas-200155803:musihas-200155803.0001/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/ihas.200155803/\"}",
+  "dct_rights_sm": [
+    "No known restrictions on use or reproduction."
+  ],
+  "dct_subject_sm": [
+    "map"
+  ],
+  "dct_temporal_sm": [
+    "1843"
+  ],
+  "dct_title_s": "Map of Egypt",
+  "gbl_dateRange_drsim": [
+    "[1843 TO 1843]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1843
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-ihas.200155803",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 440; 651/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hills, John (Surveyor)",
+    "Has watermarks.",
+    "LC Maps of North America, 1750-1789, 1259",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Has watermarks. Relief shown by shading. Scale ca. 1:26,000; 800 paces to the in. LC Maps of North America, 1750-1789, 1259 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 440; 651/1; 651/2",
+    "Publication statement: 1778.",
+    "Relief shown by shading.",
+    "Scale ca. 1:26,000; 800 paces to the in.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814c.ar125900",
+    "http://lccn.loc.gov/gm71002190",
+    "http://www.loc.gov/item/gm71002190/",
+    "http://www.loc.gov/resource/g3814c.ar125900/",
+    "https://hdl.loc.gov/loc.gmd/g3814c.ar125900",
+    "https://search.catalog.loc.gov/instances/e7c7c35a-b8da-5e6d-b609-0e921310054c",
+    "https://www.loc.gov/item/gm71002190/"
+  ],
+  "dct_issued_s": "1778",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814c/ar125900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002190/\"}",
+  "dct_spatial_sm": [
+    "allentown",
+    "crosswicks region",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Allentown (N.J.)--Maps, Manuscript--Early works to 1800",
+    "Roads--Crosswicks Region (N.J.)--Maps--Early works to 1800",
+    "United States--New Jersey--Allentown",
+    "United States--New Jersey--Crosswicks Region"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "dct_title_s": "Sketch of the road from Black Horse to Crosswick. Sketch of Allen's Town",
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1778
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002190",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

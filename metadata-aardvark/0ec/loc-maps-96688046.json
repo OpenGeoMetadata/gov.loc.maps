@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Delamarche, Charles François, 1740-1817",
+    "Includes notes and numbered discriptive list of major sections of North and South America.",
+    "LC copy stained, tape on verso",
+    "Prime meridians: Paris and Ferro.",
+    "Publication statement: Paris : C.F. Delamarche, 1792.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Prime meridians: Paris and Ferro. Includes notes and numbered discriptive list of major sections of North and South America. Available also through the Library of Congress Web site as a raster image. Vault LC copy stained, tape on verso",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3290.ct007289",
+    "http://lccn.loc.gov/96688046",
+    "http://www.loc.gov/item/96688046/",
+    "http://www.loc.gov/resource/g3290.ct007289/",
+    "https://hdl.loc.gov/loc.gmd/g3290.ct007289",
+    "https://search.catalog.loc.gov/instances/8a853623-a99b-59bf-bb67-f27ab15b814f",
+    "https://www.loc.gov/item/96688046/"
+  ],
+  "dct_issued_s": "1792",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3290/g3290/ct007289.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96688046/\"}",
+  "dct_spatial_sm": [
+    "america"
+  ],
+  "dct_subject_sm": [
+    "America",
+    "America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1792"
+  ],
+  "dct_title_s": "Amérique ou Indes Occidentales, avec les nouvelles découvertes du Capit'e Cook, depuis le Détroit de Behrings ou du Nord, dans l'Océan Pacifique du Nord et Sud",
+  "gbl_dateRange_drsim": [
+    "[1792 TO 1792]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1792
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96688046",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

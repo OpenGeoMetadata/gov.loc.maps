@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bowen, Thomas, -1790; Speer, Joseph Smith",
+    "European possessions shown by color.",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Depths shown by soundings. Shows southern United States, Mexico, Central America, West Indies, Bermudas, and northern South America. European possessions shown by color. Includes acknowledgement to Captain Speer by \"John Pownall, secry., Plantation Office, Whitehall, January 25, 1774\" and \"Honorary gold medal.\" Scale ca. 1:5,000,000. LC Maps of North America, 1750-1789, 1700 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 651/2",
+    "Includes acknowledgement to Captain Speer by \"John Pownall, secry., Plantation Office, Whitehall, January 25, 1774\" and \"Honorary gold medal.\"",
+    "LC Maps of North America, 1750-1789, 1700",
+    "Publication statement: Westminster, 1774.",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Scale ca. 1:5,000,000.",
+    "Shows southern United States, Mexico, Central America, West Indies, Bermudas, and northern South America.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4390.ar170000",
+    "http://hdl.loc.gov/loc.gmd/g4390.ar170001",
+    "http://lccn.loc.gov/74694801",
+    "http://www.loc.gov/item/74694801/",
+    "http://www.loc.gov/resource/g4390.ar170000/",
+    "http://www.loc.gov/resource/g4390.ar170001/",
+    "https://hdl.loc.gov/loc.gmd/g4390.ar170000",
+    "https://hdl.loc.gov/loc.gmd/g4390.ar170001",
+    "https://search.catalog.loc.gov/instances/1cb746c4-8849-54ed-a215-62034ddc39ee",
+    "https://www.loc.gov/item/74694801/"
+  ],
+  "dct_issued_s": "1774",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4390/g4390/ar170001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694801/\"}",
+  "dct_spatial_sm": [
+    "caribbean area",
+    "west indies"
+  ],
+  "dct_subject_sm": [
+    "Caribbean Area",
+    "Caribbean Area--Maps--Early works to 1800",
+    "West Indies",
+    "West Indies--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1774"
+  ],
+  "dct_title_s": "To His Royal Highness. George Augustus Frederick. Prince of Wales &c. &c. &c. This chart of the West Indies,",
+  "gbl_dateRange_drsim": [
+    "[1774 TO 1774]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1774
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694801",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

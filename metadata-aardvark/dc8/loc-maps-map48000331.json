@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Standard map series designation: Series A.M.S. V845"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service, cartographer; United States. Army. Corps of Engineers",
+    "Includes text, notes, contour interval diagram, publisher's map list, publisher's coverage map, index to adjoining sheets, index map of Mississippi, and color illustration.",
+    "Publication statement: Washington, D.C. : Printed by Army Map Service, Corps of Engineers, [between 1947-1959]",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Includes text, notes, contour interval diagram, publisher's map list, publisher's coverage map, index to adjoining sheets, index map of Mississippi, and color illustration. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map48000331",
+    "http://www.loc.gov/item/map48000331/",
+    "http://www.loc.gov/resource/gmdsetmaps.map48000331/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map48000331",
+    "https://search.catalog.loc.gov/instances/deebec3a-2937-54f4-97df-6432f69fddff",
+    "https://www.loc.gov/item/map48000331/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:ma:p4:80:00:33:1:map48000331:cs000176/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map48000331/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--Maps",
+    "United States--Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1947/1959"
+  ],
+  "dct_title_s": "Georgia 1:25,000",
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1959]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-map48000331",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

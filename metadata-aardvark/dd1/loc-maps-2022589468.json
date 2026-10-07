@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Pennsylvania title collection--counties Ci-Cld",
+    "Alternate supplied title: Pennsylvania title collection--drawer 65",
+    "Pennsylvania title collection--counties Ci-Cld",
+    "Pennsylvania title collection--drawer 65"
+  ],
+  "dct_description_sm": [
+    "Publication statement: [Various places] : [various publishers], [approximately 1804-1970]",
+    "This record covers single maps covering counties of Pennsylvania, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps covering counties of Pennsylvania, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589468",
+    "http://www.loc.gov/item/2022589468/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.pa-065/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.pa-065",
+    "https://search.catalog.loc.gov/instances/6f7be583-f763-5f48-801b-d7a677a42bd8",
+    "https://www.loc.gov/item/2022589468/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:pa:-0:65:pa-065:pa-065-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589468/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Counties--Pennsylvania--Maps",
+    "Outdoor recreation--Pennsylvania--Maps",
+    "Roads--Pennsylvania--Maps",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1804/1970",
+    "[Various places] : [various publishers], [approximately 1804-1970]"
+  ],
+  "dct_title_s": "[Maps of Pennsylvania--counties Ci-Cld]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2022589468",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

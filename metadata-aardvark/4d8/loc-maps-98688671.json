@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Great Central Railway (U.S.); Tunis, W. E.",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 420",
+    "Publication statement: Niagara Falls, N.Y., [1855?]",
+    "Scale ca. 1:4,000,000.",
+    "Shows railroad lines in the north-central and northeastern United States connecting with the Michigan Central and New York Central Railroads."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3711p.rr004200",
+    "http://lccn.loc.gov/98688671",
+    "http://www.loc.gov/item/98688671/",
+    "http://www.loc.gov/resource/g3711p.rr004200/",
+    "https://hdl.loc.gov/loc.gmd/g3711p.rr004200",
+    "https://search.catalog.loc.gov/instances/6040cd36-c7cd-5280-ace7-5c226a73a3f4",
+    "https://www.loc.gov/item/98688671/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3711/g3711p/rr004200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688671/\"}",
+  "dct_spatial_sm": [
+    "northeastern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Great Central Railway (U.S.)",
+    "Railroads--Northeastern States--Maps",
+    "United States--Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1855",
+    "Niagara Falls, N.Y., [1855?]"
+  ],
+  "dct_title_s": "International rail road guide of the Great Central Route",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688671",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

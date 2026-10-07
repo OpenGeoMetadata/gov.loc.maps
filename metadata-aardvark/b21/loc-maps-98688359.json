@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: P.S. Duval & Co",
+    "Description derived from published bibliography.",
+    "Indicates railroads in the Great Lakes region, south to the Ohio River, and from New York State to the Mississippi River. Shows proposed railroads as far west as the Missouri River.",
+    "LC Railroad maps, 84",
+    "Publication statement: [n.p.], [1856?]",
+    "Scale [ca. 1:2,400,000]."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr000840",
+    "http://lccn.loc.gov/98688359",
+    "http://www.loc.gov/item/98688359/",
+    "http://www.loc.gov/resource/g3701p.rr000840/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr000840",
+    "https://search.catalog.loc.gov/instances/ad85d3c0-9595-5bd6-95f9-34ab6fdd0185",
+    "https://www.loc.gov/item/98688359/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr000840.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688359/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1856",
+    "[n.p.], [1856?]"
+  ],
+  "dct_title_s": "View fo the lake & north west-connections with Philadelphia",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688359",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Dwelle, E. H.",
+    "LC Land ownership maps, 210",
+    "LC copy imperfect: left sheet/portion of map only.",
+    "Pencil annotation in upper left corner: compiled, published + copyrighted by E.H. Dwelle.",
+    "Publication statement: [Iowa] : [E.H. Dwelle], [1894]",
+    "Shows landowners.",
+    "Shows landowners. Pencil annotation in upper left corner: compiled, published + copyrighted by E.H. Dwelle. LC copy imperfect: left sheet/portion of map only. LC Land ownership maps, 210 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4153w.la000210",
+    "http://lccn.loc.gov/2012593142",
+    "http://www.loc.gov/item/2012593142/",
+    "http://www.loc.gov/resource/g4153w.la000210/",
+    "https://hdl.loc.gov/loc.gmd/g4153w.la000210",
+    "https://search.catalog.loc.gov/instances/4318e26a-abe5-503a-81e0-985f6c34205d",
+    "https://www.loc.gov/item/2012593142/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd415/g4153/g4153w/la000210.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593142/\"}",
+  "dct_spatial_sm": [
+    "iowa",
+    "united states",
+    "worth county"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Iowa--Worth County--Maps",
+    "Real property--Iowa--Worth County--Maps",
+    "United States--Iowa--Worth County",
+    "Worth County (Iowa)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "Map of Worth [County, Iowa]",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593142",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

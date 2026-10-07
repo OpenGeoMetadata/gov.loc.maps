@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes \"References.\"",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Relief shown by shading and hachures. Includes \"References.\" Scale 1:7,200; 200 yards to an in. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [1759?]",
+    "Relief shown by shading and hachures.",
+    "Scale 1:7,200; 200 yards to an in.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804c.ar300800",
+    "http://lccn.loc.gov/gm71002321",
+    "http://www.loc.gov/item/gm71002321/",
+    "http://www.loc.gov/resource/g3804c.ar300800/",
+    "https://hdl.loc.gov/loc.gmd/g3804c.ar300800",
+    "https://search.catalog.loc.gov/instances/8370d9bf-7998-5d73-b1ef-ae7d2d07ba04",
+    "https://www.loc.gov/item/gm71002321/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804c/ar300800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002321/\"}",
+  "dct_spatial_sm": [
+    "crown point",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Crown Point (N.Y.)--History--French and Indian War, 1754-1763--Maps, Manuscript--Early works to 1800",
+    "Fortification--New York (State)--Crown Point--Maps, Manuscript--Early works to 1800",
+    "United States--New York (State)--Crown Point"
+  ],
+  "dct_temporal_sm": [
+    "1759",
+    "[1759?]"
+  ],
+  "dct_title_s": "Plan of the fort and fortress at Crown Point with their environs. With the disposition of the English Army under the command of Genl. Amherst encamp'd there 1759",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002321",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

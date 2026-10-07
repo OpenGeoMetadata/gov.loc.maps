@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ferguson, James, 1710-1776",
+    "English, French and Latin.",
+    "James Ferguson article from Gent. Mag. March 1769.",
+    "Mounted on cloth and stamped in blue ink in lower left margin: 312A.",
+    "Nine printed images and two panels of printed text mounted on paper within hand drawn frames colored yellow. From various sources, unidentified except for the Ferguson article.",
+    "Publication statement: [England?] : [producer not identified], [1769?]",
+    "Title devised by cataloger.",
+    "Title devised by cataloger. James Ferguson article from Gent. Mag. March 1769. Nine printed images and two panels of printed text mounted on paper within hand drawn frames colored yellow. From various sources, unidentified except for the Ferguson article. Mounted on cloth and stamped in blue ink in lower left margin: 312A. Available also through the Library of Congress Web site as a raster image. English, French and Latin."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3190.ct003797",
+    "http://lccn.loc.gov/2013593153",
+    "http://www.loc.gov/item/2013593153/",
+    "http://www.loc.gov/resource/g3190.ct003797/",
+    "https://hdl.loc.gov/loc.gmd/g3190.ct003797",
+    "https://search.catalog.loc.gov/instances/be4e32c5-fb2f-5d72-b1ff-495554643b42",
+    "https://www.loc.gov/item/2013593153/"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "fre",
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3190/g3190/ct003797.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593153/\"}",
+  "dct_spatial_sm": [
+    "universe"
+  ],
+  "dct_subject_sm": [
+    "Armillary spheres--Early works to 1800",
+    "Brahe, Tycho,--1546-1601",
+    "Celestial sphere--Early works to 1800",
+    "Copernicus, Nicolaus,--1473-1543",
+    "Descartes, René,--1596-1650",
+    "Ptolemy,--active 2nd century",
+    "Spherical astronomy",
+    "Sundials",
+    "Sundials--Design and construction",
+    "Sundials--Early works to 1800",
+    "Universe"
+  ],
+  "dct_temporal_sm": [
+    "1769",
+    "[England?] : [producer not identified], [1769?]"
+  ],
+  "dct_title_s": "[Collection of nine images including astronomical instruments, celestial charts, and a world map]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593153",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

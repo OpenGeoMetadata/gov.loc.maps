@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 50.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Burr, David H., 1803-1875; Fillmore, Millard, 1800-1874, collector",
+    "Cover title: Erie.",
+    "Cover title: Erie. Hand colored. \"No. 50.\" Prime meridian: Washington. Signed by Millard Fillmore \"Fillmore, Hall & Haven's.\" Cover also signed. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Hand colored.",
+    "Prime meridian: Washington.",
+    "Publication statement: [n.p.] 1829.",
+    "Signed by Millard Fillmore \"Fillmore, Hall & Haven's.\" Cover also signed.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/73693311",
+    "http://www.loc.gov/item/73693311/",
+    "http://www.loc.gov/resource/g3803e.fi000268/",
+    "https://hdl.loc.gov/loc.gmd/g3803e.fi000268",
+    "https://search.catalog.loc.gov/instances/97719886-92a9-5a7e-9961-5ecde044bec5",
+    "https://www.loc.gov/item/73693311/"
+  ],
+  "dct_issued_s": "1829",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3803/g3803e/fi000268.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693311/\"}",
+  "dct_spatial_sm": [
+    "erie county",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Erie County (N.Y.)--Maps",
+    "United States--New York (State)--Erie County"
+  ],
+  "dct_temporal_sm": [
+    "1829"
+  ],
+  "dct_title_s": "Map of the county of Erie",
+  "gbl_dateRange_drsim": [
+    "[1829 TO 1829]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1829
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693311",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

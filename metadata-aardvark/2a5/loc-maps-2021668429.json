@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carta nautica del bacino del Mediterraneo"
+  ],
+  "dct_description_sm": [
+    "Content in Catalan.",
+    "Contributors: Prunes, Mateus, flourished 1553-1599 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University Library of Sassari.",
+    "Original resource extent: 3 parchment sheets; 365 x 228 millimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], [1553 to 1559]",
+    "This portolan nautical chart, of Catalan origin, illustrates the coastal areas of the Mediterranean Sea with a wealth of detail, with toponyms of the inhabited areas shown without regard to political-territorial divisions. Nautical charts came into use on sailing vessels in the Mediterranean toward the end of the 13th century, coinciding with much broader seafaring activity and exploration. These charts supplemented the written instructions, or portolanos, which had been used for several centuries and thus were called portolan charts. The main centers of production for these charts were Spain and northern Italy. The Carta nautica del bacino del Mediterraneo (Nautical chart of the Mediterranean basin), the only one of its type from the archives and libraries of Sardinia, is a testimony to the cultural and business relations that existed between Sardinia and Catalonia in the 16th century. Originally traced on a single sheet of paper, the map was divided into four parts and used in the binding of two volumes. The fourth part of the document has not survived. The chart is attributed to the workshop of Mateus Prunes (1532--94), a leading member of a family of cartographers who lived and worked on the island of Majorca from the early 16th century to the late 17th century.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668429",
+    "http://www.loc.gov/item/2021668429/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_04174/",
+    "http://www.loc.gov/resource/wdl.4174/",
+    "https://hdl.loc.gov/loc.wdl/wdl.4174",
+    "https://www.loc.gov/item/2021668429/"
+  ],
+  "dct_issued_s": "1553-01-01",
+  "dct_language_sm": [
+    "catalan",
+    "valencian"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_04174.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/04/17/4/wdl_04174/wdl_04174.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:04:17:4:wdl_04174:sassari_map/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668429/\"}",
+  "dct_subject_sm": [
+    "1553 to 1559",
+    "Mediterranean Region",
+    "Nautical charts",
+    "Portolan charts"
+  ],
+  "dct_temporal_sm": [
+    "1553-01-01"
+  ],
+  "dct_title_s": "Nautical Chart of the Mediterranean Basin.",
+  "gbl_dateRange_drsim": [
+    "[1553 TO 1553]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1553
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668429",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

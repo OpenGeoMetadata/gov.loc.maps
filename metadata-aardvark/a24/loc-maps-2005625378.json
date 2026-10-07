@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes ill. of commercial and public buildings.",
+    "Includes ill. of commercial and public buildings. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Galveston, Tex. : Clarke & Courts, [1902?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033g.la002010",
+    "http://lccn.loc.gov/2005625378",
+    "http://www.loc.gov/item/2005625378/",
+    "http://www.loc.gov/resource/g4033g.la002010/",
+    "https://hdl.loc.gov/loc.gmd/g4033g.la002010",
+    "https://search.catalog.loc.gov/instances/fb4cfebc-23eb-57b0-ba11-8d2ebbc78b54",
+    "https://www.loc.gov/item/2005625378/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033g/la002010.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625378/\"}",
+  "dct_spatial_sm": [
+    "galveston county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Galveston County (Tex.)--Maps",
+    "Landowners--Texas--Galveston County--Maps",
+    "Real property--Texas--Galveston County--Maps",
+    "United States--Texas--Galveston County"
+  ],
+  "dct_temporal_sm": [
+    "1902",
+    "Galveston, Tex. : Clarke & Courts, [1902?]"
+  ],
+  "dct_title_s": "Map of the county of Galveston, Texas",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625378",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

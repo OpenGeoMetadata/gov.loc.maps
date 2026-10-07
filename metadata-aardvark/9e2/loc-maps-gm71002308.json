@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Has watermark.",
+    "LC Maps of North America, 1750-1789, 1198",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Has watermark. Relief shown by hachures. Scale ca. 1:20,400. LC Maps of North America, 1750-1789, 1198 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650/1; 651/3",
+    "Publication statement: 1779?]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:20,400.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804s.ar119800",
+    "http://lccn.loc.gov/gm71002308",
+    "http://www.loc.gov/item/gm71002308/",
+    "http://www.loc.gov/resource/g3804s.ar119800/",
+    "https://hdl.loc.gov/loc.gmd/g3804s.ar119800",
+    "https://search.catalog.loc.gov/instances/8517564a-d7af-5852-9401-7af074cbf358",
+    "https://www.loc.gov/item/gm71002308/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804s/ar119800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002308/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "stony point",
+    "united states",
+    "verplanck point"
+  ],
+  "dct_subject_sm": [
+    "Fortification--New York (State)--Stony Point--Maps--Early works to 1800",
+    "Fortification--New York (State)--Verplanck Point--Maps--Early works to 1800",
+    "Manuscript maps",
+    "Stony Point (N.Y.)--Buildings, structures, etc.--Maps, Manuscript--Early works to 1800",
+    "United States--New York (State)--Stony Point",
+    "United States--New York (State)--Verplanck Point"
+  ],
+  "dct_temporal_sm": [
+    "1779",
+    "1779?]"
+  ],
+  "dct_title_s": "[Map of Stony and Verplanck Points on the Hudson River as fortified by Sir Henry Clinton June 1779",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002308",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Improved for Mills' Atlas, 1825.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mills, Robert, 1781-1855; Ravenel, Henry; Tanner, Henry Schenck, 1786-1858; Vignoles, Charles Blacker, 1793-1875",
+    "LC copy annotated in lower right corner, accompanied by photocopy, and mounted on cloth.",
+    "Publication statement: [Baltimore] : [F. Lucas, Jr. for Mill's atlas], [1825?]",
+    "Shows land ownership.",
+    "Shows land ownership. \"Improved for Mills' Atlas, 1825.\" LC copy annotated in lower right corner, accompanied by photocopy, and mounted on cloth. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3913b.ct003063",
+    "http://lccn.loc.gov/2012590212",
+    "http://www.loc.gov/item/2012590212/",
+    "http://www.loc.gov/resource/g3913b.ct003063/",
+    "https://hdl.loc.gov/loc.gmd/g3913b.ct003063",
+    "https://search.catalog.loc.gov/instances/10d21c51-d767-535d-99ac-b684f3ad7435",
+    "https://www.loc.gov/item/2012590212/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3913/g3913b/ct003063.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590212/\"}",
+  "dct_spatial_sm": [
+    "beaufort county",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Beaufort County (S.C.)--Maps",
+    "Landowners--South Carolina--Beaufort County--Maps",
+    "Real property--South Carolina--Beaufort County--Maps",
+    "United States--South Carolina--Beaufort County"
+  ],
+  "dct_temporal_sm": [
+    "1825",
+    "[Baltimore] : [F. Lucas, Jr. for Mill's atlas], [1825?]"
+  ],
+  "dct_title_s": "Beaufort District, South Carolina",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590212",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

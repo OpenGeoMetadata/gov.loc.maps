@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Rand McNally and Company",
+    "F37514 U.S. Copyright Office",
+    "F37514 U.S. Copyright Office Includes index on verso. Available also through the Library of Congress web site as a raster image.",
+    "Includes index on verso.",
+    "Publication statement: [S.l.], 1921."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4971p.ct000297",
+    "http://lccn.loc.gov/98687142",
+    "http://www.loc.gov/item/98687142/",
+    "http://www.loc.gov/resource/g4971p.ct000297/",
+    "https://hdl.loc.gov/loc.gmd/g4971p.ct000297",
+    "https://search.catalog.loc.gov/instances/a4dc239b-eb18-5aca-a9a4-be6a172121f7",
+    "https://www.loc.gov/item/98687142/"
+  ],
+  "dct_issued_s": "1921",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4971/g4971p/ct000297.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687142/\"}",
+  "dct_spatial_sm": [
+    "puerto rico"
+  ],
+  "dct_subject_sm": [
+    "Puerto Rico",
+    "Puerto Rico--Maps",
+    "Railroads--Puerto Rico--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "dct_title_s": "Rand McNally 14 x 21 inch map of Porto Rico",
+  "gbl_dateRange_drsim": [
+    "[1921 TO 1921]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1921
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687142",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

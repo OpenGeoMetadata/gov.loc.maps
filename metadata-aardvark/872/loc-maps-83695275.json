@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from Arkansas general highway map ...\"",
+    "\"Source: original draft by State Soil Survey staff.\"",
+    "\"This general soil map is suitable for broad planning purposes only.\"",
+    "\"This general soil map is suitable for broad planning purposes only.\" In lower right corner: May 1982 4-R-37553-1. \"Base compiled from Arkansas general highway map ...\" \"Source: original draft by State Soil Survey staff.\" Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "In lower right corner: May 1982 4-R-37553-1.",
+    "Includes location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1982."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/83695275",
+    "http://www.loc.gov/item/83695275/",
+    "http://www.loc.gov/resource/g4003f.ct011023/",
+    "https://hdl.loc.gov/loc.gmd/g4003f.ct011023",
+    "https://search.catalog.loc.gov/instances/e33188de-f701-5b0c-8abc-0ef89cf76937",
+    "https://www.loc.gov/item/83695275/"
+  ],
+  "dct_issued_s": "1982",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4003/g4003f/ct011023.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83695275/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "fulton county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soils--Arkansas--Fulton County--Maps",
+    "United States--Arkansas--Fulton County"
+  ],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "dct_title_s": "General soil map, Fulton County, Arkansas",
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1982]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83695275",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

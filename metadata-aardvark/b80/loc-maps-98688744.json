@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"The North Pennsylvania Rail Road will form part of a line from the Wyoming mines northwest to the Lakes and from the Lehigh mines southeast to tidewater, shorter both ways, than any other route, from either of the anthracite coal fields. It will also establish between Philadelphia and all places west of the longitude of Waverly, a line forty miles shorter than any route from the same places, or either of them, to the City of New York.\"",
+    "A table of distances appears in the lower left of map.",
+    "Across top of map: \"Philadelphia's great north and Lake route.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Miller, Edward, 1811-1872; North Pennsylvania Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 496",
+    "Outline map of the eastern Great Lakes, east to Philadelphia and New York City, showing the east Pennsylvania coal fields. Chartered April 8, 1852, under Philadelphia, Easton and Water-Gap Railroad. See entry 529.",
+    "Publication statement: Phila[delphia], [1853]",
+    "Scale ca. 1:1,800,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3711p.rr004960",
+    "http://lccn.loc.gov/98688744",
+    "http://www.loc.gov/item/98688744/",
+    "http://www.loc.gov/resource/g3711p.rr004960/",
+    "https://hdl.loc.gov/loc.gmd/g3711p.rr004960",
+    "https://search.catalog.loc.gov/instances/118900ab-bc13-56c9-8903-f4f68392def6",
+    "https://www.loc.gov/item/98688744/"
+  ],
+  "dct_issued_s": "1853",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3711/g3711p/rr004960.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688744/\"}",
+  "dct_spatial_sm": [
+    "northeastern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "North Pennsylvania Railroad Company--Maps",
+    "Railroads--Northeastern States--Maps",
+    "United States--Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "dct_title_s": "The North Pennsylvania Rail Road and its connections, Octr. 1853",
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1853
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688744",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

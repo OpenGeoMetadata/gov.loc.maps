@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"4-R-37188.\"",
+    "\"Base 4-R-35938.\"",
+    "\"July 1979.\"",
+    "\"July 1979.\" At head of title: Figure 3. Base map \"Compiled from USGS 1:500,000 state base maps.\" Includes notes and location map. \"4-R-37188.\" \"Base 4-R-35938.\" Available also through the Library of Congress Web site as a raster image.",
+    "At head of title: Figure 3.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map \"Compiled from USGS 1:500,000 state base maps.\"",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes notes and location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1979."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82696040",
+    "http://www.loc.gov/item/82696040/",
+    "http://www.loc.gov/resource/g3902y.ct009751/",
+    "https://hdl.loc.gov/loc.gmd/g3902y.ct009751",
+    "https://search.catalog.loc.gov/instances/11f4d083-e569-5e49-9f33-3e0e960b1028",
+    "https://www.loc.gov/item/82696040/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902y/ct009751.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82696040/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "pee dee river watershed",
+    "south carolina",
+    "united states",
+    "yadkin river watershed"
+  ],
+  "dct_subject_sm": [
+    "Flood forecasting--North Carolina--Yadkin River Watershed--Maps",
+    "Flood forecasting--Pee Dee River Watershed (N.C. and S.C.)--Maps",
+    "Floods--North Carolina--Yadkin River Watershed--Maps",
+    "Floods--Pee Dee River Watershed (N.C. and S.C.)--Maps",
+    "United States--North Carolina--Pee Dee River Watershed",
+    "United States--North Carolina--Yadkin River Watershed",
+    "United States--South Carolina--Pee Dee River Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Flood prone urban areas, January 1979, Yadkin-Pee Dee River Basin, North Carolina, South Carolina, and Virginia",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82696040",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

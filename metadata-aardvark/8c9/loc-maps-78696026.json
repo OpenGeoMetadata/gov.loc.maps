@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1976--240-951/97.\"",
+    "\"Reprint 1977.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "DCP",
+    "Includes text.",
+    "Publication statement: [Washington] : The Service, [1977]",
+    "Scale ca. 1:22,500.",
+    "Text and col. ill. on verso.",
+    "Title from verso.",
+    "Title from verso. \"Reprint 1977.\" \"*GPO: 1976--240-951/97.\" Includes text. Text and col. ill. on verso. Scale ca. 1:22,500. Available also through the Library of Congress Web site as a raster image. DCP AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852r.ct005127",
+    "http://lccn.loc.gov/78696026",
+    "http://www.loc.gov/item/78696026/",
+    "http://www.loc.gov/resource/g3852r.ct005127/",
+    "https://hdl.loc.gov/loc.gmd/g3852r.ct005127",
+    "https://search.catalog.loc.gov/instances/7d96c37c-024e-5d7c-b9b2-52683746efa2",
+    "https://www.loc.gov/item/78696026/"
+  ],
+  "dct_issued_s": "1977",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852r/ct005127.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78696026/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "rock creek park",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Rock Creek Park (Washington, D.C.)--Maps",
+    "United States--District of Columbia--Washington--Rock Creek Park"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_title_s": "Rock Creek Park",
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78696026",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

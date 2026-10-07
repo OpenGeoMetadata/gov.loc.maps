@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"\"Guía de las regiones de trabajos agrícolas en los estados del oeste\" (Regional guide for agricultural employment in the Western States) is a guide with accompanying map that was issued in 1962 by the Farm Labor Service of the U.S. Department of Labor and the U.S. Employment Service. It offered information in Spanish to migrant laborers on temporary agricultural employment in seven western states: Washington, Oregon, Idaho, California, Nevada, Utah, and Arizona. The map has inset text with translations into Spanish of the names of important fruits and vegetables, as well as the optimum dates for temporary employment at peak harvest periods in different parts of each state. The shading of the numbered agricultural zones on the map is linked to the text on a state-by-state basis. Laborers are advised not to leave for such temporary agricultural work without first securing jobs and to consult with the state employment offices before and during their journeys. The map shows the locations of state employment service centers, information centers, and federal, state, and interstate highways. The map was designed to meet the needs of the owners of large farms, who required seasonal labor to harvest their crops. It was issued in the same year that César Chávez co-founded the labor union that ultimately became the United Farm Workers (UFW), with the aim of raising the low pay and improving the often deplorable working conditions of migrant farm workers.\" World Digital Library.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: United States Employment Service; United States. Department of Labor; United States. Farm Labor Service",
+    "Directory of \"Oficinas locales del sevicio estatal de empleos\" on verso.",
+    "Includes tables, in English, identical with English language edition.",
+    "Publication statement: [Washington], 1962."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4211g.mfr00046",
+    "http://hdl.loc.gov/loc.gmd/g4211g.mfv00046",
+    "http://lccn.loc.gov/99446190",
+    "http://www.loc.gov/item/99446190/",
+    "http://www.loc.gov/resource/g4211g.mfr00046/",
+    "http://www.loc.gov/resource/g4211g.mfv00046/",
+    "https://hdl.loc.gov/loc.gmd/g4211g.mfr00046",
+    "https://hdl.loc.gov/loc.gmd/g4211g.mfv00046",
+    "https://search.catalog.loc.gov/instances/12491db0-bfcd-543a-b23a-d02977479f3a",
+    "https://www.loc.gov/item/99446190/"
+  ],
+  "dct_issued_s": "1962",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd421/g4211/g4211g/mfr00046.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446190/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west"
+  ],
+  "dct_subject_sm": [
+    "Labor--West (U.S.)--Maps",
+    "Migrant agricultural laborers--West (U.S.)--Maps",
+    "United States--West"
+  ],
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "dct_title_s": "Guía de las regiones de trabajos agrícolas en los estados del oeste",
+  "gbl_dateRange_drsim": [
+    "[1962 TO 1962]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446190",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

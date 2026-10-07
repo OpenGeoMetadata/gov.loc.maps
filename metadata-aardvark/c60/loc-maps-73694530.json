@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ruger, A.",
+    "Indexed for points of interest.",
+    "Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 901 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 901",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [n.p., 1870]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3964m.pm009010",
+    "http://lccn.loc.gov/73694530",
+    "http://www.loc.gov/item/73694530/",
+    "http://www.loc.gov/resource/g3964m.pm009010/",
+    "https://hdl.loc.gov/loc.gmd/g3964m.pm009010",
+    "https://search.catalog.loc.gov/instances/2de389f5-349d-54c1-969e-e35015a8ec21",
+    "https://www.loc.gov/item/73694530/"
+  ],
+  "dct_issued_s": "1870",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964m/pm009010.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73694530/\"}",
+  "dct_spatial_sm": [
+    "memphis",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Memphis (Tenn.)--Maps",
+    "United States--Tennessee--Memphis"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ],
+  "dct_title_s": "Bird's eye view of the city of Memphis, Tennessee 1870",
+  "gbl_dateRange_drsim": [
+    "[1870 TO 1870]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1870
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73694530",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

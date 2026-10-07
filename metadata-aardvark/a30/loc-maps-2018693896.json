@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Меркаторская карта Берингова моря с северо-восточным берегом Азии, между мысами Олюторским и Чукотским. Снята с карты капитана Литке, дополнена описью Анадырской губы, произведенной в 1847 г. на судах Российской-Американской Компании ... 1849"
+  ],
+  "dct_description_sm": [
+    "Contributors: Hydrographic Department of the Ministry of Marine , associated name; Litke, Fedor Petrovich, 1797-1882 , creator",
+    "Fedor Petrovich Litke was a Russian naval officer, geographer, and explorer. In 1826-29, as captain of the ship Seniavin, he completed his second circumnavigation of the world. On this voyage, he mapped the western coastline of the Bering Sea. He subsequently published, in French and Russian, an eight-volume account of his explorations that included numerous maps and plans. This mid-19th-century Russian map, produced by the Ministry of Marine, is based on one of Litke's maps. It shows sandbars, notations of depth in sazhens, and anchorages. Relief is shown by shading, and notations of height are given in feet. The supplemental maps at the top are of the mouth of the Anadyr' River and the Seniavin Strait. World Digital Library.",
+    "Original map at: National Library of Russia",
+    "Pokazany: otmeli, otmetki glubin v sazheni︠a︡kh i kharakter dna, i︠a︡kornye mesta; rel'ef shtrikhami, otmetki vysot v futakh. Dop. karty: 1. Vkhod k ust'i︠u︡ reki Anadyr'. 2. Proliv Seni︠a︡vina.",
+    "Publication statement: Saint Petersburg, Russia : Gidrograficheskyi Departament Morskogo Ministerstva, 1849.",
+    "Показаны: отмели, отметки глубин в саженях и характер дна, якорные места; рельеф штрихами, отметки высот в футах. Доп. карты: 1. Вход к устью реки Анадырь. 2. Пролив Сенявина."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693896",
+    "http://www.loc.gov/item/2018693896/",
+    "http://www.loc.gov/resource/gdc.2018693896/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.nmap024",
+    "https://search.catalog.loc.gov/instances/bc399c85-1d91-5d5a-adbd-baac73f49232",
+    "https://www.loc.gov/item/2018693896/"
+  ],
+  "dct_issued_s": "1849",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693896.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693896/2018693896.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693896:nmap024/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693896/\"}",
+  "dct_spatial_sm": [
+    "chukotka autonomous okrug",
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Bering Sea",
+    "Chukotka Autonomous Okrug",
+    "Nautical charts",
+    "Pacific Ocean",
+    "Russian Federation"
+  ],
+  "dct_temporal_sm": [
+    "1849"
+  ],
+  "dct_title_s": "Merkatorskai︠a︡ karta Beringova mori︠a︡ s severo-vostochnym beregom Azii, mezhdu mysami Oli︠u︡torskim i Chukotskim. Sni︠a︡ta s karty kapitana Litke, dopolnena opis'i︠u︡ Anadyrskoĭ guby, proizvedennoĭ v 1847 g. na sudakh Rossiĭskoĭ-Amerikanskoĭ Kompanii ... 1849",
+  "gbl_dateRange_drsim": [
+    "[1849 TO 1849]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1849
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693896",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

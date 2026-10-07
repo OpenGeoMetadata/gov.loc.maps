@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No: 20.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Le Rouge, Georges-Louis",
+    "From the author's Pilote américain septentrional. 1778-79. v. 2.",
+    "LC Maps of North America, 1750-1789, 556",
+    "Publication statement: Paris, Chez Le Rouge, 1778-79.",
+    "Relief shown by hachures. Soundings shown in fathoms.",
+    "Relief shown by hachures. Soundings shown in fathoms. \"No: 20.\" From the author's Pilote américain septentrional. 1778-79. v. 2. Scale ca. 1:470,000. LC Maps of North America, 1750-1789, 556 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:470,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3432c.ct008225",
+    "http://lccn.loc.gov/73697050",
+    "http://www.loc.gov/item/73697050/",
+    "http://www.loc.gov/resource/g3432c.ct008225/",
+    "https://hdl.loc.gov/loc.gmd/g3432c.ct008225",
+    "https://search.catalog.loc.gov/instances/6218540e-5774-57f7-a640-2d75ad2cc8f0",
+    "https://www.loc.gov/item/73697050/"
+  ],
+  "dct_issued_s": "1778",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3432/g3432c/ct008225.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73697050/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "chaleur bay",
+    "new brunswick",
+    "québec"
+  ],
+  "dct_subject_sm": [
+    "Canada--New Brunswick--Chaleur Bay",
+    "Canada--Québec--Chaleur Bay",
+    "Chaleur Bay (N.B. and Québec)--Maps--Early works to 1800",
+    "Nautical charts--Chaleur Bay (N.B. and Québec)--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "dct_title_s": "Baye de Chaleur, dans le Golfe St. Laurent, 1778",
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1778
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73697050",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Westphal, Giovanni Enrico",
+    "Date and place of publication from Tooley's Dictionary of mapmakers, 2004.",
+    "Includes inset of Golfo di Salerno.",
+    "LC copy includes several circular and semi-circular pencil annotations.",
+    "Publication statement: [Rome : s.n., 1828]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Date and place of publication from Tooley's Dictionary of mapmakers, 2004. Includes inset of Golfo di Salerno. LC copy includes several circular and semi-circular pencil annotations. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6714n.hl000013",
+    "http://lccn.loc.gov/2009582744",
+    "http://www.loc.gov/item/2009582744/",
+    "http://www.loc.gov/resource/g6714n.hl000013/",
+    "https://hdl.loc.gov/loc.gmd/g6714n.hl000013",
+    "https://search.catalog.loc.gov/instances/37f310ab-3675-5f78-8c04-106bd47b7b78",
+    "https://www.loc.gov/item/2009582744/"
+  ],
+  "dct_issued_s": "1828",
+  "dct_language_sm": [
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6714/g6714n/hl000013.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009582744/\"}",
+  "dct_spatial_sm": [
+    "italy",
+    "naples",
+    "naples region"
+  ],
+  "dct_subject_sm": [
+    "Italy--Naples",
+    "Italy--Naples Region",
+    "Naples (Italy)--Maps",
+    "Naples Region (Italy)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1828"
+  ],
+  "dct_title_s": "Carta de contorni di Napoli",
+  "gbl_dateRange_drsim": [
+    "[1828 TO 1828]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1828
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009582744",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

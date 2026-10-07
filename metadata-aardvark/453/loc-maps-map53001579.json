@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Work Projects Administration (New York, N.Y.). War Services Section, cartographer",
+    "LC copy imperfect: disbound.",
+    "Publication statement: [Washington, DC] : Bureau of the Census, [1943?]",
+    "Title from cover.",
+    "Title from cover. LC copy imperfect: disbound. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map53001579",
+    "http://www.loc.gov/item/map53001579/",
+    "http://www.loc.gov/resource/gmdatlases.map53001579/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.map53001579",
+    "https://search.catalog.loc.gov/instances/97cf62f2-2c29-5744-b47e-2a2b07fc7bf5",
+    "https://www.loc.gov/item/map53001579/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:ma:p5:30:01:57:9:map53001579:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map53001579/\"}",
+  "dct_spatial_sm": [
+    "albany",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Housing--New York (State)--Albany--Maps",
+    "United States--Census, 1940",
+    "United States--New York (State)--Albany"
+  ],
+  "dct_temporal_sm": [
+    "1943",
+    "[Washington, DC] : Bureau of the Census, [1943?]"
+  ],
+  "dct_title_s": "Housing analytical maps Albany, N.Y. : block statistics",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map53001579",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

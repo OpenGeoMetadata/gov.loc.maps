@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bibliography.",
+    "Contributors: California. Seismic Safety Commission",
+    "Includes text, inset of \"Three-quarters of our nation's earthquake losses will be in California,\" and important messages.",
+    "Publication statement: [Sacramento, Calif.] : CSSC, [2002]",
+    "Relief shown by shading.",
+    "Relief shown by shading. Shows level of earthquake hazard. Includes text, inset of \"Three-quarters of our nation's earthquake losses will be in California,\" and important messages. Bibliography. Available also through the Library of Congress Web site as a raster image.",
+    "Shows level of earthquake hazard."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4361c.ct001326",
+    "http://lccn.loc.gov/2003683500",
+    "http://www.loc.gov/item/2003683500/",
+    "http://www.loc.gov/resource/g4361c.ct001326/",
+    "https://hdl.loc.gov/loc.gmd/g4361c.ct001326",
+    "https://search.catalog.loc.gov/instances/ff17c12d-a282-56ee-b0ba-caa6ce68e2a7",
+    "https://www.loc.gov/item/2003683500/"
+  ],
+  "dct_issued_s": "2002",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4361/g4361c/ct001326.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003683500/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Earthquake hazard analysis--California--Maps",
+    "Earthquakes--California--Maps",
+    "Faults (Geology)--California--Maps",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "dct_title_s": "Earthquake shaking potential for California, Spring 2003",
+  "gbl_dateRange_drsim": [
+    "[2002 TO 2002]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003683500",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

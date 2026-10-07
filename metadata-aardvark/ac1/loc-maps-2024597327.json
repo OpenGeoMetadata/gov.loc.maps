@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Black and red pen-and-ink and red watercolor.",
+    "Contributors: Ewen, Daniel, cartographer",
+    "Imperfect: some staining and tears along the edges.",
+    "North oriented towards the upper right.",
+    "North oriented towards the upper right. Black and red pen-and-ink and red watercolor. Imperfect: some staining and tears along the edges. Available also through the Library of Congress Web site as a raster image. vcFY24",
+    "Publication statement: New York : Daniel Ewen & Austin Ewen, city surveyors, 1860.",
+    "vcFY24"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597327",
+    "http://www.loc.gov/item/2024597327/",
+    "http://www.loc.gov/resource/g3814h.ct005916/",
+    "https://hdl.loc.gov/loc.gmd/g3814h.ct005916",
+    "https://search.catalog.loc.gov/instances/c7474b08-b67d-5595-b488-410b48861db7",
+    "https://www.loc.gov/item/2024597327/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd381:g3814:g3814h:ct005916/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597327/\"}",
+  "dct_spatial_sm": [
+    "hoboken",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--New Jersey--Hoboken--Maps",
+    "Real property--New Jersey--Hoboken--Maps",
+    "United States--New Jersey--Hoboken"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Map of property situate at Hoboken, Hudson County, New Jersey belonging to the estate of John G. Coster, decd",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597327",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

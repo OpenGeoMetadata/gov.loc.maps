@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"D'apres les projets de Sir Ch. A. Hartley, sous la direction de Monsieur C. Kühl; faisant suite au recueil de plans comparatifs publié par la commission en 1874.\"",
+    "\"Indiquant l'état du chenal et les travaux entrepris entre 1872 et 1886 inclusivement\"--Prelim. leaves [5]-[6].",
+    "\"The European Commission of the Danube was an early experiment in international organization. It was established in 1856, after the Crimean War, by agreement among Britain, Austria, France, Prussia, Russia, Sardinia, and Turkey. The Danube River rises in the Black Forest of Germany and travels some 3,000 kilometers before reaching the Black Sea. The commission was charged with overseeing projects to improve navigation on the river, one of which was the construction, in 1880-1902, of the Sulina Canal. The headquarters of the commission was established at Galatz (Galaţi), Romania, at that time part of the Ottoman Empire. Charles Hartley of Great Britain was appointed chief engineer. Hartley made the early drafts of these maps in connection with the construction of the canal which, when completed, shortened the route to the sea via the Sulina arm of the Danube delta, the river's main navigation channel.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Carte du Danube et de ses embranchements entre Braïla et la mer / levée en 1870-1871 par Robert Hansford ... corrections en 1886. Scale ca. 1:72,000: plates 1-5.",
+    "Contributors: Commission européenne du Danube; Hartley, Charles A., Sir; Kühl, Charles",
+    "Publication statement: Leipzig : F.A. Brockhaus, 1887.",
+    "Spine title: Travaux de l'embouchure de Soulina."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6032dm.gct00139",
+    "http://lccn.loc.gov/83147914",
+    "http://www.loc.gov/item/83147914/",
+    "http://www.loc.gov/resource/g6032dm.gct00139/",
+    "https://hdl.loc.gov/loc.gmd/g6032dm.gct00139",
+    "https://search.catalog.loc.gov/instances/d3b82894-e365-5948-a0d4-faa86f502667",
+    "https://www.loc.gov/item/83147914/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6m/g6032m/g6032dm/gct00139/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83147914/\"}",
+  "dct_spatial_sm": [
+    "danube river delta",
+    "romania",
+    "ukraine"
+  ],
+  "dct_subject_sm": [
+    "Danube River Delta (Romania and Ukraine)--Maps",
+    "Romania--Danube River Delta",
+    "Ukraine--Danube River Delta"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "Cartes du delta du Danube et plans comparatifs de l'embouchure et des sections fluviales du bras de Soulina indiquant les derniers travaux qui y ont été exécutés",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83147914",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

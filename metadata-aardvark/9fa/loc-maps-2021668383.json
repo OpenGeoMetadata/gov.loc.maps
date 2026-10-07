@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Plano de la Bahia de Todos os Santos situada en la orla meridional del Brasil"
+  ],
+  "dct_description_sm": [
+    "Content in Spanish.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 manuscript map ; 46 x 55 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], [1800 to 1899]",
+    "This 19th-century Spanish navigational map shows Bay of All Saints off the coast of Brazil. Indicated on the map are measurements of the water-depth in the bay, islands, and coastal fortifications and other landmarks.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668383",
+    "http://www.loc.gov/item/2021668383/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_01177/",
+    "http://www.loc.gov/resource/wdl.1177/",
+    "https://hdl.loc.gov/loc.wdl/wdl.1177",
+    "https://www.loc.gov/item/2021668383/"
+  ],
+  "dct_issued_s": "1800-01-01",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_01177.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/01/17/7/wdl_01177/wdl_01177.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:17:7:wdl_01177:cart525840/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668383/\"}",
+  "dct_spatial_sm": [
+    "bahia",
+    "brazil"
+  ],
+  "dct_subject_sm": [
+    "1800 to 1899",
+    "Bays",
+    "Brazil--Bahia"
+  ],
+  "dct_temporal_sm": [
+    "1800-01-01"
+  ],
+  "dct_title_s": "Map of All Saints Bay in the South of Brazil.",
+  "gbl_dateRange_drsim": [
+    "[1800 TO 1800]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1800
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668383",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

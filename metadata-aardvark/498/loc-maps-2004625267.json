@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"803003AI (R02105) 7-03.\"",
+    "\"803003AI (R02105) 7-03.\" Relief shown by shading. Includes note. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes note.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2003]",
+    "Relief shown by shading."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7400.ct002049",
+    "http://lccn.loc.gov/2004625267",
+    "http://www.loc.gov/item/2004625267/",
+    "http://www.loc.gov/resource/g7400.ct002049/",
+    "https://hdl.loc.gov/loc.gmd/g7400.ct002049",
+    "https://search.catalog.loc.gov/instances/dc5d90fd-b2c5-5124-bd2b-0f89ad7f8b00",
+    "https://www.loc.gov/item/2004625267/"
+  ],
+  "dct_issued_s": "2003",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7400/g7400/ct002049.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004625267/\"}",
+  "dct_spatial_sm": [
+    "asia"
+  ],
+  "dct_subject_sm": [
+    "Asia",
+    "Asia--Maps",
+    "Asia--Maps, Physical"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_title_s": "Asia",
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004625267",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

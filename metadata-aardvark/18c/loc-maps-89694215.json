@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Aerial photography taken March 1981.\"",
+    "\"Printed May 1982.\"",
+    "Accompanied by sheet index map: Coverage plan, 1ʺ=400ʹ series photogrammetric base maps of Washington, D.C. : index, scale 1ʺ=3000ʹ. 1 sheet : photocopy, map ; 86 x 125 cm.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Capital Planning Commission. Carto/Graphic Branch",
+    "DCP",
+    "DRM",
+    "Maps numbered: Sheet no. 1 [thru] Sheet no. 16.",
+    "Publication statement: [Washington] : The Commission, [1982]",
+    "Relief shown by contours and spot heights.",
+    "Some maps include blank area.",
+    "Title adapted from title of accompanying index map.",
+    "Topographic maps showing buildings, wooded, and fenced areas.",
+    "Topographic maps showing buildings, wooded, and fenced areas. Relief shown by contours and spot heights. \"Aerial photography taken March 1981.\" Title adapted from title of accompanying index map. \"Printed May 1982.\" Maps numbered: Sheet no. 1 [thru] Sheet no. 16. Accompanied by sheet index map: Coverage plan, 1ʺ=400ʹ series photogrammetric base maps of Washington, D.C. : index, scale 1ʺ=3000ʹ. 1 sheet : photocopy, map ; 86 x 125 cm. Some maps include blank area. Available also through the Library of Congress Web site as a raster image. DRM DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/89694215",
+    "http://www.loc.gov/item/89694215/",
+    "http://www.loc.gov/resource/gmdsetmaps.89694215/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.89694215",
+    "https://search.catalog.loc.gov/instances/e11b3e39-2bd5-5c5f-97f6-a81bf715c369",
+    "https://www.loc.gov/item/89694215/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:89:69:42:15:89694215:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/89694215/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington (d.c.)",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington (D.C.)",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "[1ʺ=40ʹ series photogrammetric base maps of Washington, D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-89694215",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

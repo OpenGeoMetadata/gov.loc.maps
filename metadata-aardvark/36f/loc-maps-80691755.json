@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Folded title: Gulf Islands, national seashore, Mississippi/Florida.",
+    "Folded title: Gulf Islands, national seashore, Mississippi/Florida. Includes text and maps of \"West Ship Island (Miss.),\" \"Davis Bayou (Miss.),\" and \"Fort Pickens, Historic Forts, and Naval Live Oaks (Fla.)\" Text and col. ill. on verso. Scale ca. 1:600,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes text and maps of \"West Ship Island (Miss.),\" \"Davis Bayou (Miss.),\" and \"Fort Pickens, Historic Forts, and Naval Live Oaks (Fla.)\"",
+    "Publication statement: [Washington] : The Service, [1980]",
+    "Scale ca. 1:600,000.",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3867g.ct008873",
+    "http://lccn.loc.gov/80691755",
+    "http://www.loc.gov/item/80691755/",
+    "http://www.loc.gov/resource/g3867g.ct008873/",
+    "https://hdl.loc.gov/loc.gmd/g3867g.ct008873",
+    "https://search.catalog.loc.gov/instances/f8ebf230-bba9-5158-a9bf-1e9e1a310780",
+    "https://www.loc.gov/item/80691755/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3867/g3867g/ct008873.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80691755/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "gulf islands national seashore",
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gulf Islands National Seashore (Fla. and Miss.)--Maps",
+    "United States--Florida--Gulf Islands National Seashore",
+    "United States--Mississippi--Gulf Islands National Seashore"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Gulf Islands",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80691755",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

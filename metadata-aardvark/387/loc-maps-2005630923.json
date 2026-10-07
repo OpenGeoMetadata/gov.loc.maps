@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Browne, Christopher, active 1684-1712",
+    "Date and attribution from On the Map, 1983 (Figure 24).",
+    "First state of map published originally in 1685 by Christopher Browne with the imprint in the cartouche under the title. No longitude lines are given.",
+    "LC copy annotated with pencil in bottom margin.",
+    "LC copy imperfect: Loose binding along bottom margin.",
+    "Publication statement: London : Sold by Christopher Browne at the Globe near west end of St. Pauls Church, [1685?]",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Relief shown pictorially. Depths shown by soundings. Date and attribution from On the Map, 1983 (Figure 24). First state of map published originally in 1685 by Christopher Browne with the imprint in the cartouche under the title. No longitude lines are given. LC copy annotated with pencil in bottom margin. Stamped and annotated in blue ink on verso: 24. LC copy imperfect: Loose binding along bottom margin. Available also through the Library of Congress Web site as a raster image.",
+    "Stamped and annotated in blue ink on verso: 24."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3790.ct004098",
+    "http://lccn.loc.gov/2005630923",
+    "http://www.loc.gov/item/2005630923/",
+    "http://www.loc.gov/resource/g3790.ct004098/",
+    "https://hdl.loc.gov/loc.gmd/g3790.ct004098",
+    "https://search.catalog.loc.gov/instances/99e5f994-05e9-5737-ab54-956dfb38a26f",
+    "https://www.loc.gov/item/2005630923/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd379/g3790/g3790/ct004098.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005630923/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "middle atlantic states",
+    "new jersey",
+    "pennsylvania",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Maryland--Maps--Early works to 1800",
+    "Middle Atlantic States--Maps--Early works to 1800",
+    "New Jersey--Maps--Early works to 1800",
+    "Pennsylvania--Maps--Early works to 1800",
+    "United States--Maryland",
+    "United States--Middle Atlantic States",
+    "United States--New Jersey",
+    "United States--Pennsylvania",
+    "United States--Virginia",
+    "Virginia--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1685",
+    "London : Sold by Christopher Browne at the Globe near west end of St. Pauls Church, [1685?]"
+  ],
+  "dct_title_s": "A new map of Virginia, Maryland, and the improved parts of Pennsylvania & New Jersey",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005630923",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

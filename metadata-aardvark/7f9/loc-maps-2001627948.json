@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Robert Sayer and John Bennett (Firm)",
+    "Control no. 2001-30",
+    "Differs from other copies in coloration.",
+    "Includes article III of the Treaty.",
+    "LC Maps of North America, 1750-1789, 752",
+    "Prime meridians: Ferro and London.",
+    "Publication statement: London : Printed for Robert Sayer, 1783",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Differs from other copies in coloration. Prime meridians: Ferro and London. Includes article III of the Treaty. LC Maps of North America, 1750-1789, 752 Available also through the Library of Congress Web site as a raster image. Control no. 2001-30"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.ar075202",
+    "http://lccn.loc.gov/2001627948",
+    "http://www.loc.gov/item/2001627948/",
+    "http://www.loc.gov/resource/g3700.ar075202/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ar075202",
+    "https://search.catalog.loc.gov/instances/1c4ab24d-8a19-5bf6-956a-7bd4e79fae89",
+    "https://www.loc.gov/item/2001627948/"
+  ],
+  "dct_issued_s": "1783",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ar075202.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001627948/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "eastern",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada, Eastern--Maps--Early works to 1800",
+    "France.--Treaties, etc.--Great Britain,--1783 September 3--Maps--Early works to 1800",
+    "United States",
+    "United States--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1783"
+  ],
+  "dct_title_s": "The United States of America with the British possessions of Canada, Nova Scotia, New Brunswick and Newfoundland divided with the French, also the Spanish territories of Louisiana and Florida, according to the preliminary articles of peace signed at Versailles the 20th of Jany. 1783",
+  "gbl_dateRange_drsim": [
+    "[1783 TO 1783]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1783
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001627948",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

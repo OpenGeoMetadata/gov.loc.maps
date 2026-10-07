@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 650/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Contributors: Brooklyn. City Surveyor; Franklin & Jenkins; Graves, Roswell; Miller & Co",
+    "Includes text and inset.",
+    "Oriented with north to the left.",
+    "Oriented with north to the left. Cadastral map. Includes text and inset. Scale not given. Available also through the Library of Congress Web site as a raster image. AACR2: 651/1; 650/2",
+    "Publication statement: [Brooklyn] Franklin & Jenkins [1836?]",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct006669",
+    "http://lccn.loc.gov/78692675",
+    "http://www.loc.gov/item/78692675/",
+    "http://www.loc.gov/resource/g3804n.ct006669/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct006669",
+    "https://search.catalog.loc.gov/instances/11cda18e-3805-5a4f-95ca-ce9e3c970f40",
+    "https://www.loc.gov/item/78692675/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct006669.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78692675/\"}",
+  "dct_spatial_sm": [
+    "brooklyn",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Brooklyn (New York, N.Y.)--Maps",
+    "Real property--New York (State)--New York--Maps",
+    "United States--New York (State)--New York",
+    "United States--New York (State)--New York--Brooklyn"
+  ],
+  "dct_temporal_sm": [
+    "1836",
+    "[Brooklyn] Franklin & Jenkins [1836?]"
+  ],
+  "dct_title_s": "Map of valuable property in the 6th ward of the city of Brooklyn belonging to John Dikeman & others to be sold by Franklin & Jenkins on Monday, 29th August, 1836 at 12 o'colck at their sales room, 15 Broad St",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78692675",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

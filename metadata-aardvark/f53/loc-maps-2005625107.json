@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In ink in upper left corner: No. 4.",
+    "In pencil on verso: 139.",
+    "LC Civil War maps (2nd ed.), H200",
+    "Pen-and-ink and pencil over grid, mounted on cloth.",
+    "Publication statement: [1875]",
+    "Shows latitude of Virginia.",
+    "Shows latitude of Virginia. Title, date, and scale from Stephenson's Civil War maps, 1989. Pen-and-ink and pencil over grid, mounted on cloth. In ink in upper left corner: No. 4. In pencil on verso: 139. LC Civil War maps (2nd ed.), H200 Available also through the Library of Congress web site as raster image.",
+    "Title, date, and scale from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.cwh00200",
+    "http://lccn.loc.gov/2005625107",
+    "http://www.loc.gov/item/2005625107/",
+    "http://www.loc.gov/resource/g3200.cwh00200/",
+    "https://hdl.loc.gov/loc.gmd/g3200.cwh00200",
+    "https://search.catalog.loc.gov/instances/d844cb6e-325e-5303-bd1f-369fd3449715",
+    "https://www.loc.gov/item/2005625107/"
+  ],
+  "dct_issued_s": "1875",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/cwh00200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625107/\"}",
+  "dct_spatial_sm": [
+    "earth"
+  ],
+  "dct_subject_sm": [
+    "Earth",
+    "World maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "dct_title_s": "[Map of the world on the Mercator projection]",
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1875
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625107",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

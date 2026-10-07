@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Black, brown, and red inks.",
+    "Cited in preliminary cataloging: Toner collection 10.",
+    "Contributors: King, N. (Nicholas), 1771-1812",
+    "Covers area bounded by 9th, 11th, G, nd I streets N.W.",
+    "Covers area bounded by 9th, 11th, G, nd I streets N.W. Shows house and graveyard dimensions, block dimensions, and block numbers. Black, brown, and red inks. Watermarked (fleur-de-lis under crown). Mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Phillips. Washington, 65 Cited in preliminary cataloging: Toner collection 10. Vault DCP",
+    "DCP",
+    "Mounted on cloth backing.",
+    "Phillips. Washington, 65",
+    "Publication statement: [1796?]",
+    "Shows house and graveyard dimensions, block dimensions, and block numbers.",
+    "Vault",
+    "Watermarked (fleur-de-lis under crown)."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851g.ct003608",
+    "http://lccn.loc.gov/88690729",
+    "http://www.loc.gov/item/88690729/",
+    "http://www.loc.gov/resource/g3851g.ct003608/",
+    "https://hdl.loc.gov/loc.gmd/g3851g.ct003608",
+    "https://search.catalog.loc.gov/instances/964fd3ae-5623-540d-abd5-d8960d584e31",
+    "https://www.loc.gov/item/88690729/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851g/ct003608.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690729/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Burnes, David,--1739-1799.--Homes and haunts--Washington (D.C.)--Maps",
+    "Burns, James--Homes and haunts--Washington (D.C.)--Maps",
+    "Manuscript maps",
+    "Real property--Washington (D.C.)--Maps--Early works to 1800",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1796",
+    "[1796?]"
+  ],
+  "dct_title_s": "Map of that part of the city of Washington on which is situated a house and graveyard belonging to David Burns : at present occupied by James Burns",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690729",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

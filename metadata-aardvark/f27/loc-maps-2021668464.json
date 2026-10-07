@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Entebbe: Uganda, Africa 1: 250,000"
+  ],
+  "dct_description_sm": [
+    "\"From the Uganda National Fisheries Resources Research Institute. Digitized at the National Library of Uganda with support from the Carnegie Corporation of New York.\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Great Britain. War Office. General Staff. Geographical Section Contributor.; Uganda Topographical Survey Associated Name.; Uganda. Survey Department Surveyor.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Uganda.",
+    "Original resource extent: 1 folded map, 65 x 59 centimeters.",
+    "Publication statement: London : Printed at the War Office, 1911.",
+    "This 1911 map shows Entebbe, the seat of government of the Protectorate of Uganda prior to independence in 1962. It is based on surveys by the Uganda Topographical Survey of 1909--10 and the Uganda Survey Department of 1907--8, completed by the Geographical Section of the General Staff, and printed at the War Office in London. Depicted are the counties, kingdoms, water springs, and major towns within and around Entebbe, along with telegraph lines and stations, railways, post offices, and Protestant and Catholic mission stations. Five categories of roads are shown, from \"1st class, metalled roads\" to \"minor bush tracks.\" A note indicates: \"The Country generally is covered with thin scattered bush. For the sake of clearness, only forest and thick bush are shown.\" Entebbe is located on the northern shore of Lake Victoria, Africa's largest lake, approximately 37 kilometers southwest of Kampala, the capital of Uganda. It is the location of Entebbe International Airport, Uganda's largest commercial and military airport, best known for the dramatic rescue in 1976 of more than 100 Israeli citizens held hostage on a hijacked French airliner by Arab and German terrorists.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668464",
+    "http://www.loc.gov/item/2021668464/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_09942/",
+    "http://www.loc.gov/resource/wdl.9942/",
+    "https://hdl.loc.gov/loc.wdl/wdl.9942",
+    "https://www.loc.gov/item/2021668464/"
+  ],
+  "dct_issued_s": "1911-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_09942.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/09/94/2/wdl_09942/wdl_09942.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:09:94:2:wdl_09942:NaFiRRI_0043/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668464/\"}",
+  "dct_spatial_sm": [
+    "central",
+    "entebbe",
+    "uganda"
+  ],
+  "dct_subject_sm": [
+    "1911",
+    "Protectorates",
+    "Uganda--Central--Entebbe",
+    "Victoria, Lake"
+  ],
+  "dct_temporal_sm": [
+    "1911-01-01"
+  ],
+  "dct_title_s": "Entebbe, Uganda, Africa.",
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1911
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668464",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

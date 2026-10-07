@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Smith, J. Calvin (John Calvin)",
+    "Description derived from published bibliography.",
+    "Detailed township and county map showing place names and some indication of drainage and relief.",
+    "Insets: 15 miles around Boston. 13 x 30 cm.--15 miles around New York. 14 x 14 cm.",
+    "LC Railroad maps, 106",
+    "Publication statement: New York, 1850.",
+    "Scale [ca. 1:1,550,000]."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3716p.rr001060",
+    "http://lccn.loc.gov/98688381",
+    "http://www.loc.gov/item/98688381/",
+    "http://www.loc.gov/resource/g3716p.rr001060/",
+    "https://hdl.loc.gov/loc.gmd/g3716p.rr001060",
+    "https://search.catalog.loc.gov/instances/823cf7d3-11c4-519c-9b5f-7a102ecb5b75",
+    "https://www.loc.gov/item/98688381/"
+  ],
+  "dct_issued_s": "1850",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3716/g3716p/rr001060.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688381/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "new england",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Transportation--Middle Atlantic States--Maps",
+    "Transportation--New England--Maps",
+    "United States--Middle Atlantic States",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "dct_title_s": "Sherman & Smith's railroad, steam boat & stage route map of New England, New-York and Canada",
+  "gbl_dateRange_drsim": [
+    "[1850 TO 1850]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1850
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688381",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

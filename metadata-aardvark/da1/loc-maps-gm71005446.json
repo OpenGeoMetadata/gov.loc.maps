@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"For the Pennsa. Mag. p. 184.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Aitken, Robert, 1735-1802; Du Simitière, Pierre Eugène, approximately 1736-1784",
+    "Hand colored.",
+    "Hand colored. \"For the Pennsa. Mag. p. 184.\" Scale ca. 1:700,000. LC Maps of North America, 1750-1789, 1442 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "LC Maps of North America, 1750-1789, 1442",
+    "Publication statement: [Philadelphia, 1776]",
+    "Scale ca. 1:700,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.ar144200",
+    "http://lccn.loc.gov/gm71005446",
+    "http://www.loc.gov/item/gm71005446/",
+    "http://www.loc.gov/resource/g3880.ar144200/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ar144200",
+    "https://search.catalog.loc.gov/instances/52827919-3600-5964-90df-ded64052fb73",
+    "https://www.loc.gov/item/gm71005446/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ar144200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005446/\"}",
+  "dct_spatial_sm": [
+    "chesapeake bay",
+    "maryland",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Chesapeake Bay (Md. and Va.)--Maps--Early works to 1800",
+    "United States--Maryland--Chesapeake Bay",
+    "United States--Virginia",
+    "United States--Virginia--Chesapeake Bay",
+    "Virginia--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "Map of the maritime parts of Virginia exhibiting the seat of war and of Ld. Dunmore's depredations in that colony",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005446",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

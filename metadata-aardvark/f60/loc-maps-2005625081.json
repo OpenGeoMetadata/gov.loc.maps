@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In pencil on verso: 99.",
+    "Includes notes.",
+    "Library of Congress. Civil War maps (2nd ed.), H174",
+    "Pen-and-ink and pencil (some col.), mounted on cloth.",
+    "Relief shown by hachures.",
+    "Shows Confederate troop positions and movements and names of some residents.",
+    "Shows Confederate troop positions and movements and names of some residents. Relief shown by hachures. Title from Stephenson's Civil War maps, 1989. Pen-and-ink and pencil (some col.), mounted on cloth. Similar to the map reproduced in the Atlas to accompany the official records of the Union and Confederate Armies, 1891-95, pl. 84, no. 8. Includes notes. In pencil on verso: 99. Library of Congress. Civil War maps (2nd ed.), H174 Available also through the Library of Congress web site as raster image.",
+    "Similar to the map reproduced in the Atlas to accompany the official records of the Union and Confederate Armies, 1891-95, pl. 84, no. 8.",
+    "Title from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884g.cwh00174",
+    "http://lccn.loc.gov/2005625081",
+    "http://www.loc.gov/item/2005625081/",
+    "http://www.loc.gov/resource/g3884g.cwh00174/",
+    "https://hdl.loc.gov/loc.gmd/g3884g.cwh00174",
+    "https://search.catalog.loc.gov/instances/9559fbf0-36ec-51be-8e8d-eb3370866faf",
+    "https://www.loc.gov/item/2005625081/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884g/cwh00174.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625081/\"}",
+  "dct_spatial_sm": [
+    "gordonsville region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Gordonsville Region (Va.)--History--Civil War, 1861-1865--Maps",
+    "Landowners--Virginia--Gordonsville Region--Maps",
+    "United States--Virginia--Gordonsville Region"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "[Sketch of the cavalry engagement of General Lomax near Gordonsville, Virginia, Dec. 24th, 1864]",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625081",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

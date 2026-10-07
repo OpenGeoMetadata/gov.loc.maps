@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Becker, M. J.; Klauprech & Menzel",
+    "Inset: Map of Coshocton and Roscoe.",
+    "Inset: Map of Coshocton and Roscoe. LC Land ownership maps, 611 Available also through the Library of Congress Web site as a raster image.",
+    "LC Land ownership maps, 611",
+    "Publication statement: Cincinnati : Klauprech & Menzel's Lith.; Mt. Vernon, O. : M. J. Becker, [185-?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4083c.la000611",
+    "http://lccn.loc.gov/2012592208",
+    "http://www.loc.gov/item/2012592208/",
+    "http://www.loc.gov/resource/g4083c.la000611/",
+    "https://hdl.loc.gov/loc.gmd/g4083c.la000611",
+    "https://search.catalog.loc.gov/instances/2922f2a0-0f96-58db-b27d-78d47b0fec43",
+    "https://www.loc.gov/item/2012592208/"
+  ],
+  "dct_issued_s": "1850",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4083/g4083c/la000611.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592208/\"}",
+  "dct_spatial_sm": [
+    "coshocton county",
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Ohio--Coshocton County--Maps",
+    "Real property--Ohio--Coshocton County--Maps",
+    "United States--Ohio--Coshocton County"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "dct_title_s": "Map of Coshocton County, Ohio",
+  "gbl_dateRange_drsim": [
+    "[1850 TO 1850]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1850
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592208",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

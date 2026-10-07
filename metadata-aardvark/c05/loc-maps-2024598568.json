@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Douglass, David Bates, 1790-1849, cartographer",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [New York] : [David Bates Douglass], [1835?]",
+    "Title supplied by cataloger.",
+    "vcFY25",
+    "vcFY25 Title supplied by cataloger. Pen-and-ink and watercolor. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024598568",
+    "http://www.loc.gov/item/2024598568/",
+    "http://www.loc.gov/resource/g3802n.ct005646/",
+    "https://hdl.loc.gov/loc.gmd/g3802n.ct005646",
+    "https://search.catalog.loc.gov/instances/41249819-0858-5394-8a1b-8b3b62258132",
+    "https://www.loc.gov/item/2024598568/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3802:g3802n:ct005646/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024598568/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "new york",
+    "new york (state)",
+    "niagara falls",
+    "niagara falls (n.y. )",
+    "niagara falls (ont.)",
+    "ontario",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--Ontario--Niagara Falls (Ont.)",
+    "Niagara Falls (N.Y. and Ont.)--Maps",
+    "United States--New York (State)--Niagara Falls (N.Y. )"
+  ],
+  "dct_temporal_sm": [
+    "1835",
+    "[New York] : [David Bates Douglass], [1835?]"
+  ],
+  "dct_title_s": "[Map of Niagara Falls]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024598568",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotated catalogue of old Korean atlases and maps in the Library of Congress, p. 10, McCune #4",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Form AACR2: ga37 2006-01-31",
+    "Publication statement: [18--?]",
+    "Purchased from Shannon McCune in 1982.",
+    "Romanized.",
+    "Romanized. Purchased from Shannon McCune in 1982. Annotated catalogue of old Korean atlases and maps in the Library of Congress, p. 10, McCune #4 Available also through the Library of Congress Web site as a raster image. Form AACR2: ga37 2006-01-31"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7900m.gct00119",
+    "http://lccn.loc.gov/83675024",
+    "http://www.loc.gov/item/83675024/",
+    "http://www.loc.gov/resource/g7900m.gct00119/",
+    "https://hdl.loc.gov/loc.gmd/g7900m.gct00119",
+    "https://search.catalog.loc.gov/instances/d8842585-5fdf-5050-8b15-bc4c2bfc4fd4",
+    "https://www.loc.gov/item/83675024/"
+  ],
+  "dct_language_sm": [
+    "korean"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7m/g7900m/g7900m/gct00119/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83675024/\"}",
+  "dct_spatial_sm": [
+    "korea"
+  ],
+  "dct_subject_sm": [
+    "Korea",
+    "Korea--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[18--?]"
+  ],
+  "dct_title_s": "Yŏjido",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83675024",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

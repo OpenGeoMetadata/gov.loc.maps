@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Cadastral map. Relief shown by shading. Pen-and-ink and watercolor. LC Luso-Hispanic World, 395 Available also through the Library of Congress Web site as a raster image. Vault",
+    "LC Luso-Hispanic World, 395",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1807?]",
+    "Relief shown by shading.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4954s.lh000395",
+    "http://lccn.loc.gov/2008628123",
+    "http://www.loc.gov/item/2008628123/",
+    "http://www.loc.gov/resource/g4954s.lh000395/",
+    "https://hdl.loc.gov/loc.gmd/g4954s.lh000395",
+    "https://search.catalog.loc.gov/instances/45c40268-a7a2-564c-9ff3-d52b9e05e2b9",
+    "https://www.loc.gov/item/2008628123/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4954/g4954s/lh000395.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008628123/\"}",
+  "dct_spatial_sm": [
+    "dominican republic",
+    "santa bárbara de samaná region"
+  ],
+  "dct_subject_sm": [
+    "Dominican Republic--Santa Bárbara de Samaná Region",
+    "Santa Bárbara de Samaná Region (Dominican Republic)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1807",
+    "[1807?]"
+  ],
+  "dct_title_s": "Plan des environs du Port Napoléon dans la Baye de Samana depuis la Baye de las Cañitas Jusqu' a la Pointe á Mangle",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008628123",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

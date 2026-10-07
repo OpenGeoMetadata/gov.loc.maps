@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Gateway",
+    "Gateway National Recreation Area",
+    "Title at head of text: Gateway",
+    "Title in upper border: Gateway National Recreation Area"
+  ],
+  "dct_description_sm": [
+    "\"*GPO:2005--310-394/00292. Reprint 2005.\"",
+    "\"*GPO:2005--310-394/00292. Reprint 2005.\" Title from panel. Includes text and col. ill. Text and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and col. ill.",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2005]",
+    "Text and ill. (some col.) on verso.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3812g.ct006770",
+    "http://lccn.loc.gov/2005626516",
+    "http://www.loc.gov/item/2005626516/",
+    "http://www.loc.gov/resource/g3812g.ct006770/",
+    "https://hdl.loc.gov/loc.gmd/g3812g.ct006770",
+    "https://search.catalog.loc.gov/instances/436c8932-064f-525e-b31d-21b1fae214f1",
+    "https://www.loc.gov/item/2005626516/"
+  ],
+  "dct_issued_s": "2005",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3812/g3812g/ct006770.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005626516/\"}",
+  "dct_spatial_sm": [
+    "gateway national recreation area",
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gateway National Recreation Area (N.J. and N.Y.)--Maps",
+    "United States--New Jersey--Gateway National Recreation Area",
+    "United States--New York (State)--Gateway National Recreation Area"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "dct_title_s": "Gateway--Gateway National Recreation Area, New York-New Jersey",
+  "gbl_dateRange_drsim": [
+    "[2005 TO 2005]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005626516",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

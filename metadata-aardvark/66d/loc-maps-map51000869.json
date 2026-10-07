@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: New York (N.Y.). Board of Estimate and Apportionment, cartographer, publisher; Tuttle, Arthur S. (Arthur Smith), 1865-1949, contributor",
+    "On each leaf: copyright 1924, Arthur S. Tuttle, Chief Engineer.",
+    "Publication statement: City of New York : Board of Estimate and Apportionment, July 1, 1924.",
+    "Title from cover.",
+    "Title from cover. On each leaf: copyright 1924, Arthur S. Tuttle, Chief Engineer. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map51000869",
+    "http://www.loc.gov/item/map51000869/",
+    "http://www.loc.gov/resource/gmdatlases.map51000869/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.map51000869",
+    "https://search.catalog.loc.gov/instances/6fedd10c-9ff0-5cf5-be4c-b851a1ccf302",
+    "https://www.loc.gov/item/map51000869/"
+  ],
+  "dct_issued_s": "1924",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:ma:p5:10:00:86:9:map51000869:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map51000869/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States--New York (State)--New York",
+    "Zoning--New York (State)--New York--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "dct_title_s": "Height district map",
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1924]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1924
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map51000869",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

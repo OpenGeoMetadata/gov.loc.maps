@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brion de la Tour, Louis, 1743-1803; Desnos, Louis-Charles, 1725-1805",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Includes decorative border. Scale ca. 1:6,300,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 741 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1; 700/1",
+    "Includes decorative border.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 741",
+    "Publication statement: Paris, Chez le S. Desnos [1780?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:6,300,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.ar074100",
+    "http://hdl.loc.gov/loc.gmd/g3700.ar074101",
+    "http://lccn.loc.gov/74692137",
+    "http://www.loc.gov/item/74692137/",
+    "http://www.loc.gov/resource/g3700.ar074100/",
+    "http://www.loc.gov/resource/g3700.ar074101/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ar074100",
+    "https://hdl.loc.gov/loc.gmd/g3700.ar074101",
+    "https://search.catalog.loc.gov/instances/b863a043-7db7-5346-b272-dda4bde93c2d",
+    "https://www.loc.gov/item/74692137/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ar074100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692137/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1780",
+    "Paris, Chez le S. Desnos [1780?]"
+  ],
+  "dct_title_s": "Carte des États-Unis de l'Amérique septentrionale, dressée d'après des cartes anglaises",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692137",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

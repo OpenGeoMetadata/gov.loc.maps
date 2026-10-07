@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Seutter, Matthaeus, 1678-1756",
+    "In upper right corner: II7.",
+    "Publication statement: [S.l.] : Matth. Seutter, [17--?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. In upper right corner: II7. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7421e.ct002469",
+    "http://lccn.loc.gov/2009580105",
+    "http://www.loc.gov/item/2009580105/",
+    "http://www.loc.gov/resource/g7421e.ct002469/",
+    "https://hdl.loc.gov/loc.gmd/g7421e.ct002469",
+    "https://search.catalog.loc.gov/instances/c32d3a57-e4a9-5334-8d8f-520acd49a15d",
+    "https://www.loc.gov/item/2009580105/"
+  ],
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7421/g7421e/ct002469.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009580105/\"}",
+  "dct_spatial_sm": [
+    "middle east"
+  ],
+  "dct_subject_sm": [
+    "Hermitages--Middle East--Maps--Early works to 1800",
+    "Middle East",
+    "Middle East--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "17??",
+    "[S.l.] : Matth. Seutter, [17--?]"
+  ],
+  "dct_title_s": "Deserta Aegypti, Thebaidis, Arabiae, Syriae etc. ubi accurata notata sunt loca inhabitata per Sanctos Patres Anachoretas",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009580105",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

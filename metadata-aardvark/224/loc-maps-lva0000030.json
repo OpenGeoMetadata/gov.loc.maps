@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Krebs, Charles G.; Lindenkohl, H. (Henry); Rusling, James Fowler, 1834-1918.; United States Coast Survey.",
+    "Mar. 2002; source unknown; Map Cataloging Team.",
+    "Publication statement: [Washington, D.C.] : The Survey, [ca. 1864].",
+    "Relief shown by shading.",
+    "Relief shown by shading. This item is in the Map Collection of the Library of Virginia; please contact the Library's Archives Research Services department for more information. Swem, C.E. Maps relating to Virginia, 1201 Available also through the Library of Congress web site as raster image. Mar. 2002; source unknown; Map Cataloging Team.",
+    "Swem, C.E. Maps relating to Virginia, 1201",
+    "This item is in the Map Collection of the Library of Virginia; please contact the Library's Archives Research Services department for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/glva01.lva00030",
+    "http://www.loc.gov/item/lva0000030/",
+    "http://www.loc.gov/resource/glva01.lva00030/",
+    "https://hdl.loc.gov/loc.ndlpcoop/glva01.lva00030",
+    "https://www.loc.gov/item/lva0000030/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdlva/glva/glva01/lva00030.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/lva0000030/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "North Carolina--History--Civil War, 1861-1865--Maps",
+    "United States--North Carolina",
+    "United States--Virginia",
+    "Virginia--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1864-01-01",
+    "[Washington, D.C.] : The Survey, [ca. 1864]."
+  ],
+  "dct_title_s": "Middle Virginia and North Carolina",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-lva0000030",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

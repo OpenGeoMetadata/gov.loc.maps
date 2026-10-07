@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Longitude occidentale du meridien de Paris.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Le Rouge, Georges-Louis",
+    "From the author's Atlas général contenant. 1741-62.",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"Longitude occidentale du meridien de Paris.\" From the author's Atlas général contenant. 1741-62. Inset: L'isle de Bourbon ou Mascareigne. Scale ca. 1:200,000. LC Maps of North America, 1750-1789, 2007 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Inset: L'isle de Bourbon ou Mascareigne.",
+    "LC Maps of North America, 1750-1789, 2007",
+    "Publication statement: Paris [1741-62]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:200,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5070.ar200700",
+    "http://lccn.loc.gov/75693280",
+    "http://www.loc.gov/item/75693280/",
+    "http://www.loc.gov/resource/g5070.ar200700/",
+    "https://hdl.loc.gov/loc.gmd/g5070.ar200700",
+    "https://search.catalog.loc.gov/instances/e1e10e52-4cfe-5236-8a23-30adc74035d1",
+    "https://www.loc.gov/item/75693280/"
+  ],
+  "dct_issued_s": "1741",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5070/g5070/ar200700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693280/\"}",
+  "dct_spatial_sm": [
+    "guadeloupe",
+    "réunion"
+  ],
+  "dct_subject_sm": [
+    "Guadeloupe",
+    "Guadeloupe--Maps--Early works to 1800",
+    "Réunion--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1741"
+  ],
+  "dct_title_s": "La Guadeloupe dediée a Mgr. Charles Philippe d'Albert duc de Luynes, pair de France chevalier commandeur des ordres du roy, seigneur usufruitier, du duché de Chevreuse, des comtés de Montfort, prevôté, et seigneurie d'Houdan y réunis, marquis de Dangeau, baron de St. Hermine, et autres lieux",
+  "gbl_dateRange_drsim": [
+    "[1741 TO 1741]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1741
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693280",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

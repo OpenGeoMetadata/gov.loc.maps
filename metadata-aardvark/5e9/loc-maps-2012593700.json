@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Bladen County, North Carolina"
+  ],
+  "dct_description_sm": [
+    "\"Published by order of the Board of County Commissioners.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing the names of landowners.",
+    "Contributors: Ed. W. Welcke & Bro; Gillespie, J. F.; McDuffie, John",
+    "Copy imperfect: Torn along top right corner, minor losses in lower right corner, and mounted on cloth.",
+    "Includes text and key with use of color.",
+    "LC Land ownership maps, 583",
+    "Oriented with north toward the upper left.",
+    "Publication statement: Raleigh, N.C. : Thos. C. Harris, 1885.",
+    "Relief shown by contours.",
+    "Relief shown by contours. Cadastral map showing the names of landowners. Oriented with north toward the upper left. \"Published by order of the Board of County Commissioners.\" Includes text and key with use of color. Copy imperfect: Torn along top right corner, minor losses in lower right corner, and mounted on cloth. LC Land ownership maps, 583 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3903b.la000583",
+    "http://lccn.loc.gov/2012593700",
+    "http://www.loc.gov/item/2012593700/",
+    "http://www.loc.gov/resource/g3903b.la000583/",
+    "https://hdl.loc.gov/loc.gmd/g3903b.la000583",
+    "https://search.catalog.loc.gov/instances/08e0895c-7ebf-5553-b82c-57e908e7ea72",
+    "https://www.loc.gov/item/2012593700/"
+  ],
+  "dct_issued_s": "1885",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3903/g3903b/la000583.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593700/\"}",
+  "dct_spatial_sm": [
+    "bladen county",
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Bladen County (N.C.)--Maps",
+    "Landowners--North Carolina--Bladen County--Maps",
+    "Real property--North Carolina--Bladen County--Maps",
+    "Roads--North Carolina--Bladen County--Maps",
+    "United States--North Carolina--Bladen County"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "dct_title_s": "Map of Bladen County, North Carolina",
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1885]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1885
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593700",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

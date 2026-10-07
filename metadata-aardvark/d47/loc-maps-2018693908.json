@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Меркаторская карта представляющая Ледовитое море Берингов пролив и часть Восточнаго океана с берегами Чукотской земли и Северной Америки"
+  ],
+  "dct_description_sm": [
+    "Cherno-belai︠a︡. Sostavlena po opisi︠a︡m 1820-1821gg. Kartograficheskai︠a︡ setka cherez 5°, vykhody koordinat cherez 1°; schet dolgot ot Grinvicha.",
+    "Cherno-belai︠a︡. Sostavlena po opisi︠a︡m 1820-1821gg. Kartograficheskai︠a︡ setka cherez 5°, vykhody koordinat cherez 1°; schet dolgot ot Grinvicha. Pokazany: chasti Azii i Sev.Ameriki, vydelena beregovai︠a︡ linii︠a︡, ostrogi, zimov'i︠a︡, marshruty plavaniĭ rossiĭskikh moreplavateleĭ v kont︠s︡e XVIII -nach. XIX vv.; granit︠s︡y l'dov (sploshnogo, nepodvizhnogo), meli, otmetki glubin v zal. Norton [v sazheni︠a︡kh], rel'ef shtrikha. Original map at: National Library of Russia Черно-белая. Составлена по описям 1820-1821гг. Картографическая сетка через 5°, выходы координат через 1°; счет долгот от Гринвича. Показаны: части Азии и Сев.Америки, выделена береговая линия, остроги, зимовья, маршруты плаваний российских мореплавателей в конце XVIII -нач. XIX вв.; границы льдов (сплошного, неподвижного), мели, отметки глубин в зал. Нортон [в саженях], рельеф штриха.",
+    "Contributors: Vasil'ev",
+    "Original map at: National Library of Russia",
+    "Pokazany: chasti Azii i Sev.Ameriki, vydelena beregovai︠a︡ linii︠a︡, ostrogi, zimov'i︠a︡, marshruty plavaniĭ rossiĭskikh moreplavateleĭ v kont︠s︡e XVIII -nach. XIX vv.; granit︠s︡y l'dov (sploshnogo, nepodvizhnogo), meli, otmetki glubin v zal. Norton [v sazheni︠a︡kh], rel'ef shtrikha.",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], [1822]",
+    "Показаны: части Азии и Сев.Америки, выделена береговая линия, остроги, зимовья, маршруты плаваний российских мореплавателей в конце XVIII -нач. XIX вв.; границы льдов (сплошного, неподвижного), мели, отметки глубин в зал. Нортон [в саженях], рельеф штриха.",
+    "Черно-белая. Составлена по описям 1820-1821гг. Картографическая сетка через 5°, выходы координат через 1°; счет долгот от Гринвича."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693908",
+    "http://www.loc.gov/item/2018693908/",
+    "http://www.loc.gov/resource/gdc.2018693908/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.nmap036",
+    "https://search.catalog.loc.gov/instances/854759fc-dd21-5f01-8e1d-a50e8c670a4e",
+    "https://www.loc.gov/item/2018693908/"
+  ],
+  "dct_issued_s": "1822",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693908.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693908/2018693908.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693908:nmap036/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693908/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation",
+    "Siberia",
+    "maps"
+  ],
+  "dct_temporal_sm": [
+    "1822"
+  ],
+  "dct_title_s": "Merkatorskai︠a︡ karta predstavli︠a︡i︠u︡shchai︠a︡ Ledovitoe more Beringov proliv i chast' Vostochnago okeana s beregami Chukotskoĭ zemli i Severnoĭ Ameriki",
+  "gbl_dateRange_drsim": [
+    "[1822 TO 1822]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1822
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693908",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

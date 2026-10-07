@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-16,274.\"",
+    "\"September 1980.\"",
+    "\"September 1980.\" \"Source: USGS 1:100,000 Addison Co. and Chittenden Co., Vt., base maps, dated 1972.\" Includes location map. \"1-16,274.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"Source: USGS 1:100,000 Addison Co. and Chittenden Co., Vt., base maps, dated 1972.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1980."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3752w.ct005695",
+    "http://lccn.loc.gov/82693220",
+    "http://www.loc.gov/item/82693220/",
+    "http://www.loc.gov/resource/g3752w.ct005695/",
+    "https://hdl.loc.gov/loc.gmd/g3752w.ct005695",
+    "https://search.catalog.loc.gov/instances/511f192a-0b23-5852-bcbc-60da530c35be",
+    "https://www.loc.gov/item/82693220/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3752/g3752w/ct005695.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82693220/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "vermont",
+    "winooski river watershed"
+  ],
+  "dct_subject_sm": [
+    "Soil erosion--Vermont--Winooski River Watershed--Maps",
+    "United States--Vermont--Winooski River Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Soil erodibility index map, lower Winooski River Watershed, Addison and Chittenden Counties, Vermont",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82693220",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

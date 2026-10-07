@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte de la Turquie d'Asie, de la Perse, de l'Afghanistan et de l'Arabie"
+  ],
+  "dct_description_sm": [
+    "Content in French.",
+    "Contributors: Lallemand Engraver.; Lapie, Alexandre Émile, 19th century Cartographer.; Lapie, M. (Pierre), 1779-1850 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map ; 54 x 39 centimeters.",
+    "Publication statement: Paris : Eymery, Fruger, and Company, 1831.",
+    "This map, published in Paris in 1831, shows the Asian provinces of the Ottoman Empire, Persia (present-day Iran), Afghanistan, and the Arabian Peninsula. The map appeared in the Atlas universel de géographie ancienne et moderne (Universal atlas of ancient and modern geography) by the cartographer and engraver Pierre M. Lapie (1779--1850). Lapie was a member of the corps of topographical engineers in the French army, where he rose to the rank of colonel. He eventually became head of the topographical section in the Ministry of War. He was assisted by his son Alexandre Emile Lapie (flourished 1809--50), also a French military cartographer, who worked with his father over a period of many years. The map dates from the time when Qatar was beginning to be shown as a clearly delineated peninsular formation. Before 1827-35 the northern coast of Arabia was little explored and was shown as a smooth curve, although occasionally the island of Bahrain was depicted. Here Qatar begins to emerge as a peninsula, although it would be a few years before its true shape was depicted on maps. The map shows the pearling banks around Qatar and marks the location of the famous pearling town of Zubarah (labeled Zebarra) in Qatar as well as Ra's Rakan (Ras Reccan). Major towns and caravan routes are shown throughout. The desert of the Empty Quarter is shown as genuinely empty rather than filled with fanciful places as with earlier 17th and 18th century maps of Arabia. Relief is shown by hachures. The map provides scales of distance in five different units: myriameters (10,000 meters), leagues, nautical leagues, miles, and, curiously, hours of walking or marching required to cover a given distance. Paris is given as the prime meridian.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668732",
+    "http://www.loc.gov/item/2021668732/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_18900/",
+    "http://www.loc.gov/resource/wdl.18900/",
+    "https://hdl.loc.gov/loc.wdl/wdl.18900",
+    "https://www.loc.gov/item/2021668732/"
+  ],
+  "dct_issued_s": "1831-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_18900.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/90/0/wdl_18900/wdl_18900.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:18:90:0:wdl_18900:HC.MAP.0693/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668732/\"}",
+  "dct_subject_sm": [
+    "1831",
+    "Arabian Gulf",
+    "Arabian Peninsula",
+    "Black Sea",
+    "Caspian Sea",
+    "Maps",
+    "Persian Gulf",
+    "Red Sea"
+  ],
+  "dct_temporal_sm": [
+    "1831-01-01"
+  ],
+  "dct_title_s": "Map of Asiatic Turkey, Persia, Afghanistan, and Arabia.",
+  "gbl_dateRange_drsim": [
+    "[1831 TO 1831]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1831
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668732",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

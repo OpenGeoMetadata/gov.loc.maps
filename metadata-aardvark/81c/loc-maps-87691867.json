@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"For sale by U.S. Geological Survey, Denver, Colorado 80225, or Reston, Virginia 22092 and by Centro de Centro de Asesoria y Venta de Información Estadística y Cartográfica Balderas #71, Mezzanine, Mexico 1, D.F.\"",
+    "\"Photoimagery rectified by optical scanning from color infrared aerial photograph taken ... by the Dirección General de Geografía del Territorio National (DGGTN), Mexico D.F., Mexico.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); Mexico. Dirección General Geografía de Territorio National; U.S. Customs Service",
+    "Each sheet separately titled and numbered.",
+    "Includes location map and diagram of \"Adjoining color image map.\"",
+    "Publication statement: Reston, Va. : The Survey, 1979-",
+    "Relief shown by spot heights.",
+    "Relief shown by spot heights. \"Photoimagery rectified by optical scanning from color infrared aerial photograph taken ... by the Dirección General de Geografía del Territorio National (DGGTN), Mexico D.F., Mexico.\" \"For sale by U.S. Geological Survey, Denver, Colorado 80225, or Reston, Virginia 22092 and by Centro de Centro de Asesoria y Venta de Información Estadística y Cartográfica Balderas #71, Mezzanine, Mexico 1, D.F.\" Each sheet separately titled and numbered. Includes location map and diagram of \"Adjoining color image map.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701fm.gct00042",
+    "http://lccn.loc.gov/87691867",
+    "http://www.loc.gov/item/87691867/",
+    "http://www.loc.gov/resource/g3701fm.gct00042/",
+    "https://hdl.loc.gov/loc.gmd/g3701fm.gct00042",
+    "https://search.catalog.loc.gov/instances/8d60e3bb-642c-59ab-95eb-30753edcaf22",
+    "https://www.loc.gov/item/87691867/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370m/g3701m/g3701fm/gct00042/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691867/\"}",
+  "dct_spatial_sm": [
+    "mexico",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mexico",
+    "Mexico--Boundaries--United States--Maps",
+    "Mexico--Remote-sensing maps",
+    "Ports of entry--Mexico--Maps",
+    "Ports of entry--United States--Maps",
+    "United States",
+    "United States--Boundaries--Mexico--Maps",
+    "United States--Remote-sensing maps"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Color image map : [ports of entry, United States-Mexican border]",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87691867",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

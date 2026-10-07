@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Blunt, Edmund, 1799-1866; E. & G.W. Blunt (Firm)",
+    "Due to coordinates at top and right, item appears to be part of a larger map.",
+    "Publication statement: New York : E. & G.W. Blunt, 1827",
+    "Relief by hachures. Depths shown by soundings.",
+    "Relief by hachures. Depths shown by soundings. Due to coordinates at top and right, item appears to be part of a larger map. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct001257",
+    "http://lccn.loc.gov/2004629240",
+    "http://www.loc.gov/item/2004629240/",
+    "http://www.loc.gov/resource/g3804n.ct001257/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct001257",
+    "https://search.catalog.loc.gov/instances/aa0fdcd6-d66f-52e0-8385-c39d236524fa",
+    "https://www.loc.gov/item/2004629240/"
+  ],
+  "dct_issued_s": "1827",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct001257.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004629240/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "new york harbor",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New York Harbor (N.Y. and N.J.)--Maps",
+    "United States--New Jersey--New York Harbor",
+    "United States--New York (State)--New York Harbor"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "dct_title_s": "The harbour of New York",
+  "gbl_dateRange_drsim": [
+    "[1827 TO 1827]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1827
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004629240",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

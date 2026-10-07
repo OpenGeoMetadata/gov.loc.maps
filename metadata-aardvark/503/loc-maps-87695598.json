@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hawkes, P.; Warr, John, approximately 1798-",
+    "DCP",
+    "Includes text, compass rose, and ill. of Capitol.",
+    "Includes text, compass rose, and ill. of Capitol. LC copy halved and mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 149 DCP",
+    "LC copy halved and mounted on cloth backing.",
+    "Phillips. Washington 149",
+    "Publication statement: [Philadelphia? : P. Hawkes, 1827]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct004257",
+    "http://lccn.loc.gov/87695598",
+    "http://www.loc.gov/item/87695598/",
+    "http://www.loc.gov/resource/g3851p.ct004257/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct004257",
+    "https://search.catalog.loc.gov/instances/fdd25e4b-bd88-5468-b129-e51a65afd9dc",
+    "https://www.loc.gov/item/87695598/"
+  ],
+  "dct_issued_s": "1827",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct004257.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695598/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Distances, etc.--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "dct_title_s": "Compendious chart exhibiting, at one view, the names of about thirteen hundred of the principal ports and places in the world, with their bearings per compass, and their distances expressed in geographical miles, from the city of Washington",
+  "gbl_dateRange_drsim": [
+    "[1827 TO 1827]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1827
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695598",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

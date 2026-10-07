@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 61.\"",
+    "Also covers Georgetown.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "In left upper margin: Meyer's Handatlas.",
+    "In lower margin: Aus der Geographischen Graviranstalt des Bibliographischen Instituts zu Hildburghausen-Amsterdam, Paris, u. Philadelphia.",
+    "Includes note, Capitol floorplan, and index to points of interest.",
+    "LC copy soiled, fold-lined, and mounted on cloth backing.",
+    "Publication statement: [Philadelphia? : s.n.], 1845.",
+    "Shows wards, built-up areas, and major buildings.",
+    "Shows wards, built-up areas, and major buildings. Also covers Georgetown. Title, scale heading, and note in German. Place-names in English. In left upper margin: Meyer's Handatlas. In lower margin: Aus der Geographischen Graviranstalt des Bibliographischen Instituts zu Hildburghausen-Amsterdam, Paris, u. Philadelphia. Includes note, Capitol floorplan, and index to points of interest. \"No. 61.\" Available also through the Library of Congress Web site as a raster image. LC copy soiled, fold-lined, and mounted on cloth backing. DCP",
+    "Title, scale heading, and note in German. Place-names in English."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004381",
+    "http://lccn.loc.gov/88694054",
+    "http://www.loc.gov/item/88694054/",
+    "http://www.loc.gov/resource/g3850.ct004381/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004381",
+    "https://search.catalog.loc.gov/instances/1a1a2e73-0375-5e8f-94cd-760164bd9e70",
+    "https://www.loc.gov/item/88694054/"
+  ],
+  "dct_issued_s": "1845",
+  "dct_language_sm": [
+    "eng",
+    "ger",
+    "gereng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004381.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88694054/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "georgetown",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Georgetown (Washington, D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Georgetown",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1845"
+  ],
+  "dct_title_s": "Plan von Washington",
+  "gbl_dateRange_drsim": [
+    "[1845 TO 1845]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1845
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88694054",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

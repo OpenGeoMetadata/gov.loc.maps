@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Forest Service map.\"",
+    "\"Status current as of June 1984.\"",
+    "\"Status current as of June 1984.\" At head of title: U.S. Department of Agriculture, Forest Service. \"Forest Service map.\" Includes key map, index map, and table of recreation sites with facilities. Park information and regulations, col. ill., and map of \"Big Creek nature trails\" on verso. Available also through the Library of Congress Web site as a raster image.",
+    "At head of title: U.S. Department of Agriculture, Forest Service.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes key map, index map, and table of recreation sites with facilities.",
+    "Park information and regulations, col. ill., and map of \"Big Creek nature trails\" on verso.",
+    "Publication statement: Atlanta, Ga. : The Office, [1984]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/91684812",
+    "http://www.loc.gov/item/91684812/",
+    "http://www.loc.gov/resource/g4032s.ct011477/",
+    "https://hdl.loc.gov/loc.gmd/g4032s.ct011477",
+    "https://search.catalog.loc.gov/instances/f13f321c-180b-5b0b-8fe4-fcaef70c580f",
+    "https://www.loc.gov/item/91684812/"
+  ],
+  "dct_issued_s": "1984",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032s/ct011477.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91684812/\"}",
+  "dct_spatial_sm": [
+    "sam houston national forest",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Outdoor recreation--Texas--Sam Houston National Forest--Maps",
+    "Sam Houston National Forest (Tex.)--Maps",
+    "United States--Texas--Sam Houston National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "dct_title_s": "Sam Houston National Forest, Texas : Raven and San Jacinto Ranger districts : 1984",
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1984]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91684812",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

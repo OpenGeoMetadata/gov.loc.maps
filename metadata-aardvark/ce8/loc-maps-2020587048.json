@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Title of manual : Surveying by Gunter's chain"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [England?] : [manufacturer not identified], [between 1800 and 1900?]",
+    "The Gunter's chain is 22 yards or 66 feet long.",
+    "The Gunter's chain is 22 yards or 66 feet long. Title supplied by cataloger. The manual includes problems and examples accompanied by diagrams and maps, some in color. Available also through the Library of Congress Web site as a raster image.",
+    "The manual includes problems and examples accompanied by diagrams and maps, some in color.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2020587048",
+    "http://www.loc.gov/item/2020587048/",
+    "http://www.loc.gov/resource/g9900.ct011651/",
+    "http://www.loc.gov/resource/g9900.ct011652/",
+    "https://hdl.loc.gov/loc.gmd/g9900.ct011651",
+    "https://hdl.loc.gov/loc.gmd/g9900.ct011652",
+    "https://search.catalog.loc.gov/instances/dcffde3b-fa8c-53b1-b626-0e86661245af",
+    "https://www.loc.gov/item/2020587048/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd9/g9900/g9900/ct011651.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2020587048/\"}",
+  "dct_subject_sm": [
+    "Surveying--Handbooks, manuals, etc",
+    "Surveyors' chains"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[England?] : [manufacturer not identified], [between 1800 and 1900?]"
+  ],
+  "dct_title_s": "[Gunter's chain and a manuscript manual for its use]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2020587048",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

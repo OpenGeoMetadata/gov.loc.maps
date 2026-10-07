@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 650/1; 650/2; 651/3; 651/4; 651/5; 650/6",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hills, John (Surveyor)",
+    "LC Maps of North America, 1750-1789, 943",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: 177-?]",
+    "Relief shown by shading and hachures. Depths shown by soundings.",
+    "Scale ca. 1:24,000.",
+    "Title from William Faden's Catalogue of a curious and valuable collection of original maps and plans. 1862.",
+    "Title from William Faden's Catalogue of a curious and valuable collection of original maps and plans. 1862. Manuscript, pen-and-ink and watercolor. Relief shown by shading and hachures. Depths shown by soundings. Oriented with north toward the upper left. Scale ca. 1:24,000. LC Maps of North America, 1750-1789, 943 Available also through the Library of Congress Web site as a raster image. AACR2: 100; 650/1; 650/2; 651/3; 651/4; 651/5; 650/6"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3762b.ar094300",
+    "http://lccn.loc.gov/gm71000625",
+    "http://www.loc.gov/item/gm71000625/",
+    "http://www.loc.gov/resource/g3762b.ar094300/",
+    "https://hdl.loc.gov/loc.gmd/g3762b.ar094300",
+    "https://search.catalog.loc.gov/instances/0e9d04d9-001c-56f1-bcfc-7a6c25fe5827",
+    "https://www.loc.gov/item/gm71000625/"
+  ],
+  "dct_issued_s": "1770",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3762/g3762b/ar094300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000625/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "boston bay",
+    "boston harbor",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston (Mass.)--Maps, Manuscript--Early works to 1800",
+    "Boston Bay (Mass.)--Maps, Manuscript--Early works to 1800",
+    "Boston Harbor (Mass.)--Maps, Manuscript--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "Nautical charts--Massachusetts--Boston Bay--Early works to 1800",
+    "Nautical charts--Massachusetts--Boston Harbor--Early works to 1800",
+    "United States--Massachusetts--Boston",
+    "United States--Massachusetts--Boston Bay",
+    "United States--Massachusetts--Boston Harbor"
+  ],
+  "dct_temporal_sm": [
+    "1770"
+  ],
+  "dct_title_s": "[Boston Harbour, with the surroundings, &c",
+  "gbl_dateRange_drsim": [
+    "[1770 TO 1770]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1770
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000625",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

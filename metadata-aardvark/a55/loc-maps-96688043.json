@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 97-7",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: W. & D. Lizars",
+    "Publication statement: Edinburgh : Lizars, [1818?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 97-7 Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.ct003956",
+    "http://lccn.loc.gov/96688043",
+    "http://www.loc.gov/item/96688043/",
+    "http://www.loc.gov/resource/g3700.ct003956/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ct003956",
+    "https://search.catalog.loc.gov/instances/4c1efbf2-a443-5905-ae60-1d9fff565d5e",
+    "https://www.loc.gov/item/96688043/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ct003956.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96688043/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1818",
+    "Edinburgh : Lizars, [1818?]"
+  ],
+  "dct_title_s": "United States of America",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96688043",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

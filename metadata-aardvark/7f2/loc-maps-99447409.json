@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Another edition.",
+    "Another edition. Similar to the preceding map but drawn on stone by Hoffmann and lithographed by Gedney instead of Bien. This edition denotes the positions of the Union and Confederate troops by symbols rather than by colors, and the legend lacks the statement \"Published by authority of the Hon. the Secretary of War. Office of the Chief of Engineers, U.S. Army. 1876.\" Description derived from published bibliography. Scale 1:126,720. Library of Congress. Civil War maps (2nd ed.), 262 Available also through the Library of Congress web site as raster image.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Helmle, L.; Matz, Otto H., 1830-1919; Wilson, James Harrison, 1837-1925",
+    "Description derived from published bibliography.",
+    "Library of Congress. Civil War maps (2nd ed.), 262",
+    "Publication statement: Washington, D.C., Lith. of J. F. Gedney, 1876",
+    "Scale 1:126,720.",
+    "Similar to the preceding map but drawn on stone by Hoffmann and lithographed by Gedney instead of Bien. This edition denotes the positions of the Union and Confederate troops by symbols rather than by colors, and the legend lacks the statement \"Published by authority of the Hon. the Secretary of War. Office of the Chief of Engineers, U.S. Army. 1876.\""
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3981s.cw0262000",
+    "http://lccn.loc.gov/99447409",
+    "http://www.loc.gov/item/99447409/",
+    "http://www.loc.gov/resource/g3981s.cw0262000/",
+    "https://hdl.loc.gov/loc.gmd/g3981s.cw0262000",
+    "https://search.catalog.loc.gov/instances/c9df817a-289d-5321-9b6c-a484499b700d",
+    "https://www.loc.gov/item/99447409/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3981/g3981s/cw0262000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447409/\"}",
+  "dct_spatial_sm": [
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mississippi--History--Civil War, 1861-1865--Maps",
+    "United States--Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "[Map of the country between Millikens Bend, La. and Jackson, Miss. shewing the routes followed by the Army of the Tennessee under the command of Maj. Genl. U.S. Grant, U.S. Vols. in its march from Millikens Bend to the rear of Vicksburg in April and May 1863;",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447409",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

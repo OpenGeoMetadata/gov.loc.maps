@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Illinois Central Railroad New Orleans gateway to the Panama Canal",
+    "Title within map border: Illinois Central Railroad New Orleans gateway to the Panama Canal"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Poole Brothers",
+    "Includes distance tables.",
+    "Publication statement: Chicago : Poole Bros., 1912.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Includes distance tables. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4872p.ct003482",
+    "http://lccn.loc.gov/2011590002",
+    "http://www.loc.gov/item/2011590002/",
+    "http://www.loc.gov/resource/g4872p.ct003482/",
+    "https://hdl.loc.gov/loc.gmd/g4872p.ct003482",
+    "https://search.catalog.loc.gov/instances/231e99af-df15-56d1-9e40-de185c28962f",
+    "https://www.loc.gov/item/2011590002/"
+  ],
+  "dct_issued_s": "1912",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4872/g4872p/ct003482.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011590002/\"}",
+  "dct_spatial_sm": [
+    "panama",
+    "panama canal"
+  ],
+  "dct_subject_sm": [
+    "Panama Canal (Panama)--Maps",
+    "Panama--Panama Canal"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dct_title_s": "Aero view of the Panama Canal, looking southwest, The world's greatest engineering feat to be realized 395 years after first proposed",
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011590002",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

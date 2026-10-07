@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Digitally enhanced false-color composite image.\"",
+    "\"Digitally enhanced false-color composite image.\" \"Landsat image 5444-14084 was recorded at 10:08 a.m., July 6, 1976, by the multispectral scanner on National Aeronautics and Space Administration spacecraft from an orbital altitude of 570 miles (920 km.).\" Includes location map. Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Tears along edges.",
+    "\"Landsat image 5444-14084 was recorded at 10:08 a.m., July 6, 1976, by the multispectral scanner on National Aeronautics and Space Administration spacecraft from an orbital altitude of 570 miles (920 km.).\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); United States. National Park Service",
+    "Includes location map.",
+    "LC copy imperfect: Tears along edges.",
+    "Publication statement: [Reston, Va.] : U.S. Geological Survey, [1976]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3762c.ct005940",
+    "http://lccn.loc.gov/95683164",
+    "http://www.loc.gov/item/95683164/",
+    "http://www.loc.gov/resource/g3762c.ct005940/",
+    "https://hdl.loc.gov/loc.gmd/g3762c.ct005940",
+    "https://search.catalog.loc.gov/instances/76086479-b543-58b2-b36c-f5830b09d2cc",
+    "https://www.loc.gov/item/95683164/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3762/g3762c/ct005940.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95683164/\"}",
+  "dct_spatial_sm": [
+    "cape cod region",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cape Cod Region (Mass.)--Remote-sensing images",
+    "United States--Massachusetts--Cape Cod Region"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "Cape Cod and vicinity",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95683164",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

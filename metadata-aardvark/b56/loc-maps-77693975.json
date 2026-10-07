@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824",
+    "LC Maps of North America, 1750-1789, 951",
+    "LC copy imperfect: Deteriorated along folds and edges.",
+    "Publication statement: London, 1776?]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. Scale ca. 1:50,000. LC Maps of North America, 1750-1789, 951 Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Deteriorated along folds and edges. Vault AACR2",
+    "Scale ca. 1:50,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3762b.ar095100",
+    "http://lccn.loc.gov/77693975",
+    "http://www.loc.gov/item/77693975/",
+    "http://www.loc.gov/resource/g3762b.ar095100/",
+    "https://hdl.loc.gov/loc.gmd/g3762b.ar095100",
+    "https://search.catalog.loc.gov/instances/4e6ea843-58bb-5d3e-ad78-48433c915ee8",
+    "https://www.loc.gov/item/77693975/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3762/g3762b/ar095100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77693975/\"}",
+  "dct_spatial_sm": [
+    "boston bay",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston Bay (Mass.)--Maps--Early works to 1800",
+    "Nautical charts--Massachusetts--Boston Bay--Early works to 1800",
+    "United States--Massachusetts--Boston Bay"
+  ],
+  "dct_temporal_sm": [
+    "1776",
+    "London, 1776?]"
+  ],
+  "dct_title_s": "[A chart of Boston Bay and vicinity",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77693975",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

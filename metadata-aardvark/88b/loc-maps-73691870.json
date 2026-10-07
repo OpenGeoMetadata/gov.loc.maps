@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "This map of the county of Surrey in the island of Jamaica"
+  ],
+  "dct_description_sm": [
+    "AACR2: 700/1; 700/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Craskell, Thomas; Fournier, Daniel, 1710?-1766?; Moore, Henry, Sir, 1713-1769; Simpson, James (Surveyor)",
+    "Inscribed \"To the right honorable George Grenville, Esq., first lord commissioner of the treasury, chancellor & under treasurer of the exchequer, &c. &c.\"",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 1938",
+    "Publication statement: Londini : D. Fournier, 1763.",
+    "Vault",
+    "Vault AACR2: 700/1; 700/3 Inscribed \"To the right honorable George Grenville, Esq., first lord commissioner of the treasury, chancellor & under treasurer of the exchequer, &c. &c.\" Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 1938 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4963s.ar193800",
+    "http://lccn.loc.gov/73691870",
+    "http://www.loc.gov/item/73691870/",
+    "http://www.loc.gov/resource/g4963s.ar193800/",
+    "https://hdl.loc.gov/loc.gmd/g4963s.ar193800",
+    "https://search.catalog.loc.gov/instances/a8ba2da1-a672-564b-ba1c-e824d845663a",
+    "https://www.loc.gov/item/73691870/"
+  ],
+  "dct_issued_s": "1763",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4963/g4963s/ar193800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691870/\"}",
+  "dct_spatial_sm": [
+    "county",
+    "jamaica",
+    "surrey",
+    "surrey (county)"
+  ],
+  "dct_subject_sm": [
+    "Jamaica--Surrey (County)",
+    "Surrey (Jamaica : County)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1763"
+  ],
+  "dct_title_s": "This map of the county of Surry [sic] in the island of Jamaica",
+  "gbl_dateRange_drsim": [
+    "[1763 TO 1763]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1763
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691870",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Monongahela National Forest",
+    "Title within border: Monongahela National Forest"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service; West Virginia. Department of Natural Resources",
+    "Differs from other 1956 edition in color.",
+    "Includes text and ill.",
+    "Publication statement: Charleston, W. Va. : West Virginia Dept. of Natural Resources, 1956.",
+    "Stamped on: Geography and Map Division, Library of Congress, Hammond Collection-2003.",
+    "Title from panel.",
+    "Title from panel. Includes text and ill. Differs from other 1956 edition in color. Stamped on: Geography and Map Division, Library of Congress, Hammond Collection-2003. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2005630335",
+    "http://www.loc.gov/item/2005630335/",
+    "http://www.loc.gov/resource/g3891e.ct009395/",
+    "https://hdl.loc.gov/loc.gmd/g3891e.ct009395",
+    "https://search.catalog.loc.gov/instances/29800e75-1e88-5841-88f7-e8fc396f567c",
+    "https://www.loc.gov/item/2005630335/"
+  ],
+  "dct_issued_s": "1956",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3891/g3891e/ct009395.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005630335/\"}",
+  "dct_spatial_sm": [
+    "monongahela national forest",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Outdoor recreation--Monongahela National Forest--Maps",
+    "Outdoor recreation--West Virginia--Maps",
+    "United States--West Virginia",
+    "United States--West Virginia--Monongahela National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "dct_title_s": "Sportsman's map of national forests in West Virginia",
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1956]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005630335",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

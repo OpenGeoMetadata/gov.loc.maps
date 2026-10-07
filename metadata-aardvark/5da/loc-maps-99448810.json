@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: A. Williams & Co",
+    "Description derived from published bibliography.",
+    "Insets: Fort Walker. 4 x 3 cm.-Fort Beauregard. 4 x 3 cm.",
+    "LC Civil War Maps (2nd ed.), 368",
+    "Publication statement: Boston, A. Williams & Co., 1861.",
+    "Scale ca. 1:385,000.",
+    "Shows forts, towns, roads, railroads, rivers, and islands.",
+    "Shows forts, towns, roads, railroads, rivers, and islands. Insets: Fort Walker. 4 x 3 cm.-Fort Beauregard. 4 x 3 cm. Description derived from published bibliography. Scale ca. 1:385,000. LC Civil War Maps (2nd ed.), 368 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3912s.cw0368000",
+    "http://lccn.loc.gov/99448810",
+    "http://www.loc.gov/item/99448810/",
+    "http://www.loc.gov/resource/g3912s.cw0368000/",
+    "https://hdl.loc.gov/loc.gmd/g3912s.cw0368000",
+    "https://search.catalog.loc.gov/instances/e35fd1af-2b32-5152-b9fa-9b26b46f2463",
+    "https://www.loc.gov/item/99448810/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3912/g3912s/cw0368000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448810/\"}",
+  "dct_spatial_sm": [
+    "saint helena sound",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Saint Helena Sound (S.C.)--Maps",
+    "United States--South Carolina--Saint Helena Sound"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Map of St. Helena Sound, and the coast between Charleston and Savannah",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448810",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

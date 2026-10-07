@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: JANIS (Organization)",
+    "Covers entire island (including Sarawak and Sabah)",
+    "Identifies upland and lowland soil types in soil-survey areas.",
+    "Identifies upland and lowland soil types in soil-survey areas. Covers entire island (including Sarawak and Sabah) LC copy imperfect: Fold-lined, rubber-stamped, annotated in black marker ink/lead-pencil, possibly prepared for inclusion in textual publication. Includes descriptive text in legend. Available also through the Library of Congress Web site as a raster image.",
+    "Includes descriptive text in legend.",
+    "LC copy imperfect: Fold-lined, rubber-stamped, annotated in black marker ink/lead-pencil, possibly prepared for inclusion in textual publication.",
+    "Publication statement: [United States?] : [publisher not identified], [1945?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8101j.ct004272",
+    "http://lccn.loc.gov/2014585447",
+    "http://www.loc.gov/item/2014585447/",
+    "http://www.loc.gov/resource/g8101j.ct004272/",
+    "https://hdl.loc.gov/loc.gmd/g8101j.ct004272",
+    "https://search.catalog.loc.gov/instances/3585f3b5-58c0-5508-8b1b-4c941d93b18e",
+    "https://www.loc.gov/item/2014585447/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8101/g8101j/ct004272.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2014585447/\"}",
+  "dct_spatial_sm": [
+    "borneo"
+  ],
+  "dct_subject_sm": [
+    "Borneo",
+    "Soil surveys--Borneo--Maps",
+    "Soils--Borneo--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1945",
+    "[United States?] : [publisher not identified], [1945?]"
+  ],
+  "dct_title_s": "Borneo soil trafficability",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2014585447",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

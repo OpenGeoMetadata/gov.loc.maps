@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Edward Stanford Ltd; Ravenstein, Ernst Georg, 1834-1913, cartographer; Royal Geographical Society (Great Britain)",
+    "Includes notes.",
+    "Publication statement: London : Printed at Stanford's Geographical Establishment, 1881-3.; London : Royal Geographical Society, 1881-3.",
+    "Relief shown by hachures and spot heights.",
+    "Relief shown by hachures and spot heights. Title from sheet 6. Includes notes. Available also through the Library of Congress Web site as a raster image.",
+    "Title from sheet 6."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8320m.gct00183",
+    "http://lccn.loc.gov/2009578548",
+    "http://www.loc.gov/item/2009578548/",
+    "http://www.loc.gov/resource/g8320m.gct00183/",
+    "https://hdl.loc.gov/loc.gmd/g8320m.gct00183",
+    "https://search.catalog.loc.gov/instances/50ae2e88-7c89-52f6-91cf-e19630d2f441",
+    "https://www.loc.gov/item/2009578548/"
+  ],
+  "dct_issued_s": "1881",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8m/g8320m/g8320m/gct00183/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009578548/\"}",
+  "dct_spatial_sm": [
+    "africa",
+    "africa, eastern",
+    "eastern"
+  ],
+  "dct_subject_sm": [
+    "Africa, Eastern",
+    "Africa, Eastern--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1881"
+  ],
+  "dct_title_s": "A map of eastern equatorial Africa",
+  "gbl_dateRange_drsim": [
+    "[1881 TO 1881]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1881
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009578548",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

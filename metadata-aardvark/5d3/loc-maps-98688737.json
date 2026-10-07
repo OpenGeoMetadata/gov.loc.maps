@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Norfolk, Albermarle, and Atlantic Railroad",
+    "Description derived from published bibliography.",
+    "Inset: [Norfolk and vicinity] 25 x 17.",
+    "LC Railroad maps, 489",
+    "Main map shows southern tidewater Virginia and eastern North Carolina. Indicates drainage, cities and towns, counties, canals, and railroads in blue and red.",
+    "Publication statement: New York, 1891.",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881p.rr004890",
+    "http://lccn.loc.gov/98688737",
+    "http://www.loc.gov/item/98688737/",
+    "http://www.loc.gov/resource/g3881p.rr004890/",
+    "https://hdl.loc.gov/loc.gmd/g3881p.rr004890",
+    "https://search.catalog.loc.gov/instances/ed8b9452-8747-542f-a52a-44d348f928c0",
+    "https://www.loc.gov/item/98688737/"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881p/rr004890.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688737/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Norfolk, Albermarle, and Atlantic Railroad",
+    "Railroads--North Carolina--Maps",
+    "Railroads--Virginia--Maps",
+    "United States--North Carolina",
+    "United States--Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "Maps showing the Norfolk, Albermarle & Atlantic Railroad and its connections",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688737",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

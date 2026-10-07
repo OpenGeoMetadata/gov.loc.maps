@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Cadastral map. Includes notes. Available also through the Library of Congress Web site as a raster image. LC copy 1 mounted on cloth backing. 2 copies DCP",
+    "Contributors: Armstrong; Thos. J. Fisher and Co",
+    "DCP",
+    "Includes notes.",
+    "LC copy 1 mounted on cloth backing.",
+    "Publication statement: Washington : Thomas J. Fisher and Co., [1899?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852c.ct004939",
+    "http://lccn.loc.gov/88690787",
+    "http://www.loc.gov/item/88690787/",
+    "http://www.loc.gov/resource/g3852c.ct004939/",
+    "https://hdl.loc.gov/loc.gmd/g3852c.ct004939",
+    "https://search.catalog.loc.gov/instances/8692d706-3c31-5f28-8221-87611b8c0427",
+    "https://www.loc.gov/item/88690787/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852c/ct004939.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690787/\"}",
+  "dct_spatial_sm": [
+    "cliffbourne",
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Cliffbourne (Washington, D.C.)--Maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Cliffbourne"
+  ],
+  "dct_temporal_sm": [
+    "1899",
+    "Washington : Thomas J. Fisher and Co., [1899?]"
+  ],
+  "dct_title_s": "Cliffbourne : [Washington D.C.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690787",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

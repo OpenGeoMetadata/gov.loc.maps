@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress ... by Otto Krebs...\"",
+    "\"Entered according to Act of Congress ... by Otto Krebs...\" Shows points of interest. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 799 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1; 700/1",
+    "AACR2: 651/1; 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Krebs, Otto; Morgenroth, H.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 799",
+    "Publication statement: Pittsburgh, 1893.",
+    "Shows points of interest."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824m.pm007990",
+    "http://lccn.loc.gov/75694998",
+    "http://www.loc.gov/item/75694998/",
+    "http://www.loc.gov/resource/g3824m.pm007990/",
+    "https://hdl.loc.gov/loc.gmd/g3824m.pm007990",
+    "https://search.catalog.loc.gov/instances/1981f072-af89-54e5-8930-f4aefd43e832",
+    "https://www.loc.gov/item/75694998/"
+  ],
+  "dct_issued_s": "1893",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824m/pm007990.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694998/\"}",
+  "dct_spatial_sm": [
+    "mckeesport",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "McKeesport (Pa.)--Maps",
+    "United States--Pennsylvania--McKeesport"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "dct_title_s": "City of McKeesport & vicinity",
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694998",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

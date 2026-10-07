@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Tome I, no. 8.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: [Bellin, Jacques Nicolas] 1703-1772",
+    "From the author's Le petit atlas maritime. 1764.",
+    "LC Maps of North America, 1750-1789, 243",
+    "Publication statement: [Paris, 1764]",
+    "Relief shown by hachures. Soundings shown in fathoms.",
+    "Relief shown by hachures. Soundings shown in fathoms. \"Tome I, no. 8.\" From the author's Le petit atlas maritime. 1764. Scale ca. 1:140,000. LC Maps of North America, 1750-1789, 243 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:140,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3312s.ar024300",
+    "http://lccn.loc.gov/73697067",
+    "http://www.loc.gov/item/73697067/",
+    "http://www.loc.gov/resource/g3312s.ar024300/",
+    "https://hdl.loc.gov/loc.gmd/g3312s.ar024300",
+    "https://search.catalog.loc.gov/instances/419527f8-52bc-501a-ba19-6ad0aa3c0dca",
+    "https://www.loc.gov/item/73697067/"
+  ],
+  "dct_issued_s": "1764",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3312/g3312s/ar024300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73697067/\"}",
+  "dct_spatial_sm": [
+    "isle d'orleáns",
+    "north america",
+    "québec",
+    "saint lawrence river"
+  ],
+  "dct_subject_sm": [
+    "Isle d'Orleáns (Québec)--Maps--Early works to 1800",
+    "Nautical charts--Saint Lawrence River--Early works to 1800",
+    "North America--Saint Lawrence River",
+    "Saint Lawrence River--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "dct_title_s": "Partie du fleuve de Saint Laurent avec le bassin de Quebec et l'isle d'Orleans",
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1764
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73697067",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

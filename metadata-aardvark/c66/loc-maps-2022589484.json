@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Hawaii title collection various subjects--O-Poss",
+    "Alternate supplied title: Hawaii title collection--drawer 5"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Drawer 5. HI-05-01 through HI-05-28.",
+    "If a map in this collection may be in copyright, there is no online image available.",
+    "Publication statement: [Various places] : [various publishers], [1893-1970]",
+    "This record covers single maps of Hawaii covering various subjects, which are not represented in the LC database by separate catalog records. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps of Hawaii covering various subjects, which are not represented in the LC database by separate catalog records. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. If a map in this collection may be in copyright, there is no online image available. Available also through the Library of Congress Web site as a raster image. Drawer 5. HI-05-01 through HI-05-28.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589484",
+    "http://www.loc.gov/item/2022589484/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.hi-005/",
+    "http://www.loc.gov/resource/gmdtitlecolmaps.hi-005/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.hi-005",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolmaps.hi-005",
+    "https://search.catalog.loc.gov/instances/db2e3a2a-14e0-5c9d-8957-7cd37d6d3454",
+    "https://www.loc.gov/item/2022589484/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolmaps:hi:-0:05:hi-005:hi-005-02-01/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589484/\"}",
+  "dct_spatial_sm": [
+    "hawaii",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hawaii--Maps",
+    "United States--Hawaii"
+  ],
+  "dct_temporal_sm": [
+    "1893/1970"
+  ],
+  "dct_title_s": "[Maps of Hawaii various subjects--O-Poss]",
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1970]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2022589484",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

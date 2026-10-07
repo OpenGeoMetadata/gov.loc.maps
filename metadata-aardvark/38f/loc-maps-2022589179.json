@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Maine title collection drawer 42",
+    "Alternate supplied title: Maine title collection--counties S",
+    "Maine title collection drawer 42",
+    "Maine title collection--counties S"
+  ],
+  "dct_description_sm": [
+    "Publication statement: [Various places] : [various publishers], [approximately 1740 to 1960]",
+    "This record covers single maps covering counties of Maine, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps covering counties of Maine, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589179",
+    "http://www.loc.gov/item/2022589179/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.me-042/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.me-042",
+    "https://search.catalog.loc.gov/instances/99c501aa-7b99-587c-80b1-53ff8fb83c9a",
+    "https://www.loc.gov/item/2022589179/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:me:-0:42:me-042:me-042-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589179/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "sagadahoc county",
+    "somerset county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Counties--Maine--Maps",
+    "Roads--Maine--Maps",
+    "Sagadahoc County (Me.)--Maps",
+    "Somerset County (Me.)--Maps",
+    "United States--Maine"
+  ],
+  "dct_temporal_sm": [
+    "1740",
+    "[Various places] : [various publishers], [approximately 1740 to 1960]"
+  ],
+  "dct_title_s": "[Maps of Maine--counties S]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2022589179",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

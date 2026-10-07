@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Part of Spotsylvania County"
+  ],
+  "dct_description_sm": [
+    "\"Negative loaned for photostatting by Mr. Edward Steere, Historical Section, National Park Service.\"",
+    "\"Original in Atkinson's \"Grants\" Campaigns - [not identified 6/20/1940] - not identified 2/24/1966 ... .\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Edward Stanford Ltd",
+    "LC Land ownership maps, 1352",
+    "Publication statement: [S.l. : s.n., 186-?]",
+    "Relief shown by hachures.",
+    "Shows the names of some residents.",
+    "Shows the names of some residents. Relief shown by hachures. \"Negative loaned for photostatting by Mr. Edward Steere, Historical Section, National Park Service.\" \"Original in Atkinson's \"Grants\" Campaigns - [not identified 6/20/1940] - not identified 2/24/1966 ... .\" LC Land ownership maps, 1352 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883s.la001352",
+    "http://lccn.loc.gov/2012589233",
+    "http://www.loc.gov/item/2012589233/",
+    "http://www.loc.gov/resource/g3883s.la001352/",
+    "https://hdl.loc.gov/loc.gmd/g3883s.la001352",
+    "https://search.catalog.loc.gov/instances/6293949a-2161-57f1-a6df-10118466f3b8",
+    "https://www.loc.gov/item/2012589233/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883s/la001352.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012589233/\"}",
+  "dct_spatial_sm": [
+    "spotsylvania county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Virginia--Spotsylvania County--Maps",
+    "Spotsylvania County (Va.)--Maps",
+    "United States--Virginia--Spotsylvania County"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Part of Spottsylvania [sic] County",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012589233",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

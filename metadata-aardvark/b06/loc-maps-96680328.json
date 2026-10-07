@@ -1,0 +1,76 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Prince William Co., cities of Manassas and Manassas Park, Virginia",
+    "Prince William County, cities of Manassas and Manassas Park, Va",
+    "Title in left upper margin: Prince William Co., cities of Manassas and Manassas Park, Virginia",
+    "Title in right lower margin: Prince William County, cities of Manassas and Manassas Park, Va"
+  ],
+  "dct_description_sm": [
+    "\"38077-G4-CM-050.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Includes location map, index to 24,000-scale maps, and conversion table.",
+    "Publication statement: Reston, Va. : The Survey, 1987.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Includes location map, index to 24,000-scale maps, and conversion table. \"38077-G4-CM-050.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883p.ct009264r",
+    "http://hdl.loc.gov/loc.gmd/g3883p.ct009264v",
+    "http://lccn.loc.gov/96680328",
+    "http://www.loc.gov/item/96680328/",
+    "http://www.loc.gov/resource/g3883p.ct009264r/",
+    "http://www.loc.gov/resource/g3883p.ct009264v/",
+    "https://hdl.loc.gov/loc.gmd/g3883p.ct009264r",
+    "https://hdl.loc.gov/loc.gmd/g3883p.ct009264v",
+    "https://search.catalog.loc.gov/instances/94ab01e2-5147-560a-950b-ed9cd2dd6d9c",
+    "https://www.loc.gov/item/96680328/"
+  ],
+  "dct_issued_s": "1987",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883p/ct009264r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96680328/\"}",
+  "dct_spatial_sm": [
+    "manassas",
+    "manassas park",
+    "prince william county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Manassas (Va.)--Maps",
+    "Manassas Park (Va.)--Maps",
+    "Prince William County (Va.)--Maps",
+    "United States--Virginia--Manassas",
+    "United States--Virginia--Manassas Park",
+    "United States--Virginia--Prince William County"
+  ],
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "dct_title_s": "Prince William County, cities of Manassas and Manassas Park, Virginia : 1:50 000-scale metric topographic map",
+  "gbl_dateRange_drsim": [
+    "[1987 TO 1987]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1987
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-96680328",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

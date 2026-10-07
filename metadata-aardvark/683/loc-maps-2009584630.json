@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Steamtown",
+    "Title on verso in left margin: Steamtown"
+  ],
+  "dct_description_sm": [
+    "\"*GPO:2009--349-224/80330 Reprint 2007.\"",
+    "Aerial view (drawing) of railroad historic site.",
+    "Aerial view (drawing) of railroad historic site. \"*GPO:2009--349-224/80330 Reprint 2007.\" Title from panel. Includes text, index of facilities, and col. ill. Text, chronology, and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Schlecht, Richard; United States. National Park Service",
+    "Includes text, index of facilities, and col. ill.",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2009]",
+    "Text, chronology, and ill. (some col.) on verso.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824s.ct008400",
+    "http://lccn.loc.gov/2009584630",
+    "http://www.loc.gov/item/2009584630/",
+    "http://www.loc.gov/resource/g3824s.ct008400/",
+    "https://hdl.loc.gov/loc.gmd/g3824s.ct008400",
+    "https://search.catalog.loc.gov/instances/c35caa26-1113-5356-8ae0-e58d95fdc741",
+    "https://www.loc.gov/item/2009584630/"
+  ],
+  "dct_issued_s": "2007",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824s/ct008400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009584630/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "scranton",
+    "steamtown national historic site",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Steamtown National Historic Site (Scranton, Pa.)--Aerial views",
+    "United States--Pennsylvania--Scranton--Steamtown National Historic Site"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_title_s": "Steamtown National Historic Site, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009584630",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

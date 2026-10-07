@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"August 1918.\"",
+    "\"August 1918.\" Includes note, index to points of interest, and advertisement. Text on verso. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "DCP",
+    "Includes note, index to points of interest, and advertisement.",
+    "Publication statement: [Washington?] : Dept. of the Interior, United States Geological Survey, [1918]",
+    "Text on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004471",
+    "http://lccn.loc.gov/87691480",
+    "http://www.loc.gov/item/87691480/",
+    "http://www.loc.gov/resource/g3850.ct004471/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004471",
+    "https://search.catalog.loc.gov/instances/f95d450d-49fc-52b1-b7a9-89187070b1fd",
+    "https://www.loc.gov/item/87691480/"
+  ],
+  "dct_issued_s": "1918",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004471.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691480/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "dct_title_s": "Special reprint of the city portion of the map of Washington, D.C., and vicinity",
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1918]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1918
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87691480",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

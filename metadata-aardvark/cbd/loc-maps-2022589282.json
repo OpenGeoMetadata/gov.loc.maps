@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Pennsylvania title collection--cities and towns Bro-Canons",
+    "Alternate supplied title: Pennsylvania title collection--drawer 109",
+    "Pennsylvania title collection--cities and towns Bro-Canons",
+    "Pennsylvania title collection--drawer 109"
+  ],
+  "dct_description_sm": [
+    "Most maps before 1800 are photocopies or facsimiles.",
+    "Most maps before 1800 are photocopies or facsimiles. This record covers single maps of Pennsylvania cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, including landowners and tourist information. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger.",
+    "Publication statement: [Various places] : [various publishers], [from approximately 1784 to 1964]",
+    "This record covers single maps of Pennsylvania cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, including landowners and tourist information. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589282",
+    "http://www.loc.gov/item/2022589282/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.pa-109/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.pa-109",
+    "https://search.catalog.loc.gov/instances/2cacfb23-bd90-5c16-ad6d-456df9e8a136",
+    "https://www.loc.gov/item/2022589282/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:pa:-1:09:pa-109:pa-109-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589282/\"}",
+  "dct_spatial_sm": [
+    "brownsville",
+    "canonsburg",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Brownsville (Pa.)--Maps",
+    "Canonsburg (Pa.)--Maps",
+    "Cities and towns--Pennsylvania--Maps",
+    "Landowners--Pennsylvania--Maps",
+    "Outdoor recreation--Pennsylvania--Maps",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1784",
+    "[Various places] : [various publishers], [from approximately 1784 to 1964]"
+  ],
+  "dct_title_s": "[Maps of Pennsylvania--cities and towns Bro-Canons]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022589282",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

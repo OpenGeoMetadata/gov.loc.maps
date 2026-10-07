@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "View of Kushaqua Hotel and its surroundings, Altamont, N.Y."
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no.: 99-79",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Bird's-eye view. Includes text, index to points of interest, and ill. of \"Kushaqua Hotel\". Available also through the Library of Congress Web site as a raster image. Acquisitions control no.: 99-79 PM3",
+    "Contributors: Burleigh Litho; Burleigh, L. R. (Lucien R.), 1853?-1923",
+    "Includes text, index to points of interest, and ill. of \"Kushaqua Hotel\".",
+    "PM3",
+    "Publication statement: Troy, N.Y. : Burleigh Lith. Est., 1890."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804a.pm010810",
+    "http://lccn.loc.gov/99466396",
+    "http://www.loc.gov/item/99466396/",
+    "http://www.loc.gov/resource/g3804a.pm010810/",
+    "https://hdl.loc.gov/loc.gmd/g3804a.pm010810",
+    "https://search.catalog.loc.gov/instances/c7d6b5a1-8fa5-56bb-9ecc-759f33afcec1",
+    "https://www.loc.gov/item/99466396/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804a/pm010810.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466396/\"}",
+  "dct_spatial_sm": [
+    "altamont",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Altamont (N.Y.)--Aerial views",
+    "Kushaqua Hotel (Altamont, N.Y.)--Pictorial works",
+    "United States--New York (State)--Altamont"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Altamont, N.Y.",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466396",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

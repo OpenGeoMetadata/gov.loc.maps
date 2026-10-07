@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to act of Congress by F.W. Beers, 1893.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beers, F. W. (Frederick W.); Crosby, W. A.; J.W. Vose & Co",
+    "Includes text (historical) and key to full names of warrant-holders.",
+    "LC Land ownership maps, 788",
+    "LC copy imperfect: Use-worn, torn at sheet edges.",
+    "Originally printed on 4 sheets (later conjoined to form 1 sheet, now sectioned to 6 sheets).",
+    "Publication statement: New York : J. W. Vose & Co., 1893.",
+    "Shows townships, boroughs, post-offices, warranty-deed tracts with numbers/acreages/warrant-holders' initials, real-property tracts with owners' names, and rural buildings with householders' names.",
+    "Shows townships, boroughs, post-offices, warranty-deed tracts with numbers/acreages/warrant-holders' initials, real-property tracts with owners' names, and rural buildings with householders' names. \"Entered according to act of Congress by F.W. Beers, 1893.\" Originally printed on 4 sheets (later conjoined to form 1 sheet, now sectioned to 6 sheets). LC copy imperfect: Use-worn, torn at sheet edges. Includes text (historical) and key to full names of warrant-holders. LC Land ownership maps, 788 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823p.la000788",
+    "http://lccn.loc.gov/2012592198",
+    "http://www.loc.gov/item/2012592198/",
+    "http://www.loc.gov/resource/g3823p.la000788/",
+    "https://hdl.loc.gov/loc.gmd/g3823p.la000788",
+    "https://search.catalog.loc.gov/instances/45d7867c-400a-5cb1-b66e-a277427e360a",
+    "https://www.loc.gov/item/2012592198/"
+  ],
+  "dct_issued_s": "1893",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823p/la000788.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592198/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "potter county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Pennsylvania--Potter County--Maps",
+    "Potter County (Pa.)--Maps",
+    "Real property--Pennsylvania--Potter County--Maps",
+    "United States--Pennsylvania--Potter County",
+    "Warranty of title--Pennsylvania--Potter County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "dct_title_s": "Map of Potter Co., Penna. : from recent and actual surveys and official records",
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592198",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

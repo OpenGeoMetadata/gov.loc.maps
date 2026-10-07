@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-10082.\"",
+    "\"December 1980.\"",
+    "\"Source: U.S.G.S. 1:100 000 Franklin County, Vermont, base map dated 1979.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Covers Rock River and Pike River Watersheds in Vermont.",
+    "Covers Rock River and Pike River Watersheds in Vermont. \"December 1980.\" \"Source: U.S.G.S. 1:100 000 Franklin County, Vermont, base map dated 1979.\" Includes location map. \"1-10082.\" Available also through the Library of Congress Web site as a raster image.",
+    "Includes location map.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1980."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3752r.ct005704",
+    "http://lccn.loc.gov/82693222",
+    "http://www.loc.gov/item/82693222/",
+    "http://www.loc.gov/resource/g3752r.ct005704/",
+    "https://hdl.loc.gov/loc.gmd/g3752r.ct005704",
+    "https://search.catalog.loc.gov/instances/a63574d2-2fc4-5394-a731-ea0f09ae3a18",
+    "https://www.loc.gov/item/82693222/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3752/g3752r/ct005704.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82693222/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "pike river watershed",
+    "québec",
+    "rock river watershed",
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Canada--Québec--Pike River Watershed",
+    "Canada--Québec--Rock River Watershed",
+    "Soil erosion--Pike River Watershed (Vt. and Québec)--Maps",
+    "Soil erosion--Rock River Watershed (Vt. and Québec)--Maps",
+    "United States--Vermont--Pike River Watershed",
+    "United States--Vermont--Rock River Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Soil erodibility index map, Rock River and Pikes Creek Watershed, Franklin County, Vermont",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82693222",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

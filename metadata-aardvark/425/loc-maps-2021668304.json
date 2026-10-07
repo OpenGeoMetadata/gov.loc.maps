@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Plan de la Baye de Rio de Janeiro"
+  ],
+  "dct_description_sm": [
+    "Content in French.",
+    "Contributors: Bellin, Jacques-Nicolas, 1703-1772 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Jacques Bellin (1703-72) was a prolific cartographer attached to the French Marine Office. His sea atlases reflected the careful mapping of bays, seas, and harbors that characterized 18th-century French naval cartography. In 1764, he published Le Petit Atlas Maritime, a work in five volumes, containing 581 maps. This map, from the second volume of the atlas, shows the Bay of Rio de Janeiro and its important natural harbor.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 map ; 21 x 32 centimeters.",
+    "Publication statement: Paris : [publisher not identified], 1764.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668304",
+    "http://www.loc.gov/item/2021668304/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00187/",
+    "http://www.loc.gov/resource/wdl.187/",
+    "https://hdl.loc.gov/loc.wdl/wdl.187",
+    "https://www.loc.gov/item/2021668304/"
+  ],
+  "dct_issued_s": "1764-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00187.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/18/7/wdl_00187/wdl_00187.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:18:7:wdl_00187:cart249843/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668304/\"}",
+  "dct_spatial_sm": [
+    "brazil",
+    "rio de janeiro"
+  ],
+  "dct_subject_sm": [
+    "1764",
+    "Brazil--Rio de Janeiro--Rio de Janeiro",
+    "Guanabara Bay (Brazil)"
+  ],
+  "dct_temporal_sm": [
+    "1764-01-01"
+  ],
+  "dct_title_s": "Map of the Bay of Rio de Janeiro.",
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1764
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668304",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

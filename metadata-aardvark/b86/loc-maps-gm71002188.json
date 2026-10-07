@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 440; 650/1; 650/2; 651/3; 651/4; 650/5; 700/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Grant, James, surveyor and draughtsman, joint author; Holland, Samuel, 1728-1801; Wheeler, Thomas (Surveyor)",
+    "Has watermark.",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: [1775?]",
+    "Relief shown by shading. Depths shown by soundings and color.",
+    "Relief shown by shading. Depths shown by soundings and color. Manuscript, pen-and-ink and watercolor. Has watermark. Scale ca. 1:48,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2: 440; 650/1; 650/2; 651/3; 651/4; 650/5; 700/2",
+    "Scale ca. 1:48,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3762b.ar094900",
+    "http://lccn.loc.gov/gm71002188",
+    "http://www.loc.gov/item/gm71002188/",
+    "http://www.loc.gov/resource/g3762b.ar094900/",
+    "https://hdl.loc.gov/loc.gmd/g3762b.ar094900",
+    "https://search.catalog.loc.gov/instances/7fb06b81-02a5-5985-bcfd-beeea6802e95",
+    "https://www.loc.gov/item/gm71002188/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3762/g3762b/ar094900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002188/\"}",
+  "dct_spatial_sm": [
+    "boston bay",
+    "boston harbor",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston Bay (Mass.)--Maps, Manuscript--Early works to 1800",
+    "Boston Harbor (Mass.)--Maps, Manuscript--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "Nautical charts--Massachusetts--Boston Bay--Early works to 1800",
+    "Nautical charts--Massachusetts--Boston Harbor--Early works to 1800",
+    "United States--Massachusetts--Boston Bay",
+    "United States--Massachusetts--Boston Harbor"
+  ],
+  "dct_temporal_sm": [
+    "1775",
+    "[1775?]"
+  ],
+  "dct_title_s": "A plan of the bay and harbor of Boston, surveyed agreeably to the orders and instructions of the Right Honorable the Lords Commissioners for Trade and Plantations, to Samuel Holland, Esqr., His Majesty's Surveyor General of Lands for the Northern District of North America,",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002188",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

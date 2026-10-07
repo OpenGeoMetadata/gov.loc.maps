@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"From the Uganda National Fisheries Resources Research Institute. Digitized at the National Library of Uganda with support from the Carnegie Corporation of New York.\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Trustees of the Uganda National Parks Contributor.; Uganda. Department of Lands and Surveys Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Uganda.",
+    "Original resource extent: 1 map ; 44 x 51 centimeters.",
+    "Publication statement: Entebbe, Uganda : Uganda. Department of Lands and Surveys, 1956-09.",
+    "This map of Murchison Falls National Park, the largest national park in Uganda, was issued in 1956 by the Lands and Surveys Department of the Uganda Protectorate. Shown are the park boundaries, roads and tracks, ranger stations, control points, and the park headquarters and safari lodge. The scale of the map is 1:250,000. The park is bisected by the Victoria Nile, which flows westward from Lake Victoria toward Lake Albert, which it enters in a swampy estuary at the western edge of the park. At Murchison Falls, the river runs through a narrow, eight-meter wide gorge and falls some 43 meters. Also shown on the map are Karuma Falls, on the far eastern edge of the park, and the Albert Nile, which issues from the northern end of Lake Albert and flows north to the border between Uganda and the Republic of Sudan (present-day South Sudan). The park is situated at the northern end of the Albertine Rift Valley, where the Bunyoro Escarpment (which forms part of the southern boundary of the park and is marked on the map) overlooks a vast savanna. It began as a game reserve in 1926 and was made a national park in 1952. It is home to 76 species of mammals and 451 species of birds. The 1951 film The African Queen, starring Humphrey Bogart and Katherine Hepburn, was filmed on Lake Albert and the Victoria Nile in Murchison Falls National Park. The falls were named after the Scottish geographer and geologist Roderick Murchison (1792-1871).",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668561",
+    "http://www.loc.gov/item/2021668561/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_14260/",
+    "http://www.loc.gov/resource/wdl.14260/",
+    "https://hdl.loc.gov/loc.wdl/wdl.14260",
+    "https://www.loc.gov/item/2021668561/"
+  ],
+  "dct_issued_s": "1956-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_14260.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/14/26/0/wdl_14260/wdl_14260.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:26:0:wdl_14260:NaFiRRI_0016/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668561/\"}",
+  "dct_spatial_sm": [
+    "uganda",
+    "western"
+  ],
+  "dct_subject_sm": [
+    "1956-09",
+    "Kabalega National Park (Uganda)",
+    "National parks and reserves",
+    "Uganda--Western",
+    "Waterfalls"
+  ],
+  "dct_temporal_sm": [
+    "1956-01-01"
+  ],
+  "dct_title_s": "Murchison Falls National Park, Uganda.",
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1956]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668561",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

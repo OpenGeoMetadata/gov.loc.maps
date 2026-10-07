@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Scale 1:5,300,000.\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Lindbergh, Charles A. (Charles Augustus), 1902-1974 Annotator.; United States. Hydrographic Office Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : color, annotated ; 27 x 11 centimeters.",
+    "Publication statement: Washington, D.C. : Hydrographic Office, 1922.",
+    "This is one of four charts held at the American Geographical Society Library that the American aviator Charles Lindbergh (1902--74) used to plan his historic transatlantic flight. Lindbergh was an airmail pilot who, in 1926, learned of the $25,000 prize for the first nonstop flight between New York and Paris. Backed by a group of businessmen in St. Louis, Missouri, Lindbergh had a special plane built, which he named The Spirit of St. Louis in honor of his supporters. On May 21--22, 1927, Lindbergh achieved the first nonstop solo flight across the Atlantic, covering the 5,790 kilometers from Roosevelt Field, New York, to Le Bourget, Paris in 33.5 hours. This map shows the extreme measures that Lindbergh used to lighten his aircraft. To eliminate every ounce of unnecessary weight from his plane, Lindbergh went so far as to cut off sections of the map that he would not need on the flight. The annotations on the map read: \"Unused portion of chart for New York to Paris flight--1927. C.A.L.\" and \"Gift from Charles A. Lindbergh, Dec. 18, 1950.\"",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668448",
+    "http://www.loc.gov/item/2021668448/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_06779/",
+    "http://www.loc.gov/resource/wdl.6779/",
+    "https://hdl.loc.gov/loc.wdl/wdl.6779",
+    "https://www.loc.gov/item/2021668448/"
+  ],
+  "dct_issued_s": "1922-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_06779.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/06/77/9/wdl_06779/wdl_06779.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:06:77:9:wdl_06779:am007840/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668448/\"}",
+  "dct_subject_sm": [
+    "1922 to 1927",
+    "Flight",
+    "Nautical charts",
+    "North Atlantic Ocean",
+    "Transatlantic flights"
+  ],
+  "dct_temporal_sm": [
+    "1922-01-01"
+  ],
+  "dct_title_s": "North Atlantic Ocean: Northeastern Sheet [portion].",
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1922
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668448",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 500825.\"",
+    "\"Base 500825.\" Scale 1:4,070,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, 1972]",
+    "Scale 1:4,070,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8330.ct002954",
+    "http://lccn.loc.gov/74692474",
+    "http://www.loc.gov/item/74692474/",
+    "http://www.loc.gov/resource/g8330.ct002954/",
+    "https://hdl.loc.gov/loc.gmd/g8330.ct002954",
+    "https://search.catalog.loc.gov/instances/14ee164e-d352-525d-bdc0-148703ad1474",
+    "https://www.loc.gov/item/74692474/"
+  ],
+  "dct_issued_s": "1972",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8330/g8330/ct002954.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692474/\"}",
+  "dct_spatial_sm": [
+    "ethiopia"
+  ],
+  "dct_subject_sm": [
+    "Ethiopia",
+    "Ethiopia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "dct_title_s": "Ethiopia. 9-72",
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1972]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692474",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Gulf of Mexico and Caribbean (Puerto Rico and U.S. Virgin Islands) offshore surficial-sediment data release"
+  ],
+  "dct_description_sm": [
+    "\"This report provides a synthesis compilation of published and unpublished sediment texture and other geologic data about the seafloor from diverse sources ... Examples of maps displaying attributes such as grain size and sediment color\"--CD-ROM container insert.",
+    "Also available via Internet from the USGS web site. Address as of 12/1/106: http://store.usgs.gov/sap/its/y_images/PDF/206911.pdf; current access via PURL.",
+    "Contributors: Buczkowski, Brian J.; Geological Survey (U.S.)",
+    "Includes bibliographical references.",
+    "Publication statement: Menlo Park, Calif. : U.S. Dept. of the Interior, U.S. Geological Survey, 2006.",
+    "Relief shown by contours, shading, gradient tints and landforms.",
+    "Shipping list no.: 2007-0003-E.",
+    "System requirements: PC with Internet access, Adobe Reader, GIS software; CD-ROM drive.",
+    "Title from CD-ROM label."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2008621799",
+    "http://purl.access.gpo.gov/GPO/LPS76868",
+    "http://www.loc.gov/item/2008621799/",
+    "https://www.loc.gov/item/2008621799/"
+  ],
+  "dct_issued_s": "2006",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2008621799/\"}",
+  "dct_spatial_sm": [
+    "caribbean area",
+    "gulf of america"
+  ],
+  "dct_subject_sm": [
+    "America, Gulf of--Maps",
+    "Caribbean Area--Maps",
+    "Geology--America, Gulf of--Maps",
+    "Geology--Caribbean Area--Maps",
+    "Marine sediments--America, Gulf of--Maps",
+    "Marine sediments--Caribbean Area--Maps",
+    "Ocean bottom--America, Gulf of--Maps",
+    "Ocean bottom--Caribbean Area--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "dct_title_s": "usSEABED",
+  "gbl_dateRange_drsim": [
+    "[2006 TO 2006]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008621799",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Aero data furnished by Forscom Flight Detachment, Ft. McPherson, Georgia.\"",
+    "\"Map information as of 1974. Air data 1976.\"",
+    "Also covers Atlanta metropolitan area.",
+    "Also covers Atlanta metropolitan area. \"Map information as of 1974. Air data 1976.\" Relief shown by spot heights. Shows radial distances. Standard map series designation: Series V603. \"Aero data furnished by Forscom Flight Detachment, Ft. McPherson, Georgia.\" Includes text. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Defense Mapping Agency. Topographic Center",
+    "Includes text.",
+    "Publication statement: Washington, D.C. : The Center, [1977]",
+    "Relief shown by spot heights.",
+    "Shows radial distances.",
+    "Standard map series designation: Series V603."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95683244",
+    "http://www.loc.gov/item/95683244/",
+    "http://www.loc.gov/resource/g3924a.ct010123/",
+    "https://hdl.loc.gov/loc.gmd/g3924a.ct010123",
+    "https://search.catalog.loc.gov/instances/bb554150-d9fd-57fb-af99-d7d82cd2a527",
+    "https://www.loc.gov/item/95683244/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3924/g3924a/ct010123.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95683244/\"}",
+  "dct_spatial_sm": [
+    "atlanta",
+    "atlanta metropolitan area",
+    "brown field region",
+    "fulton county airport",
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Aeronautical charts--Georgia--Atlanta Metropolitan Area",
+    "Aeronautical charts--Georgia--Fulton County Airport-Brown Field Region",
+    "Search and rescue operations--Georgia--Atlanta Metropolitan Area--Maps",
+    "Search and rescue operations--Georgia--Fulton County Airport-Brown Field Region--Maps",
+    "United States--Georgia--Atlanta Metropolitan Area",
+    "United States--Georgia--Atlanta--Fulton County Airport-Brown Field Region"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "Air-crash search-and-rescue map. Charlie Brown County Airport, Georgia",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95683244",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

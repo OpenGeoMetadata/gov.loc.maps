@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Scale 1:12,000\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Wyld, James, 1812-1887 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map ; 35 x 29 centimeters.",
+    "Publication statement: London : James Wyld, 1880.",
+    "The city of Kandahar, or Candahar, was the site of the final battle of the Second Anglo-Afghan War (1878--80). Soldiers stationed at the British garrison at Kandahar met Afghan forces at nearby Maiwand, where on July 27, 1880, the two British and Indian brigades suffered a calamitous defeat. Retreating to Kandahar, the surviving British soldiers drove away the local population and took shelter behind the protective walls in preparation for the defense of city. Ayub Khan, the ruler of Herat and the victor at Maiwand, proceeded to lay siege to Kandahar in early August 1880. The Battle of Kandahar, which lasted until September 1, resulted in the defeat of the Afghan forces, thanks in part to fresh British reinforcements from Kabul. This map, by the famous British mapmaker James Wyld the younger (1812--87), dates from 1880 and includes text describing the city's defenses. It is extremely detailed, showing individual groups of houses, the areas of the different trades, and markets. The fortified walls of the city, behind which the British forces took shelter during the battle, remained standing in parts until the early 20th century. The roughly rectangular layout of these fortifications can be traced in the modern city, where the walls have been replaced by streets and boulevards. Also noted on the map are the citadel (at the approximate site of the present-day governor's and police compound of Kandahar) and the nearby tomb of Ahmad Shah Durrani (circa 1722--72), the founder of modern Afghanistan. Kandahar is an ancient and storied city that was frequently fought over by warring empires. Its recorded history goes back at least to the sixth century BC, when the city served as the administrative capital of the province of Arachosia in the Persian Empire.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668604",
+    "http://www.loc.gov/item/2021668604/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15028/",
+    "http://www.loc.gov/resource/wdl.15028/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15028",
+    "https://www.loc.gov/item/2021668604/"
+  ],
+  "dct_issued_s": "1880-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15028.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/02/8/wdl_15028/wdl_15028.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:8:wdl_15028:am002909c/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668604/\"}",
+  "dct_spatial_sm": [
+    "afghanistan",
+    "kandahar",
+    "qandahār"
+  ],
+  "dct_subject_sm": [
+    "1880",
+    "Afghan Wars",
+    "Afghanistan--Qandahār--Kandahar",
+    "Library of Congress Afghanistan Project"
+  ],
+  "dct_temporal_sm": [
+    "1880-01-01"
+  ],
+  "dct_title_s": "Kandahar, Afghanistan.",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668604",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

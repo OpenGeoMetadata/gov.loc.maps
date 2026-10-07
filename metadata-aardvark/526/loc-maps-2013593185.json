@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Hendricks County, Indiana"
+  ],
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1862 by E.B.Gerber & Carl S. Warner in the Clerks Office of the District Court of the district of Indiana.\"",
+    "\"Entered according to Act of Congress in the year 1862 by E.B.Gerber & Carl S. Warner in the Clerks Office of the District Court of the district of Indiana.\" Includes county directory, statistical table, business directories, distance table, views of public, residential, and commercial buildings. Insets: Oswego -- Webster -- Sevastopol -- Warsaw -- Wooster -- Etna Green. LC Land ownership maps, 149 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Warner, C. S.; Worley & Bracher",
+    "Includes county directory, statistical table, business directories, distance table, views of public, residential, and commercial buildings.",
+    "Insets: Oswego -- Webster -- Sevastopol -- Warsaw -- Wooster -- Etna Green.",
+    "LC Land ownership maps, 149",
+    "Publication statement: Ligonier, Ind. : E.B. Berger & C.S. Warner, 1865.; Philada. : Worley & Bracher litho."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4093h.la000149",
+    "http://lccn.loc.gov/2013593185",
+    "http://www.loc.gov/item/2013593185/",
+    "http://www.loc.gov/resource/g4093h.la000149/",
+    "https://hdl.loc.gov/loc.gmd/g4093h.la000149",
+    "https://search.catalog.loc.gov/instances/9055f93e-0629-558a-b8e6-f799543a33dd",
+    "https://www.loc.gov/item/2013593185/"
+  ],
+  "dct_issued_s": "1866",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409/g4093/g4093h/la000149.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593185/\"}",
+  "dct_spatial_sm": [
+    "hendricks county",
+    "indiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Indiana--Hendricks County--Maps",
+    "Real property--Indiana--Hendricks County--Maps",
+    "United States--Indiana--Hendricks County"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "dct_title_s": "Map of Hendricks Co., Indiana",
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1866
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593185",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

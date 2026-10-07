@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2004-15",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bethune, John, surveyor general",
+    "Copy 2: Indian Article #125",
+    "Mounted on paper. Annotations in ink and pencil. Fold-lined. Some losses along folds and at lower left edge.",
+    "Publication statement: Milledgeville, Ga. : John Bethune, 1831.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Copy 2: Indian Article #125 Mounted on paper. Annotations in ink and pencil. Fold-lined. Some losses along folds and at lower left edge. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 2004-15 vcFY25",
+    "vcFY25"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3920.ct006918",
+    "http://lccn.loc.gov/2004633028",
+    "http://www.loc.gov/item/2004633028/",
+    "http://www.loc.gov/resource/g3920.ct006918/",
+    "https://hdl.loc.gov/loc.gmd/g3920.ct006918",
+    "https://search.catalog.loc.gov/instances/a14a9441-4604-5f6a-84e9-a43e14442855",
+    "https://www.loc.gov/item/2004633028/"
+  ],
+  "dct_issued_s": "1831",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3920/g3920/ct006918.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004633028/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cherokee Indians--Georgia",
+    "Cherokee Indians--Land tenure--Georgia",
+    "Georgia--Maps",
+    "United States--Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1831"
+  ],
+  "dct_title_s": "A map of that part of Georgia occupied by the Cherokee Indians, taken from an actual survey made during the present year 1831, in pursuance of an act of the general assembly of the state : this interesting tract of country contains four millions three hundred & sixty six thousand five hundred & fifty four acres, many rich gold mines & many delightful situations & though in some parts mountainous, some of the richest land belonging to the state",
+  "gbl_dateRange_drsim": [
+    "[1831 TO 1831]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1831
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004633028",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

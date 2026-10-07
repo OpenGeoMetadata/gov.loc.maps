@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Looking north west.\"",
+    "\"Looking north west.\" Includes ill. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 899 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 710/1",
+    "AACR2: 100; 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Merchant's Lithographing Company; Ruger, A.",
+    "Includes ill. and index to points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 899",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Chicago, Merchants Lith Co. [1871]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3964k.pm008990",
+    "http://lccn.loc.gov/73694529",
+    "http://www.loc.gov/item/73694529/",
+    "http://www.loc.gov/resource/g3964k.pm008990/",
+    "https://hdl.loc.gov/loc.gmd/g3964k.pm008990",
+    "https://search.catalog.loc.gov/instances/c8561b12-b7df-5ca2-8255-ff3e49df3ae5",
+    "https://www.loc.gov/item/73694529/"
+  ],
+  "dct_issued_s": "1871",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964k/pm008990.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73694529/\"}",
+  "dct_spatial_sm": [
+    "knoxville",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Knoxville (Tenn.)",
+    "United States--Tennessee--Knoxville"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "dct_title_s": "Bird's eye view of the city of Knoxville, Knox County, Tennessee 1871",
+  "gbl_dateRange_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1871
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73694529",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

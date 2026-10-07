@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "AACR2 Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 71 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Koch, Augustus, 1840-; Ramsey, Millett & Hudson",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 71",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Kansas City, Mo., Ramsey, Millet & Hudson, litho., c1879."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4314l.pm000710",
+    "http://lccn.loc.gov/75693139",
+    "http://www.loc.gov/item/75693139/",
+    "http://www.loc.gov/resource/g4314l.pm000710/",
+    "https://hdl.loc.gov/loc.gmd/g4314l.pm000710",
+    "https://search.catalog.loc.gov/instances/dc98c835-7975-5ea3-a27a-0ebef0322621",
+    "https://www.loc.gov/item/75693139/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd431/g4314/g4314l/pm000710.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693139/\"}",
+  "dct_spatial_sm": [
+    "colorado",
+    "leadville",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Leadville (Colo.)--Maps",
+    "United States--Colorado--Leadville"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Bird's eye view of Leadville, Lake County, Colo. 1879",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693139",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

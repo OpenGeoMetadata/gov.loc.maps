@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotated in pencil, on verso, with Canal Zone Library map checklist number: 161.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing landowners.",
+    "Cadastral map showing landowners. Relief shown by hachures and spot heights. Transferred from the collection of the Canal Zone Library-Museum, 1980. Oriented with north to the right. Pen-and-ink and watercolor. Available also through the Library of Congress Web site as a raster image. Annotated in pencil, on verso, with Canal Zone Library map checklist number: 161. Vault",
+    "Contributors: Harrison, Thomas",
+    "Oriented with north to the right.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1857]",
+    "Relief shown by hachures and spot heights.",
+    "Transferred from the collection of the Canal Zone Library-Museum, 1980.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/83694758",
+    "http://www.loc.gov/item/83694758/",
+    "http://www.loc.gov/resource/g4874p.pcc00013/",
+    "https://hdl.loc.gov/loc.gmd/g4874p.pcc00013",
+    "https://search.catalog.loc.gov/instances/5943585e-907c-5b02-8545-b8a09a546026",
+    "https://www.loc.gov/item/83694758/"
+  ],
+  "dct_issued_s": "1857",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4874:g4874p:pcc00013/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/83694758/\"}",
+  "dct_spatial_sm": [
+    "panama",
+    "panama city (panama)"
+  ],
+  "dct_subject_sm": [
+    "Panama (Panama)--Maps, Manuscript",
+    "Panama Railroad Co.--Maps",
+    "Panama--Panama City (Panama)",
+    "Real property--Panama--Panama--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_title_s": "[Lands belonging to the Panama Railroad Company : Panama City]",
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1857
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83694758",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

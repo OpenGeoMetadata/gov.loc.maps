@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Ferrer, Fermin",
+    "Publication statement: [S.l.], 1855."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4850.ct000427",
+    "http://lccn.loc.gov/99466744",
+    "http://www.loc.gov/item/99466744/",
+    "http://www.loc.gov/resource/g4850.ct000427/",
+    "https://hdl.loc.gov/loc.gmd/g4850.ct000427",
+    "https://search.catalog.loc.gov/instances/e4809230-6f70-546e-b212-af4ce7e33999",
+    "https://www.loc.gov/item/99466744/"
+  ],
+  "dct_issued_s": "1855",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4850/g4850/ct000427.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466744/\"}",
+  "dct_spatial_sm": [
+    "nicaragua"
+  ],
+  "dct_subject_sm": [
+    "Nicaragua",
+    "Nicaragua--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "dct_title_s": "Geographical Map of the Republic of Nicaragua",
+  "gbl_dateRange_drsim": [
+    "[1855 TO 1855]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1855
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466744",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

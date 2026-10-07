@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Карта заселяемой части Сибири. Тобольская губерния"
+  ],
+  "dct_description_sm": [
+    "Original map at: Tomsk Oblast Museum of Regional History and Folklife",
+    "Publication statement: [place of publication not identified] : Izdanie Pereselencheskogo Upravlenii︠a︡, 1905."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694023",
+    "http://www.loc.gov/item/2018694023/",
+    "http://www.loc.gov/resource/gdc.2018694023/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.wmt0009",
+    "https://search.catalog.loc.gov/instances/8a8ba8fb-d3a4-5ea2-886b-32db3206cd9d",
+    "https://www.loc.gov/item/2018694023/"
+  ],
+  "dct_issued_s": "1905",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694023.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694023/2018694023.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694023:wmt0009/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694023/\"}",
+  "dct_spatial_sm": [
+    "russian federation",
+    "tyumen oblast"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation",
+    "Tobol'skai︠a︡ gubernii︠a︡",
+    "Tyumen Oblast",
+    "rasselenie",
+    "Тобольская губерния",
+    "расселение"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dct_title_s": "Karta zaseli︠a︡emoĭ chasti Sibiri. Tobol'skai︠a︡ gubernii︠a︡",
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1905]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1905
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694023",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cram, George Franklin, 1841-1928",
+    "Includes indexes and inset of Alaska.",
+    "LC copy imperfect: Some fold lines torn and part of index and upper margin cut off.",
+    "Publication statement: Chicago, Ill. : George F. Cram, c1902.",
+    "Relief shown by hachures on map of the United States.",
+    "Relief shown by hachures on map of the United States. LC copy imperfect: Some fold lines torn and part of index and upper margin cut off. Includes indexes and inset of Alaska. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4190.ct003439",
+    "http://lccn.loc.gov/2012586807",
+    "http://www.loc.gov/item/2012586807/",
+    "http://www.loc.gov/resource/g4190.ct003439/",
+    "https://hdl.loc.gov/loc.gmd/g4190.ct003439",
+    "https://search.catalog.loc.gov/instances/5e05cc18-d921-5c44-80a3-f13a01ae5446",
+    "https://www.loc.gov/item/2012586807/"
+  ],
+  "dct_issued_s": "1902",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd419/g4190/g4190/ct003439.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012586807/\"}",
+  "dct_spatial_sm": [
+    "nebraska",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Nebraska--Maps",
+    "United States--Maps",
+    "United States--Nebraska",
+    "United States--Population--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "dct_title_s": "Map of Nebraska : United States : population, 76,303,387",
+  "gbl_dateRange_drsim": [
+    "[1902 TO 1902]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1902
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012586807",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

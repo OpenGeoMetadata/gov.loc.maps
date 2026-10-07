@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, indexes to heritage sites, location map, and col. ill.",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2010?]",
+    "Text and col. ill. on verso.",
+    "Title from panel.",
+    "Title from panel. Includes text, indexes to heritage sites, location map, and col. ill. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2010587509",
+    "http://www.loc.gov/item/2010587509/",
+    "http://www.loc.gov/resource/g3902b.ct009578/",
+    "https://hdl.loc.gov/loc.gmd/g3902b.ct009578",
+    "https://search.catalog.loc.gov/instances/72452ad1-d5a5-5cd9-a6ce-5ad10ca7c8ac",
+    "https://www.loc.gov/item/2010587509/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902b/ct009578.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010587509/\"}",
+  "dct_spatial_sm": [
+    "blue ridge national heritage area",
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Blue Ridge National Heritage Area (N.C.)--Maps",
+    "Heritage tourism--North Carolina--Blue Ridge National Heritage Area--Maps",
+    "United States--North Carolina--Blue Ridge National Heritage Area"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "[Washington, D.C.] : National Park Service, [2010?]"
+  ],
+  "dct_title_s": "Blue Ridge National Heritage Area, western North Carolina",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010587509",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

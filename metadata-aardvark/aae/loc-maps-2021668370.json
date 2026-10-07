@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "S[acri] R[omani] I[mperii] sive Antverpiae Marchionatus et Dominium Mechliniae : cum orientalioribus Flandriae et Brabantiae hisce consequentibus terminis / auctore Carolo Allard"
+  ],
+  "dct_description_sm": [
+    "Content in Dutch.",
+    "Contributors: Allard, Carel, 1648-1709? Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 map : 50 x 58.5 centimeters.",
+    "Publication statement: Amsterdam, Netherlands : A. Allard, 1688.",
+    "This late-17th century map shows the Duchy of Brabant, including the cities of Antwerp and Mechelen. The duchy consisted of the modern-day Belgian provinces of Flemish Brabant, Walloon Brabant, Antwerp, and Brussels, as well as the province of North Brabant in the present-day Netherlands. The map was published in Amsterdam by Karel Allard (1648-1706) who, with his brother Abraham, had taken over the business of their father, the Amsterdam map publisher Hugo Allard. The Allard family was known more for publishing atlases of maps by others than for original cartography.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668370",
+    "http://www.loc.gov/item/2021668370/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_01102/",
+    "http://www.loc.gov/resource/wdl.1102/",
+    "https://hdl.loc.gov/loc.wdl/wdl.1102",
+    "https://www.loc.gov/item/2021668370/"
+  ],
+  "dct_issued_s": "1688-01-01",
+  "dct_language_sm": [
+    "dut",
+    "flemish"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_01102.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/01/10/2/wdl_01102/wdl_01102.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:10:2:wdl_01102:cart528150/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668370/\"}",
+  "dct_spatial_sm": [
+    "antwerp",
+    "belgium",
+    "flanders",
+    "netherlands"
+  ],
+  "dct_subject_sm": [
+    "1688",
+    "Belgium--Flanders--Antwerp",
+    "Holy Roman Empire",
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "1688-01-01"
+  ],
+  "dct_title_s": "The Holy Roman Empires Duchy of Antwerp and the Dominium of Malines: With the Eastern Flemish Areas and the Boundaries of Brabant Following from These.",
+  "gbl_dateRange_drsim": [
+    "[1688 TO 1688]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1688
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668370",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

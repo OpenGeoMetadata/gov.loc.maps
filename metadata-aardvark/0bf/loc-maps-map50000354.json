@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Series V861",
+    "Standard map series designation: Series V861"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service, cartographer",
+    "Includes sheets of various editions.",
+    "Publication statement: Washington, D.C. : Army Map Service, 1949-",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Includes sheets of various editions. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map50000354",
+    "http://www.loc.gov/item/map50000354/",
+    "http://www.loc.gov/resource/gmdsetmaps.map50000354/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map50000354",
+    "https://search.catalog.loc.gov/instances/1e9712e6-cf5b-5e21-8fe0-57df631386ce",
+    "https://www.loc.gov/item/map50000354/"
+  ],
+  "dct_issued_s": "1949",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:ma:p5:00:00:35:4:map50000354:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map50000354/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "United States--Wisconsin",
+    "Wisconsin--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "dct_title_s": "Wisconsin 1:25,000",
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1949]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-map50000354",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

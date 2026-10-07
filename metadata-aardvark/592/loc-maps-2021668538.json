@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Estats de l'Empire du grand seigneur dit sultan et Ottomans empereur des Turcs dans trois parties du Monde sçavoir en Europe, en Asie, et en Afrique"
+  ],
+  "dct_description_sm": [
+    "\"Linear scale 29,600,000\"--Note extracted from World Digital Library.",
+    "Content in French.",
+    "Contributors: Chiquet, Jacques, 1673?-1721 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Jacques Chiquet (circa 1673-1721) was a French cartographer who published two atlases, both of which appeared in 1719: Le Nouveau et Curieux Atlas Geographique et Historique (New and curious geographic and historical atlas), a world atlas with 24 maps; and Noveau Atlas Francais (New French atlas), an atlas of France with 15 maps. Presented here is Chiquet's map of the Ottoman Empire, which spread over parts of the three continents of the old world: Africa, Asia, and Europe. In the lower left is a small inset map showing the extension of Ottoman territory along the coast of North Africa beyond the bounds of the main map. Also included is a table listing the Ottoman emperors, from Osman I (1258-1326) to Ahmed II (1643-95). A curious note on the bottom center of the map concerns the Nile and its sources. The note states that the ancients had been unable to discover the source of the river, but that this honor belonged to Pierre Pais (Pedro Páez), Alphonse Mendez (Alfonso Mendes), and other Jesuit priests active in Ethiopia in the early 17th century. The Jesuits had in fact identified the Blue Nile, one of the main sources of the river; the origins of the White Nile were not found by Europeans until the 19th century.",
+    "Original resource at: National and University Library \"St Kliment Ohridski\" -- Skopje.",
+    "Original resource extent: 1 map ; 29 x 21 centimeters.",
+    "Publication statement: Paris : [publisher not identified], 1719.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668538",
+    "http://www.loc.gov/item/2021668538/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_11818/",
+    "http://www.loc.gov/resource/wdl.11818/",
+    "https://hdl.loc.gov/loc.wdl/wdl.11818",
+    "https://www.loc.gov/item/2021668538/"
+  ],
+  "dct_issued_s": "1719-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_11818.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/81/8/wdl_11818/wdl_11818.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:81:8:wdl_11818:KKR-24/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668538/\"}",
+  "dct_subject_sm": [
+    "1719",
+    "Arabian Peninsula",
+    "Balkan Peninsula",
+    "Jesuits",
+    "Kings and rulers",
+    "Nile River",
+    "Ottoman Empire, 1288-1918",
+    "Red Sea"
+  ],
+  "dct_temporal_sm": [
+    "1719-01-01"
+  ],
+  "dct_title_s": "States of the Empire of the Great Lord, also Known as Sultan and Emperor of the Ottoman Turks in Three Parts of the World: Europe, Asia, and Africa.",
+  "gbl_dateRange_drsim": [
+    "[1719 TO 1719]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1719
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668538",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

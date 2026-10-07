@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "3 copies",
+    "Also shows routes of exploration.",
+    "At head of title: Explorations and Surveys, War Department, map no. 2.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Egloffstein, F. W., 1824-1885; Humphreys, A. A. (Andrew Atkinson), 1810-1883; Ives, J. C.; United States. Office of Explorations and Surveys",
+    "Publication statement: [Washington] : Office of Explorations and Surveys, 1858.",
+    "Relief shown by shading and hachures.",
+    "Relief shown by shading and hachures. Also shows routes of exploration. At head of title: Explorations and Surveys, War Department, map no. 2. Available also through the Library of Congress Web site as a raster image. 3 copies"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4302c.np000062",
+    "http://lccn.loc.gov/79692915",
+    "http://www.loc.gov/item/79692915/",
+    "http://www.loc.gov/resource/g4302c.np000062/",
+    "https://hdl.loc.gov/loc.gmd/g4302c.np000062",
+    "https://search.catalog.loc.gov/instances/8191bfa5-fa74-58d8-bd83-1b3f4f134de1",
+    "https://www.loc.gov/item/79692915/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd430/g4302/g4302c/np000062.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79692915/\"}",
+  "dct_spatial_sm": [
+    "colorado",
+    "colorado river",
+    "colorado river (colo.-mexico)",
+    "mexico",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Colorado River (Colo.-Mexico)--Maps",
+    "United States--Colorado River (Colo.-Mexico)"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Rio Colorado of the West",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79692915",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

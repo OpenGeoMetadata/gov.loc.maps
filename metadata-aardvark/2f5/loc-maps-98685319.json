@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "National map of the United States"
+  ],
+  "dct_description_sm": [
+    "\"Entered according to act of Congress in the year 1849 by Ensign & Thayer ... southern district of New York.\"",
+    "\"Entered according to act of Congress in the year 1849 by Ensign & Thayer ... southern district of New York.\" Prime meridian: Washington D.C. Includes insets \"Map of Oregon, California & Texas\", \"Southern part of Florida\", \"N. part of Maine\", and portraits of U.S. presidents and statesmen and state emblems. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Atwood, John M., approximately 1818-, cartographer, engraver; Ensigns & Thayer, publisher",
+    "Includes insets \"Map of Oregon, California & Texas\", \"Southern part of Florida\", \"N. part of Maine\", and portraits of U.S. presidents and statesmen and state emblems.",
+    "Prime meridian: Washington D.C.",
+    "Publication statement: New York : Published by Ensign & Thayer, 50 Ann Street, 1852."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.ct000760",
+    "http://lccn.loc.gov/98685319",
+    "http://www.loc.gov/item/98685319/",
+    "http://www.loc.gov/resource/g3700.ct000760/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ct000760",
+    "https://search.catalog.loc.gov/instances/4b07b9f4-f639-5cfa-9429-88765c965367",
+    "https://www.loc.gov/item/98685319/"
+  ],
+  "dct_issued_s": "1852",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ct000760.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98685319/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "dct_title_s": "Phelps's national map of the United States : a traveller's guide : embracing the principal rail roads, canals, steam boat & stage routes, throughout the union",
+  "gbl_dateRange_drsim": [
+    "[1852 TO 1852]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1852
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98685319",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

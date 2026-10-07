@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright 1892 by W.L. McGaughey, Coms. Genl. L.O.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: McGaughey, W. L.; Texas. General Land Office",
+    "LC Land ownership maps, 1040",
+    "LC copies mounted on paper and stained.",
+    "Publication statement: [Austin, Tex.] : Texas General Land Office, c1892.",
+    "Shows land ownership.",
+    "Shows land ownership. \"Copyright 1892 by W.L. McGaughey, Coms. Genl. L.O.\" LC copies mounted on paper and stained. LC Land ownership maps, 1040 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033k.la001040",
+    "http://lccn.loc.gov/2012592054",
+    "http://www.loc.gov/item/2012592054/",
+    "http://www.loc.gov/resource/g4033k.la001040/",
+    "https://hdl.loc.gov/loc.gmd/g4033k.la001040",
+    "https://search.catalog.loc.gov/instances/c4b774a6-f1f5-542a-9c06-e1dccb42626a",
+    "https://www.loc.gov/item/2012592054/"
+  ],
+  "dct_issued_s": "1892",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033k/la001040.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592054/\"}",
+  "dct_spatial_sm": [
+    "kimble county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Kimble County (Tex.)--Maps",
+    "Landowners--Texas--Kimble County--Maps",
+    "Real property--Texas--Kimble County--Maps",
+    "United States--Texas--Kimble County"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "dct_title_s": "Kimble County",
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592054",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

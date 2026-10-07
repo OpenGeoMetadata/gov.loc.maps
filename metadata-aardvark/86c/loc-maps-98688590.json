@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Baltimore and Ohio Railroad Company",
+    "Description derived from published bibliography.",
+    "Indicates several \"preferred\" and \"surveyed\" lines to Wheeling and Pittsburgh and other possible northern and southern routes.",
+    "LC Railroad maps, 335",
+    "Lightly colored map on tracing linen showing western Pennsylvania, western Maryland, parts of Virginia and West Virginia and most of Ohio.",
+    "Publication statement: [n.p., 1843]",
+    "Scale 1:316,800.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3791p.rr003350",
+    "http://lccn.loc.gov/98688590",
+    "http://www.loc.gov/item/98688590/",
+    "http://www.loc.gov/resource/g3791p.rr003350/",
+    "https://hdl.loc.gov/loc.gmd/g3791p.rr003350",
+    "https://search.catalog.loc.gov/instances/c48af084-945e-57c9-aed9-7efd728a28a0",
+    "https://www.loc.gov/item/98688590/"
+  ],
+  "dct_issued_s": "1843",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd379/g3791/g3791p/rr003350.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688590/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Baltimore and Ohio Railroad Company--Maps",
+    "Railroads--Middle Atlantic States--Maps",
+    "United States--Middle Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1843"
+  ],
+  "dct_title_s": "Map of the county west of Cumberland towards the Ohio river, showing the various lines surveyed or reconnoitred [sic] for the extension of the Baltimore & Ohio Rail Road to its western terminus referred to in the report of the chief engineer of September 20th, 1843",
+  "gbl_dateRange_drsim": [
+    "[1843 TO 1843]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1843
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688590",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

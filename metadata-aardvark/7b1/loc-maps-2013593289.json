@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Fisher, Joshua, 1707-1783",
+    "Includes bar scales in statute and nautical miles.",
+    "LC Maps and charts of North America and the West Indies 1750-1789, 1372",
+    "LC copy imperfect: Mounted on cloth backing, fold-lined, trimmed at lower edge.",
+    "Nautical chart showing shoals, tidal flats, ship channels, shoreline anchorages, and port towns up to Philadelphia.",
+    "Oriented with north to the right.",
+    "Publication statement: [London] : [publisher not identified], [1779?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3832d.ar137200",
+    "http://hdl.loc.gov/loc.gmd/g3832d.ar137201",
+    "http://lccn.loc.gov/2013593289",
+    "http://www.loc.gov/item/2013593289/",
+    "http://www.loc.gov/resource/g3832d.ar137200/",
+    "http://www.loc.gov/resource/g3832d.ar137201/",
+    "https://hdl.loc.gov/loc.gmd/g3832d.ar137200",
+    "https://hdl.loc.gov/loc.gmd/g3832d.ar137201",
+    "https://search.catalog.loc.gov/instances/584a282b-8229-5603-b853-91f4e9b0fff8",
+    "https://www.loc.gov/item/2013593289/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd383/g3832/g3832d/ar137200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593289/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "delaware bay",
+    "delaware river",
+    "new jersey",
+    "new york",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delaware Bay (Del. and N.J.)--Mapv--Early works to 1800",
+    "Delaware River (N.Y.-Del. and N.J.)--Maps--Early works to 1800",
+    "United States--Delaware--Delaware Bay",
+    "United States--Delaware--Delaware River",
+    "United States--New Jersey--Delaware Bay",
+    "United States--New Jersey--Delaware River"
+  ],
+  "dct_temporal_sm": [
+    "1776",
+    "[London] : [publisher not identified], [1779?]"
+  ],
+  "dct_title_s": "A chart of Delaware Bay and River : from the original",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593289",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

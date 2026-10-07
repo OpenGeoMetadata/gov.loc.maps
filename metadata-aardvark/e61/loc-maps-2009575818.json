@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Richmond and thirty miles around it",
+    "Title in upper margin: Richmond and thirty miles around it"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no.: 91-50",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "CW3",
+    "Contributors: Colton, G. Woolworth (George Woolworth), 1827-1901",
+    "Copy Imperfect: Four minor tears along top edges and 2 minor tears along lower-left margin.",
+    "From newspaper: New-York daily tribune, Tuesday, April 4, 1865--with supplement, p. 8.",
+    "Includes text.",
+    "Publication statement: New York : New-York daily tribune, 1865.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows fortifications and names of some residents. From newspaper: New-York daily tribune, Tuesday, April 4, 1865--with supplement, p. 8. Includes text. Text on verso. Copy Imperfect: Four minor tears along top edges and 2 minor tears along lower-left margin. Available also through the Library of Congress Web site as a raster image. Acquisitions control no.: 91-50 CW3",
+    "Shows fortifications and names of some residents.",
+    "Text on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884r.cw1018000",
+    "http://lccn.loc.gov/2009575818",
+    "http://www.loc.gov/item/2009575818/",
+    "http://www.loc.gov/resource/g3884r.cw1018000/",
+    "https://hdl.loc.gov/loc.gmd/g3884r.cw1018000",
+    "https://search.catalog.loc.gov/instances/565fe402-62da-5887-bd2c-1af093af0dd9",
+    "https://www.loc.gov/item/2009575818/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884r/cw1018000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009575818/\"}",
+  "dct_spatial_sm": [
+    "richmond region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Fortification--Virginia--Richmond Region--Maps",
+    "Landowners--Virginia--Richmond Region--Maps",
+    "Richmond Region (Va.)--History--Civil War, 1861-1865--Maps",
+    "Richmond Region (Va.)--Maps",
+    "United States--Virginia--Richmond Region"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "A topographical map of the city of Richmond and vicinity : from official data",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2009575818",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

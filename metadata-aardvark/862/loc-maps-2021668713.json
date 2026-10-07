@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"BSB shelfmark: Cod.icon. 133|This description of the work was written by Traudl Seifert of the Bavarian State Library.\"--Note extracted from World Digital Library.",
+    "Content in Italian and Latin and Portuguese.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Bavarian State Library.",
+    "Original resource extent: 1 map ; 99 x 111 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], [1502 to 1506]",
+    "The first maritime charts were produced at the turn of the 13th and 14th centuries. Their main purpose was to represent with the greatest possible accuracy coastlines and ports, for which reason they were called portolanos. When seafarers ventured out into the open sea, they entered their new discoveries on the charts. A Portuguese law stipulated that every ship had to carry two serviceable charts on board. The portolan chart shown here was copied by an Italian cartographer from a Portuguese original. It is an important document in the history of the discovery of America and is known as the Kunstmann II or Four Finger Map. Dating from the period circa 1502-6, it already records the discoveries resulting from the voyages in 1501 of the Portuguese explorer Miguel Corte-Real (circa 1448-circa 1502) and the Italian explorer and navigator Amerigo Vespucci (circa 1451/54-1512). Corte-Real charted, in North America, Terra de Lavorador (parts of present-day Greenland) and Terra Corte Real (Newfoundland and Labrador). Vespucci's discoveries in South America included the northern coast from De Lisleo (San Lorenzo, Lake Maracaibo) to the Rio de le Aues (the Orinoco River), and, after a gap between Cabo de São Roque and the Rio de Cananor, the eastern seaboard of the continent. On this map the southern coastal strip is designated \"Terra Sanctae Crucis.\" An inscription and an image at lower left report the prevalence of cannibalism in this region. Africa is shown foreshortened from north to south, and in the north as conspicuously broad from east to west. Madagascar, the island off the east coast of Africa discovered in 1506, is missing from the map, so it is certain that the chart was made before that date. Different names on the map appear in Latin, Portuguese, and Italian.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668713",
+    "http://www.loc.gov/item/2021668713/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_18177/",
+    "http://www.loc.gov/resource/wdl.18177/",
+    "https://hdl.loc.gov/loc.wdl/wdl.18177",
+    "https://www.loc.gov/item/2021668713/"
+  ],
+  "dct_issued_s": "1502-01-01",
+  "dct_language_sm": [
+    "ita",
+    "lat",
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_18177.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/17/7/wdl_18177/wdl_18177.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:18:17:7:wdl_18177:bsb00003881_00001/full/pct:1.5625/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668713/\"}",
+  "dct_subject_sm": [
+    "1502 to 1506",
+    "Coastlines",
+    "Discoveries in geography",
+    "Mappae mundi",
+    "Nautical charts",
+    "Portolan charts",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1502-01-01"
+  ],
+  "dct_title_s": "Portolan Chart.",
+  "gbl_dateRange_drsim": [
+    "[1502 TO 1502]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1502
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668713",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

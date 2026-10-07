@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Annotated on verso: Holland's map of New York & New Jersey, with part of Pennsylvania extending N. & South from Cape Hen[lo]pen to Lat. 46⁰40ʹ.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Holland, Samuel, 1728-1801; Jefferys, Thomas, -1771; Sayer, Robert, 1725-1794",
+    "Hand colored.",
+    "Includes \"Note.\"",
+    "LC Maps of North America, 1750-1789, 1039",
+    "Prime meridian: London.",
+    "Publication statement: [London] Printed for Robt. Sayer ... and T. Jefferys [1768?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:650,000.",
+    "Shows administrative divisions.",
+    "Title in upper margin: A chorographical map of the country between Albany, Oswego, Fort Frontenac, and les Trois Rivières ... Drawn from authentic surveys by Thomas Jefferys, geographer to His Majesty.",
+    "Title in upper margin: A chorographical map of the country between Albany, Oswego, Fort Frontenac, and les Trois Rivières ... Drawn from authentic surveys by Thomas Jefferys, geographer to His Majesty. Hand colored. Prime meridian: London. Relief shown pictorially. Annotated on verso: Holland's map of New York & New Jersey, with part of Pennsylvania extending N. & South from Cape Hen[lo]pen to Lat. 46⁰40ʹ. Shows administrative divisions. Includes \"Note.\" Scale ca. 1:650,000. LC Maps of North America, 1750-1789, 1039 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3800.ar103900",
+    "http://lccn.loc.gov/74692648",
+    "http://www.loc.gov/item/74692648/",
+    "http://www.loc.gov/resource/g3800.ar103900/",
+    "https://hdl.loc.gov/loc.gmd/g3800.ar103900",
+    "https://search.catalog.loc.gov/instances/ac3d3844-5379-5607-97c5-05e6a28a0a45",
+    "https://www.loc.gov/item/74692648/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3800/g3800/ar103900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692648/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Jersey--Administrative and political divisions--Maps--Early works to 1800",
+    "New Jersey--Maps--Early works to 1800",
+    "New York (State)--Administrative and political divisions--Maps--Early works to 1800",
+    "New York (State)--Maps--Early works to 1800",
+    "United States--New Jersey",
+    "United States--New York (State)"
+  ],
+  "dct_temporal_sm": [
+    "1768",
+    "[London] Printed for Robt. Sayer ... and T. Jefferys [1768?]"
+  ],
+  "dct_title_s": "The provinces of New York, and New Jersey; with part of Pensilvania, and the governments of Trois Rivières, and Montreal:",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692648",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Map information as of 1976. Air data 1977.\"",
+    "\"Map information as of 1976. Air data 1977.\" Standard map series designation: Series V603. Relief shown by spot heights. Shows radial distances. Includes text. Scale 1:100,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Defense Mapping Agency. Hydrographic/Topographic Center",
+    "Includes text.",
+    "Publication statement: Washington : The Center, [1978]",
+    "Relief shown by spot heights.",
+    "Scale 1:100,000.",
+    "Shows radial distances.",
+    "Standard map series designation: Series V603."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/79691587",
+    "http://www.loc.gov/item/79691587/",
+    "http://www.loc.gov/resource/g4034k.ct011610/",
+    "https://hdl.loc.gov/loc.gmd/g4034k.ct011610",
+    "https://search.catalog.loc.gov/instances/ce497888-9d46-530c-a0eb-82f78a08ca4f",
+    "https://www.loc.gov/item/79691587/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4034/g4034k/ct011610.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79691587/\"}",
+  "dct_spatial_sm": [
+    "fort hood region",
+    "killeen",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Aeronautical charts--Texas--Fort Hood Region",
+    "Search and rescue operations--Texas--Fort Hood Region--Maps",
+    "United States--Texas--Killeen--Fort Hood Region"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Air-crash search-and-rescue map. Hood Army Airfield (Fort Hood), Texas",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79691587",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Has watermarks.",
+    "LC Maps of North America, 1750-1789, 1117",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Oriented with north to the right.",
+    "Publication statement: [1768?]",
+    "Relief shown by hachures.",
+    "Scale 1:7,920; 10 chains to 1 in.",
+    "Title from manuscript on verso.",
+    "Title from manuscript on verso. Manuscript, pen-and-ink and watercolor. Has watermarks. Oriented with north to the right. Relief shown by hachures. Scale 1:7,920; 10 chains to 1 in. LC Maps of North America, 1750-1789, 1117 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804c.ar111700",
+    "http://lccn.loc.gov/gm71002320",
+    "http://www.loc.gov/item/gm71002320/",
+    "http://www.loc.gov/resource/g3804c.ar111700/",
+    "https://hdl.loc.gov/loc.gmd/g3804c.ar111700",
+    "https://search.catalog.loc.gov/instances/6f3df22a-8f60-596f-aa36-6051514150a8",
+    "https://www.loc.gov/item/gm71002320/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804c/ar111700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002320/\"}",
+  "dct_spatial_sm": [
+    "crown point",
+    "new york",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Crown Point (N.Y.)--Maps, Manuscript--Early works to 1800",
+    "United States--New York--Crown Point"
+  ],
+  "dct_temporal_sm": [
+    "1768",
+    "[1768?]"
+  ],
+  "dct_title_s": "Crown Point & part of Lake Champlain",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002320",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

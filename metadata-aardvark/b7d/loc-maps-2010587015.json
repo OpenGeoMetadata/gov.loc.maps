@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Heap, George, active 1715-1760; Scull, Nicholas, 1686?-1761?",
+    "From Gentleman's Magazine, vol. 23, 1753 p. 373.",
+    "From Gentleman's Magazine, vol. 23, 1753 p. 373. Includes table of distances \"The distances of particular places in this map, from the court house.\" Mounted on paper with linen backing. LC Maps of North America, 1750-1789, 1306 Available also through the Library of Congress Web site as a raster image.",
+    "Includes table of distances \"The distances of particular places in this map, from the court house.\"",
+    "LC Maps of North America, 1750-1789, 1306",
+    "Mounted on paper with linen backing.",
+    "Publication statement: [S.l. : s.n., 1753]."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824p.ar130600",
+    "http://lccn.loc.gov/2010587015",
+    "http://www.loc.gov/item/2010587015/",
+    "http://www.loc.gov/resource/g3824p.ar130600/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.ar130600",
+    "https://search.catalog.loc.gov/instances/f07b8830-5aa9-5240-8d69-6524ba082b08",
+    "https://www.loc.gov/item/2010587015/"
+  ],
+  "dct_issued_s": "1753",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ar130600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010587015/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "philadelphia",
+    "philadelphia region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Philadelphia (Pa.)--Maps--Early works to 1800",
+    "Philadelphia Region (Pa.)--Maps--Early works to 1800",
+    "United States--Pennsylvania--Philadelphia",
+    "United States--Pennsylvania--Philadelphia Region"
+  ],
+  "dct_temporal_sm": [
+    "1753"
+  ],
+  "dct_title_s": "A map of Philadelphia and parts adjacent,",
+  "gbl_dateRange_drsim": [
+    "[1753 TO 1753]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1753
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010587015",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

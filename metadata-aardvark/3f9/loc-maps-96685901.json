@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Complete map of Yunnan Province",
+    "Complete map of Yunnan Province",
+    "雲南全图"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hubei Sheng (China). Guan shu ju",
+    "Includes list of administrative divisions with distance information.",
+    "One of 26 maps in \"Da Qing yi tong yu di quan tu\" which was compiled in 1864.",
+    "Publication statement: Wuchang : Hubei guan shu ju, Qing Tongzhi 3 nian [1864]",
+    "Relief shown pictorially.",
+    "Reproduction of brush-and-ink original.",
+    "Wood block print.",
+    "Wood block print. Relief shown pictorially. One of 26 maps in \"Da Qing yi tong yu di quan tu\" which was compiled in 1864. Reproduction of brush-and-ink original. Includes list of administrative divisions with distance information. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7823y.ct003252",
+    "http://lccn.loc.gov/96685901",
+    "http://www.loc.gov/item/96685901/",
+    "http://www.loc.gov/resource/g7823y.ct003252/",
+    "https://hdl.loc.gov/loc.gmd/g7823y.ct003252",
+    "https://search.catalog.loc.gov/instances/f735a44b-bc3b-5fe8-a196-dc369f58c5a0",
+    "https://www.loc.gov/item/96685901/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7823/g7823y/ct003252.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96685901/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "yunnan sheng"
+  ],
+  "dct_subject_sm": [
+    "China--Yunnan Sheng",
+    "Yunnan Sheng (China)--Administrative and political divisions--Maps",
+    "Yunnan Sheng (China)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Yunnan quan tu",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96685901",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beck & Pauli; Stoner, J. J.",
+    "Includes illus. and index to points of interest.",
+    "Includes illus. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 70 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 70",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Madison, Wis., c1882."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4314g.pm000700",
+    "http://lccn.loc.gov/75693138",
+    "http://www.loc.gov/item/75693138/",
+    "http://www.loc.gov/resource/g4314g.pm000700/",
+    "https://hdl.loc.gov/loc.gmd/g4314g.pm000700",
+    "https://search.catalog.loc.gov/instances/cbac0d81-dbbf-5237-b2af-d0913486abf3",
+    "https://www.loc.gov/item/75693138/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd431/g4314/g4314g/pm000700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693138/\"}",
+  "dct_spatial_sm": [
+    "colorado",
+    "gunnison",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gunnison (Colo.)",
+    "United States--Colorado--Gunnison"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Bird's eye view of Gunnison, Colo. county seat of Gunnison County, 1882",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693138",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

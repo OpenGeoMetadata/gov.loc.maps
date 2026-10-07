@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Map of Ningbo",
+    "Map of Ningbo",
+    "寧郡地與圖"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Pictorial map.",
+    "Pictorial map. Shows selected buildings and points of interest. Scale ca. 1:2,500. Available also through the Library of Congress Web site as a raster image. Previous call number: G7824.N5A5 1820 .N5 Vault",
+    "Previous call number: G7824.N5A5 1820 .N5 Vault",
+    "Publication statement: [After 1846]",
+    "Scale ca. 1:2,500.",
+    "Shows selected buildings and points of interest."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7824n.ct003081",
+    "http://lccn.loc.gov/gm71002469",
+    "http://www.loc.gov/item/gm71002469/",
+    "http://www.loc.gov/resource/g7824n.ct003081/",
+    "https://hdl.loc.gov/loc.gmd/g7824n.ct003081",
+    "https://search.catalog.loc.gov/instances/cd3ecb04-5783-5d43-8305-c95cec6be06a",
+    "https://www.loc.gov/item/gm71002469/"
+  ],
+  "dct_issued_s": "1846",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7824/g7824n/ct003081.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002469/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "ningbo shi"
+  ],
+  "dct_subject_sm": [
+    "China--Ningbo Shi",
+    "Ningbo Shi (China)--Maps, Manuscript",
+    "Ningbo Shi (China)--Maps, Pictorial"
+  ],
+  "dct_temporal_sm": [
+    "1846"
+  ],
+  "dct_title_s": "Ning Jun di yu tu",
+  "gbl_dateRange_drsim": [
+    "[1846 TO 1846]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1846
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002469",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

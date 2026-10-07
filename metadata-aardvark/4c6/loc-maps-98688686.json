@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Iowa Central Air Line Railroad; J.H. Colton & Co",
+    "Description derived from published bibliography.",
+    "Detailed township map of the north-central states indicating drainage, cities and towns, townships, county boundaries, the road and railroad networks, and in blue overprint the connections with the Iowa Central line.",
+    "Entered according to act of Congress in the year 1857.",
+    "Inset: [Map of the northern United States] 17 x 76 cm.",
+    "LC Railroad maps, 435",
+    "Publication statement: New York, c1857.",
+    "Scale ca. 1:1,550,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4061p.rr004350",
+    "http://lccn.loc.gov/98688686",
+    "http://www.loc.gov/item/98688686/",
+    "http://www.loc.gov/resource/g4061p.rr004350/",
+    "https://hdl.loc.gov/loc.gmd/g4061p.rr004350",
+    "https://search.catalog.loc.gov/instances/ba4a925d-2b63-5ac6-bc68-8ae88406979c",
+    "https://www.loc.gov/item/98688686/"
+  ],
+  "dct_issued_s": "1857",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd406/g4061/g4061p/rr004350.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688686/\"}",
+  "dct_spatial_sm": [
+    "middle west",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Iowa Central Air Line Railroad",
+    "Railroads--Middle West--Maps",
+    "United States--Middle West"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_title_s": "Map of the Iowa Central Air Line Rail Road and its connections",
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1857
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688686",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

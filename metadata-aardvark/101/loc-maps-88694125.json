@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also covers Georgetown.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Kroe, A. van der",
+    "DCP",
+    "From A. van der Kroe's Vaderlandsche letter-oefeningen waarin boeken en schriften, Amsterdam, 1793.",
+    "Includes latitude/longitude statement.",
+    "LC copy foxed, fold-lined, laminated, and mounted on cloth backing.",
+    "Phillips. Washington 1287",
+    "Publication statement: [Amsterdam : s.n., 1793]",
+    "Relief shown by hachures.",
+    "Shows proposed government buildings.",
+    "Shows proposed government buildings. Relief shown by hachures. Also covers Georgetown. From A. van der Kroe's Vaderlandsche letter-oefeningen waarin boeken en schriften, Amsterdam, 1793. Includes latitude/longitude statement. Available also through the Library of Congress Web site as a raster image. LC copy foxed, fold-lined, laminated, and mounted on cloth backing. Phillips. Washington 1287 DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct000524",
+    "http://lccn.loc.gov/88694125",
+    "http://www.loc.gov/item/88694125/",
+    "http://www.loc.gov/resource/g3850.ct000524/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct000524",
+    "https://search.catalog.loc.gov/instances/a4f4675c-917a-5b82-9e60-a34f50c64bbc",
+    "https://www.loc.gov/item/88694125/"
+  ],
+  "dct_issued_s": "1793",
+  "dct_language_sm": [
+    "dut"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct000524.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88694125/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "georgetown",
+    "georgetown (washington)",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Georgetown (Washington, D.C.)--Maps--Early works to 1800",
+    "United States--District of Columbia--Georgetown (Washington)",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1793"
+  ],
+  "dct_title_s": "Plan der stad Washington : bestemd tot de hoofdstad van America, en ter bestendige verblijfplaats van het Congres, naa het jaar 1800",
+  "gbl_dateRange_drsim": [
+    "[1793 TO 1793]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1793
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88694125",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

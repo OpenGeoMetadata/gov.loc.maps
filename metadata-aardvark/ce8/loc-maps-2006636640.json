@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At top of map: Scale of miles 2 miles to the inch.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Map resulting from Powell expedition, 1871.",
+    "Mounted on cloth backing.",
+    "Publication statement: [S.l. : s.n. , 1871?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. At top of map: Scale of miles 2 miles to the inch. Mounted on cloth backing. Map resulting from Powell expedition, 1871. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4222g.ct001918",
+    "http://lccn.loc.gov/2006636640",
+    "http://www.loc.gov/item/2006636640/",
+    "http://www.loc.gov/resource/g4222g.ct001918/",
+    "https://hdl.loc.gov/loc.gmd/g4222g.ct001918",
+    "https://search.catalog.loc.gov/instances/19a614e5-62c0-5c2b-a003-8ca283177ecd",
+    "https://www.loc.gov/item/2006636640/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd422/g4222/g4222g/ct001918.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006636640/\"}",
+  "dct_spatial_sm": [
+    "green river",
+    "rocky mountains",
+    "united states",
+    "utah",
+    "wyoming"
+  ],
+  "dct_subject_sm": [
+    "Green River (Wyo.-Utah)--Maps",
+    "Rocky Mountains--Maps",
+    "United States--Rocky Mountains",
+    "United States--Utah--Green River",
+    "United States--Wyoming--Green River"
+  ],
+  "dct_temporal_sm": [
+    "1871",
+    "[S.l. : s.n. , 1871?]"
+  ],
+  "dct_title_s": "United States topographical and geological survey of Green River : No 1 preliminary map of Green River from Green River station to Uintah River",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006636640",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

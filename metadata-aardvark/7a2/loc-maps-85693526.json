@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from Mosaic 4-R-21437 and county highway maps.\"",
+    "\"February 1981 4-R-36718. Revised February 1981 Base 4-R-21438.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Jackson, Miss. : The Service, [1981]",
+    "Shows benefited area, flood and drainage control, and channel installation.",
+    "Shows benefited area, flood and drainage control, and channel installation. \"February 1981 4-R-36718. Revised February 1981 Base 4-R-21438.\" \"Base compiled from Mosaic 4-R-21437 and county highway maps.\" Includes location map. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/85693526",
+    "http://www.loc.gov/item/85693526/",
+    "http://www.loc.gov/resource/g3982c.ct010795/",
+    "https://hdl.loc.gov/loc.gmd/g3982c.ct010795",
+    "https://search.catalog.loc.gov/instances/0037e178-3100-5c00-a535-3c04075aa7d9",
+    "https://www.loc.gov/item/85693526/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3982/g3982c/ct010795.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85693526/\"}",
+  "dct_spatial_sm": [
+    "copiah creek watershed",
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Copiah Creek Watershed (Miss.)--Maps",
+    "Flood control--Mississippi--Copiah Creek Watershed--Maps",
+    "United States--Mississippi--Copiah Creek Watershed",
+    "Watershed management--Mississippi--Copiah Creek Watershed--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Copiah Creek Watershed, Copiah County, Mississippi",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85693526",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

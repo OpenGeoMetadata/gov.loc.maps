@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bohn, Casimir; E. Sachse & Co",
+    "DCP",
+    "DCP Low-angle bird's-eye view. Shows cities of Washington and Alexandria in foreground. Includes index of military positions with regiment names. Library of Congress. Civil War maps (2nd ed.), 678 Stephenson. Cartography of northern Virginia, pl. 39 Available also through the Library of Congress Web site as a raster image. LC copy mounted on cloth backing.",
+    "Includes index of military positions with regiment names.",
+    "LC copy mounted on cloth backing.",
+    "Library of Congress. Civil War maps (2nd ed.), 678",
+    "Low-angle bird's-eye view.",
+    "Publication statement: Washington, D.C. : C. Bohn, [186-?]",
+    "Shows cities of Washington and Alexandria in foreground.",
+    "Stephenson. Cartography of northern Virginia, pl. 39"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851s.cw0678000",
+    "http://lccn.loc.gov/88694227",
+    "http://www.loc.gov/item/88694227/",
+    "http://www.loc.gov/resource/g3851s.cw0678000/",
+    "https://hdl.loc.gov/loc.gmd/g3851s.cw0678000",
+    "https://search.catalog.loc.gov/instances/72e4b599-eece-58c1-a93c-d60988ceb597",
+    "https://www.loc.gov/item/88694227/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851s/cw0678000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88694227/\"}",
+  "dct_spatial_sm": [
+    "alexandria",
+    "district of columbia",
+    "united states",
+    "virginia",
+    "washington",
+    "washington d.c.",
+    "washington region"
+  ],
+  "dct_subject_sm": [
+    "Alexandria (Va.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--Virginia--Alexandria",
+    "Washington (D.C.)--History--Civil War, 1861-1865--Maps",
+    "Washington (D.C.)--Maps",
+    "Washington Region--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "District of Columbia and the seat of war on the Potomac",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88694227",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

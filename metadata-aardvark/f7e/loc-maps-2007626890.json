@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2007-058",
+    "Annotations in pencil on some maps.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Thrift Press (Rockford, Ill.)",
+    "Includes indexes and advertisements.",
+    "Includes indexes and advertisements. Annotations in pencil on some maps. Available also through the Library of Congress Web site as a raster image. Vendor: Hoffman's Bookshop, Columbus, Ohio Acquisitions control no. 2007-058",
+    "Publication statement: Rockford, Ill. : Thrift Press ; 1929.",
+    "Vendor: Hoffman's Bookshop, Columbus, Ohio"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4103dm.gla00112",
+    "http://lccn.loc.gov/2007626890",
+    "http://www.loc.gov/item/2007626890/",
+    "http://www.loc.gov/resource/g4103dm.gla00112/",
+    "https://hdl.loc.gov/loc.gmd/g4103dm.gla00112",
+    "https://search.catalog.loc.gov/instances/22b91dd8-82cd-5b86-8b17-9960c0cd4709",
+    "https://www.loc.gov/item/2007626890/"
+  ],
+  "dct_issued_s": "1929",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4103m/g4103dm/gla00112/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007626890/\"}",
+  "dct_spatial_sm": [
+    "de kalb county",
+    "illinois",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "De Kalb County (Ill.)--Maps",
+    "Landowners--Illinois--De Kalb County--Maps",
+    "Real property--Illinois--De Kalb County--Maps",
+    "United States--Illinois--De Kalb County"
+  ],
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "dct_title_s": "Atlas and plat book of De Kalb County, Illinois : compiled from surveys and the public records of De Kalb County, Illinois",
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1929]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1929
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007626890",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

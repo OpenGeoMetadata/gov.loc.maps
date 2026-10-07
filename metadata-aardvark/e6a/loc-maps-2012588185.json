@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"June 2007.\"",
+    "\"June 2007.\" Includes location map. Hunting and fishing regulations on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: U.S. Fish and Wildlife Service",
+    "Hunting and fishing regulations on verso.",
+    "Includes location map.",
+    "Publication statement: Savannah, Ga. : Savannah Coastal Refuges, U.S. Fish and Wildlife Service, [2007]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2012588185",
+    "http://www.loc.gov/item/2012588185/",
+    "http://www.loc.gov/resource/g3922s.ct010083/",
+    "https://hdl.loc.gov/loc.gmd/g3922s.ct010083",
+    "https://search.catalog.loc.gov/instances/eb59671f-8a1c-5362-be11-1512f21f8eca",
+    "https://www.loc.gov/item/2012588185/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922s/ct010083.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012588185/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "savannah national wildlife refuge",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fishing--Savannah National Wildlife Refuge (Ga. and S.C.)--Maps",
+    "Hunting--Savannah National Wildlife Refuge (Ga. and S.C.)--Maps",
+    "United States--Georgia--Savannah National Wildlife Refuge",
+    "United States--South Carolina--Savannah National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2007 d2008"
+  ],
+  "dct_title_s": "Savannah National Wildlife Refuge : hunting and fishing regulations, 2007-2008",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012588185",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

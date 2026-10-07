@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cape Fear River"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Glynn, James, 1801-1871; Haas, Philip, 1808-1871; Maury, Matthew Fontaine, 1806-1873; Paulding, James Kirke, 1778-1860; United States. Navy",
+    "Includes \"Tide Scale at Smithville.\"",
+    "LC copy imperfect: Discoloration and staining on bottom of all sheets. Torn along edges with minor losses.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: Washington : Lith'y of P. Haas, [1839]; [Washington] : [Publisher not identified], 1839.",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. Oriented with north toward the upper left. Includes \"Tide Scale at Smithville.\" LC copy imperfect: Discoloration and staining on bottom of all sheets. Torn along edges with minor losses. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3902c.ct002348",
+    "http://lccn.loc.gov/2012593526",
+    "http://www.loc.gov/item/2012593526/",
+    "http://www.loc.gov/resource/g3902c.ct002348/",
+    "https://hdl.loc.gov/loc.gmd/g3902c.ct002348",
+    "https://search.catalog.loc.gov/instances/6a334929-8614-5754-84dc-9e84cb34c1e1",
+    "https://www.loc.gov/item/2012593526/"
+  ],
+  "dct_issued_s": "1839",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902c/ct002348.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593526/\"}",
+  "dct_spatial_sm": [
+    "cape fear river estuary",
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cape Fear River Estuary (N.C.)--Maps",
+    "Nautical charts--North Carolina--Cape Fear River Estuary",
+    "United States--North Carolina--Cape Fear River Estuary"
+  ],
+  "dct_temporal_sm": [
+    "1839"
+  ],
+  "dct_title_s": "A Chart of the entrance of Cape Fear River",
+  "gbl_dateRange_drsim": [
+    "[1839 TO 1839]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1839
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593526",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

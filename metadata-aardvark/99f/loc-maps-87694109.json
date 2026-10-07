@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Klakring, Alfred",
+    "DCP",
+    "From the estate of Alfred Klakring, Nov. 30, 1940.",
+    "Ms. (col. pencil and ink).",
+    "Partial 1930 calendar, world map, and nautical chart on verso of some maps.",
+    "Partial cadastral map showing zoning boundary.",
+    "Partial cadastral map showing zoning boundary. Ms. (col. pencil and ink). From the estate of Alfred Klakring, Nov. 30, 1940. Partial 1930 calendar, world map, and nautical chart on verso of some maps. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "Publication statement: [193-]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852bm.gct00378",
+    "http://lccn.loc.gov/87694109",
+    "http://www.loc.gov/item/87694109/",
+    "http://www.loc.gov/resource/g3852bm.gct00378/",
+    "https://hdl.loc.gov/loc.gmd/g3852bm.gct00378",
+    "https://search.catalog.loc.gov/instances/965ad2cc-819d-57b0-8f72-e036fdadec3c",
+    "https://www.loc.gov/item/87694109/"
+  ],
+  "dct_issued_s": "1930",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385m/g3852m/g3852bm/gct00378/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694109/\"}",
+  "dct_spatial_sm": [
+    "brightwood",
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Brightwood (Washington, D.C.)--Maps, Manuscript",
+    "Building sites--Washington (D.C.)--Maps",
+    "Dwellings--Washington (D.C.)--Maps",
+    "Manuscript maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington--Brightwood"
+  ],
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "dct_title_s": "[Map of part of Brightwood, Washington D.C., showing houses, apartment buildings, and building sites]",
+  "gbl_dateRange_drsim": [
+    "[1930 TO 1930]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1930
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694109",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

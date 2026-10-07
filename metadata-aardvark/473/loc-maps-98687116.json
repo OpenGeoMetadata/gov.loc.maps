@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map compares the voyages of the British explorer David Livingstone (1813-73), who traveled down the Zambezi River in 1851-56, and the German Heinrich Barth (1821-65) who, between 1850 and 1855, explored much of western Africa and the Sahara. Barth traveled to western Sudan, Chad, and northern Nigeria, where he researched the decline of the Fulani Empire and the history of the Hausa people, and recorded local languages and histories. In 1855, he spent eight months in Timbuktu, where he studied the Islamic culture of West Africa. Barth later published, in English and German, his five-volume Travels and Discoveries in North and Central Africa (1857-58), regarded as a masterpiece of geographic research. This map is by the prominent German cartographer August Petermann (1822-78), and was published by the Gotha firm of Justus Perthes.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Barth, Heinrich, 1821-1865; Justus Perthes (Firm : Gotha, Germany); Livingstone, David, 1813-1873; Petermann, A. (August), 1822-1878",
+    "Publication statement: [S.l., 1857]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8201s.ct000153",
+    "http://lccn.loc.gov/98687116",
+    "http://www.loc.gov/item/98687116/",
+    "http://www.loc.gov/resource/g8201s.ct000153/",
+    "https://hdl.loc.gov/loc.gmd/g8201s.ct000153",
+    "https://search.catalog.loc.gov/instances/0c16364f-fea8-57ce-86e5-819b10666241",
+    "https://www.loc.gov/item/98687116/"
+  ],
+  "dct_issued_s": "1857",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8201/g8201s/ct000153.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687116/\"}",
+  "dct_spatial_sm": [
+    "africa"
+  ],
+  "dct_subject_sm": [
+    "Africa",
+    "Africa--Discovery and exploration--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_title_s": "Kartenskizze von Africa zur vergleichenden Übersicht der Reisen Dr. Barth's und Dr. Livingstone's",
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1857
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687116",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

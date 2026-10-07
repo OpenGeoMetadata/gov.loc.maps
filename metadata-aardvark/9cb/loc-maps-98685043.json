@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lloyd H. Hall Co",
+    "Inset of Florida.",
+    "Inset of Florida. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: New York : B.S. Demarest, 1881."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3860.ct008831",
+    "http://lccn.loc.gov/98685043",
+    "http://www.loc.gov/item/98685043/",
+    "http://www.loc.gov/resource/g3860.ct008831/",
+    "https://hdl.loc.gov/loc.gmd/g3860.ct008831",
+    "https://search.catalog.loc.gov/instances/633590a9-a8ba-580c-9d08-56f028d0bfdb",
+    "https://www.loc.gov/item/98685043/"
+  ],
+  "dct_issued_s": "1881",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3860/g3860/ct008831.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98685043/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Southern States--Maps",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1881"
+  ],
+  "dct_title_s": "Dollar map of the Southern States",
+  "gbl_dateRange_drsim": [
+    "[1881 TO 1881]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1881
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98685043",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Diary (Mss5:1 Sn237:1 v. 1, p. 777).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary image.",
+    "Publication statement: [1862-1865].",
+    "Relief shown by hachures.",
+    "Robert Knox Sneden Scrapbook (Mss5:7 Sn237:1), Virginia Historical Society, Richmond, Va.",
+    "Shows an area that includes Gloucester Point on the north/east side of the York River, Yorktown on the south/west side of the river, and Wormsley Creek to the south of Yorktown as the Union forces finalized preparations to begin the siege of Yorktown.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00082",
+    "http://www.loc.gov/item/001-CABIB20006080/",
+    "http://www.loc.gov/item/gvhs01.vhs00082/",
+    "http://www.loc.gov/resource/gvhs01.vhs00082/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00082",
+    "https://www.loc.gov/item/gvhs01.vhs00082/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00082.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00082/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "yorktown"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia--Yorktown",
+    "Yorktown (Va.)--History--Siege, 1862--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862/1865"
+  ],
+  "dct_title_s": "Sketch of the lines at Yorktown Virginia April 30th 1862.",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00082",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

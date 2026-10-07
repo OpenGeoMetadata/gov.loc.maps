@@ -1,0 +1,92 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Content in Latin.",
+    "Contributors: Holanda, António de, approximately 1480-1556 Illustrator.; Homem, Lopo, flourished 1517-1565 Cartographer.; Manuel I, King of Portugal, 1469-1521 Patron.; Reinel, Jorge, active 16th century Cartographer.; Reinel, Pedro, born approximately 1464 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of France.",
+    "Original resource extent: 2 maps, 4 pages, vellum : illustrations ; 42 x 59 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1519.",
+    "Reference extracted from World Digital Library: Catherine Hofmann, Hélène Richard, Emmanuelle Vagnon, et al., The Golden Age of Maritime Maps: When Europe Discovered the World (Buffalo, NY: Firefly, 2013).",
+    "The map presented here is from the Miller Atlas in the collections of the National Library of France. Produced for King Manuel I of Portugal in 1519 by cartographers Pedro Reinel, his son Jorge Reinel, and Lopo Homem and miniaturist António de Holanda, the atlas contains eight maps on six loose sheets, painted on both sides. The maps were richly decorated and illuminated by António de Holanda, a Dutch native who had been in Portugal for nearly ten years. The illustrations include ornate images of castles, towns, and architectural wonders; views of forests and other vegetation; and depictions of native peoples and animals. The shapes of some towns and coastlines are quite detailed. For other parts of the world about which Europeans still had limited knowledge, geographic details are drawn from the cartographer's imagination or informed by views that originated with Ptolemy. One side of the map (folio 3 recto of the atlas) shows the Northern Indian Ocean with Arabia and India. The equator is shown; other features include the Red Sea, Gulf of Aden, Persian Gulf, Ganges Delta, and the Nicobar Islands. The reverse side (folio 3 verso) depicts the southern Indian Ocean with Insulindia (maritime Southeast Asia) on the left and Madagascar on the right. Both sides of the map have ornamental gold leaf, red banners with gold lettering for place-names, heraldic shields and flags, and vessels flying either the Portuguese Cross of the Order of Christ or the Ottoman crescent. The atlas takes its name from Emmanuel Miller, who purchased it in 1855 from a bookseller in Santarém, Portugal. Miller's widow sold it to the National Library of France in 1897.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668717",
+    "http://www.loc.gov/item/2021668717/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_18559/",
+    "http://www.loc.gov/resource/wdl.18559/",
+    "https://hdl.loc.gov/loc.wdl/wdl.18559",
+    "https://www.loc.gov/item/2021668717/"
+  ],
+  "dct_issued_s": "1519-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_18559.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/55/9/wdl_18559/wdl_18559.pdf\"}, {\"label\": \"ZIP: wdl_18559.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/55/9/wdl_18559/wdl_18559.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:18:55:9:wdl_18559:T0000001/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668717/\"}",
+  "dct_spatial_sm": [
+    "bahrain",
+    "bangladesh",
+    "india",
+    "iran, islamic republic of",
+    "kuwait",
+    "madagascar",
+    "malaysia",
+    "mozambique",
+    "myanmar",
+    "oman",
+    "pakistan",
+    "qatar",
+    "saudi arabia",
+    "somalia",
+    "sri lanka",
+    "united arab emirates",
+    "yemen"
+  ],
+  "dct_subject_sm": [
+    "1519",
+    "Bahrain",
+    "Bangladesh",
+    "Coasts",
+    "India",
+    "Indian Ocean",
+    "Iran, Islamic Republic of",
+    "Kuwait",
+    "Madagascar",
+    "Malaysia",
+    "Mozambique",
+    "Myanmar",
+    "Oman",
+    "Pakistan",
+    "Portolan charts",
+    "Qatar",
+    "Saudi Arabia",
+    "Somalia",
+    "Sri Lanka",
+    "United Arab Emirates",
+    "Yemen"
+  ],
+  "dct_temporal_sm": [
+    "1519-01-01"
+  ],
+  "dct_title_s": "Nautical Atlas of the World, Folio 3 Recto, Northern Indian Ocean with Arabia and India and Folio 3 Verso, Southern Indian Ocean with Insulindia on the Left, and Madagascar on the Right.",
+  "gbl_dateRange_drsim": [
+    "[1519 TO 1519]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1519
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668717",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

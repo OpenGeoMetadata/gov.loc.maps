@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to act of Congress in the year 1835 by Thomas Illman ...\".",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Burr, David H., 1803-1875; Illman, Thomas, -1859 or 1860",
+    "From Burr's A new universal atlas, comprising separate maps of all the principal empires, kingdoms & states throughout the world and forming a distinct atlas of the United States. New York : D. S. Stone, [1835?].",
+    "LC copy stamped on: 626888.",
+    "Prime meridians: London and Washington.",
+    "Publication statement: [New York : D.S. Stone, 1835?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Prime meridians: London and Washington. \"Entered according to act of Congress in the year 1835 by Thomas Illman ...\". From Burr's A new universal atlas, comprising separate maps of all the principal empires, kingdoms & states throughout the world and forming a distinct atlas of the United States. New York : D. S. Stone, [1835?]. LC copy stamped on: 626888. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7820.ct005075",
+    "http://lccn.loc.gov/2006629351",
+    "http://www.loc.gov/item/2006629351/",
+    "http://www.loc.gov/resource/g7820.ct005075/",
+    "https://hdl.loc.gov/loc.gmd/g7820.ct005075",
+    "https://search.catalog.loc.gov/instances/d8332910-18b0-5971-aebd-a1fe6d2db3e9",
+    "https://www.loc.gov/item/2006629351/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7820/g7820/ct005075.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006629351/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "japan"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Maps",
+    "Japan",
+    "Japan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1835",
+    "[New York : D.S. Stone, 1835?]"
+  ],
+  "dct_title_s": "Chinese empire and Japan",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006629351",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

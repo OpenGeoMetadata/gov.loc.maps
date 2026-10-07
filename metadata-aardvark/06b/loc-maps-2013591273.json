@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Atlas of the city of Springfield and the town of Longmeadow, Mass",
+    "Standard atlas of the city of Springfield and the town of Longmeadow, Massachusetts"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Richards Map Company; Richards, Harold H. (Harold Hazen)",
+    "Includes indexes.",
+    "LC copy imperfect: spine loose, title page detached. Hand colored and mounted on cloth.",
+    "LC copy imperfect: spine loose, title page detached. Hand colored and mounted on cloth. Includes indexes. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Springfield, Massachusetts : Published by Richards Map Company, 1920."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2013591273",
+    "http://www.loc.gov/item/2013591273/",
+    "http://www.loc.gov/resource/gmdatlases.2013591273/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2013591273",
+    "https://search.catalog.loc.gov/instances/5393354b-6d36-5802-8982-d2404be839c3",
+    "https://www.loc.gov/item/2013591273/"
+  ],
+  "dct_issued_s": "1920",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:20:13:59:12:73:2013591273:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013591273/\"}",
+  "dct_spatial_sm": [
+    "longmeadow",
+    "massachusetts",
+    "springfield",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Massachusetts--Longmeadow--Maps",
+    "Landowners--Massachusetts--Springfield--Maps",
+    "Longmeadow (Mass.)--Maps",
+    "Real property--Massachusetts--Longmeadow--Maps",
+    "Real property--Massachusetts--Springfield--Maps",
+    "Springfield (Mass.)--Maps",
+    "United States--Massachusetts--Longmeadow",
+    "United States--Massachusetts--Springfield"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dct_title_s": "Richards standard atlas of the city of Springfield and the town of Longmeadow, Massachusetts",
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1920
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013591273",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

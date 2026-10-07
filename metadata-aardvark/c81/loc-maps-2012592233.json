@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Shaw & Cunningham; Strobridge Lithographing Co; Wolfe, John N.",
+    "LC Land ownership maps, 620",
+    "LC copy imperfect: Mounted on cloth backing, original sheets sectioned into 4 panels to enable folding.",
+    "LC copy imperfect: Mounted on cloth backing, original sheets sectioned into 4 panels to enable folding. LC Land ownership maps, 620 Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Cincinnati : Strobridge Lithographing Co., 1889."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4083f.la000620",
+    "http://lccn.loc.gov/2012592233",
+    "http://www.loc.gov/item/2012592233/",
+    "http://www.loc.gov/resource/g4083f.la000620/",
+    "https://hdl.loc.gov/loc.gmd/g4083f.la000620",
+    "https://search.catalog.loc.gov/instances/c6b47617-9677-5015-9818-0215224e13c9",
+    "https://www.loc.gov/item/2012592233/"
+  ],
+  "dct_issued_s": "1889",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4083/g4083f/la000620.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592233/\"}",
+  "dct_spatial_sm": [
+    "fairfield county",
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Ohio--Fairfield County--Maps",
+    "United States--Ohio--Fairfield County"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "dct_title_s": "New map of Fairfield County, Ohio",
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592233",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

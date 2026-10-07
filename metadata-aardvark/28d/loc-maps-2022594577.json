@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: New York title collection--drawer 73",
+    "Alternate supplied title: New York title collection--misc. Lake Champlain 1876-1970--Cree",
+    "Alternate supplied title: New York title collection--regions Lake Champlain 1876-1970--Cree"
+  ],
+  "dct_description_sm": [
+    "Most maps earlier than 1800 in this collection are photocopies or facsimiles.",
+    "Publication statement: [Various places] : [various publishers], [from approximately 1650 to 1970]",
+    "This record describes single maps covering regions of New York, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show regions, such as coasts, mountains, rivers and lakes. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record describes single maps covering regions of New York, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show regions, such as coasts, mountains, rivers and lakes. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. Most maps earlier than 1800 in this collection are photocopies or facsimiles.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022594577",
+    "http://www.loc.gov/item/2022594577/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ny_073/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ny_073",
+    "https://search.catalog.loc.gov/instances/58aa7d64-a46d-532c-a029-2dcb71b6224f",
+    "https://www.loc.gov/item/2022594577/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ny:_0:73:ny_073:ny_073_00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022594577/\"}",
+  "dct_spatial_sm": [
+    "champlain",
+    "lake region",
+    "new york",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Champlain, Lake Region (N.Y.)--Maps",
+    "Mountains--New York (State)--Maps",
+    "Outdoor recreation--New York (State)--Maps",
+    "Parks--New York (State)--Maps",
+    "Trails--New York (State)--Maps",
+    "United States--New York"
+  ],
+  "dct_temporal_sm": [
+    "1650",
+    "[Various places] : [various publishers], [from approximately 1650 to 1970]"
+  ],
+  "dct_title_s": "[Maps of New York--regions Lake Champlain 1876-1970--Cree]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022594577",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

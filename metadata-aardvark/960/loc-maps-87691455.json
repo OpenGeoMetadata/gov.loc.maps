@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lee, Chas. S. (Charles S.); Servoss, R. D.",
+    "Covers central Washington.",
+    "DCP",
+    "F15804 U.S. Copyright Office",
+    "F15804 U.S. Copyright Office Covers central Washington. Shows radial distances. Text, map of Lehigh Valley Railroad, and ill. on verso. Available also through the Library of Congress Web site as a raster image. LC copy mounted on cloth backing. DCP",
+    "LC copy mounted on cloth backing.",
+    "Publication statement: New York : Chas. S. Lee, c1909.",
+    "Shows radial distances.",
+    "Text, map of Lehigh Valley Railroad, and ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004506",
+    "http://lccn.loc.gov/87691455",
+    "http://www.loc.gov/item/87691455/",
+    "http://www.loc.gov/resource/g3850.ct004506/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004506",
+    "https://search.catalog.loc.gov/instances/b0a384f3-1c4f-5de7-8c11-6c4fdbba5c17",
+    "https://www.loc.gov/item/87691455/"
+  ],
+  "dct_issued_s": "1909",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004506.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691455/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Lehigh Valley Railroad--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dct_title_s": "Washington, District of Columbia",
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1909
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87691455",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

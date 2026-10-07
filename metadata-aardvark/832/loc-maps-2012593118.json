@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Hamlin County, South Dakota"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing drainage, section lines and numbers, land ownership, landowners' names, roads, railroads, etc.",
+    "Contributors: Abbott, C. L.",
+    "LC Land ownership maps, 851",
+    "LC copy imperfect: Missing a small portion in upper right margin.",
+    "Publication statement: St. Louis, Mo. : Geo D. Barnard & Co., [1897]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Cadastral map showing drainage, section lines and numbers, land ownership, landowners' names, roads, railroads, etc. LC copy imperfect: Missing a small portion in upper right margin. LC Land ownership maps, 851 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4183h.la000851",
+    "http://lccn.loc.gov/2012593118",
+    "http://www.loc.gov/item/2012593118/",
+    "http://www.loc.gov/resource/g4183h.la000851/",
+    "https://hdl.loc.gov/loc.gmd/g4183h.la000851",
+    "https://search.catalog.loc.gov/instances/8bc4e06a-4197-50b9-9164-8f95cf57c7e4",
+    "https://www.loc.gov/item/2012593118/"
+  ],
+  "dct_issued_s": "1897",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd418/g4183/g4183h/la000851.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593118/\"}",
+  "dct_spatial_sm": [
+    "hamlin county",
+    "south dakota",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hamlin County (S.D.)--Maps",
+    "Landowners--South Dakota--Hamlin County--Maps",
+    "Real property--South Dakota--Hamlin County--Maps",
+    "United States--South Dakota--Hamlin County"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "dct_title_s": "Map of Hamlin County, So. Dak",
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593118",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

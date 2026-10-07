@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"From the west, looking east.\"",
+    "\"From the west, looking east.\" Includes index to points of interest and text. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 983 Available also through the Library of Congress Web site as a raster image. Conserved; 002645.13 1976 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda AACR2: 100; 651/1; 710/1",
+    "AACR2: 100; 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Conserved; 002645.13 1976 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Contributors: A.L. Bancroft & Company; Everts & Able; Glover, E. S. (Eli Sheldon), 1844-1920",
+    "Includes index to points of interest and text.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 983",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Walla Walla, Everts & Able [1876] c1875."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4284w.pm009830",
+    "http://lccn.loc.gov/75696671",
+    "http://www.loc.gov/item/75696671/",
+    "http://www.loc.gov/resource/g4284w.pm009830/",
+    "https://hdl.loc.gov/loc.gmd/g4284w.pm009830",
+    "https://search.catalog.loc.gov/instances/abd2caff-877c-51b7-9593-583fb9e8645d",
+    "https://www.loc.gov/item/75696671/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd428/g4284/g4284w/pm009830.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75696671/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "walla walla",
+    "washington",
+    "washington (state)"
+  ],
+  "dct_subject_sm": [
+    "United States--Washington (State)--Walla Walla",
+    "Walla Walla (Wash.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Bird's eye view of Walla Walla, Washington Territory 1876",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75696671",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

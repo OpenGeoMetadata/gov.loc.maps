@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. General Land Office",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 127",
+    "Publication statement: Philadelphia, [1865]",
+    "Scale 1:1,140,480.",
+    "Township map showing drainage, cities and towns, location of the land grant railroads and indicating the 10-, 20-, & 25-mile limits of grants. Shows land offices and the Surveyor General's office."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4201p.rr001270",
+    "http://lccn.loc.gov/98688397",
+    "http://www.loc.gov/item/98688397/",
+    "http://www.loc.gov/resource/g4201p.rr001270/",
+    "https://hdl.loc.gov/loc.gmd/g4201p.rr001270",
+    "https://search.catalog.loc.gov/instances/37446b4a-c28f-5444-bbb1-4757dcf10224",
+    "https://www.loc.gov/item/98688397/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd420/g4201/g4201p/rr001270.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688397/\"}",
+  "dct_spatial_sm": [
+    "kansas",
+    "nebraska",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroad land grants--Kansas--Maps",
+    "Railroad land grants--Nebraska--Maps",
+    "United States--Kansas",
+    "United States--Nebraska"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Map of Kansas and Nebraska",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688397",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Palfrey, John Carver, 1833-1906",
+    "Description derived from published bibliography.",
+    "General map of the area between the Chickahominy River and the James River indicating roads, railroads, villages, and the names of some land owners. Troop positions are not given.",
+    "General map of the area between the Chickahominy River and the James River indicating roads, railroads, villages, and the names of some land owners. Troop positions are not given. Stamped \"War Department Library\" on the verso. Description derived from published bibliography. Scale 1:95,040. Library of Congress. Civil War maps (2nd ed.), 650.4 Available also through the Library of Congress web site as raster image.",
+    "Library of Congress. Civil War maps (2nd ed.), 650.4",
+    "Publication statement: Boston, The Heliotype Printing Co., 1876",
+    "Scale 1:95,040.",
+    "Stamped \"War Department Library\" on the verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884r.cw0650400",
+    "http://lccn.loc.gov/99448340",
+    "http://www.loc.gov/item/99448340/",
+    "http://www.loc.gov/resource/g3884r.cw0650400/",
+    "https://hdl.loc.gov/loc.gmd/g3884r.cw0650400",
+    "https://search.catalog.loc.gov/instances/e7a12f65-bbc5-5e9d-a557-a8657e368c82",
+    "https://www.loc.gov/item/99448340/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884r/cw0650400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448340/\"}",
+  "dct_spatial_sm": [
+    "petersburg region",
+    "richmond region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Petersburg Region (Va.)--History--Civil War, 1861-1865--Maps",
+    "Richmond Region (Va.)--History--Civil War, 1861-1865--Maps",
+    "Seven Days' Battles, Va",
+    "Seven Days' Battles, Va., 1862--Maps",
+    "United States--Virginia--Petersburg Region",
+    "United States--Virginia--Richmond Region"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Seven Days' battles",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448340",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base map prepared by SCS, Portland Carto Unit from USGS 1:1,000,000 national atlas. Thematic detail prepared by state staff.\"",
+    "\"July 1978.\"",
+    "\"July 1978.\" \"Base map prepared by SCS, Portland Carto Unit from USGS 1:1,000,000 national atlas. Thematic detail prepared by state staff.\" Includes location map. \"M7-EN-22828-25.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"M7-EN-22828-25.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Portland, OR : U.S. Dept. of Agriculture, Soil Conservation Service, 1978."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2003621383",
+    "http://www.loc.gov/item/2003621383/",
+    "http://www.loc.gov/resource/g4052a.ct011692/",
+    "https://hdl.loc.gov/loc.gmd/g4052a.ct011692",
+    "https://search.catalog.loc.gov/instances/8b7396bd-472f-5c6a-993b-fe2c4486be63",
+    "https://www.loc.gov/item/2003621383/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4052/g4052a/ct011692.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003621383/\"}",
+  "dct_spatial_sm": [
+    "arkansas river region",
+    "new mexico",
+    "red river region",
+    "united states",
+    "white river region"
+  ],
+  "dct_subject_sm": [
+    "United States--New Mexico--Arkansas River Region",
+    "United States--New Mexico--Red River Region",
+    "United States--New Mexico--White River Region",
+    "Water-supply--Arkansas River Region--Maps",
+    "Water-supply--Red River Region--Maps",
+    "Water-supply--White River Region--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Surface water supply, acre feet, Arkansas-White-Red River basin : Colfax, Curry, Guadalupe, Harding, Mora, Quay, San Miguel, and Union counties, New Mexico",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003621383",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

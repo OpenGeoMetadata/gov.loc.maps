@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Masiwa: Uganda 1: 50,000"
+  ],
+  "dct_description_sm": [
+    "\"From the Uganda National Fisheries Resources Research Institute. Digitized at the National Library of Uganda with support from the Carnegie Corporation of New York.\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Fairey Air Surveys Limited Contributor.; Great Britain. Ordnance Survey Associated Name.; Great Britain. Overseas Surveys Directorate Contributor.; Great Britain. Royal Air Force Contributor.; Uganda Copyright Holder.; Uganda. Department of Lands and Surveys Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Uganda.",
+    "Original resource extent: 1 map ; 84 x 64 centimeters.",
+    "Publication statement: Entebbe, Uganda : Great Britain. Overseas Surveys Directorate, 1963.",
+    "This map of Sagitu, Lolui, and Masiwa islands in Lake Victoria was issued in 1963 and copyrighted by the government of newly independent Uganda. The map was compiled and drawn by the British Directorate of Overseas Surveys in cooperation with the government of the Uganda Protectorate. It is based on aerial photography carried out in 1952 and 1960, on a British Admiralty chart from 1955, and on field survey data supplied by the protectorate's Department of Lands and Surveys. The map scale is 1:50,000. Masiwa and the adjoining islands are located in the Busoga District, in the northeastern part of the lake, not far from the border with Kenya. Rocks are indicated along the shoreline of the islands, and a solitary beacon is shown at the southern tip of Lolui Island. The green highlights the forested parts of Sagitu and Lolui Islands. Previously called Victoria Nyanza, Lake Victoria is the largest lake in Africa, the second largest freshwater lake in the world (after Lake Superior in North America), and the chief source of the Nile River. Containing many islands and archipelagos and numerous reefs, the lake lies mainly in Tanzania and Uganda and also borders on Kenya.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668567",
+    "http://www.loc.gov/item/2021668567/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_14266/",
+    "http://www.loc.gov/resource/wdl.14266/",
+    "https://hdl.loc.gov/loc.wdl/wdl.14266",
+    "https://www.loc.gov/item/2021668567/"
+  ],
+  "dct_issued_s": "1963-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_14266.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/14/26/6/wdl_14266/wdl_14266.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:26:6:wdl_14266:NaFiRRI_0034/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668567/\"}",
+  "dct_spatial_sm": [
+    "eastern",
+    "uganda"
+  ],
+  "dct_subject_sm": [
+    "1963",
+    "Islands",
+    "Uganda--Eastern",
+    "Victoria, Lake"
+  ],
+  "dct_temporal_sm": [
+    "1963-01-01"
+  ],
+  "dct_title_s": "Masiwa, Uganda.",
+  "gbl_dateRange_drsim": [
+    "[1963 TO 1963]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1963
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668567",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

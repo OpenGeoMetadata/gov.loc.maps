@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Stockdale, John, 1749?-1814",
+    "From Morse, Maps of America.",
+    "From Morse, Maps of America. Available also through the Library of Congress web site as a raster image.",
+    "Publication statement: [S.l.], 1794."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3780.ct000447",
+    "http://lccn.loc.gov/99466761",
+    "http://www.loc.gov/item/99466761/",
+    "http://www.loc.gov/resource/g3780.ct000447/",
+    "https://hdl.loc.gov/loc.gmd/g3780.ct000447",
+    "https://search.catalog.loc.gov/instances/32f716c4-f17b-5325-9dbd-99949459cd39",
+    "https://www.loc.gov/item/99466761/"
+  ],
+  "dct_issued_s": "1794",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd378/g3780/g3780/ct000447.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466761/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Connecticut--Maps",
+    "United States--Connecticut"
+  ],
+  "dct_temporal_sm": [
+    "1794"
+  ],
+  "dct_title_s": "Connecticut",
+  "gbl_dateRange_drsim": [
+    "[1794 TO 1794]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1794
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466761",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

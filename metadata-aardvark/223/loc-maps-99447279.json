@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Weiss, Jacob",
+    "Description derived from published bibliography.",
+    "Description derived from published bibliography. Scale ca. 1:62,000. LC Civil War Maps (2nd ed.), 119 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 119",
+    "Publication statement: Philadelphia, Jacob Weiss, [186-]",
+    "Scale ca. 1:62,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3932p.cw0119000",
+    "http://lccn.loc.gov/99447279",
+    "http://www.loc.gov/item/99447279/",
+    "http://www.loc.gov/resource/g3932p.cw0119000/",
+    "https://hdl.loc.gov/loc.gmd/g3932p.cw0119000",
+    "https://search.catalog.loc.gov/instances/5f287f9b-f22f-5263-890a-6cdb992213f2",
+    "https://www.loc.gov/item/99447279/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3932/g3932p/cw0119000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447279/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "pensacola bay",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pensacola Bay (Fla.)--Maps",
+    "United States--Florida--Pensacola Bay"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "A correct map of Pensacola Bay showing topography of the coast, Fort Pickens, U.S. Navy Yard, and all other fortifications from the latest Government surveys",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447279",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Prise de Possession de la Louisiane et du Fleuve Mississipi, Au Nom de Louis XIV, par Cavelier de la Salle [de Rouen], le 9 Avril 1682. Dédiée au Général T. Beauregard, et accompagné d'un texte explicatif"
+  ],
+  "dct_description_sm": [
+    "Content in French.",
+    "Contributors: Bocquin, Jean-Adolphe, active 19th century Lithographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of France.",
+    "Original resource extent: 1 lithograph ; 59.3 x 75.5 centimeters.",
+    "Publication statement: Paris : Lemercier & Company, 1870.",
+    "This lithograph from the 1870s by Jean-Adolphe Bocquin illustrates the claiming of Louisiana for France by René Robert Cavelier de La Salle, an event that helped to make La Salle one of the heroes of France's first colonial empire. La Salle was born in Rouen in 1643. Educated at a Jesuit college, he originally intended to enter the priesthood, but in 1666 he left France for Canada, seeking to make his fortune. He obtained a grant of land and worked for a time as a farmer and landlord. With the support of Governor Frontenac, he made a name for himself in the fur trade, founding Fort Niagara in 1676. Between 1679 and 1682, assisted by Henri de Tonti, a Neapolitan adventurer, he traversed the entire Great Lakes region. In early 1682 La Salle and Tonti began their descent of the Mississippi. They reached the Gulf of Mexico on April 9, where La Salle claimed the whole of the Mississippi Basin for France and named the territory in honor of King Louis XIV. The fictionalized illustration shows La Salle, sword in hand, reading a proclamation while a group of people that includes French soldiers, a few civilian notables, a priest, and Indian warriors and chiefs looks on. The river and an Indian dwelling are seen in the background.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668651",
+    "http://www.loc.gov/item/2021668651/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15512/",
+    "http://www.loc.gov/resource/wdl.15512/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15512",
+    "https://www.loc.gov/item/2021668651/"
+  ],
+  "dct_issued_s": "1870-01-01",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15512.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/51/2/wdl_15512/wdl_15512.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:51:2:wdl_15512:E0000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668651/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "mississippi",
+    "united states of america"
+  ],
+  "dct_subject_sm": [
+    "1682-04-02",
+    "Colonization",
+    "France in America",
+    "France--Colonies",
+    "Indians of North America",
+    "Indigenous peoples",
+    "Jesuits",
+    "La Salle, Robert Cavelier, sieur de, 1643-1687",
+    "Missionaries",
+    "Mississippi River",
+    "New France",
+    "Soliders",
+    "United States of America--Louisiana",
+    "United States of America--Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "1870-01-01"
+  ],
+  "dct_title_s": "Taking Possession of Louisiana and the Mississippi River, in the Name of Louis XIVth, by Cavelier de La Salle [From Rouen] on April 9, 1682.",
+  "gbl_dateRange_drsim": [
+    "[1870 TO 1870]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1870
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668651",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copied. May. 1899.\"",
+    "\"Reconstructed from Map of 1881.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Texas. General Land Office",
+    "LC Land ownership maps, 1116",
+    "Mounted on cloth and losses and stains on upper portion of map.",
+    "Publication statement: [Austin, Tex.] : General Land Office, [1899]",
+    "Shows land ownership.",
+    "Shows land ownership. \"Copied. May. 1899.\" \"Reconstructed from Map of 1881.\" Mounted on cloth and losses and stains on upper portion of map. LC Land ownership maps, 1116 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033s.la001116",
+    "http://lccn.loc.gov/2012590083",
+    "http://www.loc.gov/item/2012590083/",
+    "http://www.loc.gov/resource/g4033s.la001116/",
+    "https://hdl.loc.gov/loc.gmd/g4033s.la001116",
+    "https://search.catalog.loc.gov/instances/cdcbfe43-45d3-5014-b63e-54ded3b6c94a",
+    "https://www.loc.gov/item/2012590083/"
+  ],
+  "dct_issued_s": "1896",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033s/la001116.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590083/\"}",
+  "dct_spatial_sm": [
+    "sabine county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Texas--Sabine County--Maps",
+    "Real property--Texas--Sabine County--Maps",
+    "Sabine County (Tex.)--Maps",
+    "United States--Texas--Sabine County"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dct_title_s": "Map of Sabine County",
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1896
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590083",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

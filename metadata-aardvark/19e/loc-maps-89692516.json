@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ewing, Maskell C.; Sinclair, T. (Thomas), -1881",
+    "Copy annotated in pencil to show boundaries(?) and to update index; annotated in ink to add \"Va.\" to title.",
+    "DCP",
+    "Includes index to points of interest and text.",
+    "LC copy imperfect: Small sections missing along the map margin and near the map center.",
+    "Oriented with north toward the upper right.",
+    "Publication statement: Phil[adelphia] : Lith. of T. Sinclair, 1845.",
+    "Relief shown by hachures. Depths shown by contours.",
+    "Relief shown by hachures. Depths shown by contours. Oriented with north toward the upper right. Includes index to points of interest and text. Copy annotated in pencil to show boundaries(?) and to update index; annotated in ink to add \"Va.\" to title. Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Small sections missing along the map margin and near the map center. DCP Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884a.ct003374",
+    "http://lccn.loc.gov/89692516",
+    "http://www.loc.gov/item/89692516/",
+    "http://www.loc.gov/resource/g3884a.ct003374/",
+    "https://hdl.loc.gov/loc.gmd/g3884a.ct003374",
+    "https://search.catalog.loc.gov/instances/d2d150c5-9683-5734-8b36-3d1a38c53d4e",
+    "https://www.loc.gov/item/89692516/"
+  ],
+  "dct_issued_s": "1845",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884a/ct003374.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89692516/\"}",
+  "dct_spatial_sm": [
+    "alexandria",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Alexandria (Va.)--Maps",
+    "Virginia--Alexandria"
+  ],
+  "dct_temporal_sm": [
+    "1845"
+  ],
+  "dct_title_s": "Plan of the town of Alexandria, D.C. with the environs : exhibiting the outlet of the Alexandria Canal, the shipping channel, wharves, Hunting Cr. &c",
+  "gbl_dateRange_drsim": [
+    "[1845 TO 1845]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1845
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89692516",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

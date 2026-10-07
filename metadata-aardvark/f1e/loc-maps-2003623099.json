@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 99-59",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral survey map of land tracts in South Mendocino County with color coded to some timber lands and ownership; red color indicates timber lands controlled by Hickey and Standish.",
+    "Contributors: Hickey & Standish",
+    "Copy annotated in pencil on lower left corner of map.",
+    "Copy imperfect: Cover and part of map torn.",
+    "Pen-and-ink and watercolor.",
+    "Pen-and-ink and watercolor. Cadastral survey map of land tracts in South Mendocino County with color coded to some timber lands and ownership; red color indicates timber lands controlled by Hickey and Standish. Title supplied by cataloger. Copy annotated in pencil on lower left corner of map. Copy imperfect: Cover and part of map torn. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 99-59",
+    "Publication statement: [ca. 1895]",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4363m.ct007823",
+    "http://lccn.loc.gov/2003623099",
+    "http://www.loc.gov/item/2003623099/",
+    "http://www.loc.gov/resource/g4363m.ct007823/",
+    "https://hdl.loc.gov/loc.gmd/g4363m.ct007823",
+    "https://search.catalog.loc.gov/instances/63cb7af6-f887-5ef5-b6f4-2f7bd2b04dbb",
+    "https://www.loc.gov/item/2003623099/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4363/g4363m/ct007823.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003623099/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "mendocino county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mendocino County (Calif.)--Maps, Manuscript",
+    "Mendocino County (Calif.)--Surveys--Maps",
+    "Real property--California--Mendocino County--Maps",
+    "United States--California--Mendocino County"
+  ],
+  "dct_temporal_sm": [
+    "1895",
+    "[Blueprint map of South Mendocino Co., CA, ca. 1895]",
+    "[ca. 1895]"
+  ],
+  "dct_title_s": "[Blueprint map of South Mendocino Co., CA, ca. 1895]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003623099",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

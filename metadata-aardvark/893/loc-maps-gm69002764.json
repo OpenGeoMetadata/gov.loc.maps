@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 110; 650/2; 650/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Fort Worth District",
+    "Folded title: Floods on Cottonwood Creek, Grand Prairie, and Arlington, Texas--How to avoid damage.",
+    "Folded title: Floods on Cottonwood Creek, Grand Prairie, and Arlington, Texas--How to avoid damage. Includes charts of \"Cottonwood Creek: Flood elevations.\" Text and col. illus. on verso. Scale ca. 1:35,000. Available also through the Library of Congress Web site as a raster image. AACR2: 110; 650/2; 650/3",
+    "Includes charts of \"Cottonwood Creek: Flood elevations.\"",
+    "Publication statement: [Fort Worth, Tex., 1969]",
+    "Scale ca. 1:35,000.",
+    "Text and col. illus. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm69002764",
+    "http://www.loc.gov/item/gm69002764/",
+    "http://www.loc.gov/resource/g4032c.ct011391/",
+    "https://hdl.loc.gov/loc.gmd/g4032c.ct011391",
+    "https://search.catalog.loc.gov/instances/047138be-d5b6-55f8-9646-bb6d03eef475",
+    "https://www.loc.gov/item/gm69002764/"
+  ],
+  "dct_issued_s": "1969",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032c/ct011391.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm69002764/\"}",
+  "dct_spatial_sm": [
+    "arlington",
+    "cottonwood creek",
+    "grand prairie",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Floods--Texas--Arlington--Maps",
+    "Floods--Texas--Cottonwood Creek--Maps",
+    "Floods--Texas--Grand Prairie--Maps",
+    "United States--Texas--Arlington",
+    "United States--Texas--Grand Prairie"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "dct_title_s": "Cottonwood Creek",
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1969]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm69002764",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

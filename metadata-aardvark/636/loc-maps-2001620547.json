@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Cadastral map. Relief shown by shading. Pen-and-ink and watercolor. Oriented with north to the bottom. Indexed. LC Luso-Hispanic World, 394 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Indexed.",
+    "LC Luso-Hispanic World, 394",
+    "Oriented with north to the bottom.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1807?]",
+    "Relief shown by shading.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4954s.ct000101",
+    "http://lccn.loc.gov/2001620547",
+    "http://www.loc.gov/item/2001620547/",
+    "http://www.loc.gov/resource/g4954s.ct000101/",
+    "https://hdl.loc.gov/loc.gmd/g4954s.ct000101",
+    "https://search.catalog.loc.gov/instances/7a55e131-c108-5f63-814a-80f1caa62707",
+    "https://www.loc.gov/item/2001620547/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4954/g4954s/ct000101.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001620547/\"}",
+  "dct_spatial_sm": [
+    "dominican republic",
+    "santa bárbara de samaná",
+    "santo bárbara de samaná"
+  ],
+  "dct_subject_sm": [
+    "Dominican Republic--Santo Bárbara de Samaná",
+    "Santa Bárbara de Samaná (Dominican Republic)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1807",
+    "[1807?]"
+  ],
+  "dct_title_s": "Plan de projet pour l'etablissement de la ville du Port Napoléon dans l'Isle Saint Domingue sur la presqu'isle et Baye de Samana",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001620547",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

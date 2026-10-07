@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Source: U.S. Census Bureau's TIGER database.\"",
+    "\"State, county, and equivalent boundaries are as of January 1, 2000.\"",
+    "\"State, county, and equivalent boundaries are as of January 1, 2000.\" \"Source: U.S. Census Bureau's TIGER database.\" Includes lists of senate and house membership by state as of Feb. 10, 2003, and location map. Insets: [Alaska] -- [Hawaii]. Ancillary maps: Guam -- American Samoa -- Puerto Rico and U.S. Virgin Islands. Available also through the Library of Congress Web site as a raster image.",
+    "Ancillary maps: Guam -- American Samoa -- Puerto Rico and U.S. Virgin Islands.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Bureau of the Census. Geography Division",
+    "Includes lists of senate and house membership by state as of Feb. 10, 2003, and location map.",
+    "Insets: [Alaska] -- [Hawaii].",
+    "Publication statement: [Washington, D.C.] : U.S. Dept. of Commerce, Economics and Statistics Administration, Bureau of the Census, [2003]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701f.ct001064",
+    "http://lccn.loc.gov/2003621388",
+    "http://www.loc.gov/item/2003621388/",
+    "http://www.loc.gov/resource/g3701f.ct001064/",
+    "https://hdl.loc.gov/loc.gmd/g3701f.ct001064",
+    "https://search.catalog.loc.gov/instances/a2dbe058-b138-50ef-bc0c-6b102aa2556b",
+    "https://www.loc.gov/item/2003621388/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701f/ct001064.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003621388/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Election districts--United States--Maps",
+    "United States",
+    "United States.--Congress.--House--Election districts--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2003 d2005"
+  ],
+  "dct_title_s": "Congressional districts of the 108th Congress of the United States, January 2003 to 2005",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003621388",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

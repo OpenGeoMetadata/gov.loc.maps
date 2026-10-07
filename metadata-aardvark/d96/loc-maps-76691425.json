@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Mobile District",
+    "Includes table of recreational facilities and area map.",
+    "Publication statement: Mobile, Ala. [1973?]",
+    "Scale not given.",
+    "Shows launching ramps, landings, and boatways.",
+    "Shows launching ramps, landings, and boatways. Includes table of recreational facilities and area map. Text and illus. on verso. Scale not given. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Text and illus. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/76691425",
+    "http://www.loc.gov/item/76691425/",
+    "http://www.loc.gov/resource/g3922s.ct010079/",
+    "https://hdl.loc.gov/loc.gmd/g3922s.ct010079",
+    "https://search.catalog.loc.gov/instances/7c445ec6-92af-53d6-a18d-3ef134c01807",
+    "https://www.loc.gov/item/76691425/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922s/ct010079.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76691425/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "georgia",
+    "lake",
+    "seminole",
+    "seminole, lake",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Outdoor recreation--Seminole, Lake (Ga. and Fla.)--Maps",
+    "Seminole, Lake (Ga. and Fla.)--Maps",
+    "United States--Georgia--Seminole, Lake"
+  ],
+  "dct_temporal_sm": [
+    "1973",
+    "Mobile, Ala. [1973?]"
+  ],
+  "dct_title_s": "Lake Seminole",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76691425",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

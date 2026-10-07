@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Grimes County, Texas"
+  ],
+  "dct_description_sm": [
+    "\"Copyright 1880 W.C. Walsh Commissioner of the Genl. Land Office of the State of Texas.\"",
+    "\"Lithographed by A. Gast & Co's New Process St. Louis.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: August Gast & Co; Texas. General Land Office; Walsh, W. C. (William C.), 1836-1924",
+    "Copy 1 mounted on cloth. Copies 2, 3, and 4 mounted on paper.",
+    "LC Land ownership maps, 991",
+    "Publication statement: [Austin, Tex.] : General Land Office, c1880.",
+    "Shows land ownership.",
+    "Shows land ownership. \"Copyright 1880 W.C. Walsh Commissioner of the Genl. Land Office of the State of Texas.\" \"Lithographed by A. Gast & Co's New Process St. Louis.\" Copy 1 mounted on cloth. Copies 2, 3, and 4 mounted on paper. LC Land ownership maps, 991 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033g.la000991",
+    "http://lccn.loc.gov/2012586909",
+    "http://www.loc.gov/item/2012586909/",
+    "http://www.loc.gov/resource/g4033g.la000991/",
+    "https://hdl.loc.gov/loc.gmd/g4033g.la000991",
+    "https://search.catalog.loc.gov/instances/b81508d3-5bbf-5004-b38e-7c5e4d250529",
+    "https://www.loc.gov/item/2012586909/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033g/la000991.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012586909/\"}",
+  "dct_spatial_sm": [
+    "grimes county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Grimes County (Tex.)--Maps",
+    "Landowners--Texas--Grimes County--Maps",
+    "Real property--Texas--Grimes County--Maps",
+    "United States--Texas--Grimes County"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Map of Grimes Co., Texas",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012586909",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

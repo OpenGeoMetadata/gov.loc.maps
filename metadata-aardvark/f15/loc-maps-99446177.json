@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Publication statement: [S.l.], 1895-"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3960.np000158",
+    "http://lccn.loc.gov/99446177",
+    "http://www.loc.gov/item/99446177/",
+    "http://www.loc.gov/resource/g3960.np000158/",
+    "https://hdl.loc.gov/loc.gmd/g3960.np000158",
+    "https://search.catalog.loc.gov/instances/ad2a8f21-6096-5754-b2aa-0cfd1d6b28a9",
+    "https://www.loc.gov/item/99446177/"
+  ],
+  "dct_issued_s": "1895",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3960/g3960/np000158.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446177/\"}",
+  "dct_spatial_sm": [
+    "great smoky mountains national park",
+    "knoxville",
+    "north carolina",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Geology--Tennessee--Maps",
+    "United States--North Carolina--Great Smoky Mountains National Park",
+    "United States--Tennessee--Great Smoky Mountains National Park",
+    "United States--Tennessee--Knoxville"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dct_title_s": "Tennessee-North Carolina",
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446177",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

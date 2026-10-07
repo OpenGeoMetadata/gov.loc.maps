@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 411 Available also through the Library of Congress Web site as a raster image. AACR2: 651",
+    "Contributors: Saint, Robert M.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 411",
+    "Perspective map not drawn to scale.",
+    "Publication statement: St. Paul, c1906."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4144s.pm004110",
+    "http://lccn.loc.gov/75694650",
+    "http://www.loc.gov/item/75694650/",
+    "http://www.loc.gov/resource/g4144s.pm004110/",
+    "https://hdl.loc.gov/loc.gmd/g4144s.pm004110",
+    "https://search.catalog.loc.gov/instances/13854337-c1f1-5a05-bfed-7254bb86328b",
+    "https://www.loc.gov/item/75694650/"
+  ],
+  "dct_issued_s": "1906",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd414/g4144/g4144s/pm004110.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694650/\"}",
+  "dct_spatial_sm": [
+    "minnesota",
+    "saint paul",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Saint Paul (Minn.)--Maps",
+    "United States--Minnesota--Saint Paul"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "dct_title_s": "St. Paul, Minn",
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1906
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694650",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

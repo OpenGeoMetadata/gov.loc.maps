@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: California title collection--drawer 97",
+    "Alternate supplied title: California title collection--miscellaneous Ca-Cok",
+    "Alternate supplied title: California title collection--regions Ca-Cok"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Various places] : [various publishers], [approximately 1800-1970]",
+    "This record covers single maps covering regions of California, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show regions, such as rivers, lakes and mountains. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps covering regions of California, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show regions, such as rivers, lakes and mountains. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. Available also through the Library of Congress Web site as a raster image.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022592741",
+    "http://www.loc.gov/item/2022592741/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ca_097/",
+    "http://www.loc.gov/resource/gmdtitlecolmaps.ca-097/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ca_097",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolmaps.ca-097",
+    "https://search.catalog.loc.gov/instances/04d6cf82-479c-5122-994c-a41b47ccea97",
+    "https://www.loc.gov/item/2022592741/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolmaps:ca:-0:97:ca-097:ca-097-04a-01/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022592741/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Lakes--California--Maps",
+    "Outdoor recreation--California--Maps",
+    "Rivers--California--Maps",
+    "Trails--California--Maps",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "1800/1970",
+    "[Various places] : [various publishers], [approximately 1800-1970]"
+  ],
+  "dct_title_s": "[Maps of California--regions Ca-Cok]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2022592741",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by soundings.",
+    "LC Luso-Hispanic World, 434",
+    "Maggs number annotated in pencil in lower right corner: 134.",
+    "Mounted on cloth backing.",
+    "Oriented with north to the left.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [17--?]",
+    "Shows coast in the region of Saint George's.",
+    "Shows coast in the region of Saint George's. Depths shown by soundings. Oriented with north to the left. Watermark: J. Honig &. Pen-and-ink and watercolor. Mounted on cloth backing. Maggs number annotated in pencil in lower right corner: 134. LC Luso-Hispanic World, 434 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermark: J. Honig &."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5134s.lh000434",
+    "http://lccn.loc.gov/90683961",
+    "http://www.loc.gov/item/90683961/",
+    "http://www.loc.gov/resource/g5134s.lh000434/",
+    "https://hdl.loc.gov/loc.gmd/g5134s.lh000434",
+    "https://search.catalog.loc.gov/instances/b1e2cc53-28ed-5f8c-9249-1d67e43708f0",
+    "https://www.loc.gov/item/90683961/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5134/g5134s/lh000434.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90683961/\"}",
+  "dct_spatial_sm": [
+    "grenada",
+    "saint george's region"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Grenada--Saint George's Region--Maps--Early works to 1800",
+    "Grenada--Saint George's Region",
+    "Manuscript maps--Early works to 1800",
+    "Saint George's Region (Grenada)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1700",
+    "[17--?]"
+  ],
+  "dct_title_s": "Plano de la Granada",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90683961",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

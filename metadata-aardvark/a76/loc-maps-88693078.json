@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Essex, Frank B.; United States. Department of the Army. General Staff. Second Section; Van Deman, Ralph H., 1865-1952",
+    "DCP",
+    "Includes notes.",
+    "LC sheets torn, fold-lined, and mounted on cloth backing.",
+    "Publication statement: Washington : Second Section General Staff, 1910.",
+    "Relief shown by contours and hachures.",
+    "Relief shown by contours and hachures. Sheets numbered: 1, 2, 3. Includes notes. Available also through the Library of Congress Web site as a raster image. LC sheets torn, fold-lined, and mounted on cloth backing. DCP",
+    "Sheets numbered: 1, 2, 3."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852r.ct005143",
+    "http://lccn.loc.gov/88693078",
+    "http://www.loc.gov/item/88693078/",
+    "http://www.loc.gov/resource/g3852r.ct005143/",
+    "https://hdl.loc.gov/loc.gmd/g3852r.ct005143",
+    "https://search.catalog.loc.gov/instances/1df88664-11d4-574a-a8d8-b6844f853338",
+    "https://www.loc.gov/item/88693078/"
+  ],
+  "dct_issued_s": "1910",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852r/ct005143.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693078/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "rock creek park",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Rock Creek Park (Washington, D.C.)--Maps",
+    "United States--District of Columbia--Washington--Rock Creek Park"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "dct_title_s": "Map of Rock Creek Park : April 1910 : [Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1910]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1910
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-88693078",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

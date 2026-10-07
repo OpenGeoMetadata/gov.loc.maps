@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 803218AI (G00261) 1-07.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes note.",
+    "Includes note. \"Base 803218AI (G00261) 1-07.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2007]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7720.ct002215",
+    "http://lccn.loc.gov/2007629110",
+    "http://www.loc.gov/item/2007629110/",
+    "http://www.loc.gov/resource/g7720.ct002215/",
+    "https://hdl.loc.gov/loc.gmd/g7720.ct002215",
+    "https://search.catalog.loc.gov/instances/f67c894b-82d2-50b6-b9e7-d36033239689",
+    "https://www.loc.gov/item/2007629110/"
+  ],
+  "dct_issued_s": "2007",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7720/g7720/ct002215.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007629110/\"}",
+  "dct_spatial_sm": [
+    "burma"
+  ],
+  "dct_subject_sm": [
+    "Burma",
+    "Burma--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_title_s": "Burma",
+  "gbl_dateRange_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007629110",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

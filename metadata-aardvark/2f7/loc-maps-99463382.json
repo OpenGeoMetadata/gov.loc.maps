@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "New historical atlas of Westmoreland Co., Pennsylvania, illustrated"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Davis, F. A.; Kochersperger, H. L.",
+    "Publication statement: Reading, PA : Reading Pub. House, 1876.",
+    "Relief shown by hachures and spot heights.",
+    "Relief shown by hachures and spot heights. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/99463382",
+    "http://www.loc.gov/item/99463382/",
+    "http://www.loc.gov/resource/gmdatlases.99463382/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.99463382",
+    "https://search.catalog.loc.gov/instances/85a22155-4e6c-5fbf-aead-fff02a37bd18",
+    "https://www.loc.gov/item/99463382/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:99:46:33:82:99463382:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/99463382/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states",
+    "westmoreland county",
+    "westmoreland county (pa.)"
+  ],
+  "dct_subject_sm": [
+    "Real property--Pennsylvania--Westmoreland County--Maps",
+    "United States--Pennsylvania--Westmoreland County (Pa.)",
+    "Westmoreland County (Pa.)--Directories",
+    "Westmoreland County (Pa.)--History--Maps",
+    "Westmoreland County (Pa.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "New illustrated atlas of Westmoreland Co., Pennsylvania : maps & atlases, historical works & charts",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99463382",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

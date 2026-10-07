@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress A.D. 1876 by F.W. Beer & Co. in the Office of the Librarian of Congress at Washington.\"",
+    "\"Entered according to Act of Congress A.D. 1876 by F.W. Beer & Co. in the Office of the Librarian of Congress at Washington.\" Includes business directories, distance table, statistical table of U.S., principle governments of the world, insets of Alma, St. Louis, Estella, Elm Hall, Riverdale, Bridgeville, Pompeh, diagram of Gratiot County, Ithaca, Breckenridge, views of public, residential, and commercial properties. LC copy imperfect: Mounted on cloth backing, original sheets sectioned into 6 panels to enable folding. LC Land ownership maps, 329 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: F. W. Beer & Co; Hart, Charles, active 1870; Neumann, Louis E.",
+    "Includes business directories, distance table, statistical table of U.S., principle governments of the world, insets of Alma, St. Louis, Estella, Elm Hall, Riverdale, Bridgeville, Pompeh, diagram of Gratiot County, Ithaca, Breckenridge, views of public, residential, and commercial properties.",
+    "LC Land ownership maps, 329",
+    "LC copy imperfect: Mounted on cloth backing, original sheets sectioned into 6 panels to enable folding.",
+    "Publication statement: N.Y. : Printed by Charles Hart; New York : F.W. Beer & Co., 1876."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4113g.la000329",
+    "http://lccn.loc.gov/2012593147",
+    "http://www.loc.gov/item/2012593147/",
+    "http://www.loc.gov/resource/g4113g.la000329/",
+    "https://hdl.loc.gov/loc.gmd/g4113g.la000329",
+    "https://search.catalog.loc.gov/instances/48a09061-b194-559a-97d5-cc503dad2ab0",
+    "https://www.loc.gov/item/2012593147/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd411/g4113/g4113g/la000329.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593147/\"}",
+  "dct_spatial_sm": [
+    "gratiot county",
+    "michigan",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Michigan--Gratiot County--Maps",
+    "Real property--Michigan--Gratiot County--Maps",
+    "United States--Michigan--Gratiot County"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Topographic map of Gratiot Co., Michigan",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593147",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

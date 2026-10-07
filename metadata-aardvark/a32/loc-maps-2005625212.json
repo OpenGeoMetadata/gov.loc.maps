@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Imperfect: Large holes along fold lines and edges.",
+    "LC Civil War maps (2nd ed.), H328",
+    "Oriented with north to the left.",
+    "Oriented with north to the left. Title, date, and scale from Stephenson's Civil War maps, 1989. Pencil and crayon over 8-inch pencil grid on tracing paper, mounted on cloth. Imperfect: Large holes along fold lines and edges. LC Civil War maps (2nd ed.), H328 Available also through the Library of Congress web site as raster image.",
+    "Pencil and crayon over 8-inch pencil grid on tracing paper, mounted on cloth.",
+    "Publication statement: [188-?]",
+    "Title, date, and scale from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3893w.cwh00328",
+    "http://lccn.loc.gov/2005625212",
+    "http://www.loc.gov/item/2005625212/",
+    "http://www.loc.gov/resource/g3893w.cwh00328/",
+    "https://hdl.loc.gov/loc.gmd/g3893w.cwh00328",
+    "https://search.catalog.loc.gov/instances/d5952b9d-9d34-5b26-b84e-624a2795b817",
+    "https://www.loc.gov/item/2005625212/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3893/g3893w/cwh00328.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625212/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "wayne county",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Real property--West Virginia--Wayne County--Maps",
+    "United States--West Virginia--Wayne County",
+    "Wayne County (W. Va.)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "188?"
+  ],
+  "dct_title_s": "[Survey of a tract of land on Twelve Pole Creek, Wayne County, West Virginia]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625212",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

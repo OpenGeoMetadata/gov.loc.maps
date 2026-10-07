@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "6381 U.S. Copyright Office",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Atchison, Topeka, and Santa Fe Railroad Company; G.W. & C.B. Colton & Co",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 322",
+    "LC also has editions of 1885, 1886, 1887, 1888, 1890, and 1892.",
+    "Map of the southwestern states from the Mississippi River to the Pacific Ocean; indicates in table form miles of lines in Kansas, Missouri, Colorado, New Mexico, Texas, Arizona, and Mexico; shows relief by hachures, drainage, state boundaries, and cities and towns.",
+    "Publication statement: New York, 1883.",
+    "Scale 1:3,800,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4051p.rr003220",
+    "http://lccn.loc.gov/98688579",
+    "http://www.loc.gov/item/98688579/",
+    "http://www.loc.gov/resource/g4051p.rr003220/",
+    "https://hdl.loc.gov/loc.gmd/g4051p.rr003220",
+    "https://search.catalog.loc.gov/instances/3a6d9d4e-76ca-5f52-bf7a-b6cba8bff509",
+    "https://www.loc.gov/item/98688579/"
+  ],
+  "dct_issued_s": "1883",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4051/g4051p/rr003220.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688579/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west"
+  ],
+  "dct_subject_sm": [
+    "Atchison, Topeka, and Santa Fe Railroad Company--Maps",
+    "Railroads--West (U.S.)--Maps",
+    "United States--West"
+  ],
+  "dct_temporal_sm": [
+    "1883"
+  ],
+  "dct_title_s": "Map showing the Atchison, Topeka and Santa Fé Railroad system, with its connections",
+  "gbl_dateRange_drsim": [
+    "[1883 TO 1883]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1883
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688579",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

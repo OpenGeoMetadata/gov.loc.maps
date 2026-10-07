@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Covers area bounded by 7th St. west, C St. north, 1st St. east, and C St. south.",
+    "Covers area bounded by 7th St. west, C St. north, 1st St. east, and C St. south. Shows block numbers and dimensions. Lead pencil. Oriented with north to the right. Spotted and torn along edges. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "DCP",
+    "Lead pencil.",
+    "Oriented with north to the right.",
+    "Publication statement: [188-?]",
+    "Shows block numbers and dimensions.",
+    "Spotted and torn along edges.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852u.ct006221r",
+    "http://lccn.loc.gov/88690765",
+    "http://www.loc.gov/item/88690765/",
+    "http://www.loc.gov/resource/g3852u.ct006221r/",
+    "https://hdl.loc.gov/loc.gmd/g3852u.ct006221r",
+    "https://search.catalog.loc.gov/instances/3b4e0019-fe06-51b7-9525-e3c5d8f67759",
+    "https://www.loc.gov/item/88690765/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852u/ct006221r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690765/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "the mall",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Mall, The (Washington, D.C.)--Maps, Manuscript",
+    "United States Capitol (Washington, D.C.)--Maps, Manuscript",
+    "United States--District of Columbia--Washington--Mall, The"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "[Map of the Capitol grounds, eastern end of the Mall, and adjacent squares, Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690765",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral maps of townships showing names, statuses, allotment numbers of the individual owners as well as other geographical features.",
+    "Cadastral maps of townships showing names, statuses, allotment numbers of the individual owners as well as other geographical features. Title from spine. LC copy 1 imperfect: Front cover pulled away from spine and some leaves torn. Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Indian Territory Map Co",
+    "LC copy 1 imperfect: Front cover pulled away from spine and some leaves torn.",
+    "Publication statement: [Muskogee, Okla.] : Indian Territory Map Co., 1909.",
+    "Title from spine."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2011585467",
+    "http://www.loc.gov/item/2011585467/",
+    "http://www.loc.gov/resource/g4021gm.gla00497/",
+    "https://hdl.loc.gov/loc.gmd/g4021gm.gla00497",
+    "https://search.catalog.loc.gov/instances/e0f814ec-8fa5-5967-ac3e-5790aa5d1ad1",
+    "https://www.loc.gov/item/2011585467/"
+  ],
+  "dct_issued_s": "1909",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402m/g4021m/g4021gm/gla00497/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011585467/\"}",
+  "dct_spatial_sm": [
+    "oklahoma",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Oklahoma--Maps",
+    "Oklahoma--Maps",
+    "Real property--Oklahoma--Maps",
+    "United States--Oklahoma"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dct_title_s": "Cherokee Nation",
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1909
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011585467",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

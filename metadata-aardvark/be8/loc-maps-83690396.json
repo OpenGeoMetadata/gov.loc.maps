@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"July 1977.\"",
+    "At head of title: Figure 7.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes 3 cross-sections and perspective view.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1979.",
+    "Shows flood control structures.",
+    "Shows flood control structures. \"July 1977.\" At head of title: Figure 7. Includes 3 cross-sections and perspective view. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3762w.ct005897",
+    "http://lccn.loc.gov/83690396",
+    "http://www.loc.gov/item/83690396/",
+    "http://www.loc.gov/resource/g3762w.ct005897/",
+    "https://hdl.loc.gov/loc.gmd/g3762w.ct005897",
+    "https://search.catalog.loc.gov/instances/bdedfa64-05bd-5564-8a08-7a8dedf2a691",
+    "https://www.loc.gov/item/83690396/"
+  ],
+  "dct_issued_s": "1977",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3762/g3762w/ct005897.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83690396/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "united states",
+    "washington mountain brook"
+  ],
+  "dct_subject_sm": [
+    "Flood control--Massachusetts--Washington Mountain Brook--Maps",
+    "United States--Massachusetts--Washington Mountain Brook"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_title_s": "Preliminary plan, Washington Mountain Brook channel work, Washington Mountain Brook watershed, Berkshire County, Massachusetts",
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83690396",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Шведская сухопутная экспедиция к Енисею в 1876 году: Карта нижнего течения Енисея"
+  ],
+  "dct_description_sm": [
+    "Original map at: Russian State Library",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1876.",
+    "The map, which was based on official Russian sources and the maps of Professor Adolf Erik Nordenski{uml}old, has detailed drawings of the Yenisei tributaries and settlements along the rivers. The marked settlements are Tunguz and Khanty Samoyeds.",
+    "The map, which was based on official Russian sources and the maps of Professor Adolf Erik Nordenski{uml}old, has detailed drawings of the Yenisei tributaries and settlements along the rivers. The marked settlements are Tunguz and Khanty Samoyeds. Original map at: Russian State Library"
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694121",
+    "http://www.loc.gov/item/2018694121/",
+    "http://www.loc.gov/resource/gdc.2018694121/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0058",
+    "https://search.catalog.loc.gov/instances/cc1f9acd-5397-512e-b917-827fee20d895",
+    "https://www.loc.gov/item/2018694121/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694121.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694121/2018694121.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694121:smf0058/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694121/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Shvedskai︠a︡ sukhoputnai︠a︡ ėkspedit︠s︡ii︠a︡ k Enisei︠u︡ v 1876 godu : Karta nizhnego techenii︠a︡ Enisei︠a︡",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694121",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

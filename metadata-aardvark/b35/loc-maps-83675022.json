@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "輿地圖"
+  ],
+  "dct_description_sm": [
+    "Annotated catalogue of old Korean atlases and maps in the Library of Congress, p.10, McCune #5",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Yŏ, On",
+    "Publication statement: [18--?]",
+    "Purchased from Shannon McCune in 1982.",
+    "Romanized.",
+    "Romanized. Purchased from Shannon McCune in 1982. Annotated catalogue of old Korean atlases and maps in the Library of Congress, p.10, McCune #5 Available also through the Library of Congress Web site as a raster image. 天下圖 -- 中國圖 -- 日本國 -- 琉球國 -- 東國八道大總圖 -- 京畿道 -- 忠清道 -- 全羅道 -- 慶尚道 -- 黄海道 -- 平安道 -- 江原道 -- 咸鏡道.",
+    "天下圖 -- 中國圖 -- 日本國 -- 琉球國 -- 東國八道大總圖 -- 京畿道 -- 忠清道 -- 全羅道 -- 慶尚道 -- 黄海道 -- 平安道 -- 江原道 -- 咸鏡道."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7900m.gct00240",
+    "http://lccn.loc.gov/83675022",
+    "http://www.loc.gov/item/83675022/",
+    "http://www.loc.gov/resource/g7900m.gct00240/",
+    "https://hdl.loc.gov/loc.gmd/g7900m.gct00240",
+    "https://search.catalog.loc.gov/instances/7ad62c10-c35d-5ea8-8254-d10c34c53595",
+    "https://www.loc.gov/item/83675022/"
+  ],
+  "dct_language_sm": [
+    "korean"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7m/g7900m/g7900m/gct00240/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83675022/\"}",
+  "dct_spatial_sm": [
+    "korea"
+  ],
+  "dct_subject_sm": [
+    "Korea",
+    "Korea--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[18--?]"
+  ],
+  "dct_title_s": "Yŏjido",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83675022",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

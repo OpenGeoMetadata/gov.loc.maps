@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Hopkins County, Texas"
+  ],
+  "dct_description_sm": [
+    "\"General Land Office, Austin, Texas, Sept. 1885.\"",
+    "\"Traced July 1936 A.C. Clark.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint",
+    "Blueprint Shows land ownership. \"General Land Office, Austin, Texas, Sept. 1885.\" \"Traced July 1936 A.C. Clark.\" LC Land ownership maps, 1011 Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Texas. General Land Office; Thielepape, Geo. J.",
+    "LC Land ownership maps, 1011",
+    "Publication statement: Austin, Tex. : General Land Office, [1936]",
+    "Shows land ownership."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033h.la001011",
+    "http://lccn.loc.gov/2012592069",
+    "http://www.loc.gov/item/2012592069/",
+    "http://www.loc.gov/resource/g4033h.la001011/",
+    "https://hdl.loc.gov/loc.gmd/g4033h.la001011",
+    "https://search.catalog.loc.gov/instances/6da1a5c2-663b-5a0d-8b63-79015d07d2ec",
+    "https://www.loc.gov/item/2012592069/"
+  ],
+  "dct_issued_s": "1885",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033h/la001011.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592069/\"}",
+  "dct_spatial_sm": [
+    "hopkins county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hopkins County (Tex.)",
+    "Landowners--Texas--Hopkins County--Maps",
+    "Real property--Texas--Hopkins County--Maps",
+    "United States--Texas--Hopkins County"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "dct_title_s": "Hopkins Co",
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1885]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1885
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592069",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

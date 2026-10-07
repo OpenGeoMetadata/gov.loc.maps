@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 110; 650/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers",
+    "Folded title: Floods in Sherman, Texas, Post Oak Creek and tributaries; how to avoid damage.",
+    "Folded title: Floods in Sherman, Texas, Post Oak Creek and tributaries; how to avoid damage. Includes 2 flood profiles and illus. Text, illus., and \"Post Oak Creek watershed,\" ca. 1:90,000, on verso. Scale ca. 1:53,000. Available also through the Library of Congress Web site as a raster image. AACR2: 110; 650/2",
+    "Includes 2 flood profiles and illus.",
+    "Publication statement: [Sherman, 1969]",
+    "Scale ca. 1:53,000.",
+    "Text, illus., and \"Post Oak Creek watershed,\" ca. 1:90,000, on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm69002564",
+    "http://www.loc.gov/item/gm69002564/",
+    "http://www.loc.gov/resource/g4032p.ct011428/",
+    "https://hdl.loc.gov/loc.gmd/g4032p.ct011428",
+    "https://search.catalog.loc.gov/instances/b283a4a2-e47f-5850-a96c-919bd0c53caa",
+    "https://www.loc.gov/item/gm69002564/"
+  ],
+  "dct_issued_s": "1968",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032p/ct011428.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm69002564/\"}",
+  "dct_spatial_sm": [
+    "post oak creek",
+    "sherman",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Floods--Texas--Post Oak Creek--Maps",
+    "Floods--Texas--Sherman--Maps",
+    "United States--Texas--Sherman"
+  ],
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "dct_title_s": "Post Oak Creek and tributaries, vicinity of Sherman, Texas. January 1969",
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1968]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm69002564",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

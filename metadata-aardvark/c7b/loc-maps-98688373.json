@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress, July 10th, 1839, by David H. Burr, in the clerk's office of the District Court of the District of Columbia.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Arrowsmith, John, 1790-1873, engraver, publisher; Burr, David H., 1803-1875",
+    "LC Railroad maps, 98",
+    "Prime meridians: London and Washington D.C.",
+    "Publication statement: [London] : [John Arrowsmith], [1839]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Prime meridians: London and Washington D.C. \"Entered according to Act of Congress, July 10th, 1839, by David H. Burr, in the clerk's office of the District Court of the District of Columbia.\" The boundary between Maine and Canada, established by the Webster-Ashburton treaty of 1842, is shown by hand coloring. LC Railroad maps, 98 Available also through the Library of Congress Web site as a raster image.",
+    "The boundary between Maine and Canada, established by the Webster-Ashburton treaty of 1842, is shown by hand coloring."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3720.rr000980",
+    "http://lccn.loc.gov/98688373",
+    "http://www.loc.gov/item/98688373/",
+    "http://www.loc.gov/resource/g3720.rr000980/",
+    "https://hdl.loc.gov/loc.gmd/g3720.rr000980",
+    "https://search.catalog.loc.gov/instances/ced20b3b-6db0-533c-8896-590e458a5399",
+    "https://www.loc.gov/item/98688373/"
+  ],
+  "dct_issued_s": "1839",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd372/g3720/g3720/rr000980.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688373/\"}",
+  "dct_spatial_sm": [
+    "new england",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New England--Maps",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1839"
+  ],
+  "dct_title_s": "Map of Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, and Connecticut exhibiting the post offices, post roads, canals, rail roads, &c",
+  "gbl_dateRange_drsim": [
+    "[1839 TO 1839]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1839
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688373",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

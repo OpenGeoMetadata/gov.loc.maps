@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"502759 6-77 (542608).\"",
+    "\"502759 6-77 (542608).\" Also shows house numbering system. Indexes and glossary on verso. Scale 1:35,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Also shows house numbering system.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Indexes and glossary on verso.",
+    "Publication statement: [Washington, 1977]",
+    "Scale 1:35,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7064s.ct002864",
+    "http://lccn.loc.gov/78693185",
+    "http://www.loc.gov/item/78693185/",
+    "http://www.loc.gov/resource/g7064s.ct002864/",
+    "https://hdl.loc.gov/loc.gmd/g7064s.ct002864",
+    "https://search.catalog.loc.gov/instances/72205e19-b3ad-5da9-acc1-a7ef0fd18905",
+    "https://www.loc.gov/item/78693185/"
+  ],
+  "dct_issued_s": "1977",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7064/g7064s/ct002864.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78693185/\"}",
+  "dct_spatial_sm": [
+    "russia",
+    "saint petersburg"
+  ],
+  "dct_subject_sm": [
+    "Russia--Saint Petersburg",
+    "Saint Petersburg (Russia)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_title_s": "Street map of Leningrad",
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78693185",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows vegetation pictorially.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bar scale incorrect.",
+    "Contributors: Rocque, Mariano de la",
+    "Covers Saint Johns River and environs from Atlantic coast to current site of Jacksonville, Florida.",
+    "Covers Saint Johns River and environs from Atlantic coast to current site of Jacksonville, Florida. Relief shown pictorially. Depths shown by soundings. Shows defenses and fortifications. Also shows vegetation pictorially. Bar scale incorrect. Oriented with north toward the lower left. Pen-and-ink and watercolor. Map backed with cloth. Includes notes and index. Imperfect: Darkened and stained. LC Luso-Hispanic world, 884 Available also through the Library of Congress Web site as a raster image.",
+    "Imperfect: Darkened and stained.",
+    "Includes notes and index.",
+    "LC Luso-Hispanic world, 884",
+    "Map backed with cloth.",
+    "Oriented with north toward the lower left.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: 1791.",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Shows defenses and fortifications."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3932s.ct000275",
+    "http://lccn.loc.gov/2004626373",
+    "http://www.loc.gov/item/2004626373/",
+    "http://www.loc.gov/resource/g3932s.ct000275/",
+    "https://hdl.loc.gov/loc.gmd/g3932s.ct000275",
+    "https://search.catalog.loc.gov/instances/35cf045b-36e7-5705-ad35-63583f6dcbd5",
+    "https://www.loc.gov/item/2004626373/"
+  ],
+  "dct_issued_s": "1791",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3932/g3932s/ct000275.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004626373/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "jacksonville metropolitan area",
+    "saint johns river region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fortification--Florida--Jacksonville Metropolitan Area--Maps--Early works to 1800",
+    "Fortification--Florida--Saint Johns River Region--Maps--Early works to 1800",
+    "Jacksonville Metropolitan Area (Fla.)--Maps, Manuscript--Early works to 1800",
+    "Saint Johns River Region (Fla.)--Maps, Manuscript--Early works to 1800",
+    "United States--Florida--Jacksonville Metropolitan Area",
+    "United States--Florida--Saint Johns River Region"
+  ],
+  "dct_temporal_sm": [
+    "1791"
+  ],
+  "dct_title_s": "Plano numero 1. de la barra, y Rio de San Juan desde su entrada hasta dos millas mas arriba del paso de San Nicolas, manifestandose en su curso todos los baxos, sacatales, caños, y ys. las que comprehende, y tambien la de la barra chica, situacion do los reductos, y colocacion de los barcos para su defenza, y caminos que deven tomarse para la retirada los defensores",
+  "gbl_dateRange_drsim": [
+    "[1791 TO 1791]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1791
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004626373",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

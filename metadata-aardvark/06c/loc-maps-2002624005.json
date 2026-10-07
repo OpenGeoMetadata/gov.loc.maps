@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Post Office Department, cartographer; Von Haake, A.; Wilson, William L.",
+    "Publication statement: [Washington, D.C.] : Postmaster General, 1896."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881p.ct000776",
+    "http://lccn.loc.gov/2002624005",
+    "http://www.loc.gov/item/2002624005/",
+    "http://www.loc.gov/resource/g3881p.ct000776/",
+    "https://hdl.loc.gov/loc.gmd/g3881p.ct000776",
+    "https://search.catalog.loc.gov/instances/6db66b4d-e7a7-5686-8e8f-0151bff244a2",
+    "https://www.loc.gov/item/2002624005/"
+  ],
+  "dct_issued_s": "1896",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881p/ct000776.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002624005/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Postal service--Virginia--Maps",
+    "Postal service--West Virginia--Maps",
+    "United States--Virginia",
+    "United States--West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dct_title_s": "Post route map of the states of Virginia and West Virginia : showing post offices with the intermediate distances and mail routes in operation on the 1st of September, 1896",
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1896
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002624005",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no.: 96-5.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Bird's-eye view. Oriented with north toward the lower left. Includes index to points of interest and ill. Available also through the Library of Congress Web site as a raster image. LC copy faded, brittle, torn, taped, spotted, missing small section at lower right. Acquisitions control no.: 96-5.",
+    "Contributors: Burleigh, L. R. (Lucien R.), 1853?-1923; C.H. Vogt & Son",
+    "Includes index to points of interest and ill.",
+    "LC copy faded, brittle, torn, taped, spotted, missing small section at lower right.",
+    "Oriented with north toward the lower left.",
+    "Publication statement: Troy, N.Y. : L.R. Burleigh, 1885"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804h.pm005704",
+    "http://lccn.loc.gov/95685699",
+    "http://www.loc.gov/item/95685699/",
+    "http://www.loc.gov/resource/g3804h.pm005704/",
+    "https://hdl.loc.gov/loc.gmd/g3804h.pm005704",
+    "https://search.catalog.loc.gov/instances/100b6676-ddbc-5e9c-84df-e979418c7d70",
+    "https://www.loc.gov/item/95685699/"
+  ],
+  "dct_issued_s": "1885",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804h/pm005704.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95685699/\"}",
+  "dct_spatial_sm": [
+    "hamilton",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hamilton (N.Y.)--Aerial views",
+    "United States--New York (State)--Hamilton"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "dct_title_s": "Hamilton, N.Y.",
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1885]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1885
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95685699",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

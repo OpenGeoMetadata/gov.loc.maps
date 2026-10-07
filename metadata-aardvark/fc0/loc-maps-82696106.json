@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base Compiled from U.S.G.S. Quadrangle Sheets and Suwannee County General Highway Map.\"",
+    "\"Base Compiled from U.S.G.S. Quadrangle Sheets and Suwannee County General Highway Map.\" UTM grid. Includes notes and location map. \"October 1979 base 4-R-37164.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"October 1979 base 4-R-37164.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes notes and location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1980.",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82696106",
+    "http://www.loc.gov/item/82696106/",
+    "http://www.loc.gov/resource/g3933s.ct010378/",
+    "https://hdl.loc.gov/loc.gmd/g3933s.ct010378",
+    "https://search.catalog.loc.gov/instances/e4d22a60-ff3c-515b-a67d-d65268b0a82d",
+    "https://www.loc.gov/item/82696106/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3933/g3933s/ct010378.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82696106/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "suwannee county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soil percolation--Florida--Suwannee County--Maps",
+    "United States--Florida--Suwannee County",
+    "Water table--Florida--Suwannee County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Suwannee County, Florida : soil interpretive map of soil drainage and water table depths",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82696106",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

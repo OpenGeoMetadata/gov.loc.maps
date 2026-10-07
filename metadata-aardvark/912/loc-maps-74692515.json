@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map has been drawn from the survey made in 1769 ... by Bernard Ratzer ... and from another large survey of the northern parts ... by Gerard Banker.\"",
+    "AACR2: 100; 651/1; 651/2; 700/1; 700/2; 700/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cartographic source note in English and French.",
+    "Contributors: Bancker, Gerard, 1740-1799; Croisey, P.; Faden, William, 1749-1836; Perrier et Verrier; Ratzer, Bernard",
+    "Hand colored.",
+    "Hand colored. Prime meridian: Philadelphia. Relief shown by hachures. Cartographic source note in English and French. Shows county boundaries and \"Division line run in 1743 between East New Jersey and West New Jersey.\" \"This map has been drawn from the survey made in 1769 ... by Bernard Ratzer ... and from another large survey of the northern parts ... by Gerard Banker.\" Includes table of \"Astronomical observations.\" Scale ca. 1:430,000. LC Maps of North America, 1750-1789, 1240 Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Deteriorated along folds. Vault AACR2: 100; 651/1; 651/2; 700/1; 700/2; 700/3",
+    "Includes table of \"Astronomical observations.\"",
+    "LC Maps of North America, 1750-1789, 1240",
+    "LC copy imperfect: Deteriorated along folds.",
+    "Prime meridian: Philadelphia.",
+    "Publication statement: Paris, Chez les Srs. Perrier et Verrier [1778?]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:430,000.",
+    "Shows county boundaries and \"Division line run in 1743 between East New Jersey and West New Jersey.\"",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3810.ar124000",
+    "http://lccn.loc.gov/74692515",
+    "http://www.loc.gov/item/74692515/",
+    "http://www.loc.gov/resource/g3810.ar124000/",
+    "https://hdl.loc.gov/loc.gmd/g3810.ar124000",
+    "https://search.catalog.loc.gov/instances/e4fbb930-faf0-5819-bde2-cb3a01427786",
+    "https://www.loc.gov/item/74692515/"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3810/g3810/ar124000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692515/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Jersey--Administrative and political divisions--Maps--Early works to 1800",
+    "New Jersey--Maps--Early works to 1800",
+    "United States--New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1777",
+    "Paris, Chez les Srs. Perrier et Verrier [1778?]"
+  ],
+  "dct_title_s": "The Province of New Jersey, divided into East and West, commonly called the Jerseys",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692515",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

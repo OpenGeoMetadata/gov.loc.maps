@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title: Amistad",
+    "Amistad"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 2004--304-337/00024. Reprint 2004.\"",
+    "\"*GPO: 2004--304-337/00024. Reprint 2004.\" Includes text, location map, and Diablo East detail map. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image. Legend in English and Spanish.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, location map, and Diablo East detail map.",
+    "Legend in English and Spanish.",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2004]",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2010592141",
+    "http://www.loc.gov/item/2010592141/",
+    "http://www.loc.gov/resource/g4032a.ct011327/",
+    "https://hdl.loc.gov/loc.gmd/g4032a.ct011327",
+    "https://search.catalog.loc.gov/instances/bbaad7a1-8118-5ce1-8d97-6de78c9652ae",
+    "https://www.loc.gov/item/2010592141/"
+  ],
+  "dct_issued_s": "2004",
+  "dct_language_sm": [
+    "eng",
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032a/ct011327.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010592141/\"}",
+  "dct_spatial_sm": [
+    "amistad national recreation area",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Amistad National Recreation Area (Tex.)--Maps",
+    "United States--Texas--Amistad National Recreation Area"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "dct_title_s": "Amistad National Recreation Area, Texas",
+  "gbl_dateRange_drsim": [
+    "[2004 TO 2004]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010592141",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

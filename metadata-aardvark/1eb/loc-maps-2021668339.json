@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Demonstração dos afluentes do Rio São Francisco, em Minas Gerais"
+  ],
+  "dct_description_sm": [
+    "Content in Portuguese.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 manuscript map : color ; 35.5 x 67.5 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], [1700 to 1750]",
+    "This hand-colored manuscript map, made by an unknown cartographer sometime in the early 18th century, shows the tributaries of the São Francisco River in Brazil's Minas Gerais state. The São Francisco River system, which includes 168 tributaries, is the fourth-largest river system in South America. In the early 18th century, the Portuguese sent numerous expeditions up the São Francisco and its tributaries in search of gold, silver, and diamonds.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668339",
+    "http://www.loc.gov/item/2021668339/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00887/",
+    "http://www.loc.gov/resource/wdl.887/",
+    "https://hdl.loc.gov/loc.wdl/wdl.887",
+    "https://www.loc.gov/item/2021668339/"
+  ],
+  "dct_issued_s": "1700-01-01",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00887.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/88/7/wdl_00887/wdl_00887.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:88:7:wdl_00887:cart523954/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668339/\"}",
+  "dct_spatial_sm": [
+    "brazil",
+    "minas gerais"
+  ],
+  "dct_subject_sm": [
+    "1700 to 1750",
+    "Brazil--Minas Gerais",
+    "Manuscript maps",
+    "Rivers",
+    "São Francisco River"
+  ],
+  "dct_temporal_sm": [
+    "1700-01-01"
+  ],
+  "dct_title_s": "Demonstration of the Tributaries of the São Francisco River, Minas Gerais.",
+  "gbl_dateRange_drsim": [
+    "[1700 TO 1700]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1700
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668339",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

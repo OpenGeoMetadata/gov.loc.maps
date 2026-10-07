@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Connecticut title collection--cities and towns Norwich 1922-1970",
+    "Alternate supplied title: Connecticut title collection--drawer 70"
+  ],
+  "dct_description_sm": [
+    "Publication statement: [Various places] : [various publishers], [1922-1970]",
+    "This record covers single maps of Connecticut cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as land owners and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps of Connecticut cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as land owners and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022594818",
+    "http://www.loc.gov/item/2022594818/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ct-070/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ct-070",
+    "https://search.catalog.loc.gov/instances/8e013b06-e7ab-5bc3-954b-f0ccaf954f5e",
+    "https://www.loc.gov/item/2022594818/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ct:-0:70:ct-070:ct-070-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022594818/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "norwich",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Connecticut--Norwich--Maps",
+    "Norwich (Conn.)--Maps",
+    "United States--Connecticut"
+  ],
+  "dct_temporal_sm": [
+    "1922/1970"
+  ],
+  "dct_title_s": "[Maps of Connecticut--cities and towns Norwich 1922-1970]",
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1970]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1922
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022594818",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 99-83",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Faden, William, 1749-1836",
+    "Imperfect: Creased, soiled, small tears along edges of sheet.",
+    "Includes notes and ill.",
+    "Publication statement: [London? : s.n.], 1783.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Includes notes and ill. Imperfect: Creased, soiled, small tears along edges of sheet. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 99-83"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.ct004512",
+    "http://lccn.loc.gov/2002621132",
+    "http://www.loc.gov/item/2002621132/",
+    "http://www.loc.gov/resource/g3700.ct004512/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ct004512",
+    "https://search.catalog.loc.gov/instances/0048e791-b0ae-5111-9054-ac835cc791ab",
+    "https://www.loc.gov/item/2002621132/"
+  ],
+  "dct_issued_s": "1783",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ct004512.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002621132/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1783"
+  ],
+  "dct_title_s": "The United States of North America, with the British & Spanish territories according to the treaty",
+  "gbl_dateRange_drsim": [
+    "[1783 TO 1783]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1783
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002621132",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Imperfect: Liquid staining and discoloration along fold-lines. Mounted on cloth.",
+    "In pencil in top right margin: [1804] 8.",
+    "Insets: Plan des ouvrages a construire au lieu dit el Puerto, sur le chemin de St. Juan a Azua -- Plan des ouvrages a construire au lieu dit Posteroban, au passage de la Riv. sur le Chemin de Neybe a Azua.",
+    "Oriented with north to the right.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [Dominican Repuiblic?] : Mangin, an XII, 1804.",
+    "Relief shown by land form drawings.",
+    "Relief shown by land form drawings. Oriented with north to the right. Pen-and-ink and watercolor. Insets: Plan des ouvrages a construire au lieu dit el Puerto, sur le chemin de St. Juan a Azua -- Plan des ouvrages a construire au lieu dit Posteroban, au passage de la Riv. sur le Chemin de Neybe a Azua. In pencil in top right margin: [1804] 8. Imperfect: Liquid staining and discoloration along fold-lines. Mounted on cloth. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4953a.ct000113",
+    "http://lccn.loc.gov/2012590241",
+    "http://www.loc.gov/item/2012590241/",
+    "http://www.loc.gov/resource/g4953a.ct000113/",
+    "https://hdl.loc.gov/loc.gmd/g4953a.ct000113",
+    "https://search.catalog.loc.gov/instances/811e4dbb-3844-5181-80d0-f2ec76920141",
+    "https://www.loc.gov/item/2012590241/"
+  ],
+  "dct_issued_s": "1804",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4953/g4953a/ct000113.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590241/\"}",
+  "dct_spatial_sm": [
+    "azua",
+    "azua (province)",
+    "dominican republic"
+  ],
+  "dct_subject_sm": [
+    "Azua (Dominican Republic : Province)--Maps",
+    "Dominican Republic--Azua (Province)"
+  ],
+  "dct_temporal_sm": [
+    "1804"
+  ],
+  "dct_title_s": "Carte des communications d'Azua á Neybe et a St. Juan",
+  "gbl_dateRange_drsim": [
+    "[1804 TO 1804]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1804
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590241",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"June 1991.\"",
+    "\"Recreation guide R8-RG10.\"",
+    "\"Recreation guide R8-RG10.\" \"June 1991.\" Includes location map, col. ill., and forest information. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes location map, col. ill., and forest information.",
+    "Publication statement: Washington, D.C. : The Service, [1994]",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/96681167",
+    "http://www.loc.gov/item/96681167/",
+    "http://www.loc.gov/resource/g4002b.ct010881/",
+    "https://hdl.loc.gov/loc.gmd/g4002b.ct010881",
+    "https://search.catalog.loc.gov/instances/94ec0d06-d8cb-5621-b7e3-06612c17b720",
+    "https://www.loc.gov/item/96681167/"
+  ],
+  "dct_issued_s": "1994",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4002/g4002b/ct010881.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96681167/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "blanchard caverns",
+    "blanchard springs caverns",
+    "blanchard springs recreation area",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Outdoor recreation--Arkansas--Blanchard Springs Caverns--Maps",
+    "Outdoor recreation--Arkansas--Blanchard Springs Recreation Area--Maps",
+    "United States--Arkansas--Blanchard Caverns",
+    "United States--Arkansas--Blanchard Springs Recreation Area"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_title_s": "Blanchard Springs Caverns in the Sylamore District, Ozark National Forest",
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96681167",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"782147AI (G01520) 4-08.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency. Cartography Center",
+    "Covers the former Yugoslav republics minus Slovenia but including Albania.",
+    "Covers the former Yugoslav republics minus Slovenia but including Albania. Ethnic data shown in opština-level administrative divisions. \"782147AI (G01520) 4-08.\" Includes text, population density inset, statistical data, and col. ill. of flags. Available also through the Library of Congress Web site as a raster image.",
+    "Ethnic data shown in opština-level administrative divisions.",
+    "Includes text, population density inset, statistical data, and col. ill. of flags.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2008]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6841e.ct002411",
+    "http://lccn.loc.gov/2008620837",
+    "http://www.loc.gov/item/2008620837/",
+    "http://www.loc.gov/resource/g6841e.ct002411/",
+    "https://hdl.loc.gov/loc.gmd/g6841e.ct002411",
+    "https://search.catalog.loc.gov/instances/a6da2b12-e470-5de5-bce0-06ba677ffc0c",
+    "https://www.loc.gov/item/2008620837/"
+  ],
+  "dct_issued_s": "2008",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6841/g6841e/ct002411.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008620837/\"}",
+  "dct_spatial_sm": [
+    "balkan peninsula",
+    "former yugoslav republics"
+  ],
+  "dct_subject_sm": [
+    "Balkan Peninsula",
+    "Ethnology--Balkan Peninsula--Maps",
+    "Ethnology--Former Yugoslav republics--Maps",
+    "Former Yugoslav republics",
+    "Population density--Balkan Peninsula--Maps",
+    "Population density--Former Yugoslav republics--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "dct_title_s": "Ethnic distribution in the western Balkans, 2008",
+  "gbl_dateRange_drsim": [
+    "[2008 TO 2008]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008620837",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

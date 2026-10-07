@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Phelps, Humphrey, active 19th century, publisher; Story & Atwood, cartographer, engraver",
+    "Includes insets of Jersey City and upper Manhattan.",
+    "LC Ward maps 156",
+    "LC copy mounted on cloth.",
+    "Main map shows Manhattan below 32nd Street.",
+    "Main map shows Manhattan below 32nd Street. Shows wards in Manhattan and Brooklyn. Oriented with north to the right. Includes insets of Jersey City and upper Manhattan. LC copy mounted on cloth. LC Ward maps 156 Available also through the Library of Congress Web site as a raster image.",
+    "Oriented with north to the right.",
+    "Publication statement: New York : published by H. Phelps, 1844.",
+    "Shows wards in Manhattan and Brooklyn."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2020587093",
+    "http://www.loc.gov/item/2020587093/",
+    "http://www.loc.gov/resource/g3804n.wd000156/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.wd000156",
+    "https://search.catalog.loc.gov/instances/4e58bb5a-728d-55dd-91ab-43b2c743aff2",
+    "https://www.loc.gov/item/2020587093/"
+  ],
+  "dct_issued_s": "1844",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/wd000156.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2020587093/\"}",
+  "dct_spatial_sm": [
+    "jersey city",
+    "manhattan",
+    "new jersey",
+    "new york",
+    "new york (n.y.)",
+    "new york (state)",
+    "new york city",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Jersey City (N.J.)--Maps",
+    "Manhattan (New York, N.Y.)--Maps",
+    "New York (N.Y.)--Administrative and political divisions--Maps",
+    "New York (N.Y.)--Maps",
+    "United States--New Jersey--Jersey City",
+    "United States--New York (State)--New York (N.Y.)",
+    "United States--New York (State)--New York--Manhattan (New York, N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "1844"
+  ],
+  "dct_title_s": "Map of the city of New York, with the adjacent cities of Brooklyn & Jersey City & the village of Williamsburg",
+  "gbl_dateRange_drsim": [
+    "[1844 TO 1844]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1844
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2020587093",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

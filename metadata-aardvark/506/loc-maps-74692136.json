@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651; 700",
+    "Appears in author's Almanach interessant, 1780.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brion de la Tour, Louis, 1743-1803; Desnos, Louis-Charles, 1725-1805",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Appears in author's Almanach interessant, 1780. Scale ca. 1:6,300,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 740 Available also through the Library of Congress Web site as a raster image. AACR2: 651; 700",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 740",
+    "Publication statement: Paris, Chez le S. Desnos [1780?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:6,300,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.ar074000",
+    "http://lccn.loc.gov/74692136",
+    "http://www.loc.gov/item/74692136/",
+    "http://www.loc.gov/resource/g3700.ar074000/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ar074000",
+    "https://search.catalog.loc.gov/instances/62843f1b-141d-50c4-99f4-d0e0906fe844",
+    "https://www.loc.gov/item/74692136/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ar074000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692136/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1780",
+    "Paris, Chez le S. Desnos [1780?]"
+  ],
+  "dct_title_s": "Carte des États-Unis de l'Amérique septentrionale, dressée d'après des cartes anglaises",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692136",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At head of title: National Assessment of Oil and Gas Project.",
+    "Contributors: National Assessment of Oil and Gas Project (U.S.); U.S. Geological Survey Eastern Oregon and Washington Province Assessment Team.",
+    "Includes location map.",
+    "Minimum system requirements: PC with CD-ROM drive, Adobe Acrobat Reader 7.0 and ArcInfo software installed.",
+    "Publication statement: Reston, Va. : U.S. Geological Survey, 2008.",
+    "System requirements for Macintosh OS: PowerPC G3, G4, G5 processor; Mac OS X v.10.2.8 or 10.3; 128 MB of RAM, 110 MB of available hard disk space; 800 x 600 monitor resolution.",
+    "System requirements for Windows: Intel Pentium-class processor; Windows XP Professional or Home Edition with SP1 or SP2; Microsoft Windows 2000 with SP2; 128 MB of RAM, 90 MB of available hard disk space; 800 x 600 monitor resolution.",
+    "The purpose of the USGS National Oil and Gas Assessment is to develop geologically based hypotheses regarding the potential for additions to oil and gas reserves in priority areas of the United States. The USGS recently completed an assessment of the undiscovered oil and gas potential of the Eastern Oregon and Washington Province.",
+    "Title from container insert."
+  ],
+  "dct_identifier_sm": [
+    "http://energy.cr.usgs.gov/oilgas/noga/",
+    "http://lccn.loc.gov/2009578396",
+    "http://www.loc.gov/item/2009578396/",
+    "https://www.loc.gov/item/2009578396/"
+  ],
+  "dct_issued_s": "2008",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2009578396/\"}",
+  "dct_spatial_sm": [
+    "eastern",
+    "oregon",
+    "washington"
+  ],
+  "dct_subject_sm": [
+    "Natural gas--Geology--Oregon, Eastern--Maps",
+    "Natural gas--Geology--Washington (State), Eastern--Maps",
+    "Natural gas--Prospecting--Oregon, Eastern--Maps",
+    "Natural gas--Prospecting--Washington (State), Eastern--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "dct_title_s": "Geologic assessment of undiscovered gas resources of the eastern Oregon and Washington Province",
+  "gbl_dateRange_drsim": [
+    "[2008 TO 2008]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009578396",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

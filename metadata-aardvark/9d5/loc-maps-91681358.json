@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Compiled from registered historical shoreline surveys of the National Ocean Service and registered to base maps furnished by the U.S. Geological Survey (USGS).\"",
+    "\"This is a special purpose map designed for use by the U.S. Army Corps of Engineers, National Oceanic and Atmospheric Administration, and other agencies responsible in the coastal zone.\"",
+    "ARP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Coastal Engineering Research Center (U.S.); South Carolina. State Budget and Control Board. Division of Research and Statistical Services; United States. National Ocean Service",
+    "Includes index to adjoining sheets.",
+    "Publication statement: Washington, D.C. : The Service ; Riverdale, Md. : National Ocean Service Distribution Branch [distributor, 1990?]",
+    "Shows various shoreline surveys from 1852 to 1983.",
+    "Shows various shoreline surveys from 1852 to 1983. \"This is a special purpose map designed for use by the U.S. Army Corps of Engineers, National Oceanic and Atmospheric Administration, and other agencies responsible in the coastal zone.\" \"Compiled from registered historical shoreline surveys of the National Ocean Service and registered to base maps furnished by the U.S. Geological Survey (USGS).\" Includes index to adjoining sheets. Available also through the Library of Congress Web site as a raster image. ARP"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/91681358",
+    "http://www.loc.gov/item/91681358/",
+    "http://www.loc.gov/resource/gmdsetmaps.91681358/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.91681358",
+    "https://search.catalog.loc.gov/instances/fb353151-439e-5035-ae6e-8141c031e6b1",
+    "https://www.loc.gov/item/91681358/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:91:68:13:58:91681358:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/91681358/\"}",
+  "dct_spatial_sm": [
+    "south atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coast changes--South Atlantic States--Maps",
+    "Coasts--South Atlantic States--Maps",
+    "Shorelines--South Atlantic States--Maps",
+    "United States--South Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1852 d1983",
+    "Washington, D.C. : The Service ; Riverdale, Md. : National Ocean Service Distribution Branch [distributor, 1990?]"
+  ],
+  "dct_title_s": "NOAA/NOS-COE/CERC-SC/DRSS cooperative shoreline movement study, Cape Fear, NC-Tybee Island, GA",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91681358",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Colton's map of the southern states showing the counties & railroads, cities, towns, railroad stations &c",
+    "Cover title: Colton's map of the southern states showing the counties & railroads, cities, towns, railroad stations &c"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no.: 2007-021",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Colton, J. H. (Joseph Hutchins), 1800-1893",
+    "Imperfect: Creased, brittle, small tears along edges.",
+    "Insets: Galveston and vicinity, Texas -- Vicinity of the Rio Grande -- New Orleans and delta of the Mississippi, Louisiana -- Mobile harbor, Alabama -- Entrance to Pensacola Bay, Florida -- Wilmington and vicinity, N. Carolina -- Charleston harbor and its approaches, S. Carolina -- Beaufort and vicinity, N. Carolina.",
+    "Publication statement: New York : Published by J.H. Colton, 1864.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Insets: Galveston and vicinity, Texas -- Vicinity of the Rio Grande -- New Orleans and delta of the Mississippi, Louisiana -- Mobile harbor, Alabama -- Entrance to Pensacola Bay, Florida -- Wilmington and vicinity, N. Carolina -- Charleston harbor and its approaches, S. Carolina -- Beaufort and vicinity, N. Carolina. Imperfect: Creased, brittle, small tears along edges. Available also through the Library of Congress Web site as a raster image. Acquisitions control no.: 2007-021"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3861p.cw1011000",
+    "http://lccn.loc.gov/2006628388",
+    "http://www.loc.gov/item/2006628388/",
+    "http://www.loc.gov/resource/g3861p.cw1011000/",
+    "https://hdl.loc.gov/loc.gmd/g3861p.cw1011000",
+    "https://search.catalog.loc.gov/instances/5a7b2059-7123-5da0-8e9f-220fba8cb01e",
+    "https://www.loc.gov/item/2006628388/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3861/g3861p/cw1011000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006628388/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Counties--Southern States--Maps",
+    "Railroads--Southern States--Maps",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Colton's rail road and county map of the southern states containing the latest information",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006628388",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

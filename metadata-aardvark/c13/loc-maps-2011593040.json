@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Manhattan Publishing Company",
+    "Folded title.",
+    "Folded title. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: New York : Manhattan Publishing Company, 1918."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct002192",
+    "http://lccn.loc.gov/2011593040",
+    "http://www.loc.gov/item/2011593040/",
+    "http://www.loc.gov/resource/g3804n.ct002192/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct002192",
+    "https://search.catalog.loc.gov/instances/68c1a84c-0dd9-54cc-a1c2-53982b243f54",
+    "https://www.loc.gov/item/2011593040/"
+  ],
+  "dct_issued_s": "1918",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct002192.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011593040/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Subways--New York (State)--New York--Maps",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "dct_title_s": "Map of the new subway of greater New York : (Interborrow system)",
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1918]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1918
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011593040",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

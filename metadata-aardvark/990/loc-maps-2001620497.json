@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nova et accurata tabula episcopatuum Stavangeriensis, Bergensis et Asloiensis"
+  ],
+  "dct_description_sm": [
+    "\"Johannes Janssonius (1588-1664), or Jan Jansson, was born in Arnhem, the Netherlands, son of a provincial Dutch bookseller and publisher. In 1612 he married into the cartographic Hondius family, which had acquired the plates of the great mapmaker Gerardus Mercator (1512-94) and published an updated atlas bearing Mercator's name. In the 1630s Jansson formed a partnership with his brother-in-law, Henricus Hondius, and together they published popular updates of the famous Mercator Atlas. After the death of Henricus, Jansson took over the business and expanded the atlas still further, printing an 11-volume Atlas Major. This \"new and precise map\" of southern Norway, attributed to Jansson, is one of the first to show the Oslo Fjord by name. It also represents the Stavanger bishopric and the adjoining area of the Bergen and Oslo bishoprics. After Jansson's death in 1664, his heirs published a number of his maps in an Atlas Contractus in 1666. The London-based bookseller Moses Pitt (1654-96) also reprinted selections of Jansson's atlas, in collaboration with Johannes van Waesbergen. This map from the collections of the Library of Congress appears to be one of their reprints. Pitt's attempts to publish a full 12-volume edition of Jansson's maps ultimately brought him to financial ruin.\" World Digital Library.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Jansson, Jan, 1588-1664; Pitt, Moses, active 1654-1696",
+    "Publication statement: [S.l., 17--]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6943r.ct000501",
+    "http://lccn.loc.gov/2001620497",
+    "http://www.loc.gov/item/2001620497/",
+    "http://www.loc.gov/resource/g6943r.ct000501/",
+    "https://hdl.loc.gov/loc.gmd/g6943r.ct000501",
+    "https://search.catalog.loc.gov/instances/f1bc7649-b270-5a37-b4f1-503ed35df42b",
+    "https://www.loc.gov/item/2001620497/"
+  ],
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6943/g6943r/ct000501.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001620497/\"}",
+  "dct_spatial_sm": [
+    "norway",
+    "rogaland fylke"
+  ],
+  "dct_subject_sm": [
+    "Norway--Rogaland fylke",
+    "Rogaland fylke (Norway)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "17??",
+    "[S.l., 17--]"
+  ],
+  "dct_title_s": "Nova et accurata tabula episcopatvvm Stavangeriensis, Bergensis et Asloiensis",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001620497",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

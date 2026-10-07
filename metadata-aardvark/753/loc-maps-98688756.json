@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lewis, William J.; Pacific and Atlantic Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 510",
+    "Map of the coast between San Francisco and San Jose showing roads, property owners, streams, and relief by hachures.",
+    "Publication statement: S[an] F[rancisco], [1851]",
+    "Scale ca. 1:120,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4362s.rr005100",
+    "http://lccn.loc.gov/98688756",
+    "http://www.loc.gov/item/98688756/",
+    "http://www.loc.gov/resource/g4362s.rr005100/",
+    "https://hdl.loc.gov/loc.gmd/g4362s.rr005100",
+    "https://search.catalog.loc.gov/instances/e7555771-a9cb-5835-b54f-14fd3d71f456",
+    "https://www.loc.gov/item/98688756/"
+  ],
+  "dct_issued_s": "1851",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4362/g4362s/rr005100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688756/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "san francisco bay area",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pacific and Atlantic Railroad Company",
+    "Railroads--California--San Francisco Bay Area--Maps",
+    "United States--California--San Francisco Bay Area"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "dct_title_s": "Route of the Pacific and Atlantic Rail Road between San Francisco, & San Jose, as located by Wm. J. Lewis, Chief Engineer, in Sept. Oct. & Nov. 1851",
+  "gbl_dateRange_drsim": [
+    "[1851 TO 1851]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1851
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688756",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

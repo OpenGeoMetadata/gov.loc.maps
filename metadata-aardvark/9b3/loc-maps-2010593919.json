@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Form AACR2: ga37 2010-12--22",
+    "Publication statement: [18--?]",
+    "Romanized.",
+    "Romanized. Available also through the Library of Congress Web site as a raster image. Form AACR2: ga37 2010-12--22 天下地圖 -- 中國地圖 -- 朝鮮八道圖 -- 京畿道 -- 忠清道 -- 全羅道 -- 慶尚道 -- 江原道 -- 咸鏡道 -- 平安道 -- 黄海道 -- 日本國圖 -- 琉球國圖.",
+    "天下地圖 -- 中國地圖 -- 朝鮮八道圖 -- 京畿道 -- 忠清道 -- 全羅道 -- 慶尚道 -- 江原道 -- 咸鏡道 -- 平安道 -- 黄海道 -- 日本國圖 -- 琉球國圖."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7900m.gct00239",
+    "http://lccn.loc.gov/2010593919",
+    "http://www.loc.gov/item/2010593919/",
+    "http://www.loc.gov/resource/g7900m.gct00239/",
+    "https://hdl.loc.gov/loc.gmd/g7900m.gct00239",
+    "https://search.catalog.loc.gov/instances/87567749-0c04-5b6a-8567-416e8f76f359",
+    "https://www.loc.gov/item/2010593919/"
+  ],
+  "dct_language_sm": [
+    "korean"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7m/g7900m/g7900m/gct00239/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010593919/\"}",
+  "dct_spatial_sm": [
+    "korea"
+  ],
+  "dct_subject_sm": [
+    "Korea",
+    "Korea--Maps",
+    "Korea--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1700",
+    "[18--?]"
+  ],
+  "dct_title_s": "Yŏji yoram",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010593919",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "上總國輿地全圖 /"
+  ],
+  "dct_description_sm": [
+    "AACR2: 100; 700/1; 700/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bibliography.",
+    "Class no. will be changed to G7963.C4 182- .T7 Vault Shelf.",
+    "Contributors: Kikuya, Kōzaburō; Tsukada, Itoku; Tsurumine, Shigenobu, 1788-1859",
+    "Includes text and lists of points of interest, local products, and historic persons.",
+    "LC copy imperfect: Has worm holes.",
+    "Oriented with north toward the lower right.",
+    "Publication statement: Tōto Bakurochō : Kikuya Kōzaburō, [between 1828-1859?]",
+    "Relief shown pictorially.",
+    "Vault",
+    "Wood block print.",
+    "Wood block print. Oriented with north toward the lower right. Relief shown pictorially. Includes text and lists of points of interest, local products, and historic persons. Bibliography. Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Has worm holes. Vault AACR2: 100; 700/1; 700/2 Class no. will be changed to G7963.C4 182- .T7 Vault Shelf."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/80691928",
+    "http://www.loc.gov/item/80691928/",
+    "http://www.loc.gov/resource/g7962k.ct012163a/",
+    "http://www.loc.gov/resource/g7962k.ct012163b/",
+    "http://www.loc.gov/resource/g7962k.ct012163b1/",
+    "https://hdl.loc.gov/loc.gmd/g7962k.ct012163a",
+    "https://hdl.loc.gov/loc.gmd/g7962k.ct012163b",
+    "https://hdl.loc.gov/loc.gmd/g7962k.ct012163b1",
+    "https://search.catalog.loc.gov/instances/597deda7-135b-59ff-bfaf-ec07b8ad52e3",
+    "https://www.loc.gov/item/80691928/"
+  ],
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7962:g7962k:ct012163a/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/80691928/\"}",
+  "dct_spatial_sm": [
+    "chiba",
+    "chiba-ken (japan)",
+    "japan",
+    "ken"
+  ],
+  "dct_subject_sm": [
+    "Chiba-ken (Japan)--Maps",
+    "Japan--Chiba-ken (Japan)"
+  ],
+  "dct_temporal_sm": [
+    "1828/1859",
+    "Tōto Bakurochō : Kikuya Kōzaburō, [between 1828-1859?]"
+  ],
+  "dct_title_s": "Kazusa no Kuni yochi zenzu",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80691928",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

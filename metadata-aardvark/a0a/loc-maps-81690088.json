@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"December 1979.\"",
+    "\"December 1979.\" Shows SCS field offices. Indexed. \"IP-10342.3.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"IP-10342.3.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Indexed.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1979.",
+    "Shows SCS field offices."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3731j.ct005504",
+    "http://lccn.loc.gov/81690088",
+    "http://www.loc.gov/item/81690088/",
+    "http://www.loc.gov/resource/g3731j.ct005504/",
+    "https://hdl.loc.gov/loc.gmd/g3731j.ct005504",
+    "https://search.catalog.loc.gov/instances/1f772dd0-28d6-53db-8ce3-8243774ad38b",
+    "https://www.loc.gov/item/81690088/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3731/g3731j/ct005504.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690088/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soil conservation districts--Maine--Maps",
+    "United States--Maine",
+    "United States.--Soil Conservation Service--Maps",
+    "Water districts--Maine--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Maine, soil and water conservation districts",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690088",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Bird's-eye view. Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Louisiana. Board of Commissioners of the Port of New Orleans",
+    "Publication statement: [New Orleans, La.] : The Board, [192-?]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/89697258",
+    "http://www.loc.gov/item/89697258/",
+    "http://www.loc.gov/resource/g4012i.ct011104/",
+    "https://hdl.loc.gov/loc.gmd/g4012i.ct011104",
+    "https://search.catalog.loc.gov/instances/0020f629-ed7f-5de3-9d58-42cc27e95b10",
+    "https://www.loc.gov/item/89697258/"
+  ],
+  "dct_issued_s": "1920",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4012/g4012i/ct011104.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89697258/\"}",
+  "dct_spatial_sm": [
+    "inner harbor navigation canal",
+    "louisiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Inner Harbor Navigation Canal (La.)--Aerial views",
+    "United States--Louisiana--Inner Harbor Navigation Canal"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dct_title_s": "Inner Harbor Canal",
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1920
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89697258",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

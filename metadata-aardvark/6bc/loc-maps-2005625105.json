@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In pencil on verso: 70.",
+    "LC Civil War maps (2nd ed.), H198",
+    "Pen-and-ink on tracing linen, mounted on cloth.",
+    "Relief shown by hachures.",
+    "Shows names of some residents.",
+    "Shows names of some residents. Relief shown by hachures. Title from Stephenson's Civil War maps, 1989. Pen-and-ink on tracing linen, mounted on cloth. Similar to the map reproduced in the Atlas to accompany the official records of the Union and Confederate Armies, 1891-95, pl. 72, no. 7. In pencil on verso: 70. LC Civil War maps (2nd ed.), H198 Available also through the Library of Congress web site as raster image.",
+    "Similar to the map reproduced in the Atlas to accompany the official records of the Union and Confederate Armies, 1891-95, pl. 72, no. 7.",
+    "Title from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884w.cwh00198",
+    "http://lccn.loc.gov/2005625105",
+    "http://www.loc.gov/item/2005625105/",
+    "http://www.loc.gov/resource/g3884w.cwh00198/",
+    "https://hdl.loc.gov/loc.gmd/g3884w.cwh00198",
+    "https://search.catalog.loc.gov/instances/73958aaa-1189-530a-8e4f-a60119995e9f",
+    "https://www.loc.gov/item/2005625105/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884w/cwh00198.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625105/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "waynesboro"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Virginia--Waynesboro--Maps",
+    "United States--Virginia--Waynesboro",
+    "Waynesboro (Va.)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "[Preliminary map of the battlefield of Waynesboro, Virginia, March 2, 1865]",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625105",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

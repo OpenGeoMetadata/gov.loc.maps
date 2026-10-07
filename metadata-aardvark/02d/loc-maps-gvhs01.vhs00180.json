@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copy of Engineer's map.\"",
+    "\"Genl. Hardee with 15,000 Rebel troops escaped by pontoons, Decr. 21st, 3 a.m.\"",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Diary (Mss5:1 Sn237:1 v. 6, p. 102).",
+    "Manuscripts",
+    "Map shows the location of Union forces near the Ogeechee River outside of the Confederate held city of Savannah, Ga. The map also depicts the location of the Union fleet on the Savannah River and in the Atlantic Ocean. Details of the terrain show how a direct assault would have been difficult.",
+    "NOTE: Researchers will be served a color photocopy of this diary image.",
+    "Publication statement: [S.l., 1864-1865]",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00180",
+    "http://www.loc.gov/item/001-CABIB20011394/",
+    "http://www.loc.gov/item/gvhs01.vhs00180/",
+    "http://www.loc.gov/resource/gvhs01.vhs00180/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00180",
+    "https://www.loc.gov/item/gvhs01.vhs00180/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00180.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00180/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "savannah",
+    "savannah river",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--History--Civil War, 1861-1865--Maps",
+    "Hardee, William Joseph,--1815-1873",
+    "Savannah (Ga.)--History--Siege, 1864--Maps",
+    "Savannah River (Ga. and S.C.)--History--Civil War, 1861-1865--Maps",
+    "Siege warfare--United States--History--Civil War, 1861-1865--Maps",
+    "United States--Georgia--Savannah",
+    "United States--Georgia--Savannah River"
+  ],
+  "dct_temporal_sm": [
+    "1864/1865"
+  ],
+  "dct_title_s": "Map of the siege and investment of Savannah, Georgia, 5th to 20th Decr. 1864.",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00180",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

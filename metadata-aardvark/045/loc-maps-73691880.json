@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brion de la Tour, Louis, 1743-1803; Esnauts et Rapilly",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Shows area from Quebec to Cape May and from Oswego to Kennebec Bay. Includes \"Indication des principaux évenemens de la Guerre actuelle, dans les contrées que comprend cette carte\" for the years 1775-1778. On verso, in pencil: Nordamerika Kriegskarte, 1782, [No.] 62. Scale ca. 1:1,200,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651",
+    "Includes \"Indication des principaux évenemens de la Guerre actuelle, dans les contrées que comprend cette carte\" for the years 1775-1778.",
+    "On verso, in pencil: Nordamerika Kriegskarte, 1782, [No.] 62.",
+    "Publication statement: Paris, Chez Esnauts et Rapilly, 1782.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:1,200,000.",
+    "Shows area from Quebec to Cape May and from Oswego to Kennebec Bay.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3710.ar304900",
+    "http://lccn.loc.gov/73691880",
+    "http://www.loc.gov/item/73691880/",
+    "http://www.loc.gov/resource/g3710.ar304900/",
+    "https://hdl.loc.gov/loc.gmd/g3710.ar304900",
+    "https://search.catalog.loc.gov/instances/270665f2-11d2-5733-9a1e-66215c133aa5",
+    "https://www.loc.gov/item/73691880/"
+  ],
+  "dct_issued_s": "1782",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3710/g3710/ar304900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691880/\"}",
+  "dct_spatial_sm": [
+    "northeastern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Northeastern States--Maps--Early works to 1800",
+    "United States--Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1782"
+  ],
+  "dct_title_s": "Carte du théatre de la guerre entre les Anglais et les Américains:",
+  "gbl_dateRange_drsim": [
+    "[1782 TO 1782]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1782
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691880",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

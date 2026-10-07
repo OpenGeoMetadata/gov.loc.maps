@@ -1,0 +1,46 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1977?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8721f.ct002937",
+    "http://lccn.loc.gov/94686098",
+    "http://www.loc.gov/item/94686098/",
+    "http://www.loc.gov/resource/g8721f.ct002937/",
+    "https://hdl.loc.gov/loc.gmd/g8721f.ct002937",
+    "https://search.catalog.loc.gov/instances/8154ddb5-1e01-59ad-bc91-445e8d85de65",
+    "https://www.loc.gov/item/94686098/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8721/g8721f/ct002937.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94686098/\"}",
+  "dct_spatial_sm": [
+    "chad"
+  ],
+  "dct_subject_sm": [
+    "Chad",
+    "Chad--Administrative and political divisions--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1977",
+    "[Washington, D.C. : Central Intelligence Agency, 1977?]"
+  ],
+  "dct_title_s": "Chad : [administrative divisions]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94686098",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

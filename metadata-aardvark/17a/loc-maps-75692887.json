@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"512467.\"",
+    "\"512467.\" \"Source: Office of the Geographer; January 1, 1972.\" Scale not given. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "\"Source: Office of the Geographer; January 1, 1972.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency; United States. Department of State. Office of the Geographer",
+    "Publication statement: [Washington, 1971?]",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7421f.ct002597",
+    "http://lccn.loc.gov/75692887",
+    "http://www.loc.gov/item/75692887/",
+    "http://www.loc.gov/resource/g7421f.ct002597/",
+    "https://hdl.loc.gov/loc.gmd/g7421f.ct002597",
+    "https://search.catalog.loc.gov/instances/aaab8f0d-8cc2-5140-b4ca-b1b916bdb1d8",
+    "https://www.loc.gov/item/75692887/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7421/g7421f/ct002597.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75692887/\"}",
+  "dct_spatial_sm": [
+    "middle east",
+    "south asia"
+  ],
+  "dct_subject_sm": [
+    "Diplomatic and consular service, American--Middle East--Maps",
+    "Diplomatic and consular service, American--South Asia--Maps",
+    "Middle East",
+    "South Asia"
+  ],
+  "dct_temporal_sm": [
+    "1971",
+    "[Washington, 1971?]"
+  ],
+  "dct_title_s": "U.S. Foreign Service Posts, Bureau of Near Eastern and South Asian Affairs (NEA). 12-71",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75692887",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

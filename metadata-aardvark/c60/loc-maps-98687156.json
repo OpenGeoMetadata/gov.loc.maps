@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "CIF 16117 U.S. Copyright Office",
+    "CIF 16117 U.S. Copyright Office LC Many nations, 83 Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Manning, W. M.",
+    "LC Many nations, 83",
+    "Publication statement: [S.l.], 1910."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4282s.ct000268",
+    "http://lccn.loc.gov/98687156",
+    "http://www.loc.gov/item/98687156/",
+    "http://www.loc.gov/resource/g4282s.ct000268/",
+    "https://hdl.loc.gov/loc.gmd/g4282s.ct000268",
+    "https://search.catalog.loc.gov/instances/9d30eb61-cde6-525f-876d-7c978fcaf8bf",
+    "https://www.loc.gov/item/98687156/"
+  ],
+  "dct_issued_s": "1910",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd428/g4282/g4282s/ct000268.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687156/\"}",
+  "dct_spatial_sm": [
+    "spokane indian reservation",
+    "united states",
+    "washington",
+    "washington (state)"
+  ],
+  "dct_subject_sm": [
+    "Spokane Indian Reservation (Wash.)--Maps",
+    "United States--Washington (State)--Spokane Indian Reservation"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "dct_title_s": "Map of the Spokane Indian Reservation, Stevens County, Washington",
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1910]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1910
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687156",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

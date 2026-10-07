@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2; 650/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes text, distance chart, and population table, which gives the number of communicants, veterans, and militia by parish.",
+    "LC Luso-Hispanic World, 753",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Relief shown pictorially. Depths shown by soundings. Includes text, distance chart, and population table, which gives the number of communicants, veterans, and militia by parish. Scale ca. 1:3,400,000. LC Luso-Hispanic World, 753 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1; 651/2; 650/3",
+    "Publication statement: [176-?]",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Scale ca. 1:3,400,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4970.lh000753",
+    "http://lccn.loc.gov/73691519",
+    "http://www.loc.gov/item/73691519/",
+    "http://www.loc.gov/resource/g4970.lh000753/",
+    "https://hdl.loc.gov/loc.gmd/g4970.lh000753",
+    "https://search.catalog.loc.gov/instances/c897f309-799e-5ed1-aa97-d1b6c30b946b",
+    "https://www.loc.gov/item/73691519/"
+  ],
+  "dct_issued_s": "1760",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4970/g4970/lh000753.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691519/\"}",
+  "dct_spatial_sm": [
+    "puerto rico"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps--Early works to 1800",
+    "Puerto Rico",
+    "Puerto Rico--Maps, Manuscript--Early works to 1800",
+    "Puerto Rico--Population--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1760"
+  ],
+  "dct_title_s": "A Plan of the island of Porto Rico",
+  "gbl_dateRange_drsim": [
+    "[1760 TO 1760]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1760
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691519",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Longitude from Ferro.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Dunn, Samuel, -1794; Sayer, Robert, 1725-1794",
+    "From Robert Sayer and John Bennett's The American military pocket atlas. [1776]",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"Longitude from Ferro.\" From Robert Sayer and John Bennett's The American military pocket atlas. [1776] Two copies. Copy 1, margins trimmed. Copy 2, \"41\" in upper and lower right corners. Scale ca. 1:9,000,000. LC Maps of North America, 1750-1789, 1697 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "LC Maps of North America, 1750-1789, 1697",
+    "Publication statement: London, Printed for Robt. Sayer, 1774.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:9,000,000.",
+    "Two copies. Copy 1, margins trimmed. Copy 2, \"41\" in upper and lower right corners.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4390.ar169700",
+    "http://hdl.loc.gov/loc.gmd/g4390.ar169701",
+    "http://lccn.loc.gov/74696181",
+    "http://www.loc.gov/item/74696181/",
+    "http://www.loc.gov/resource/g4390.ar169700/",
+    "http://www.loc.gov/resource/g4390.ar169701/",
+    "https://hdl.loc.gov/loc.gmd/g4390.ar169700",
+    "https://hdl.loc.gov/loc.gmd/g4390.ar169701",
+    "https://search.catalog.loc.gov/instances/4756b260-3755-5933-bbfd-1d3a57a813e9",
+    "https://www.loc.gov/item/74696181/"
+  ],
+  "dct_issued_s": "1774",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4390/g4390/ar169700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74696181/\"}",
+  "dct_spatial_sm": [
+    "caribbean area"
+  ],
+  "dct_subject_sm": [
+    "Caribbean Area",
+    "Caribbean Area--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1774"
+  ],
+  "dct_title_s": "A compleat map of the West Indies containing the coasts of Florida, Louisiana, New Spain, and Terra Firma: With all the islands",
+  "gbl_dateRange_drsim": [
+    "[1774 TO 1774]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1774
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74696181",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by soundings.",
+    "LC Luso-Hispanic World, 709",
+    "Maggs number annotated in pencil in lower right corner: 37.",
+    "Mounted on cloth backing.",
+    "Oriented with north toward the upper left.",
+    "Pen-and-ink and brown ink.",
+    "Publication statement: [1744?]",
+    "Shows coast of Peru in the region of Callao.",
+    "Shows coast of Peru in the region of Callao. Depths shown by soundings. Oriented with north toward the upper left. Watermark: J. Kool. Watermark dated from 1728-1800. Pen-and-ink and brown ink. Mounted on cloth backing. Maggs number annotated in pencil in lower right corner: 37. LC Luso-Hispanic World, 709 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermark: J. Kool. Watermark dated from 1728-1800."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5314c.lh000709",
+    "http://lccn.loc.gov/90682883",
+    "http://www.loc.gov/item/90682883/",
+    "http://www.loc.gov/resource/g5314c.lh000709/",
+    "https://hdl.loc.gov/loc.gmd/g5314c.lh000709",
+    "https://search.catalog.loc.gov/instances/4f67223c-355e-5b3a-8990-dc555815203f",
+    "https://www.loc.gov/item/90682883/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5314/g5314c/lh000709.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90682883/\"}",
+  "dct_spatial_sm": [
+    "callao",
+    "callao region",
+    "callao region (callao)",
+    "pacific coast",
+    "peru"
+  ],
+  "dct_subject_sm": [
+    "Callao Region (Callao, Peru)--Maps, Manuscript--Early works to 1800",
+    "Coasts--Peru--Callao Region (Callao)--Maps--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "Pacific Coast (Peru)--Maps, Manuscript--Early works to 1800",
+    "Peru--Callao Region (Callao)",
+    "Peru--Pacific Coast"
+  ],
+  "dct_temporal_sm": [
+    "1744",
+    "[1744?]"
+  ],
+  "dct_title_s": "Plano del Pto. del Callado de Lima con las costas, yslas y arrecifes ynmediatos qe. compde",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90682883",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

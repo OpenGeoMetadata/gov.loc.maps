@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view of locations of inscriptions on memorial sculptures.",
+    "Bird's-eye view of locations of inscriptions on memorial sculptures. Panel title. Oriented with north toward the lower right. Includes note. Note and indexed texts of carved inscriptions on verso. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Contributors: United States. National Park Service",
+    "DCP",
+    "Includes note.",
+    "Note and indexed texts of carved inscriptions on verso.",
+    "Oriented with north toward the lower right.",
+    "Panel title.",
+    "Publication statement: Washington, D.C. : National Park Service, U.S. Dept. of the Interior, [1997]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852f.ct004919",
+    "http://lccn.loc.gov/97685561",
+    "http://www.loc.gov/item/97685561/",
+    "http://www.loc.gov/resource/g3852f.ct004919/",
+    "https://hdl.loc.gov/loc.gmd/g3852f.ct004919",
+    "https://search.catalog.loc.gov/instances/b4aa7459-0194-5b73-8c22-2e3c5074ba12",
+    "https://www.loc.gov/item/97685561/"
+  ],
+  "dct_issued_s": "1997",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852f/ct004919.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97685561/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Franklin Delano Roosevelt Memorial (Washington, D.C.)--Aerial views",
+    "Inscriptions--Washington (D.C.)--Maps",
+    "Outdoor sculpture--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington--Franklin Delano Roosevelt Memorial"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "dct_title_s": "Franklin Delano Roosevelt Memorial, guide to inscriptions and sculpture",
+  "gbl_dateRange_drsim": [
+    "[1997 TO 1997]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97685561",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

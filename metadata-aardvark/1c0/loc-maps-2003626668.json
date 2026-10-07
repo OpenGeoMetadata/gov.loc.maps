@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Tientsin"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Tianjin, China : Chung-Tung Litho Works, 1912.",
+    "Shows border of concession areas in Tianjin, China.",
+    "Shows border of concession areas in Tianjin, China. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7824t.ct003615",
+    "http://lccn.loc.gov/2003626668",
+    "http://www.loc.gov/item/2003626668/",
+    "http://www.loc.gov/resource/g7824t.ct003615/",
+    "https://hdl.loc.gov/loc.gmd/g7824t.ct003615",
+    "https://search.catalog.loc.gov/instances/bbf11b80-553c-51ee-ae92-c55a5d91918f",
+    "https://www.loc.gov/item/2003626668/"
+  ],
+  "dct_issued_s": "1912",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7824/g7824t/ct003615.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003626668/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "tianjin"
+  ],
+  "dct_subject_sm": [
+    "China--Tianjin",
+    "Concession--China--Tianjin--Maps",
+    "Tianjin (China)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dct_title_s": "Tianjin di tu = Map of Tientsin",
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003626668",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

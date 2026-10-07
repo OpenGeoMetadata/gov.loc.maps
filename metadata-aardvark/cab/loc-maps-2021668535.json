@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Die Landschaft Macedonien"
+  ],
+  "dct_description_sm": [
+    "\"Scale 1:148,000\"--Note extracted from World Digital Library.",
+    "Content in German.",
+    "Contributors: Reilly, Franz Johann Joseph von, 1766-1820 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Franz Johann Joseph von Reilly (1766-1820) was an Austrian writer and poet, geographer, bookseller, and art dealer. His cartographic works included a world atlas, published in 1794-96, an atlas of Germany (1803), and his Allgemeiner Postatlas (General postal atlas), a work of 1799 with 40 maps showing postal routes, the first such atlas published anywhere in the world. Shown here is von Reilly's map of Macedonia, which includes parts of present-day Greece and the Former Yugoslav Republic of Macedonia (FYROM). Bordered on the north by Serbia and the west by Albania, Macedonia was at this time a province of the Ottoman Empire. The map shows mountains, rivers, and the provincial border. Three scales are given: Polish and German miles, Russian versts, and Turkish miles. A note under the scales indicates that there was no postal service in Macedonia at this time.",
+    "Original resource at: National and University Library \"St Kliment Ohridski\" -- Skopje.",
+    "Original resource extent: 1 map ; 41.5 x 29 centimeters.",
+    "Publication statement: Vienna : [publisher not identified], 1791.",
+    "Reference extracted from World Digital Library: Johannes Dörflinger, \"Reilly, Franz Johann Joseph von,\" Neue Deutsche Biographie (Berlin: Duncker & Humblot, 1953).",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668535",
+    "http://www.loc.gov/item/2021668535/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_11815/",
+    "http://www.loc.gov/resource/wdl.11815/",
+    "https://hdl.loc.gov/loc.wdl/wdl.11815",
+    "https://www.loc.gov/item/2021668535/"
+  ],
+  "dct_issued_s": "1791-01-01",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_11815.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/81/5/wdl_11815/wdl_11815.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:81:5:wdl_11815:KKR-21/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668535/\"}",
+  "dct_spatial_sm": [
+    "bulgaria",
+    "former yugoslav republic of macedonia",
+    "greece"
+  ],
+  "dct_subject_sm": [
+    "1791",
+    "Balkan Peninsula",
+    "Bulgaria",
+    "Former Yugoslav Republic of Macedonia",
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "1791-01-01"
+  ],
+  "dct_title_s": "The Macedonian Landscape.",
+  "gbl_dateRange_drsim": [
+    "[1791 TO 1791]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1791
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668535",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

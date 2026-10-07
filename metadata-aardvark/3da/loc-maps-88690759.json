@@ -1,0 +1,76 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: King, N. (Nicholas), 1771-1812; Latrobe, Benjamin Henry, 1764-1820",
+    "DCP",
+    "Drawn by Nicholas King.",
+    "Map no. I drawn in 2 sections and oriented with north toward the upper left.",
+    "Mounted on cloth backing.",
+    "Pen-and-ink and watercolor.",
+    "Phillips. Washington 74",
+    "Publication statement: 1802-1803.",
+    "Section III also covers lower part of Georgetown.",
+    "Section III also covers lower part of Georgetown. Drawn by Nicholas King. Pen-and-ink and watercolor. Map no. I drawn in 2 sections and oriented with north toward the upper left. Mounted on cloth backing. Some maps include text, inset, or 1 or 2 longitudinal sections of canal. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 74 DCP",
+    "Some maps include text, inset, or 1 or 2 longitudinal sections of canal."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852wm.gct00208",
+    "http://lccn.loc.gov/88690759",
+    "http://www.loc.gov/item/88690759/",
+    "http://www.loc.gov/resource/g3852wm.gct00208/",
+    "https://hdl.loc.gov/loc.gmd/g3852wm.gct00208",
+    "https://search.catalog.loc.gov/instances/f3e722d7-6eec-557f-aacd-520b68205787",
+    "https://www.loc.gov/item/88690759/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385m/g3852m/g3852wm/gct00208/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690759/\"}",
+  "dct_spatial_sm": [
+    "chesapeake",
+    "chesapeake and ohio canal",
+    "district of columbia",
+    "georgetown",
+    "georgtown",
+    "maryland",
+    "ohio canal",
+    "united states",
+    "washington canal",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Chesapeake and Ohio Canal (Md. and Washington, D.C.)--Maps",
+    "Chesapeake and Ohio Canal (Md. and Washington, D.C.)--Planning--Maps",
+    "Georgetown (Washington, D.C.)--Maps",
+    "United States--District of Columbia--Chesapeake and Ohio Canal",
+    "United States--District of Columbia--Georgtown",
+    "United States--District of Columbia--Washington Canal",
+    "United States--Maryland--Chesapeake and Ohio Canal",
+    "Washington Canal (Washington, D.C.)--Maps",
+    "Washington Canal (Washington, D.C.)--Planning--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1802/1803"
+  ],
+  "dct_title_s": "[Plans and sections of the proposed continuation of the Washington Canal from Rock Creek to Little Falls of the Potomac, Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1802 TO 1803]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1802
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690759",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

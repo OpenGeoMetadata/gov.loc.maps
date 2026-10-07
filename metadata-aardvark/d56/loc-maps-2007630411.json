@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bigelow, John P. (John Prescott), 1797-1872",
+    "Includes table showing district populations and cities and towns.",
+    "Includes table showing district populations and cities and towns. Lacks upper left hand, lower left hand, and lower right hand corners. Available also through the Library of Congress Web site as a raster image.",
+    "Lacks upper left hand, lower left hand, and lower right hand corners.",
+    "Publication statement: [S.l. : s.n., ca. 1842?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3761f.ct002131",
+    "http://lccn.loc.gov/2007630411",
+    "http://www.loc.gov/item/2007630411/",
+    "http://www.loc.gov/resource/g3761f.ct002131/",
+    "https://hdl.loc.gov/loc.gmd/g3761f.ct002131",
+    "https://search.catalog.loc.gov/instances/0490c84c-a3c4-5541-a10b-ccedfd23cd40",
+    "https://www.loc.gov/item/2007630411/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3761/g3761f/ct002131.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007630411/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Election districts--Massachusetts--Maps",
+    "Massachusetts--Administrative and political divisions--Maps",
+    "United States--Massachusetts",
+    "United States.--Congress--Election districts--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1842",
+    "[S.l. : s.n., ca. 1842?]"
+  ],
+  "dct_title_s": "A map showing the Congressional districts of Massachusetts as established by the Act of Sept. 16, 1842",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007630411",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

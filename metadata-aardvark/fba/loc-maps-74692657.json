@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Faden, William, 1749-1836; Sauthier, Claude Joseph",
+    "Designed to show military grants, manors, and townships in color.",
+    "Inscribed: To His Excellency Major General William Tryon ...",
+    "Insignia of the British Museum reproduced in the lower left corner.",
+    "LC copy sectioned and mounted on cloth backing.",
+    "Photocopy.",
+    "Photocopy. Relief shown by hachures. Depths shown by form lines. Prime meridian: London. Designed to show military grants, manors, and townships in color. Inscribed: To His Excellency Major General William Tryon ... Insignia of the British Museum reproduced in the lower left corner. Scale ca. 1:322,000. Available also through the Library of Congress Web site as a raster image. LC copy sectioned and mounted on cloth backing. AACR2",
+    "Prime meridian: London.",
+    "Publication statement: London, 1779.",
+    "Relief shown by hachures. Depths shown by form lines.",
+    "Scale ca. 1:322,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3800.ct006493",
+    "http://lccn.loc.gov/74692657",
+    "http://www.loc.gov/item/74692657/",
+    "http://www.loc.gov/resource/g3800.ct006493/",
+    "https://hdl.loc.gov/loc.gmd/g3800.ct006493",
+    "https://search.catalog.loc.gov/instances/2a79268b-1194-5916-999e-b31762738743",
+    "https://www.loc.gov/item/74692657/"
+  ],
+  "dct_issued_s": "1779",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3800/g3800/ct006493.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692657/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New York (State)--Administrative and political divisions--Maps--Early works to 1800",
+    "New York (State)--Maps--Early works to 1800",
+    "Real property--New York (State)--Maps--Early works to 1800",
+    "United States--New York (State)"
+  ],
+  "dct_temporal_sm": [
+    "1779"
+  ],
+  "dct_title_s": "A chorographical map of the Province of New-York in North America, divided into counties, manors, patents and townships; exhibiting likewise all the private grants of land made and located in that Province;",
+  "gbl_dateRange_drsim": [
+    "[1779 TO 1779]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1779
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692657",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

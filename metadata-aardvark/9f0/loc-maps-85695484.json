@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rowe, Robert, 1775-1843",
+    "Includes note and ill.",
+    "Includes note and ill. Available also through the Library of Congress Web site as a raster image. LC copy lacks 1 piece. Vault Shelf",
+    "LC copy lacks 1 piece.",
+    "Publication statement: London : Printed for R. Rowe, [1810?]",
+    "Vault Shelf"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5751a.ct006187",
+    "http://lccn.loc.gov/85695484",
+    "http://www.loc.gov/item/85695484/",
+    "http://www.loc.gov/resource/g5751a.ct006187/",
+    "https://hdl.loc.gov/loc.gmd/g5751a.ct006187",
+    "https://search.catalog.loc.gov/instances/bacec8bc-d31e-511f-97cd-584fa7aac2e0",
+    "https://www.loc.gov/item/85695484/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5751/g5751a/ct006187.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85695484/\"}",
+  "dct_spatial_sm": [
+    "england",
+    "wales"
+  ],
+  "dct_subject_sm": [
+    "England",
+    "England--Maps",
+    "Jigsaw puzzles--Maps",
+    "Roads--England--Maps",
+    "Roads--Wales--Maps",
+    "Wales",
+    "Wales--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1810",
+    "London : Printed for R. Rowe, [1810?]"
+  ],
+  "dct_title_s": "England and Wales : with the principal roads and distances of the county towns for London",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85695484",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

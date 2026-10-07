@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Compiled from USGS 1:24 000-scale topographic maps dated 1966-1970.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes notes.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1981.",
+    "Title in right lower margin: Clarke Co., Va. : N3858.5-W7749.5/18x20 : 1979.",
+    "Title in right lower margin: Clarke Co., Va. : N3858.5-W7749.5/18x20 : 1979. \"Compiled from USGS 1:24 000-scale topographic maps dated 1966-1970.\" UTM grid. Includes notes. Available also through the Library of Congress Web site as a raster image.",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883c.ct009237",
+    "http://lccn.loc.gov/82693336",
+    "http://www.loc.gov/item/82693336/",
+    "http://www.loc.gov/resource/g3883c.ct009237/",
+    "https://hdl.loc.gov/loc.gmd/g3883c.ct009237",
+    "https://search.catalog.loc.gov/instances/6c47d1eb-653d-5472-a4b5-fe04f7937567",
+    "https://www.loc.gov/item/82693336/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883c/ct009237.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82693336/\"}",
+  "dct_spatial_sm": [
+    "clarke county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Clarke County (Va.)--Maps",
+    "United States--Virginia--Clarke County"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Clarke County, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82693336",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

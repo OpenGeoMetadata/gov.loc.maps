@@ -1,0 +1,81 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden diary, 1861-1865 (v. 3, p. 601).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary page.",
+    "Note across the bottom margin: \"Copy of map made for Maj. Genl. S. P. Heintzelman, 3rd Corps.\"",
+    "Publication statement: [1861-1865]",
+    "Shows the movement of troops in a three county area extending from Warrenton, Va., in Fauquier County through Manassas, Va., in Prince William County, ending to the east around Centreville and Fairfax, Va., in Fairfax County, during the Second Battle of Manassas or Bull Run.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00036",
+    "http://www.loc.gov/item/001-CABIB20002936/",
+    "http://www.loc.gov/item/gvhs01.vhs00036/",
+    "http://www.loc.gov/resource/gvhs01.vhs00036/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00036",
+    "https://www.loc.gov/item/gvhs01.vhs00036/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00036.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00036/\"}",
+  "dct_spatial_sm": [
+    "centreville",
+    "fairfax",
+    "fairfax county",
+    "fauquier county",
+    "manassas",
+    "manassas region",
+    "prince william county",
+    "united states",
+    "virginia",
+    "warrenton"
+  ],
+  "dct_subject_sm": [
+    "Bull Run, 2nd Battle of, Va",
+    "Bull Run, 2nd Battle of, Va., 1862",
+    "Centreville (Va.)--History--Civil War, 1861-1865--Maps",
+    "Fairfax (Va.)--History--Civil War, 1861-1865--Maps",
+    "Fairfax County (Va.)--History--Civil War, 1861-1865--Maps",
+    "Fauquier County (Va.)--History--Civil War, 1861-1865--Maps",
+    "Heintzelman, Samuel Peter,--1805-1880",
+    "Manassas (Va.)--History--Civil War, 1861-1865--Maps",
+    "Prince William County (Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia--Centreville",
+    "United States--Virginia--Fairfax",
+    "United States--Virginia--Fairfax County",
+    "United States--Virginia--Fauquier County",
+    "United States--Virginia--Manassas",
+    "United States--Virginia--Manassas Region",
+    "United States--Virginia--Prince William County",
+    "United States--Virginia--Warrenton",
+    "Warrenton (Va.)--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1861/1865"
+  ],
+  "dct_title_s": "Plan of 2nd battle of Bull Run, Va. : Shewing movements of troops from 27 Aug. to Sept. 1.",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00036",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Maine title collection drawer 26",
+    "Alternate supplied title: Maine title collection--roads 1951-1968",
+    "Maine title collection drawer 26",
+    "Maine title collection--roads 1951-1968"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Various places] : [various publishers], [1951-1968]",
+    "This record covers single road maps of Maine published by various gas companies which are not represented in the LC database by separate catalog records. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single road maps of Maine published by various gas companies which are not represented in the LC database by separate catalog records. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. Available also through the Library of Congress Web site as a raster image.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589197",
+    "http://www.loc.gov/item/2022589197/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ME26/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ME26",
+    "https://search.catalog.loc.gov/instances/008eedae-cab5-5bb2-82ea-0d7228183982",
+    "https://www.loc.gov/item/2022589197/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdtitlecolfold/ME/26/ME26/ME_26_00001.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589197/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Roads--Maine--Maps",
+    "United States--Maine"
+  ],
+  "dct_temporal_sm": [
+    "1951/1968"
+  ],
+  "dct_title_s": "[Maps of Maine--roads 1951-1968]",
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1968]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022589197",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

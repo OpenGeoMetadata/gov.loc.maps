@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Barrington, W.",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 94",
+    "Map of the northeastern United States showing relief by hachures, drainage, cities and towns, and county boundaries. Indicates names of railroad lines.",
+    "Publication statement: Philadelphia, 1881.",
+    "Scale ca. 1:675,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3716p.rr000940",
+    "http://lccn.loc.gov/98688369",
+    "http://www.loc.gov/item/98688369/",
+    "http://www.loc.gov/resource/g3716p.rr000940/",
+    "https://hdl.loc.gov/loc.gmd/g3716p.rr000940",
+    "https://search.catalog.loc.gov/instances/edbb383b-1493-5f26-addc-5117bc51d6ba",
+    "https://www.loc.gov/item/98688369/"
+  ],
+  "dct_issued_s": "1881",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd371/g3716/g3716p/rr000940.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688369/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "middle atlantic states",
+    "new england",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada",
+    "Railroads--Canada--Maps",
+    "Railroads--Middle Atlantic States--Maps",
+    "Railroads--New England--Maps",
+    "United States--Middle Atlantic States",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1881"
+  ],
+  "dct_title_s": "New railway map and guide of New York, Pennsylvania and New Jersey with parts of adjoining states and Canada, 1881",
+  "gbl_dateRange_drsim": [
+    "[1881 TO 1881]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1881
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688369",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

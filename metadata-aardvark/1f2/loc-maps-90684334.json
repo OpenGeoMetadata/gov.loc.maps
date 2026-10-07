@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Tulsa District",
+    "Depths shown by gradient tints.",
+    "Depths shown by gradient tints. Includes table/index showing lake facilities, location map, and distance list. Ill. of waterway markers, lake and community information, cross section, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Ill. of waterway markers, lake and community information, cross section, and col. ill. on verso.",
+    "Includes table/index showing lake facilities, location map, and distance list.",
+    "Publication statement: Tulsa, Okla. : The District, [1990?]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/90684334",
+    "http://www.loc.gov/item/90684334/",
+    "http://www.loc.gov/resource/g4022h.ct011207r/",
+    "http://www.loc.gov/resource/g4022h.ct011207v/",
+    "https://hdl.loc.gov/loc.gmd/g4022h.ct011207r",
+    "https://hdl.loc.gov/loc.gmd/g4022h.ct011207v",
+    "https://search.catalog.loc.gov/instances/d0cfe07a-3c43-53bf-b5e3-97825234ea49",
+    "https://www.loc.gov/item/90684334/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4022/g4022h/ct011207r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90684334/\"}",
+  "dct_spatial_sm": [
+    "hugo lake",
+    "hugo lake region",
+    "oklahoma",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hugo Lake (Okla.)--Maps",
+    "Hugo Lake Region (Okla.)--Maps",
+    "Outdoor recreation--Oklahoma--Hugo Lake--Maps",
+    "United States--Oklahoma--Hugo Lake",
+    "United States--Oklahoma--Hugo Lake Region"
+  ],
+  "dct_temporal_sm": [
+    "1990",
+    "Tulsa, Okla. : The District, [1990?]"
+  ],
+  "dct_title_s": "Hugo Lake",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90684334",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

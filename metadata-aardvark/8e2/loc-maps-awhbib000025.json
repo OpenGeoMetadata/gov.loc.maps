@@ -1,0 +1,42 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Lawrence, Dorothea Dix",
+    "Copyright Hagstrom Map Company, Inc., NY, Lic. No.: H-2194.",
+    "Publication statement: New York; Hagstrom Co., 1946"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701e.awh00009",
+    "http://www.loc.gov/item/awhbib000025/",
+    "http://www.loc.gov/item/g3701e.awh00009/",
+    "http://www.loc.gov/resource/g3701e.awh00009/",
+    "https://hdl.loc.gov/loc.gmd/g3701e.awh00009",
+    "https://www.loc.gov/item/awhbib000025/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701e/awh00009.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/awhbib000025/\"}",
+  "dct_rights_sm": [
+    "For rights relating to this resource, visit http://hdl.loc.gov/loc.natlib/awh.access"
+  ],
+  "dct_subject_sm": [
+    "Folk music--United States--Maps",
+    "Folklore--United States--Maps",
+    "Maps"
+  ],
+  "dct_title_s": "Folklore music map of the United States from the Primer of American Music",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-awhbib000025",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-11892.\"",
+    "\"This natural soil group map is a generalization of the detailed soil map of Worcester County Soil Survey ...\"",
+    "\"This natural soil group map is a generalization of the detailed soil map of Worcester County Soil Survey ...\" Includes notes and location map. \"1-11892.\" Available also through the Library of Congress Web site as a raster image. Stamped on LC copy: Produced under contract printing.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes notes and location map.",
+    "Publication statement: [Lanham? Md.] : The Service, [1980?]",
+    "Stamped on LC copy: Produced under contract printing."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3843w.ct008741",
+    "http://lccn.loc.gov/81693029",
+    "http://www.loc.gov/item/81693029/",
+    "http://www.loc.gov/resource/g3843w.ct008741/",
+    "https://hdl.loc.gov/loc.gmd/g3843w.ct008741",
+    "https://search.catalog.loc.gov/instances/1c32700a-0f9c-5ff2-be8e-4d8eca3bdc82",
+    "https://www.loc.gov/item/81693029/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3843/g3843w/ct008741.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81693029/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "united states",
+    "worcester county"
+  ],
+  "dct_subject_sm": [
+    "Soils--Maryland--Worcester County--Maps",
+    "United States--Maryland--Worcester County"
+  ],
+  "dct_temporal_sm": [
+    "1980",
+    "[Lanham? Md.] : The Service, [1980?]"
+  ],
+  "dct_title_s": "Natural soil groups, Worcester County, Maryland",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81693029",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

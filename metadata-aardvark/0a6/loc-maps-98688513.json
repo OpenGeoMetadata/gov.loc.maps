@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rand McNally and Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 253",
+    "Publication statement: Chicago, 1893.",
+    "Scale ca. 1:750,000.",
+    "Shows relief by hachures, drainage, counties, township lines, Indian reservations, roads, and railroads with names. Title from cover."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4350.rr002530",
+    "http://lccn.loc.gov/98688513",
+    "http://www.loc.gov/item/98688513/",
+    "http://www.loc.gov/resource/g4350.rr002530/",
+    "https://hdl.loc.gov/loc.gmd/g4350.rr002530",
+    "https://search.catalog.loc.gov/instances/f7777d87-982f-5f9b-a363-53354729ba21",
+    "https://www.loc.gov/item/98688513/"
+  ],
+  "dct_issued_s": "1893",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd435/g4350/g4350/rr002530.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688513/\"}",
+  "dct_spatial_sm": [
+    "nevada",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Nevada--Maps",
+    "United States--Nevada"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "dct_title_s": "Indexed county and township pocket map and shippers guide of Nevada, accompanied by a new and origianl compilation and ready reference index, showing in detail the entire railroad network",
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688513",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

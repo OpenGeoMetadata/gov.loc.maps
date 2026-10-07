@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802679AI (C00039) 4-00.\"",
+    "\"Base 802679AI (C00039) 4-00.\" Also shows primary administrative divisions (counties). Also separately issued with shaded relief. Includes notes and index of county (županija) names. Available also through the Library of Congress Web site as a raster image.",
+    "Also separately issued with shaded relief.",
+    "Also shows primary administrative divisions (counties).",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes notes and index of county (županija) names.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2000]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6870.ct001082",
+    "http://lccn.loc.gov/2002620498",
+    "http://www.loc.gov/item/2002620498/",
+    "http://www.loc.gov/resource/g6870.ct001082/",
+    "https://hdl.loc.gov/loc.gmd/g6870.ct001082",
+    "https://search.catalog.loc.gov/instances/3e0f4482-1fc5-5268-bf8a-2f167fca68f8",
+    "https://www.loc.gov/item/2002620498/"
+  ],
+  "dct_issued_s": "2000",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6870/g6870/ct001082.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002620498/\"}",
+  "dct_spatial_sm": [
+    "croatia"
+  ],
+  "dct_subject_sm": [
+    "Counties--Croatia--Maps",
+    "Croatia",
+    "Croatia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_title_s": "Croatia",
+  "gbl_dateRange_drsim": [
+    "[2000 TO 2000]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002620498",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

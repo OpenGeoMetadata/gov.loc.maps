@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100",
+    "Annotated: This map referred to, in the affidt. of James Campbell on Mr. Wiatherhead's claim March 4th. 1786. Richard Lee.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Creassy, James",
+    "In margin: James Campbell.",
+    "LC Maps of North America, 1750-1789, 1093",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Oriented with north toward the upper right. Relief shown by hachures. Shows names of several landowners. Annotated: This map referred to, in the affidt. of James Campbell on Mr. Wiatherhead's claim March 4th. 1786. Richard Lee. In margin: James Campbell. Scale ca. 1:16,000. LC Maps of North America, 1750-1789, 1093 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100",
+    "Oriented with north toward the upper right.",
+    "Publication statement: [1772]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:16,000.",
+    "Shows names of several landowners.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804b.ar109300",
+    "http://lccn.loc.gov/74692222",
+    "http://www.loc.gov/item/74692222/",
+    "http://www.loc.gov/resource/g3804b.ar109300/",
+    "https://hdl.loc.gov/loc.gmd/g3804b.ar109300",
+    "https://search.catalog.loc.gov/instances/801edb67-28bb-5bdd-bbad-edf94bf4e9d0",
+    "https://www.loc.gov/item/74692222/"
+  ],
+  "dct_issued_s": "1772",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804b/ar109300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692222/\"}",
+  "dct_spatial_sm": [
+    "blenheim",
+    "new york",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Blenheim, N.Y.--Maps, Manuscript--Early works to 1800",
+    "Land grants--New York (State)--Blenheim--Maps--Early works to 1800",
+    "Real property--New York (State)--Blenheim--Maps--Early works to 1800",
+    "United States--New York--Blenheim"
+  ],
+  "dct_temporal_sm": [
+    "1772"
+  ],
+  "dct_title_s": "A plan of the township of Blenheim, as surveyed and divided in the year 1772",
+  "gbl_dateRange_drsim": [
+    "[1772 TO 1772]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1772
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692222",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

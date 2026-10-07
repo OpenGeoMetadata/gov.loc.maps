@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows township boundaries.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Cadastral map showing land ownership.",
+    "Contributors: Eager, E. N. (Edward Nelson)",
+    "Includes \"Table of official distances from court house,\" and list of county officers, and verbal description of Sanitary and Supervisor districts.",
+    "LC Land ownership maps, no. 43.",
+    "Publication statement: [California : Solano County], 1890",
+    "Relief shown by shading.",
+    "Relief shown by shading. Includes \"Table of official distances from court house,\" and list of county officers, and verbal description of Sanitary and Supervisor districts. Cadastral map showing land ownership. Also shows township boundaries. LC Land ownership maps, no. 43. Available also through the Library of Congress web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4363s.la000043",
+    "http://lccn.loc.gov/2004629225",
+    "http://www.loc.gov/item/2004629225/",
+    "http://www.loc.gov/resource/g4363s.la000043/",
+    "https://hdl.loc.gov/loc.gmd/g4363s.la000043",
+    "https://search.catalog.loc.gov/instances/ea4c422f-6c66-5255-a102-5ec37cf1d24b",
+    "https://www.loc.gov/item/2004629225/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4363/g4363s/la000043.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004629225/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "solano county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--California--Solano County--Maps",
+    "Real property--California--Solano County--Maps",
+    "Solano County (Calif.)--Maps",
+    "United States--California--Solano County"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Official map of the County of Solano, California : showing Mexican grants, United States government and swamp land surveys, present private land ownerships, roads and railroads",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004629225",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

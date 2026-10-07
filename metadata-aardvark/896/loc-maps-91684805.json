@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Fort Worth District",
+    "In lower right margin: 1977-772-679. On panel: September 1975.",
+    "In lower right margin: 1977-772-679. On panel: September 1975. Includes area/location map, distance list, park symbols, waterway markers, and table showing facilities in parks and recreation sites. Lake information and ill. of outdoor activities on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Includes area/location map, distance list, park symbols, waterway markers, and table showing facilities in parks and recreation sites.",
+    "Lake information and ill. of outdoor activities on verso.",
+    "Publication statement: Fort Worth, Tex. : The District, [1977]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/91684805",
+    "http://www.loc.gov/item/91684805/",
+    "http://www.loc.gov/resource/g4032l.ct011459/",
+    "https://hdl.loc.gov/loc.gmd/g4032l.ct011459",
+    "https://search.catalog.loc.gov/instances/db0f2c86-624c-50ff-9f3b-27b812ba12c8",
+    "https://www.loc.gov/item/91684805/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032l/ct011459.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91684805/\"}",
+  "dct_spatial_sm": [
+    "lavon lake",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Lavon Lake (Tex.)--Maps",
+    "Outdoor recreation--Texas--Lavon Lake--Maps",
+    "United States--Texas--Lavon Lake"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "Lavon Lake",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91684805",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

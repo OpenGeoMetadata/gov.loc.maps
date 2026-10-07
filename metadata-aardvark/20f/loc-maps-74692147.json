@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bowles, Carington, 1724-1793",
+    "Hand colored.",
+    "Includes inset.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 812",
+    "Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, 28",
+    "Publication statement: London [178-?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:800,000.",
+    "Vault",
+    "Vault AACR2 Hand colored. Relief shown pictorially. Includes inset. Scale ca. 1:800,000. Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, 28 Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 812 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3720.ar081200",
+    "http://hdl.loc.gov/loc.gmd/g3720.ar081201",
+    "http://hdl.loc.gov/loc.gmd/g3720.ar081202",
+    "http://lccn.loc.gov/74692147",
+    "http://www.loc.gov/item/74692147/",
+    "http://www.loc.gov/resource/g3720.ar081200/",
+    "http://www.loc.gov/resource/g3720.ar081201/",
+    "http://www.loc.gov/resource/g3720.ar081202/",
+    "https://hdl.loc.gov/loc.gmd/g3720.ar081200",
+    "https://hdl.loc.gov/loc.gmd/g3720.ar081201",
+    "https://hdl.loc.gov/loc.gmd/g3720.ar081202",
+    "https://search.catalog.loc.gov/instances/697b9a37-b5d4-5154-9986-bdde4cfbabbd",
+    "https://www.loc.gov/item/74692147/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd372/g3720/g3720/ar081200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692147/\"}",
+  "dct_spatial_sm": [
+    "new england",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New England--Maps--Early works to 1800",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "Bowles's new pocket map of the most inhabited part of New England; comprehending the provinces of Massachusets Bay and New Hampshire; with the colonies of Connecticut & Rhode Island; divided into their counties, townships, &c. together with an accurate plan of the town, harbour and environs of Boston",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692147",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

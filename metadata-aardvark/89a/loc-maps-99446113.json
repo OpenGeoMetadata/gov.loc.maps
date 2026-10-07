@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Available also through the Library of Congress web site as a raster image. Vault",
+    "Contributors: Laet, Joannes de, 1581-1649",
+    "Publication statement: [S.l.], 1624.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.np000003",
+    "http://lccn.loc.gov/99446113",
+    "http://www.loc.gov/item/99446113/",
+    "http://www.loc.gov/resource/g3300.np000003/",
+    "https://hdl.loc.gov/loc.gmd/g3300.np000003",
+    "https://search.catalog.loc.gov/instances/8e5cc9d0-c811-5b8d-aab7-2e92173c90a9",
+    "https://www.loc.gov/item/99446113/"
+  ],
+  "dct_issued_s": "1624",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/np000003.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446113/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America",
+    "North America--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1624"
+  ],
+  "dct_title_s": "New England",
+  "gbl_dateRange_drsim": [
+    "[1624 TO 1624]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1624
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446113",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

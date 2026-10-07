@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1,P-12,703.\"",
+    "\"Base map constructed by the Cartographic Division, Soil Conservation Service, USDA, from USGS maps, 1:250,000 Series.\"",
+    "\"Town lines and names from Massachusetts Department of Community Affairs map, October 1970.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map title: Massachusetts.",
+    "Contributors: United States. Soil Conservation Service",
+    "In lower margin: Figure 7.",
+    "In upper margin: Flood hazard analyses and flood insurance studies.",
+    "Indexed.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1980.",
+    "Shows flood hazard analysis areas, flood insurance study areas, and watersheds.",
+    "Shows flood hazard analysis areas, flood insurance study areas, and watersheds. Base map title: Massachusetts. \"Base map constructed by the Cartographic Division, Soil Conservation Service, USDA, from USGS maps, 1:250,000 Series.\" \"Town lines and names from Massachusetts Department of Community Affairs map, October 1970.\" In upper margin: Flood hazard analyses and flood insurance studies. In lower margin: Figure 7. Indexed. \"1,P-12,703.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3761c.ct005850",
+    "http://lccn.loc.gov/81690117",
+    "http://www.loc.gov/item/81690117/",
+    "http://www.loc.gov/resource/g3761c.ct005850/",
+    "https://hdl.loc.gov/loc.gmd/g3761c.ct005850",
+    "https://search.catalog.loc.gov/instances/751d45a4-6269-599d-ab83-143f4fc4f284",
+    "https://www.loc.gov/item/81690117/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3761/g3761c/ct005850.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690117/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Flood forecasting--Massachusetts--Maps",
+    "Flood insurance--Massachusetts--Maps",
+    "Floodplains--Massachusetts--Maps",
+    "United States--Massachusetts",
+    "Watersheds--Massachusetts--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Status of flood plain identificaitonas of January 1, 1980 : [Massachusetts]",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690117",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

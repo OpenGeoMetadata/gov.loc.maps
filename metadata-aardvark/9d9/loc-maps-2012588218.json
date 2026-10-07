@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service; University of Georgia. College Experiment Station",
+    "Includes note.",
+    "Includes note. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Ft. Worth, TX : USDA-SCS-National Cartographic Center, 1991."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2012588218",
+    "http://www.loc.gov/item/2012588218/",
+    "http://www.loc.gov/resource/g3923f.ct010121/",
+    "http://www.loc.gov/resource/g3932f.ct010121/",
+    "https://hdl.loc.gov/loc.gmd/g3932f.ct010121",
+    "https://search.catalog.loc.gov/instances/b78d2769-985e-58ef-a37c-116cefb1bd9b",
+    "https://www.loc.gov/item/2012588218/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3923/g3923f/ct010121.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012588218/\"}",
+  "dct_spatial_sm": [
+    "fannin county",
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soil surveys--Georgia--Fannin County--Maps",
+    "Soils--Georgia--Fannin County--Maps",
+    "United States--Georgia--Fannin County"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "General soil map, Fannin County, Georgia",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012588218",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

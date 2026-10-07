@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Culebra, C.Z.: Chief Engineer's Office. Ancon, Canal Zone: Panama Canal Commission, Department of Law, January 26, 1912.\"",
+    "\"Map submitted ... to the House Committee on Interstate and Foreign Commerce, on December 22, 1911, at Ancon, Canal Zone.\"",
+    "\"This large, detailed, map is from the collection of the Panama Canal Zone Library, which was transferred to the Library of Congress in 1978. This collection contains various maps, plans, and diagrams detailing the history of Panama and the construction of the Panama Canal over the ten-year period of 1904 to 1914. According to a note on the map, the \"map shows the land in the Canal Zone that has been set apart for all Governmental purposes in the Canal Zone, to date, and whether the land belongs to the United States of America, the Panama Railroad Company, or to private individuals. It further indicates whether these reservations for Governmental purposes have been made for Canal Works, Fortifications, Lighting, Town sites, Reservoirs, Watersheds, or Miscellaneous purposes ... .\" Colored markings on the map further subdivide U.S. lands into those acquired by treaty, by purchase, or from the French. France had initiated work on a canal across the isthmus in 1879, but the project stalled. Panama gained independence from Colombia in 1903 and the United States acquired from Panama the rights to build a canal, as well as bought the assets of the defunct French canal construction company. This map formed part of submissions to the United States House of Representatives Committee on Interstate and Foreign Commerce by Frank Feuille, head of the Department of Law of the Isthmian Canal Commission, at Ancon in the Canal Zone on December 22, 1911, and January 26, 1912.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Canal Zone Library map checklist number: 195.",
+    "Contributors: Isthmian Canal Commission (U.S.). Department of Law; Isthmian Canal Commission (U.S.). Office of Chief Engineer",
+    "Includes table of statistical data and insets of Porto Bello and Colon.",
+    "LC copy 1 imperfect: Brittle; inset in lower right corner and portion of inset in upper right corner missing.",
+    "Publication statement: Ancon, Canal Zone : Isthmian Canal Commission, Canal Zone, Dept. of Law, 1912.",
+    "Relief shown by spot heights.",
+    "Transferred from the collection of the Canal Zone Library-Museum, 1979.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4872c.pcc00006",
+    "http://lccn.loc.gov/82690127",
+    "http://www.loc.gov/item/82690127/",
+    "http://www.loc.gov/resource/g4872c.pcc00006/",
+    "https://hdl.loc.gov/loc.gmd/g4872c.pcc00006",
+    "https://search.catalog.loc.gov/instances/d8b3a72d-a635-5e40-b52c-e99ae04a3495",
+    "https://www.loc.gov/item/82690127/"
+  ],
+  "dct_issued_s": "1911",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4872/g4872c/pcc00006.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82690127/\"}",
+  "dct_spatial_sm": [
+    "canal zone",
+    "panama"
+  ],
+  "dct_subject_sm": [
+    "Panama Railroad Co.--Maps",
+    "Panama--Canal Zone",
+    "Real property--Panama--Canal Zone--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "dct_title_s": "Property map of the Canal Zone showing property belonging to the United States of America, Panama R. R. Co., and lands claimed by private persons",
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1911
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82690127",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

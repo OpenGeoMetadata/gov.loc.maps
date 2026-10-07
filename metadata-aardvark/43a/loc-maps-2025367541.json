@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Sovereign limits"
+  ],
+  "dct_description_sm": [
+    "Accompanied by linked documents (Quarterly updates & international boundary news, Q1 2021, January-March; Database model & annexes, June 2018; Land boundary disputes, December 2018; Standards and methodology, June 2018).",
+    "Contributors: International Mapping Associates, cartographer",
+    "Data layers include: archipelagic baselines, disputed areas, EEZ limits, Exclusive Economic Zones, extended continental shelf submissions, implied land limits, implied maritime limits, land boundaries, maritime boundaries, provisional equidistance, shared sovereignty areas, shared sovereignty zones, sovereignty areas, straight baselines, territorial sea limits, and undetermined sovereignty zones.",
+    "Dataset includes data files (Shapefile, PDF).",
+    "Publication statement: Ellicott City, MD : International Mapping , April 2021",
+    "The GIS files in this package provide detailed coordinate data for international maritime boundaries and any specially designated maritime areas that might be associated with those boundaries. While this information has been compiled from primary sources such as bi-lateral treaties, arbitral awards and court judgments and carefully reproduced and reviewed, it is offered here for informational purposes only. International Mapping makes no representations or warranties as to its accuracy in every instance.",
+    "Title from Sovereign limits territorial sovereignty database signed license."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2025367541",
+    "http://www.loc.gov/item/2025367541/",
+    "https://search.catalog.loc.gov/instances/ddd3aff5-bd16-442a-943d-2b173153a223",
+    "https://sovereignlimits.com/",
+    "https://www.loc.gov/item/2025367541/"
+  ],
+  "dct_issued_s": "2021",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2025367541/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Boundaries--Maps",
+    "Continental margins--Maps",
+    "Earth (Planet)",
+    "Economic zones (Law of the sea)--Maps",
+    "International relations",
+    "Maritime boundaries",
+    "Sovereignty--Maps",
+    "Territory, National--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "dct_title_s": "Sovereign limits territorial sovereignty database",
+  "gbl_dateRange_drsim": [
+    "[2021 TO 2021]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2025367541",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

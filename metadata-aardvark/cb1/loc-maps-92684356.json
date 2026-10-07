@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Mosaic compiled November 1962.\"",
+    "\"Mosaic compiled November 1962.\" In lower right margin: Lunar earthside hemisphere. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Aeronautical Chart and Information Center (U.S.)",
+    "In lower right margin: Lunar earthside hemisphere.",
+    "Publication statement: St. Louis, Mo. : Aeronautical Chart and Information Center, U.S. Air Force ; Washington, D.C. : For sale by the Supt. of Docs., U.S. G.P.O., [1966]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3196a.ct002487",
+    "http://lccn.loc.gov/92684356",
+    "http://www.loc.gov/item/92684356/",
+    "http://www.loc.gov/resource/g3196a.ct002487/",
+    "https://hdl.loc.gov/loc.gmd/g3196a.ct002487",
+    "https://search.catalog.loc.gov/instances/63fb1ee7-0527-51de-89df-d5318e689f32",
+    "https://www.loc.gov/item/92684356/"
+  ],
+  "dct_issued_s": "1966",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3196/g3196a/ct002487.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92684356/\"}",
+  "dct_spatial_sm": [
+    "moon"
+  ],
+  "dct_subject_sm": [
+    "Moon",
+    "Moon--Remote-sensing maps"
+  ],
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "dct_title_s": "USAF lunar reference mosaic : LEM-1",
+  "gbl_dateRange_drsim": [
+    "[1966 TO 1966]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92684356",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

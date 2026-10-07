@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Diary (Mss5:1 Sn237:1 v. 4, p. 891).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary image.",
+    "Publication statement: [S.l., 1863-1865].",
+    "The maps shows the location of the Union III Corps under Sickles and Confederate troops under A.P. Hill between Catlett's Station and Manassas Junction, Va. The Manassas Gap and the Orange and Alexandria railroads are also indicated, and also shown is the location of the skirmish that took place at Auburn earlier in the day.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00163",
+    "http://www.loc.gov/item/001-CABIB20009730/",
+    "http://www.loc.gov/item/gvhs01.vhs00163/",
+    "http://www.loc.gov/resource/gvhs01.vhs00163/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00163",
+    "https://www.loc.gov/item/gvhs01.vhs00163/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00163.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00163/\"}",
+  "dct_spatial_sm": [
+    "fauquier county",
+    "prince william county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Fauquier County (Va.)--History--Civil War, 1861-1865--Maps",
+    "Prince William County (Va.)--History--Civil War, 1861-1865--Maps",
+    "Sickles, Daniel Edgar,--1825-1914",
+    "United States--Virginia--Fauquier County",
+    "United States--Virginia--Prince William County"
+  ],
+  "dct_temporal_sm": [
+    "1863/1865"
+  ],
+  "dct_title_s": "Route of 3rd Corps from Cattlet's [sic] to Greenwich, Va.",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00163",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

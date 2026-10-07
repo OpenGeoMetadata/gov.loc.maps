@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Folded title: Welcome to Chattahoochee National Forest, Georgia.",
+    "Folded title: Welcome to Chattahoochee National Forest, Georgia. Relief shown by hachures and spot heights. Includes col. illus., table of recreation facilities, and inset. Text and illus. on verso. Scale ca. 1:255,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes col. illus., table of recreation facilities, and inset.",
+    "Publication statement: [Atlanta] 1965.",
+    "Relief shown by hachures and spot heights.",
+    "Scale ca. 1:255,000.",
+    "Text and illus. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm69002572",
+    "http://www.loc.gov/item/gm69002572/",
+    "http://www.loc.gov/resource/g3922c.ct010000/",
+    "https://hdl.loc.gov/loc.gmd/g3922c.ct010000",
+    "https://search.catalog.loc.gov/instances/dda7b200-dfff-5339-97f1-ae650221a5b2",
+    "https://www.loc.gov/item/gm69002572/"
+  ],
+  "dct_issued_s": "1965",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922c/ct010000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm69002572/\"}",
+  "dct_spatial_sm": [
+    "chattahoochee national forest",
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Chattahoochee National Forest (Ga.)--Maps",
+    "United States--Georgia--Chattahoochee National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "dct_title_s": "Chattahoochee National Forest, Georgia",
+  "gbl_dateRange_drsim": [
+    "[1965 TO 1965]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1965
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm69002572",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Evening Star Newspaper Co",
+    "DCP",
+    "Includes index to points of interest.",
+    "LC copies laminated and mounted on cloth backing.",
+    "Publication statement: [Washington, D.C. : Evening star, 1889]",
+    "Shows block numbers, transit routes, and \"Route of inaugural parade.\"",
+    "Shows block numbers, transit routes, and \"Route of inaugural parade.\" Includes index to points of interest. Available also through the Library of Congress Web site as a raster image. LC copies laminated and mounted on cloth backing. 2 copies DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851e.ct004642",
+    "http://lccn.loc.gov/87694149",
+    "http://www.loc.gov/item/87694149/",
+    "http://www.loc.gov/resource/g3851e.ct004642/",
+    "https://hdl.loc.gov/loc.gmd/g3851e.ct004642",
+    "https://search.catalog.loc.gov/instances/066e96ad-f589-52ab-bb56-9cb567be658d",
+    "https://www.loc.gov/item/87694149/"
+  ],
+  "dct_issued_s": "1889",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct004642.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694149/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Harrison, Benjamin,--1833-1901--Inaugurations",
+    "Parades--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "dct_title_s": "Map of the city of Washington : souvenir of March 4th, 1889",
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694149",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

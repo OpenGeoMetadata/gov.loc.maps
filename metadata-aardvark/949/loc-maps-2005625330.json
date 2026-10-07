@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Drawn & Engrav'd by I. Senex.\"",
+    "\"John Senex (circa 1678-1740) was an English surveyor, engraver, bookseller, and publisher of maps and atlases. He served as geographer to Queen Anne (1665-1714), the first sovereign (from 1707 to 1714) of the United Kingdom, formed by the 1707 union of England and Scotland. Senex was elected to the Royal Society in 1728. He borrowed liberally from other mapmakers, notably the great French cartographer Guillaume de L'Isle. This early-18th century map of Africa shows how little European geographers knew at the time about the interior of the continent. The notes on the map provide information about the African kingdoms that was derived from Arab sources, slave traders, early travelers, and conversations with native peoples. Some of it is accurate, but much was speculative or incorrect. Senex's map is dedicated, in the lower right corner, to \"Sr. Isaac Newton Kt. President of the Royal Society and Master of Her Majesties Mints.\"\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Senex, John, -1740",
+    "London meridian.",
+    "Publication statement: [London : John Senex, 1725?]",
+    "Relief shown pictorially.",
+    "Shows boundaries, rivers, forests and principal settlements, with tents symbolising areas inhabited by nomads, and notes."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8200.ct001445",
+    "http://lccn.loc.gov/2005625330",
+    "http://www.loc.gov/item/2005625330/",
+    "http://www.loc.gov/resource/g8200.ct001445/",
+    "https://hdl.loc.gov/loc.gmd/g8200.ct001445",
+    "https://search.catalog.loc.gov/instances/a6e5dc92-1213-5cd4-a45b-98d3396c9e23",
+    "https://www.loc.gov/item/2005625330/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8200/g8200/ct001445.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625330/\"}",
+  "dct_spatial_sm": [
+    "africa"
+  ],
+  "dct_subject_sm": [
+    "Africa",
+    "Africa--Early works to 1800--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1725",
+    "[London : John Senex, 1725?]"
+  ],
+  "dct_title_s": "Africa : corrected from the observations of the Royal Society at London and Paris",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625330",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

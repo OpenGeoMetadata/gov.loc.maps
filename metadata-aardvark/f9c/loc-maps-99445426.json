@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"FEMA GIS.\"",
+    "\"FEMA Recovery Information Systems. Hurricane Andrew Disaster Field Office.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: MapInfo (Firm); United States. Federal Emergency Management Agency",
+    "Copyright: 1993, Federal Emergency Management Agency, Dade County Emergency Management, Monroe County Emergency Management, Florida City Emergency Management.",
+    "In lower margin: 7/31/93.",
+    "Publication statement: [Troy, N.Y.] : MapInfo, c1993.",
+    "Shows flood affected areas of North Dakota, South Dakota, Nebraska, Kansas, Missouri, Iowa, Wisconsin, Minnesota, and Illinois.",
+    "Shows flood affected areas of North Dakota, South Dakota, Nebraska, Kansas, Missouri, Iowa, Wisconsin, Minnesota, and Illinois. In lower margin: 7/31/93. Copyright: 1993, Federal Emergency Management Agency, Dade County Emergency Management, Monroe County Emergency Management, Florida City Emergency Management. \"FEMA GIS.\" \"FEMA Recovery Information Systems. Hurricane Andrew Disaster Field Office.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/99445426",
+    "http://www.loc.gov/item/99445426/",
+    "http://www.loc.gov/resource/g4042m.ct011633/",
+    "https://hdl.loc.gov/loc.gmd/g4042m.ct011633",
+    "https://search.catalog.loc.gov/instances/b1f6a49d-6dea-57d9-a4e6-2454ad111b89",
+    "https://www.loc.gov/item/99445426/"
+  ],
+  "dct_issued_s": "1993",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd404/g4042/g4042m/ct011633.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99445426/\"}",
+  "dct_spatial_sm": [
+    "mississippi river region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Floods--Mississippi River Region--Maps",
+    "Mississippi River Region--Maps",
+    "United States--Mississippi River Region"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "dct_title_s": "Mississippi River region declared states",
+  "gbl_dateRange_drsim": [
+    "[1993 TO 1993]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1993
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99445426",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

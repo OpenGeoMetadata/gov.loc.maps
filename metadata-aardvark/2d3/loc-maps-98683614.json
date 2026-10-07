@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Fort Moultrie :",
+    "Panel title: Fort Moultrie : official map and guide"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 1998--432-903/60232. Reprint 1998.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Bird's-eye view. \"*GPO: 1998--432-903/60232. Reprint 1998.\" Includes descriptive index, text, ancillary map of Charleston Harbor, and 3 ancillary maps of Fort Moultrie. Text and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes descriptive index, text, ancillary map of Charleston Harbor, and 3 ancillary maps of Fort Moultrie.",
+    "Publication statement: [Washington, D.C.] : The Service, [1998]",
+    "Text and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/98683614",
+    "http://www.loc.gov/item/98683614/",
+    "http://www.loc.gov/resource/g3914c.ct009941/",
+    "https://hdl.loc.gov/loc.gmd/g3914c.ct009941",
+    "https://search.catalog.loc.gov/instances/c0c3001e-5372-5043-a245-bc073f6f7dc2",
+    "https://www.loc.gov/item/98683614/"
+  ],
+  "dct_issued_s": "1998",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3914/g3914c/ct009941.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98683614/\"}",
+  "dct_spatial_sm": [
+    "charleston",
+    "fort moultrie",
+    "fort moultrie national historical park",
+    "fort sumter",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Moultrie (S.C.)--Aerial views",
+    "Fort Moultrie (S.C.)--Maps",
+    "Fort Sumter and Fort Moultrie National Historical Park (S.C.)--Aerial views",
+    "United States--South Carolina--Charleston--Fort Moultrie",
+    "United States--South Carolina--Charleston--Fort Sumter National Monument"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dct_title_s": "Fort Moultrie, Fort Sumter National Monument, South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98683614",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

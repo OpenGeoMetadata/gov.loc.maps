@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Circles show half mile distance from City Hall.\"",
+    "\"Circles show half mile distance from City Hall.\" Includes inset of Breed's Island. Available also through the Library of Congress Web site as a raster image. LC copy fold-lined, missing sections at corners and fold lines, annotated in col. ink to show radial distances, and annotated in ink on verso: 1896 map, Boston with circles. Acquisitions control 88-427",
+    "Acquisitions control 88-427",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Sampson, Murdock & Co",
+    "Includes inset of Breed's Island.",
+    "LC copy fold-lined, missing sections at corners and fold lines, annotated in col. ink to show radial distances, and annotated in ink on verso: 1896 map, Boston with circles.",
+    "Publication statement: [Boston] : Published expressly for the Boston directory by Sampson, Murdock & Co., 1896, c1895."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.ct005905",
+    "http://lccn.loc.gov/88690894",
+    "http://www.loc.gov/item/88690894/",
+    "http://www.loc.gov/resource/g3764b.ct005905/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ct005905",
+    "https://search.catalog.loc.gov/instances/c191b92a-a5d5-506c-bcb1-dfc8a0ad288e",
+    "https://www.loc.gov/item/88690894/"
+  ],
+  "dct_issued_s": "1896",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/ct005905.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690894/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "boston metropolitan area",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston (Mass.)--Maps",
+    "Boston Metropolitan Area (Mass.)--Maps",
+    "United States--Massachusetts--Boston",
+    "United States--Massachusetts--Boston Metropolitan Area"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dct_title_s": "Map of the city of Boston and vicinity",
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1896
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690894",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

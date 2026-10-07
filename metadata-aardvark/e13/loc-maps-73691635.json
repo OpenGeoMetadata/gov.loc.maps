@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Indexed for points of interest.",
+    "LC Maps of North America, 1750-1789, 1264",
+    "Manuscript, pen-and-ink.",
+    "Manuscript, pen-and-ink. Oriented with north to the right. Relief shown by shading. Soundings shown in fathoms. Shows the coast and the Mullica River inland to the site of the \"Batsto forge.\" Indexed for points of interest. Scale ca. 1:32,000. LC Maps of North America, 1750-1789, 1264 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Oriented with north to the right.",
+    "Publication statement: 177-?]",
+    "Relief shown by shading. Soundings shown in fathoms.",
+    "Scale ca. 1:32,000.",
+    "Shows the coast and the Mullica River inland to the site of the \"Batsto forge.\"",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3812c.ct000078",
+    "http://lccn.loc.gov/73691635",
+    "http://www.loc.gov/item/73691635/",
+    "http://www.loc.gov/resource/g3812c.ct000078/",
+    "https://hdl.loc.gov/loc.gmd/g3812c.ct000078",
+    "https://search.catalog.loc.gov/instances/f63ccaf8-e42f-5a73-b02d-32d2c078e969",
+    "https://www.loc.gov/item/73691635/"
+  ],
+  "dct_issued_s": "1770",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3812/g3812c/ct000078.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691635/\"}",
+  "dct_spatial_sm": [
+    "batsto region",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Batsto Region (N.J.)--Maps, Manuscript--Early works to 1800",
+    "Coasts--New Jersey--Maps--Early works to 1800",
+    "United States--New Jersey--Batsto region"
+  ],
+  "dct_temporal_sm": [
+    "1770"
+  ],
+  "dct_title_s": "[Map of the coast of New Jersey from Barnegat Inlet to Cape May",
+  "gbl_dateRange_drsim": [
+    "[1770 TO 1770]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1770
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691635",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

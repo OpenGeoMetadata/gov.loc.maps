@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cave Run Lake, Daniel Boone National Forest, Morehead Ranger District, Kentucky : 1999, American's great outdoors",
+    "Panel title: Cave Run Lake, Daniel Boone National Forest, Morehead Ranger District, Kentucky : 1999, American's great outdoors"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Northern Region; United States. Forest Service. Southern Region",
+    "Includes text, indexed table of recreation sites, recreation information, map of Clear Creek area trails, location map, and col. ill.",
+    "Publication statement: [Atlanta, Ga.] : Southern Region, 1999.",
+    "Relief shown by contours and spot heights. Depths shown by contours.",
+    "Relief shown by contours and spot heights. Depths shown by contours. Includes text, indexed table of recreation sites, recreation information, map of Clear Creek area trails, location map, and col. ill. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/00553126",
+    "http://www.loc.gov/item/00553126/",
+    "http://www.loc.gov/resource/g3952c.ct010446/",
+    "https://hdl.loc.gov/loc.gmd/g3952c.ct010446",
+    "https://search.catalog.loc.gov/instances/5e207e7e-9719-5cff-9993-125df9157062",
+    "https://www.loc.gov/item/00553126/"
+  ],
+  "dct_issued_s": "1999",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd395/g3952/g3952c/ct010446.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00553126/\"}",
+  "dct_spatial_sm": [
+    "cave run lake region",
+    "kentucky",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cave Run Lake Region (Ky.)--Maps",
+    "United States--Kentucky--Cave Run Lake Region"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "dct_title_s": "Cave Run Lake, Daniel Boone National Forest, Morehead Ranger District : 1999",
+  "gbl_dateRange_drsim": [
+    "[1999 TO 1999]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1999
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-00553126",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

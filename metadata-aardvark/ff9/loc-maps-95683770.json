@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"41077-B1-CF-050 : 1993.\"",
+    "\"Map edited 1993.\"",
+    "Alternate title at lower right: Lycoming Co., Pa.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); Pennsylvania. Bureau of Topographic and Geologic Survey",
+    "In upper margin: United States, Department of the Interior, Geological Survey; Commonwealth of Pennsylvania, Department of Environmental Resources, Topographic and Geologic Survey.",
+    "Includes notes, \"Index to 1:24 000-scale maps,\" and location map.",
+    "Map sections individually titled: East section -- West section.",
+    "Pa. coordinate and UTM grids.",
+    "Publication statement: Reston, Va. : Interior--Geological Survey, 1994.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Alternate title at lower right: Lycoming Co., Pa. Map sections individually titled: East section -- West section. \"Map edited 1993.\" In upper margin: United States, Department of the Interior, Geological Survey; Commonwealth of Pennsylvania, Department of Environmental Resources, Topographic and Geologic Survey. Pa. coordinate and UTM grids. Includes notes, \"Index to 1:24 000-scale maps,\" and location map. \"41077-B1-CF-050 : 1993.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823l.ct008223",
+    "http://hdl.loc.gov/loc.gmd/g3823l.ct008236",
+    "http://lccn.loc.gov/95683770",
+    "http://www.loc.gov/item/95683770/",
+    "http://www.loc.gov/resource/g3823l.ct008223/",
+    "http://www.loc.gov/resource/g3823l.ct008236/",
+    "https://hdl.loc.gov/loc.gmd/g3823l.ct008223",
+    "https://hdl.loc.gov/loc.gmd/g3823l.ct008236",
+    "https://search.catalog.loc.gov/instances/66b85588-8c24-5247-95e2-6fe1fd99984d",
+    "https://www.loc.gov/item/95683770/"
+  ],
+  "dct_issued_s": "1993",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823l/ct008223.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95683770/\"}",
+  "dct_spatial_sm": [
+    "lycoming county",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Lycoming County (Pa.)--Maps",
+    "United States--Pennsylvania--Lycoming County"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "dct_title_s": "Lycoming County, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1993 TO 1993]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1993
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-95683770",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

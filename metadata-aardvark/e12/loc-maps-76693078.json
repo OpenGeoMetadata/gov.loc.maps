@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Denver Engraving Co; Mitchell, A. E.",
+    "Includes inset.",
+    "Includes inset. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 65.1 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 65.1",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Denver, c1907."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4314d.pm000651",
+    "http://lccn.loc.gov/76693078",
+    "http://www.loc.gov/item/76693078/",
+    "http://www.loc.gov/resource/g4314d.pm000651/",
+    "https://hdl.loc.gov/loc.gmd/g4314d.pm000651",
+    "https://search.catalog.loc.gov/instances/b729ff40-170d-5d21-88ee-5f6c3fbde5f3",
+    "https://www.loc.gov/item/76693078/"
+  ],
+  "dct_issued_s": "1907",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd431/g4314/g4314d/pm000651.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76693078/\"}",
+  "dct_spatial_sm": [
+    "colorado",
+    "denver",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Denver (Colo.)--Maps",
+    "United States--Colorado--Denver"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dct_title_s": "Birdseye view from South Broadway ... showing Harlem, Jacksons Broadway Heights & city of Denver",
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76693078",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

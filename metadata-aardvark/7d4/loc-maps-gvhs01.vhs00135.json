@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Diary (Mss5:1 Sn237:1 v. 4, p. 275).",
+    "Manuscripts",
+    "Maps shows the location of Union troops including the 2nd Division under Geary and 1st Division under Williams near Chancellorsville, Va., and the extends from the location of Gen. Hooker's and Gen. Slocum's headquarters in the south to Dowdall's Tavern in the north.",
+    "NOTE: Researchers will be served a color photocopy of this diary image.",
+    "Publication statement: [S.l., 1863-1865].",
+    "Relief shown by hachures.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00135",
+    "http://www.loc.gov/item/001-CABIB20009339/",
+    "http://www.loc.gov/item/gvhs01.vhs00135/",
+    "http://www.loc.gov/resource/gvhs01.vhs00135/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00135",
+    "https://www.loc.gov/item/gvhs01.vhs00135/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00135.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00135/\"}",
+  "dct_spatial_sm": [
+    "chancellorsville",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Chancellorsville, Battle of, Chancellorsville, Va",
+    "Chancellorsville, Battle of, Chancellorsville, Va., 1863--Maps",
+    "United States--Army.--Corps, 12th",
+    "United States--Army.--Corps, 3rd",
+    "United States--Virginia--Chancellorsville"
+  ],
+  "dct_temporal_sm": [
+    "1863/1865"
+  ],
+  "dct_title_s": "Battle of Chancellorsville, Va. Position of the 12th and part of the 3rd Corps covering Chancellorsville Plateau May 2nd and 3rd 1863.",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00135",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

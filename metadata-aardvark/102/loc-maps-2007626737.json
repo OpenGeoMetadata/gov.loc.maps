@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Imperfect: Fold-lined, mounted on paper, losses along entire lower edge.",
+    "In pencil at lower left: [Sch]ofield.",
+    "Library of Congress. Civil War maps (2nd ed.), S99, 201",
+    "Pencil, pen and ink, and red ink.",
+    "Relief shown by hachures.",
+    "Shows Union and Confederate works west of Marietta.",
+    "Shows Union and Confederate works west of Marietta. Relief shown by hachures. Title and date from Stephenson's Civil War maps, 1989. Similar to U.S. War Dept.'s Atlas to accompany the official records of the Union and Confederate armies, 1891-95, pl. 47, no. 4. Pencil, pen and ink, and red ink. In pencil at lower left: [Sch]ofield. Imperfect: Fold-lined, mounted on paper, losses along entire lower edge. Library of Congress. Civil War maps (2nd ed.), S99, 201 Available also through the Library of Congress Web site as a raster image.",
+    "Similar to U.S. War Dept.'s Atlas to accompany the official records of the Union and Confederate armies, 1891-95, pl. 47, no. 4.",
+    "Title and date from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3924m.cws00099",
+    "http://lccn.loc.gov/2007626737",
+    "http://www.loc.gov/item/2007626737/",
+    "http://www.loc.gov/resource/g3924m.cws00099/",
+    "https://hdl.loc.gov/loc.gmd/g3924m.cws00099",
+    "https://search.catalog.loc.gov/instances/0f5b80b4-4d0a-5771-8a9f-2c4216821115",
+    "https://www.loc.gov/item/2007626737/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3924/g3924m/cws00099.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007626737/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "marietta region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Marietta Region (Ga.)--History--Civil War, 1861-1865--Maps",
+    "United States--Georgia--Marietta Region"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "[Union and Confederate works astride the Dallas and Marietta Road near Pine Hill, Georgia, June 1864]",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007626737",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

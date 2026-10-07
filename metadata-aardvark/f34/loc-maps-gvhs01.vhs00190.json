@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Diary (Mss5:1 Sn237:1 v. 6, p. 399).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary image.",
+    "Publication statement: [S.l., 1865]",
+    "This detail of an unidentified printed map has annotations by Sneden showing the locations of troops surrounding Appomattox Courthouse, April 9th, 1865. Union forces identified include Sheridan's 9th Corps, Humphrey's 2nd Corps, and Sheridan's Cavalry. Also indicated (on original printed map) are names of property owners.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00190",
+    "http://www.loc.gov/item/001-CABIB20012025/",
+    "http://www.loc.gov/item/gvhs01.vhs00190/",
+    "http://www.loc.gov/resource/gvhs01.vhs00190/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00190",
+    "https://www.loc.gov/item/gvhs01.vhs00190/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00190.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00190/\"}",
+  "dct_spatial_sm": [
+    "appomattox",
+    "appomattox county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Appomattox Campaign",
+    "Appomattox Campaign, 1865--Maps",
+    "Appomattox County (Va.)--History--Civil War, 1861-1865--Maps",
+    "Lee, Robert E.--(Robert Edward),--1807-1870",
+    "United States--Virginia--Appomattox",
+    "United States--Virginia--Appomattox County"
+  ],
+  "dct_temporal_sm": [
+    "18650408 d18650409"
+  ],
+  "dct_title_s": "Plan showing positions of Union and Rebel armies 8th and 9th April 1865, to the surrender of Lee 2nd Corps at Cumberland Church.",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00190",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

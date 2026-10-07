@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This panoramic map shows Battle Creek, Michigan, as it appeared around 1870. The town is located at the confluence of Battle Creek (also known as the Battle Creek River) and the Kalamazoo River, which is shown on the map. It was first settled in 1831, after a government land survey of southwestern Michigan was completed and land was offered for sale, priced at $1.25 for each acre. The map shows the major streets with their names; houses, churches, and commercial buildings; and the tracks of the Michigan Central Railroad. Telegraph wires are strung alongside the tracks. Mill Pond is in the foreground, and open countryside is in the distance. The panoramic map was a cartographic form popularly used to depict U.S. and Canadian cities and towns in the late 19th and early 20th centuries. Also known as bird's-eye views or perspective maps, these maps are representations of cities portrayed as if viewed from above at an oblique angle. Not generally drawn to scale, they show street patterns, individual buildings, and major landscape features in perspective. This map is by Albert Ruger (1829-99), the first American to achieve success as a panoramic artist. Born in Prussia, Ruger immigrated to the United States and worked initially as a mason. While serving with the Ohio Volunteers during the Civil War, he drew views of Union campsites. After the war, Ruger settled in Battle Creek, Michigan, where he began his panoramic mapping career by sketching Michigan cities. In the late 1860s, Ruger formed a partnership with J.J. Stoner of Madison, Wisconsin, and together they published numerous city panoramas.\" World Digital Library.",
+    "AACR2: 100; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ruger, A.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 336",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Battle Creek [1870?]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4114b.pm003360",
+    "http://lccn.loc.gov/73693422",
+    "http://www.loc.gov/item/73693422/",
+    "http://www.loc.gov/resource/g4114b.pm003360/",
+    "https://hdl.loc.gov/loc.gmd/g4114b.pm003360",
+    "https://search.catalog.loc.gov/instances/35299f5b-e170-547a-83c3-9032fe768480",
+    "https://www.loc.gov/item/73693422/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd411/g4114/g4114b/pm003360.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693422/\"}",
+  "dct_spatial_sm": [
+    "battle creek",
+    "michigan",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Battle Creek (Mich.)--Maps",
+    "United States--Michigan--Battle Creek"
+  ],
+  "dct_temporal_sm": [
+    "1870",
+    "Battle Creek [1870?]"
+  ],
+  "dct_title_s": "Bird's eye view of the city of Battle Creek, Calhoun Co., Mich",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693422",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

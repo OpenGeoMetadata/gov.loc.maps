@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Chuchel, Bruce A., author.; Hardwick, Christian, author.; Langenheim, Victoria E., cartographer.; Rosario, J. (Jose J.), author.; Utah Geological Survey, publisher.; Willis, H. (Hobie), author.",
+    "Includes bibliographical references.",
+    "Publication statement: Salt Lake City, Utah : Utah Geological Survey, 2014.",
+    "Relief shown by contours, shading, and spot heights.",
+    "System requirements: Adobe Acobat Reader, Microsoft Excel to read .xls gravity data files.",
+    "System requirements: Adobe Acobat Reader, Microsoft Excel to read .xls gravity data files. Relief shown by contours, shading, and spot heights. Includes bibliographical references."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2017590390",
+    "http://ugspub.nr.utah.gov/publications/misc_pubs\\MP-13-4/MP-13-4_combined.pdf",
+    "http://www.loc.gov/item/2017590390/",
+    "https://www.loc.gov/item/2017590390/"
+  ],
+  "dct_issued_s": "2013",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2017590390/\"}",
+  "dct_spatial_sm": [
+    "box elder county",
+    "utah"
+  ],
+  "dct_subject_sm": [
+    "Geology--Utah--Box Elder County--Maps",
+    "Gravity anomalies--Utah--Box Elder County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_title_s": "Preliminary isostatic residual gravity map of the Newfoundland mountains and east part of the Wells 30' x 60' quadrangles, Box Elder County, Utah",
+  "gbl_dateRange_drsim": [
+    "[2013 TO 2013]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017590390",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

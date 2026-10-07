@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rand McNally and Company; United States. Department of Commerce and Labor. Bureau of Statistics",
+    "Detailed map of the continental United States indicating drainage, relief by hachures, international and state boundaries, cities & towns, forts, roads, and the railroad network. [From published bibliography]",
+    "LC Railroad maps, 62",
+    "Prime meridian: Washington.",
+    "Publication statement: [Chicago] Rand, McNally & Co., 1883.",
+    "Scale ca. 1:4,500,000.",
+    "Shows routes of Pacific railroads in distinguishing colors."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr000620",
+    "http://lccn.loc.gov/gm71000841",
+    "http://www.loc.gov/item/gm71000841/",
+    "http://www.loc.gov/resource/g3701p.rr000620/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr000620",
+    "https://search.catalog.loc.gov/instances/1760ced0-175b-5783-8c98-99c2aab14a43",
+    "https://www.loc.gov/item/gm71000841/"
+  ],
+  "dct_issued_s": "1883",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr000620.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000841/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canadian Pacific Railway Company--Maps",
+    "Central Pacific Railroad Company--Maps",
+    "Northern Pacific Railroad Company--Maps",
+    "Railroads--United States--Maps",
+    "Southern Pacific Railroad Company--Maps",
+    "Union Pacific Railroad Company--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1883"
+  ],
+  "dct_title_s": "Map exhibiting the several Pacific railroads",
+  "gbl_dateRange_drsim": [
+    "[1883 TO 1883]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1883
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000841",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802201 (R00161) 8-94.\"",
+    "\"Base 802201 (R00161) 8-94.\" Also issued with shaded relief. Includes note. Available also through the Library of Congress Web site as a raster image.",
+    "Also issued with shaded relief.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes note.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1994]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7230.ct001690",
+    "http://lccn.loc.gov/94684386",
+    "http://www.loc.gov/item/94684386/",
+    "http://www.loc.gov/resource/g7230.ct001690/",
+    "https://hdl.loc.gov/loc.gmd/g7230.ct001690",
+    "https://search.catalog.loc.gov/instances/ed639c9f-8230-5f13-bc54-7ac3a0191072",
+    "https://www.loc.gov/item/94684386/"
+  ],
+  "dct_issued_s": "1994",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7230/g7230/ct001690.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94684386/\"}",
+  "dct_spatial_sm": [
+    "uzbekistan"
+  ],
+  "dct_subject_sm": [
+    "Uzbekistan",
+    "Uzbekistan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_title_s": "Uzbekistan",
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94684386",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

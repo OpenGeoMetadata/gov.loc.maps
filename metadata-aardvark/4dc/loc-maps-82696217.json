@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-16917.\"",
+    "\"Base source: USGS topo quads 1:250 000 and General Highway Maps, West Virginia Department of Highways, 1978.\"",
+    "\"January 1982.\"",
+    "\"January 1982.\" \"Base source: USGS topo quads 1:250 000 and General Highway Maps, West Virginia Department of Highways, 1978.\" Oriented with north toward the upper left. Includes location map. \"1-16917.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: Lanham, Md. : USDA-SCS, 1982."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82696217",
+    "http://www.loc.gov/item/82696217/",
+    "http://www.loc.gov/resource/g3891j.ct009429/",
+    "https://hdl.loc.gov/loc.gmd/g3891j.ct009429",
+    "https://search.catalog.loc.gov/instances/6e9d19c6-a786-57f1-a9e1-ff79f864bbdc",
+    "https://www.loc.gov/item/82696217/"
+  ],
+  "dct_issued_s": "1982",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3891/g3891j/ct009429.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82696217/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Soils--West Virginia--Maps",
+    "United States--West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "dct_title_s": "General soil map, Great Kanawha Resource Conservation and Development Area, Boone, Cabell, Clay, Kanawha, Lincoln, Logan, Mason, Mingo, Putnam, and Wayne Counties, West Virginia",
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1982]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82696217",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

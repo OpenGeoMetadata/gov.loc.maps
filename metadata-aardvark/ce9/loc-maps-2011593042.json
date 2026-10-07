@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Birds eye view of Central Park.",
+    "Birds eye view of Central Park. Relief shown pictorially. Title supplied by cataloger. Includes 6 views. Facsimile of \"A plan of the city of New York from actual survey, 1728,\" on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Facsimile of \"A plan of the city of New York from actual survey, 1728,\" on verso.",
+    "Includes 6 views.",
+    "Publication statement: [New York?] : [publisher not identified], [1860?]",
+    "Relief shown pictorially.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct002195",
+    "http://lccn.loc.gov/2011593042",
+    "http://www.loc.gov/item/2011593042/",
+    "http://www.loc.gov/resource/g3804n.ct002195/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct002195",
+    "https://search.catalog.loc.gov/instances/9bbbedad-4582-5af6-9b45-5832f4252e55",
+    "https://www.loc.gov/item/2011593042/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct002195.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011593042/\"}",
+  "dct_spatial_sm": [
+    "central park",
+    "central park (n.y.)",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Central Park (New York, N.Y.)--Maps",
+    "United States--New York (State)--Central Park (N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "1860",
+    "[New York?] : [publisher not identified], [1860?]"
+  ],
+  "dct_title_s": "[Central Park, N.Y.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011593042",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

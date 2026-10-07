@@ -1,0 +1,76 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Scale 1 inch to 5,500,000 feet\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Inter-American Highway Commission Associated Name.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Columbus Memorial Library, Organization of American States.",
+    "Original resource extent: 1 map : blue line print ; 58 x 75 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], [1931 to 1935]",
+    "The Inter-American Highway is the portion of the Pan-American Highway system that runs from Nuevo Laredo, Mexico, to Panama City, Panama, a total of 5,390 kilometers. The First Pan American Congress of Highways took place in October 1925 in Buenos Aires, Argentina, under the auspices of the Pan American Union. The congress was followed by a program of surveys and further meetings to discuss development of an inter-American highway system. In October 1929, representatives of the Central American countries, Mexico, and the United States met in Panama to establish a commission charged with planning a highway from Panama to the U.S.--Mexican border. Field reconnaissance began in Panama and Honduras in 1930, and the commission met in Panama in March 1931 to discuss a tentative route. This map shows the route of the highway, running through Mexico, Guatemala, El Salvador, Nicaragua, Costa Rica, and Panama, discussed at that meeting. The Mexico section of the highway, financed and built by the government of Mexico, opened in 1950. The other parts of the Inter-American Highway were built with U.S. assistance, and opened to through traffic in 1963. The map is preserved in the Columbus Library of the Organization of American States, the successor organization to the Pan American Union.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668474",
+    "http://www.loc.gov/item/2021668474/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_11310/",
+    "http://www.loc.gov/resource/wdl.11310/",
+    "https://hdl.loc.gov/loc.wdl/wdl.11310",
+    "https://www.loc.gov/item/2021668474/"
+  ],
+  "dct_issued_s": "1931-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_11310.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/31/0/wdl_11310/wdl_11310.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:31:0:wdl_11310:oas0160X/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668474/\"}",
+  "dct_spatial_sm": [
+    "belize",
+    "costa rica",
+    "el salvador",
+    "guatemala",
+    "honduras",
+    "mexico",
+    "nicaragua",
+    "panama"
+  ],
+  "dct_subject_sm": [
+    "1931-03-16 to 1931-03-24",
+    "Belize",
+    "Costa Rica",
+    "El Salvador",
+    "Guatemala",
+    "Highway planning",
+    "Honduras",
+    "Inter-American highway",
+    "Mexico",
+    "Nicaragua",
+    "Pan American Highway System",
+    "Panama",
+    "Roads"
+  ],
+  "dct_temporal_sm": [
+    "1931-01-01"
+  ],
+  "dct_title_s": "Inter-American Highway.",
+  "gbl_dateRange_drsim": [
+    "[1931 TO 1931]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1931
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668474",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

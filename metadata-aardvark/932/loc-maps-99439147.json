@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: United States. National Park Service",
+    "Description derived from published bibliography.",
+    "Inset: Second battle, August 1862. 5 x 5 cm.",
+    "LC Civil War Maps (2nd ed.), 572.3",
+    "Map illustrates National Park Service's descriptive leaflet entitled \"Manassas National Battlefield Park, Virginia.\"",
+    "Map illustrates National Park Service's descriptive leaflet entitled \"Manassas National Battlefield Park, Virginia.\" Inset: Second battle, August 1862. 5 x 5 cm. Description derived from published bibliography. Scale ca. 1:126,720. LC Civil War Maps (2nd ed.), 572.3 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: [Washington], Polygraphic Company of America, 1942.",
+    "Scale ca. 1:126,720."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884m.cw0572300",
+    "http://lccn.loc.gov/99439147",
+    "http://www.loc.gov/item/99439147/",
+    "http://www.loc.gov/resource/g3884m.cw0572300/",
+    "https://hdl.loc.gov/loc.gmd/g3884m.cw0572300",
+    "https://search.catalog.loc.gov/instances/26708ac0-b369-5bb9-96ec-e22fa44ec827",
+    "https://www.loc.gov/item/99439147/"
+  ],
+  "dct_issued_s": "1942",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884m/cw0572300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99439147/\"}",
+  "dct_spatial_sm": [
+    "manassas national battlefield park",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Bull Run, 1st Battle of, Va",
+    "Bull Run, 1st Battle of, Va., 1861--Maps",
+    "Bull Run, 2nd Battle of, Va",
+    "Bull Run, 2nd Battle of, Va., 1862--Maps",
+    "Manassas National Battlefield Park (Va.)--Maps",
+    "United States--Virginia--Manassas National Battlefield Park"
+  ],
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "dct_title_s": "Manassas National Battlefield Park, Virginia. Showing action of first battle, July 21, 1861",
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1942]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1942
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99439147",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

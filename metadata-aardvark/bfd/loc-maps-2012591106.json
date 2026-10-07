@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Map from the Confederate Engineer Bureau in Richmond, Va. General J.F. Gilmer, chief engineer. Presented to the Virginia Historical Society by his only daughter, Mrs. J.F. Minis, Savh., Ga.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Confederate States of America. Army. Department of Northern Virginia; Gilmer, Jeremy Francis, 1818-1883; Henderson, D. E.; Minis, Louisa Porter; Virginia Historical Society",
+    "LC Land ownership maps, 1203",
+    "Oriented with north toward upper left.",
+    "Publication statement: [Virginia : Chief engineer's Office D.N.V., 186-?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows magisterial districts and the names of some residents. Oriented with north toward upper left. \"Map from the Confederate Engineer Bureau in Richmond, Va. General J.F. Gilmer, chief engineer. Presented to the Virginia Historical Society by his only daughter, Mrs. J.F. Minis, Savh., Ga.\" Stamped in lower margin: 294. LC Land ownership maps, 1203 Available also through the Library of Congress Web site as a raster image.",
+    "Shows magisterial districts and the names of some residents.",
+    "Stamped in lower margin: 294."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883a.la001203",
+    "http://lccn.loc.gov/2012591106",
+    "http://www.loc.gov/item/2012591106/",
+    "http://www.loc.gov/resource/g3883a.la001203/",
+    "https://hdl.loc.gov/loc.gmd/g3883a.la001203",
+    "https://search.catalog.loc.gov/instances/1c1c02e3-5d7a-50fb-be6b-ba965963cbe4",
+    "https://www.loc.gov/item/2012591106/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883a/la001203.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012591106/\"}",
+  "dct_spatial_sm": [
+    "amelia county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Amelia County (Va.)--Maps",
+    "Landowners--Virginia--Amelia County--Maps",
+    "Real property--Virginia--Amelia County--Maps",
+    "United States--Virginia--Amelia County"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "Amelia County",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012591106",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

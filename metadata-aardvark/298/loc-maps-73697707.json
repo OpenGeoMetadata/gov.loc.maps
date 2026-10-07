@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/2; 650/4",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771",
+    "LC Maps of North America, 1750-1789, 1798, 1802",
+    "Publication statement: [London, 1768?]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. Scale ca. 1:25,500 and ca. 1:105,000. LC Maps of North America, 1750-1789, 1798, 1802 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/2; 650/4",
+    "Scale ca. 1:25,500 and ca. 1:105,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4922h.ar179800",
+    "http://lccn.loc.gov/73697707",
+    "http://www.loc.gov/item/73697707/",
+    "http://www.loc.gov/resource/g4922h.ar179800/",
+    "https://hdl.loc.gov/loc.gmd/g4922h.ar179800",
+    "https://search.catalog.loc.gov/instances/e2c5433e-2979-5d27-825d-592544e288e7",
+    "https://www.loc.gov/item/73697707/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4922/g4922h/ar179800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73697707/\"}",
+  "dct_spatial_sm": [
+    "bahía honda",
+    "cabañas bay",
+    "cuba"
+  ],
+  "dct_subject_sm": [
+    "Bahía Honda (Cuba)--Maps--Early works to 1800",
+    "Cabañas Bay (Cuba)--Maps--Early works to 1800",
+    "Cuba--Bahía Honda",
+    "Cuba--Cabañas Bay",
+    "Nautical charts--Cuba--Bahía Honda--Early works to 1800",
+    "Nautical charts--Cuba--Cabañas Bay--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1768",
+    "[London, 1768?]"
+  ],
+  "dct_title_s": "Plan of Bahía Honda. Plan of Puerto de Cavañas",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73697707",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Buoys corrected to 1874.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bache, A. D. (Alexander Dallas), 1806-1867; United States Coast Survey; United States. National Ocean Service",
+    "Covers Annapolis region including Severn River and adjacent part of Chesapeake Bay.",
+    "Covers Annapolis region including Severn River and adjacent part of Chesapeake Bay. Relief shown by hachures. Depths shown by shading and soundings. \"Buoys corrected to 1874.\" Facsimile. Includes text, notes in margins, statistical data, and 4 coastal panoramas. Publisher's no.: BiC-29. Available also through the Library of Congress Web site as a raster image. Original version: Triangulation by James Ferguson and Ferd. H. Gerdes, assistants ; the hydrography under the direction of George M. Bache, lieutenant U.S. Navy ; typography by F.H. Gerdes, assistant. [Washington?] : The Survey, [1874]. [1st ed.] Published in 1846. No. 385.",
+    "Facsimile.",
+    "Includes text, notes in margins, statistical data, and 4 coastal panoramas.",
+    "Original version: Triangulation by James Ferguson and Ferd. H. Gerdes, assistants ; the hydrography under the direction of George M. Bache, lieutenant U.S. Navy ; typography by F.H. Gerdes, assistant. [Washington?] : The Survey, [1874]. [1st ed.] Published in 1846. No. 385.",
+    "Publication statement: Washington, D.C. : U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Ocean Service, [1976?]",
+    "Publisher's no.: BiC-29.",
+    "Relief shown by hachures. Depths shown by shading and soundings."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3844a.ct008742",
+    "http://lccn.loc.gov/87695538",
+    "http://www.loc.gov/item/87695538/",
+    "http://www.loc.gov/resource/g3844a.ct008742/",
+    "https://hdl.loc.gov/loc.gmd/g3844a.ct008742",
+    "https://search.catalog.loc.gov/instances/d9d17656-3be0-57f6-b03c-f2472fc9415e",
+    "https://www.loc.gov/item/87695538/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3844/g3844a/ct008742.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695538/\"}",
+  "dct_spatial_sm": [
+    "annapolis region",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Nautical charts--Facsimiles",
+    "Nautical charts--Maryland--Annapolis Region",
+    "United States--Maryland--Annapolis Region"
+  ],
+  "dct_temporal_sm": [
+    "1874",
+    "Washington, D.C. : U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Ocean Service, [1976?]"
+  ],
+  "dct_title_s": "The harbor of Annapolis : founded upon a trigonometrical survey",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695538",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

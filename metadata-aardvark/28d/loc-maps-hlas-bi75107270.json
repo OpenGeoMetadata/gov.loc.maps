@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: costa de andrade, lydio; hébert, john r.; klettner, edgar; rosa de azevedo, dorival; thofehrn, hans a."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi75107270/",
+    "https://www.loc.gov/item/hlas-bi75107270/"
+  ],
+  "dct_issued_s": "1972",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_publisher_sm": [
+    "Livraria do Globo, Seção de Cartografia,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi75107270/\"}",
+  "dct_spatial_sm": [
+    "brazil"
+  ],
+  "dct_subject_sm": [
+    "maps and cartography",
+    "physical geography",
+    "porto alegre, brazil (city)",
+    "porto alegre, brazil (city) -- maps and cartography",
+    "porto alegre, brazil (city) -- physical geography"
+  ],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "dct_title_s": "Carta topográfica da cidade de Pôrto Alegre. Apresentação gráfica do Edgar Klettner. Colaboração do Lydio Costa de Andrade e Dorival Rosa de Azevedo",
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1972]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi75107270",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

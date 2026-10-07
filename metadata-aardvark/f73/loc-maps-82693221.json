@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-12230.\"",
+    "\"September 1980.\"",
+    "\"September 1980.\" \"Source: USGS 1:100 000 Franklin Co. and Lamoille Co., Vt., base maps, dated 1972.\" Includes location map. \"1-12230.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"Source: USGS 1:100 000 Franklin Co. and Lamoille Co., Vt., base maps, dated 1972.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1980."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3752b.ct005737",
+    "http://lccn.loc.gov/82693221",
+    "http://www.loc.gov/item/82693221/",
+    "http://www.loc.gov/resource/g3752b.ct005737/",
+    "https://hdl.loc.gov/loc.gmd/g3752b.ct005737",
+    "https://search.catalog.loc.gov/instances/6422a68c-2db5-5793-a41e-357aa6be7906",
+    "https://www.loc.gov/item/82693221/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3752/g3752b/ct005737.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82693221/\"}",
+  "dct_spatial_sm": [
+    "black creek watershed",
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Soil erosion--Vermont--Black Creek Watershed--Maps",
+    "United States--Vermont--Black Creek Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Soil erodibility index map, Black Creek Watershed, Franklin and Lamoille Counties, Vermont",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82693221",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

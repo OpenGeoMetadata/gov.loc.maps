@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Milwaukee and Horicon Railroad; Vliet, Jasper",
+    "Description derived from published bibliography.",
+    "Entered according to an act of Congress in the District of Wisconsin in the year of 1857 by Jos. Hamilton.",
+    "LC Railroad maps, 463",
+    "Map of Wisconsin and parts of adjacent states showing drainage, state boundaries, township lines, cities, and towns.",
+    "Publication statement: N[ew] Y[ork], 1857.",
+    "Scale ca. 1:1,400,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4121p.rr004630",
+    "http://lccn.loc.gov/98688714",
+    "http://www.loc.gov/item/98688714/",
+    "http://www.loc.gov/resource/g4121p.rr004630/",
+    "https://hdl.loc.gov/loc.gmd/g4121p.rr004630",
+    "https://search.catalog.loc.gov/instances/ef38dc50-69a1-5c36-9ebe-2f42e7167699",
+    "https://www.loc.gov/item/98688714/"
+  ],
+  "dct_issued_s": "1857",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4121/g4121p/rr004630.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688714/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "Milwaukee and Horicon Railroad",
+    "Railroads--Wisconsin--Maps",
+    "United States--Wisconsin"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_title_s": "Township map of Wisconsin showing The Milwaukee & Horicon Rail Road and its connections",
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1857
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688714",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

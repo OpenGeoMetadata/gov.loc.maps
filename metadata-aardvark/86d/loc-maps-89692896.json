@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1989--242-345/00074. Reprint 1989.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Covers Manhattan and adjacent districts.",
+    "Covers Manhattan and adjacent districts. \"*GPO: 1989--242-345/00074. Reprint 1989.\" Panel title. Includes descriptive index of federal historic sites and col. ill. Text, metropolitan area map with index of federal parks and historic sites, partial aerial view of lower Manhattan, and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Includes descriptive index of federal historic sites and col. ill.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1989]",
+    "Text, metropolitan area map with index of federal parks and historic sites, partial aerial view of lower Manhattan, and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct006638",
+    "http://lccn.loc.gov/89692896",
+    "http://www.loc.gov/item/89692896/",
+    "http://www.loc.gov/resource/g3804n.ct006638/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct006638",
+    "https://search.catalog.loc.gov/instances/0b3b6c27-23b3-5e80-b053-3ee0181b3dc0",
+    "https://www.loc.gov/item/89692896/"
+  ],
+  "dct_issued_s": "1989",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct006638.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89692896/\"}",
+  "dct_spatial_sm": [
+    "manhattan",
+    "new york",
+    "new york (state)",
+    "new york metropolitan area",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Historic sites--New York (State)--New York--Maps",
+    "Historic sites--New York Metropolitan Area--Maps",
+    "Manhattan (New York, N.Y.)--Maps",
+    "National parks and reserves--New York (State)--New York--Maps",
+    "National parks and reserves--New York Metropolitan Area--Maps",
+    "United States--New York (State)--New York",
+    "United States--New York (State)--New York Metropolitan Area",
+    "United States--New York (State)--New York--Manhattan"
+  ],
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "dct_title_s": "National parks in greater New York City",
+  "gbl_dateRange_drsim": [
+    "[1989 TO 1989]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1989
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89692896",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "Includes index to points of interest and inset of \"District of Columbia.\"",
+    "Includes index to points of interest and inset of \"District of Columbia.\" Available also through the Library of Congress Web site as a raster image. LC copy soiled, trimmed, annotated \"1880\" in pencil, and mounted on cloth backing. DCP",
+    "LC copy soiled, trimmed, annotated \"1880\" in pencil, and mounted on cloth backing.",
+    "Publication statement: [Washington, D.C.? : s.n., 1880?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004404",
+    "http://lccn.loc.gov/91686244",
+    "http://www.loc.gov/item/91686244/",
+    "http://www.loc.gov/resource/g3850.ct004404/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004404",
+    "https://search.catalog.loc.gov/instances/50781a4d-b687-5093-9522-d01ff8d7999c",
+    "https://www.loc.gov/item/91686244/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004404.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91686244/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1880",
+    "[Washington, D.C.? : s.n., 1880?]"
+  ],
+  "dct_title_s": "Map of the city of Washington",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91686244",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

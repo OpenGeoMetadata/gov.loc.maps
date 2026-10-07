@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [S.l.], 1929.",
+    "[Drawn by] Black.",
+    "[Drawn by] Black. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4262y.ye000019",
+    "http://lccn.loc.gov/97683583",
+    "http://www.loc.gov/item/97683583/",
+    "http://www.loc.gov/resource/g4262y.ye000019/",
+    "https://hdl.loc.gov/loc.gmd/g4262y.ye000019",
+    "https://search.catalog.loc.gov/instances/1e17fd6e-13f9-5610-ba2f-acbcb0e3eb1b",
+    "https://www.loc.gov/item/97683583/"
+  ],
+  "dct_issued_s": "1929",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd426/g4262/g4262y/ye000019.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97683583/\"}",
+  "dct_spatial_sm": [
+    "grand teton national park",
+    "united states",
+    "wyoming",
+    "yellowstone national park"
+  ],
+  "dct_subject_sm": [
+    "Parks",
+    "United States--Wyoming--Grand Teton National Park",
+    "United States--Wyoming--Yellowstone National Park"
+  ],
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "dct_title_s": "Boundaries of Yellowstone National Park as revised by act dated March 1, 1929, also the Grand Teton National Park as established by act dated Feb. 26, 1929",
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1929]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1929
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97683583",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

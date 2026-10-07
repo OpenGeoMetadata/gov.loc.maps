@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"503603 1-78.\"",
+    "\"503603 1-78.\" Oriented with north toward the upper right. Relief shown by gradient tints and spot heights. Scale not given. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Oriented with north toward the upper right.",
+    "Publication statement: [Washington : Central Intelligence Agency, 1978]",
+    "Relief shown by gradient tints and spot heights.",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6911c.ct002950",
+    "http://lccn.loc.gov/80693401",
+    "http://www.loc.gov/item/80693401/",
+    "http://www.loc.gov/resource/g6911c.ct002950/",
+    "https://hdl.loc.gov/loc.gmd/g6911c.ct002950",
+    "https://search.catalog.loc.gov/instances/8573f185-f87c-5d8d-b824-33ff089ac8fc",
+    "https://www.loc.gov/item/80693401/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6911/g6911c/ct002950.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80693401/\"}",
+  "dct_spatial_sm": [
+    "europe, northern",
+    "northern europe"
+  ],
+  "dct_subject_sm": [
+    "Europe, Northern",
+    "Europe, Northern--Maps, Physical"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Elevations : [northern Europe]",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80693401",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

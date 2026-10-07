@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: United States. National Park Service",
+    "Description derived from published bibliography.",
+    "Descriptive leaflet illustrated with the following two maps: [a] Vicksburg National Military Park, Mississippi. Colored. Scale ca. 1:14,400. 11 x 22 cm. (Shows names of commander roads, railroad, and tour route.) [b] The Vicksburg campaign. Aug. 1962. Colored. Scale ca. 1:2,350,000. 40 x 23 cm. (Map of the Mississippi River from Memphis to the Gulf of Mexico showing drainage, railroads, and towns.)",
+    "Descriptive leaflet illustrated with the following two maps: [a] Vicksburg National Military Park, Mississippi. Colored. Scale ca. 1:14,400. 11 x 22 cm. (Shows names of commander roads, railroad, and tour route.) [b] The Vicksburg campaign. Aug. 1962. Colored. Scale ca. 1:2,350,000. 40 x 23 cm. (Map of the Mississippi River from Memphis to the Gulf of Mexico showing drainage, railroads, and towns.) Description derived from published bibliography. Various scales. LC Civil War Maps (2nd ed.), 291.4 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 291.4",
+    "Publication statement: [Washington], Government Printing Office, 1963.",
+    "Various scales."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3984v.cw0291400",
+    "http://lccn.loc.gov/99447432",
+    "http://www.loc.gov/item/99447432/",
+    "http://www.loc.gov/resource/g3984v.cw0291400/",
+    "https://hdl.loc.gov/loc.gmd/g3984v.cw0291400",
+    "https://search.catalog.loc.gov/instances/83cec04d-7d7f-5b60-9803-85c14f86b5bd",
+    "https://www.loc.gov/item/99447432/"
+  ],
+  "dct_issued_s": "1965",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3984/g3984v/cw0291400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447432/\"}",
+  "dct_spatial_sm": [
+    "mississippi",
+    "united states",
+    "vicksburg national military park"
+  ],
+  "dct_subject_sm": [
+    "United States--Mississippi--Vicksburg National Military Park",
+    "Vicksburg National Military Park (Miss.)"
+  ],
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "dct_title_s": "Vicksburg National Military Park, Mississippi",
+  "gbl_dateRange_drsim": [
+    "[1965 TO 1965]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1965
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447432",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

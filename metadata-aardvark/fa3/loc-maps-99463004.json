@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Title in margin: West Virginia",
+    "West Virginia"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Post Office Department",
+    "Includes index to counties and inset.",
+    "Includes index to counties and inset. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Washington, D.C. : The Department, [1920]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/99463004",
+    "http://www.loc.gov/item/99463004/",
+    "http://www.loc.gov/resource/g3891p.ct009456/",
+    "https://hdl.loc.gov/loc.gmd/g3891p.ct009456",
+    "https://search.catalog.loc.gov/instances/8baf003c-b2bf-56cd-8eef-bd4fbac88c30",
+    "https://www.loc.gov/item/99463004/"
+  ],
+  "dct_issued_s": "1920",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3891/g3891p/ct009456.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99463004/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Postal service--West Virginia--Maps",
+    "United States--West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dct_title_s": "Post route map of the state of West Virginia : showing post offices with the intermediate distances on mail routes in operation on the 1st of July 1920",
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1920
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99463004",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

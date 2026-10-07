@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing lot lines, lot numbers, and block numbers.",
+    "Cadastral map showing lot lines, lot numbers, and block numbers. Relief shown by contours and spot heights. Pen-and-ink and pencil. Title from 1872 printed ed. Sheets numbered: III, IV, etc. Available also through the Library of Congress Web site as a raster image. LC sheets brittle. LC lacks sheets I and II. Vault DCP",
+    "Contributors: Bastert, A.; Enthoffer, J. (Joseph), 1818-1901",
+    "DCP",
+    "LC sheets brittle. LC lacks sheets I and II.",
+    "Pen-and-ink and pencil.",
+    "Publication statement: [1872?]",
+    "Relief shown by contours and spot heights.",
+    "Sheets numbered: III, IV, etc.",
+    "Title from 1872 printed ed.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850m.gct00377",
+    "http://lccn.loc.gov/87693300",
+    "http://www.loc.gov/item/87693300/",
+    "http://www.loc.gov/resource/g3850m.gct00377/",
+    "https://hdl.loc.gov/loc.gmd/g3850m.gct00377",
+    "https://search.catalog.loc.gov/instances/db0102c7-a50a-5b7d-96c7-bb8e4d0d70ad",
+    "https://www.loc.gov/item/87693300/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385m/g3850m/g3850m/gct00377/cs000003.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87693300/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1872",
+    "[1872?]"
+  ],
+  "dct_title_s": "[Map of the city of Washington : showing the sub-divisions, grades, and the general configuration of the ground",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-87693300",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Database for the geologic map of the Katmai Cluster, Katmai National Park, Alaska"
+  ],
+  "dct_description_sm": [
+    "Accompanied by pamphlet (43 p.).",
+    "Also available on the Internet from the USGS web site. Address as of 5/13/08: http://pubs.usgs.gov/imap/i2778/; current access via PURL.",
+    "Contributors: Fierstein, Judy.; Geological Survey (U.S.); Hildreth, Wes.",
+    "Includes bibliographical references in pamphlet (p. 38-43).",
+    "Includes text, col. ill., and location map.",
+    "Publication statement: Reston, Va. : U.S. Geological Survey, 2003.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. System requirements for accompanying CD-ROM: Intel Pentium or equivalent processor; 64 MB RAM; Microsoft Windows 95 OSR 2.0, Windows 98 SE, Windows, Millennium, Windows NT 4.0 with Service Pack 5, Windows 2000, or Windows XP; CD-ROM drive or better; printers must have 4 MB RM. Macintosh: PowerPC processor; Mac OS software version 8.6, 9.0.4, 9.1, 9.2, or OS X; 64 MB of RAM; CD-ROM drive. Accompanied by pamphlet (43 p.). Includes text, col. ill., and location map. Includes bibliographical references in pamphlet (p. 38-43). Also available on the Internet from the USGS web site. Address as of 5/13/08: http://pubs.usgs.gov/imap/i2778/; current access via PURL.",
+    "System requirements for accompanying CD-ROM: Intel Pentium or equivalent processor; 64 MB RAM; Microsoft Windows 95 OSR 2.0, Windows 98 SE, Windows, Millennium, Windows NT 4.0 with Service Pack 5, Windows 2000, or Windows XP; CD-ROM drive or better; printers must have 4 MB RM. Macintosh: PowerPC processor; Mac OS software version 8.6, 9.0.4, 9.1, 9.2, or OS X; 64 MB of RAM; CD-ROM drive."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2010586930",
+    "http://purl.access.gpo.gov/GPO/LPS94196",
+    "http://www.loc.gov/item/2010586930/",
+    "https://www.loc.gov/item/2010586930/"
+  ],
+  "dct_issued_s": "2003",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2010586930/\"}",
+  "dct_spatial_sm": [
+    "alaska",
+    "katmai national park",
+    "preserve"
+  ],
+  "dct_subject_sm": [
+    "Geology--Alaska--Katmai National Park and Preserve--Maps",
+    "Volcanoes--Alaska--Katmai National Park and Preserve--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_title_s": "Geologic map of the Katmai Volcanic Cluster, Katmai National Park, Alaska",
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010586930",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chicago Lithographing Co; Ruger, A.",
+    "Includes illus. and index to points of interest.",
+    "Includes illus. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1036 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 710/1",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1036",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Chicago, Chicago Lithographing Co. [1867]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4124l.pm010360",
+    "http://lccn.loc.gov/73694545",
+    "http://www.loc.gov/item/73694545/",
+    "http://www.loc.gov/resource/g4124l.pm010360/",
+    "https://hdl.loc.gov/loc.gmd/g4124l.pm010360",
+    "https://search.catalog.loc.gov/instances/261ed866-22e3-5fb4-b90e-55e9a24b35cf",
+    "https://www.loc.gov/item/73694545/"
+  ],
+  "dct_issued_s": "1867",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4124/g4124l/pm010360.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73694545/\"}",
+  "dct_spatial_sm": [
+    "la crosse",
+    "united states",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "La Crosse (Wis.)",
+    "United States--Wisconsin--La Crosse"
+  ],
+  "dct_temporal_sm": [
+    "1867"
+  ],
+  "dct_title_s": "Birds eye view of the city of La Crosse, Wisconsin 1867",
+  "gbl_dateRange_drsim": [
+    "[1867 TO 1867]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1867
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73694545",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

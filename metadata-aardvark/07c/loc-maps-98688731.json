@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: New York and Erie Railroad Company; Wright, Benjamin, 1770-1842",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 481",
+    "Publication statement: N[ew] Y[ork, 1834]",
+    "Scale ca. 1:500,000.",
+    "Shows New York state from Westchester County to Lake Erie, and part of northern Pennsylvania and New Jersey. The line was chartered on April 24, 1832. See entry 404."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3801p.rr004810",
+    "http://lccn.loc.gov/98688731",
+    "http://www.loc.gov/item/98688731/",
+    "http://www.loc.gov/resource/g3801p.rr004810/",
+    "https://hdl.loc.gov/loc.gmd/g3801p.rr004810",
+    "https://search.catalog.loc.gov/instances/0ee93650-6dea-5b0e-bd0f-7290d50f57d0",
+    "https://www.loc.gov/item/98688731/"
+  ],
+  "dct_issued_s": "1834",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3801/g3801p/rr004810.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688731/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New York and Erie Railroad Company--Maps",
+    "Railroads--New York (State)--Maps",
+    "Railroads--Pennsylvania--Maps",
+    "United States--New York (State)",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1834"
+  ],
+  "dct_title_s": "Map of the route of the proposed New York & Erie Railroad, as surveyed in 1834, reduced from the plans as returned by Benjn. Wright, Civil Engineer, D. R. Harrison, sc",
+  "gbl_dateRange_drsim": [
+    "[1834 TO 1834]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1834
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688731",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

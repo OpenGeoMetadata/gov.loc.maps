@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "ECAI Iraq home page",
+    "Electronic Cultural Atlas Initiative Iraq"
+  ],
+  "dct_description_sm": [
+    "Began in 2003.",
+    "Contributors: Electronic Cultural Atlas Initiative.",
+    "ECAI Iraq is a temporal-spatial portal into existing digital resources about history, cultural sites, archaeological excavations, and heritage preservation initiatives. Users can access these information sources using interactive, time-enabled thematic maps. The data, that can be displayed for the Iraqi and Mesopotamian material culture, is found on hundreds of web sites around the world. ECAI Iraq catalogs this material in a dynamic database and provides retrieval of information from these distant servers. Owners of these resources retain control of their content and the ability to update it at any time.",
+    "Includes bibliographical references.",
+    "Mode of access: World Wide Web.",
+    "Publication statement: [Berkeley, Calif.] : Electronic Cultural Atlas Initiative",
+    "Title from Web page (viewed June 9, 2005)."
+  ],
+  "dct_identifier_sm": [
+    "http://ecai.org/iraq/",
+    "http://lccn.loc.gov/2005630455",
+    "http://www.loc.gov/item/2005630455/",
+    "https://www.loc.gov/item/2005630455/"
+  ],
+  "dct_issued_s": "2003",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2005630455/\"}",
+  "dct_spatial_sm": [
+    "iraq"
+  ],
+  "dct_subject_sm": [
+    "Cultural property--Iraq--Maps",
+    "Excavations (Archaeology)--Iraq--Maps",
+    "Historic sites--Iraq--Maps",
+    "Internet resource--Maps",
+    "Iraq--Antiquities--Maps",
+    "Iraq--Civilization--Maps",
+    "Iraq--Historical geography--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_title_s": "ECAI Iraq",
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005630455",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

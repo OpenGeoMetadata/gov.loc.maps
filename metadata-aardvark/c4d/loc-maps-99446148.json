@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Southern Railway (U.S.)",
+    "Publication statement: [S.l.], 1917.",
+    "Tourist information and illus. on both sides.",
+    "Tourist information and illus. on both sides. Available also through the Library of Congress web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3901e.np000168",
+    "http://hdl.loc.gov/loc.gmd/g3901e.np000169",
+    "http://hdl.loc.gov/loc.gmd/g3901e.np000170",
+    "http://lccn.loc.gov/99446148",
+    "http://www.loc.gov/item/99446148/",
+    "http://www.loc.gov/resource/g3901e.np000168/",
+    "http://www.loc.gov/resource/g3901e.np000169/",
+    "http://www.loc.gov/resource/g3901e.np000170/",
+    "https://hdl.loc.gov/loc.gmd/g3901e.np000168",
+    "https://hdl.loc.gov/loc.gmd/g3901e.np000169",
+    "https://hdl.loc.gov/loc.gmd/g3901e.np000170",
+    "https://search.catalog.loc.gov/instances/1908f7c0-e4ed-5ad5-93e8-c34473e4def9",
+    "https://www.loc.gov/item/99446148/"
+  ],
+  "dct_issued_s": "1917",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3901/g3901e/np000168.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446148/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "North Carolina--Maps",
+    "Outdoor recreation--North Carolina--Maps",
+    "United States--North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "dct_title_s": "Land of the sky : [North Carolina]",
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1917]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1917
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446148",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

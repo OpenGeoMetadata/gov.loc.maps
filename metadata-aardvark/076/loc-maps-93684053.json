@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"November 1992 1006868-01.\"",
+    "\"November 1992 1006868-01.\" Includes location map and source material note. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartography and Geographic Information Systems Center (U.S.); United States. Soil Conservation Service",
+    "Includes location map and source material note.",
+    "Publication statement: Ft. Worth, TX. : USDA-SCS-National Cartography & Geographic Information Systems Center ; [Nashville : State Conservationist, distributor], 1993."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/93684053",
+    "http://www.loc.gov/item/93684053/",
+    "http://www.loc.gov/resource/g3962c.ct010549/",
+    "https://hdl.loc.gov/loc.gmd/g3962c.ct010549",
+    "https://search.catalog.loc.gov/instances/27ede9b3-ee13-5d4b-acad-199d33b60497",
+    "https://www.loc.gov/item/93684053/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3962/g3962c/ct010549.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93684053/\"}",
+  "dct_spatial_sm": [
+    "clinch river watershed",
+    "powell river watershed",
+    "tennessee",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Clinch River Watershed (Va. and Tenn.)--Maps",
+    "Powell River Watershed (Va. and Tenn.)--Maps",
+    "United States--Tennessee--Clinch River Watershed",
+    "United States--Tennessee--Powell River Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Clinch-Powell rivers basin, Tennessee portion : Anderson, Campbell, Claiborne, Grainger, Hancock, Hawkins, and Union counties, Tennessee",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93684053",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

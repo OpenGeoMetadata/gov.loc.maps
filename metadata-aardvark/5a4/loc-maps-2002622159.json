@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2001-24",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hondius, Jodocus, 1563-1612",
+    "Includes text, 2 ancillary celestial hemispheres, and ill.",
+    "Publication statement: [Amsterdam? : s.n.], 1655.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Includes text, 2 ancillary celestial hemispheres, and ill. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 2001-24"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct007028",
+    "http://lccn.loc.gov/2002622159",
+    "http://www.loc.gov/item/2002622159/",
+    "http://www.loc.gov/resource/g3200.ct007028/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct007028",
+    "https://search.catalog.loc.gov/instances/c21794ad-f0b8-5eaa-9895-ee75d37a980b",
+    "https://www.loc.gov/item/2002622159/"
+  ],
+  "dct_issued_s": "1655",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct007028.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002622159/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)",
+    "World maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1655"
+  ],
+  "dct_title_s": "Nova totius terrarum orbis geographica ac hydrographica tabula",
+  "gbl_dateRange_drsim": [
+    "[1655 TO 1655]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1655
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002622159",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

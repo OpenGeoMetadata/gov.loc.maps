@@ -1,0 +1,81 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Compiled from USGS 1:24,000-scale topographic maps dated 1965. Revised from aerial photographs taken 1978. Field checked 1980. Map edited 1981.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); United States. National Park Service",
+    "DRM",
+    "Facsim. maps on verso: Colonial National Monument, Yorktown Battlefield, Virginia / Department of the Interior, U.S. Geological Survey [scale 1:10,000, 1931] -- The siege map of Yorktown / drawn in October 1781 by the American artillery officer Major Sebastian Baumann.",
+    "Includes notes, inset, location map, and col. ill.",
+    "Publication statement: Reston, Va. : Interior--Geological Survey, 1981.",
+    "Relief shown by contours and spot heights. Depths shown by contours and soundings.",
+    "Relief shown by contours and spot heights. Depths shown by contours and soundings. Title from panel. Title in right lower margin: Colonial National Historical Park, Virginia : 37076-B5-PF-025 : 1981. \"Compiled from USGS 1:24,000-scale topographic maps dated 1965. Revised from aerial photographs taken 1978. Field checked 1980. Map edited 1981.\" UTM grid. Includes notes, inset, location map, and col. ill. Text and col. ill. on verso. Facsim. maps on verso: Colonial National Monument, Yorktown Battlefield, Virginia / Department of the Interior, U.S. Geological Survey [scale 1:10,000, 1931] -- The siege map of Yorktown / drawn in October 1781 by the American artillery officer Major Sebastian Baumann. Available also through the Library of Congress Web site as a raster image. DRM",
+    "Text and col. ill. on verso.",
+    "Title from panel.",
+    "Title in right lower margin: Colonial National Historical Park, Virginia : 37076-B5-PF-025 : 1981.",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882c.ct009039r",
+    "http://hdl.loc.gov/loc.gmd/g3882c.ct009039v",
+    "http://lccn.loc.gov/82690865",
+    "http://www.loc.gov/item/82690865/",
+    "http://www.loc.gov/resource/g3882c.ct009039r/",
+    "http://www.loc.gov/resource/g3882c.ct009039v/",
+    "https://hdl.loc.gov/loc.gmd/g3882c.ct009039r",
+    "https://hdl.loc.gov/loc.gmd/g3882c.ct009039v",
+    "https://search.catalog.loc.gov/instances/c9e68590-596d-5e59-afcc-d8613c6bf440",
+    "https://www.loc.gov/item/82690865/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882c/ct009039r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82690865/\"}",
+  "dct_spatial_sm": [
+    "colonial national historical park",
+    "jamestown",
+    "united states",
+    "virginia",
+    "williamsburg",
+    "yorktown"
+  ],
+  "dct_subject_sm": [
+    "Colonial National Historical Park (Va.)--Maps",
+    "Jamestown (Va.)--Maps",
+    "Maps--Facsimiles",
+    "United States--Virginia--Colonial National Historical Park",
+    "United States--Virginia--Jamestown",
+    "United States--Virginia--Williamsburg",
+    "United States--Virginia--Yorktown",
+    "Williamsburg (Va.)--Maps",
+    "Yorktown (Va.)--History--Siege, 1781--Maps",
+    "Yorktown (Va.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "1:25 000-scale topographic map of Colonial National Historical Park, Virginia : including Jamestown, Yorktown, Williamsburg",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-82690865",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

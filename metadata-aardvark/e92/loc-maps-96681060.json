@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"801898 (E00442) 12-95.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1995]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. \"801898 (E00442) 12-95.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7580.ct001693",
+    "http://lccn.loc.gov/96681060",
+    "http://www.loc.gov/item/96681060/",
+    "http://www.loc.gov/resource/g7580.ct001693/",
+    "https://hdl.loc.gov/loc.gmd/g7580.ct001693",
+    "https://search.catalog.loc.gov/instances/66d9ff3c-d70a-5195-abe4-5617a8d1c2dd",
+    "https://www.loc.gov/item/96681060/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7580/g7580/ct001693.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96681060/\"}",
+  "dct_spatial_sm": [
+    "qatar"
+  ],
+  "dct_subject_sm": [
+    "Qatar",
+    "Qatar--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Qatar",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96681060",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

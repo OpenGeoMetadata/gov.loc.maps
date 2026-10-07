@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802932AI (C00485) 3-03.\"",
+    "\"Base 802932AI (C00485) 3-03.\" Includes index to administrative regions of Zanzibar. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes index to administrative regions of Zanzibar.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2003]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8440.ct001057",
+    "http://lccn.loc.gov/2003624080",
+    "http://www.loc.gov/item/2003624080/",
+    "http://www.loc.gov/resource/g8440.ct001057/",
+    "https://hdl.loc.gov/loc.gmd/g8440.ct001057",
+    "https://search.catalog.loc.gov/instances/fbbc7344-2486-500d-a89a-b78bbed9c1b1",
+    "https://www.loc.gov/item/2003624080/"
+  ],
+  "dct_issued_s": "2003",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8440/g8440/ct001057.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003624080/\"}",
+  "dct_spatial_sm": [
+    "tanzania"
+  ],
+  "dct_subject_sm": [
+    "Tanzania",
+    "Tanzania--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_title_s": "Tanzania",
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003624080",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

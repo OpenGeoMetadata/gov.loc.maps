@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hancock, John, 1737-1793; Romans, Bernard, 1741?-approximately 1784",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Indexed for points of interest. Insets with indexes: Plan of Boston and its environs, 1775.--A view of the lines thrown up on Boston Neck; by the ministerial army. Scale ca. 1:320,000. LC Maps of North America, 1750-1789, 880 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Indexed for points of interest.",
+    "Insets with indexes: Plan of Boston and its environs, 1775.--A view of the lines thrown up on Boston Neck; by the ministerial army.",
+    "LC Maps of North America, 1750-1789, 880",
+    "Publication statement: [n.p., 1775]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:320,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3760.ar088000",
+    "http://lccn.loc.gov/gm71002459",
+    "http://www.loc.gov/item/gm71002459/",
+    "http://www.loc.gov/resource/g3760.ar088000/",
+    "https://hdl.loc.gov/loc.gmd/g3760.ar088000",
+    "https://search.catalog.loc.gov/instances/6a6a674c-9fa2-5aab-bb46-e46d0c3a0b3b",
+    "https://www.loc.gov/item/gm71002459/"
+  ],
+  "dct_issued_s": "1775",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3760/g3760/ar088000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002459/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Massachusetts--Administrative and political divisions--Maps--Early works to 1800",
+    "Massachusetts--History--Revolution, 1775-1783--Maps--Early works to 1800",
+    "Massachusetts--Maps--Early works to 1800",
+    "United States--Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_title_s": "To the Hone. Jno. Hancock, Esqre. president of ye Continental Congress, this map of the seat of civil war in America, is respectfully inscribed by his most obedient humble servant, B. Romans",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002459",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

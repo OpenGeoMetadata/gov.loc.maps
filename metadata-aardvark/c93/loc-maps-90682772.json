@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Indexed.",
+    "LC Luso-Hispanic World, 283",
+    "Maggs number annotated in pencil in lower right margin: 164.",
+    "Mounted on cloth backing.",
+    "Oriented with north toward the upper left.",
+    "Pen-and-ink.",
+    "Prime meridian: Tenerife.",
+    "Publication statement: [ca. 1725]",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Shows coast of Colombia in the region of Cartagena.",
+    "Shows coast of Colombia in the region of Cartagena. Relief shown pictorially. Depths shown by soundings. Prime meridian: Tenerife. Oriented with north toward the upper left. Watermark: Strasburg fleur-de-lis over the characters VDL. Watermark dated ca. 1725. Pen-and-ink. Mounted on cloth backing. Indexed. Maggs number annotated in pencil in lower right margin: 164. LC Luso-Hispanic World, 283 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermark: Strasburg fleur-de-lis over the characters VDL. Watermark dated ca. 1725."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5294c.lh000283",
+    "http://lccn.loc.gov/90682772",
+    "http://www.loc.gov/item/90682772/",
+    "http://www.loc.gov/resource/g5294c.lh000283/",
+    "https://hdl.loc.gov/loc.gmd/g5294c.lh000283",
+    "https://search.catalog.loc.gov/instances/1798e779-26e4-5933-aef2-da201deaffb7",
+    "https://www.loc.gov/item/90682772/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5294/g5294c/lh000283.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90682772/\"}",
+  "dct_spatial_sm": [
+    "atlantic coast",
+    "cartagena region",
+    "colombia"
+  ],
+  "dct_subject_sm": [
+    "Atlantic Coast (Colombia)--Maps, Manuscript--Early works to 1800",
+    "Cartagena Region (Colombia)--Maps, Manuscript--Early works to 1800",
+    "Coasts--Colombia--Cartagena Region--Maps--Early works to 1800",
+    "Colombia--Atlantic Coast",
+    "Colombia--Cartagena Region",
+    "Manuscript maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1725",
+    "[ca. 1725]"
+  ],
+  "dct_title_s": "Plano del puerto de Cartaxena de Yndias situado en la latd. N. 10. gros. 30. mins. y en la longd. 300. gros. 45. mins. segn. el merido. de Tenerife",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90682772",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

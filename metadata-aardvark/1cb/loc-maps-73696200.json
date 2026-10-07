@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes chart of \"Federal recreation symbols,\" table of recreation facilities, key map, text, and col. illus.",
+    "Includes chart of \"Federal recreation symbols,\" table of recreation facilities, key map, text, and col. illus. Text and col. illus. on verso. Scale ca. 1:125,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: [Atlanta] 1972.",
+    "Scale ca. 1:125,000.",
+    "Text and col. illus. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/73696200",
+    "http://www.loc.gov/item/73696200/",
+    "http://www.loc.gov/resource/g3932o.ct010318/",
+    "https://hdl.loc.gov/loc.gmd/g3932o.ct010318",
+    "https://search.catalog.loc.gov/instances/221704ca-a236-5ab5-a8c9-7765ac7b49dc",
+    "https://www.loc.gov/item/73696200/"
+  ],
+  "dct_issued_s": "1972",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3932/g3932o/ct010318.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73696200/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "ocala national forest",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ocala National Forest (Fla.)--Maps",
+    "Outdoor recreation--Florida--Ocala National Forest--Maps",
+    "United States--Florida--Ocala National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "dct_title_s": "Ocala National Forest, Florida",
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1972]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73696200",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

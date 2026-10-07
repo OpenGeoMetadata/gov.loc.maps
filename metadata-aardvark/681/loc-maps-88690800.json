@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Map edited 1978.\"",
+    "Alternate title in right lower margin: Berks Co., Pa. : 1978.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); Pennsylvania. Bureau of Topographic and Geologic Survey",
+    "In upper margin: United States, Department of the Interior, Geological Survey; Commonwealth of Pennsylvania, Department of Environmental Resources, Topographic and Geologic Survey.",
+    "Includes notes, index to 1:24,000-scale maps, and location map.",
+    "Pa. coordinate and UTM grids.",
+    "Publication statement: Reston, Va. : Interior--Geological Survey, 1978.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Alternate title in right lower margin: Berks Co., Pa. : 1978. \"Map edited 1978.\" In upper margin: United States, Department of the Interior, Geological Survey; Commonwealth of Pennsylvania, Department of Environmental Resources, Topographic and Geologic Survey. Pa. coordinate and UTM grids. Includes notes, index to 1:24,000-scale maps, and location map. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823b.ct008161",
+    "http://lccn.loc.gov/88690800",
+    "http://www.loc.gov/item/88690800/",
+    "http://www.loc.gov/resource/g3823b.ct008161/",
+    "https://hdl.loc.gov/loc.gmd/g3823b.ct008161",
+    "https://search.catalog.loc.gov/instances/db8ac7a1-5f0a-51d8-a8f2-64a87d9dacac",
+    "https://www.loc.gov/item/88690800/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823b/ct008161.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690800/\"}",
+  "dct_spatial_sm": [
+    "berks county",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Berks County (Pa.)--Maps",
+    "United States--Pennsylvania--Berks County"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Berks County, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-88690800",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

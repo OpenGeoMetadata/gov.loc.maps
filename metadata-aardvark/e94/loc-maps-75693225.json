@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Griswold, B. J. (Bert Joseph), 1873-1927; Hixon, W. W.",
+    "Includes index to points of interest and text.",
+    "Includes index to points of interest and text. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 195 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 195",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Rockford, Ill., W. W. Hixon, 1907."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4094f.pm001950",
+    "http://lccn.loc.gov/75693225",
+    "http://www.loc.gov/item/75693225/",
+    "http://www.loc.gov/resource/g4094f.pm001950/",
+    "https://hdl.loc.gov/loc.gmd/g4094f.pm001950",
+    "https://search.catalog.loc.gov/instances/53c8a639-41dc-5c6c-a9d2-cb10dfa510e9",
+    "https://www.loc.gov/item/75693225/"
+  ],
+  "dct_issued_s": "1907",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409/g4094/g4094f/pm001950.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693225/\"}",
+  "dct_spatial_sm": [
+    "fort wayne",
+    "indiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Wayne (Ind.)--Maps",
+    "United States--Indiana--Fort Wayne"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dct_title_s": "Griswold's birdseye view of the city of Fort Wayne, Indiana indexed for ready reference",
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693225",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

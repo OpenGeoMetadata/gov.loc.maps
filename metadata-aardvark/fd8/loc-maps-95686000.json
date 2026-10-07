@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from U.S.G.S. quadrangle sheets and Alabama [i.e. South Carolina] County general highway map.\"",
+    "\"March 1980 Base 4-R-37399.\"",
+    "\"March 1980 Base 4-R-37399.\" \"Base compiled from U.S.G.S. quadrangle sheets and Alabama [i.e. South Carolina] County general highway map.\" Includes notes and location map. Text on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: South Carolina Land Resources Conservation Commission; United States. Soil Conservation Service",
+    "Includes notes and location map.",
+    "Publication statement: Columbia, S.C. : The Service, [1980]",
+    "Text on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95686000",
+    "http://www.loc.gov/item/95686000/",
+    "http://www.loc.gov/resource/g3913j.ct009922/",
+    "https://hdl.loc.gov/loc.gmd/g3913j.ct009922",
+    "https://search.catalog.loc.gov/instances/c00bbfdc-7181-5d86-b951-57f86605089f",
+    "https://www.loc.gov/item/95686000/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3913/g3913j/ct009922.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95686000/\"}",
+  "dct_spatial_sm": [
+    "jasper county",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Agricultural resources--South Carolina--Jasper County--Maps",
+    "Land capability for agriculture--South Carolina--Jasper County--Maps",
+    "Soil productivity--South Carolina--Jasper County--Maps",
+    "United States--South Carolina--Jasper County"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Important farmlands map, Jasper County, South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95686000",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

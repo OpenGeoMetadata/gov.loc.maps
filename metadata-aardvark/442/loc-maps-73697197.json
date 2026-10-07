@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: López, Juan, 1765-1825",
+    "Depths shown by soundings.",
+    "Depths shown by soundings. Includes compilation information and inset \"Plan del puerto de la Providencia.\" Scale ca. 1:1,450,000. LC Maps of North America, 1750-1789, 1750 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Includes compilation information and inset \"Plan del puerto de la Providencia.\"",
+    "LC Maps of North America, 1750-1789, 1750",
+    "Publication statement: Madrid, 1782.",
+    "Scale ca. 1:1,450,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4980.ar175000",
+    "http://lccn.loc.gov/73697197",
+    "http://www.loc.gov/item/73697197/",
+    "http://www.loc.gov/resource/g4980.ar175000/",
+    "https://hdl.loc.gov/loc.gmd/g4980.ar175000",
+    "https://search.catalog.loc.gov/instances/9706f2d7-012b-582a-8841-8cd8ad7446a5",
+    "https://www.loc.gov/item/73697197/"
+  ],
+  "dct_issued_s": "1782",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4980/g4980/ar175000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73697197/\"}",
+  "dct_spatial_sm": [
+    "bahamas"
+  ],
+  "dct_subject_sm": [
+    "Bahamas",
+    "Bahamas--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1782"
+  ],
+  "dct_title_s": "Carta reducida de las islas Lucayas, ò de los Lucayos",
+  "gbl_dateRange_drsim": [
+    "[1782 TO 1782]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1782
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73697197",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

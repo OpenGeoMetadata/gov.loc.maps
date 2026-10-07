@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Harris-Seybold Company; Henry, Everett",
+    "Includes notes, col. ill. in map area, additional col. ill. in 6 shield-shaped cartouches, and panoramic col. ill. of \"The Royal Archery Contest at Finsbury Fields\" at top.",
+    "Pictorial folkloric map showing various legendary adventures of Robin Hood who was possibly a real person born ca. 1160.",
+    "Pictorial folkloric map showing various legendary adventures of Robin Hood who was possibly a real person born ca. 1160. Includes notes, col. ill. in map area, additional col. ill. in 6 shield-shaped cartouches, and panoramic col. ill. of \"The Royal Archery Contest at Finsbury Fields\" at top. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Cleveland : Harris-Seybold Company, c1955."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/98689399",
+    "http://www.loc.gov/item/98689399/",
+    "http://www.loc.gov/resource/g5752s.ct003531/",
+    "https://hdl.loc.gov/loc.gmd/g5752s.ct003531",
+    "https://search.catalog.loc.gov/instances/428f3323-b5f8-5c38-a41f-d62bd0e72862",
+    "https://www.loc.gov/item/98689399/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5752/g5752s/ct003531.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98689399/\"}",
+  "dct_spatial_sm": [
+    "england",
+    "sherwood forest"
+  ],
+  "dct_subject_sm": [
+    "England--Sherwood Forest",
+    "Folklore--England--Sherwood Forest--Maps",
+    "Robin Hood--(Legendary character)--Maps",
+    "Sherwood Forest (England)--Maps, Pictorial"
+  ],
+  "dct_temporal_sm": [
+    "1190 d1199"
+  ],
+  "dct_title_s": "Here took place the adventures of Robin Hood and his merry men : from tales of Sherwood Forest",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98689399",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

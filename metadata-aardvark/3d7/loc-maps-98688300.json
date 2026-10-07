@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lay, Amos, 1765-1851",
+    "Description derived from published bibliography.",
+    "Detailed map of the eastern United States to about the 97th Meridian. Shows drainage, relief by hachures, state and county boundaries, cities, towns and villages, canals, roads, and railroads in operation and proposed lines. Railroads are shown in New York, Massachusetts, New Jersey, Pennsylvania, Maryland, Virginia, Kentucky, South Carolina, and a very small part of North Carolina from Rock Island to the northern boundary.",
+    "Inset: Florida. 17 x 15 cm.",
+    "LC Railroad maps, 2",
+    "Publication statement: London, 1834.",
+    "Scale ca. 1:1,500,000.",
+    "Title &c designed & engraved by Thos. Starling, London."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.rr000020",
+    "http://lccn.loc.gov/98688300",
+    "http://www.loc.gov/item/98688300/",
+    "http://www.loc.gov/resource/g3700.rr000020/",
+    "https://hdl.loc.gov/loc.gmd/g3700.rr000020",
+    "https://search.catalog.loc.gov/instances/5ad94046-e694-50fe-bb84-5bd394d59d50",
+    "https://www.loc.gov/item/98688300/"
+  ],
+  "dct_issued_s": "1834",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/rr000020.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688300/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1834"
+  ],
+  "dct_title_s": "Map of the United States compiled from the latest and most accurate surveys by Amos Lay, geographer & map publisher, New York",
+  "gbl_dateRange_drsim": [
+    "[1834 TO 1834]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1834
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688300",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

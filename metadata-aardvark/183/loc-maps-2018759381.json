@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "From the atlas \"Атлас Азиатской России.\"",
+    "No. 70 Karta iz izdaniia: Atlas Aziatskoi Rossii.- SPb: Pereselencheskoe upravlenie Glavnogo Upravleniia Zemleustroistva i Zemledeliia, 1914.",
+    "No. 70 Karta iz izdaniia: Atlas Aziatskoi Rossii.- SPb: Pereselencheskoe upravlenie Glavnogo Upravleniia Zemleustroistva i Zemledeliia, 1914. Pechat' v kartograficheskom zavedenii Iu. Iu. Gash. Uslovnye znaki: usad'ba, pashnia, senokos, vygon, step' chistaia, step' s kustarnikom, listvennyi les, boloto, solontsy, dorogi, kladbishche, granitsy uchastkov. Na karte tablitsa:Zemlepol'zovanie krest'ian derevni Epanchinoi, Tiukalinskogo uezda, Tobol'skoi gubernii do pozemel'nogo ustroistva i posle ustroistva nadelov. Original map at: National Library of Russia From the atlas \"Атлас Азиатской России.\"",
+    "Original map at: National Library of Russia",
+    "Pechat' v kartograficheskom zavedenii Iu. Iu. Gash.",
+    "Publication statement: Saint Petersburg, Russia : Resettlement Department of the Land Regulation and Agriculture Administration, 1914.",
+    "Uslovnye znaki: usad'ba, pashnia, senokos, vygon, step' chistaia, step' s kustarnikom, listvennyi les, boloto, solontsy, dorogi, kladbishche, granitsy uchastkov. Na karte tablitsa:Zemlepol'zovanie krest'ian derevni Epanchinoi, Tiukalinskogo uezda, Tobol'skoi gubernii do pozemel'nogo ustroistva i posle ustroistva nadelov."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018759381",
+    "http://www.loc.gov/item/2018759381/",
+    "http://www.loc.gov/resource/gdc.2018759381/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.natl0001_11901",
+    "https://search.catalog.loc.gov/instances/4c01c415-fcde-5cec-a3d3-ccde3bde33cb",
+    "https://www.loc.gov/item/2018759381/"
+  ],
+  "dct_issued_s": "1914",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018759381.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018759381/2018759381.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018759381:011901/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018759381/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "dct_title_s": "Karta zemlepol'zovaniia derevni Epanchinoi, Tiukalinskogo uezda, Tobol'skoi gubernii do pozemel'nogo ustroistva krest'ian - starozhilov v sviazi s obrazovaniem pereselencheskikh uchastkov i posle takovogo",
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1914
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018759381",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

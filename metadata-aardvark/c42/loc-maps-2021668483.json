@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Scale 1 inch to 2,535,000 feet\"--Note extracted from World Digital Library.",
+    "Content in English and Spanish.",
+    "Contributors: Ramirez, Faustino Montes de Oca, 1862--1902 Surveyor.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Columbus Memorial Library, Organization of American States.",
+    "Original resource extent: 2 maps : color ; 13 x 20 centimeters.",
+    "Publication statement: Philadelphia : William M. Bradley and Company, 1891.",
+    "This 1891 map of Costa Rica shows the main physical features and administrative divisions of the country. The key, in the upper-right-hand corner, is in Spanish and English. Indicated on the map are the national capital, San José; provincial capitals; principal cities; minor cities; and railroads (in operation, under construction, projected, and \"contracted for and soon to be built\"). The highest mountains, volcanoes, and craters are indicated by the numbered key, and their heights given (inaccurately) in both feet and meters. The country's seven provinces--Alajuela, Cartago, Guanacaste, Heredia, Limón, Puntarenas, and San José--are shown and distinguished by different colors. Costa Rica is shown as bordering directly on Colombia to the south, as the Republic of Panama was not established until 1903. The northern border, with Nicaragua, is formed by Lake Nicaragua and the San Juan River. The map was drawn by surveyor Faustino Montes de Oca Ramirez (1862--1902) and issued by William M. Bradley & Company, a prominent late-19th century publisher of maps and atlases based in Philadelphia.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668483",
+    "http://www.loc.gov/item/2021668483/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_11319/",
+    "http://www.loc.gov/resource/wdl.11319/",
+    "https://hdl.loc.gov/loc.wdl/wdl.11319",
+    "https://www.loc.gov/item/2021668483/"
+  ],
+  "dct_issued_s": "1891-01-01",
+  "dct_language_sm": [
+    "eng",
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_11319.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/31/9/wdl_11319/wdl_11319.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:31:9:wdl_11319:oas0367_1X/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668483/\"}",
+  "dct_spatial_sm": [
+    "costa rica"
+  ],
+  "dct_subject_sm": [
+    "1891",
+    "Costa Rica"
+  ],
+  "dct_temporal_sm": [
+    "1891-01-01"
+  ],
+  "dct_title_s": "Map of the Republic of Costa Rica.",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668483",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

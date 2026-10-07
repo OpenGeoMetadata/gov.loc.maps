@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Vorzeichnungen für die Grosse Karte Bayerns von 1563, Teil 2: Topographische Karte von Bayern 47° 54' bis 48° 2' nördl. Breite"
+  ],
+  "dct_description_sm": [
+    "\"This description of the work was written by Traudl Seifert.|BSB shelfmark: Cod.icon. 142(2\"--Note extracted from World Digital Library.",
+    "Between 1554 and 1561, by order of Duke Albrecht V, Philipp Apian (1531-89) carried out a topographical survey of Bavaria (without using triangulation), on which was based the first mathematically measured map of a large region. In 1563, he completed a large-scale version on vellum, to a scale of 1:40,000, which was unfortunately destroyed after 1720. A copy of the original that was produced by 1756 also was destroyed in the Second World War. However, the manuscript sketches to this \"Great Map of Bavaria\" survived, and nowadays are divided into seven scrolls with the numbering of the parts from south to north. The one presented here was produced in Ingolstadt in 1554 or 1555, at the very beginning of Apian's work, and deals with the section from 47° 54' to 48° 2' north latitude. At the request of the duke, Apian reduced the scale to 1:145,000 and prepared the map for woodblock printing. Jost Amman undertook the artwork for the borders and cartouches. This second version was issued in 1568 and remained the official map of Bavaria until the 19th century. In the course of his surveying work, Apian also collected material for a Descriptio Bavariae (description of Bavaria) and had views of castles, settlements, and landscapes prepared for the work. His death, however, in 1589 prevented the printing of the work, which was to have combined the maps with an illustrated description of the country. Duke Wilhelm V of Bavaria bought both the unpublished manuscript and the aforementioned seven scrolls of 1554-55 for 1,000 gulden, which then came to his court library in Munich, the forerunner of the Bavarian State Library, where these works have been part of the collections ever since.",
+    "Content in German.",
+    "Contributors: Albrecht V, Duke of Bavaria, 1528-1579 Patron.; Apianus, Philippus, 1531-1589 Surveyor.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Bavarian State Library.",
+    "Original resource extent: 1 map of 10 folios, paper ; 30-33 x 462 centimeters.",
+    "Publication statement: Ingolstadt, Bavaria : [publisher not identified], [1554 to 1555]",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668749",
+    "http://www.loc.gov/item/2021668749/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_19491/",
+    "http://www.loc.gov/resource/wdl.19491/",
+    "https://hdl.loc.gov/loc.wdl/wdl.19491",
+    "https://www.loc.gov/item/2021668749/"
+  ],
+  "dct_issued_s": "1554-01-01",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_19491.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/49/1/wdl_19491/wdl_19491.pdf\"}, {\"label\": \"ZIP: wdl_19491.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/49/1/wdl_19491/wdl_19491.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:19:49:1:wdl_19491:bsb00070099_00004/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668749/\"}",
+  "dct_spatial_sm": [
+    "baden-württemberg",
+    "bavaria",
+    "germany"
+  ],
+  "dct_subject_sm": [
+    "1554 to 1555",
+    "Germany--Baden-Württemberg",
+    "Germany--Bavaria",
+    "Manuscript maps"
+  ],
+  "dct_temporal_sm": [
+    "1554-01-01"
+  ],
+  "dct_title_s": "Sketches for the Great Map of Bavaria from 1563, Part 2. Topographical Map of Bavaria 47 Degrees 54 Minutes to 48 Degrees 2 Minutes North Latitude.",
+  "gbl_dateRange_drsim": [
+    "[1554 TO 1554]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1554
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668749",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

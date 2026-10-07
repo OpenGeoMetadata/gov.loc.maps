@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Morse, Jedidiah, 1761-1826, cartographer; Mutlow, I., engraver; Stockdale, John, 1749?-1814, publisher",
+    "LC copy mounted on paper.",
+    "Publication statement: Piccadilly : published by I. Stockdale, 1794.",
+    "Relief shown pictorially.",
+    "vcFY24",
+    "vcFY24 Relief shown pictorially. LC copy mounted on paper. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597312",
+    "http://www.loc.gov/item/2024597312/",
+    "http://www.loc.gov/resource/g3880.ct006387/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct006387",
+    "https://search.catalog.loc.gov/instances/d5776d78-8adc-5ab5-a3fd-7c82b1b64efa",
+    "https://www.loc.gov/item/2024597312/"
+  ],
+  "dct_issued_s": "1794",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd388:g3880:g3880:ct006387/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597312/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "maryland",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Delaware--Maps--Early works to 1800",
+    "Maryland--Maps--Early works to 1800",
+    "United States--Delaware",
+    "United States--Maryland",
+    "United States--Virginia",
+    "Virginia--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1794"
+  ],
+  "dct_title_s": "Map of Virginia, Maryland and Delaware",
+  "gbl_dateRange_drsim": [
+    "[1794 TO 1794]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1794
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597312",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

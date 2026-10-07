@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Forest Service map class C.\"",
+    "\"Polyconic projection.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Eastern Region",
+    "Folded title: Allegheny National Forest.",
+    "Folded title: Allegheny National Forest. \"Polyconic projection.\" \"Forest Service map class C.\" Includes indexed table of recreation facilities, location map, and col. ill. Text and ill. (some col.) on verso. Scale 1:253,440; 1/4ʺ = 1 mile. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes indexed table of recreation facilities, location map, and col. ill.",
+    "Publication statement: Milwaukee : The Office, [1969]",
+    "Scale 1:253,440; 1/4ʺ = 1 mile.",
+    "Text and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822a.ct007913",
+    "http://lccn.loc.gov/78694372",
+    "http://www.loc.gov/item/78694372/",
+    "http://www.loc.gov/resource/g3822a.ct007913/",
+    "https://hdl.loc.gov/loc.gmd/g3822a.ct007913",
+    "https://search.catalog.loc.gov/instances/61751d2e-efd7-567c-80b0-d29aa95370da",
+    "https://www.loc.gov/item/78694372/"
+  ],
+  "dct_issued_s": "1969",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822a/ct007913.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78694372/\"}",
+  "dct_spatial_sm": [
+    "allegheny national forest",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Allegheny National Forest (Pa.)--Maps",
+    "United States--Pennsylvania--Allegheny National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "dct_title_s": "Allegheny National Forest, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1969]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78694372",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

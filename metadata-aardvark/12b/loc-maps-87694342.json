@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in year 1891 ... at Washington.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hopkins, Griffith Morgan, Jr",
+    "DCP",
+    "Depths shown by contours.",
+    "Includes 4 insets.",
+    "Partly hand col.",
+    "Publication statement: Philadelphia : G.M. Hopkins, C.E., 1891.",
+    "Shows major buildings and block numbers. Shows land tracts, owners' names, and acreages beyond old city limits.",
+    "Shows major buildings and block numbers. Shows land tracts, owners' names, and acreages beyond old city limits. Depths shown by contours. \"Entered according to Act of Congress in year 1891 ... at Washington.\" Partly hand col. Includes 4 insets. Available also through the Library of Congress Web site as a raster image. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851g.la002300",
+    "http://lccn.loc.gov/87694342",
+    "http://www.loc.gov/item/87694342/",
+    "http://www.loc.gov/resource/g3851g.la002300/",
+    "https://hdl.loc.gov/loc.gmd/g3851g.la002300",
+    "https://search.catalog.loc.gov/instances/039085be-7714-5575-b6a9-8112107cf1b6",
+    "https://www.loc.gov/item/87694342/"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851g/la002300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694342/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "Map of the District of Columbia from official records and actual surveys",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694342",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

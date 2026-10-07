@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Allied Forces. Army Group, 12th. Engineer Section; United States. Army. Army Group, 1st. Headquarters",
+    "Publication statement: [England?] : Twelfth Army Group, [1945]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5701s.ict21249",
+    "http://lccn.loc.gov/2004630342",
+    "http://www.loc.gov/item/2004630342/",
+    "http://www.loc.gov/resource/g5701s.ict21249/",
+    "https://hdl.loc.gov/loc.gmd/g5701s.ict21249",
+    "https://search.catalog.loc.gov/instances/91670678-3422-54c8-a410-b1f64782324c",
+    "https://www.loc.gov/item/2004630342/"
+  ],
+  "dct_issued_s": "1945-02-08",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5701/g5701s/ict21249.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004630342/\"}",
+  "dct_spatial_sm": [
+    "europe"
+  ],
+  "dct_subject_sm": [
+    "Europe",
+    "World War, 1939-1945--Campaigns--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1945-02-08"
+  ],
+  "dct_title_s": "[February 8, 1945], HQ Twelfth Army Group situation map",
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1945]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1945
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004630342",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

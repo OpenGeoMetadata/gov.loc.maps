@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cheevers, T.; Hutchins, Thomas, 1730-1789",
+    "Includes historical and descriptive text.",
+    "LC Maps of North America, 1750-1789, 789",
+    "LC copy annotated in ink. One annotation shows \"Indian line as of treaty in 1784.\"",
+    "Prime meridian: Philadelphia and London.",
+    "Publication statement: London, 1778.",
+    "Relief shown pictorially and by hachures.",
+    "Relief shown pictorially and by hachures. Prime meridian: Philadelphia and London. Includes historical and descriptive text. Scale ca. 1:1,270,000. LC Maps of North America, 1750-1789, 789 Available also through the Library of Congress Web site as a raster image. LC copy annotated in ink. One annotation shows \"Indian line as of treaty in 1784.\" Vault AACR2",
+    "Scale ca. 1:1,270,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3707o.ar078903",
+    "http://lccn.loc.gov/74696155",
+    "http://www.loc.gov/item/74696155/",
+    "http://www.loc.gov/resource/g3707o.ar078903/",
+    "https://hdl.loc.gov/loc.gmd/g3707o.ar078903",
+    "https://search.catalog.loc.gov/instances/02d24230-c4db-54cc-9d8e-d8dbb4e413f8",
+    "https://www.loc.gov/item/74696155/"
+  ],
+  "dct_issued_s": "1778",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3707/g3707o/ar078903.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74696155/\"}",
+  "dct_spatial_sm": [
+    "mississippi river valley",
+    "ohio river valley",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mississippi River Valley--Maps--Early works to 1800",
+    "Ohio River Valley--Maps--Early works to 1800",
+    "United States--Mississippi River Valley",
+    "United States--Ohio River Valley"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "dct_title_s": "A new map of the western parts of Virginia, Pennsylvania, Maryland and North Carolina; comprehending the river Ohio, and all the rivers, which fall into it; part of the river Mississippi, the whole of the Illinois River, Lake Erie; part of the lakes Huron, Michigan &c. and all the country bordering on these lakes and rivers",
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1778
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74696155",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

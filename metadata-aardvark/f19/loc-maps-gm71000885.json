@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 440; 650/1",
+    "Annotation on verso undecipherable.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "In upper margin: No. 17.",
+    "Includes descriptive index to defenses.",
+    "LC Maps of North America, 1750-1789, 1016",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Relief shown by shading. Depths shown by soundings. Oriented with north toward the lower right. In upper margin: No. 17. Includes descriptive index to defenses. Annotation on verso undecipherable. Scale ca. 1:51,000. LC Maps of North America, 1750-1789, 1016 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 440; 650/1",
+    "Oriented with north toward the lower right.",
+    "Publication statement: [1778]",
+    "Relief shown by shading. Depths shown by soundings.",
+    "Scale ca. 1:51,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3772r.ar101600",
+    "http://lccn.loc.gov/gm71000885",
+    "http://www.loc.gov/item/gm71000885/",
+    "http://www.loc.gov/resource/g3772r.ar101600/",
+    "https://hdl.loc.gov/loc.gmd/g3772r.ar101600",
+    "https://search.catalog.loc.gov/instances/fb3eb05c-8f1e-5afa-bc1d-5bb28183f585",
+    "https://www.loc.gov/item/gm71000885/"
+  ],
+  "dct_issued_s": "1778",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd377/g3772/g3772r/ar101600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000885/\"}",
+  "dct_spatial_sm": [
+    "island",
+    "rhode island",
+    "rhode island (island)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Rhode Island (R.I. : Island)--Defenses--Maps, Manuscript--Early works to 1800",
+    "Rhode Island, Battle of, R.I., 1778--Maps, Manuscript--Early works to 1800",
+    "United States--Rhode Island--Rhode Island (Island)"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "dct_title_s": "Plan de Rhode Island et les differentes operations de la flotte-françoises et des troupes americaines commandées par le Major General Sullivan contre les forçes de terre et de mer des Anglois depuis le 9 aoust jusqu'à la nuit du 30 au 31 du meme mois 1778 que les Americains ont fait leur retraites",
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1778
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000885",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

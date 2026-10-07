@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: California title collection--counties Imperial 1939-1970--Inyo to 1937",
+    "Alternate supplied title: California title collection--drawer 142"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Various places] : [various publishers], [1866-1970]",
+    "This record covers single maps covering counties of California, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps, multi-sheet single maps and may also include some plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps covering counties of California, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps, multi-sheet single maps and may also include some plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. Available also through the Library of Congress Web site as a raster image.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022592521",
+    "http://www.loc.gov/item/2022592521/",
+    "http://www.loc.gov/resource/gmdtitlecolmaps.ca-142/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolmaps.ca-142",
+    "https://search.catalog.loc.gov/instances/f8a503da-040d-5259-afb7-df29b337dd1a",
+    "https://www.loc.gov/item/2022592521/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolmaps:ca:-1:42:ca-142:ca-142-19-01-r/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022592521/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "imperial county",
+    "inyo county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Counties--California--Maps",
+    "Geology--California--Maps",
+    "Hydrology--California--Maps",
+    "Imperial County (Calif.)--Maps",
+    "Inyo County (Calif.)--Maps",
+    "Outdoor recreation--California--Maps",
+    "Roads--California--Imperial County--Maps",
+    "Roads--California--Inyo County--Maps",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "1866/1970"
+  ],
+  "dct_title_s": "[Maps of California--counties Imperial 1939-1970--Inyo to 1937]",
+  "gbl_dateRange_drsim": [
+    "[1866 TO 1970]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1866
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2022592521",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

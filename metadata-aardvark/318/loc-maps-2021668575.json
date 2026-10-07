@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Damba: Uganda 1: 50,000"
+  ],
+  "dct_description_sm": [
+    "\"From the Uganda National Fisheries Resources Research Institute. Digitized at the National Library of Uganda with support from the Carnegie Corporation of New York.\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Great Britain Copyright Holder.; Great Britain. Overseas Surveys Directorate Contributor.; Hunting Aerosurveys Limited Contributor.; Uganda. Department of Lands and Surveys Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Uganda.",
+    "Original resource extent: 1 map ; 81 x 63 centimeters.",
+    "Publication statement: Entebbe, Uganda : Uganda. Department of Lands and Surveys, 1961.",
+    "This map of Damba Island, Kyagwe County, Mengo District, Buganda Province in Uganda Protectorate (present-day Uganda) was issued in 1961 by the Uganda Lands and Surveys Department. It was compiled and drawn by the Directorate of Overseas Surveys, Department of Technical Cooperation in the British government, based on field survey data and on aerial photography carried out in 1955. Damba is located in the northwestern corner of Lake Victoria, south of Kampala and east of Entebbe. It is bisected by the equator, which defines the northern edge of the map. The map shows the southwestern part of Damba. Rocks, points, and other natural features, including swampland and forest, are indicated. Also visible on the map is part of Kome Island, to the south of Damba Island, and a number of smaller islands to the south and southeast. An index grid in the lower left identifies adjoining sheets to this detailed survey map. The scale is 1:50,000.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668575",
+    "http://www.loc.gov/item/2021668575/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_14274/",
+    "http://www.loc.gov/resource/wdl.14274/",
+    "https://hdl.loc.gov/loc.wdl/wdl.14274",
+    "https://www.loc.gov/item/2021668575/"
+  ],
+  "dct_issued_s": "1961-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_14274.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/14/27/4/wdl_14274/wdl_14274.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:27:4:wdl_14274:NaFiRRI_0047/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668575/\"}",
+  "dct_spatial_sm": [
+    "central",
+    "uganda"
+  ],
+  "dct_subject_sm": [
+    "1961",
+    "Islands",
+    "Uganda",
+    "Uganda--Central",
+    "Victoria, Lake"
+  ],
+  "dct_temporal_sm": [
+    "1961-01-01"
+  ],
+  "dct_title_s": "Damba, Uganda.",
+  "gbl_dateRange_drsim": [
+    "[1961 TO 1961]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1961
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668575",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

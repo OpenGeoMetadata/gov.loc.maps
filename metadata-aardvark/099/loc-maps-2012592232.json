@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1848 by Robert H. Caffee in the Clerks Office of the Dist. Court of Ohio.\"",
+    "\"Entered according to Act of Congress in the year 1848 by Robert H. Caffee in the Clerks Office of the Dist. Court of Ohio.\" Includes inset plan of Lancaster. LC Land ownership maps, 619 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Doolittle & Munson; Towson, James W.",
+    "Includes inset plan of Lancaster.",
+    "LC Land ownership maps, 619",
+    "Publication statement: Lancaster, O. : Robert H. Caffee, [1848]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4083f.la000619",
+    "http://lccn.loc.gov/2012592232",
+    "http://www.loc.gov/item/2012592232/",
+    "http://www.loc.gov/resource/g4083f.la000619/",
+    "https://hdl.loc.gov/loc.gmd/g4083f.la000619",
+    "https://search.catalog.loc.gov/instances/602db47e-ea68-5b58-98e5-8c2d0d02a721",
+    "https://www.loc.gov/item/2012592232/"
+  ],
+  "dct_issued_s": "1848",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4083/g4083f/la000619.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592232/\"}",
+  "dct_spatial_sm": [
+    "fairfield county",
+    "lancaster",
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Ohio--Fairfield County--Maps",
+    "Landowners--Ohio--Lancaster--Maps",
+    "Real property--Ohio--Fairfield County--Maps",
+    "Real property--Ohio--Lancaster--Maps",
+    "United States--Ohio--Fairfield County",
+    "United States--Ohio--Lancaster"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "dct_title_s": "A map of Fairfield County, Ohio",
+  "gbl_dateRange_drsim": [
+    "[1848 TO 1848]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1848
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592232",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

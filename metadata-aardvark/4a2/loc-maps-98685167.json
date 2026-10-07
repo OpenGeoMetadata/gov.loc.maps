@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotated in pencil at middle right: Atlanta.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bien, Julius, 1826-1909, engraver, printer; Fillmore, Millard, 1800-1874, collector; Freyhold, Edward, cartographer; United States. War Department. Office of the Chief of Engineers",
+    "Includes inset of Alaska.",
+    "LC Civil War maps (2nd ed.), S8",
+    "LC copy imperfect: Sectioned into 4 pieces, mounted on cloth, mounted on paper, margins trimmed.",
+    "Publication statement: [Washington, D.C.?] : Office of the Chief of Engineers, War Dept., 1869.",
+    "Relief shown by shading.",
+    "Shows military districts outlined and labeled in red.",
+    "Shows military districts outlined and labeled in red. Relief shown by shading. Includes inset of Alaska. Annotated in pencil at middle right: Atlanta. LC copy imperfect: Sectioned into 4 pieces, mounted on cloth, mounted on paper, margins trimmed. LC Civil War maps (2nd ed.), S8 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701r.cws00008",
+    "http://hdl.loc.gov/loc.gmd/g3701r.fi000110pa",
+    "http://lccn.loc.gov/98685167",
+    "http://www.loc.gov/item/98685167/",
+    "http://www.loc.gov/resource/g3701r.cws00008/",
+    "http://www.loc.gov/resource/g3701r.fi000110pa/",
+    "https://hdl.loc.gov/loc.gmd/g3701r.cws00008",
+    "https://hdl.loc.gov/loc.gmd/g3701r.fi000110pa",
+    "https://search.catalog.loc.gov/instances/d8c5b100-729f-52b2-9f05-316bb5347024",
+    "https://www.loc.gov/item/98685167/"
+  ],
+  "dct_issued_s": "1869",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701r/cws00008.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98685167/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Military departments and divisions--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1869"
+  ],
+  "dct_title_s": "Military map of the United States",
+  "gbl_dateRange_drsim": [
+    "[1869 TO 1869]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1869
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98685167",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

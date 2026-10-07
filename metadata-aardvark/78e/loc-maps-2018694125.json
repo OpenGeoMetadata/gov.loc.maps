@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Алтай. По маршрутам экспедиции проф. В. В. Сапожникова 1905-1909 г.г."
+  ],
+  "dct_description_sm": [
+    "Based on Obruchev's original sketches and other materials.",
+    "Based on Obruchev's original sketches and other materials. Skhema lednikovogo uzla Tobin-Bogdo-Ula. Original map at: Russian State Library Схема ледникового узла Тобин-Богдо-Ула.",
+    "Contributors: Obruchev, V. V. (Vladimir Vladimirovich), 1888-1966",
+    "Original map at: Russian State Library",
+    "Publication statement: Moscow, Russia : [publisher not identified], 1949.",
+    "Skhema lednikovogo uzla Tobin-Bogdo-Ula.",
+    "Схема ледникового узла Тобин-Богдо-Ула."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694125",
+    "http://www.loc.gov/item/2018694125/",
+    "http://www.loc.gov/resource/gdc.2018694125/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0067a",
+    "https://search.catalog.loc.gov/instances/a40ce06c-7c47-5fec-91e2-39e080198641",
+    "https://www.loc.gov/item/2018694125/"
+  ],
+  "dct_issued_s": "1949",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694125.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694125/2018694125.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694125:smf0067a/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694125/\"}",
+  "dct_spatial_sm": [
+    "altai krai",
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Altai Krai",
+    "Russian Federation"
+  ],
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "dct_title_s": "Altaĭ. Po marshrutam ėkspedit︠s︡ii prof. V. V. Sapozhnikova 1905-1909 g.g.",
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1949]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694125",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "America attacked",
+    "Flight 93",
+    "Title in upper margin: America attacked"
+  ],
+  "dct_description_sm": [
+    "\"*GPO:2012--372-849/80832.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and col. ill.",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2012]",
+    "Remote-sensing map of the memorial site (with horizon at top) showing flight path of the incoming plane and showing the memorial property boundaries.",
+    "Remote-sensing map of the memorial site (with horizon at top) showing flight path of the incoming plane and showing the memorial property boundaries. \"*GPO:2012--372-849/80832.\" Title from panel. Includes text and col. ill. Text, procedural route map of Flight 93 from Newark (NJ) to Ohio to Shanksville (with descriptive notes), and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text, procedural route map of Flight 93 from Newark (NJ) to Ohio to Shanksville (with descriptive notes), and col. ill. on verso.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822f.ct007925",
+    "http://lccn.loc.gov/2012585240",
+    "http://www.loc.gov/item/2012585240/",
+    "http://www.loc.gov/resource/g3822f.ct007925/",
+    "https://hdl.loc.gov/loc.gmd/g3822f.ct007925",
+    "https://search.catalog.loc.gov/instances/bb12a646-b2e0-57ce-a358-a42ba6a12a89",
+    "https://www.loc.gov/item/2012585240/"
+  ],
+  "dct_issued_s": "2012",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822f/ct007925.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012585240/\"}",
+  "dct_spatial_sm": [
+    "flight 93 national memorial",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Flight 93 National Memorial (Pa.)--Aerial views",
+    "Flight 93 National Memorial (Pa.)--Maps",
+    "United States--Pennsylvania--Flight 93 National Memorial"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_title_s": "Flight 93 National Memorial, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[2012 TO 2012]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012585240",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

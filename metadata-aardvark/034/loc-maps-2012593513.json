@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "A panoramic view.",
+    "A panoramic view. Relief shown pictorially. Inset map of dam area with north oriented towards the lower right. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lindgren, Jolly",
+    "Inset map of dam area with north oriented towards the lower right.",
+    "Publication statement: Spokane, Wash. : Lindgren Bros., c1935.",
+    "Relief shown pictorially."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4282g.ct003337",
+    "http://lccn.loc.gov/2012593513",
+    "http://www.loc.gov/item/2012593513/",
+    "http://www.loc.gov/resource/g4282g.ct003337/",
+    "https://hdl.loc.gov/loc.gmd/g4282g.ct003337",
+    "https://search.catalog.loc.gov/instances/8a7e12da-684c-5847-b262-0bee3fb2c6b1",
+    "https://www.loc.gov/item/2012593513/"
+  ],
+  "dct_issued_s": "1935",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd428/g4282/g4282g/ct003337.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593513/\"}",
+  "dct_spatial_sm": [
+    "coulee",
+    "dry falls",
+    "grand coulee",
+    "grand coulee (coulee)",
+    "grand coulee dam region",
+    "united states",
+    "washington",
+    "washington (state)"
+  ],
+  "dct_subject_sm": [
+    "Dry Falls (Wash.)--Maps",
+    "Grand Coulee (Wash. : Coulee)--Maps",
+    "Grand Coulee Dam Region (Wash.)--Maps",
+    "United States--Washington (State)--Dry Falls",
+    "United States--Washington (State)--Grand Coulee (Coulee)",
+    "United States--Washington (State)--Grand Coulee Dam Region"
+  ],
+  "dct_temporal_sm": [
+    "1935"
+  ],
+  "dct_title_s": "A hysterical map of the Grand Coulee Dam (to be the world's largest concrete example), also the Grand Coulee & Dry Falls : a land of game & scenic splendor",
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1935]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1935
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593513",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Alaska title collection--Rand McNally roads",
+    "Alternate supplied title: Alaska title collection--drawer 32"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rand McNally and Company, cartographer",
+    "If a map in this collection may be in copyright, there is no online image available.",
+    "Includes indexes.",
+    "Publication statement: Chicago ; New York : Rand McNally & Company, 1906-1924.",
+    "This record covers single road maps of Alaska published by Rand McNally, which are not represented in the LC database by separate catalog records. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "Title provided by cataloger.",
+    "Title supplied by cataloger.",
+    "Title supplied by cataloger. This record covers single road maps of Alaska published by Rand McNally, which are not represented in the LC database by separate catalog records. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title provided by cataloger. Includes indexes. If a map in this collection may be in copyright, there is no online image available. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021589909",
+    "http://www.loc.gov/item/2021589909/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ak-032/",
+    "http://www.loc.gov/resource/gmdtitlecolmaps.ak-032/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ak-032",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolmaps.ak-032",
+    "https://search.catalog.loc.gov/instances/03aed707-7286-58f0-b66b-1fccec879ea1",
+    "https://www.loc.gov/item/2021589909/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolmaps:ak:-0:32:ak-032:ak-032-01-01/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021589909/\"}",
+  "dct_spatial_sm": [
+    "alaska",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Roads--Alaska--Maps",
+    "United States--Alaska"
+  ],
+  "dct_temporal_sm": [
+    "1906/1924"
+  ],
+  "dct_title_s": "[Maps of Alaska--Rand McNally roads]",
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1924]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1906
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021589909",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Schedler, J. (Joseph)",
+    "Description derived from published bibliography.",
+    "General map of the southeastern states showing roads, railroads, cities and towns, rivers, state boundaries, and relief by hachures.",
+    "General map of the southeastern states showing roads, railroads, cities and towns, rivers, state boundaries, and relief by hachures. Description derived from published bibliography. Scale ca. 1:2,370,000. LC Civil War Maps (2nd ed.), 17.4 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 17.4",
+    "Publication statement: New York; Paris; London W. Schaus; Francois Delarue; H. Graves & Co. [186-?]",
+    "Scale ca. 1:2,370,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701s.cw0017400",
+    "http://lccn.loc.gov/99447052",
+    "http://www.loc.gov/item/99447052/",
+    "http://www.loc.gov/resource/g3701s.cw0017400/",
+    "https://hdl.loc.gov/loc.gmd/g3701s.cw0017400",
+    "https://search.catalog.loc.gov/instances/d89fc6c4-5ccf-5c14-b367-8f776e4f1c3c",
+    "https://www.loc.gov/item/99447052/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701s/cw0017400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447052/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "Military map of the middle and southern states showing the seat of war during the great rebellion in 1861",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447052",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

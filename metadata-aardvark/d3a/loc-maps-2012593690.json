@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1888 by M.T. Williamson in the Office of the Librarian of Congress at Washington, D.C.\"",
+    "\"The Strobridge Lith. Co., Cincinnati.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing the lot/block numbers and the names of residents.",
+    "Contributors: Strobridge & Co. Lith; Williamson, M. T. (Milton T.), 1828-1902",
+    "Includes map of \"Part of 13th District, Southwest Corner of County.\"",
+    "LC Land ownership maps, 879",
+    "Mounted on cloth.",
+    "Publication statement: Memphis, Tenn. : M.T. Williamson, 1888",
+    "Relief shown by hachures and contours.",
+    "Relief shown by hachures and contours. Cadastral map showing the lot/block numbers and the names of residents. \"The Strobridge Lith. Co., Cincinnati.\" Mounted on cloth. \"Entered according to Act of Congress in the year 1888 by M.T. Williamson in the Office of the Librarian of Congress at Washington, D.C.\" Includes map of \"Part of 13th District, Southwest Corner of County.\" LC Land ownership maps, 879 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3963s.la000879",
+    "http://lccn.loc.gov/2012593690",
+    "http://www.loc.gov/item/2012593690/",
+    "http://www.loc.gov/resource/g3963s.la000879/",
+    "https://hdl.loc.gov/loc.gmd/g3963s.la000879",
+    "https://search.catalog.loc.gov/instances/a654f37f-d66f-503c-a0d1-13adec35067e",
+    "https://www.loc.gov/item/2012593690/"
+  ],
+  "dct_issued_s": "1888",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3963/g3963s/la000879.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593690/\"}",
+  "dct_spatial_sm": [
+    "shelby county",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Tennessee--Shelby County--Maps",
+    "Real property--Tennessee--Shelby County--Maps",
+    "Shelby County (Tenn.)--Maps",
+    "United States--Tennessee--Shelby County"
+  ],
+  "dct_temporal_sm": [
+    "1888"
+  ],
+  "dct_title_s": "Map of Shelby County, Tennessee",
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1888]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1888
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593690",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

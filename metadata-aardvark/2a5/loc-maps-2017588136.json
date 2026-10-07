@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Buildings shown pictorially.",
+    "Contributors: Prado, Juan del, cartographer",
+    "Indexed.",
+    "Panorama.",
+    "Publication statement: [Mexico] : [Juan del Prado], [approximately 1760]",
+    "Relief shown pictorially.",
+    "Shows area near Mexico City.",
+    "Shows area near Mexico City. Relief shown pictorially. Buildings shown pictorially. Panorama. Indexed. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2017588136",
+    "http://www.loc.gov/item/2017588136/",
+    "http://www.loc.gov/resource/g4414m.ct011946/",
+    "https://hdl.loc.gov/loc.gmd/g4414m.ct011946",
+    "https://search.catalog.loc.gov/instances/c0339eb3-ae10-5d3b-8f4b-661138c2551b",
+    "https://www.loc.gov/item/2017588136/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4414/g4414m/ct011946.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017588136/\"}",
+  "dct_spatial_sm": [
+    "mexico",
+    "mexico city"
+  ],
+  "dct_subject_sm": [
+    "Mexico City (Mexico)--Aerial views--Early works to 1800",
+    "Mexico--Mexico City"
+  ],
+  "dct_temporal_sm": [
+    "1760",
+    "[Mexico] : [Juan del Prado], [approximately 1760]"
+  ],
+  "dct_title_s": "Mapa de la villa insigne y Real Colegiata del Santuario de Santa Maria de Guadalupe dista una legua de Mexico",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017588136",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

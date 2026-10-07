@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"April 1967 NP-SHE-17012.\"",
+    "\"Reprint 1972.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Folded title: Shenandoah National Park, Virginia.",
+    "Folded title: Shenandoah National Park, Virginia. Relief shown by hachures and spot heights. \"Reprint 1972.\" \"April 1967 NP-SHE-17012.\" Includes descriptive list of points of interest and 5 park facility maps. Text and ill. (some col.) on verso. Scale ca. 1:316,800. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes descriptive list of points of interest and 5 park facility maps.",
+    "Publication statement: [Washington] : The Service, [1972]",
+    "Relief shown by hachures and spot heights.",
+    "Scale ca. 1:316,800.",
+    "Text and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882s.ct009193",
+    "http://lccn.loc.gov/79696653",
+    "http://www.loc.gov/item/79696653/",
+    "http://www.loc.gov/resource/g3882s.ct009193/",
+    "https://hdl.loc.gov/loc.gmd/g3882s.ct009193",
+    "https://search.catalog.loc.gov/instances/b2a32791-3cf5-59ab-a14b-ba73827ff84a",
+    "https://www.loc.gov/item/79696653/"
+  ],
+  "dct_issued_s": "1972",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882s/ct009193.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79696653/\"}",
+  "dct_spatial_sm": [
+    "shenandoah national park",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Shenandoah National Park (Va.)--Maps",
+    "United States--Virginia--Shenandoah National Park"
+  ],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "dct_title_s": "Shenandoah National Park",
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1972]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79696653",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

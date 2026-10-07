@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Champion, Willis J.",
+    "Publication statement: [S.l.] : Willis J. Champion, 1908."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4104c.ct003152",
+    "http://lccn.loc.gov/2010592719",
+    "http://www.loc.gov/item/2010592719/",
+    "http://www.loc.gov/resource/g4104c.ct003152/",
+    "https://hdl.loc.gov/loc.gmd/g4104c.ct003152",
+    "https://search.catalog.loc.gov/instances/a07428dc-5025-594e-8fcf-b0c9e54f5282",
+    "https://www.loc.gov/item/2010592719/"
+  ],
+  "dct_issued_s": "1908",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410/g4104/g4104c/ct003152.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010592719/\"}",
+  "dct_spatial_sm": [
+    "chicago",
+    "illinois",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads, Elevated--Illinois--Chicago--Aerial views",
+    "United States--Illinois--Chicago"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "dct_title_s": "Birds-eye view of the elevated railroads and the parks and boulevards of Chicago",
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1908]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1908
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010592719",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

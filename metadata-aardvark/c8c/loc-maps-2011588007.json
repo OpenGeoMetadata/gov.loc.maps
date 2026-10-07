@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Ancillary maps: Alfred Village -- Bar Mills -- Berwick -- Cornish -- East Parsonfield -- Goodwin's Mills -- Kennebunk -- Kennebunk Port and Harbor Village -- Kittery Point Village -- Kittery Village -- Limerick -- Linington -- Moderation -- Newfield Village --North Berwick -- Saco and Biddeford -- Salmon Falls -- Sanford -- South Berwick -- Spring Vale -- York.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chase, J.; J.L. Smith Co., publisher",
+    "Includes business directories, distance chart, statistics, and illustrations.",
+    "LC Land ownership maps, 278",
+    "LC copy sectioned in six and mounted on two pieces of fabric.",
+    "Publication statement: Philadelphia and Boston : Published by J.L. Smith & Co., 1856.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Includes business directories, distance chart, statistics, and illustrations. Ancillary maps: Alfred Village -- Bar Mills -- Berwick -- Cornish -- East Parsonfield -- Goodwin's Mills -- Kennebunk -- Kennebunk Port and Harbor Village -- Kittery Point Village -- Kittery Village -- Limerick -- Linington -- Moderation -- Newfield Village --North Berwick -- Saco and Biddeford -- Salmon Falls -- Sanford -- South Berwick -- Spring Vale -- York. LC copy sectioned in six and mounted on two pieces of fabric. LC Land ownership maps, 278 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3733y.la000278",
+    "http://lccn.loc.gov/2011588007",
+    "http://www.loc.gov/item/2011588007/",
+    "http://www.loc.gov/resource/g3733y.la000278/",
+    "https://hdl.loc.gov/loc.gmd/g3733y.la000278",
+    "https://search.catalog.loc.gov/instances/4bd6e5e9-2afe-5573-909e-c773c2e37d3b",
+    "https://www.loc.gov/item/2011588007/"
+  ],
+  "dct_issued_s": "1856",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3733/g3733y/la000278.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011588007/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "united states",
+    "york county"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Maine--York County--Maps",
+    "Real property--Maine--York County--Maps",
+    "United States--Maine--York County",
+    "York County (Me.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "dct_title_s": "Map of York County, Maine",
+  "gbl_dateRange_drsim": [
+    "[1856 TO 1856]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1856
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011588007",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

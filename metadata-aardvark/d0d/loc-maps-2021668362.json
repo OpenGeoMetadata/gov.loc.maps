@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Fortaleza de Dio: Plantas de praças e fortes de possessões portuguesas na Ásia e África"
+  ],
+  "dct_description_sm": [
+    "Content in Portuguese.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], [1600 to 1699]",
+    "This drawing shows the fortress of Diu, located on an island off the northwest coast of India. In 1509, the Portuguese defeated the forces of the Sultan of Gujarat in the Battle of Diu, thereby securing dominance over trade routes in the Indian Ocean. Construction of this fortress-garrison complex began in 1535, under an agreement with the sultan, but the agreement fell apart and the sultan's troops attacked the fort in 1537. The fortress was reconstructed in 1545 by João de Castro (1500-48), a Portuguese naval commander and the fourth viceroy of Portuguese India.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668362",
+    "http://www.loc.gov/item/2021668362/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_01056/",
+    "http://www.loc.gov/resource/wdl.1056/",
+    "https://hdl.loc.gov/loc.wdl/wdl.1056",
+    "https://www.loc.gov/item/2021668362/"
+  ],
+  "dct_issued_s": "1600-01-01",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_01056.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/01/05/6/wdl_01056/wdl_01056.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:05:6:wdl_01056:cart1090243/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668362/\"}",
+  "dct_spatial_sm": [
+    "india",
+    "portugal"
+  ],
+  "dct_subject_sm": [
+    "1600 to 1699",
+    "Daman and Diu (India)",
+    "Fortress of Díu (India)",
+    "Forts and fortifications",
+    "India",
+    "Portugal",
+    "Portugal--Colonies"
+  ],
+  "dct_temporal_sm": [
+    "1600-01-01"
+  ],
+  "dct_title_s": "Fortress of Dio: Plans of Plazas and Forts of Portuguese Possessions in Asia and Africa.",
+  "gbl_dateRange_drsim": [
+    "[1600 TO 1600]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1600
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668362",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Supplement to the Watchman, November 1914.\"",
+    "\"Supplement to the Watchman, November 1914.\" Includes statistical chart. Publisher information on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Southern Publishing Association",
+    "Includes statistical chart.",
+    "Publication statement: Nashville, Tenn. : Southern Publishing Association, [1914]",
+    "Publisher information on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3201s.ct001937",
+    "http://lccn.loc.gov/2013593060",
+    "http://www.loc.gov/item/2013593060/",
+    "http://www.loc.gov/resource/g3201s.ct001937/",
+    "https://hdl.loc.gov/loc.gmd/g3201s.ct001937",
+    "https://search.catalog.loc.gov/instances/abfb172e-0239-5dc8-89ef-74cbc0f7dc85",
+    "https://www.loc.gov/item/2013593060/"
+  ],
+  "dct_issued_s": "1914",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201s/ct001937.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593060/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)",
+    "World War, 1914-1918--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "dct_title_s": "The blood-red world : map showing territory of the Earth directly affected by the Great War",
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1914
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593060",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

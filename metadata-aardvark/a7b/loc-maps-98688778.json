@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "3088 U.S. Copyright Office",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Pittsburgh, Bradford, and Buffalo Railway",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 533",
+    "LC has another edition \"Designed by Thos. R. Sharp\" with Alleghany & Clarion added to title.",
+    "Map of parts of western Pennsylvania and New York showing drainage, coal fields, iron ore areas, and fire clay areas, furnaces, and oil wells. Railroads are color coded.",
+    "Publication statement: New York, 1882.",
+    "Scale 1:950,400."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3821p.rr005330",
+    "http://lccn.loc.gov/98688778",
+    "http://www.loc.gov/item/98688778/",
+    "http://www.loc.gov/resource/g3821p.rr005330/",
+    "https://hdl.loc.gov/loc.gmd/g3821p.rr005330",
+    "https://search.catalog.loc.gov/instances/fbfc8949-bbd2-58ab-b2a1-b015f56343ef",
+    "https://www.loc.gov/item/98688778/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3821/g3821p/rr005330.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688778/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mines and mineral resources--Pennsylvania--Maps",
+    "Pittsburgh, Bradford, and Buffalo Railway",
+    "Railroads--New York (State)--Maps",
+    "Railroads--Pennsylvania--Maps",
+    "United States--New York (State)",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Map showing the Pittsburg [sic], Bradford, and Buffalo Railway and its connections, W. R. Bergholz, chief engineer, New York, Feb. 15, 1882",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688778",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Office of the Engineer Commissioner D.C.",
+    "Covers District of Columbia less extreme southern part.",
+    "Covers District of Columbia less extreme southern part. Shows major buildings and suburban subdivisions. Relief shown by contours and hachures. Oriented with north toward the upper left. Includes notes. Available also through the Library of Congress Web site as a raster image. LC copy 1 fold-lined. Copy 2 halved and mounted on cloth backing. 2 copies DCP",
+    "DCP",
+    "Includes notes.",
+    "LC copy 1 fold-lined. Copy 2 halved and mounted on cloth backing.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Washington] : The Office, [1896]",
+    "Relief shown by contours and hachures.",
+    "Shows major buildings and suburban subdivisions."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004448",
+    "http://lccn.loc.gov/88693357",
+    "http://www.loc.gov/item/88693357/",
+    "http://www.loc.gov/resource/g3850.ct004448/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004448",
+    "https://search.catalog.loc.gov/instances/2a62fdde-16da-59a1-9b14-8ef17733ed38",
+    "https://www.loc.gov/item/88693357/"
+  ],
+  "dct_issued_s": "1896",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004448.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693357/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dct_title_s": "Part of the District of Columbia : June 1896",
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1896
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-88693357",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771",
+    "LC Maps of North America, 1750-1789, 2016",
+    "Prime meridian: Ferro and London.",
+    "Prime meridian: Ferro and London. Relief shown pictorially and by hachures. Scale ca. 1:265,000. LC Maps of North America, 1750-1789, 2016 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [London, 1768?]",
+    "Relief shown pictorially and by hachures.",
+    "Scale ca. 1:265,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/75693286",
+    "http://www.loc.gov/item/75693286/",
+    "http://www.loc.gov/resource/g5070.ar201600/",
+    "https://hdl.loc.gov/loc.gmd/g5070.ar201600",
+    "https://search.catalog.loc.gov/instances/289f4360-2d39-5634-8c92-d1989d9ebd15",
+    "https://www.loc.gov/item/75693286/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5070/g5070/ar201600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693286/\"}",
+  "dct_spatial_sm": [
+    "guadeloupe"
+  ],
+  "dct_subject_sm": [
+    "Guadeloupe",
+    "Guadeloupe--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1768",
+    "[London, 1768?]"
+  ],
+  "dct_title_s": "Guadaloupe one of the Caribbee Islands subject to France in the West Indies,",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693286",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Black and red pen-and-ink and blue watercolor.",
+    "Mounted on cloth.",
+    "Publication statement: [Franklin Furnace, N.J.?] : [producer not identified], [1860?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Title supplied by cataloger. Black and red pen-and-ink and blue watercolor. Mounted on cloth. Available also through the Library of Congress Web site as a raster image. vcFY24",
+    "Title supplied by cataloger.",
+    "vcFY24"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597326",
+    "http://www.loc.gov/item/2024597326/",
+    "http://www.loc.gov/resource/g3814f.ct005927/",
+    "https://hdl.loc.gov/loc.gmd/g3814f.ct005927",
+    "https://search.catalog.loc.gov/instances/e5f7ecb8-ebeb-535b-b77c-89e080c65cb1",
+    "https://www.loc.gov/item/2024597326/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd381:g3814:g3814f:ct005927/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597326/\"}",
+  "dct_spatial_sm": [
+    "franklin furnace",
+    "franklin furnace (n.j.)",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ore-dressing--New Jersey--Franklin Furnace--Maps",
+    "United States--New Jersey--Franklin Furnace (N.J.)"
+  ],
+  "dct_temporal_sm": [
+    "1860",
+    "[Franklin Furnace, N.J.?] : [producer not identified], [1860?]"
+  ],
+  "dct_title_s": "[Map of Franklin Furnace, N.J. with proposed changes in smelter or blast furnace development]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597326",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

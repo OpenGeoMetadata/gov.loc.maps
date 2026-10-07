@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Baltimore and Ohio Railroad Company; Fink, Albert, 1827-1897",
+    "Description derived from published bibliography.",
+    "Includes profiles.",
+    "LC Railroad maps, 336",
+    "On the verso in ms: U.S. Engineers. O. Linneman, C. E. 11 July 1857.",
+    "Publication statement: Baltimore, 1850.",
+    "Scale 1:126,720.",
+    "Topographical map of part of the middle Atlantic region showing relief by hachures, drainage, cities and towns, counties, roads, turnpikes, railroads in operation, final location of lines, surveyed lines, and rejected lines."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3791p.rr003360",
+    "http://lccn.loc.gov/98688591",
+    "http://www.loc.gov/item/98688591/",
+    "http://www.loc.gov/resource/g3791p.rr003360/",
+    "https://hdl.loc.gov/loc.gmd/g3791p.rr003360",
+    "https://search.catalog.loc.gov/instances/452e80b8-bb50-5a0e-ae2b-d6d97f7fc31d",
+    "https://www.loc.gov/item/98688591/"
+  ],
+  "dct_issued_s": "1850",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd379/g3791/g3791p/rr003360.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688591/\"}",
+  "dct_spatial_sm": [
+    "middle atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Baltimore and Ohio Railroad Company--Maps",
+    "Railroads--Middle Atlantic States--Maps",
+    "United States--Middle Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "dct_title_s": "Map & profile of the location of the Baltimore & Ohio Rail Road from Cumberland to Wheeling showing also the various routes surveyed from the 1836 to the final establishment in 1850 of the line upon which the road is being constructed; Benj. H. Latrobe, Chief Engineer; drawn by Albert Fink, Baltimore 1850",
+  "gbl_dateRange_drsim": [
+    "[1850 TO 1850]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1850
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688591",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

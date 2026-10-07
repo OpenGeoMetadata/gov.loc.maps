@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Savannah and Memphis Railroad",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 554",
+    "LC also has 1873 edition which extends to Iowa and New York.",
+    "Map of the southern United States showing drainage, cities and towns, township and county boundaries, mining and agricultural regions in Alabama, and the railroad network.",
+    "Publication statement: New York, 1872.",
+    "Scale 1:1,267,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3866p.rr005540",
+    "http://lccn.loc.gov/98688798",
+    "http://www.loc.gov/item/98688798/",
+    "http://www.loc.gov/resource/g3866p.rr005540/",
+    "https://hdl.loc.gov/loc.gmd/g3866p.rr005540",
+    "https://search.catalog.loc.gov/instances/696d5a02-b6ed-5455-9117-ee7a77afc35b",
+    "https://www.loc.gov/item/98688798/"
+  ],
+  "dct_issued_s": "1872",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3866/g3866p/rr005540.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688798/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Alabama--Economic conditions--Maps",
+    "Railroads--Southern States--Maps",
+    "Savannah and Memphis Railroad",
+    "United States--Alabama",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "dct_title_s": "Map showing the line of the Savannah & Memphis Railroad and its connections",
+  "gbl_dateRange_drsim": [
+    "[1872 TO 1872]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1872
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688798",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 501178 6-73.\"",
+    "\"Base 501178 6-73.\" Relief shown by shading and spot heights. Includes inset of \"Galapagos Islands (Archipiélago de Colón),\" comparative area map, location map with radial distances, and subject maps of \"Population,\" \"Economic activity,\" and \"Vegetation.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes inset of \"Galapagos Islands (Archipiélago de Colón),\" comparative area map, location map with radial distances, and subject maps of \"Population,\" \"Economic activity,\" and \"Vegetation.\"",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1973]",
+    "Relief shown by shading and spot heights."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5300.ct000474",
+    "http://lccn.loc.gov/84694273",
+    "http://www.loc.gov/item/84694273/",
+    "http://www.loc.gov/resource/g5300.ct000474/",
+    "https://hdl.loc.gov/loc.gmd/g5300.ct000474",
+    "https://search.catalog.loc.gov/instances/9a78160c-d3c2-5a27-acf7-35f3b30ae7ae",
+    "https://www.loc.gov/item/84694273/"
+  ],
+  "dct_issued_s": "1973",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5300/g5300/ct000474.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/84694273/\"}",
+  "dct_spatial_sm": [
+    "ecuador"
+  ],
+  "dct_subject_sm": [
+    "Ecuador",
+    "Ecuador--Economic conditions--1972---Maps",
+    "Ecuador--Maps",
+    "Ecuador--Population--Maps",
+    "Phytogeography--Ecuador--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "dct_title_s": "Ecuador",
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1973]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1973
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-84694273",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

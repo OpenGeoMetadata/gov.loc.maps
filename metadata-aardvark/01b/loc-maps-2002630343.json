@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"July 1997 1008394.\"",
+    "\"July 1997 1008394.\" \"Source: Urban/built-up areas were derived from the 1990 TIGER census data (UEAs) intergrated with the USGS 1:2,500,000 Land Cover Digital Data (USGS, 1986), State Soil Geographic Data Base (STATSGO) and information from NRCS field personnel.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"Source: Urban/built-up areas were derived from the 1990 TIGER census data (UEAs) intergrated with the USGS 1:2,500,000 Land Cover Digital Data (USGS, 1986), State Soil Geographic Data Base (STATSGO) and information from NRCS field personnel.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartography and Geographic Information Systems Center (U.S.); United States. Natural Resources Conservation Service",
+    "Publication statement: Fort Worth, TX : USDA, NRCS, National Cartography & GIS Center ; [Columbus, Ohio State Conservationist, distributor, 1997]."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2002630343",
+    "http://www.loc.gov/item/2002630343/",
+    "http://www.loc.gov/resource/g4081j.ct011814/",
+    "https://hdl.loc.gov/loc.gmd/g4081j.ct011814",
+    "https://search.catalog.loc.gov/instances/eadeea0d-083c-5cd4-ac41-1730e355f2d6",
+    "https://www.loc.gov/item/2002630343/"
+  ],
+  "dct_issued_s": "1997",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4081/g4081j/ct011814.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002630343/\"}",
+  "dct_spatial_sm": [
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Agricultural resources--Ohio--Maps",
+    "Land capability for agriculture--Ohio--Maps",
+    "Soil productivity--Ohio--Maps",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "dct_title_s": "Prime farmland distribution, Ohio",
+  "gbl_dateRange_drsim": [
+    "[1997 TO 1997]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002630343",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

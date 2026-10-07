@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Presented by the Home Insurance Compy. of New York.\"",
+    "\"Presented by the Home Insurance Compy. of New York.\" A few battle sites are marked by crossed swords. Shows roads, railroads, towns, county names and boundaries, and drainage. Description derived from published bibliography. Scale ca. 1:375,000. LC Civil War Maps (2nd ed.), 459 Available also through the Library of Congress web site as raster image.",
+    "A few battle sites are marked by crossed swords. Shows roads, railroads, towns, county names and boundaries, and drainage.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Heald, D. A. (Daniel Addison), 1818-1900",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 459",
+    "Publication statement: [S.l., 1862]",
+    "Scale ca. 1:375,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882v.cw0459000",
+    "http://lccn.loc.gov/99448492",
+    "http://www.loc.gov/item/99448492/",
+    "http://www.loc.gov/resource/g3882v.cw0459000/",
+    "https://hdl.loc.gov/loc.gmd/g3882v.cw0459000",
+    "https://search.catalog.loc.gov/instances/2d3364aa-a040-5a03-baee-6b2793dd3aee",
+    "https://www.loc.gov/item/99448492/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882v/cw0459000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448492/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "virginia peninsula"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia--Virginia Peninsula",
+    "Virginia Peninsula (Va.)--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "The battle fields and military positions in the Virginian Peninsula, from surveys supplied by officers of the army",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448492",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

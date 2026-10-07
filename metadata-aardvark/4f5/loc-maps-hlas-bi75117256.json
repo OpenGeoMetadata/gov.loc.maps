@@ -1,0 +1,49 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: editôra geográfica paulini; hébert, john r.; novás, paule"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi75117256/",
+    "https://www.loc.gov/item/hlas-bi75117256/"
+  ],
+  "dct_issued_s": "1974",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_publisher_sm": [
+    "Editôra Geográfica Paulini,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi75117256/\"}",
+  "dct_spatial_sm": [
+    "brazil"
+  ],
+  "dct_subject_sm": [
+    "maps and cartography",
+    "rondônia, brazil (state)",
+    "rondônia, brazil (state) -- maps and cartography"
+  ],
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "dct_title_s": "Territorio Federal de Rondonia",
+  "gbl_dateRange_drsim": [
+    "[1974 TO 1974]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1974
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi75117256",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

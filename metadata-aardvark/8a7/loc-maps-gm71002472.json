@@ -1,0 +1,76 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Complete map of the twenty-three provinces of the great Qing Dynasty",
+    "Alternate title: Da Qing yi tong nian san sheng yu di quan tu",
+    "Complete map of the twenty-three provinces of the great Qing Dynasty",
+    "Da Qing yi tong nian san sheng yu di quan tu",
+    "大清一统二十三省舆地全图"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Shenjiang mo shu guan",
+    "List of administrative subdivisions of each province on verso.",
+    "Not drawn to scale.",
+    "Not drawn to scale. Shows 23 provinces of China, including Taiwan. Also shows Korea, and Japan. Pictorial map. Wood block print. Relief shown pictorially. Oriented with north toward the upper right. Title in alternate reading: Da Qing yi tong er shi san sheng yu di quan tu. List of administrative subdivisions of each province on verso. Available also through the Library of Congress Web site as a raster image. AACR2 Previous call no.: G7821.S37 1890 .S5",
+    "Oriented with north toward the upper right.",
+    "Pictorial map.",
+    "Previous call no.: G7821.S37 1890 .S5",
+    "Publication statement: China : Shenjiang mo shu guan, 1890.",
+    "Relief shown pictorially.",
+    "Shows 23 provinces of China, including Taiwan. Also shows Korea, and Japan.",
+    "Title in alternate reading: Da Qing yi tong er shi san sheng yu di quan tu.",
+    "Wood block print."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7821f.ct001902",
+    "http://lccn.loc.gov/gm71002472",
+    "http://www.loc.gov/item/gm71002472/",
+    "http://www.loc.gov/resource/g7821f.ct001902/",
+    "https://hdl.loc.gov/loc.gmd/g7821f.ct001902",
+    "https://search.catalog.loc.gov/instances/af0e5660-4689-520b-8378-5ce59b2ad10d",
+    "https://www.loc.gov/item/gm71002472/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7821/g7821f/ct001902.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002472/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "japan",
+    "korea"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Administrative and political divisions--Maps",
+    "Japan",
+    "Japan--Maps",
+    "Korea",
+    "Korea--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Da Qing yi tong er shi san sheng yu di quan tu",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002472",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

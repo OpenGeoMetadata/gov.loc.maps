@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At bottom marign: Zu Ebelings Erdbeschreibung von Amerika.",
+    "At upper right corner: No. IX.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Both copies mounted on cloth.",
+    "Contributors: Bohn, Carl Ernst., publisher; Sander, Wilhelm, 1766-1836., engraver; Sotzmann, D. F., cartographer",
+    "Legend in German and English. Place names are in German and/or English.",
+    "Publication statement: Hamburg : Bey Carl Ernst Bohn, 1797.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows longitude west from Greenwich and east from Washington. Shows counties and minor civil subdivisions. Both copies mounted on cloth. At upper right corner: No. IX. At bottom marign: Zu Ebelings Erdbeschreibung von Amerika. Available also through the Library of Congress Web site as a raster image. Legend in German and English. Place names are in German and/or English. vcFY25",
+    "Shows counties and minor civil subdivisions.",
+    "Shows longitude west from Greenwich and east from Washington.",
+    "vcFY25"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597791",
+    "http://www.loc.gov/item/2024597791/",
+    "http://www.loc.gov/resource/g3820.ct005999/",
+    "http://www.loc.gov/resource/g3820.ct006000/",
+    "https://hdl.loc.gov/loc.gmd/g3820.ct005999",
+    "https://hdl.loc.gov/loc.gmd/g3820.ct006000",
+    "https://search.catalog.loc.gov/instances/d56fe5ff-156d-54a9-92a6-17ec74fa3f6f",
+    "https://www.loc.gov/item/2024597791/"
+  ],
+  "dct_issued_s": "1797",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3820:g3820:ct005999/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597791/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pennsylvania--Maps--Early works to 1800",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1797"
+  ],
+  "dct_title_s": "Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1797 TO 1797]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1797
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597791",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

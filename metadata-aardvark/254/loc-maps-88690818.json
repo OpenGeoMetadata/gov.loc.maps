@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At lower right: 211, L. Sheet 10.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Black ink, red ink, and lead pencil.",
+    "Contributors: United States. Army. Corps of Engineers",
+    "DCP",
+    "Library of Congress. Civil War maps (2nd ed.), 691.2",
+    "Mounted on cloth backing.",
+    "Publication statement: [186-?]",
+    "Relief shown by contours and spot heights.",
+    "Vault",
+    "Vault DCP Relief shown by contours and spot heights. Black ink, red ink, and lead pencil. Mounted on cloth backing. At lower right: 211, L. Sheet 10. Library of Congress. Civil War maps (2nd ed.), 691.2 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852f.cw0691200",
+    "http://lccn.loc.gov/88690818",
+    "http://www.loc.gov/item/88690818/",
+    "http://www.loc.gov/resource/g3852f.cw0691200/",
+    "https://hdl.loc.gov/loc.gmd/g3852f.cw0691200",
+    "https://search.catalog.loc.gov/instances/072633e4-f76e-5dca-a149-8293a0393762",
+    "https://www.loc.gov/item/88690818/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852f/cw0691200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690818/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "fort mahan region",
+    "fort mahan region (washington)",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Fort Mahan Region (Washington, D.C.)--Maps",
+    "Military topography--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Fort Mahan Region (Washington)",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Hill no. 3 opposite Fort Maha[n] : [Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-88690818",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

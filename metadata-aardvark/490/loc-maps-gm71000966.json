@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"37.\"",
+    "2 copies",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Border design may differ from another copy.",
+    "Contributors: Johnson and Ward",
+    "DCP",
+    "From unidentified atlas.",
+    "Hand colored.",
+    "Hand colored. Relief shown by hachures. From unidentified atlas. Border design may differ from another copy. \"37.\" Part of gazetteer on verso. Scale ca. 1:25,500. Available also through the Library of Congress Web site as a raster image. LC copy 1 brittle, town, and taped. Copy 2 mounted on cloth backing. 2 copies DCP AACR2",
+    "LC copy 1 brittle, town, and taped. Copy 2 mounted on cloth backing.",
+    "Part of gazetteer on verso.",
+    "Publication statement: [New York, 1862]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:25,500."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.wd000565",
+    "http://lccn.loc.gov/gm71000966",
+    "http://www.loc.gov/item/gm71000966/",
+    "http://www.loc.gov/resource/g3850.wd000565/",
+    "https://hdl.loc.gov/loc.gmd/g3850.wd000565",
+    "https://search.catalog.loc.gov/instances/0fda4c77-a8d6-5edd-8074-eaefcb7f76b7",
+    "https://www.loc.gov/item/gm71000966/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/wd000565.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000966/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "georgetown",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Georgetown (Washington, D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Georgetown",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Johnson's Georgetown and the city of Washington, the capital of the United States of America",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000966",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

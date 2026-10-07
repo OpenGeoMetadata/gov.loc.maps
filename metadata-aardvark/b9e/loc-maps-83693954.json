@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beck & Pauli; Stoner, J. J.; Wellge, H. (Henry)",
+    "Indexed for points of interest.",
+    "Oriented with north toward the upper left.",
+    "Oriented with north toward the upper left. Indexed for points of interest. Available also through the Library of Congress Web site as a raster image. PM3",
+    "PM3",
+    "Publication statement: Madison, Wis. : J.J. Stoner, [1884]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3934k.pm001142",
+    "http://lccn.loc.gov/83693954",
+    "http://www.loc.gov/item/83693954/",
+    "http://www.loc.gov/resource/g3934k.pm001142/",
+    "https://hdl.loc.gov/loc.gmd/g3934k.pm001142",
+    "https://search.catalog.loc.gov/instances/749f19de-275e-530e-90b0-b1f7a289b7f3",
+    "https://www.loc.gov/item/83693954/"
+  ],
+  "dct_issued_s": "1884",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3934/g3934k/pm001142.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83693954/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "key west",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Key West (Fla.)--Aerial views",
+    "Key West (Fla.)--Maps",
+    "United States--Florida--Key West"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_title_s": "Bird's eye view of Key West, Fla., Key West Island, C.S. Monroe Co., 1884",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83693954",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

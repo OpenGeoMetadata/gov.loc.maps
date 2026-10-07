@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "American Colonization Society collection",
+    "HTML source code title: Liberia maps"
+  ],
+  "dct_description_sm": [
+    "Contributors: american colonization society; library of congress. geography and map division; library of congress. national digital library program",
+    "This collection of Liberia maps includes twenty examples from the American Colonization Society (ACS), organized in 1817 to resettle free black Americans in West Africa. These maps show early settlements in Liberia, indigenous political subdivisions, and some of the building lots that were assigned to settlers. This on-line presentation also includes other nineteenth-century maps of Liberia: a map prepared for a book first published in the 1820's by ACS agent Jehudi Ashmun, a map showing the areas in Liberia that were ceded to the society by indigenous chiefs, and a detailed map dated 1869 by a man thought to be the black American explorer Benjamin Anderson."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2006577708",
+    "http://www.loc.gov/collections/liberia/",
+    "http://www.loc.gov/collections/maps-of-liberia-1830-to-1870/about-this-collection/",
+    "http://www.loc.gov/item/2006577708/",
+    "https://hdl.loc.gov/loc.gmd/collgmd.gm000003",
+    "https://lccn.loc.gov/2006577708",
+    "https://search.catalog.loc.gov/instances/4980c718-3a45-55df-abeb-22ab0c45f88e",
+    "https://www.loc.gov/item/2006577708",
+    "https://www.loc.gov/item/2006577708/"
+  ],
+  "dct_issued_s": "1998",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://www.loc.gov/static/collections/maps-of-liberia-1830-to-1870/500_500.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006577708/\"}",
+  "dct_spatial_sm": [
+    "liberia",
+    "west africa"
+  ],
+  "dct_subject_sm": [
+    "Africa",
+    "Africa & the Middle East",
+    "African-American History",
+    "American History",
+    "Discovery and Exploration",
+    "Maps & Geography",
+    "Slavery",
+    "World Cultures & History"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dct_title_s": "Maps of Liberia, 1830-1870",
+  "gbl_dateRange_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006577708",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

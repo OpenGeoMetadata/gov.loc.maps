@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Artaria & Co., publisher; Fillmore, Millard, 1800-1874, collector; Pinnetti, G. A. F., cartographer",
+    "In Italian. Legend in Italian and German.",
+    "LC copy sectioned into 24 and mounted on cloth, folding to 19 x 13 cm. In manuscript on verso lower left: 139 Italy 1821. In manuscript on blue bordered label on verso lower right: 15.",
+    "Publication statement: Vienna : Presso Artaria & comp. ; Milano : Presso li Negti di stampe C.P.S.C.M., [1821?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. LC copy sectioned into 24 and mounted on cloth, folding to 19 x 13 cm. In manuscript on verso lower left: 139 Italy 1821. In manuscript on blue bordered label on verso lower right: 15. Available also through the Library of Congress Web site as a raster image. In Italian. Legend in Italian and German."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018588026",
+    "http://www.loc.gov/item/2018588026/",
+    "http://www.loc.gov/resource/g6711p.fi000187r/",
+    "http://www.loc.gov/resource/g6711p.fi000187v/",
+    "https://hdl.loc.gov/loc.gmd/g6711p.fi000187r",
+    "https://hdl.loc.gov/loc.gmd/g6711p.fi000187v",
+    "https://search.catalog.loc.gov/instances/93b45f08-86a3-591e-b7ed-5c7feec2ca2a",
+    "https://www.loc.gov/item/2018588026/"
+  ],
+  "dct_language_sm": [
+    "ger",
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6711/g6711p/fi000187r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018588026/\"}",
+  "dct_spatial_sm": [
+    "italy"
+  ],
+  "dct_subject_sm": [
+    "Italy",
+    "Post roads--Italy--Maps",
+    "Postal service--Italy--Maps",
+    "Roads--Italy--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1821",
+    "Vienna : Presso Artaria & comp. ; Milano : Presso li Negti di stampe C.P.S.C.M., [1821?]"
+  ],
+  "dct_title_s": "Carta postale e stradale dell'Italia",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018588026",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "3 copies; 1 copy missing; 1 copy to P&P?",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image. 3 copies; 1 copy missing; 1 copy to P&P?",
+    "Contributors: Gordon, Peter, 1697-1740",
+    "Publication statement: [S.l., 1876]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3924s.pm001305",
+    "http://lccn.loc.gov/97683565",
+    "http://www.loc.gov/item/97683565/",
+    "http://www.loc.gov/resource/g3924s.pm001305/",
+    "https://hdl.loc.gov/loc.gmd/g3924s.pm001305",
+    "https://search.catalog.loc.gov/instances/24d61869-a24a-5096-87e7-67790ab18ce4",
+    "https://www.loc.gov/item/97683565/"
+  ],
+  "dct_issued_s": "1734",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3924/g3924s/pm001305.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97683565/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "savannah",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States--Georgia--Savannah",
+    "View"
+  ],
+  "dct_temporal_sm": [
+    "1734"
+  ],
+  "dct_title_s": "A view of Savannah as it stood the 29th of March 1734",
+  "gbl_dateRange_drsim": [
+    "[1734 TO 1734]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1734
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97683565",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

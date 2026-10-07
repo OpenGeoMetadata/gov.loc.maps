@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "План Томской губернии заштатного города Семипалатинска с настоящего его положения"
+  ],
+  "dct_description_sm": [
+    "Original map at: Tomsk Oblast Museum of Regional History and Folklife",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1846."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694045",
+    "http://www.loc.gov/item/2018694045/",
+    "http://www.loc.gov/resource/gdc.2018694045/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.wmt0031",
+    "https://search.catalog.loc.gov/instances/a8c2a31b-a82e-54fa-b1df-068080dc28b6",
+    "https://www.loc.gov/item/2018694045/"
+  ],
+  "dct_issued_s": "1846",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694045.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694045/2018694045.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694045:wmt0031/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694045/\"}",
+  "dct_spatial_sm": [
+    "east kazakhstan region",
+    "kazakhstan",
+    "semey"
+  ],
+  "dct_subject_sm": [
+    "East Kazakhstan Region",
+    "Kazakhstan",
+    "Semey",
+    "Semipalatinsk",
+    "gorod",
+    "plan",
+    "Семипалатинск",
+    "город",
+    "план"
+  ],
+  "dct_temporal_sm": [
+    "1846"
+  ],
+  "dct_title_s": "Plan Tomskoĭ gubernii zashtatnogo goroda Semipalatinska s nastoi︠a︡shchego ego polozhenii︠a︡",
+  "gbl_dateRange_drsim": [
+    "[1846 TO 1846]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1846
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694045",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

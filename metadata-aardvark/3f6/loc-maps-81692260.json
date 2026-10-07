@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from USGS quad sheets and latest county highway maps ...\"",
+    "\"February 1979 4-R-36992. September 1978 base 4-R-36822.\"",
+    "\"February 1979 4-R-36992. September 1978 base 4-R-36822.\" Shows classes of land stabilization and critical area treatment by gully classification. \"Source: Data compiled by Watershed Planning Staff.\" \"Base compiled from USGS quad sheets and latest county highway maps ...\" Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "\"Source: Data compiled by Watershed Planning Staff.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: [Fort Worth? Tex.] : U.S. Dept. of Agriculture, Soil Conservation Service, [1979]",
+    "Shows classes of land stabilization and critical area treatment by gully classification."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81692260",
+    "http://www.loc.gov/item/81692260/",
+    "http://www.loc.gov/resource/g3972w.ct010705/",
+    "https://hdl.loc.gov/loc.gmd/g3972w.ct010705",
+    "https://search.catalog.loc.gov/instances/108ffa62-901e-59dd-9278-0d5e41005b85",
+    "https://www.loc.gov/item/81692260/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3972/g3972w/ct010705.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81692260/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "united states",
+    "wilkerson creek watershed"
+  ],
+  "dct_subject_sm": [
+    "Soil conservation--Alabama--Wilkerson Creek watershed--Maps",
+    "United States--Alabama--Wilkerson Creek watershed"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Project map, Wilkerson Creek watershed, Coffee, Dale, and Geneva Counties, Alabama",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81692260",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

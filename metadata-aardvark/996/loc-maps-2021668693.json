@@ -1,0 +1,75 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "De Heylige en wytvermaerde stadt Ierusalem, eerst genaemt Salem"
+  ],
+  "dct_description_sm": [
+    "Content in Dutch.",
+    "Contributors: Visscher, Claes Jansz., 1586 or 1587-1652 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map : color ; 40 x 49 centimeters.",
+    "Publication statement: Amsterdam : Nicolaes Visscher, 1756.",
+    "Shown here is a 1756 reprint of a map of Jerusalem originally created in 1643 by Claes Janszoon Visscher (1586 or 1587-1652). It offers an imaginary, detailed bird's-eye view of the city, with 36 important locations from the Bible identified by name on a scrollwork legend held up by an eagle. The sites include Solomon's Temple (upper center), the walls and gates of the city, the crucifixion at Golgotha, or Calvary (bottom left), Berch Gihon, where King Solomon was anointed by Zadok the priest (bottom right), and Herod's Palace (far left). North is oriented towards the left. The inscription near the base in the center explains that the map was to appear in a Bible before the book of Nehemiah, Chapter 3. The title scroll at top links this image to Genesis, Chapter 14, Verse 18. The map is derived from a similar map by Johann and Henricus Stern, created in 1630. Visscher, his son Nicolaes, and his grandson Nicolaes II were important art and map dealers in Amsterdam for about 100 years, beginning in the early 17th century. The Visschers worked primarily as art dealers, but they were also publishers who produced individual maps and compiled atlases to order. Their works are noteworthy for their fine engraving, the accuracy of the maps, and the beautiful illustrations. Two of the leading artists who worked on Visscher maps were Abraham van den Broeck (1616-88) and Nicolaes Berchem (1620-83). This map was long one of the most popular views of Jerusalem to circulate in Europe.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668693",
+    "http://www.loc.gov/item/2021668693/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_17570/",
+    "http://www.loc.gov/resource/wdl.17570/",
+    "https://hdl.loc.gov/loc.wdl/wdl.17570",
+    "https://www.loc.gov/item/2021668693/"
+  ],
+  "dct_issued_s": "1756-01-01",
+  "dct_language_sm": [
+    "dut",
+    "flemish"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_17570.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/17/57/0/wdl_17570/wdl_17570.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:57:0:wdl_17570:250/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668693/\"}",
+  "dct_spatial_sm": [
+    "israel",
+    "jerusalem"
+  ],
+  "dct_subject_sm": [
+    "1000 B.C. to 33",
+    "Aerial views",
+    "Bible -- Geography",
+    "Bible. New Testament",
+    "Bible. Old Testament",
+    "Churches",
+    "Cities and towns",
+    "City walls",
+    "Crucifixion of the Christ",
+    "Fantasy in art",
+    "Israel--Jerusalem",
+    "Jesus Christ",
+    "Solomon, King of Israel",
+    "Temple Mount (Jerusalem)",
+    "Temples"
+  ],
+  "dct_temporal_sm": [
+    "1756-01-01"
+  ],
+  "dct_title_s": "The Holy and Expanded City of Jerusalem, First Known as Salem.",
+  "gbl_dateRange_drsim": [
+    "[1756 TO 1756]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1756
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668693",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

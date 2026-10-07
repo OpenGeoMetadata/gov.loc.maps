@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Legende\" indicates earthworks, forts, etc. with indication of number of soldiers to man them.",
+    "\"This manuscript map in pen-and-ink and watercolor, most likely made by a French military cartographer in 1781, shows New York and its environs near the conclusion of the American Revolution. The map extends from Yonkers, New York in the north to Staten Island in the south and from New Rochelle, New York in the east to Totowa, New Jersey in the west. The map identifies roads, fortifications, redoubts, batteries, vegetation, and relief. A legend on the right side of the map is keyed to earthworks, fortifications, and batteries on Manhattan Island, Paulus Hook, Long Island, and Governors Island. Different letters are used to indicate the characteristics and relative strengths of each installation. In addition to the North (Hudson) River, the map shows the Passaic, Hackensack, and Saddle Rivers in New Jersey. The British captured New York in September 1776. In the summer of 1781, General George Washington, commander of the Continental Army, considered an attack on New York, but he and the Comte de Rochambeau instead feigned preparations for an attack on the city while stealthily moving their troops to Yorktown, Virginia. There, the British under General Charles Cornwallis (1738-1805) were forced to surrender in what proved to be the climactic battle of the Revolutionary War. The title is from a manuscript label, which was on the verso as originally mounted. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 440; 651/1; 650/2; 651/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Maps of North America, 1750-1789, 1214",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: 1781?]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:82,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ar121400",
+    "http://lccn.loc.gov/gm71000992",
+    "http://www.loc.gov/item/gm71000992/",
+    "http://www.loc.gov/resource/g3804n.ar121400/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ar121400",
+    "https://search.catalog.loc.gov/instances/c290122b-a2ae-5dff-9dcb-7a086b8279cc",
+    "https://www.loc.gov/item/gm71000992/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ar121400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000992/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "new york city",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fortification--New York (State)--New York--Maps--Early works to 1800",
+    "New York (N.Y.)--Buildings, structures, etc.--Maps--Early works to 1800",
+    "New York (N.Y.)--Maps, Manuscript--Early works to 1800",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1781",
+    "1781?]"
+  ],
+  "dct_title_s": "[Plan de New-York et les environs",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000992",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

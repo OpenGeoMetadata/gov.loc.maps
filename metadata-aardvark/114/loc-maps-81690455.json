@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"April 1978 base 4-R-36590.\"",
+    "\"Base compiled from U.S.G.S. quadrangle sheets and Georgia county highway map ...\"",
+    "\"Base compiled from U.S.G.S. quadrangle sheets and Georgia county highway map ...\" UTM grid. Includes text and location map. \"April 1978 base 4-R-36590.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes text and location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1979.",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81690455",
+    "http://www.loc.gov/item/81690455/",
+    "http://www.loc.gov/resource/g3923g.ct010117/",
+    "https://hdl.loc.gov/loc.gmd/g3923g.ct010117",
+    "https://search.catalog.loc.gov/instances/26f35613-27af-5439-a854-738c075b48ba",
+    "https://www.loc.gov/item/81690455/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3923/g3923g/ct010117.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690455/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "gordon county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Land capability for agriculture--Georgia--Gordon County--Maps",
+    "United States--Georgia--Gordon County"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Gordon County, Georgia : soil interpretive map of suitability for crops and pasture",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690455",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

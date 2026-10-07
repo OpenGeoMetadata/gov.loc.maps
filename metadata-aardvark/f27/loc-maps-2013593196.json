@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Published April 1st, 1903 by the Marion Daily Leader, W.B. Westlake, Publisher, The paper that nearly everybody reads.\"",
+    "\"Published April 1st, 1903 by the Marion Daily Leader, W.B. Westlake, Publisher, The paper that nearly everybody reads.\" Includes advertisements. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Westlake, W. B.",
+    "Includes advertisements.",
+    "Publication statement: Madison, Ind. : W.B. Westlake, 1903."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4093g.la002138",
+    "http://lccn.loc.gov/2013593196",
+    "http://www.loc.gov/item/2013593196/",
+    "http://www.loc.gov/resource/g4093g.la002138/",
+    "https://hdl.loc.gov/loc.gmd/g4093g.la002138",
+    "https://search.catalog.loc.gov/instances/e4ecac2c-a7a6-5b17-95f3-9d8a77fd9cda",
+    "https://www.loc.gov/item/2013593196/"
+  ],
+  "dct_issued_s": "1903",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409/g4093/g4093g/la002138.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593196/\"}",
+  "dct_spatial_sm": [
+    "grant county",
+    "indiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Indiana--Grant County--Maps",
+    "Real property--Indiana--Grant County--Maps",
+    "United States--Indiana--Grant County"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dct_title_s": "Map of Grant County, Indiana",
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1903]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593196",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

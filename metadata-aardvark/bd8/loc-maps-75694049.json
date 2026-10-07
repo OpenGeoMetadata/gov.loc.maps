@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"56828.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes comparative area map, location map, and subject maps of \"Population,\" \"Vegetation,\" and \"Economic activity\" in right margin.",
+    "Publication statement: [Washington, 1968]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. \"56828.\" Includes comparative area map, location map, and subject maps of \"Population,\" \"Vegetation,\" and \"Economic activity\" in right margin. Scale 1:2,000,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale 1:2,000,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5260.ct002956",
+    "http://lccn.loc.gov/75694049",
+    "http://www.loc.gov/item/75694049/",
+    "http://www.loc.gov/resource/g5260.ct002956/",
+    "https://hdl.loc.gov/loc.gmd/g5260.ct002956",
+    "https://search.catalog.loc.gov/instances/3380eccc-fc56-50d8-ae3c-e9cea6f9d38f",
+    "https://www.loc.gov/item/75694049/"
+  ],
+  "dct_issued_s": "1968",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5260/g5260/ct002956.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694049/\"}",
+  "dct_spatial_sm": [
+    "suriname"
+  ],
+  "dct_subject_sm": [
+    "Phytogeography--Suriname--Maps",
+    "Suriname",
+    "Suriname--Economic conditions--Maps",
+    "Suriname--Maps",
+    "Suriname--Population--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "dct_title_s": "Surinam. 3-68",
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1968]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694049",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

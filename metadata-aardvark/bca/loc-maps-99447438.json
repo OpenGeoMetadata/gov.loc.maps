@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Konig, A.",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 296",
+    "Maps of the battlefields at \"Mine Creek, Oct. 22d 64,\" \"Westport, Oct. 23d 64\" \"Charlot, Oct. 25th 64,\" and \"Newtonia, Nov. 4th 64,\" showing the positions of troops, roads, drainage, a few houses, and relief by hachures.",
+    "Maps of the battlefields at \"Mine Creek, Oct. 22d 64,\" \"Westport, Oct. 23d 64\" \"Charlot, Oct. 25th 64,\" and \"Newtonia, Nov. 4th 64,\" showing the positions of troops, roads, drainage, a few houses, and relief by hachures. Description derived from published bibliography. Scale not given. LC Civil War Maps (2nd ed.), 296 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: [S.l., 1865]",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4161s.cw0296000",
+    "http://lccn.loc.gov/99447438",
+    "http://www.loc.gov/item/99447438/",
+    "http://www.loc.gov/resource/g4161s.cw0296000/",
+    "https://hdl.loc.gov/loc.gmd/g4161s.cw0296000",
+    "https://search.catalog.loc.gov/instances/89e480b7-51c4-56d9-8581-2655dd662194",
+    "https://www.loc.gov/item/99447438/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd416/g4161/g4161s/cw0296000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447438/\"}",
+  "dct_spatial_sm": [
+    "missouri",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Missouri--History--Civil War, 1861-1865--Maps",
+    "United States--Missouri"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Battle grounds in Missouri during Price's raid in the fall 1864",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447438",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

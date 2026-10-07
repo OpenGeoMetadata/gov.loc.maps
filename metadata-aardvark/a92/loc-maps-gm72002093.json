@@ -1,0 +1,87 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2; 650/3; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brasier, William; Jackson, captain; Robert Sayer and John Bennett (Firm)",
+    "From the publishers' The American military pocket atlas. [1776]",
+    "Hand colored.",
+    "Hand colored. Relief shown by hachures. Shows naval actions at Valcour Island and Buttonmold Bay in Oct. 1776. From the publishers' The American military pocket atlas. [1776] Includes indexes to points of interest and descriptive text. Includes text, \"Explanation of the engagement, between Valcour Island, and the Western Shore, October the 11th. 1776,\" and inset \"A particular plan of Lake George surveyed in 1756, by Capt. Jackson.\" LC copy 3, on verso, in ink: 6. Scale ca. 1:400,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 1073 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1; 651/2; 650/3; 710/1",
+    "Includes indexes to points of interest and descriptive text.",
+    "Includes text, \"Explanation of the engagement, between Valcour Island, and the Western Shore, October the 11th. 1776,\" and inset \"A particular plan of Lake George surveyed in 1756, by Capt. Jackson.\"",
+    "LC copy 3, on verso, in ink: 6.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 1073",
+    "Publication statement: London, Printed for Robt. Sayer & Jno. Bennett, 1776.",
+    "Relief shown by hachures.",
+    "Scale ca. 1:400,000.",
+    "Shows naval actions at Valcour Island and Buttonmold Bay in Oct. 1776.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3802c.ar107300",
+    "http://hdl.loc.gov/loc.gmd/g3802c.ar107301",
+    "http://hdl.loc.gov/loc.gmd/g3802c.ar107302",
+    "http://hdl.loc.gov/loc.gmd/g3802c.ar107303",
+    "http://hdl.loc.gov/loc.gmd/g3802c.ar107309",
+    "http://lccn.loc.gov/gm72002093",
+    "http://www.loc.gov/item/gm72002093/",
+    "http://www.loc.gov/resource/g3802c.ar107300/",
+    "http://www.loc.gov/resource/g3802c.ar107301/",
+    "http://www.loc.gov/resource/g3802c.ar107302/",
+    "http://www.loc.gov/resource/g3802c.ar107303/",
+    "http://www.loc.gov/resource/g3802c.ar107309/",
+    "https://hdl.loc.gov/loc.gmd/g3802c.ar107300",
+    "https://hdl.loc.gov/loc.gmd/g3802c.ar107301",
+    "https://hdl.loc.gov/loc.gmd/g3802c.ar107302",
+    "https://hdl.loc.gov/loc.gmd/g3802c.ar107303",
+    "https://hdl.loc.gov/loc.gmd/g3802c.ar107309",
+    "https://search.catalog.loc.gov/instances/31cd72b8-49ec-5b34-968e-64d8eb9918a3",
+    "https://www.loc.gov/item/gm72002093/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3802/g3802c/ar107300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm72002093/\"}",
+  "dct_spatial_sm": [
+    "champlain",
+    "champlain, lake",
+    "george",
+    "george, lake",
+    "lake",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Champlain, Lake",
+    "Champlain, Lake--History",
+    "George, Lake (N.Y. : Lake)",
+    "United States--Champlain, Lake",
+    "United States--New York (State)--George, Lake",
+    "Valcour Island, Battle of, N.Y., 1776"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "A survey of Lake Champlain, including Lake George, Crown Point, and St. John",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm72002093",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 710/1",
+    "AACR2: 651/1; 710/1 Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 721 Available also through the Library of Congress Web site as a raster image. LC copy annotated.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Dakin Publishing Co; East Oregonian Publishing Co",
+    "Indexed for points of interest.",
+    "LC copy annotated.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 721",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Pendleton [189-?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4294p.pm007210",
+    "http://lccn.loc.gov/75694936",
+    "http://www.loc.gov/item/75694936/",
+    "http://www.loc.gov/resource/g4294p.pm007210/",
+    "https://hdl.loc.gov/loc.gmd/g4294p.pm007210",
+    "https://search.catalog.loc.gov/instances/a6101a3e-1a56-5771-b5df-c8acdbd2c033",
+    "https://www.loc.gov/item/75694936/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd429/g4294/g4294p/pm007210.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694936/\"}",
+  "dct_spatial_sm": [
+    "oregon",
+    "pendleton",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pendleton (Or.)--Maps",
+    "United States--Oregon--Pendleton"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Bird's eye view of Pendleton, Umatilla County, Ore",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694936",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

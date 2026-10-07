@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Contour lines determined by Bolt, Beranek & Newman, Inc.\"",
+    "\"Prepared by the FAA solely for planning purposes with respect to future land use.\"",
+    "\"Prepared by the FAA solely for planning purposes with respect to future land use.\" \"Contour lines determined by Bolt, Beranek & Newman, Inc.\" Includes \"Chart for estimating possible response from noise exposure forecast.\" Scale ca. 1:100,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bolt, Beranek, and Newman, inc; United States. Federal Aviation Administration",
+    "Includes \"Chart for estimating possible response from noise exposure forecast.\"",
+    "Publication statement: [Washington?] 1969.",
+    "Scale ca. 1:100,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm69003433",
+    "http://www.loc.gov/item/gm69003433/",
+    "http://www.loc.gov/resource/g3884c.ct009310/",
+    "https://hdl.loc.gov/loc.gmd/g3884c.ct009310",
+    "https://search.catalog.loc.gov/instances/0dd5e072-3ec2-528b-946b-ccfe1db4743d",
+    "https://www.loc.gov/item/gm69003433/"
+  ],
+  "dct_issued_s": "1969",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884c/ct009310.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm69003433/\"}",
+  "dct_spatial_sm": [
+    "chantilly",
+    "united states",
+    "virginia",
+    "washington dulles international airport"
+  ],
+  "dct_subject_sm": [
+    "Airport noise--Virginia--Washington Dulles International Airport--Maps",
+    "Dulles International Airport--Maps",
+    "United States--Virginia--Chantilly--Washington Dulles International Airport"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "dct_title_s": "Noise exposure forecast (NEF) areas in the vicinity of Dulles International Airport for 1975 operations",
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1969]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm69003433",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

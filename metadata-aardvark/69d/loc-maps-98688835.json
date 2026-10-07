@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Dodge, Grenville M., 1831-1916; Lambach, H.; Union Pacific Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 592",
+    "Publication statement: [n.p.], 1869.",
+    "Scale 1:1,267,200.",
+    "Topographical strip map between Council Bluffs, Iowa, to west of Great Salt Lake, Utah, showing located and experimental lines and profile of grades."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4051p.rr005920",
+    "http://lccn.loc.gov/98688835",
+    "http://www.loc.gov/item/98688835/",
+    "http://www.loc.gov/resource/g4051p.rr005920/",
+    "https://hdl.loc.gov/loc.gmd/g4051p.rr005920",
+    "https://search.catalog.loc.gov/instances/3d0a6a31-d646-5af0-878a-639b5d08c59f",
+    "https://www.loc.gov/item/98688835/"
+  ],
+  "dct_issued_s": "1869",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4051/g4051p/rr005920.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688835/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west"
+  ],
+  "dct_subject_sm": [
+    "Railroads--West (U.S.)--Maps",
+    "Union Pacific Railroad Company--Maps",
+    "United States--West"
+  ],
+  "dct_temporal_sm": [
+    "1869"
+  ],
+  "dct_title_s": "Map of the Union Pacific Rail Road and surveys of 1864, 65, 66, 67, 1868 from Missouri River to Humboldt Wells, G.M. Dodge, Chief Engineer",
+  "gbl_dateRange_drsim": [
+    "[1869 TO 1869]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1869
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688835",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

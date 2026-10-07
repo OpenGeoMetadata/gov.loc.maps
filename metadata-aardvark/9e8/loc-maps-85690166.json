@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 40-84",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Buildings numbered corresponding to census numbers.",
+    "Contributors: Huber, Joseph Daniel von",
+    "Includes summary in Latin, Italian, and French and index map.",
+    "LC copy mounted on cloth backing with 2 wooden rods for rolling or hanging.",
+    "Oriented with north toward the lower right.",
+    "Publication statement: [Vienna? : s.n., 1777]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Buildings numbered corresponding to census numbers. Oriented with north toward the lower right. Includes summary in Latin, Italian, and French and index map. Available also through the Library of Congress Web site as a raster image. LC copy mounted on cloth backing with 2 wooden rods for rolling or hanging. Acquisitions control no. 40-84 Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/85690166",
+    "http://www.loc.gov/item/85690166/",
+    "http://www.loc.gov/resource/g6494v.ct011948n/",
+    "http://www.loc.gov/resource/g6494v.ct011948s/",
+    "https://hdl.loc.gov/loc.gmd/g6494v.ct011948n",
+    "https://hdl.loc.gov/loc.gmd/g6494v.ct011948s",
+    "https://search.catalog.loc.gov/instances/360e3274-9bf8-5692-85ce-5dd744375d25",
+    "https://www.loc.gov/item/85690166/"
+  ],
+  "dct_issued_s": "1777",
+  "dct_language_sm": [
+    "fre",
+    "ger",
+    "gerlatitafre",
+    "ita",
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6494/g6494v/ct011948n.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85690166/\"}",
+  "dct_spatial_sm": [
+    "austria",
+    "vienna"
+  ],
+  "dct_subject_sm": [
+    "Austria--Vienna",
+    "Vienna (Austria)--Aerial views--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "dct_title_s": "Scenographie, oder, Geometrisch perspect. Abbildung der kaÿl. königl. Haupt u. Residenz Stadt Wien in Oesterreich, auf allerhöchsten Befehl aufgenomen und gezeichnet vom Jahr 1769 Maÿ Monats, bis letzten October 1774 unter der glorreichen Regirung beider kaÿl. königl. apost. Maÿest Iosephi II F Mariæ Theresiæ",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85690166",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

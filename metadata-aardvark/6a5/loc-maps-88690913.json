@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"7951.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cannon, J. Q.; Clark, Geo. E. (George E.); Grant, U. S. (Ulysses S.), 1881-1968; United States. Army. Engineer Reproduction Plant; United States. Congress. Senate; United States. Public Buildings Commission",
+    "DCP",
+    "LC copy thirded and mounted on cloth backing.",
+    "Publication statement: [Washington, D.C. : U.S. Senate, 1928?]",
+    "Shows government buildings and government lands.",
+    "Shows government buildings and government lands. \"7951.\" Available also through the Library of Congress Web site as a raster image. LC copy thirded and mounted on cloth backing. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852m.ct005043",
+    "http://lccn.loc.gov/88690913",
+    "http://www.loc.gov/item/88690913/",
+    "http://www.loc.gov/resource/g3852m.ct005043/",
+    "https://hdl.loc.gov/loc.gmd/g3852m.ct005043",
+    "https://search.catalog.loc.gov/instances/845708cd-24b2-5fb7-8940-880a87bdf7df",
+    "https://www.loc.gov/item/88690913/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852m/ct005043.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690913/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "the mall",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Central business districts--Washington (D.C.)--Maps",
+    "Mall, The (Washington, D.C.)--Maps",
+    "Public buildings--Washington (D.C.)--Maps",
+    "Public lands--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Mall, The"
+  ],
+  "dct_temporal_sm": [
+    "1927",
+    "[Washington, D.C. : U.S. Senate, 1928?]"
+  ],
+  "dct_title_s": "The Mall and vicinity, Washington : 1927",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690913",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

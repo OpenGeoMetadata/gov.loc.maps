@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"West longitude from Ferro.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Overton, Henry, active 1751-1764; Seale, Richard William",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"West longitude from Ferro.\" Includes historic notes and text on \"Fourteen British colonies including Newfoundland\" in margins. Scale ca. 1:6,500,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 87 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Includes historic notes and text on \"Fourteen British colonies including Newfoundland\" in margins.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 87",
+    "Publication statement: [London? between 1755 and 1760]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:6,500,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar008700",
+    "http://lccn.loc.gov/74693998",
+    "http://www.loc.gov/item/74693998/",
+    "http://www.loc.gov/resource/g3300.ar008700/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar008700",
+    "https://search.catalog.loc.gov/instances/7adfc261-906a-58b2-848a-525dc10956b9",
+    "https://www.loc.gov/item/74693998/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar008700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693998/\"}",
+  "dct_spatial_sm": [
+    "america",
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "British--America",
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1755",
+    "[London? between 1755 and 1760]"
+  ],
+  "dct_title_s": "A map of the British plantations on the continent of North America, according to the notes and improvements of Mr. Bolton, made in the original of Mr. Danville; with the history of each colony in the margin",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693998",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

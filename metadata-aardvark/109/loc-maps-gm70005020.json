@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cady, A. M.; Robertson, Seibert & Shearman; Seymour & Tower; Sneden, William S., 1829-1905",
+    "LC Railroad maps, 503",
+    "Oriented with north toward the upper right.",
+    "Publication statement: N[ew] Y[ork] Lith. of Robertson, Seibert & Shearman, 1859.",
+    "Relief shown by hachures.",
+    "Scale ca. 1:30,000.",
+    "Topographic map of part of New Jersey and New York, covering the area north of the Hudson River and between Jersey City and Nyack, N.Y. The map shows drainage, roads, houses, cities and towns, single-track, double-track, and proposed railroads. Chartered February 9, 1854. Completed in 1859. [From published bibliography]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3811p.rr005030",
+    "http://lccn.loc.gov/gm70005020",
+    "http://www.loc.gov/item/gm70005020/",
+    "http://www.loc.gov/resource/g3811p.rr005030/",
+    "https://hdl.loc.gov/loc.gmd/g3811p.rr005030",
+    "https://search.catalog.loc.gov/instances/92128c47-d92c-56b7-98f4-70ace029f0a7",
+    "https://www.loc.gov/item/gm70005020/"
+  ],
+  "dct_issued_s": "1859",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3811/g3811p/rr005030.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70005020/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Northern Railroad of New Jersey",
+    "Railroads--New Jersey--Maps",
+    "United States--New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1859"
+  ],
+  "dct_title_s": "Map of the Northern Rail Road of New Jersey",
+  "gbl_dateRange_drsim": [
+    "[1859 TO 1859]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1859
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70005020",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

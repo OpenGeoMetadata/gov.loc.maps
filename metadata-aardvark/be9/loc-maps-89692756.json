@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"B-3.\"",
+    "\"Official.\"",
+    "2 copies. Copy 2 is a negative photocopy.",
+    "Above compass rose: Magnetic meridian spring of 1892.",
+    "Annotated on original map: From Report on the re-burial of the Confederate dead in Arlington Cemetery ... by the Charles Broadway Rouss Camp No. 1191, United Confederate Veterans of Washington. Washington. 1901. E641.U57.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Norris Peters Co; United Confederate Veterans. Washington, D.C. Division. Charles Broadway Rouss Camp no. 1191; United States. Army. Quartermaster Corps. Depot Quartermaster's Office",
+    "DCP",
+    "Oriented with north to the right.",
+    "Publication statement: [Washington, D.C. : United Confederate Veterans of Washington, Charles Broadway Rouss Camp No. 1191, 1901]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Above compass rose: Magnetic meridian spring of 1892. Annotated on original map: From Report on the re-burial of the Confederate dead in Arlington Cemetery ... by the Charles Broadway Rouss Camp No. 1191, United Confederate Veterans of Washington. Washington. 1901. E641.U57. \"Official.\" Oriented with north to the right. \"B-3.\" Available also through the Library of Congress Web site as a raster image. 2 copies. Copy 2 is a negative photocopy. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882a.ct003090",
+    "http://lccn.loc.gov/89692756",
+    "http://www.loc.gov/item/89692756/",
+    "http://www.loc.gov/resource/g3882a.ct003090/",
+    "https://hdl.loc.gov/loc.gmd/g3882a.ct003090",
+    "https://search.catalog.loc.gov/instances/1cb55a02-4a27-57ac-869c-ea99c34d0cb8",
+    "https://www.loc.gov/item/89692756/"
+  ],
+  "dct_issued_s": "1901",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882a/ct003090.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89692756/\"}",
+  "dct_spatial_sm": [
+    "arlington national cemetery",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Arlington National Cemetery (Arlington, Va.)--Maps",
+    "United States--Virginia--Arlington National Cemetery"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "dct_title_s": "Map of the Arlington, Va. National Cemetery",
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1901
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89692756",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

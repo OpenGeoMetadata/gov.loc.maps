@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Nashville District",
+    "Includes area map, table of navigation aids, and facility guide/index.",
+    "Includes area map, table of navigation aids, and facility guide/index. Lake information, col. ill., statistical data, and graphs to show \"How navigation locks operate\" on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Lake information, col. ill., statistical data, and graphs to show \"How navigation locks operate\" on verso.",
+    "Publication statement: [Nashville, Tenn.] : The District, [1995?]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95685118",
+    "http://www.loc.gov/item/95685118/",
+    "http://www.loc.gov/resource/g3952b.ct010441/",
+    "https://hdl.loc.gov/loc.gmd/g3952b.ct010441",
+    "https://search.catalog.loc.gov/instances/b2d1b985-55a7-5a31-b41c-e77fcdd92324",
+    "https://www.loc.gov/item/95685118/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd395/g3952/g3952b/ct010441.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95685118/\"}",
+  "dct_spatial_sm": [
+    "barkley",
+    "barkley, lake",
+    "kentucky",
+    "lake",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Barkley, Lake (Ky. and Tenn.)--Maps",
+    "Outdoor recreation--Barkley, Lake (Ky. and Tenn.)--Maps",
+    "United States--Kentucky--Barkley, Lake",
+    "United States--Tennessee--Barkley, Lake"
+  ],
+  "dct_temporal_sm": [
+    "1995",
+    "[Nashville, Tenn.] : The District, [1995?]"
+  ],
+  "dct_title_s": "Lake Barkley",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95685118",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

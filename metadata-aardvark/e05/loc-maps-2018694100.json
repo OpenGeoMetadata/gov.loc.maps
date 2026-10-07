@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Frolov, K.; Kuvakin, I.; Treskot, Johann, 1719-1786 , cartographer",
+    "Kartogr. setka. Dolgota ot Ferro.",
+    "Obshchegeograficheskai︠a︡ karta. Naneseny reki s pritokami, naselennye punkty, granit︠s︡y gubernii.",
+    "Original map at: Russian State Library",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], 1776.",
+    "Two-toned map with hydrographic detail.",
+    "Two-toned map with hydrographic detail. Obshchegeograficheskai︠a︡ karta. Naneseny reki s pritokami, naselennye punkty, granit︠s︡y gubernii. Kartogr. setka. Dolgota ot Ferro. Original map at: Russian State Library Общегеографическая карта. Нанесены реки с притоками, населенные пункты, границы губернии. Картогр. сетка. Долгота от Ферро.",
+    "Картогр. сетка. Долгота от Ферро.",
+    "Общегеографическая карта. Нанесены реки с притоками, населенные пункты, границы губернии."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694100",
+    "http://www.loc.gov/item/2018694100/",
+    "http://www.loc.gov/resource/gdc.2018694100/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0034",
+    "https://search.catalog.loc.gov/instances/86f187cc-0bba-5f87-affa-0c76a6e69e59",
+    "https://www.loc.gov/item/2018694100/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694100.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694100/2018694100.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694100:smf0034/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694100/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Far East",
+    "Maps",
+    "Russia",
+    "Russian Federation",
+    "Siberia"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "Mappa gubernii Sibiriensis, continens provincias Toboliensem et Jenisejensem, comp. I. Tresscott",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694100",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

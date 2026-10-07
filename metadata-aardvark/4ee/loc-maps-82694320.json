@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 504784 (546491) 2-82.\"",
+    "\"Base 504784 (546491) 2-82.\" Relief shown by shading. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1982]",
+    "Relief shown by shading."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6660.ct001413",
+    "http://lccn.loc.gov/82694320",
+    "http://www.loc.gov/item/82694320/",
+    "http://www.loc.gov/resource/g6660.ct001413/",
+    "https://hdl.loc.gov/loc.gmd/g6660.ct001413",
+    "https://search.catalog.loc.gov/instances/c809b6b2-166b-55b4-85a3-f9c3b7d88320",
+    "https://www.loc.gov/item/82694320/"
+  ],
+  "dct_issued_s": "1982",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6660/g6660/ct001413.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82694320/\"}",
+  "dct_spatial_sm": [
+    "andorra"
+  ],
+  "dct_subject_sm": [
+    "Andorra",
+    "Andorra--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "dct_title_s": "Andorra",
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1982]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82694320",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

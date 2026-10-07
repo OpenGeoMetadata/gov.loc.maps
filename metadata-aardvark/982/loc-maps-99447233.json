@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: United States Coast Survey",
+    "Description derived from published bibliography.",
+    "Detailed map of the Tennessee River from Paducah, Ky., to Florence, Ala., showing soundings, distances from Paducah, fortifications, \"Wilson's U.S. Cavalry Camp,\" vegetation, cultivated fields, houses, names of residents, and roads.",
+    "LC Civil War Maps (2nd ed.), 95",
+    "Printed at top of title-page: No. 3019, in 17 sheets. Price",
+    "Printed at top of title-page: No. 3019, in 17 sheets. Price Detailed map of the Tennessee River from Paducah, Ky., to Florence, Ala., showing soundings, distances from Paducah, fortifications, \"Wilson's U.S. Cavalry Camp,\" vegetation, cultivated fields, houses, names of residents, and roads. See also Civil War Maps entry no. 519. Description derived from published bibliography. Scale 1:40,000 and 1:500,000. LC Civil War Maps (2nd ed.), 95 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: [S.l., 1865]",
+    "Scale 1:40,000 and 1:500,000.",
+    "See also Civil War Maps entry no. 519."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3942tm.gcw0095000",
+    "http://lccn.loc.gov/99447233",
+    "http://www.loc.gov/item/99447233/",
+    "http://www.loc.gov/resource/g3942tm.gcw0095000/",
+    "https://hdl.loc.gov/loc.gmd/g3942tm.gcw0095000",
+    "https://search.catalog.loc.gov/instances/c4cf70c9-e0c7-5d11-a4cc-342ecea61274",
+    "https://www.loc.gov/item/99447233/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd394m/g3942m/g3942tm/gcw0095000/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447233/\"}",
+  "dct_spatial_sm": [
+    "tennessee river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Tennessee River--Navigation--Maps",
+    "United States--Tennessee River"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Map of the Tennessee River for the use of the Mississippi Squadron",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447233",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

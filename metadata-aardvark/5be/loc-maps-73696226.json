@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Tome I, no. 23.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: [Bellin, Jacques Nicolas] 1703-1772",
+    "From the author's Le petit atlas maritime. 1764.",
+    "LC Maps of North America, 1750-1789, 346",
+    "Publication statement: [Paris, 1764]",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Relief shown pictorially. Depths shown by soundings. \"Tome I, no. 23.\" From the author's Le petit atlas maritime. 1764. Scale ca. 1:24,000. LC Maps of North America, 1750-1789, 346 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:24,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3424l.ar034600",
+    "http://lccn.loc.gov/73696226",
+    "http://www.loc.gov/item/73696226/",
+    "http://www.loc.gov/resource/g3424l.ar034600/",
+    "https://hdl.loc.gov/loc.gmd/g3424l.ar034600",
+    "https://search.catalog.loc.gov/instances/97eb0eb2-ba9e-5b15-8eb0-fe7cea2a1fa5",
+    "https://www.loc.gov/item/73696226/"
+  ],
+  "dct_issued_s": "1764",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3424/g3424l/ar034600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73696226/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "louisbourg",
+    "nova scotia"
+  ],
+  "dct_subject_sm": [
+    "Canada--Nova Scotia--Louisbourg",
+    "Harbors--Nova Scotia--Louisbourg--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "dct_title_s": "Port de Louisbourg dans l'Isle Royale",
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1764
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73696226",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Pennsylvania Railroad",
+    "Copyright no. 59616R June 3, 1913.",
+    "Copyright no. 59616R June 3, 1913. Panoramic map of the Gettysburg battlefield. Round Top is in the foreground. Description derived from published bibliography. Scale not given. LC Civil War Maps (2nd ed.), 345.5 Available also through the Library of Congress web site as raster image.",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 345.5",
+    "Panoramic map of the Gettysburg battlefield. Round Top is in the foreground.",
+    "Publication statement: [S.l., c1913]",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824g.cw0345500",
+    "http://lccn.loc.gov/99439153",
+    "http://www.loc.gov/item/99439153/",
+    "http://www.loc.gov/resource/g3824g.cw0345500/",
+    "https://hdl.loc.gov/loc.gmd/g3824g.cw0345500",
+    "https://search.catalog.loc.gov/instances/653e9db3-18c9-51ce-a417-8b5a12973790",
+    "https://www.loc.gov/item/99439153/"
+  ],
+  "dct_issued_s": "1913",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824g/cw0345500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99439153/\"}",
+  "dct_spatial_sm": [
+    "gettysburg region",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gettysburg Region (Pa.)--Aerial views",
+    "United States--Pennsylvania--Gettysburg Region"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "dct_title_s": "Gettysburg battlefield today. Pennsylvania Railroad",
+  "gbl_dateRange_drsim": [
+    "[1913 TO 1913]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1913
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99439153",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

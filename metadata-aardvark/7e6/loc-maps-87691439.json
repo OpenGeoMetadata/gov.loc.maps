@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Perley, F. A.; Weller, F. R.; Wm. A. Flamm & Co",
+    "DCP",
+    "E XXc 2591 U.S. Copyright Office",
+    "E XXc 2591 U.S. Copyright Office Partial cadastral map showing radial distances, block numbers, and landowners' names for outlying tracts. Includes inset. Available also through the Library of Congress Web site as a raster image. LC copy mounted on cloth backing. DCP",
+    "Includes inset.",
+    "LC copy mounted on cloth backing.",
+    "Partial cadastral map showing radial distances, block numbers, and landowners' names for outlying tracts.",
+    "Publication statement: Baltimore : Wm. A. Flamm & Co., 1902."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.la002287",
+    "http://lccn.loc.gov/87691439",
+    "http://www.loc.gov/item/87691439/",
+    "http://www.loc.gov/resource/g3850.la002287/",
+    "https://hdl.loc.gov/loc.gmd/g3850.la002287",
+    "https://search.catalog.loc.gov/instances/690cde46-df1b-5730-ad82-449e19dae8d2",
+    "https://www.loc.gov/item/87691439/"
+  ],
+  "dct_issued_s": "1902",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/la002287.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691439/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "dct_title_s": "Washington and suburbs, District of Columbia, showing permanent system of highways",
+  "gbl_dateRange_drsim": [
+    "[1902 TO 1902]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1902
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87691439",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

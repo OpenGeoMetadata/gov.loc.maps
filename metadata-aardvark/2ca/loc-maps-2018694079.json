@@ -1,0 +1,77 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Схематическая карта Уссурийской, Манджурской и Корейской железных дорог"
+  ],
+  "dct_description_sm": [
+    "Bez setki koordinat.",
+    "Contributors: Cartographic Institution G. De-Kelsh' , contributor",
+    "Karta-skhema i︠a︡vli︠a︡etsi︠a︡ prilozheniem k zapiskam Russkogo Geograficheskogo Obshchestva, k trudu P.F. Unterbergera \"Priamurskiĭ kraĭ, 1906-1910 gg. Ocherk\". T︠S︡vetom pokazany mori︠a︡, na karte vydeleny razlichnymi znakami zheleznye dorogi, postroennye i predp.",
+    "Original map at: Russian State Library",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], 1920-1929.",
+    "This map shows the major railroads located in the Russian Far East, Manchuria (China), and Korea in the early 20th century: the Ussuri Railroad, the Manchurian Railroad, and the Korean Railroad. The establishment of railroads was a major vehicle of imperial expansion and control in the Far East in this era, particularly for Russia and Japan. The map utilizes a variety of lines and colors to explain various phases of railroad construction: a double-black line for the completion of two tracks, a single black line for completion of one track, a red line for an established but only partially constructed railroad, and a dashed black line for a proposed (but still unbuilt) railroad. Several well-known Russian, Chinese, and Korean cities are shown on the map. These include Blagoveshchensk, Khabarovsk, and Vladivostok in Russia; Harbin, Mukden (present-day Shenyang), and Port Arthur (Lüshun) in China (Manchuria); and P'yongyang and Seoul in Korea. Black triangles signify the presence of Japanese troops in parts of northeastern China and Korea, reflecting the extensive military occupation by Japan following its victory in the Russo-Japanese War in 1904-5. In the 19th century, as the Qing Dynasty of imperial China weakened, both Russia and Japan sought to take advantage of China's waning power by expanding into areas of northeastern China and neighboring Korea. Russia forced China to cede territories north and east of the Amur and Ussuri Rivers in the Treaty of Aigun of 1858 and in the Convention of Peking of 1860 and increased its influence in Manchuria from its base of operations in Harbin. Japan moved aggressively into China and Korea after victories in the Sino-Japanese War of 1894-95 and in the Russo-Japanese War. As Japan became ascendant in the region after 1905, it targeted Russian railroad interests and reengineered local rail networks to serve its own interests. This map was compiled from notes of the Imperial Russian Geographical Society for use in a book on the Maritime Region of Russia (Primorskiy Kray, near Vladivostok). The map shows a scale at the bottom that utilizes the verst, a tsarist-era unit of distance equal to 1.07 kilometers. World Digital Library.",
+    "Без сетки координат.",
+    "Карта-схема является приложением к запискам Русского Географического Общества, к труду П.Ф. Унтербергера \"Приамурский край, 1906-1910 гг. Очерк\". Цветом показаны моря, на карте выделены различными знаками железные дороги, построенные и предп."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694079",
+    "http://www.loc.gov/item/2018694079/",
+    "http://www.loc.gov/resource/gdc.2018694079/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0032",
+    "https://search.catalog.loc.gov/instances/877508af-9984-5667-bdce-8718a2b7a49a",
+    "https://www.loc.gov/item/2018694079/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694079.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694079/2018694079.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694079:smf0032/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694079/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "democratic people's republic of korea",
+    "heilongjiang",
+    "jilin",
+    "liaoning province",
+    "primorskiy krai",
+    "republic of korea",
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "Democratic People's Republic of Korea",
+    "Far East",
+    "Heilongjiang",
+    "Jilin",
+    "Liaoning Province",
+    "Primorskiy Krai",
+    "Railroads",
+    "Republic of Korea",
+    "Russia",
+    "Russian Federation",
+    "Siberia",
+    "maps"
+  ],
+  "dct_temporal_sm": [
+    "1920/1929"
+  ],
+  "dct_title_s": "Skhematicheskai︠a︡ karta Ussuriĭskoĭ, Mandzhurskoĭ i Koreĭskoĭ zheleznykh dorog",
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1929]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1920
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694079",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

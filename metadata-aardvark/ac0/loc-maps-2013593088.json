@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: L.M. Snyder & Co",
+    "Includes \"index to cities, villages, post offices, railroad stations etc.\" and \"index to townships.\"",
+    "Includes \"index to cities, villages, post offices, railroad stations etc.\" and \"index to townships.\" Insets: Barrington -- Bartlett -- Schaumberg Centre -- Palatine -- Arlington Heights -- Wheeling -- Mount Prospect -- Desplaines -- Canfield and Ridgelawn -- Niles -- Park Ridge -- Morton Grove -- Gross Point -- Niles Centre -- Mayheim -- Seafield -- Lansing -- Dolton -- Jefferson Park -- Western Springs -- Lagrange -- Orland or Sedgwick -- Glenwood -- Worth -- Richton -- Owners Subdn. -- Mount Forest -- Bremen -- Oaklawn -- Lemont -- Ward map of Chicago -- Blue Island -- Homewood -- Bloom -- Matteson. LC copy mounted on linen. LC Land ownership maps, 107 Available also through the Library of Congress Web site as a raster image.",
+    "Insets: Barrington -- Bartlett -- Schaumberg Centre -- Palatine -- Arlington Heights -- Wheeling -- Mount Prospect -- Desplaines -- Canfield and Ridgelawn -- Niles -- Park Ridge -- Morton Grove -- Gross Point -- Niles Centre -- Mayheim -- Seafield -- Lansing -- Dolton -- Jefferson Park -- Western Springs -- Lagrange -- Orland or Sedgwick -- Glenwood -- Worth -- Richton -- Owners Subdn. -- Mount Forest -- Bremen -- Oaklawn -- Lemont -- Ward map of Chicago -- Blue Island -- Homewood -- Bloom -- Matteson.",
+    "LC Land ownership maps, 107",
+    "LC copy mounted on linen.",
+    "Publication statement: Chicago : L.M. Snyder & Co., 1886."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4103c.la000107",
+    "http://lccn.loc.gov/2013593088",
+    "http://www.loc.gov/item/2013593088/",
+    "http://www.loc.gov/resource/g4103c.la000107/",
+    "https://hdl.loc.gov/loc.gmd/g4103c.la000107",
+    "https://search.catalog.loc.gov/instances/31112943-fcc6-5a83-a8ed-3f7b0458c71d",
+    "https://www.loc.gov/item/2013593088/"
+  ],
+  "dct_issued_s": "1886",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410/g4103/g4103c/la000107.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593088/\"}",
+  "dct_spatial_sm": [
+    "cook county",
+    "illinois",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Illinois--Cook County--Maps",
+    "Real property--Illinois--Cook County--Maps",
+    "United States--Illinois--Cook County"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "dct_title_s": "Snyder's real estate map of Cook County, Illinois : indexed",
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1886]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1886
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593088",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

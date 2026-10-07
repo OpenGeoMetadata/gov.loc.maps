@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 440",
+    "Annotated beside notes: 112.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Werden, Isaac",
+    "Includes index and explanatory notes.",
+    "LC Luso-Hispanic World, 372",
+    "LC Maps of North America, 1750-1789, 2039",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Watermark: J. Whatman: C. [and a fleur-de-lis on a crowned shield, over the letters GR] Relief shown by shading. Oriented with north to the right. Annotated beside notes: 112. Includes index and explanatory notes. Scale ca. 1:7,900; 10 chains to an in. LC Maps of North America, 1750-1789, 2039 LC Luso-Hispanic World, 372 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 440",
+    "Oriented with north to the right.",
+    "Publication statement: [1776]",
+    "Relief shown by shading.",
+    "Scale ca. 1:7,900; 10 chains to an in.",
+    "Vault",
+    "Watermark: J. Whatman: C. [and a fleur-de-lis on a crowned shield, over the letters GR]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5104r.ar203900",
+    "http://lccn.loc.gov/74695809",
+    "http://www.loc.gov/item/74695809/",
+    "http://www.loc.gov/resource/g5104r.ar203900/",
+    "https://hdl.loc.gov/loc.gmd/g5104r.ar203900",
+    "https://search.catalog.loc.gov/instances/34b12fb5-0b73-5ed3-81de-bb137bfdea55",
+    "https://www.loc.gov/item/74695809/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5104/g5104r/ar203900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74695809/\"}",
+  "dct_spatial_sm": [
+    "dominica",
+    "rosalie region"
+  ],
+  "dct_subject_sm": [
+    "Dominica--Rosalie Region",
+    "Land use--Dominica--Rosalie Region--Maps--Early works to 1800",
+    "Rosalie Region, Dominica--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "[A plan of the Rosalij Compy. Estates showing the impracticable lands]",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74695809",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

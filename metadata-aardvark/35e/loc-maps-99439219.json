@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Another copy is in the Fillmore map coll. no. 160.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Fillmore, Millard, 1800-1874, collector; United States. Army. Corps of Engineers",
+    "Description derived from published bibliography.",
+    "Library of Congress. Civil War maps (2nd ed.), 513",
+    "Map extends from Dinwiddie C. H. to about four miles north of the District of Columbia and from Lexington east to Heathsville. The routes of the II, V, VI, IX, X, XVIII, XIX, XXIV, and XXV corps, the regular cavalry, and Sheridan's cavalry are identified by colored lines. The badges of the corps are given in the legend. Fortifications and battlefields are marked in blue. The map also indicates roads, railroads, towns, drainage, and relief by hachures.",
+    "Map extends from Dinwiddie C. H. to about four miles north of the District of Columbia and from Lexington east to Heathsville. The routes of the II, V, VI, IX, X, XVIII, XIX, XXIV, and XXV corps, the regular cavalry, and Sheridan's cavalry are identified by colored lines. The badges of the corps are given in the legend. Fortifications and battlefields are marked in blue. The map also indicates roads, railroads, towns, drainage, and relief by hachures. Another copy is in the Fillmore map coll. no. 160. Description derived from published bibliography. Scale 1:350,000. Library of Congress. Civil War maps (2nd ed.), 513 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: [S.l., 186-]",
+    "Scale 1:350,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881s.cw0513000",
+    "http://lccn.loc.gov/99439219",
+    "http://www.loc.gov/item/99439219/",
+    "http://www.loc.gov/resource/g3881s.cw0513000/",
+    "http://www.loc.gov/resource/g3881s.fi000160/",
+    "https://hdl.loc.gov/loc.gmd/g3881s.cw0513000",
+    "https://hdl.loc.gov/loc.gmd/g3881s.fi000160",
+    "https://search.catalog.loc.gov/instances/4a507509-e3fc-5d03-b798-cbe5c044f78b",
+    "https://www.loc.gov/item/99439219/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881s/cw0513000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99439219/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Central Virginia showing Lieut. Gen'l. U.S. Grant's Campaign and marches of the armies under his command in 1864-65",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99439219",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

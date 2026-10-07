@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Wells, Jacob",
+    "Description derived from published bibliography.",
+    "From Century illustrated monthly magazine, v. 31, Jan. 1886. p. 447.",
+    "From Century illustrated monthly magazine, v. 31, Jan. 1886. p. 447. Map of the environs of Manassas Junction. Description derived from published bibliography. Scale ca. 1:550,000. LC Civil War Maps (2nd ed.), 581 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 581",
+    "Map of the environs of Manassas Junction.",
+    "Publication statement: [S.l., 1886]",
+    "Scale ca. 1:550,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884m.cw0581000",
+    "http://lccn.loc.gov/99439207",
+    "http://www.loc.gov/item/99439207/",
+    "http://www.loc.gov/resource/g3884m.cw0581000/",
+    "https://hdl.loc.gov/loc.gmd/g3884m.cw0581000",
+    "https://search.catalog.loc.gov/instances/edcd656f-82e7-5df8-a573-0dd508a89a88",
+    "https://www.loc.gov/item/99439207/"
+  ],
+  "dct_issued_s": "1886",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884m/cw0581000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99439207/\"}",
+  "dct_spatial_sm": [
+    "manassas region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Bull Run, 2nd Battle of, Va",
+    "Bull Run, 2nd Battle of, Va., 1862--Maps",
+    "United States--Virginia--Manassas Region"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "dct_title_s": "Relative positions of forces at sunset, Aug. 28, 1862. [2nd Manassas Campaign]",
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1886]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1886
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99439207",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

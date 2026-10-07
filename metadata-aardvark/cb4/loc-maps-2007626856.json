@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows territory occupied by Native American tribes.",
+    "Also shows territory occupied by Native American tribes. Prime meridians: Greenwich and Washington, D.C. Includes ill. Mounted on cloth, mounted on paper. LC copy imperfect: Wanting notes. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Barrows, Willard, 1806-1868; Doolittle & Munson",
+    "Includes ill.",
+    "LC copy imperfect: Wanting notes.",
+    "Mounted on cloth, mounted on paper.",
+    "Prime meridians: Greenwich and Washington, D.C.",
+    "Publication statement: Cincinnati : Engraved & published by Doolittle & Munson, 1845."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4150.ct002299",
+    "http://lccn.loc.gov/2007626856",
+    "http://www.loc.gov/item/2007626856/",
+    "http://www.loc.gov/resource/g4150.ct002299/",
+    "https://hdl.loc.gov/loc.gmd/g4150.ct002299",
+    "https://search.catalog.loc.gov/instances/121187ee-cfee-56e8-b56a-1f9245bcba66",
+    "https://www.loc.gov/item/2007626856/"
+  ],
+  "dct_issued_s": "1845",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd415/g4150/g4150/ct002299.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007626856/\"}",
+  "dct_spatial_sm": [
+    "iowa",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Indians of North America--Iowa--Maps",
+    "Iowa--Maps",
+    "United States--Iowa"
+  ],
+  "dct_temporal_sm": [
+    "1845"
+  ],
+  "dct_title_s": "A new map of Iowa : accompanied with notes by W. Barrows",
+  "gbl_dateRange_drsim": [
+    "[1845 TO 1845]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1845
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007626856",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

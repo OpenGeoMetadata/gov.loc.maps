@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO:2007--330-358/00786 Reprint 2006.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, location map showing ferry connections, 2 illustrated chronologies, and ill. (some col.).",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2007]",
+    "Statue of Liberty view is from ground level and Ellis Island views are aerial views.",
+    "Statue of Liberty view is from ground level and Ellis Island views are aerial views. \"*GPO:2007--330-358/00786 Reprint 2006.\" Title from panel. Includes text, location map showing ferry connections, 2 illustrated chronologies, and ill. (some col.). Available also through the Library of Congress Web site as a raster image.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct006622",
+    "http://lccn.loc.gov/2009584084",
+    "http://www.loc.gov/item/2009584084/",
+    "http://www.loc.gov/resource/g3804n.ct006622/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct006622",
+    "https://search.catalog.loc.gov/instances/c7721877-229b-5752-b02e-1adb0d99a93c",
+    "https://www.loc.gov/item/2009584084/"
+  ],
+  "dct_issued_s": "2006",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct006622.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009584084/\"}",
+  "dct_spatial_sm": [
+    "ellis island immigration station",
+    "new jersey",
+    "new jersey (state)",
+    "new york",
+    "new york (state)",
+    "new york harbor",
+    "statue of liberty national monument",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ellis Island Immigration Station (N.Y. and N.J.)--Aerial views",
+    "Ferries--New York Harbor (N.Y. and N.J.)--Maps",
+    "Statue of Liberty National Monument (N.Y. and N.J.)--Views",
+    "United States--New Jersey (State)--New York Harbor",
+    "United States--New Jersey--Ellis Island Immigration Station",
+    "United States--New Jersey--Statue of Liberty National Monument",
+    "United States--New York (State)--Ellis Island Immigration Station",
+    "United States--New York (State)--New York Harbor",
+    "United States--New York (State)--Statue of Liberty National Monument"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "dct_title_s": "Statue of Liberty and Ellis Island",
+  "gbl_dateRange_drsim": [
+    "[2006 TO 2006]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009584084",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

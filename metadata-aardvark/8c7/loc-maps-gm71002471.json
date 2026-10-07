@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Complete map of Henan Province",
+    "Complete map of Henan Province",
+    "河南省全图 /"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Shanghai ci mu tang; Yang, Ziming",
+    "Includes text and chart of sunrises and sunsets.",
+    "Prime meridian: Beijing.",
+    "Publication statement: Shanghai, Shanghai ci mu tang, Qing Guangxu [1895]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:150,000.",
+    "Shows topography, administrative divisions, military posts, Catholic churches of Henan Sheng. Also shows telephone line connecting Shanghai, Hankou and Shanxi.",
+    "Shows topography, administrative divisions, military posts, Catholic churches of Henan Sheng. Also shows telephone line connecting Shanghai, Hankou and Shanxi. Relief shown by hachures. Prime meridian: Beijing. Traditional grid system, each square represents 100 miles. Includes text and chart of sunrises and sunsets. Scale ca. 1:150,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Traditional grid system, each square represents 100 miles."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7823h.ct003256",
+    "http://lccn.loc.gov/gm71002471",
+    "http://www.loc.gov/item/gm71002471/",
+    "http://www.loc.gov/resource/g7823h.ct003256/",
+    "https://hdl.loc.gov/loc.gmd/g7823h.ct003256",
+    "https://search.catalog.loc.gov/instances/729927f3-1bd7-5628-be6a-c879a1e91544",
+    "https://www.loc.gov/item/gm71002471/"
+  ],
+  "dct_issued_s": "1895",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7823/g7823h/ct003256.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002471/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "henan sheng"
+  ],
+  "dct_subject_sm": [
+    "China--Henan Sheng",
+    "Henan Sheng (China)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dct_title_s": "Henan Sheng quan tu",
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002471",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

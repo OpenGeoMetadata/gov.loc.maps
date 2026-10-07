@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: difrieri, horacio a.; modelski, andrew m."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi83105454/",
+    "https://www.loc.gov/item/hlas-bi83105454/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "Municipalidad de la Ciudad de Buenos Aires, Secretaría de Cultura,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi83105454/\"}",
+  "dct_spatial_sm": [
+    "argentina"
+  ],
+  "dct_subject_sm": [
+    "atlases",
+    "buenos aires, argentina (city)",
+    "buenos aires, argentina (city) -- atlases",
+    "buenos aires, argentina (city) -- maps and cartography",
+    "maps and cartography"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Atlas de Buenos Aires",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi83105454",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

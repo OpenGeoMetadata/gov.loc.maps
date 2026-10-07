@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Contributors: Bacon, Delos H.",
+    "Publication statement: Florence, Ala., c1908.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Cadastral map. Shows school districts, voting precincts, and commissioners districts. Scale 1:63,360; 1 mile to 1 in. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale 1:63,360; 1 mile to 1 in.",
+    "Shows school districts, voting precincts, and commissioners districts."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/73696096",
+    "http://www.loc.gov/item/73696096/",
+    "http://www.loc.gov/resource/g3973c.la002370/",
+    "https://hdl.loc.gov/loc.gmd/g3973c.la002370",
+    "https://search.catalog.loc.gov/instances/962c2906-be24-56a8-aea4-5f01d9232e19",
+    "https://www.loc.gov/item/73696096/"
+  ],
+  "dct_issued_s": "1908",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3973/g3973c/la002370.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73696096/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "colbert county",
+    "franklin county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Colbert County (Ala.)--Administrative and political divisions--Maps",
+    "Colbert County (Ala.)--Maps",
+    "Franklin County (Ala.)--Administrative and political divisions--Maps",
+    "Franklin County (Ala.)--Maps",
+    "Real property--Alabama--Colbert County--Maps",
+    "Real property--Alabama--Franklin County--Maps",
+    "United States--Alabama--Colbert County",
+    "United States--Alabama--Franklin County"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "dct_title_s": "Map of Colbert and Franklin Counties, Ala",
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1908]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1908
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73696096",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

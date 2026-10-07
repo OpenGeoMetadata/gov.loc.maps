@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Robertson County, Texas"
+  ],
+  "dct_description_sm": [
+    "\"Traced by Jno. C. Newton, January 1919.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint",
+    "Blueprint Shows land ownership. \"Traced by Jno. C. Newton, January 1919.\" LC Land ownership maps, 1108 Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Maxey, John W.; Texas. General Land Office",
+    "LC Land ownership maps, 1108",
+    "Publication statement: [Austin, Tex.] : General Land Office, [1919]",
+    "Shows land ownership."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033r.la001108",
+    "http://lccn.loc.gov/2012590077",
+    "http://www.loc.gov/item/2012590077/",
+    "http://www.loc.gov/resource/g4033r.la001108/",
+    "https://hdl.loc.gov/loc.gmd/g4033r.la001108",
+    "https://search.catalog.loc.gov/instances/a4e1933a-f5e5-5017-a900-94ab50d3bacd",
+    "https://www.loc.gov/item/2012590077/"
+  ],
+  "dct_issued_s": "1889",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033r/la001108.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590077/\"}",
+  "dct_spatial_sm": [
+    "robertson county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Texas--Robertson County--Maps",
+    "Real property--Texas--Robertson County--Maps",
+    "Robertson County (Tex.)--Maps",
+    "United States--Texas--Robertson County"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "dct_title_s": "Robertson Co",
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590077",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

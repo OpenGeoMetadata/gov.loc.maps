@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Above bar scale: A scale of leagues.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "In black ink on verso: 83 Mississippi & New Orleans.",
+    "Mounted on linen crash. Right edge has a border. Shores outlined in green. Map appears to be cut from a larger map to highlight the Gulf Coast.",
+    "Pen-and-ink and watercolor (green).",
+    "Publication statement: [Louisiana?] : [producer not identified], [1729?]",
+    "Shows place names and bodies of water.",
+    "Shows place names and bodies of water. Soundings shown in fathoms. Pen-and-ink and watercolor (green). Title supplied by cataloger. Mounted on linen crash. Right edge has a border. Shores outlined in green. Map appears to be cut from a larger map to highlight the Gulf Coast. Above bar scale: A scale of leagues. Stamped at bottom right: Map Division, Library of Congress Oct 23 1905. In black ink on verso: 83 Mississippi & New Orleans. Available also through the Library of Congress Web site as a raster image. vcFY25",
+    "Soundings shown in fathoms.",
+    "Stamped at bottom right: Map Division, Library of Congress Oct 23 1905.",
+    "Title supplied by cataloger.",
+    "vcFY25"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597813",
+    "http://www.loc.gov/item/2024597813/",
+    "http://www.loc.gov/resource/g3862c.ct006302/",
+    "https://hdl.loc.gov/loc.gmd/g3862c.ct006302",
+    "https://search.catalog.loc.gov/instances/1f405b0d-6ea9-5288-a1bc-60c47a733be4",
+    "https://www.loc.gov/item/2024597813/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd386:g3862:g3862c:ct006302/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597813/\"}",
+  "dct_spatial_sm": [
+    "america, gulf of",
+    "gulf of america",
+    "gulf states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "America, Gulf of",
+    "America, Gulf of--Maps--Early works to 1800",
+    "United States--Gulf States"
+  ],
+  "dct_temporal_sm": [
+    "1729",
+    "[Louisiana?] : [producer not identified], [1729?]"
+  ],
+  "dct_title_s": "[Chart of the Gulf of Mexico from junction of River Ibberville and coast of the Gulf to east of Cape St. Blaze]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597813",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

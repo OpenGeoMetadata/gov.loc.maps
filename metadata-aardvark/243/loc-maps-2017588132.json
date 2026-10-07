@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Buildings shown pictorially.",
+    "Contributors: Estrada, Francisco Javier (cartographer), cartographer",
+    "Includes notes.",
+    "Oriented with north to the bottom.",
+    "Pen-and-ink.",
+    "Publication statement: [Mexico] : Francisco Javier Estrada, 1842.",
+    "Relief shown pictorially.",
+    "Shows area near Irapuato in Guanajuato State, Mexico.",
+    "Shows area near Irapuato in Guanajuato State, Mexico. Relief shown pictorially. Buildings shown pictorially. Oriented with north to the bottom. Pen-and-ink. Includes notes. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2017588132",
+    "http://www.loc.gov/item/2017588132/",
+    "http://www.loc.gov/resource/g4414i.ct011980/",
+    "https://hdl.loc.gov/loc.gmd/g4414i.ct011980",
+    "https://search.catalog.loc.gov/instances/5f4f7cfb-b156-5ee1-a4a6-c9fecc69f5c8",
+    "https://www.loc.gov/item/2017588132/"
+  ],
+  "dct_issued_s": "1842",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4414/g4414i/ct011980.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017588132/\"}",
+  "dct_spatial_sm": [
+    "irapuato",
+    "mexico"
+  ],
+  "dct_subject_sm": [
+    "Irapuato (Mexico)--Maps",
+    "Mexico--Irapuato"
+  ],
+  "dct_temporal_sm": [
+    "1842"
+  ],
+  "dct_title_s": "Haciendas",
+  "gbl_dateRange_drsim": [
+    "[1842 TO 1842]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1842
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017588132",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

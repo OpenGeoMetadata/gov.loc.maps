@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Federal Bureau of Investigation",
+    "Cover title.",
+    "Cover title. Available also through the Library of Congress Web site as a raster image. English and Japanese, with ms. Spanish translations of Japanese captions. 南洋二於ケル邦人拓殖事業状況圖 --Japanese Enterprises in the South Seas and the Distribution of Japanese Nationals -- Distribution of Products in the South Seas Area -- 邦人世界分布圖 -- Japanese Nationals Living Abroad -- Distribution of Japanese Nationals [Asia, Oceania] -- Distribution of Japanese Nationals [Europe, Africa] -- Distribution of Japanese Nationals [North, South America] -- 南米二於ケル邦人拓殖事業状況南米土地取得圖, サンパウロ州法人事業圖 -- Japanese residents and land they have acquired in South America -- Agricultural production -- Mineral production -- 満州農業移民入植圖 -- Provinces of Manchuria and their capitals-- Location of railroads and Japanese immigrant colonies.",
+    "English and Japanese, with ms. Spanish translations of Japanese captions.",
+    "Publication statement: [Washington : Federal Bureau of Investigation, [1935?]",
+    "南洋二於ケル邦人拓殖事業状況圖 --Japanese Enterprises in the South Seas and the Distribution of Japanese Nationals -- Distribution of Products in the South Seas Area -- 邦人世界分布圖 -- Japanese Nationals Living Abroad -- Distribution of Japanese Nationals [Asia, Oceania] -- Distribution of Japanese Nationals [Europe, Africa] -- Distribution of Japanese Nationals [North, South America] -- 南米二於ケル邦人拓殖事業状況南米土地取得圖, サンパウロ州法人事業圖 -- Japanese residents and land they have acquired in South America -- Agricultural production -- Mineral production -- 満州農業移民入植圖 -- Provinces of Manchuria and their capitals-- Location of railroads and Japanese immigrant colonies."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3201em.gct00493",
+    "http://lccn.loc.gov/80675188",
+    "http://www.loc.gov/item/80675188/",
+    "http://www.loc.gov/resource/g3201em.gct00493/",
+    "https://hdl.loc.gov/loc.gmd/g3201em.gct00493",
+    "https://search.catalog.loc.gov/instances/f351bf45-a891-5df4-8ef5-915a76128952",
+    "https://www.loc.gov/item/80675188/"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3m/g3201m/g3201em/gct00493/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80675188/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)",
+    "japan"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)",
+    "Japan--Colonies--Maps",
+    "Japanese--Foreign countries--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1935",
+    "[Washington : Federal Bureau of Investigation, [1935?]"
+  ],
+  "dct_title_s": "Japanese pre-war colonization",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80675188",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

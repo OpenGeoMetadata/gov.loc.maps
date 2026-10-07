@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Pennsylvania Railroad",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 518",
+    "Map of the middle Atlantic and midwestern states showing drainage, cities and towns, township and county boundaries, and the railroad network with names of lines and mileage between stations.",
+    "Publication statement: New York, 1871.",
+    "Scale 1:1,267,200."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr005180",
+    "http://lccn.loc.gov/98688764",
+    "http://www.loc.gov/item/98688764/",
+    "http://www.loc.gov/resource/g3701p.rr005180/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr005180",
+    "https://search.catalog.loc.gov/instances/dbf53729-a0ed-5f46-a165-0788b7c976d9",
+    "https://www.loc.gov/item/98688764/"
+  ],
+  "dct_issued_s": "1871",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr005180.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688764/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pennsylvania Railroad--Maps",
+    "Pittsburgh, Cincinnati and St. Louis Railway",
+    "Pittsburgh, Fort Wayne, and Chicago Railway Company--Maps",
+    "Railroads--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "dct_title_s": "Railroad map of Pennsylvania Company showing the Pennsylvania Railroad, Pittsburgh, Fort Wayne and Chicago Railway, Pittsburgh, Cincinnati and St. Louis Railway, and their connecting eastern and western lines",
+  "gbl_dateRange_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1871
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688764",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

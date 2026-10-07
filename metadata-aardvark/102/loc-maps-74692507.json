@@ -1,0 +1,84 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Longitude west from London.\"",
+    "AACR2: 110; 651/1; 651/2",
+    "Appears in Thomas Jefferys' The American atlas. 1775.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Robert Sayer and John Bennett (Firm); Scull, William, active 1765",
+    "Hand colored.",
+    "Hand colored. \"Longitude west from London.\" Relief shown pictorially. Shows county boundaries. Appears in Thomas Jefferys' The American atlas. 1775. Scale ca. 1:365,000. LC Maps of North America, 1750-1789, 1296 Available also through the Library of Congress Web site as a raster image. LC copy mounted on cloth and paper backing. LC copy imperfect: Bottom and right margin deteriorated. Vault AACR2: 110; 651/1; 651/2",
+    "LC Maps of North America, 1750-1789, 1296",
+    "LC copy imperfect: Bottom and right margin deteriorated.",
+    "LC copy mounted on cloth and paper backing.",
+    "Publication statement: London, Printed for Robt. Sayer & J. Bennett, 1775.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:365,000.",
+    "Shows county boundaries.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3820.ar129600",
+    "http://hdl.loc.gov/loc.gmd/g3820.ar129601",
+    "http://hdl.loc.gov/loc.gmd/g3820.ar129602",
+    "http://hdl.loc.gov/loc.gmd/g3820.ar129603",
+    "http://hdl.loc.gov/loc.gmd/g3820.ar129604",
+    "http://hdl.loc.gov/loc.gmd/g3820.ar129605",
+    "http://hdl.loc.gov/loc.gmd/g3820.ar129606",
+    "http://lccn.loc.gov/74692507",
+    "http://www.loc.gov/item/74692507/",
+    "http://www.loc.gov/resource/g3820.ar129600/",
+    "http://www.loc.gov/resource/g3820.ar129601/",
+    "http://www.loc.gov/resource/g3820.ar129602/",
+    "http://www.loc.gov/resource/g3820.ar129603/",
+    "http://www.loc.gov/resource/g3820.ar129604/",
+    "http://www.loc.gov/resource/g3820.ar129605/",
+    "http://www.loc.gov/resource/g3820.ar129606/",
+    "https://hdl.loc.gov/loc.gmd/g3820.ar129600",
+    "https://hdl.loc.gov/loc.gmd/g3820.ar129601",
+    "https://hdl.loc.gov/loc.gmd/g3820.ar129602",
+    "https://hdl.loc.gov/loc.gmd/g3820.ar129603",
+    "https://hdl.loc.gov/loc.gmd/g3820.ar129604",
+    "https://hdl.loc.gov/loc.gmd/g3820.ar129605",
+    "https://hdl.loc.gov/loc.gmd/g3820.ar129606",
+    "https://search.catalog.loc.gov/instances/cb596fc4-af70-583a-b578-0962b0914133",
+    "https://www.loc.gov/item/74692507/"
+  ],
+  "dct_issued_s": "1775",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3820/g3820/ar129600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692507/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pennsylvania--Administrative and political divisions--Maps--Early works to 1800",
+    "Pennsylvania--Maps--Early works to 1800",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_title_s": "A map of Pennsylvania exhibiting not only the improved parts of that Province, but also its extensive frontiers: Laid down from actual surveys and chiefly from the late map of W. Scull published in 1770; and humbly inscribed to the Honourable Thomas Penn and Richard Penn, Esquires, true and absolute proprietaries & Governors of the Province of Pennsylvania and the territories thereunto belonging",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692507",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

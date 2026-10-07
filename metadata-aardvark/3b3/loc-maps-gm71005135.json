@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Map of the Yellow River source",
+    "Map of the Yellow River source",
+    "[河源圖]"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Chinese and Manchu.",
+    "Contributors: Amida Abdulhamid",
+    "Includes text.",
+    "Oriented with north to the bottom.",
+    "Pictorial map.",
+    "Publication statement: [China : s.n.] Qianlong 47-60 nian [1782-1795]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:125,000.",
+    "Shows the Yellow River from its source to the vicinity of Lanzhou, and different kinds of embankment.",
+    "Title supplied.",
+    "Title supplied. Wood block print on linen. Oriented with north to the bottom. Relief shown pictorially. Pictorial map. Shows the Yellow River from its source to the vicinity of Lanzhou, and different kinds of embankment. Includes text. Scale ca. 1:125,000. Available also through the Library of Congress Web site as a raster image. Chinese and Manchu. AACR2",
+    "Wood block print on linen."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7822y.ct002208",
+    "http://lccn.loc.gov/gm71005135",
+    "http://www.loc.gov/item/gm71005135/",
+    "http://www.loc.gov/resource/g7822y.ct002208/",
+    "https://hdl.loc.gov/loc.gmd/g7822y.ct002208",
+    "https://search.catalog.loc.gov/instances/af756ceb-8dd5-5c5e-b1a3-54d9d2810eb1",
+    "https://www.loc.gov/item/gm71005135/"
+  ],
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7822/g7822y/ct002208.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005135/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "yellow river"
+  ],
+  "dct_subject_sm": [
+    "China--Yellow River",
+    "Yellow River (China)--Maps, Pictorial--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1782/1795"
+  ],
+  "dct_title_s": "[He yuan tu]",
+  "gbl_dateRange_drsim": [
+    "[1782 TO 1795]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1782
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005135",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

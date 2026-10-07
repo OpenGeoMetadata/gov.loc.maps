@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the locations of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Diary (Mss5:1 Sn237:1 v. 3, p. 833).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary image.",
+    "Publication statement: [1862-1865]",
+    "Relief shown by hachures.",
+    "Shows the location of troops stationed around Sharpsburg, Md. The locations of Antietam Creek and the Potomac River are also indicated.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00115",
+    "http://www.loc.gov/item/001-CABIB20006381/",
+    "http://www.loc.gov/item/gvhs01.vhs00115/",
+    "http://www.loc.gov/resource/gvhs01.vhs00115/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00115",
+    "https://www.loc.gov/item/gvhs01.vhs00115/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00115.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00115/\"}",
+  "dct_spatial_sm": [
+    "antietam",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Antietam, Battle of, Md",
+    "Antietam, Battle of, Md., 1862--Maps",
+    "United States--Maryland--Antietam"
+  ],
+  "dct_temporal_sm": [
+    "1862/1865"
+  ],
+  "dct_title_s": "Plan of the Battle of Antietam, Maryland.",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00115",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

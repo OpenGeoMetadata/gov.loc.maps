@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Fort Worth District",
+    "Includes index to recreation sites with table of recreational facilities, text, and diagr. of \"Standard reservoir markers.\"",
+    "Includes index to recreation sites with table of recreational facilities, text, and diagr. of \"Standard reservoir markers.\" Text, illus., distance table, and 2 location maps on verso. Scale ca. 1:175,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: Washington, U.S. Govt. Print. Off., 1971]",
+    "Scale ca. 1:175,000.",
+    "Text, illus., distance table, and 2 location maps on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/75690272",
+    "http://www.loc.gov/item/75690272/",
+    "http://www.loc.gov/resource/g4032s.ct011473/",
+    "https://hdl.loc.gov/loc.gmd/g4032s.ct011473",
+    "https://search.catalog.loc.gov/instances/f0c9744f-78a1-5a21-8b0b-b1d439cbc49e",
+    "https://www.loc.gov/item/75690272/"
+  ],
+  "dct_issued_s": "1971",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032s/ct011473.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75690272/\"}",
+  "dct_spatial_sm": [
+    "sam rayburn reservoir",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Outdoor recreation--Texas--Sam Rayburn Reservoir--Maps",
+    "Sam Rayburn Reservoir (Tex.)--Maps",
+    "United States--Texas--Sam Rayburn Reservoir"
+  ],
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "dct_title_s": "Sam Rayburn Dam and Reservoir",
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1971]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75690272",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-10761.\"",
+    "Also shows minor civil divisions.",
+    "Also shows minor civil divisions. Includes notes and index of soil surveys. \"1-10761.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes notes and index of soil surveys.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [Orono, Me. : State Conservationist, distributor], 1987."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3731j.ct005465",
+    "http://lccn.loc.gov/87695501",
+    "http://www.loc.gov/item/87695501/",
+    "http://www.loc.gov/resource/g3731j.ct005465/",
+    "https://hdl.loc.gov/loc.gmd/g3731j.ct005465",
+    "https://search.catalog.loc.gov/instances/975528bc-51b6-5bab-b109-af1766887062",
+    "https://www.loc.gov/item/87695501/"
+  ],
+  "dct_issued_s": "1987",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3731/g3731j/ct005465.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695501/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Maine--Index maps",
+    "Soil surveys--Maine--Maps",
+    "United States--Maine"
+  ],
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "dct_title_s": "Status of soil surveys, Maine : January 1987",
+  "gbl_dateRange_drsim": [
+    "[1987 TO 1987]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1987
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695501",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

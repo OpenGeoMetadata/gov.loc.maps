@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Includes index to points of interest and view of \"Prentice Park and Fishery.\" Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1020 Available also through the Library of Congress Web site as a raster image. AACR2: 100; 651/1; 710/1",
+    "Contributors: Marr & Richards Engraving Co; Pauli, C. J.",
+    "Includes index to points of interest and view of \"Prentice Park and Fishery.\"",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1020",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [Ashland?] Ashland Daily Press [1890]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4124a.pm010200",
+    "http://lccn.loc.gov/75696702",
+    "http://www.loc.gov/item/75696702/",
+    "http://www.loc.gov/resource/g4124a.pm010200/",
+    "https://hdl.loc.gov/loc.gmd/g4124a.pm010200",
+    "https://search.catalog.loc.gov/instances/1a2cefec-618c-5bf6-88d8-dc00c93a5b27",
+    "https://www.loc.gov/item/75696702/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4124/g4124a/pm010200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75696702/\"}",
+  "dct_spatial_sm": [
+    "ashland",
+    "united states",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "Ashland (Wis.)",
+    "United States--Wisconsin--Ashland"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Ashland, Lake Superior, Wis. 1890",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75696702",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

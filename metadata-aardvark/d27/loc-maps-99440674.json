@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate panel title: Bandelier, official map and guide",
+    "Alternate title: Bandelier National Monument",
+    "Bandelier National Monument",
+    "Bandelier, official map and guide"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 1998--432-903/60371.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, ancillary map \"Detail of Frijoles Canyon area,\" and col. ill.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1998]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. \"*GPO: 1998--432-903/60371.\" Panel title. Includes text, ancillary map \"Detail of Frijoles Canyon area,\" and col. ill. Text and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4322b.ct000521",
+    "http://lccn.loc.gov/99440674",
+    "http://www.loc.gov/item/99440674/",
+    "http://www.loc.gov/resource/g4322b.ct000521/",
+    "https://hdl.loc.gov/loc.gmd/g4322b.ct000521",
+    "https://search.catalog.loc.gov/instances/fc8bb203-71e4-59e5-9d89-58dac51d95b6",
+    "https://www.loc.gov/item/99440674/"
+  ],
+  "dct_issued_s": "1998",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd432/g4322/g4322b/ct000521.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99440674/\"}",
+  "dct_spatial_sm": [
+    "bandelier national monument",
+    "new mexico",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Bandelier National Monument (N.M.)--Maps",
+    "United States--New Mexico--Bandelier National Monument"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dct_title_s": "Bandelier National Monument, New Mexico",
+  "gbl_dateRange_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99440674",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

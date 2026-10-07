@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "Depicts the path General Samuel Heintzelman took during August 23rd to 31st from Manassas Junction in Prince William County, Va., traveling toward Centreville in Fairfax County, Va., directly before and during the Second Battle of Manassas or Bull Run.",
+    "In the Robert Knox Sneden diary, 1861-1865 (v. 3, p. 510).",
+    "Legend at the bottom of the map gives the marking for the route of the headquarters train of General Heintzelman under whom Sneden served.",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary page.",
+    "Publication statement: [1861-1865]",
+    "Robert Knox Sneden scrapbook (Mss5:7 Sn237:1), Virginia Historical Society.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00035",
+    "http://www.loc.gov/item/001-CABIB20002925/",
+    "http://www.loc.gov/item/gvhs01.vhs00035/",
+    "http://www.loc.gov/resource/gvhs01.vhs00035/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00035",
+    "https://www.loc.gov/item/gvhs01.vhs00035/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00035.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00035/\"}",
+  "dct_spatial_sm": [
+    "centreville",
+    "fairfax county",
+    "manassas",
+    "manassas region",
+    "prince william county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Bull Run, 2nd Battle of, Va",
+    "Bull Run, 2nd Battle of, Va., 1862",
+    "Centreville (Va.)--History--Civil War, 1861-1865--Maps",
+    "Fairfax County (Va.)--History--Civil War, 1861-1865--Maps",
+    "Heintzelman, Samuel Peter,--1805-1880",
+    "Manassas (Va.)--History--Civil War, 1861-1865--Maps",
+    "Prince William County (Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia--Centreville",
+    "United States--Virginia--Fairfax County",
+    "United States--Virginia--Manassas",
+    "United States--Virginia--Manassas Region",
+    "United States--Virginia--Prince William County"
+  ],
+  "dct_temporal_sm": [
+    "1861/1865"
+  ],
+  "dct_title_s": "Route from Manassas to Centreville, August 28th to 31st.",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00035",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

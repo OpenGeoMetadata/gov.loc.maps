@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Homann, Johann Baptist, 1663-1724",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Scale ca. 1:6,500,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 102 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1; 651/2",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 102",
+    "Publication statement: Norimbergæ [1763?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:6,500,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar010200",
+    "http://lccn.loc.gov/74695303",
+    "http://www.loc.gov/item/74695303/",
+    "http://www.loc.gov/resource/g3300.ar010200/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar010200",
+    "https://search.catalog.loc.gov/instances/9d2b2339-ec1d-5894-90da-3b88c215bca5",
+    "https://www.loc.gov/item/74695303/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar010200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74695303/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "north america",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Louisiana",
+    "North America",
+    "United States--Louisiana"
+  ],
+  "dct_temporal_sm": [
+    "1763",
+    "Norimbergæ [1763?]"
+  ],
+  "dct_title_s": "Amplissima regionis Mississipi seu provinciæ Ludovicianæ â R.P. Ludovico Hennepin Francisc Miss. in America septentrionali anno 1687 detectæ, nunc Gallorum coloniis et actionum negotiis toto orbe celeberrimæ",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74695303",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

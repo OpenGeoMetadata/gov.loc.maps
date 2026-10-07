@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Willard, J. P.",
+    "Includes note, lists of towns and points of interest, and statistical table.",
+    "LC Land ownership maps, 609",
+    "LC copy imperfect: Missing edge sections and mounted on cloth backing.",
+    "Publication statement: [Salem, Ohio?] : Lewis Vail Esq., 1841.",
+    "Shows cities, towns, roads, geographical features, and landowners' names.",
+    "Shows cities, towns, roads, geographical features, and landowners' names. LC copy imperfect: Missing edge sections and mounted on cloth backing. Includes note, lists of towns and points of interest, and statistical table. LC Land ownership maps, 609 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4083c.la000609",
+    "http://lccn.loc.gov/2012586252",
+    "http://www.loc.gov/item/2012586252/",
+    "http://www.loc.gov/resource/g4083c.la000609/",
+    "https://hdl.loc.gov/loc.gmd/g4083c.la000609",
+    "https://search.catalog.loc.gov/instances/6ac3780b-128e-5ced-a057-2d6e9639fdc7",
+    "https://www.loc.gov/item/2012586252/"
+  ],
+  "dct_issued_s": "1841",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4083/g4083c/la000609.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012586252/\"}",
+  "dct_spatial_sm": [
+    "columbiana county",
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Columbiana County (Ohio)--Maps",
+    "Landowners--Ohio--Columbiana County--Maps",
+    "United States--Ohio--Columbiana County"
+  ],
+  "dct_temporal_sm": [
+    "1841"
+  ],
+  "dct_title_s": "Map of Columbiana County, Ohio",
+  "gbl_dateRange_drsim": [
+    "[1841 TO 1841]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1841
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012586252",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

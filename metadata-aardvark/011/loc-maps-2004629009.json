@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Jacques Bellin (1703-72) was a prolific cartographer attached to the French Marine Office. In 1764, he published Le Petit Atlas Maritime (Small maritime atlas), a work in five volumes containing 581 maps. Nicaragua and Costa Rica, shown in this map from the second volume of the atlas, were at the time provinces of the Captaincy General of Guatemala, part of the Spanish Empire. The left side of the image shows the title page of Bellin's atlas. Nicaragua and Costa Rica both declared independence from Spain in 1821.\" World Digital Library.",
+    "\"Tome II. No. 9.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bellin, Jacques Nicolas, 1703-1772",
+    "From the author's Le petit atlas maritime, 1764.",
+    "Prime meridian: Paris.",
+    "Publication statement: [S.l. : s.n., 1764]",
+    "Relief shown pictorially."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4850.ma001008",
+    "http://lccn.loc.gov/2004629009",
+    "http://www.loc.gov/item/2004629009/",
+    "http://www.loc.gov/resource/g4850.ma001008/",
+    "https://hdl.loc.gov/loc.gmd/g4850.ma001008",
+    "https://search.catalog.loc.gov/instances/0357e4a7-5e20-5ba4-811e-7bebe567dc88",
+    "https://www.loc.gov/item/2004629009/"
+  ],
+  "dct_issued_s": "1764",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4850/g4850/ma001008.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004629009/\"}",
+  "dct_spatial_sm": [
+    "costa rica",
+    "nicaragua"
+  ],
+  "dct_subject_sm": [
+    "Costa Rica",
+    "Costa Rica--Maps",
+    "Nicaragua",
+    "Nicaragua--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "dct_title_s": "Carte des provinces de Nicaragua et Costa Rica",
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1764
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004629009",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

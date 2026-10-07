@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At head of title: Figure 2.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Carnegie Institution of Washington. Department of Terrestrial Magnetism; Cole, J. F.",
+    "Gift of Carnegie Institution of Washington, Dept. of Terrestrial Magnetism.",
+    "Original title under label: Fig. 8. Isogonic map of Bermuda, 1905.",
+    "Pen-and-ink and watercolor.",
+    "Stamped in lower right corner: 0165.",
+    "Title from label over original title.",
+    "Title from label over original title. At head of title: Figure 2. Original title under label: Fig. 8. Isogonic map of Bermuda, 1905. Pen-and-ink and watercolor. Gift of Carnegie Institution of Washington, Dept. of Terrestrial Magnetism. Stamped in lower right corner: 0165. Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g9121c.ct003500",
+    "http://lccn.loc.gov/90682929",
+    "http://www.loc.gov/item/90682929/",
+    "http://www.loc.gov/resource/g9121c.ct003500/",
+    "https://hdl.loc.gov/loc.gmd/g9121c.ct003500",
+    "https://search.catalog.loc.gov/instances/cb0038f0-822f-52fd-b08b-8726fcb7253c",
+    "https://www.loc.gov/item/90682929/"
+  ],
+  "dct_issued_s": "1905",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd9/g9121/g9121c/ct003500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90682929/\"}",
+  "dct_spatial_sm": [
+    "bermuda islands"
+  ],
+  "dct_subject_sm": [
+    "Bermuda Islands",
+    "Geomagnetism--Bermuda Islands--Maps",
+    "Maps"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dct_title_s": "Isogonic chart of Bermuda for April 1905, declinations west",
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1905]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1905
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90682929",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

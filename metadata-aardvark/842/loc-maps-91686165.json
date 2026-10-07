@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"9-91.\"",
+    "\"Base 801809 (B01013).\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes note.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1991]",
+    "Relief shown by shading.",
+    "Relief shown by shading. \"9-91.\" Includes note. \"Base 801809 (B01013).\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7050.ct002046",
+    "http://lccn.loc.gov/91686165",
+    "http://www.loc.gov/item/91686165/",
+    "http://www.loc.gov/resource/g7050.ct002046/",
+    "https://hdl.loc.gov/loc.gmd/g7050.ct002046",
+    "https://search.catalog.loc.gov/instances/e78a4e5f-19c8-5aec-a50b-82536258ba17",
+    "https://www.loc.gov/item/91686165/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7050/g7050/ct002046.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91686165/\"}",
+  "dct_spatial_sm": [
+    "lithuania"
+  ],
+  "dct_subject_sm": [
+    "Lithuania",
+    "Lithuania--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "Lithuania",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91686165",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

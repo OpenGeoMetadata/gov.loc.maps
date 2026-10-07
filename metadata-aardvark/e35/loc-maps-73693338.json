@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Looking south west.\"",
+    "\"This panoramic map shows Little Rock, Arkansas, as it appeared in 1871. Little Rock, the capital of Arkansas, was officially incorporated in 1831. The area had been named in the 18th century for a rock formation near the Arkansas River by French explorer Jean-Baptiste Bénard de la Harpe (1683-1765). In this view, the city streets can be seen laid out in an orderly fashion and extending away from the Arkansas River. Numerous vessels traverse the river or are docked along the shore; some vessel names are visible, such as the steamboat Arkansas Belle. Several trains run on tracks located on the shore in the foreground. At the bottom of the map, population numbers are given for 1860 (about 3,200) and 1871 (15,600), indicating the explosive growth in the city over the past decade. An index at the bottom of the map indicates points of interest: the state house, city hall, the U.S. arsenal, a penitentiary, schools (including the short-lived Saint John's College), an asylum for the blind, a Catholic convent, a cemetery, and the railroad depots. The index on the bottom right lists numerous houses of worship, including Presbyterian, Baptist, and other major Protestant denominations; a Catholic church; and a synagogue. Along the bottom of the map are more detailed drawings of several structures: the state house, Saint John's College, a public school, and the asylum for the blind. The panoramic map was a cartographic form popularly used to depict U.S. and Canadian cities and towns in the late 19th and early 20th centuries. Also known as bird's-eye views or perspective maps, these maps are representations of cities portrayed as if viewed from above at an oblique angle. Not generally drawn to scale, they show street patterns, individual buildings, and major landscape features in perspective. This map is by Albert Ruger (1829-99), the first American to achieve success as a panoramic artist. Born in Prussia, Ruger immigrated to the United States and worked initially as a mason. While serving with the Ohio Volunteers during the Civil War, he drew views of Union campsites. After the war, Ruger settled in Battle Creek, Michigan, where he began his panoramic mapping career by sketching Michigan cities. In the late 1860s, Ruger formed a partnership with J.J. Stoner of Madison, Wisconsin, and together they published numerous city panoramas.\" World Digital Library.",
+    "AACR2: 100; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ruger, A.",
+    "Includes ill. and index to points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 13",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [n.p., 1871]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4004l.pm000130",
+    "http://lccn.loc.gov/73693338",
+    "http://www.loc.gov/item/73693338/",
+    "http://www.loc.gov/resource/g4004l.pm000130/",
+    "https://hdl.loc.gov/loc.gmd/g4004l.pm000130",
+    "https://search.catalog.loc.gov/instances/b2d8ca9e-ddb5-5539-98ea-8ef650876aaf",
+    "https://www.loc.gov/item/73693338/"
+  ],
+  "dct_issued_s": "1871",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4004/g4004l/pm000130.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693338/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "little rock",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Little Rock (Ark.)",
+    "United States--Arkansas--Little Rock"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "dct_title_s": "Bird's eye view of the city of Little Rock, the capitol of Arkansas 1871",
+  "gbl_dateRange_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1871
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693338",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

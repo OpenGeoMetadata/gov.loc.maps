@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Boston",
+    "Title in lower right corner: Boston"
+  ],
+  "dct_description_sm": [
+    "\"Includes airspace amendments effective 20 Dec. 2007 and all other aeronautical data received by 25 Oct. 2007.\"",
+    "\"NSN 7641014104529.\"",
+    "Aeronautical chart showing designated helicopter routes in Boston metropolitan area.",
+    "Aeronautical chart showing designated helicopter routes in Boston metropolitan area. \"Includes airspace amendments effective 20 Dec. 2007 and all other aeronautical data received by 25 Oct. 2007.\" Relief shown by spot heights. Shows radial distances from Logan International Airport. Includes indexed directories of routes, notes, text, and statistical tables. Indexed directories of routes, metro-area map of \"Boston downtown, scale 1:50,000,\" notes, text, and statistical tables on verso. \"NSN 7641014104529.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Aeronautical Charting Office",
+    "Includes indexed directories of routes, notes, text, and statistical tables.",
+    "Indexed directories of routes, metro-area map of \"Boston downtown, scale 1:50,000,\" notes, text, and statistical tables on verso.",
+    "Publication statement: [Washington, D.C.] : U.S. Dept. of Transportation, Federal Aviation Administration, National Aeronautical Charting Office, [2007]",
+    "Relief shown by spot heights.",
+    "Shows radial distances from Logan International Airport."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.ct005987",
+    "http://lccn.loc.gov/2008624239",
+    "http://www.loc.gov/item/2008624239/",
+    "http://www.loc.gov/resource/g3764b.ct005987/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ct005987",
+    "https://search.catalog.loc.gov/instances/25306201-5a95-5e98-ad5f-d5908d1c2ae1",
+    "https://www.loc.gov/item/2008624239/"
+  ],
+  "dct_issued_s": "2007",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/ct005987.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008624239/\"}",
+  "dct_spatial_sm": [
+    "boston metropolitan area",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Aeronautical charts--Massachusetts--Boston Metropolitan Area",
+    "Airways--Massachusetts--Boston Metropolitan Area--Maps",
+    "Helicopter transportation--Massachusetts--Boston Metropolitan Area--Maps",
+    "United States--Massachusetts--Boston Metropolitan Area"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_title_s": "Helicopter route chart, Boston",
+  "gbl_dateRange_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008624239",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

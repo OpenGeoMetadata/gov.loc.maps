@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2; 650/3; 650/4",
+    "Also covers adjacent suburbs.",
+    "Also shows unelectrified railroads.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Philadelphia. Department of City Transit",
+    "Publication statement: [Philadelphia] : The Dept., [1921?]",
+    "Scale ca. 1:43,000.",
+    "Shows radial distances and unelectrified railroads.",
+    "Shows radial distances and unelectrified railroads. Also shows unelectrified railroads. Also covers adjacent suburbs. Scale ca. 1:43,000. Available also through the Library of Congress Web site as a raster image. AACR2: 651/1; 651/2; 650/3; 650/4"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824p.ct008336",
+    "http://lccn.loc.gov/78694427",
+    "http://www.loc.gov/item/78694427/",
+    "http://www.loc.gov/resource/g3824p.ct008336/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.ct008336",
+    "https://search.catalog.loc.gov/instances/e7833289-0639-5e55-8f76-495021c189a1",
+    "https://www.loc.gov/item/78694427/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ct008336.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78694427/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "philadelphia",
+    "philadelphia metropolitan area",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Philadelphia (Pa.)--Population--Maps",
+    "Philadelphia Metropolitan Area (Pa.)--Population--Maps",
+    "Railroads--Pennsylvania--Philadelphia Metropolitan Area--Maps",
+    "Railroads--Pennsylvania--Philadelphia--Maps",
+    "United States--Pennsylvania--Philadelphia"
+  ],
+  "dct_temporal_sm": [
+    "1921",
+    "[Philadelphia] : The Dept., [1921?]"
+  ],
+  "dct_title_s": "Map of Philadelphia showing population in year 1920, as enumerated in U.S. Census, and existing electric railway system",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78694427",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

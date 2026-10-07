@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base source: USGS 1:100,000 county base map compiled in 1978 ...\"",
+    "\"February 1980.\"",
+    "\"February 1980.\" \"Interpretations derived from soil map constructed 1938 by Cartographic Division, Soil Conservation Service, USDA of Fluvanna County, Virginia.\" \"Base source: USGS 1:100,000 county base map compiled in 1978 ...\" Includes notes and location map. Available also through the Library of Congress Web site as a raster image.",
+    "\"Interpretations derived from soil map constructed 1938 by Cartographic Division, Soil Conservation Service, USDA of Fluvanna County, Virginia.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes notes and location map.",
+    "Publication statement: [Lanham, Md.?] : The Service ; [Richmond, Va. : State Conservationist, distributor, 1980]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883f.ct009249",
+    "http://lccn.loc.gov/95686014",
+    "http://www.loc.gov/item/95686014/",
+    "http://www.loc.gov/resource/g3883f.ct009249/",
+    "https://hdl.loc.gov/loc.gmd/g3883f.ct009249",
+    "https://search.catalog.loc.gov/instances/53042c63-26ac-5431-b008-3b9f2e7fff9d",
+    "https://www.loc.gov/item/95686014/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883f/ct009249.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95686014/\"}",
+  "dct_spatial_sm": [
+    "fluvanna county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Agricultural resources--Virginia--Fluvanna County--Maps",
+    "Land capability for agriculture--Virginia--Fluvanna County--Maps",
+    "Soil productivity--Virginia--Fluvanna County--Maps",
+    "United States--Virginia--Fluvanna County"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Important farmlands, Fluvanna County, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95686014",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

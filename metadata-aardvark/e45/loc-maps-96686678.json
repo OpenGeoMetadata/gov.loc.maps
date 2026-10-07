@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Melish, John, 1771-1822; Tanner, Henry Schenck, 1786-1858; Vallance, J. (John), 1770-1823",
+    "Includes inset of the West Indies.",
+    "LC copy sectioned and mounted on cloth backing. Includes annotations in pencil.",
+    "Prime meridians: London and Washington.",
+    "Publication statement: Philadelphia : J. Melish, c1816.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Prime meridians: London and Washington. Seventh state. Includes inset of the West Indies. Available also through the Library of Congress Web site as a raster image. LC copy sectioned and mounted on cloth backing. Includes annotations in pencil. Vault",
+    "Seventh state.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.ct000676",
+    "http://lccn.loc.gov/96686678",
+    "http://www.loc.gov/item/96686678/",
+    "http://www.loc.gov/resource/g3700.ct000676/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ct000676",
+    "https://search.catalog.loc.gov/instances/d6538d72-43b3-5f52-a284-ead908a78da1",
+    "https://www.loc.gov/item/96686678/"
+  ],
+  "dct_issued_s": "1816",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ct000676.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96686678/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1816"
+  ],
+  "dct_title_s": "Map of the United States of America : with the contiguous British and Spanish possessions",
+  "gbl_dateRange_drsim": [
+    "[1816 TO 1816]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1816
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96686678",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

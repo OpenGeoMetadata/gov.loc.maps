@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes index and note.",
+    "LC Luso-Hispanic World, 573",
+    "Maggs number annotated in pencil in lower right corner: 45.",
+    "Mounted on cloth backing.",
+    "Oriented with north toward the lower right.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1790]",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Relief shown pictorially. Depths shown by soundings. Oriented with north toward the lower right. Watermark: Strasburg fleur-de-lis. Pen-and-ink and watercolor. Mounted on cloth backing. Includes index and note. Maggs number annotated in pencil in lower right corner: 45. LC Luso-Hispanic World, 573 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermark: Strasburg fleur-de-lis."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4682c.lh000573",
+    "http://lccn.loc.gov/90683662",
+    "http://www.loc.gov/item/90683662/",
+    "http://www.loc.gov/resource/g4682c.lh000573/",
+    "https://hdl.loc.gov/loc.gmd/g4682c.lh000573",
+    "https://search.catalog.loc.gov/instances/8067c4c0-563d-524a-8fe5-e9a2192176da",
+    "https://www.loc.gov/item/90683662/"
+  ],
+  "dct_issued_s": "1790",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4682/g4682c/lh000573.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90683662/\"}",
+  "dct_spatial_sm": [
+    "coatzacoalcos river",
+    "mexico"
+  ],
+  "dct_subject_sm": [
+    "Coatzacoalcos River (Mexico)--Maps, Manuscript--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "Mexico--Coatzacoalcos River"
+  ],
+  "dct_temporal_sm": [
+    "1790"
+  ],
+  "dct_title_s": "Plano del Río de Guazacuals. cituado en la costa del S. del seno mexicao. proa. gua[?]acas",
+  "gbl_dateRange_drsim": [
+    "[1790 TO 1790]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1790
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90683662",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

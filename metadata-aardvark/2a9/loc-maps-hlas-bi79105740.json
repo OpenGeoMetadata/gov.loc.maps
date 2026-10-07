@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: editorial filcar (buenos aires, argentina); modelski, andrew m."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi79105740/",
+    "https://www.loc.gov/item/hlas-bi79105740/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "Editorial Filcar,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi79105740/\"}",
+  "dct_spatial_sm": [
+    "argentina"
+  ],
+  "dct_subject_sm": [
+    "argentina",
+    "coastal areas",
+    "maps and cartography",
+    "maps and cartography -- argentina",
+    "maps and cartography -- coastal areas"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "Zona Atlántica planos: San Clemente del Tuyu, Las Toninas, Santa Teresita, Mar del Tuyu, La Lucila del Mar, San Bernardo, Mar de Ajó, Pinamar, Ostende, Valeria del Mar, Villa Gesell, Santa Clara del Mar",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi79105740",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

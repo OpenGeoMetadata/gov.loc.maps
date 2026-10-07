@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*U.S. Government Printing Office: 1995-609-401.\"",
+    "\"CEORPP 1130-1-16.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Pittsburgh District",
+    "Includes text, table of recreation facilities, and col. ill.",
+    "Publication statement: [Pittsburgh?] : The District, [1995]",
+    "Shows recreational features of the reservoir and adjacent areas.",
+    "Shows recreational features of the reservoir and adjacent areas. \"*U.S. Government Printing Office: 1995-609-401.\" Includes text, table of recreation facilities, and col. ill. Text, location map, statistical tables, and col. ill. on verso. \"CEORPP 1130-1-16.\" Available also through the Library of Congress Web site as a raster image.",
+    "Text, location map, statistical tables, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822t.ct008083",
+    "http://lccn.loc.gov/98689740",
+    "http://www.loc.gov/item/98689740/",
+    "http://www.loc.gov/resource/g3822t.ct008083/",
+    "https://hdl.loc.gov/loc.gmd/g3822t.ct008083",
+    "https://search.catalog.loc.gov/instances/48635a2f-261a-51b4-b530-c603a056c180",
+    "https://www.loc.gov/item/98689740/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822t/ct008083.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98689740/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "tionesta lake",
+    "tionesta lake region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boats and boating--Pennsylvania--Tionesta Lake--Maps",
+    "Outdoor recreation--Pennsylvania--Tionesta Lake Region--Maps",
+    "Tionesta Lake Region (Pa.)--Maps",
+    "United States--Pennsylvania--Tionesta Lake Region"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Tionesta Lake",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98689740",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

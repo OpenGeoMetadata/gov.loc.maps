@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Ten-year single-storm erosion index (E I) values Virginia"
+  ],
+  "dct_description_sm": [
+    "\"June 1991 1005822.\"",
+    "\"June 1991 1005822.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Publication statement: Washington, D.C. : U.S. Dept. of Agriculture, Soil Conservation Service, 1991."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881j.ct009007",
+    "http://lccn.loc.gov/2014588420",
+    "http://www.loc.gov/item/2014588420/",
+    "http://www.loc.gov/resource/g3881j.ct009007/",
+    "https://hdl.loc.gov/loc.gmd/g3881j.ct009007",
+    "https://search.catalog.loc.gov/instances/a0e7c12a-add7-58ee-84a4-9745c71dad47",
+    "https://www.loc.gov/item/2014588420/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881j/ct009007.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2014588420/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Erosion--Virginia--Maps",
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "10-year single-storm erosion index (E I) values Virginia",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2014588420",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

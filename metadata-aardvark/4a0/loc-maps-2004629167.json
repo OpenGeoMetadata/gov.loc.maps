@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Pond, Peter, 1740-1807",
+    "In upper right corner: Gent. Mag. March 1790. Pt. I, p. 197.",
+    "Prime meridian: London.",
+    "Publication statement: [London? : s.n., 1790?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Prime meridian: London. In upper right corner: Gent. Mag. March 1790. Pt. I, p. 197. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ct000912",
+    "http://lccn.loc.gov/2004629167",
+    "http://www.loc.gov/item/2004629167/",
+    "http://www.loc.gov/resource/g3300.ct000912/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ct000912",
+    "https://search.catalog.loc.gov/instances/27a8e82d-c318-59f9-bc53-c98094c7c785",
+    "https://www.loc.gov/item/2004629167/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ct000912.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004629167/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "Canada",
+    "Canada--Maps--Early works to 1800",
+    "North America",
+    "North America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1790",
+    "[London? : s.n., 1790?]"
+  ],
+  "dct_title_s": "A map shewing the communication of the lakes and the rivers between Lake Superior and Slave Lake in North America",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004629167",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

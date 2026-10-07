@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Berry, E. H., del; Schoepf, W. Kesley; Thos. J. Fisher and Co",
+    "DCP",
+    "LC copy halved and mounted on cloth backing.",
+    "Partial cadastral map showing some landowners' names and acreages in rural areas.",
+    "Partial cadastral map showing some landowners' names and acreages in rural areas. Shows radial distances from White House. Available also through the Library of Congress Web site as a raster image. LC copy halved and mounted on cloth backing. DCP",
+    "Publication statement: Washington : The Company, 1891",
+    "Shows radial distances from White House."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.la002282",
+    "http://lccn.loc.gov/88693396",
+    "http://www.loc.gov/item/88693396/",
+    "http://www.loc.gov/resource/g3850.la002282/",
+    "https://hdl.loc.gov/loc.gmd/g3850.la002282",
+    "https://search.catalog.loc.gov/instances/294ca270-cade-56b0-83c9-4a8d861fee46",
+    "https://www.loc.gov/item/88693396/"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/la002282.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693396/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "Real property--Washington (D.C.)--Maps",
+    "Real property--Washington Metropolitan Area--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Metropolitan Area",
+    "Washington (D.C.)--Maps",
+    "Washington Metropolitan Area--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "Map of the District of Columbia and adjacent portions of Maryland and Virginia",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693396",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

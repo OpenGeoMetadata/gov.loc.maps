@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Patterson, Tom (Cartographer), cartographer",
+    "Includes text and coverage map.",
+    "MARS acquisition number: ACQ0010805.",
+    "Panoramic view of the Malaspina Glacier and Saint Elias Mountains.",
+    "Panoramic view of the Malaspina Glacier and Saint Elias Mountains. Relief shown by shading and spot heights. Source data scale: not drawn to scale. Includes text and coverage map. MARS acquisition number: ACQ0010805.",
+    "Publication statement: [Virginia?] : Tom Patterson, May 28, 2021.",
+    "Relief shown by shading and spot heights.",
+    "Source data scale: not drawn to scale."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024586063",
+    "http://www.loc.gov/item/2024586063/",
+    "http://www.loc.gov/resource/gmddigstackspublic.2024586063/",
+    "https://hdl.loc.gov/loc.gmd/gmddigstackspublic.2024586063",
+    "https://search.catalog.loc.gov/instances/ecc8ea72-5a38-5ecc-a41d-5dbd3ca3adc9",
+    "https://www.loc.gov/item/2024586063/"
+  ],
+  "dct_issued_s": "2021",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmddigstackspublic/20/24/58/60/63/2024586063/2024586063.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024586063/\"}",
+  "dct_rights_sm": [
+    "\"The Malaspina Glacier Panorama is in the public domain. You may use it any way that you want. You are not required to cite the map.\"--shadedrelief.com ; viewed April 1, 2025. https://www.shadedrelief.com/malaspina/",
+    "Public domain. https://creativecommons.org/public-domain/"
+  ],
+  "dct_spatial_sm": [
+    "alaska",
+    "malaspina glacier",
+    "saint elias mountains"
+  ],
+  "dct_subject_sm": [
+    "Alaska--Malaspina Glacier",
+    "Malaspina Glacier (Alaska)--Maps",
+    "Saint Elias Mountains",
+    "Saint Elias Mountains--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "dct_title_s": "Malaspina Glacier and the Saint Elias Mountains, Alaska-Yukon-British Columbia",
+  "gbl_dateRange_drsim": [
+    "[2021 TO 2021]"
+  ],
+  "gbl_displayNote_sm": [
+    "Unrestricted online access.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024586063",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

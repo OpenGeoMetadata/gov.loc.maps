@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Leopold Gast & Brother; Quin, Smith & Van Zandt",
+    "Hand colored.",
+    "Hand colored. Relief shown by hachures. Includes ill. Scale 1:316,800; 5 miles to 1 in. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes ill.",
+    "Publication statement: [Lecompton? Kan.] : Quin, Smith & Van Zandt, [1857]",
+    "Relief shown by hachures.",
+    "Scale 1:316,800; 5 miles to 1 in."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4190.ct007704",
+    "http://lccn.loc.gov/79694702",
+    "http://www.loc.gov/item/79694702/",
+    "http://www.loc.gov/resource/g4190.ct007704/",
+    "https://hdl.loc.gov/loc.gmd/g4190.ct007704",
+    "https://search.catalog.loc.gov/instances/480c59f1-8566-557f-9217-6a41c776f4fc",
+    "https://www.loc.gov/item/79694702/"
+  ],
+  "dct_issued_s": "1857",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd419/g4190/g4190/ct007704.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79694702/\"}",
+  "dct_spatial_sm": [
+    "nebraska",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Nebraska--Maps",
+    "United States--Nebraska"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_title_s": "The Territory of Nebraska : embracing the public surveys up to the summer of 1857",
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1857
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79694702",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

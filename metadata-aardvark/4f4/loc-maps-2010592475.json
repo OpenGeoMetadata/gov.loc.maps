@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows administrative divisions.",
+    "Also shows administrative divisions. Relief shown by hachures. Includes ill. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Delamare, F.; Paz Soldan, Mariano Felipe, 1821-1886",
+    "Includes ill.",
+    "Publication statement: [Paris? : s.n., 1862]",
+    "Relief shown by hachures."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2010592475",
+    "http://www.loc.gov/item/2010592475/",
+    "http://www.loc.gov/resource/g5310.ct010990/",
+    "https://hdl.loc.gov/loc.gmd/g5310.ct010990",
+    "https://search.catalog.loc.gov/instances/6b68b1f4-1bf8-5c9a-adca-f02fed393dc0",
+    "https://www.loc.gov/item/2010592475/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5310/g5310/ct010990.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010592475/\"}",
+  "dct_spatial_sm": [
+    "peru"
+  ],
+  "dct_subject_sm": [
+    "Peru",
+    "Peru--Administrative and political divisions--Maps",
+    "Peru--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Mapa del Peru",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010592475",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Theatrum orbis terrarum"
+  ],
+  "dct_description_sm": [
+    "Acid offset on facing pages. Blank leaves inserted between map sheets.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Catalogus auctorum includes 87 names. T.p. verso blank.",
+    "Colophon: 20 Mai 1570.",
+    "Contributors: Diesth, Aegid. Coppenius (Aegidius Coppenius); Llwyd, Humphrey, 1527-1568; Ortelius, Abraham, 1527-1598",
+    "Front cover displays the name and arms of Jean, comte de Hoya, bishop of Münster and Osnabrück (1566-74).",
+    "G&M microfilm 133.",
+    "Includes \"De Mona druidum insula\" by H. Llwyd.",
+    "Includes 53 map sheets, with descriptive text on verso.",
+    "Koeman, C. Atlantes Neerlandici, Ort 1A",
+    "List of geographical atlases in the Library of Congress, 3389",
+    "Publication statement: Antverpiae : Apud Aegid. Coppenium Diesth, 1570.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Colophon: 20 Mai 1570. Catalogus auctorum includes 87 names. T.p. verso blank. Includes 53 map sheets, with descriptive text on verso. Acid offset on facing pages. Blank leaves inserted between map sheets. Front cover displays the name and arms of Jean, comte de Hoya, bishop of Münster and Osnabrück (1566-74). Includes \"De Mona druidum insula\" by H. Llwyd. List of geographical atlases in the Library of Congress, 3389 Koeman, C. Atlantes Neerlandici, Ort 1A Available also through the Library of Congress Web site as a raster image. G&M microfilm 133."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200m.gct00126",
+    "http://lccn.loc.gov/2003683482",
+    "http://www.loc.gov/item/2003683482/",
+    "http://www.loc.gov/resource/g3200m.gct00126/",
+    "https://hdl.loc.gov/loc.gmd/g3200m.gct00126",
+    "https://search.catalog.loc.gov/instances/f520b0fb-e91f-5a98-8588-f97e6b4e2a54",
+    "https://www.loc.gov/item/2003683482/"
+  ],
+  "dct_issued_s": "1570",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3m/g3200m/g3200m/gct00126/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003683482/\"}",
+  "dct_spatial_sm": [
+    "earth"
+  ],
+  "dct_subject_sm": [
+    "Earth",
+    "Geography--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1570"
+  ],
+  "dct_title_s": "Theatrvm orbis terrarvm",
+  "gbl_dateRange_drsim": [
+    "[1570 TO 1570]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1570
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003683482",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

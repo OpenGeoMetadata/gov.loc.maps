@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Drawn by John Lambert. Topographer of the exploration, assisted by J. R. P. Mechlin.\"",
+    "At head of title: Route near the 47th and 49th Parallels. Map no. 2.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Davis, Jefferson, 1808-1889; Lambert, John (Topographer); Siebert, Selmar; Stevens, Isaac Ingalls, 1818-1862; United States. War Department",
+    "Description derived from published bibliography.",
+    "From U.S. War Department, Explorations and Surveys for a Railroad Route from the Mississippi River to the Pacific Ocean. Topographical Maps... to Illustrate the Various Reports... (Washington, 1859)",
+    "LC Railroad maps, 155",
+    "Publication statement: [Washington, D.C., 1859]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. At head of title: Route near the 47th and 49th Parallels. Map no. 2. \"Drawn by John Lambert. Topographer of the exploration, assisted by J. R. P. Mechlin.\" From U.S. War Department, Explorations and Surveys for a Railroad Route from the Mississippi River to the Pacific Ocean. Topographical Maps... to Illustrate the Various Reports... (Washington, 1859) Description derived from published bibliography. Scale 1:1,200,000. LC Railroad maps, 155 Available also through the Library of Congress Web site as a raster image.",
+    "Scale 1:1,200,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4126p.rr001550",
+    "http://lccn.loc.gov/98688423",
+    "http://www.loc.gov/item/98688423/",
+    "http://www.loc.gov/resource/g4126p.rr001550/",
+    "https://hdl.loc.gov/loc.gmd/g4126p.rr001550",
+    "https://search.catalog.loc.gov/instances/422ad9e2-6cb7-5799-b406-e58a12c3fc7b",
+    "https://www.loc.gov/item/98688423/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4126/g4126p/rr001550.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688423/\"}",
+  "dct_spatial_sm": [
+    "missouri river",
+    "northwestern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Missouri River--Maps",
+    "Northwestern States--Maps",
+    "Railroads--Missouri River--Surveying--Maps",
+    "Railroads--Northwestern States--Surveying--Maps",
+    "United States--Missouri River",
+    "United States--Northwestern States"
+  ],
+  "dct_temporal_sm": [
+    "1853 d1854"
+  ],
+  "dct_title_s": "Riviere des Lacs to the Rocky Mountains : from explorations and surveys",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688423",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

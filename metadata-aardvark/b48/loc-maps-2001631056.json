@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "SLAR, side-looking airborne radar, New Orleans, LA",
+    "Side-looking airborne radar, New Orleans LA"
+  ],
+  "dct_description_sm": [
+    "\"ISO 9660 Mfr 1/92.\"",
+    "Contains digital files of the SLAR data strips of New Orleans, LA, collected August 1991.",
+    "Contributors: EROS Data Center; Geological Survey (U.S.)",
+    "Publication statement: [Sioux Falls, S.D. : EROS Data Center, 1992]",
+    "System requirements: IBM PC compatible; CD-ROM drive.",
+    "Title from disc label."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2001631056",
+    "http://www.loc.gov/item/2001631056/",
+    "http://www.loc.gov/resource/gdcdatasets.2001631056/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2001631056",
+    "https://search.catalog.loc.gov/instances/bfa5da8b-1eb4-5148-94d7-1b837c8ad4ba",
+    "https://www.loc.gov/item/2001631056/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2001631056/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "new orleans"
+  ],
+  "dct_subject_sm": [
+    "Maps--Digital",
+    "New Orleans (La.)--Remote-sensing images"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "New Orleans, LA, 1 ̊x 2 ̊quadrangle flown 8/91, north look",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001631056",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

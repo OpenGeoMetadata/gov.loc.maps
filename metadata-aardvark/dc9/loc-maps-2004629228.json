@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map of the region around the Pishin Lora River in southern Afghanistan and western Pakistan was presented at a meeting of the Royal Geographical Society in London on February 9, 1880, in connection with a paper by Major-General Sir Michael A. Biddulph, \"Pishin and the Routes Between India and Candahar [Kandahar].\" The previous year, Biddulph had led a military expedition of British, Gurkha, and Punjabi troops on an expedition from British India into Afghanistan. The map is based on an earlier British military map, with corrections and additions based on surveys conducted by Biddulph's expedition. In addition to expanding their geographic knowledge of the region, the British were interested in determining the feasibility of building a railroad to connect Afghanistan with India and the sea.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Turner, W. J. (William John)",
+    "Publication statement: [London] : Royal Geographical Society, 1880",
+    "Relief shown by shading.",
+    "Stamped in lower left corner: 608A."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7642p.ct001137",
+    "http://lccn.loc.gov/2004629228",
+    "http://www.loc.gov/item/2004629228/",
+    "http://www.loc.gov/resource/g7642p.ct001137/",
+    "https://hdl.loc.gov/loc.gmd/g7642p.ct001137",
+    "https://search.catalog.loc.gov/instances/53bb6d45-4298-58a3-8e3f-e839521691a6",
+    "https://www.loc.gov/item/2004629228/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7642/g7642p/ct001137.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004629228/\"}",
+  "dct_spatial_sm": [
+    "afghanistan",
+    "pakistan",
+    "pishin lora"
+  ],
+  "dct_subject_sm": [
+    "Afghanistan",
+    "Pishin Lora (Pakistan and Afghanistan)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Map of the Pishin Valley and the upper basin of the Lora : constructed from the surveys & reconnaissances executed by officers attached to the forces serving in southern Afghanistan",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004629228",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

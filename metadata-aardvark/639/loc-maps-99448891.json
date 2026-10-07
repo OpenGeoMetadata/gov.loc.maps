@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Lindenkohl, A.",
+    "Description derived from published bibliography.",
+    "Indicates 5-mile concentric circles centered on Richmond, roads, bridges, railroads, towns, houses, drainage, vegetation, and some fortifications in the Richmond-Petersburg area.",
+    "Library of Congress. Civil War maps (2nd ed.), 489",
+    "Map title appears inside the border in the upper right corner.",
+    "Map title appears inside the border in the upper right corner. Indicates 5-mile concentric circles centered on Richmond, roads, bridges, railroads, towns, houses, drainage, vegetation, and some fortifications in the Richmond-Petersburg area. Description derived from published bibliography. Scale 1:200,000. Library of Congress. Civil War maps (2nd ed.), 489 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: [S.l.], H. Lindenkohl & Chs. G. Krebs, lith., [1864]",
+    "Scale 1:200,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881s.cw0489000",
+    "http://lccn.loc.gov/99448891",
+    "http://www.loc.gov/item/99448891/",
+    "http://www.loc.gov/resource/g3881s.cw0489000/",
+    "https://hdl.loc.gov/loc.gmd/g3881s.cw0489000",
+    "https://search.catalog.loc.gov/instances/2515e0f9-0f33-5840-8216-28ded9448e2d",
+    "https://www.loc.gov/item/99448891/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881s/cw0489000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448891/\"}",
+  "dct_spatial_sm": [
+    "petersburg region",
+    "richmond region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Petersburg Region (Va.)--History--Civil War, 1861-1865--Maps",
+    "Richmond Region (Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia",
+    "United States--Virginia--Petersburg Region",
+    "United States--Virginia--Richmond Region",
+    "Virginia--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Military map of south-eastern Virginia",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448891",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

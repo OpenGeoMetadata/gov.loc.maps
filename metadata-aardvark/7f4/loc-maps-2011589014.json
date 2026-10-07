@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 503207 1-77.\"",
+    "\"Base 503207 1-77.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1977]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8960.ct003260",
+    "http://lccn.loc.gov/2011589014",
+    "http://www.loc.gov/item/2011589014/",
+    "http://www.loc.gov/resource/g8960.ct003260/",
+    "https://hdl.loc.gov/loc.gmd/g8960.ct003260",
+    "https://search.catalog.loc.gov/instances/91d8639b-55ae-5cdd-9fd1-ae08b0a06f87",
+    "https://www.loc.gov/item/2011589014/"
+  ],
+  "dct_issued_s": "1977",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8960/g8960/ct003260.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011589014/\"}",
+  "dct_spatial_sm": [
+    "australia"
+  ],
+  "dct_subject_sm": [
+    "Australia",
+    "Australia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_title_s": "Australia",
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011589014",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

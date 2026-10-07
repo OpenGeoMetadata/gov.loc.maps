@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Stakemann, M.",
+    "LC Land ownership maps, 1100",
+    "Publication statement: Dallas, Tex. : Texas and Pacific Land Office, 1891.",
+    "Shows landownership.",
+    "Shows landownership. LC Land ownership maps, 1100 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033p.la001100",
+    "http://lccn.loc.gov/2010593154",
+    "http://www.loc.gov/item/2010593154/",
+    "http://www.loc.gov/resource/g4033p.la001100/",
+    "https://hdl.loc.gov/loc.gmd/g4033p.la001100",
+    "https://search.catalog.loc.gov/instances/d6e903bd-3f59-5031-b0b3-7e8b8188496e",
+    "https://www.loc.gov/item/2010593154/"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033p/la001100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010593154/\"}",
+  "dct_spatial_sm": [
+    "brewster county",
+    "presidio county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Brewster County (Tex.)--Maps",
+    "Landowners--Texas--Brewster County--Maps",
+    "Landowners--Texas--Presidio County--Maps",
+    "Presidio County (Tex.)--Maps",
+    "Real property--Texas--Brewster County--Maps",
+    "Real property--Texas--Presidio County--Maps",
+    "United States--Texas--Brewster County",
+    "United States--Texas--Presidio County"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "Map of parts of Presidio, Brewster and Foley Counties : Texas and Pacific Land Office, Dallas, Texas",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010593154",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

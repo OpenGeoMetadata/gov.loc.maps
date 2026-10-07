@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes lists of administrative divisions and location map.",
+    "LC copy stamped on: 160A. Date and number cut out. Mounted on cloth.",
+    "Publication statement: Washington, D.C. : Central Intelligence Agency, [1969?]",
+    "Shows administrative divisions.",
+    "Shows administrative divisions. Includes lists of administrative divisions and location map. LC copy stamped on: 160A. Date and number cut out. Mounted on cloth. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7823s.ct003969",
+    "http://lccn.loc.gov/2008627769",
+    "http://www.loc.gov/item/2008627769/",
+    "http://www.loc.gov/resource/g7823s.ct003969/",
+    "https://hdl.loc.gov/loc.gmd/g7823s.ct003969",
+    "https://search.catalog.loc.gov/instances/51652d5a-e99b-5cb9-8d6b-c17fec6dc0e4",
+    "https://www.loc.gov/item/2008627769/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7823/g7823s/ct003969.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008627769/\"}",
+  "dct_spatial_sm": [
+    "administrative",
+    "china",
+    "political divisions",
+    "sichuan sheng"
+  ],
+  "dct_subject_sm": [
+    "China--Sichuan Sheng",
+    "Sichuan Sheng (China)--Administrative and political divisions--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1969",
+    "Washington, D.C. : Central Intelligence Agency, [1969?]"
+  ],
+  "dct_title_s": "Szechwan",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008627769",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

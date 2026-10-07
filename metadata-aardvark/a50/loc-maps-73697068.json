@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Tom XIV, in 4⁰, no. 17. Tome 14, in 8⁰, page 254, no. 2.\"",
+    "AACR2",
+    "Appears in Jean François de La Harpe's Abrégé de l'historie générale des voyages. 1780.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bellin, Jacques Nicolas, 1703-1772",
+    "LC Maps of North America, 1750-1789, 227",
+    "Publication statement: [Paris] 1757.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. \"Tom XIV, in 4⁰, no. 17. Tome 14, in 8⁰, page 254, no. 2.\" Appears in Jean François de La Harpe's Abrégé de l'historie générale des voyages. 1780. Scale ca. 1:2,850,000. LC Maps of North America, 1750-1789, 227 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:2,850,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3312s.ar022700",
+    "http://lccn.loc.gov/73697068",
+    "http://www.loc.gov/item/73697068/",
+    "http://www.loc.gov/resource/g3312s.ar022700/",
+    "https://hdl.loc.gov/loc.gmd/g3312s.ar022700",
+    "https://search.catalog.loc.gov/instances/1de73de9-253d-5bc7-ba41-2b0abf410243",
+    "https://www.loc.gov/item/73697068/"
+  ],
+  "dct_issued_s": "1757",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3312/g3312s/ar022700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73697068/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "lake",
+    "new york",
+    "new york (state)",
+    "north america",
+    "ontario",
+    "ontario, lake",
+    "saint lawrence river",
+    "saint lawrence river valley",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--Ontario--Ontario, Lake",
+    "North America--Saint Lawrence River Valley",
+    "Ontario, Lake (N.Y. and Ont.)--Maps--Early works to 1800",
+    "Saint Lawrence River--Maps--Early works to 1800",
+    "United States--New York (State)--Ontario, Lake"
+  ],
+  "dct_temporal_sm": [
+    "1757"
+  ],
+  "dct_title_s": "Suite du cours du fleuve de St. Laurent, depuis Québec jusqu'au Lac Ontario,",
+  "gbl_dateRange_drsim": [
+    "[1757 TO 1757]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1757
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73697068",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

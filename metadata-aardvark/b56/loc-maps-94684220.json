@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Baltimore District",
+    "Includes location map and 3 recreation-area insets.",
+    "Oriented with north toward the upper left.",
+    "Outdoor recreation map.",
+    "Outdoor recreation map. Panel title. Title at upper left: Tioga. Oriented with north toward the upper left. Includes location map and 3 recreation-area insets. Text, statistical data, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Panel title.",
+    "Publication statement: [Baltimore?] : The District, [1985?]",
+    "Text, statistical data, and col. ill. on verso.",
+    "Title at upper left: Tioga."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822t.ct008055",
+    "http://lccn.loc.gov/94684220",
+    "http://www.loc.gov/item/94684220/",
+    "http://www.loc.gov/resource/g3822t.ct008055/",
+    "https://hdl.loc.gov/loc.gmd/g3822t.ct008055",
+    "https://search.catalog.loc.gov/instances/f78b9213-ee69-54ff-a194-06d4967115c8",
+    "https://www.loc.gov/item/94684220/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822t/ct008055.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94684220/\"}",
+  "dct_spatial_sm": [
+    "hammond lake region",
+    "pennsylvania",
+    "tioga lake region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Outdoor recreation--Pennsylvania--Hammond Lake Region--Maps",
+    "Outdoor recreation--Pennsylvania--Tioga Lake Region--Maps",
+    "Recreation areas--Pennsylvania--Hammond Lake Region--Maps",
+    "Recreation areas--Pennsylvania--Tioga Lake Region--Maps",
+    "United States--Pennsylvania--Hammond Lake Region",
+    "United States--Pennsylvania--Tioga Lake Region"
+  ],
+  "dct_temporal_sm": [
+    "1985",
+    "[Baltimore?] : The District, [1985?]"
+  ],
+  "dct_title_s": "Tioga-Hammond lakes",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94684220",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

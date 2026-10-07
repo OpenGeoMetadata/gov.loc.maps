@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 2004--304-337/00064. Reprint 2002.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view of Fort Sumter in 1861.",
+    "Contributors: Townsend, L. Kenneth; United States. National Park Service",
+    "Includes descriptive index, text, ill., and map of Fort Sumter walking tour.",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2002]",
+    "Text, col. ill., and map of Charleston Harbor showing confederate and federal locations on verso.",
+    "Title from panel.",
+    "Title from panel. Bird's-eye view of Fort Sumter in 1861. \"*GPO: 2004--304-337/00064. Reprint 2002.\" Includes descriptive index, text, ill., and map of Fort Sumter walking tour. Text, col. ill., and map of Charleston Harbor showing confederate and federal locations on verso. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2005633302",
+    "http://www.loc.gov/item/2005633302/",
+    "http://www.loc.gov/resource/g3914c.ct009954/",
+    "https://hdl.loc.gov/loc.gmd/g3914c.ct009954",
+    "https://search.catalog.loc.gov/instances/d72f4dc8-75a1-5d4e-b654-35ac3517b8ed",
+    "https://www.loc.gov/item/2005633302/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3914/g3914c/ct009954.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005633302/\"}",
+  "dct_spatial_sm": [
+    "charleston",
+    "fort moultrie national historical park",
+    "fort sumter",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Sumter (Charleston, S.C.)--Aerial views",
+    "Fort Sumter and Fort Moultrie National Historical Park (S.C.)--Maps",
+    "United States--South Carolina--Charleston--Fort Sumter",
+    "United States--South Carolina--Charleston--Fort Sumter National Monument"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Fort Sumter National Monument, South Carolina : National Park Service, Department of the Interior ; illustration by L. Kenneth Townsend",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005633302",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

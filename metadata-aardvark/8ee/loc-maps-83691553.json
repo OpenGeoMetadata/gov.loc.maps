@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Copied in 1730 from an original map drawn ca. 1451, possessed by Matsubara Masaki.",
+    "Copy imperfect: Has worm holes.",
+    "Includes notes.",
+    "Publication statement: [1730]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Title from label pasted on verso. Copied in 1730 from an original map drawn ca. 1451, possessed by Matsubara Masaki. Copy imperfect: Has worm holes. Watercolor and ink. Includes notes. Available also through the Library of Congress Web site as a raster image. Vault",
+    "Title from label pasted on verso.",
+    "Vault",
+    "Watercolor and ink."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7900.ct003255",
+    "http://lccn.loc.gov/83691553",
+    "http://www.loc.gov/item/83691553/",
+    "http://www.loc.gov/resource/g7900.ct003255/",
+    "https://hdl.loc.gov/loc.gmd/g7900.ct003255",
+    "https://search.catalog.loc.gov/instances/78c6f296-6902-58d8-95bf-3835c27e10f0",
+    "https://www.loc.gov/item/83691553/"
+  ],
+  "dct_issued_s": "1730",
+  "dct_language_sm": [
+    "korean"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7900/g7900/ct003255.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83691553/\"}",
+  "dct_spatial_sm": [
+    "korea"
+  ],
+  "dct_subject_sm": [
+    "Korea",
+    "Korea--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1730"
+  ],
+  "dct_title_s": "Chosŏn chido",
+  "gbl_dateRange_drsim": [
+    "[1730 TO 1730]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1730
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83691553",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

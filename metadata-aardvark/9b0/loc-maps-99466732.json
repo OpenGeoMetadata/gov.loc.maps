@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: L'Isle, Guillaume de, 1675-1726",
+    "Publication statement: [S.l.], 1782."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7500.ct000387",
+    "http://lccn.loc.gov/99466732",
+    "http://www.loc.gov/item/99466732/",
+    "http://www.loc.gov/resource/g7500.ct000387/",
+    "https://hdl.loc.gov/loc.gmd/g7500.ct000387",
+    "https://search.catalog.loc.gov/instances/e8d8f0f8-d8b8-56c8-a0fc-8fa65938c5d4",
+    "https://www.loc.gov/item/99466732/"
+  ],
+  "dct_issued_s": "1782",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7500/g7500/ct000387.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466732/\"}",
+  "dct_spatial_sm": [
+    "palestine"
+  ],
+  "dct_subject_sm": [
+    "Palestine",
+    "Palestine--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1782"
+  ],
+  "dct_title_s": "Terra Sancta que in Sacris Terra Promissionis ol : Palestina",
+  "gbl_dateRange_drsim": [
+    "[1782 TO 1782]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1782
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466732",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Note on verso in different hand: From the private papers of Rufus King who was secretary to Rutherford B. Hayes.",
+    "Oriented with north to the right.",
+    "Pen-and-ink on paper. Mounted on cloth.",
+    "Publication statement: [United States?] : [producer not identified], [not before 1872]",
+    "Relief shown by hachures.",
+    "Shows the vicinity of Bismarck with the locations of Fort Abraham Lincoln and cavalry quarters labeled.",
+    "Title provided by cataloger.",
+    "Title provided by cataloger. Shows the vicinity of Bismarck with the locations of Fort Abraham Lincoln and cavalry quarters labeled. Relief shown by hachures. Pen-and-ink on paper. Mounted on cloth. Oriented with north to the right. Note on verso in different hand: From the private papers of Rufus King who was secretary to Rutherford B. Hayes. Available also through the Library of Congress Web site as a raster image. vcFY24",
+    "vcFY24"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024593587",
+    "http://www.loc.gov/item/2024593587/",
+    "http://www.loc.gov/resource/g4174f.ct007707/",
+    "https://hdl.loc.gov/loc.gmd/g4174f.ct007707",
+    "https://search.catalog.loc.gov/instances/4a5509c9-e2e6-5596-978e-c681ec0a563f",
+    "https://www.loc.gov/item/2024593587/"
+  ],
+  "dct_issued_s": "1872",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd417/g4174/g4174f/ct007707.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024593587/\"}",
+  "dct_spatial_sm": [
+    "fort abraham lincoln",
+    "north dakota",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Abraham Lincoln (N.D.)--Maps",
+    "United States--North Dakota--Fort Abraham Lincoln"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "dct_title_s": "[Fort Abraham Lincoln, North Dakota]",
+  "gbl_dateRange_drsim": [
+    "[1872 TO 1872]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1872
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024593587",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

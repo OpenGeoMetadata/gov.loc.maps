@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "In lower margin on recto: 0800 10/94; on verso: 0799 10/94.",
+    "Publication statement: [Washington? : s.n., 1994]",
+    "Shows major streets, principal government buildings, parks, and public lands.",
+    "Shows major streets, principal government buildings, parks, and public lands. Washington metro-area road map at scale ca. 1:250,000 on verso. In lower margin on recto: 0800 10/94; on verso: 0799 10/94. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Washington metro-area road map at scale ca. 1:250,000 on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851a.ct000615r",
+    "http://hdl.loc.gov/loc.gmd/g3851a.ct000615v",
+    "http://lccn.loc.gov/97689507",
+    "http://www.loc.gov/item/97689507/",
+    "http://www.loc.gov/resource/g3851a.ct000615r/",
+    "http://www.loc.gov/resource/g3851a.ct000615v/",
+    "https://hdl.loc.gov/loc.gmd/g3851a.ct000615r",
+    "https://hdl.loc.gov/loc.gmd/g3851a.ct000615v",
+    "https://search.catalog.loc.gov/instances/2881a337-d841-5ecd-bd7d-6a4e92713ee7",
+    "https://www.loc.gov/item/97689507/"
+  ],
+  "dct_issued_s": "1994",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/ct000615r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97689507/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "Central business districts--Washington (D.C.)--Maps",
+    "Roads--Washington Metropolitan Area--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_title_s": "Washington, D.C.--central city",
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97689507",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

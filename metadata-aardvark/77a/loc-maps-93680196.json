@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Miller, John (Publisher)",
+    "Facsimile.",
+    "Facsimile. Includes index to points of interest. Available also through the Library of Congress Web site as a raster image. Original version: [New York? : s.n., 1695].",
+    "Includes index to points of interest.",
+    "Original version: [New York? : s.n., 1695].",
+    "Publication statement: [New York] : Lith. G. Hayward, [185-?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804m.ct006575",
+    "http://lccn.loc.gov/93680196",
+    "http://www.loc.gov/item/93680196/",
+    "http://www.loc.gov/resource/g3804m.ct006575/",
+    "https://hdl.loc.gov/loc.gmd/g3804m.ct006575",
+    "https://search.catalog.loc.gov/instances/a3532b23-4ca0-5b43-89c6-8249c6f3897d",
+    "https://www.loc.gov/item/93680196/"
+  ],
+  "dct_issued_s": "1695",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804m/ct006575.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93680196/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "new york city",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New York (N.Y.)--Maps, Manuscript--Early works to 1800--Facsimiles",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1695"
+  ],
+  "dct_title_s": "New Yorke 1695",
+  "gbl_dateRange_drsim": [
+    "[1695 TO 1695]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1695
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93680196",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

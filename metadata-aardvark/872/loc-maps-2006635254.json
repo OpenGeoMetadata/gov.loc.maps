@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cannot identify with either Oct. 27, 1864 variant (CW501.5 and CW 501.6), as the map has been trimmed, so the presence or absence of the printer statement cannot be ascertained.",
+    "Contributors: United States. Army. Corps of Topographical Engineers",
+    "LC Civil War maps (2nd ed.) S178",
+    "LC copy imperfect: Trimmed along all edges, lacking coordinates, neat line and 10 cm. off the bottom of the map.",
+    "LC copy printed on two sheets, and mounted on paper.",
+    "Publication statement: [Washington, D.C.?] : Bureau of Topographical Engineers, [1864]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Cannot identify with either Oct. 27, 1864 variant (CW501.5 and CW 501.6), as the map has been trimmed, so the presence or absence of the printer statement cannot be ascertained. LC copy printed on two sheets, and mounted on paper. LC copy imperfect: Trimmed along all edges, lacking coordinates, neat line and 10 cm. off the bottom of the map. LC Civil War maps (2nd ed.) S178 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.cws00178",
+    "http://lccn.loc.gov/2006635254",
+    "http://www.loc.gov/item/2006635254/",
+    "http://www.loc.gov/resource/g3880.cws00178/",
+    "https://hdl.loc.gov/loc.gmd/g3880.cws00178",
+    "https://search.catalog.loc.gov/instances/ae3297cd-7c29-5cc6-8396-320f8196ea96",
+    "https://www.loc.gov/item/2006635254/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/cws00178.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006635254/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Central Virginia",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006635254",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

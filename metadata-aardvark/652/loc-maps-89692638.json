@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At head of title: 211, L., sheet 12.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Church, B. S. (Benjamin Silliman), 1836-",
+    "DCP",
+    "In lower right corner: Transferred from Office of Chf. Engr., Defenses of Washington, to Engr. Dept.--1866.",
+    "LC Civil War maps (2nd ed.), 521",
+    "Oriented with north toward the lower right.",
+    "Pen-and-ink and pencil.",
+    "Publication statement: [186-]",
+    "Relief shown by hachures.",
+    "Shows military camps in Arlington County, Alexandria, and adjoining areas of Fairfax County.",
+    "Shows military camps in Arlington County, Alexandria, and adjoining areas of Fairfax County. Relief shown by hachures. At head of title: 211, L., sheet 12. In lower right corner: Transferred from Office of Chf. Engr., Defenses of Washington, to Engr. Dept.--1866. Oriented with north toward the lower right. Pen-and-ink and pencil. LC Civil War maps (2nd ed.), 521 Stephenson. Cartography of northern Virginia, pl. 43 Available also through the Library of Congress Web site as a raster image. DCP Vault",
+    "Stephenson. Cartography of northern Virginia, pl. 43",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883a.cw0521000",
+    "http://lccn.loc.gov/89692638",
+    "http://www.loc.gov/item/89692638/",
+    "http://www.loc.gov/resource/g3883a.cw0521000/",
+    "https://hdl.loc.gov/loc.gmd/g3883a.cw0521000",
+    "https://search.catalog.loc.gov/instances/cf92b4b8-b730-5027-993c-3252be63ff3d",
+    "https://www.loc.gov/item/89692638/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883a/cw0521000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89692638/\"}",
+  "dct_spatial_sm": [
+    "alexandria",
+    "arlington",
+    "arlington county",
+    "fairfax county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Alexandria (Va.)--History--19th century--Maps, Manuscript",
+    "Arlington County (Va.)--History--19th century--Maps, Manuscript",
+    "Fairfax County (Va.)--History--19th century--Maps, Manuscript",
+    "Manuscript maps",
+    "Military topography--Virginia--Alexandria--Maps",
+    "Military topography--Virginia--Arlington County--Maps",
+    "Military topography--Virginia--Fairfax County--Maps",
+    "United States--Virginia--Arlington"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Reconnaissance in advance of Camp Mansfield",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89692638",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2; 651/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 522 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1; 651/2; 651/3",
+    "Contributors: Landis, T. J. Shepherd",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 522",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Newark, c1895."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814n.pm005220",
+    "http://lccn.loc.gov/75694732",
+    "http://www.loc.gov/item/75694732/",
+    "http://www.loc.gov/resource/g3814n.pm005220/",
+    "https://hdl.loc.gov/loc.gmd/g3814n.pm005220",
+    "https://search.catalog.loc.gov/instances/3c8f2a45-c289-5e29-84f4-7762108c2dd4",
+    "https://www.loc.gov/item/75694732/"
+  ],
+  "dct_issued_s": "1895",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814n/pm005220.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694732/\"}",
+  "dct_spatial_sm": [
+    "harrison",
+    "kearny",
+    "new jersey",
+    "newark",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Harrison (N.J.)",
+    "Kearny (N.J.)",
+    "Newark (N.J.)",
+    "United States--New Jersey--Harrison",
+    "United States--New Jersey--Kearny",
+    "United States--New Jersey--Newark"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dct_title_s": "Newark, N.J., Harrison-Kearney 1895",
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694732",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

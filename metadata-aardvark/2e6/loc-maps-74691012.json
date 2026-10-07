@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771; Sayer, Robert, 1725-1794",
+    "Hand colored.",
+    "Hand colored. Relief shown by hachures and shading. Depths shown by soundings. Shows sugar works. Inset: Cul de Sac Royal. Scale ca. 1:150,000. LC Maps of North America, 1750-1789, 2063 Available also through the Library of Congress Web site as a raster image. LC copy sectioned and mounted on cloth backing. Vault AACR2",
+    "Inset: Cul de Sac Royal.",
+    "LC Maps of North America, 1750-1789, 2063",
+    "LC copy sectioned and mounted on cloth backing.",
+    "Publication statement: London, Printed for Robt. Sayer, 1775.",
+    "Relief shown by hachures and shading. Depths shown by soundings.",
+    "Scale ca. 1:150,000.",
+    "Shows sugar works.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/74691012",
+    "http://www.loc.gov/item/74691012/",
+    "http://www.loc.gov/resource/g5080.ar206300/",
+    "https://hdl.loc.gov/loc.gmd/g5080.ar206300",
+    "https://search.catalog.loc.gov/instances/902782d7-fbc8-5a08-9252-2de4634af13a",
+    "https://www.loc.gov/item/74691012/"
+  ],
+  "dct_issued_s": "1775",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5080/g5080/ar206300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74691012/\"}",
+  "dct_spatial_sm": [
+    "martinique"
+  ],
+  "dct_subject_sm": [
+    "Martinique",
+    "Martinique--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_title_s": "Martinico, done from actual surveys and observations, made by English engineers whilst the island was in their possession,",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74691012",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

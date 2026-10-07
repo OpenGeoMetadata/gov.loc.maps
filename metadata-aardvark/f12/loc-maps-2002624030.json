@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Germany. Heer. Generalstab",
+    "Map of Velikiy Burluk vicinity on verso.",
+    "Map of Velikiy Burluk vicinity on verso. Scale 1:25,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: [Berlin], [s.n.], 1942.",
+    "Scale 1:25,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7064v.ct000790",
+    "http://lccn.loc.gov/2002624030",
+    "http://www.loc.gov/item/2002624030/",
+    "http://www.loc.gov/resource/g7064v.ct000790/",
+    "https://hdl.loc.gov/loc.gmd/g7064v.ct000790",
+    "https://search.catalog.loc.gov/instances/d668d32c-5831-554d-aa88-dc9d61fcc864",
+    "https://www.loc.gov/item/2002624030/"
+  ],
+  "dct_issued_s": "1942",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7064/g7064v/ct000790.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002624030/\"}",
+  "dct_spatial_sm": [
+    "russia (federation)",
+    "russian federation",
+    "soviet union",
+    "volgograd region"
+  ],
+  "dct_subject_sm": [
+    "Russia (Federation)--Volgograd Region",
+    "Soviet Union--History--German occupation, 1941-1944--Maps",
+    "Stalingrad, Battle of, Volgograd, Russia, 1942-1943--Maps",
+    "World War, 1939-1945--Campaigns--Russia (Federation)--Volgograd Region--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "dct_title_s": "Stalingrad-Süd",
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1942]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1942
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002624030",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

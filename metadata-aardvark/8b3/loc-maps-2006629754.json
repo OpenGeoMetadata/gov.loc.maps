@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Civil War salted paper maps.",
+    "Contributors: Abbot, Henry L.",
+    "Copy imperfect: Copy 1 losses along edges.",
+    "Description derived from published bibliography.",
+    "In black ink handwriting on recto: Brig. Gen'l J. W. Ripley, Ordnance Corps, through Bureau Top. Engr. June 21, 1862.",
+    "In red ink handwriting on recto: Drawer 48, Portfolio 2, No. 5.",
+    "Library of Congress. Civil War maps (2nd ed.), 619.8",
+    "Publication statement: [S.l.] : Top. Engr's., Army of the Potomac, [1862].",
+    "Relief shown by hachures.",
+    "Sun print.",
+    "Sun print. Relief shown by hachures. Civil War salted paper maps. In black ink handwriting on recto: Brig. Gen'l J. W. Ripley, Ordnance Corps, through Bureau Top. Engr. June 21, 1862. In red ink handwriting on recto: Drawer 48, Portfolio 2, No. 5. Copy imperfect: Copy 1 losses along edges. Description derived from published bibliography. Library of Congress. Civil War maps (2nd ed.), 619.8 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884r.cw0619800",
+    "http://lccn.loc.gov/2006629754",
+    "http://www.loc.gov/item/2006629754/",
+    "http://www.loc.gov/resource/g3884r.cw0619800/",
+    "https://hdl.loc.gov/loc.gmd/g3884r.cw0619800",
+    "https://search.catalog.loc.gov/instances/0daab4fe-ad82-5b22-a82f-13320cda94b5",
+    "https://www.loc.gov/item/2006629754/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884r/cw0619800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006629754/\"}",
+  "dct_spatial_sm": [
+    "richmond region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Richmond Region (Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia--Richmond Region"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Sketch exhibiting the approachs to Richmond from Pamunkey River : from reconnoissances [sic] made between May 18th and June 14th,1862",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006629754",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

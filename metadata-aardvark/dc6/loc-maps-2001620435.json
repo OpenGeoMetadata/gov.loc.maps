@@ -1,0 +1,50 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also indicates where fire started and which buildings escaped the fire.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Facsimile.",
+    "Publication statement: [S.l., 190-?].",
+    "Shows settled parts of the town with the darker shading of the squares.",
+    "Shows settled parts of the town with the darker shading of the squares. Also indicates where fire started and which buildings escaped the fire. Facsimile. Available also through the Library of Congress web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4014n.ct000713",
+    "http://lccn.loc.gov/2001620435",
+    "http://www.loc.gov/item/2001620435/",
+    "http://www.loc.gov/resource/g4014n.ct000713/",
+    "https://hdl.loc.gov/loc.gmd/g4014n.ct000713",
+    "https://search.catalog.loc.gov/instances/77518c04-dfd3-52a5-9316-3eab8253645c",
+    "https://www.loc.gov/item/2001620435/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4014/g4014n/ct000713.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001620435/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "new orleans",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Orleans (La.)--Maps--Early works to 1800",
+    "United States--Louisiana--New Orleans"
+  ],
+  "dct_temporal_sm": [
+    "190?"
+  ],
+  "dct_title_s": "Plan showing the boundaries of the great conflagration of New Orleans on the 21st of March 1788",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001620435",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

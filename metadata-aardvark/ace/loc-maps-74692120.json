@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2; 651/3; 650/4",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Maps of North America, 1750-1789, 1580",
+    "Manuscript, pen-and-ink and pencil.",
+    "Manuscript, pen-and-ink and pencil. Oriented with north toward the lower right. Relief shown by hachures. Shows fortifications. Scale ca. 1:5,000. LC Maps of North America, 1750-1789, 1580 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650/1; 651/2; 651/3; 650/4",
+    "Oriented with north toward the lower right.",
+    "Publication statement: 178-]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:5,000.",
+    "Shows fortifications.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3924s.ar158000",
+    "http://lccn.loc.gov/74692120",
+    "http://www.loc.gov/item/74692120/",
+    "http://www.loc.gov/resource/g3924s.ar158000/",
+    "https://hdl.loc.gov/loc.gmd/g3924s.ar158000",
+    "https://search.catalog.loc.gov/instances/10e9cfee-830b-5974-8305-fa0f5028f023",
+    "https://www.loc.gov/item/74692120/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3924/g3924s/ar158000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692120/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "savannah",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fortification--Georgia--Savannah--Maps--Early works to 1800",
+    "Savannah (Ga.)--Buildings, structures, etc.--Maps--Early works to 1800",
+    "Savannah (Ga.)--Maps, Manuscript--Early works to 1800",
+    "United States--Georgia--Savannah"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "[Savannah & its fortifications",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692120",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

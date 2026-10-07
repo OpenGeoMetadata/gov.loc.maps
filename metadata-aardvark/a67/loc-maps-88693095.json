@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blue-line print.",
+    "Contributors: Bond, P. S. (Paul Stanley), 1879-1955; Brown, George A., delineator",
+    "DCP",
+    "Includes notes.",
+    "LC copy sectioned, mounted on cloth backing, and annotated in ink: 9709.",
+    "Publication statement: [Washington? : s.n., 1903]",
+    "Relief shown by contours and hachures.",
+    "Relief shown by contours and hachures. Blue-line print. Includes notes. Available also through the Library of Congress Web site as a raster image. LC copy sectioned, mounted on cloth backing, and annotated in ink: 9709. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852u.ct005305",
+    "http://lccn.loc.gov/88693095",
+    "http://www.loc.gov/item/88693095/",
+    "http://www.loc.gov/resource/g3852u.ct005305/",
+    "https://hdl.loc.gov/loc.gmd/g3852u.ct005305",
+    "https://search.catalog.loc.gov/instances/7287d16d-4ba9-523a-8169-a64598ef40dc",
+    "https://www.loc.gov/item/88693095/"
+  ],
+  "dct_issued_s": "1903",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852u/ct005305.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693095/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington"
+  ],
+  "dct_subject_sm": [
+    "United States Soldiers' and Airmen's Home--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--United States Soldiers' and Airmen's Home"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dct_title_s": "Map of the U.S. Soldiers' Home, Washington, D.C.",
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1903]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-88693095",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

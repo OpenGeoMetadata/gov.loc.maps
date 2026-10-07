@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Abert, S. T. (Silvanus Thayer), 1828-1903; Graham, Campbell, 1798 or 1799-1866; United States. Army. Corps of Topographical Engineers",
+    "DCP",
+    "Includes notes.",
+    "LC copy originally printed on separate sheets, assembled to 1 sheet, thirded, mounted on cloth backing, accompanied by negative photocopy, and annotated in pencil: From negative transferred from War Department.",
+    "Oriented with north toward the upper left.",
+    "Photocopy of ms. map.",
+    "Publication statement: 1849.",
+    "Relief shown by hachures. Depths shown by contours and soundings.",
+    "Relief shown by hachures. Depths shown by contours and soundings. Photocopy of ms. map. Oriented with north toward the upper left. Includes notes. Available also through the Library of Congress Web site as a raster image. LC copy originally printed on separate sheets, assembled to 1 sheet, thirded, mounted on cloth backing, accompanied by negative photocopy, and annotated in pencil: From negative transferred from War Department. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct005050",
+    "http://lccn.loc.gov/87695757",
+    "http://www.loc.gov/item/87695757/",
+    "http://www.loc.gov/resource/g3851p.ct005050/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct005050",
+    "https://search.catalog.loc.gov/instances/9d6f343b-896a-5fec-9803-194cbe55116c",
+    "https://www.loc.gov/item/87695757/"
+  ],
+  "dct_issued_s": "1849",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct005050.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695757/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "maryland",
+    "potomac river estuary",
+    "united states",
+    "virginia",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Harbors--Washington (D.C.)--Maps",
+    "Nautical charts--Potomac River Estuary",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Potomac River Estuary",
+    "United States--Maryland--Potomac River Estuary",
+    "United States--Virginia--Potomac River Estuary",
+    "Waterfronts--Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1849"
+  ],
+  "dct_title_s": "Head of navigation of the Potomac River",
+  "gbl_dateRange_drsim": [
+    "[1849 TO 1849]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1849
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695757",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

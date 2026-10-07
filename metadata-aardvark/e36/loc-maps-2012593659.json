@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to act of Congress in the year 1856 by Robert Pearsall Smith...\"",
+    "Ancillary maps: Broadalbin -- Garoga -- Gloversville -- Johnstown -- Kingsboro -- Mayfield Corners -- Newkirks Mills -- Northville -- Rockwood -- Vails Mills.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chace, J.; Smith, Robert Pearsall, 1827-1898",
+    "Includes statistical charts, business directories, and illustrations.",
+    "LC Land ownership maps, 497",
+    "LC copy hand colored, shellacked, sectioned in four, and mounted on cloth.",
+    "Publication statement: Philadelphia : Published by Jno. T. Hill, 1856.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows landowners. \"Entered according to act of Congress in the year 1856 by Robert Pearsall Smith...\" Includes statistical charts, business directories, and illustrations. Ancillary maps: Broadalbin -- Garoga -- Gloversville -- Johnstown -- Kingsboro -- Mayfield Corners -- Newkirks Mills -- Northville -- Rockwood -- Vails Mills. LC copy hand colored, shellacked, sectioned in four, and mounted on cloth. LC Land ownership maps, 497 Available also through the Library of Congress Web site as a raster image.",
+    "Shows landowners."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3803f.la000497",
+    "http://lccn.loc.gov/2012593659",
+    "http://www.loc.gov/item/2012593659/",
+    "http://www.loc.gov/resource/g3803f.la000497/",
+    "https://hdl.loc.gov/loc.gmd/g3803f.la000497",
+    "https://search.catalog.loc.gov/instances/61e1b71e-2bd9-5ac5-966a-7db8a50ab9b0",
+    "https://www.loc.gov/item/2012593659/"
+  ],
+  "dct_issued_s": "1856",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3803/g3803f/la000497.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593659/\"}",
+  "dct_spatial_sm": [
+    "fulton county",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fulton County (N.Y.)--Maps",
+    "Landowners--New York (State)--Fulton County--Maps",
+    "Real property--New York (State)--Fulton County--Maps",
+    "United States--New York (State)--Fulton County"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "dct_title_s": "Map of Fulton County, New York : from actual surveys",
+  "gbl_dateRange_drsim": [
+    "[1856 TO 1856]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1856
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593659",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

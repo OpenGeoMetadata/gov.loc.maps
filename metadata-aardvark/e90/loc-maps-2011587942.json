@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"February 1911.\"",
+    "\"February 1911.\" Oriented with north toward the lower left. \"Reproduced from report issued by New York Dock Department.\" Removed from textual publication. Annotated in lead pencil on verso: Microfilm 95/6001 MicRR. Available also through the Library of Congress Web site as a raster image.",
+    "\"Reproduced from report issued by New York Dock Department.\"",
+    "Annotated in lead pencil on verso: Microfilm 95/6001 MicRR.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: New York (N.Y.). Department of Docks (1870-1897); New York (N.Y.). Department of Docks and Ferries; Tomkins, Calvin, 1858-1921",
+    "Oriented with north toward the lower left.",
+    "Publication statement: [New York] : City of New York, Dept. of Docks and Ferries, [1911]",
+    "Removed from textual publication."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct003545",
+    "http://lccn.loc.gov/2011587942",
+    "http://www.loc.gov/item/2011587942/",
+    "http://www.loc.gov/resource/g3804n.ct003545/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct003545",
+    "https://search.catalog.loc.gov/instances/902d15fb-da8f-5986-ae7b-1cd4ed8558c3",
+    "https://www.loc.gov/item/2011587942/"
+  ],
+  "dct_issued_s": "1911",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct003545.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011587942/\"}",
+  "dct_spatial_sm": [
+    "brooklyn",
+    "brooklyn (new york)",
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "new york harbor",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Brooklyn (New York, N.Y.)--Maps",
+    "Docks--New York (State)--New York--Planning--Maps",
+    "New York Harbor (N.Y. and N.J.)--Maps",
+    "Piers--New York (State)--New York--Planning--Maps",
+    "United States--New York (State)--Brooklyn (New York)",
+    "United States--New York (State)--New York",
+    "Waterfronts--New York (State)--New York--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "dct_title_s": "Map showing proposed waterfront improvements, terminals & railroad installations : at South Brooklyn, Gowanus Bay, and Erie Basin, borough of Brooklyn",
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1911
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011587942",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

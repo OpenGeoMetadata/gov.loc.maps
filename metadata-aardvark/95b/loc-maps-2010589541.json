@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "A similiar copy is in the Fillmore map coll. no. 232.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hartmann, Georg Julius von, 1774-1856",
+    "LC copy has ms. topography, hydrography, and road conditions by Major George Hartmann.",
+    "LC copy imperfect: Stained and torn at fold lines to form three separate sections.",
+    "Minimal level cataloging record.",
+    "Portuguese and French.",
+    "Publication statement: Lisboa : [s.n.], 1808.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows terrain and road conditions from Lisbon to Badajoz during the Peninsular War, 1807-1814. LC copy has ms. topography, hydrography, and road conditions by Major George Hartmann. LC copy imperfect: Stained and torn at fold lines to form three separate sections. Minimal level cataloging record. A similiar copy is in the Fillmore map coll. no. 232. Available also through the Library of Congress Web site as a raster image. Portuguese and French.",
+    "Shows terrain and road conditions from Lisbon to Badajoz during the Peninsular War, 1807-1814."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6691r.hl000021",
+    "http://lccn.loc.gov/2010589541",
+    "http://www.loc.gov/item/2010589541/",
+    "http://www.loc.gov/resource/g6691r.hl000021/",
+    "https://hdl.loc.gov/loc.gmd/g6691r.hl000021",
+    "https://search.catalog.loc.gov/instances/897fbfb1-c051-531b-9dce-72576a783aeb",
+    "https://www.loc.gov/item/2010589541/"
+  ],
+  "dct_issued_s": "1808",
+  "dct_language_sm": [
+    "fre",
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6691/g6691r/hl000021.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010589541/\"}",
+  "dct_spatial_sm": [
+    "portugal"
+  ],
+  "dct_subject_sm": [
+    "Military maneuvers--Portugal--Maps",
+    "Peninsular War, 1807-1814--Portugal--Maps",
+    "Portugal",
+    "Portugal--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1808"
+  ],
+  "dct_title_s": "Carta militar das principaes estradas de Portugal",
+  "gbl_dateRange_drsim": [
+    "[1808 TO 1808]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1808
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2010589541",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

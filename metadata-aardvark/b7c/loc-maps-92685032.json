@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "ARP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes sheet index diagram.",
+    "Map quadrangles subtitled and numbered in upper margin, e.g.: 1. Lipawa -- 2. Ryga -- 8bis. Smoleńsk -- 12. Minsk -- 16. Warszawa -- 19bis. Starodub -- 29. Kijow -- 35. Cherson.",
+    "Paris meridian.",
+    "Present coverage incomplete. Coverage complete in ca. 43 maps numbered 1 thru 36 plus 8bis, 13bis, 19bis, 24bis, 29bis, 33bis, and 35bis.",
+    "Publication statement: [Warsaw? : s.n., 1860?-1918?]",
+    "Relief shown by hachures on some maps.",
+    "Relief shown by hachures on some maps. Title devised by cataloger. Map quadrangles subtitled and numbered in upper margin, e.g.: 1. Lipawa -- 2. Ryga -- 8bis. Smoleńsk -- 12. Minsk -- 16. Warszawa -- 19bis. Starodub -- 29. Kijow -- 35. Cherson. Some maps printed: Paris, Imp'ie de Louis Antoine, Rue de Noyers, 70. Paris meridian. Present coverage incomplete. Coverage complete in ca. 43 maps numbered 1 thru 36 plus 8bis, 13bis, 19bis, 24bis, 29bis, 33bis, and 35bis. Some maps hand col. Sectioned to 8 panels and mounted on cloth backing. Includes sheet index diagram. Available also through the Library of Congress Web site as a raster image. ARP",
+    "Sectioned to 8 panels and mounted on cloth backing.",
+    "Some maps hand col.",
+    "Some maps printed: Paris, Imp'ie de Louis Antoine, Rue de Noyers, 70.",
+    "Title devised by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/92685032",
+    "http://www.loc.gov/item/92685032/",
+    "http://www.loc.gov/resource/gmdsetmaps.92685032/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.92685032",
+    "https://search.catalog.loc.gov/instances/614095e4-8c96-540c-98ab-da93bed21d05",
+    "https://www.loc.gov/item/92685032/"
+  ],
+  "dct_language_sm": [
+    "fre",
+    "polfre",
+    "polish"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:92:68:50:32:92685032:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/92685032/\"}",
+  "dct_spatial_sm": [
+    "poland",
+    "soviet union"
+  ],
+  "dct_subject_sm": [
+    "Poland",
+    "Poland--Maps",
+    "Soviet Union",
+    "Soviet Union--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1860",
+    "[Warsaw? : s.n., 1860?-1918?]"
+  ],
+  "dct_title_s": "[Mapa topograficzna Królestwa Polskiego i części Rusi zachodniego]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-92685032",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

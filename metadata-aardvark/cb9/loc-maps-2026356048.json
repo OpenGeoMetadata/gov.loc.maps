@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"16-15384 6-19.\"",
+    "Also shows historic sites and national parks.",
+    "Contributors: [United States. Central Intelligence Agency], cartographer, publisher",
+    "Includes location map.",
+    "Publication statement: [Washington] : [Central Intelligence Agency], 2019.",
+    "Relief sown by hachures and spot heights.",
+    "Source data scale 1:1,560,000.",
+    "Source data scale 1:1,560,000. Relief sown by hachures and spot heights. Also shows historic sites and national parks. \"16-15384 6-19.\" Includes location map."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2026356048",
+    "http://www.loc.gov/item/2026356048/",
+    "http://www.loc.gov/resource/gmddigstackspublic.2026356048/",
+    "https://hdl.loc.gov/loc.gmd/gmddigstackspublic.2026356048",
+    "https://search.catalog.loc.gov/instances/69d63961-0043-4bed-a744-9aad55462df0",
+    "https://www.loc.gov/item/2026356048/"
+  ],
+  "dct_issued_s": "2019",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmddigstackspublic/20/26/35/60/48/2026356048/2026356048.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2026356048/\"}",
+  "dct_rights_sm": [
+    "Public Domain https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_spatial_sm": [
+    "rwanda"
+  ],
+  "dct_subject_sm": [
+    "Physical geography--Rwanda",
+    "Rwanda"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dct_title_s": "Rwanda Physiography",
+  "gbl_dateRange_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2026356048",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

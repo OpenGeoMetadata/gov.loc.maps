@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Complete map of Hainan Island",
+    "Alternate title: Hainan Dao tu shuo",
+    "Complete map of Hainan Island",
+    "Hainan Dao tu shuo",
+    "瓊郡地與全圖"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes descriptive notes.",
+    "Oriented with north to the bottom.",
+    "Pen-and-ink and watercolor.",
+    "Pictorial map.",
+    "Previous call number: G7823.H25E62 1875 .H3 Vault",
+    "Publication statement: [Before 1836]",
+    "Relief shown pictorially.",
+    "Shows the island of Hainan as viewed from the north and shows the customs and habits of the Li tribes in the central part of the island.",
+    "Title supplied.",
+    "Title supplied. Pen-and-ink and watercolor. Oriented with north to the bottom. Relief shown pictorially. Pictorial map. Shows the island of Hainan as viewed from the north and shows the customs and habits of the Li tribes in the central part of the island. Includes descriptive notes. Available also through the Library of Congress Web site as a raster image. Previous call number: G7823.H25E62 1875 .H3 Vault AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7823h.ct001457",
+    "http://lccn.loc.gov/gm71002478",
+    "http://www.loc.gov/item/gm71002478/",
+    "http://www.loc.gov/resource/g7823h.ct001457/",
+    "https://hdl.loc.gov/loc.gmd/g7823h.ct001457",
+    "https://search.catalog.loc.gov/instances/d3746517-594e-5440-a647-a15ff4926673",
+    "https://www.loc.gov/item/gm71002478/"
+  ],
+  "dct_issued_s": "1836",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7823/g7823h/ct001457.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002478/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "hainan sheng"
+  ],
+  "dct_subject_sm": [
+    "China--Hainan Sheng",
+    "Hainan Sheng (China)--Maps, Pictorial",
+    "Hainan Sheng (China)--Social life and customs--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1836"
+  ],
+  "dct_title_s": "Qiong Jun di yu quan tu",
+  "gbl_dateRange_drsim": [
+    "[1836 TO 1836]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1836
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002478",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

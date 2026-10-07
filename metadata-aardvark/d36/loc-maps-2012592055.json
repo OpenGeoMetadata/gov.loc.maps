@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright 1879. W.C. Walsh Commissioner of the General Land Office of the State of Texas.\"",
+    "\"Lithographed by August Gast & Co.s New Process. St. Louis.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: August Gast & Co; Texas. General Land Office; Walsh, W. C. (William C.), 1836-1924",
+    "LC Land ownership maps, 1041",
+    "LC copies annotated in red ink.",
+    "Publication statement: [Austin, Tex.] : General Land Office, c1879.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows land ownership. \"Copyright 1879. W.C. Walsh Commissioner of the General Land Office of the State of Texas.\" \"Lithographed by August Gast & Co.s New Process. St. Louis.\" Two copies. Copy 1 mounted on paper. Copy 2 mounted on paper stained throughout. LC copies annotated in red ink. LC Land ownership maps, 1041 Available also through the Library of Congress Web site as a raster image.",
+    "Shows land ownership.",
+    "Two copies. Copy 1 mounted on paper. Copy 2 mounted on paper stained throughout."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033k.la001041",
+    "http://lccn.loc.gov/2012592055",
+    "http://www.loc.gov/item/2012592055/",
+    "http://www.loc.gov/resource/g4033k.la001041/",
+    "https://hdl.loc.gov/loc.gmd/g4033k.la001041",
+    "https://search.catalog.loc.gov/instances/09bd4060-b3dc-572d-88d9-806fc7537787",
+    "https://www.loc.gov/item/2012592055/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033k/la001041.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592055/\"}",
+  "dct_spatial_sm": [
+    "kinney county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Kinney County (Tex.)--Maps",
+    "Landowners--Texas--Kinney County--Maps",
+    "Real property--Texas--Kinney County--Maps",
+    "United States--Texas--Kinney County"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Map of Kinney County",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592055",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

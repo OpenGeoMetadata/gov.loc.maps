@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Descripçam da Barra do Reino de Amgolla"
+  ],
+  "dct_description_sm": [
+    "Content in Portuguese.",
+    "Contributors: Carvalho, Goncalo Pires Contributor.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 manuscript map : color ; 43 x 110 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1626.",
+    "This 17th-century manuscript map is an early depiction of the harbor and city of Luanda, on the coast of Angola. Founded by the Portuguese in 1575, Luanda became the administrative center of Portuguese rule in Angola in 1627, one year after this map was made. The port of Luanda was also the center of the Angolan slave trade, controlled by the Portuguese Empire, and which is estimated to have supplied around one-quarter of all African slaves sent to the Americas.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668346",
+    "http://www.loc.gov/item/2021668346/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00917/",
+    "http://www.loc.gov/resource/wdl.917/",
+    "https://hdl.loc.gov/loc.wdl/wdl.917",
+    "https://www.loc.gov/item/2021668346/"
+  ],
+  "dct_issued_s": "1626-01-01",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_00917.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/91/7/wdl_00917/wdl_00917.pdf\"}, {\"label\": \"ZIP: wdl_00917.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/91/7/wdl_00917/wdl_00917.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:91:7:wdl_00917:0001_cart531981f/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668346/\"}",
+  "dct_spatial_sm": [
+    "angola",
+    "luanda"
+  ],
+  "dct_subject_sm": [
+    "1626",
+    "Angola--Luanda"
+  ],
+  "dct_temporal_sm": [
+    "1626-01-01"
+  ],
+  "dct_title_s": "Description of Inlet of the Kingdom of Angola.",
+  "gbl_dateRange_drsim": [
+    "[1626 TO 1626]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1626
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668346",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

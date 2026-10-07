@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Herrera, Alvino",
+    "LC Luso-Hispanic World, 1008",
+    "Location indeterminable.",
+    "Location indeterminable. Relief shown by shading. Title supplied by cataloger. Pen-and-ink and watercolor. LC Luso-Hispanic World, 1008 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1848?]",
+    "Relief shown by shading.",
+    "Title supplied by cataloger.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4411s.ct000535",
+    "http://lccn.loc.gov/2001622537",
+    "http://www.loc.gov/item/2001622537/",
+    "http://www.loc.gov/resource/g4411s.ct000535/",
+    "https://hdl.loc.gov/loc.gmd/g4411s.ct000535",
+    "https://search.catalog.loc.gov/instances/00923f21-093f-5f1a-b946-efcf3d9369ba",
+    "https://www.loc.gov/item/2001622537/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4411/g4411s/ct000535.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001622537/\"}",
+  "dct_spatial_sm": [
+    "mexico"
+  ],
+  "dct_subject_sm": [
+    "Mexican War, 1846-1848--Campaigns--Mexico--Maps, Manuscript",
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1848",
+    "[1848?]"
+  ],
+  "dct_title_s": "[Manuscript map of Mexican War campaign in Mexico]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001622537",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

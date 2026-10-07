@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from Arkansas general highway map, polyconic projection.\"",
+    "\"This general soil map is suitable for broad planning purposes only.\"",
+    "\"This general soil map is suitable for broad planning purposes only.\" In lower right corner: October 1981 4-R-15523. \"Base compiled from Arkansas general highway map, polyconic projection.\" Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "In lower right corner: October 1981 4-R-15523.",
+    "Includes location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1981."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/83693130",
+    "http://www.loc.gov/item/83693130/",
+    "http://www.loc.gov/resource/g4003c.ct011028/",
+    "https://hdl.loc.gov/loc.gmd/g4003c.ct011028",
+    "https://search.catalog.loc.gov/instances/7cb58633-9ffe-5299-b64c-e68a950af9ec",
+    "https://www.loc.gov/item/83693130/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4003/g4003c/ct011028.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83693130/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "clay county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soils--Arkansas--Clay County--Maps",
+    "United States--Arkansas--Clay County"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "General soil map, Clay County, Arkansas",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83693130",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Massachusetts title collection--cities and towns Springfield 1910-1925",
+    "Alternate supplied title: Massachusetts title collection--drawer 141"
+  ],
+  "dct_description_sm": [
+    "Publication statement: [Various places] : [various publishers], [1910-1925]",
+    "This record covers single maps of Massachusetts cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show different subjects such as landowners or recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps of Massachusetts cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show different subjects such as landowners or recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022594721",
+    "http://www.loc.gov/item/2022594721/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ma-141/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ma-141",
+    "https://search.catalog.loc.gov/instances/2e7dfc33-5900-5960-bb5b-6285cf861a64",
+    "https://www.loc.gov/item/2022594721/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ma:-1:41:ma-141:ma-141-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022594721/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "springfield",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Massachusetts--Springfield--Maps",
+    "Springfield (Mass.)--Maps",
+    "United States--Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1910/1925"
+  ],
+  "dct_title_s": "[Maps of Massachusetts--cities and towns Springfield 1910-1925]",
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1925]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1910
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022594721",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

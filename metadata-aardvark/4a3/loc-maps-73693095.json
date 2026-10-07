@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "All issues dated after 1920 cataloged separately. Some previous issues also cataloged separately in LC.",
+    "Annual.",
+    "Annual. Relief shown by hachures. Text and distance chart on verso of some sheets. All issues dated after 1920 cataloged separately. Some previous issues also cataloged separately in LC. Scales vary. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: American Automobile Association",
+    "Publication statement: Washington, D.C., 1916-1920.",
+    "Relief shown by hachures.",
+    "Scales vary.",
+    "Text and distance chart on verso of some sheets."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/73693095",
+    "http://www.loc.gov/item/73693095/",
+    "http://www.loc.gov/resource/g4051p.ct011675/",
+    "http://www.loc.gov/resource/g4051p.ct011676/",
+    "https://hdl.loc.gov/loc.gmd/g4051p.ct011675",
+    "https://hdl.loc.gov/loc.gmd/g4051p.ct011676",
+    "https://search.catalog.loc.gov/instances/d6538f14-a76b-5299-9f8d-82a32349d4b9",
+    "https://www.loc.gov/item/73693095/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4051/g4051p/ct011675.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693095/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west"
+  ],
+  "dct_subject_sm": [
+    "Roads--West (U.S.)--Maps",
+    "United States--West"
+  ],
+  "dct_temporal_sm": [
+    "1916/1920"
+  ],
+  "dct_title_s": "General map of United States west main automobile routes",
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1920]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1916
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693095",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

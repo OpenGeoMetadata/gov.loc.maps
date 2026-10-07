@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Battle fields of the Wilderness, May 5th, 6th, and 7th, 1864"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bien, Julius, 1826-1909; Duane, James C. (James Chatham), 1824-1897; Howell, C. W.; Meade, George Gordon, 1815-1872; Poe, O. M. (Orlando Metcalfe), 1832-1895; United States. Army of the Potomac",
+    "Includes note.",
+    "LC Civil War maps (2nd ed.) 665",
+    "LC copy 1 annotated in pencil on verso: Map of the Battlefields of the Wilderness, Duane.",
+    "LC copy 1 from the Orlando M. Poe papers in LC Manuscript Division.",
+    "LC copy 2 annotated in ink on recto: Library of the Department of State.",
+    "Publication statement: [Washington, D.C.? : s.n., 1865?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. LC copy 1 from the Orlando M. Poe papers in LC Manuscript Division. Includes note. LC copy 2 annotated in ink on recto: Library of the Department of State. LC Civil War maps (2nd ed.) 665 Available also through the Library of Congress Web site as a raster image. LC copy 1 annotated in pencil on verso: Map of the Battlefields of the Wilderness, Duane."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884w.cw0665000",
+    "http://lccn.loc.gov/83695215",
+    "http://www.loc.gov/item/83695215/",
+    "http://www.loc.gov/resource/g3884w.cw0665000/",
+    "https://hdl.loc.gov/loc.gmd/g3884w.cw0665000",
+    "https://search.catalog.loc.gov/instances/9a115462-9a56-5c07-a9e8-d40eb7243a18",
+    "https://www.loc.gov/item/83695215/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884w/cw0665000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83695215/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "wilderness"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia--Wilderness",
+    "Wilderness, Battle of the, Va., 1864--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1865",
+    "[Washington, D.C.? : s.n., 1865?]"
+  ],
+  "dct_title_s": "Map of the battle fields of the Wilderness, May 5th, 6th, and 7th, 1864 : showing the field of operations of the Army of the Potomac commanded by Maj. Gen. George G. Meade, U.S.A.",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83695215",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

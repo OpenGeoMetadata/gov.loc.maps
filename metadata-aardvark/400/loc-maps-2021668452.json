@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Content in English.",
+    "Contributors: Schuyler, Eugene, 1840-1890 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Kazakhstan.",
+    "Publication statement: London : Sampson Low, Marston, Searle & Rivington, 1875.",
+    "The Emirate of Bukhara and the khanates of Khiva and Kokand were independent states that came under Russian imperial control in the 1860s and 1870s. Russian Turkestan was a governor-generalship of the Russian Empire established in 1867, two years after the start of the Russian conquest of the region of Central Asia known as Turkestan. This map of these territories, comprising parts of present-day Kazakhstan, Tajikistan, Turkmenistan, and Uzbekistan, was made by Eugene Schuyler (1840--90), an American diplomat, explorer, author, and scholar who was one of the first foreigners invited by the Russian government to see Russia's newly conquered territories. In 1873, while serving as the secretary of the American legation in Saint Petersburg, Schuyler made an eight-month trip through lands then little known to outsiders. He gathered extensive geographical information and wrote accounts of his travels for the National Geographic Society and a lengthy confidential report for the U.S. Department of State. He was critical of Russian treatment of the Tartars but otherwise saw the Russian presence in Central Asia as benign. Schuyler's map was printed separately in 1875 and included in his two-volume work, Turkistan: Notes of a Journey in Russian Turkistan, Khokand, Bikhara, and Kuldja, which was published in 1876 in the United States and Britain.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668452",
+    "http://www.loc.gov/item/2021668452/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_07322/",
+    "http://www.loc.gov/resource/wdl.7322/",
+    "https://hdl.loc.gov/loc.wdl/wdl.7322",
+    "https://www.loc.gov/item/2021668452/"
+  ],
+  "dct_issued_s": "1875-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_07322.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/07/32/2/wdl_07322/wdl_07322.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:07:32:2:wdl_07322:KARTA_TURKESTANA-007/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668452/\"}",
+  "dct_spatial_sm": [
+    "kazakhstan",
+    "tajikistan",
+    "turkmenistan",
+    "uzbekistan"
+  ],
+  "dct_subject_sm": [
+    "1875",
+    "Kazakhstan",
+    "Tajikistan",
+    "Turkmenistan",
+    "Uzbekistan"
+  ],
+  "dct_temporal_sm": [
+    "1875-01-01"
+  ],
+  "dct_title_s": "Map of the Khanates of Bukhara, Khiva, and Khokand and Part of Russian Turkistan.",
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1875
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668452",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

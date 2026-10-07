@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cloth map.",
+    "Cloth map. Relief shown pictorially. Title supplied by cataloger. In lower left corner: \"The Wells Missionary Map Co., 3612 Prairie Avenue, Chicago.\" Pen-and-ink, pencil, crayon, and watercolor; place names mechanically printed in black ink. In upper right corner: \"III.\" Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Wells Missionary Map Co",
+    "In lower left corner: \"The Wells Missionary Map Co., 3612 Prairie Avenue, Chicago.\"",
+    "In upper right corner: \"III.\"",
+    "Pen-and-ink, pencil, crayon, and watercolor; place names mechanically printed in black ink.",
+    "Publication statement: [1908?]",
+    "Relief shown pictorially.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8201p.ct003094",
+    "http://lccn.loc.gov/2009583214",
+    "http://www.loc.gov/item/2009583214/",
+    "http://www.loc.gov/resource/g8201p.ct003094/",
+    "https://hdl.loc.gov/loc.gmd/g8201p.ct003094",
+    "https://search.catalog.loc.gov/instances/b2024c6a-2959-5672-9e70-20392271ea50",
+    "https://www.loc.gov/item/2009583214/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8201/g8201p/ct003094.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009583214/\"}",
+  "dct_spatial_sm": [
+    "africa"
+  ],
+  "dct_subject_sm": [
+    "Africa",
+    "Africa--Maps, Manuscript",
+    "Railroads--Africa--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1908",
+    "[1908?]"
+  ],
+  "dct_title_s": "[Railroad map of Africa]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009583214",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

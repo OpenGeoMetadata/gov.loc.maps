@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base map from U.S. Geological Survey sheets.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: West Virginia Geological and Economic Survey; White, I. C. (Israel Charles), 1848-1927",
+    "Publication statement: [Wheeling] : The Survey, 1909.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. \"Base map from U.S. Geological Survey sheets.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95682757",
+    "http://www.loc.gov/item/95682757/",
+    "http://www.loc.gov/resource/g3893w.ct009534/",
+    "https://hdl.loc.gov/loc.gmd/g3893w.ct009534",
+    "https://search.catalog.loc.gov/instances/6259a2ab-fe0f-53f1-bd07-aea62a7ae442",
+    "https://www.loc.gov/item/95682757/"
+  ],
+  "dct_issued_s": "1909",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3893/g3893w/ct009534.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95682757/\"}",
+  "dct_spatial_sm": [
+    "pleasants county",
+    "ritchie county",
+    "united states",
+    "west virginia",
+    "wood county"
+  ],
+  "dct_subject_sm": [
+    "Pleasants County (W. Va.)--Maps",
+    "Ritchie County (W. Va.)--Maps",
+    "United States--West Virginia--Pleasants County",
+    "United States--West Virginia--Ritchie County",
+    "United States--West Virginia--Wood County",
+    "Wood County (W. Va.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "dct_title_s": "Map of Wood, Ritchie, and Pleasants counties showing topography",
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1909
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-95682757",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

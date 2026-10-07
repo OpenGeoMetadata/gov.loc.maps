@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Shallus, Francis, engraver; Varle, Charles, cartographer",
+    "Includes illustrations.",
+    "Includes testimonial from pilots to the left of title, dated October 20th 1801.",
+    "LC copy sectioned in two and mounted on coarse linen. Shellacked and darkened, with losses along all edges.",
+    "Oriented with north to the right.",
+    "Publication statement: [Philadelphia?] : [Publisher not identified], [1801]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. Oriented with north to the right. Includes illustrations. Includes testimonial from pilots to the left of title, dated October 20th 1801. LC copy sectioned in two and mounted on coarse linen. Shellacked and darkened, with losses along all edges. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3830.ct006085",
+    "http://lccn.loc.gov/2018590124",
+    "http://www.loc.gov/item/2018590124/",
+    "http://www.loc.gov/resource/g3830.ct006085/",
+    "https://hdl.loc.gov/loc.gmd/g3830.ct006085",
+    "https://search.catalog.loc.gov/instances/4db65bf5-f6e0-5e6c-a9ae-5c0c9ed9a5ee",
+    "https://www.loc.gov/item/2018590124/"
+  ],
+  "dct_issued_s": "1801",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd383/g3830/g3830/ct006085.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018590124/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "delaware bay",
+    "eastern shore",
+    "maryland",
+    "new jersey",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Delaware Bay (Del. and N.J.)--Maps",
+    "Delaware--Maps",
+    "Eastern Shore (Md. and Va.)--Maps",
+    "United States--Delaware",
+    "United States--Delaware--Delaware Bay",
+    "United States--Maryland--Eastern Shore",
+    "United States--New Jersey--Delaware Bay"
+  ],
+  "dct_temporal_sm": [
+    "1801"
+  ],
+  "dct_title_s": "A map of the state of Delaware and the Eastern Shore of Maryland : with the soundings of the Bay of Delaware",
+  "gbl_dateRange_drsim": [
+    "[1801 TO 1801]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1801
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018590124",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

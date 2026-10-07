@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Карта Амурской области. Карта квартирного расположения войск Амурской области"
+  ],
+  "dct_description_sm": [
+    "Original map at: National Library of Russia",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1900-1999.",
+    "Uslovnye znaki i granit︠s︡y raskrasheny ot ruki. Titul i uslovnye znaki nakleeny na kartu \"Karta I︠U︡zhnoĭ pogranichnoĭ polosy Aziatskoĭ Rossii\".",
+    "Uslovnye znaki i granit︠s︡y raskrasheny ot ruki. Titul i uslovnye znaki nakleeny na kartu \"Karta I︠U︡zhnoĭ pogranichnoĭ polosy Aziatskoĭ Rossii\". Uslovnye znaki: Upravlenie voĭsk oblasti, voĭsk. khozi︠a︡ĭstvenoe pravlenie amur. kazachego voĭska, shtab lineĭnogo batal'ona, upravlenie artilleriĭskoĭ batarei, shtaby amur. peshego kazachego polubatal'ona i konnogo kazachego polka, prodovol'stvennye maga. Original map at: National Library of Russia Условные знаки и границы раскрашены от руки. Титул и условные знаки наклеены на карту \"Карта Южной пограничной полосы Азиатской России\". Условные знаки: Управление войск области, войск. хозяйственое правление амур. казачего войска, штаб линейного батальона, управление артиллерийской батареи, штабы амур. пешего казачего полубатальона и конного казачего полка, продовольственные мага.",
+    "Uslovnye znaki: Upravlenie voĭsk oblasti, voĭsk. khozi︠a︡ĭstvenoe pravlenie amur. kazachego voĭska, shtab lineĭnogo batal'ona, upravlenie artilleriĭskoĭ batarei, shtaby amur. peshego kazachego polubatal'ona i konnogo kazachego polka, prodovol'stvennye maga.",
+    "Условные знаки и границы раскрашены от руки. Титул и условные знаки наклеены на карту \"Карта Южной пограничной полосы Азиатской России\".",
+    "Условные знаки: Управление войск области, войск. хозяйственое правление амур. казачего войска, штаб линейного батальона, управление артиллерийской батареи, штабы амур. пешего казачего полубатальона и конного казачего полка, продовольственные мага."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693887",
+    "http://www.loc.gov/item/2018693887/",
+    "http://www.loc.gov/resource/gdc.2018693887/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.nmap015",
+    "https://search.catalog.loc.gov/instances/501271dd-7bab-51fa-8302-d90a70b14172",
+    "https://www.loc.gov/item/2018693887/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693887.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693887/2018693887.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693887:nmap015u/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693887/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation"
+  ],
+  "dct_temporal_sm": [
+    "1900/1999"
+  ],
+  "dct_title_s": "Karta Amurskoĭ oblasti. Karta kvartirnogo raspolozhenii︠a︡ voĭsk Amurskoĭ oblasti",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1999]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693887",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

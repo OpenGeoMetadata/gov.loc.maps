@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Fowler, T. M. (Thaddeus Mortimer), 1842-1922",
+    "Includes index to points of interest.",
+    "Includes index to points of interest. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Morrisville, Pennsylvania] : [T.M. Fowler], [1879]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4204h.pm020514",
+    "http://lccn.loc.gov/2013591257",
+    "http://www.loc.gov/item/2013591257/",
+    "http://www.loc.gov/resource/g4204h.pm020514/",
+    "https://hdl.loc.gov/loc.gmd/g4204h.pm020514",
+    "https://search.catalog.loc.gov/instances/75a6b5ac-ba72-5148-afe3-458c0661e7c0",
+    "https://www.loc.gov/item/2013591257/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd420/g4204/g4204h/pm020514.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013591257/\"}",
+  "dct_spatial_sm": [
+    "hiawatha",
+    "kansas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hiawatha (Kan.)--Maps",
+    "United States--Kansas--Hiawatha"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Hiawatha, Kansas, 1879",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013591257",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

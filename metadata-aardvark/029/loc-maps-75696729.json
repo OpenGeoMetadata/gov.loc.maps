@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 110",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1066 Available also through the Library of Congress Web site as a raster image. AACR2: 110",
+    "Contributors: Henry Wellge & Co",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1066",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Duluth, A. L. Langellier, c1887."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4124s.pm010660",
+    "http://lccn.loc.gov/75696729",
+    "http://www.loc.gov/item/75696729/",
+    "http://www.loc.gov/resource/g4124s.pm010660/",
+    "https://hdl.loc.gov/loc.gmd/g4124s.pm010660",
+    "https://search.catalog.loc.gov/instances/16d3a017-5024-5104-af9d-47d3503200d8",
+    "https://www.loc.gov/item/75696729/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4124/g4124s/pm010660.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75696729/\"}",
+  "dct_spatial_sm": [
+    "superior",
+    "united states",
+    "west superior (superior)",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "Superior (Wis.)",
+    "United States--Wisconsin--West Superior (Superior)"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "Perspective map of West Superior, Wis",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75696729",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

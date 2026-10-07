@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Beijing jin pang zhi tu",
+    "Titles in alternate reading (Chinese): Beijing jin pang zhi tu"
+  ],
+  "dct_description_sm": [
+    "ARP",
+    "Accompanied by 2 blank sheets intended for ancillary map coverage. 2 sheets ; 76 cm.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Tamai, Rōko",
+    "Pen-and-ink and watercolor. Annotated in pencil at lower left bottom.",
+    "Publication statement: Meiji 17-nen [1884]",
+    "Relief shown by hachures.",
+    "Shows villages, fields, deep ditches, geomorphic scenery in Beijing region.",
+    "Shows villages, fields, deep ditches, geomorphic scenery in Beijing region. Relief shown by hachures. Pen-and-ink and watercolor. Annotated in pencil at lower left bottom. Accompanied by 2 blank sheets intended for ancillary map coverage. 2 sheets ; 76 cm. Available also through the Library of Congress Web site as a raster image. ARP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7824b.ct001962",
+    "http://lccn.loc.gov/91684754",
+    "http://www.loc.gov/item/91684754/",
+    "http://www.loc.gov/resource/g7824b.ct001962/",
+    "https://hdl.loc.gov/loc.gmd/g7824b.ct001962",
+    "https://search.catalog.loc.gov/instances/3e8e6f49-a29f-5212-abab-323a0cebb3cf",
+    "https://www.loc.gov/item/91684754/"
+  ],
+  "dct_issued_s": "1884",
+  "dct_language_sm": [
+    "chi",
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7824/g7824b/ct001962.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91684754/\"}",
+  "dct_spatial_sm": [
+    "beijing region",
+    "china"
+  ],
+  "dct_subject_sm": [
+    "Beijing Region (China)--Maps, Manuscript",
+    "China--Beijing Region"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_title_s": "Pekin kinbō no zu, yonmanbun no ichi",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91684754",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

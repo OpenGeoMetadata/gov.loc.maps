@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by soundings.",
+    "Depths shown by soundings. Oriented with north to the bottom. Watermark: AF in an unidentifiable watermark. Pen-and-ink. Mounted on cloth backing. Maggs number annotated in pencil in lower right corner: 122. LC Luso-Hispanic World, 466 Available also through the Library of Congress Web site as a raster image. Vault",
+    "LC Luso-Hispanic World, 466",
+    "Maggs number annotated in pencil in lower right corner: 122.",
+    "Mounted on cloth backing.",
+    "Oriented with north to the bottom.",
+    "Pen-and-ink.",
+    "Publication statement: [17--?]",
+    "Vault",
+    "Watermark: AF in an unidentifiable watermark."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4944c.lh000466",
+    "http://lccn.loc.gov/90683832",
+    "http://www.loc.gov/item/90683832/",
+    "http://www.loc.gov/resource/g4944c.lh000466/",
+    "https://hdl.loc.gov/loc.gmd/g4944c.lh000466",
+    "https://search.catalog.loc.gov/instances/4f3f36fa-a42d-53b8-b8fa-7b0f899c1b24",
+    "https://www.loc.gov/item/90683832/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4944/g4944c/lh000466.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90683832/\"}",
+  "dct_spatial_sm": [
+    "atlantic coast",
+    "cap",
+    "cap-haïtien region",
+    "haiti",
+    "haïtien region"
+  ],
+  "dct_subject_sm": [
+    "Atlantic Coast (Haiti)--Maps, Manuscript--Early works to 1800",
+    "Cap-Haïtien Region (Haiti)--Maps, Manuscript--Early works to 1800",
+    "Coasts--Haiti--Cap-Haïtien Region--Maps--Early works to 1800",
+    "Haiti--Atlantic Coast",
+    "Haiti--Cap-Haïtien Region",
+    "Manuscript maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1700",
+    "[17--?]"
+  ],
+  "dct_title_s": "Puerto de Guárico situado en la lattd. de 19°48ʹ y en la longd. de 304°16 ms",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90683832",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

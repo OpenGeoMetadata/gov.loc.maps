@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"51568 5-65.\"",
+    "\"51568 5-65.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1965]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8200.ct002480",
+    "http://lccn.loc.gov/97687655",
+    "http://www.loc.gov/item/97687655/",
+    "http://www.loc.gov/resource/g8200.ct002480/",
+    "https://hdl.loc.gov/loc.gmd/g8200.ct002480",
+    "https://search.catalog.loc.gov/instances/53db3e40-770d-5498-851b-846b02a09a11",
+    "https://www.loc.gov/item/97687655/"
+  ],
+  "dct_issued_s": "1965",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8200/g8200/ct002480.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97687655/\"}",
+  "dct_spatial_sm": [
+    "africa"
+  ],
+  "dct_subject_sm": [
+    "Africa",
+    "Africa--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "dct_title_s": "Africa, May 1965",
+  "gbl_dateRange_drsim": [
+    "[1965 TO 1965]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1965
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97687655",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

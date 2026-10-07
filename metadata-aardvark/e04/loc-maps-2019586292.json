@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "J.K. Gill & Cos. map of Washington",
+    "New sectional, township and county map of Washington",
+    "Title at top of margin: J.K. Gill & Cos. map of Washington"
+  ],
+  "dct_description_sm": [
+    "\"Entered according to act of Congress in the year 1889 by J.K. Gill & Co. in the office of the Librarian of Congress at Washington.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Galvani, W. H. (William Henry), 1864-1947, cartographer; J.K. Gill & Co., publisher",
+    "Cover portion of British Columbia.",
+    "LC copy stained throughout.",
+    "Mispelling of the word engineer in the 245 field. Printed on map as \"engeneer.\"",
+    "Publication statement: Chicago, Ill. : Lith. by L.M. Snyder & Co. 79 Dearborn St., 1889.; Portland, Oregon : Published by J.K. Gill & Co. Wholesale Booksellers & Stationers 73 First & 25 Oak Sts., 1889.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Cover portion of British Columbia. Shows county boundaries, military and Indian reservations, railroads, lighthouses, and stage routes. Mispelling of the word engineer in the 245 field. Printed on map as \"engeneer.\" \"Entered according to act of Congress in the year 1889 by J.K. Gill & Co. in the office of the Librarian of Congress at Washington.\" LC copy stained throughout. Available also through the Library of Congress Web site as a raster image.",
+    "Shows county boundaries, military and Indian reservations, railroads, lighthouses, and stage routes."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2019586292",
+    "http://www.loc.gov/item/2019586292/",
+    "http://www.loc.gov/resource/g4280.ct011312/",
+    "https://hdl.loc.gov/loc.gmd/g4280.ct011312",
+    "https://search.catalog.loc.gov/instances/0220af88-f976-58fa-8e1f-e0ac431b739b",
+    "https://www.loc.gov/item/2019586292/"
+  ],
+  "dct_issued_s": "1889",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd428/g4280/g4280/ct011312.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2019586292/\"}",
+  "dct_spatial_sm": [
+    "oregon",
+    "united states",
+    "washington"
+  ],
+  "dct_subject_sm": [
+    "Oregon--Maps",
+    "United States--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "dct_title_s": "New sectional, township & county map of Washington",
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2019586292",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

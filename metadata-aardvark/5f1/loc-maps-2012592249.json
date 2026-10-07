@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Broadsheet Gift ; C harles E. Tuttle ; May 26, 1936.",
+    "Contributors: Walling, Henry Francis, 1825-1888",
+    "Includes 15 ancillary town maps, 22 inset town maps, geological map of Hampshire County, business directories, distance chart, county statistics, and illustrations.",
+    "LC Land ownership maps, 315",
+    "LC copy sectioned into 6 and mounted on 2 pieces of cloth. Accompanied by a broadsheet titled \"New topographical and geological map of Hampshire County\" that advertises the map.",
+    "Publication statement: New York : H. & C. T. Smith & Co., Publishers, 356, 358 & 360 Pearl Street, 1860.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Includes 15 ancillary town maps, 22 inset town maps, geological map of Hampshire County, business directories, distance chart, county statistics, and illustrations. LC copy sectioned into 6 and mounted on 2 pieces of cloth. Accompanied by a broadsheet titled \"New topographical and geological map of Hampshire County\" that advertises the map. LC Land ownership maps, 315 Available also through the Library of Congress Web site as a raster image. Broadsheet Gift ; C harles E. Tuttle ; May 26, 1936."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3763h.la000315",
+    "http://lccn.loc.gov/2012592249",
+    "http://www.loc.gov/item/2012592249/",
+    "http://www.loc.gov/resource/g3763h.la000315/",
+    "https://hdl.loc.gov/loc.gmd/g3763h.la000315",
+    "https://search.catalog.loc.gov/instances/7cb9af3e-e1ed-5e88-9bd2-c6668b9613b2",
+    "https://www.loc.gov/item/2012592249/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3763/g3763h/la000315.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592249/\"}",
+  "dct_spatial_sm": [
+    "hampshire county",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cities and towns--Massachusetts--Hampshire County--Maps",
+    "Hampshire County (Mass.)--Maps",
+    "Landowners--Massachusetts--Hampshire County--Maps",
+    "United States--Massachusetts--Hampshire County"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Map of the county of Hampshire, Massachusetts",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592249",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

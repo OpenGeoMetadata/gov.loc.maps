@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: District of Columbia. Engineer Department",
+    "DCP",
+    "Pen-and-ink and pencil.",
+    "Pen-and-ink and pencil. Printed directories of street name changes affixed to recto. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "Printed directories of street name changes affixed to recto.",
+    "Publication statement: 1904",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/87691446",
+    "http://www.loc.gov/item/87691446/",
+    "http://www.loc.gov/resource/g3850.ct011230/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct011230",
+    "https://search.catalog.loc.gov/instances/bbafafe7-2f31-5b65-8418-9f9cf3dc6220",
+    "https://www.loc.gov/item/87691446/"
+  ],
+  "dct_issued_s": "1904",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct011230.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691446/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "Street names--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "dct_title_s": "Map of the city of Washington : for use of the Engineer Department, District of Columbia",
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1904
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87691446",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

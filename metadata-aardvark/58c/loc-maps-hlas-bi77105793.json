@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: geographia, ltd; modelski, andrew m."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi77105793/",
+    "https://www.loc.gov/item/hlas-bi77105793/"
+  ],
+  "dct_issued_s": "1974",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "s.n.,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi77105793/\"}",
+  "dct_spatial_sm": [
+    "england"
+  ],
+  "dct_subject_sm": [
+    "maps and cartography",
+    "maps and cartography -- south america",
+    "political geography",
+    "political geography -- south america",
+    "south america",
+    "transportation",
+    "transportation -- maps and cartography",
+    "transportation -- south america"
+  ],
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "dct_title_s": "The Daily telegraph map of South America",
+  "gbl_dateRange_drsim": [
+    "[1974 TO 1974]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1974
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi77105793",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

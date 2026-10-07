@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"New edition corrected 1857.\"",
+    "\"Series C. No. 1.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brooke, John M. (John Mercer), 1826-1906; Maury, Matthew Fontaine, 1806-1873; United States Naval Observatory; United States. Bureau of Ordnance and Hydrography; United States. Hydrographic Office",
+    "In upper left margin: 9.",
+    "Includes diagrams and notes in map area with signature of M.F. Maury.",
+    "Publication statement: [Washington, D.C.] : U.S. Hydrographical Office, 1853.",
+    "Shows prevailing wind direction by month.",
+    "Shows prevailing wind direction by month. \"Series C. No. 1.\" \"New edition corrected 1857.\" The pilot charts were released as series C a part of Maury's \"Wind and current charts\", series A-F. These charts were designed for sailing ships and recorded wind direction observations made by mariners on previous voyages. For complete discussion, see \"The wind and current chart series produced by Matthew Fontaine Maury,\" by Marc I. Pinsel, in Navigation : Journal of the Institute of Navigation, v. 28, no. 2 (Summer, 1981), p. 123-137. Includes diagrams and notes in map area with signature of M.F. Maury. In upper left margin: 9. Available also through the Library of Congress Web site as a raster image.",
+    "The pilot charts were released as series C a part of Maury's \"Wind and current charts\", series A-F. These charts were designed for sailing ships and recorded wind direction observations made by mariners on previous voyages. For complete discussion, see \"The wind and current chart series produced by Matthew Fontaine Maury,\" by Marc I. Pinsel, in Navigation : Journal of the Institute of Navigation, v. 28, no. 2 (Summer, 1981), p. 123-137."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g9111p.ct009519",
+    "http://lccn.loc.gov/2009575936",
+    "http://www.loc.gov/item/2009575936/",
+    "http://www.loc.gov/resource/g9111p.ct009519/",
+    "https://hdl.loc.gov/loc.gmd/g9111p.ct009519",
+    "https://search.catalog.loc.gov/instances/895676ba-4830-53b0-a4cc-cd597042ae4e",
+    "https://www.loc.gov/item/2009575936/"
+  ],
+  "dct_issued_s": "1853",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd9/g9111/g9111p/ct009519.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009575936/\"}",
+  "dct_spatial_sm": [
+    "north atlantic ocean"
+  ],
+  "dct_subject_sm": [
+    "Nautical charts--North Atlantic Ocean",
+    "North Atlantic Ocean",
+    "Winds--North Atlantic Ocean--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "dct_title_s": "Pilot chart of the North Atlantic",
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1853
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009575936",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nationalgeographic.com"
+  ],
+  "dct_description_sm": [
+    "Contributors: National Geographic Society (U.S.)",
+    "Includes information about the National Geographic Society, its publications, and online resources related to the activities of the society.",
+    "Mode of access: World Wide Web.",
+    "Publication statement: [Washington, D.C.] : National Geographic Society, 1996-",
+    "Title from HTML header."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2002622250",
+    "http://nationalgeographic.com/",
+    "http://www.loc.gov/item/2002622250/",
+    "https://www.loc.gov/item/2002622250/"
+  ],
+  "dct_issued_s": "1996",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2002622250/\"}",
+  "dct_subject_sm": [
+    "Geography--Maps",
+    "Internet resource--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "dct_title_s": "National Geographic online [electronic resource] : maps, photography, travel, more",
+  "gbl_dateRange_drsim": [
+    "[1996 TO 1996]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002622250",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

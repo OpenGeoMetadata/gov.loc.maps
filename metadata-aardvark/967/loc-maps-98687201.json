@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co",
+    "Publication statement: [S.l.], 1873."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4320.np000067",
+    "http://lccn.loc.gov/98687201",
+    "http://www.loc.gov/item/98687201/",
+    "http://www.loc.gov/resource/g4320.np000067/",
+    "https://hdl.loc.gov/loc.gmd/g4320.np000067",
+    "https://search.catalog.loc.gov/instances/d2ac6c1a-1138-5c66-a297-7c8a61ddabf4",
+    "https://www.loc.gov/item/98687201/"
+  ],
+  "dct_issued_s": "1873",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd432/g4320/g4320/np000067.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687201/\"}",
+  "dct_spatial_sm": [
+    "new mexico",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Mexico--Maps",
+    "United States--New Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "dct_title_s": "Colton's New Mexico and Arizona",
+  "gbl_dateRange_drsim": [
+    "[1873 TO 1873]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1873
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687201",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

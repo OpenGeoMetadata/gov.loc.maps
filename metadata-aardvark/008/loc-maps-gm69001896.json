@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 110",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Fort Worth District",
+    "Folded title: Floods on Hutton Branch and Cooks Branch, Dallas County: How to avoid damages.",
+    "Folded title: Floods on Hutton Branch and Cooks Branch, Dallas County: How to avoid damages. Includes stream profiles. Text and illus. on verso. Scale ca. 1:42,000. Available also through the Library of Congress Web site as a raster image. AACR2: 110",
+    "Includes stream profiles.",
+    "Publication statement: Fort Worth? Tex., 1968]",
+    "Scale ca. 1:42,000.",
+    "Text and illus. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm69001896",
+    "http://www.loc.gov/item/gm69001896/",
+    "http://www.loc.gov/resource/g4032h.ct011413/",
+    "https://hdl.loc.gov/loc.gmd/g4032h.ct011413",
+    "https://search.catalog.loc.gov/instances/4f89ea3f-e114-523f-88c7-3027e590732f",
+    "https://www.loc.gov/item/gm69001896/"
+  ],
+  "dct_issued_s": "1968",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032h/ct011413.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm69001896/\"}",
+  "dct_spatial_sm": [
+    "cooks branch",
+    "hutton branch",
+    "texas"
+  ],
+  "dct_subject_sm": [
+    "Floods--Texas--Cooks Branch--Maps",
+    "Floods--Texas--Hutton Branch--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "dct_title_s": "Hutton Branch and Cooks Branch",
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1968]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm69001896",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

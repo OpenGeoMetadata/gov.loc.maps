@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Jacques Bellin (1703-72) was a prolific cartographer attached to the French Marine Office. In 1764, he published Le Petit Atlas Maritime (Small maritime atlas), a work in five volumes containing 581 maps. This map is from volume four of the atlas. Oriented with north at the lower right, it shows the city and port of Monaco. The Principality of Monaco is one of the world's smallest countries. The Italian city-state of Genoa gained control of the region around Monaco in the 1100s and built the first fort there in 1215. In 1308, Genoa granted the right to rule the city to a prominent Genoese family, the Grimaldi, which, with the exception of a brief period during the French Revolution and the Napoleonic eras, has done so ever since.\" World Digital Library.",
+    "\"Tome IV, no. 72.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bellin, Jacques Nicolas, 1703-1772",
+    "Covers commune of Monaco.",
+    "From the author's Le petit atlas maritime. 1764.",
+    "Indexed for points of interest.",
+    "Oriented with north toward the lower right.",
+    "Publication statement: [Paris, 1764]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:6,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5984m.ct002364",
+    "http://lccn.loc.gov/74694428",
+    "http://www.loc.gov/item/74694428/",
+    "http://www.loc.gov/resource/g5984m.ct002364/",
+    "https://hdl.loc.gov/loc.gmd/g5984m.ct002364",
+    "https://search.catalog.loc.gov/instances/aa3c32ff-5efe-5bb6-82e6-c4f658fb128b",
+    "https://www.loc.gov/item/74694428/"
+  ],
+  "dct_issued_s": "1764",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5984/g5984m/ct002364.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694428/\"}",
+  "dct_spatial_sm": [
+    "monaco"
+  ],
+  "dct_subject_sm": [
+    "Monaco (Monaco)--Maps--Early works to 1800",
+    "Monaco--Monaco"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "dct_title_s": "Plan de Monaco",
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1764
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694428",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

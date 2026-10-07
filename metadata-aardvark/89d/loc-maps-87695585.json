@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); United States. Public Roads Administration",
+    "DCP",
+    "Includes notes.",
+    "Includes notes. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Publication statement: [Washington?] : Federal Works Agency, Public Roads Administration ; Washington : For sale by the Supt. of Docs., U.S. G.P.O., 1947."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct004797",
+    "http://lccn.loc.gov/87695585",
+    "http://www.loc.gov/item/87695585/",
+    "http://www.loc.gov/resource/g3851p.ct004797/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct004797",
+    "https://search.catalog.loc.gov/instances/a5808d61-1e9e-5bff-aad1-d8a380a7e369",
+    "https://www.loc.gov/item/87695585/"
+  ],
+  "dct_issued_s": "1947",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct004797.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695585/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "Roads--Washington Metropolitan Area--Maps",
+    "Transportation--Washington (D.C.)--Maps",
+    "Transportation--Washington Metropolitan Area--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Metropolitan Area"
+  ],
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "dct_title_s": "Washington, D.C., and vicinity transportation map",
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1947]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695585",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

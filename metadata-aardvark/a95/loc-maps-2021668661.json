@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte économique de la Géorgie"
+  ],
+  "dct_description_sm": [
+    "\"Scale 1:1,680,000\"--Note extracted from World Digital Library.",
+    "Content in French and Georgian.",
+    "Contributors: Babet, Victor Creator.; Lobrot (Firm) Engraver.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : color ; 45 x 61 centimeters.",
+    "Publication statement: [place of publication not identified] : Georgian Bureau of Information, 1918.",
+    "This economic map of the Democratic Republic of Georgia in French was produced in 1918, the year in which Georgia declared its independence from the Russian Empire under a social democratic government. The map shows the borders of the new republic with Circassia (the Mountainous Republic of the Northern Caucasus) in the north, Turkey and the Republic of Armenia in the south, and Azerbaijan in the southeast. Also shown are towns and villages, ports, railroads, and the ferries linking the Black Sea port of Batoum (present-day Batumi) to Odessa (present-day Ukraine) and Novorossiysk (present-day Russian Federation). Colors and shading are used to show the different agricultural regions in the country, which include pasturage, forested regions, regions of viniculture and orchards, areas of grain production, and areas of specialized cultivation. The latter (listed in the table at the lower left and identified by region) include a great variety of crops, for example, tobacco, tea, mulberries (for silk production), nuts, decorative plants, and several others. Symbols indicate mines and quarries producing minerals of different types, including copper, lead, zinc, antimony, iron, gold, coal, naphtha, and other products. Relief is shown by spot elevations in meters. Two distance scales are provided, versts and kilometers. In 1921 the Red Army invaded Georgia, and it became a Soviet socialist republic, once again under Russian domination. Georgia became an independent state in 1991, following the breakup of the Soviet Union.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668661",
+    "http://www.loc.gov/item/2021668661/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15666/",
+    "http://www.loc.gov/resource/wdl.15666/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15666",
+    "https://www.loc.gov/item/2021668661/"
+  ],
+  "dct_issued_s": "1918-01-01",
+  "dct_language_sm": [
+    "fre",
+    "georgian"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15666.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/66/6/wdl_15666/wdl_15666.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:66:6:wdl_15666:am005163/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668661/\"}",
+  "dct_spatial_sm": [
+    "georgia"
+  ],
+  "dct_subject_sm": [
+    "1918",
+    "Agriculture",
+    "Economics",
+    "Farm produce",
+    "Georgia",
+    "Mines and mineral resources",
+    "Tea industry",
+    "Tobacco industry"
+  ],
+  "dct_temporal_sm": [
+    "1918-01-01"
+  ],
+  "dct_title_s": "Economic Map of Georgia.",
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1918]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1918
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668661",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

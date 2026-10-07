@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Massachusetts title collection--cities and towns Ran-Rev",
+    "Alternate supplied title: Massachusetts title collection--drawer 133"
+  ],
+  "dct_description_sm": [
+    "Most maps in this collection before 1830 are photocopies or facsimiles.",
+    "Publication statement: [Various places] : [various publishers], [1708-1967]",
+    "This record covers single maps of Massachusetts cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show different subjects such as landowners or recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps of Massachusetts cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show different subjects such as landowners or recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. Most maps in this collection before 1830 are photocopies or facsimiles.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022594713",
+    "http://www.loc.gov/item/2022594713/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ma-133/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ma-133",
+    "https://search.catalog.loc.gov/instances/808cb898-6113-5fc8-9b49-f765279ad61f",
+    "https://www.loc.gov/item/2022594713/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ma:-1:33:ma-133:ma-133-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022594713/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cities and towns--Massachusetts--Maps",
+    "Landowners--Massachusetts--Maps",
+    "United States--Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1708/1967"
+  ],
+  "dct_title_s": "[Maps of Massachusetts--cities and towns Ran-Rev]",
+  "gbl_dateRange_drsim": [
+    "[1708 TO 1967]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1708
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022594713",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

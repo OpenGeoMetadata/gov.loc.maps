@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2; 650/3; 700/1; 700/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Collins, John, -1795; Sauthier, Claude Joseph; Valentine, Thomas",
+    "LC Maps of North America, 1750-1789, 1071",
+    "Manuscript, black and red ink and watercolor.",
+    "Manuscript, black and red ink and watercolor. Relief shown by hachures. Map shows primarily Vermont with Québec (Province) and New York (State) Scale ca. 1:125,000. LC Maps of North America, 1750-1789, 1071 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1; 651/2; 650/3; 700/1; 700/2",
+    "Map shows primarily Vermont with Québec (Province) and New York (State)",
+    "Publication statement: [1772]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:125,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3751f.ar107100",
+    "http://lccn.loc.gov/74694111",
+    "http://www.loc.gov/item/74694111/",
+    "http://www.loc.gov/resource/g3751f.ar107100/",
+    "https://hdl.loc.gov/loc.gmd/g3751f.ar107100",
+    "https://search.catalog.loc.gov/instances/30c7be84-a9cb-5cf5-b552-a8582b13ff86",
+    "https://www.loc.gov/item/74694111/"
+  ],
+  "dct_issued_s": "1772",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3751/g3751f/ar107100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694111/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "new york",
+    "new york (state)",
+    "québec",
+    "québec (province)",
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Canada--Québec (Province)",
+    "Manuscript maps--Early works to 1800",
+    "New York (State)--Boundaries--Québec (Province)--Maps--Early works to 1800",
+    "Québec (Province)--Boundaries--New York (State)--Maps--Early works to 1800",
+    "Québec (Province)--Boundaries--Vermont--Maps--Early works to 1800",
+    "United States--New York (State)",
+    "United States--Vermont",
+    "Vermont--Boundaries--Québec (Province)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1772"
+  ],
+  "dct_title_s": "A plan of the division line between the provinces of New-York and Quebec. In the 45th degree of north latitude. Survey'd in the year 1771 & 1772",
+  "gbl_dateRange_drsim": [
+    "[1772 TO 1772]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1772
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694111",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1980 0--308-871.\"",
+    "\"Program Aid Number 309.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Agricultural Research Service; United States. Department of Agriculture",
+    "DCP",
+    "Includes index to points of interest and col. ill.",
+    "Panel title: The United States National Arboretum.",
+    "Panel title: The United States National Arboretum. \"Program Aid Number 309.\" Includes index to points of interest and col. ill. Text, location map, and col. ill. on verso. \"1980 0--308-871.\" Available also through the Library of Congress Web site as a raster image. DCP",
+    "Publication statement: [Washington] : U.S. Dept. of Agriculture, [1983]",
+    "Text, location map, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852n.ct005197",
+    "http://lccn.loc.gov/84695570",
+    "http://www.loc.gov/item/84695570/",
+    "http://www.loc.gov/resource/g3852n.ct005197/",
+    "https://hdl.loc.gov/loc.gmd/g3852n.ct005197",
+    "https://search.catalog.loc.gov/instances/a2d0e409-cb55-5cba-bb3a-21b79c8ad05d",
+    "https://www.loc.gov/item/84695570/"
+  ],
+  "dct_issued_s": "1983",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852n/ct005197.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/84695570/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington"
+  ],
+  "dct_subject_sm": [
+    "National Arboretum (U.S.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "dct_title_s": "U.S. Department of Agriculture, National Arboretum, Washington, D.C. : 1983",
+  "gbl_dateRange_drsim": [
+    "[1983 TO 1983]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1983
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-84695570",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

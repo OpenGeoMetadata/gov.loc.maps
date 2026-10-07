@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows block numbers and elevations of block corners.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Brittle, lacking sections along edges, and mounted on cloth backing.",
+    "Covers area bounded by A Street N.E./N.W., 3rd Street N.W., Florida Avenue, and 12th Street N.E.",
+    "Covers area bounded by A Street N.E./N.W., 3rd Street N.W., Florida Avenue, and 12th Street N.E. Also shows block numbers and elevations of block corners. Pen-and-ink and watercolor. Brittle, lacking sections along edges, and mounted on cloth backing. Includes note and track profile. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "DCP",
+    "Includes note and track profile.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [186-]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct004248",
+    "http://lccn.loc.gov/87695702",
+    "http://www.loc.gov/item/87695702/",
+    "http://www.loc.gov/resource/g3851p.ct004248/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct004248",
+    "https://search.catalog.loc.gov/instances/91fbf57c-f7d2-5730-9057-41df33092443",
+    "https://www.loc.gov/item/87695702/"
+  ],
+  "dct_issued_s": "1860",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct004248.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695702/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Baltimore and Ohio Railroad Company--Maps",
+    "Manuscript maps",
+    "Pavements--Washington (D.C.)--Maps",
+    "Railroads--Washington (D.C.)--Maps",
+    "Railroads--Washington (D.C.)--Planning--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "dct_title_s": "Part of map of Washington City D.C. showing the track of the Baltimore and Ohio Railroad as originally constructed and as it now exists : also showing tracks along which the company might have built the road ... and the proposed paving of East Second Street by the corporation of Washington",
+  "gbl_dateRange_drsim": [
+    "[1860 TO 1860]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695702",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

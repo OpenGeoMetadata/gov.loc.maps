@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Sources: Base map from U.S. Geological Survey, North Carolina, 1972. County, county subdivision, and place boundaries certified by local officials, January 1, 1980.\"",
+    "\"Sources: Base map from U.S. Geological Survey, North Carolina, 1972. County, county subdivision, and place boundaries certified by local officials, January 1, 1980.\" Includes indexes and inset. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Bureau of the Census. Data Preparation Division; United States. Bureau of the Census. Geography Division",
+    "Includes indexes and inset.",
+    "Publication statement: Washington, D.C. : U.S. Dept. of Commerce, Bureau of the Census : For sale by the Supt. of Docs., U.S. G.P.O., [1983]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/83692128",
+    "http://www.loc.gov/item/83692128/",
+    "http://www.loc.gov/resource/g3901f.ct009564/",
+    "https://hdl.loc.gov/loc.gmd/g3901f.ct009564",
+    "https://search.catalog.loc.gov/instances/52189a78-6f5b-591b-9089-20af680f6ac2",
+    "https://www.loc.gov/item/83692128/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3901/g3901f/ct009564.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83692128/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Census districts--North Carolina--Maps",
+    "North Carolina--Administrative and political divisions--Maps",
+    "United States--North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "North Carolina",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83692128",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

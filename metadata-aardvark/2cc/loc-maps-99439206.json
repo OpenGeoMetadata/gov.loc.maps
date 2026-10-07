@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Another issue.",
+    "Another issue. Houses of Vanderweckins, Cary, and Hall in northern Virginia are identified as having been \"burnt by rebels Sept. 13th.\" Description derived from published bibliography. [Scale ca. 1:115,000]. LC Civil War Maps (2nd ed.), 563.2 Available also through the Library of Congress web site as raster image.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Corbett, V. P.",
+    "Description derived from published bibliography.",
+    "Houses of Vanderweckins, Cary, and Hall in northern Virginia are identified as having been \"burnt by rebels Sept. 13th.\"",
+    "LC Civil War Maps (2nd ed.), 563.2",
+    "Publication statement: Washington, 1861.",
+    "[Scale ca. 1:115,000]."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884m.cw0563200",
+    "http://lccn.loc.gov/99439206",
+    "http://www.loc.gov/item/99439206/",
+    "http://www.loc.gov/resource/g3884m.cw0563200/",
+    "https://hdl.loc.gov/loc.gmd/g3884m.cw0563200",
+    "https://search.catalog.loc.gov/instances/cfc404e2-da9f-5760-8efa-6a5bc9b7dda7",
+    "https://www.loc.gov/item/99439206/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884m/cw0563200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99439206/\"}",
+  "dct_spatial_sm": [
+    "manassas region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Bull Run, 1st Battle of, Va",
+    "Bull Run, 1st Battle of, Va., 1861--Maps",
+    "United States--Virginia--Manassas Region"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Map of the seat of war showing the battles of July 18th & 21st 1861",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99439206",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

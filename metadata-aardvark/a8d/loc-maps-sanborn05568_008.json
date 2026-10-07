@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "118 sheet(s).",
+    "1909 - Jun 1945: Vol. 4.",
+    "4 skeleton maps. Bound. Other places as they appear on original: Avalon, Cape May, Cape May Point, Five Mile Beach, Grassy Sound, Lower Township, North Wildwood, Ocean City, Sea Isle City, South Cape May, Stone Harbor, Strathmere, West Cape May, West Wildwood, Wildwood, Wildwood Crest."
+  ],
+  "dct_identifier_sm": [
+    "https://www.loc.gov/item/sanborn05568_008/"
+  ],
+  "dct_issued_s": "1945",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/sanborn05568_008/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381m/g3814m/g3814nm/g3814nm_g05568194504/05568_04_1945-0000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/sanborn05568_008/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "Avalon",
+    "Cape May",
+    "Cape May Point",
+    "Five Mile Beach",
+    "Grassy Sound",
+    "Lower Township",
+    "New Jersey",
+    "New Jersey Coast",
+    "North Wildwood",
+    "Ocean City",
+    "Sea Isle City",
+    "South Cape May",
+    "Stone Harbor",
+    "Strathmere",
+    "United States",
+    "West Cape May",
+    "West Wildwood",
+    "Wildwood",
+    "Wildwood Crest"
+  ],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from New Jersey Coast, New Jersey Coast, New Jersey.",
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1945]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete.",
+    "Catalog access is public. Item-level access restrictions have not been refreshed since the historical package; consult the LOC catalog for current access."
+  ],
+  "gbl_indexYear_im": [
+    1945
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn05568_008",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

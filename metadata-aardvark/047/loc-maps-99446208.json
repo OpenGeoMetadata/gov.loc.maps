@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies, vary slightly.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Moll, Herman, -1732",
+    "Publication statement: London, 1719.",
+    "Two issues, one issue shows colonial sea to sea grants in North America.",
+    "Two issues, one issue shows colonial sea to sea grants in North America. Available also through the Library of Congress web site as a raster image. 2 copies, vary slightly. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct007070",
+    "http://hdl.loc.gov/loc.gmd/g3200.mf000001",
+    "http://lccn.loc.gov/99446208",
+    "http://www.loc.gov/item/99446208/",
+    "http://www.loc.gov/resource/g3200.ct007070/",
+    "http://www.loc.gov/resource/g3200.mf000001/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct007070",
+    "https://hdl.loc.gov/loc.gmd/g3200.mf000001",
+    "https://search.catalog.loc.gov/instances/40cd63a8-3680-538c-96c1-15228bb953c0",
+    "https://www.loc.gov/item/99446208/"
+  ],
+  "dct_issued_s": "1719",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/mf000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446208/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)",
+    "World maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1719"
+  ],
+  "dct_title_s": "A new & correct map of the whole World",
+  "gbl_dateRange_drsim": [
+    "[1719 TO 1719]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1719
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446208",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Black ink, red ink, and watercolors.",
+    "Contributors: King, N. (Nicholas), 1771-1812",
+    "Probably drawn by Nicholas King.",
+    "Publication statement: [1799?]",
+    "Shows buildings in different colors, some landowners' names, and unidentified profiles along streets.",
+    "Shows buildings in different colors, some landowners' names, and unidentified profiles along streets. Probably drawn by Nicholas King. Black ink, red ink, and watercolors. Watermark: Budgen 1799 (with device under crown). Soiled, torn, assembled from small sheets of paper, thirded, edged with cloth, and annotated in lead pencil on cloth backing. Available also through the Library of Congress Web site as a raster image.",
+    "Soiled, torn, assembled from small sheets of paper, thirded, edged with cloth, and annotated in lead pencil on cloth backing.",
+    "Watermark: Budgen 1799 (with device under crown)."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852g.ct003544",
+    "http://lccn.loc.gov/88693279",
+    "http://www.loc.gov/item/88693279/",
+    "http://www.loc.gov/resource/g3852g.ct003544/",
+    "https://hdl.loc.gov/loc.gmd/g3852g.ct003544",
+    "https://search.catalog.loc.gov/instances/0b23ca3c-fbe1-51f5-82d2-23536bcddec2",
+    "https://www.loc.gov/item/88693279/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852g/ct003544.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693279/\"}",
+  "dct_spatial_sm": [
+    "(washington)",
+    "district of columbia",
+    "georgetown",
+    "united states",
+    "washington d.c.",
+    "washington)"
+  ],
+  "dct_subject_sm": [
+    "Buildings--Washington (D.C.)--Maps--Early works to 1800",
+    "Georgetown (Washington, D.C.)--Maps, Manuscript--Early works to 1800",
+    "Real property--Washington (D.C.)--Maps--Early works to 1800",
+    "Streets--Washington (D.C.)--Charts, diagrams, etc.--Early works to 1800",
+    "United States--District of Columbia--(Washington)"
+  ],
+  "dct_temporal_sm": [
+    "1799",
+    "[1799?]"
+  ],
+  "dct_title_s": "[Partial cadastral map of southern part of Georgetown, Washington D.C.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693279",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

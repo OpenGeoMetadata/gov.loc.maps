@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Engraved in the Engineer Bureau, War Dept.\"",
+    "\"To accompany a report to the Bureau of Topographical Engineers. Lt. Col. Hartman Bache in charge.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hayden, F. V. (Ferdinand Vandeveer), 1829-1887",
+    "Exhibited in The Earth revealed: aspects of geologic mapping, July 10, 1989-Jan. 7, 1990",
+    "Publication statement: [Washington, D.C.] : U.S. War Dept., [1869]",
+    "Shows geology.",
+    "Shows geology. \"To accompany a report to the Bureau of Topographical Engineers. Lt. Col. Hartman Bache in charge.\" \"Engraved in the Engineer Bureau, War Dept.\" Available also through the Library of Congress Web site as a raster image. Exhibited in The Earth revealed: aspects of geologic mapping, July 10, 1989-Jan. 7, 1990"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4127y.ct000847",
+    "http://lccn.loc.gov/96682479",
+    "http://www.loc.gov/item/96682479/",
+    "http://www.loc.gov/resource/g4127y.ct000847/",
+    "https://hdl.loc.gov/loc.gmd/g4127y.ct000847",
+    "https://search.catalog.loc.gov/instances/b83e0407-c22f-5ef9-b05e-ddde9d1c2240",
+    "https://www.loc.gov/item/96682479/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4127/g4127y/ct000847.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96682479/\"}",
+  "dct_spatial_sm": [
+    "missouri river watershed",
+    "united states",
+    "yellowstone river watershed"
+  ],
+  "dct_subject_sm": [
+    "Geology--Missouri River Watershed--Maps",
+    "Geology--Yellowstone River Watershed--Maps",
+    "United States--Missouri River Watershed",
+    "United States--Yellowstone River Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1859 d1860"
+  ],
+  "dct_title_s": "Map of the Yellowstone and Missouri rivers and their tributaries",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96682479",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

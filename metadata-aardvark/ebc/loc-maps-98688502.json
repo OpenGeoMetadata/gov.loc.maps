@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Galbraith, Frank H.; United States. Railway Mail Service",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 242",
+    "LC has another copy in 4 sheets.",
+    "One of eight large-scale pictorial maps of midwestern states showing routes and post offices of the Railway Mail Service. Designed by Chicago railway mail clerk Frank H. Galbraith to help employees of the Railway Mail Service quickly locate counties and post offices. The maps were rented for practicing or prospective workers who numbered over 6,000 and traveled over a million miles a year on the rails sorting mail. A printed title cartouche accompanied by a list of counties for each of the states by McEwen Map Company of Chicago is pasted on the maps. For published maps showing the routes of the mail service see entries 283 and 313.",
+    "Publication statement: Chicago, 1897, c1898.",
+    "Scale not given.",
+    "Vault",
+    "vcFY24"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4141p.rr002420",
+    "http://lccn.loc.gov/98688502",
+    "http://www.loc.gov/item/98688502/",
+    "http://www.loc.gov/resource/g4141p.rr002420/",
+    "https://hdl.loc.gov/loc.gmd/g4141p.rr002420",
+    "https://search.catalog.loc.gov/instances/ed704773-94c4-5aab-813a-453ff0b7e55f",
+    "https://www.loc.gov/item/98688502/"
+  ],
+  "dct_issued_s": "1897",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd414/g4141/g4141p/rr002420.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688502/\"}",
+  "dct_spatial_sm": [
+    "minnesota",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Minnesota--Maps",
+    "United States--Minnesota"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "dct_title_s": "Galbraith's railway mail service maps, Minnesota",
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688502",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

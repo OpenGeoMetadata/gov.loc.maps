@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Reprint 1975.\"",
+    "\"Reprint 1975.\" Oriented with north toward the upper right. Shows parks in lower Manhattan and the Statue of Liberty National Monument. Text, poem in English, and col. ill. on verso. Scale ca. 1:31,680; 1 pulgada equivale aproximadamente a 0.5 milla. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Oriented with north toward the upper right.",
+    "Publication statement: [Washington] : The Service, [1975]",
+    "Scale ca. 1:31,680; 1 pulgada equivale aproximadamente a 0.5 milla.",
+    "Shows parks in lower Manhattan and the Statue of Liberty National Monument.",
+    "Text, poem in English, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct006634",
+    "http://lccn.loc.gov/78695230",
+    "http://www.loc.gov/item/78695230/",
+    "http://www.loc.gov/resource/g3804n.ct006634/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct006634",
+    "https://search.catalog.loc.gov/instances/a2b5101e-55bb-5e36-b2f7-7a48a2d3c158",
+    "https://www.loc.gov/item/78695230/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "eng",
+    "spa",
+    "spaeng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct006634.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78695230/\"}",
+  "dct_spatial_sm": [
+    "manhattan",
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "statue of liberty national monument",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Manhattan (New York, N.Y.)--Maps",
+    "Parks--New York (State)--New York--Maps",
+    "Statue of Liberty National Monument (N.Y. and N.J.)--Maps",
+    "United States--New Jersey--Statue of Liberty National Monument",
+    "United States--New York (State)--New York",
+    "United States--New York (State)--New York--Manhattan",
+    "United States--New York (State)--New York--Statue of Liberty National Monument"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "Estatua de la la Libertad, Monumento Nacional : NPS New York",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78695230",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

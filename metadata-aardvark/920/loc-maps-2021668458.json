@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Residentia Electoralis Brandenburgica"
+  ],
+  "dct_description_sm": [
+    "Content in Latin.",
+    "Contributors: Schultz, Johann Bernhard, died 1695 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Berlin State Library - Prussian Cultural Heritage Foundation.",
+    "Original resource extent: 1 map.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1688.",
+    "This birds-eye view map offers a detailed picture of the Berlin palace of the elector of Brandenburg as it appeared in 1688. The residence was part of a large fortress that Frederick William I (1620--88) ordered built following the end of the Thirty Years' War (1618--48) in Germany. Construction began in 1650 under the direction of the architect and engineer, Johann Gregor Memhardt (1607--78), and continued for more than a quarter of a century. The complex, also known as the Berlin Fortress, had five city gates and 13 bastions. Frederick William I was elector of Brandenburg and duke of Prussia from 1640 until his death. Known as \"the Great Elector,\" he was responsible for reforms that laid the basis for the elevation of Prussia from duchy to kingdom under his son, Frederick III, elector of Brandenburg (1657--1713), who became King Frederick I of Prussia in 1701. The map is by Johann Bernhard Schultz, a medallion maker, engineer, and cartographer from Berlin, who died in 1695.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668458",
+    "http://www.loc.gov/item/2021668458/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_07496/",
+    "http://www.loc.gov/resource/wdl.7496/",
+    "https://hdl.loc.gov/loc.wdl/wdl.7496",
+    "https://www.loc.gov/item/2021668458/"
+  ],
+  "dct_issued_s": "1688-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_07496.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/07/49/6/wdl_07496/wdl_07496.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:07:49:6:wdl_07496:00000001/full/pct:1.5625/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668458/\"}",
+  "dct_spatial_sm": [
+    "berlin",
+    "germany"
+  ],
+  "dct_subject_sm": [
+    "1688",
+    "Forts and fortifications",
+    "Germany--Berlin--Berlin"
+  ],
+  "dct_temporal_sm": [
+    "1688-01-01"
+  ],
+  "dct_title_s": "Palace of the Elector of Brandenburg.",
+  "gbl_dateRange_drsim": [
+    "[1688 TO 1688]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1688
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668458",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

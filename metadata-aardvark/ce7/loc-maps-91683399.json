@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1986--491-417/40016.\"",
+    "\"*GPO: 1986--491-417/40016.\" Panel title. Title at upper left: Map and guide. Oriented with north toward the lower left. Includes text and col. ill. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: U.S. Fish and Wildlife Service; United States. National Park Service",
+    "Includes text and col. ill.",
+    "Oriented with north toward the lower left.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : National Park Service : Fish and Wildlife Service, [1986]",
+    "Text and col. ill. on verso.",
+    "Title at upper left: Map and guide."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842a.ct008540",
+    "http://lccn.loc.gov/91683399",
+    "http://www.loc.gov/item/91683399/",
+    "http://www.loc.gov/resource/g3842a.ct008540/",
+    "https://hdl.loc.gov/loc.gmd/g3842a.ct008540",
+    "https://search.catalog.loc.gov/instances/80b957fd-633f-5e3e-a405-5237b7f7ffb7",
+    "https://www.loc.gov/item/91683399/"
+  ],
+  "dct_issued_s": "1986",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842a/ct008540.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91683399/\"}",
+  "dct_spatial_sm": [
+    "assateague island national seashore",
+    "chincoteague national wildlife refuge",
+    "maryland",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Assateague Island National Seashore (Md. and Va.)--Maps",
+    "Chincoteague National Wildlife Refuge (Va.)--Maps",
+    "United States--Maryland--Assateague Island National Seashore",
+    "United States--Virginia--Assateague Island National Seashore",
+    "United States--Virginia--Chincoteague National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "dct_title_s": "Assateague Island, Assateague Island National Seashore, Maryland and Virginia : Chincoteague, Chincoteague National Wildlife Refuge, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1986]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91683399",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

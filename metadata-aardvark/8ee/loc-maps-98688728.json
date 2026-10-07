@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Across top of map: \"Distance from New Orleans to the Pacific 1600 miles \".",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: New Orleans, Opelousas, and Great Western Railroad Company; Okelomski, F. A.",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 478",
+    "Publication statement: [New Orleans], 1853.",
+    "Relief shown by hachures.",
+    "Rough outline map of the southwestern United States showing major rivers and few important cities.",
+    "Scale 1:3,041,280."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4296p.rr004780",
+    "http://lccn.loc.gov/98688728",
+    "http://www.loc.gov/item/98688728/",
+    "http://www.loc.gov/resource/g4296p.rr004780/",
+    "https://hdl.loc.gov/loc.gmd/g4296p.rr004780",
+    "https://search.catalog.loc.gov/instances/2f923aa9-1990-56c3-83bd-da85d9051cb9",
+    "https://www.loc.gov/item/98688728/"
+  ],
+  "dct_issued_s": "1853",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd429/g4296/g4296p/rr004780.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688728/\"}",
+  "dct_spatial_sm": [
+    "southwestern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Orleans, Opelousas, and Great Western Railroad Company--Maps",
+    "Railroads--Southwestern States--Maps",
+    "United States--Southwestern States"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "dct_title_s": "Sketch showing the route of the New Orleans, Opelousas & Great Western Rail Road, J. G. Gibbes, Chief Engr., lithographie [sic] agent D. Theuret, Exange Alley, Nr. 130",
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1853
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688728",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

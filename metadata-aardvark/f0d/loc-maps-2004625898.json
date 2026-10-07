@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing wards, buildings, block numbers, lot lines/numbers, and owner's names.",
+    "Cadastral map showing wards, buildings, block numbers, lot lines/numbers, and owner's names. Imperfect: Mounted on cloth/paper backing, brittle, missing small edge/internal sections, shellacked, quartered for folding. Includes business directory (in 2 segments). Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beers, Ellis & Soule; Beers, F. W. (Frederick W.)",
+    "Imperfect: Mounted on cloth/paper backing, brittle, missing small edge/internal sections, shellacked, quartered for folding.",
+    "Includes business directory (in 2 segments).",
+    "Publication statement: New York : Beers, Ellis & Soule, [1865?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.la002330",
+    "http://lccn.loc.gov/2004625898",
+    "http://www.loc.gov/item/2004625898/",
+    "http://www.loc.gov/resource/g3804n.la002330/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.la002330",
+    "https://search.catalog.loc.gov/instances/f4d6c591-1b2b-5456-9f17-2399cce4af9a",
+    "https://www.loc.gov/item/2004625898/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/la002330.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004625898/\"}",
+  "dct_spatial_sm": [
+    "morrisania",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Business enterprises--New York (State)--New York--Directories",
+    "Landowners--New York (State)--New York--Maps",
+    "Morrisania (New York, N.Y.)--Administrative and political divisions--Maps",
+    "Morrisania (New York, N.Y.)--Maps",
+    "Real property--New York (State)--New York--Maps",
+    "United States--New York (State)--New York",
+    "United States--New York (State)--New York--Morrisania"
+  ],
+  "dct_temporal_sm": [
+    "1865",
+    "New York : Beers, Ellis & Soule, [1865?]"
+  ],
+  "dct_title_s": "Map of the town of Morrisania, Westchester Co. N.Y.",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004625898",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Longitude occidentale du méridien de Paris.\"",
+    "\"No. 78.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bellin, Jacques Nicolas, 1703-1772; France. Dépôt des cartes et plans de la marine",
+    "From the author's Hydrographie françoise. 1737-1791. v. 2.",
+    "Inset: Environs du Fort Louis à l'entree du petit cul de sac de la Guadeloupe.",
+    "LC Maps of North America, 1750-1789, 2011",
+    "Publication statement: [Paris, Dépôt général de la marine, 1791?]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. \"Longitude occidentale du méridien de Paris.\" \"No. 78.\" Seal of \"Dépôt de la marine\" on lower left corner. From the author's Hydrographie françoise. 1737-1791. v. 2. Inset: Environs du Fort Louis à l'entree du petit cul de sac de la Guadeloupe. Scale ca. 1:100,000. LC Maps of North America, 1750-1789, 2011 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:100,000.",
+    "Seal of \"Dépôt de la marine\" on lower left corner.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/75693283",
+    "http://www.loc.gov/item/75693283/",
+    "http://www.loc.gov/resource/g5070.ar201100/",
+    "https://hdl.loc.gov/loc.gmd/g5070.ar201100",
+    "https://search.catalog.loc.gov/instances/1ac26a53-055d-593a-a836-994490ced9cc",
+    "https://www.loc.gov/item/75693283/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5070/g5070/ar201100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693283/\"}",
+  "dct_spatial_sm": [
+    "galante",
+    "guadeloupe",
+    "marie",
+    "marie-galante"
+  ],
+  "dct_subject_sm": [
+    "Guadeloupe",
+    "Guadeloupe--Maps--Early works to 1800",
+    "Guadeloupe--Marie-Galante",
+    "Marie-Galante (Guadeloupe)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1971",
+    "[Paris, Dépôt général de la marine, 1791?]"
+  ],
+  "dct_title_s": "Carte réduite des isles de la Guadeloupe, Marie Galante, et les Saintes",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693283",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

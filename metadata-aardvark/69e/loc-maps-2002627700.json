@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Confidential ...\" blacked out.",
+    "\"Reconnaissance only.\"",
+    "\"Uncontrolled photo-mosaic.\"",
+    "\"Uncontrolled photo-mosaic.\" \"Reconnaissance only.\" \"Confidential ...\" blacked out. Includes index to adjoining sheets. Sheets stamped with numbers: B 96666, B 96667, B 96668, etc. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Hydrographic Office. Division of Chart Construction. Photogrammetry Branch",
+    "Includes index to adjoining sheets.",
+    "Publication statement: Washington, D.C. : The Office, 1952-",
+    "Sheets stamped with numbers: B 96666, B 96667, B 96668, etc."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2002627700",
+    "http://www.loc.gov/item/2002627700/",
+    "http://www.loc.gov/resource/gmdsetmaps.2002627700/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2002627700",
+    "https://search.catalog.loc.gov/instances/a62ad485-1975-5ed2-857d-87fc3d3647bf",
+    "https://www.loc.gov/item/2002627700/"
+  ],
+  "dct_issued_s": "1952",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:20:02:62:77:00:2002627700:cs000001r/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002627700/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "labrador",
+    "labrador (n.l.)",
+    "n.l."
+  ],
+  "dct_subject_sm": [
+    "Canada--Labrador (N.L.)",
+    "Labrador (N.L.)--Remote-sensing images"
+  ],
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "dct_title_s": "Labrador 1:50,000",
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1952]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002627700",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

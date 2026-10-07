@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Source: 1969 U.S. Geological Survey quadrangles.\"",
+    "\"Source: 1969 U.S. Geological Survey quadrangles.\" Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Hyattsville, Md. : USDA-SCS, 1977."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822c.ct007837",
+    "http://lccn.loc.gov/81690274",
+    "http://www.loc.gov/item/81690274/",
+    "http://www.loc.gov/resource/g3822c.ct007837/",
+    "https://hdl.loc.gov/loc.gmd/g3822c.ct007837",
+    "https://search.catalog.loc.gov/instances/f4eae118-5062-55ed-b0c7-1d08c6ca4320",
+    "https://www.loc.gov/item/81690274/"
+  ],
+  "dct_issued_s": "1977",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822c/ct007837.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690274/\"}",
+  "dct_spatial_sm": [
+    "chickies creek watershed",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soil moisture--Pennsylvania--Chickies Creek watershed--Maps",
+    "United States--Pennsylvania--Chickies Creek watershed"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_title_s": "Wet soils, Chickies Creek watershed, Lancaster and Lebanon Counties, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690274",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

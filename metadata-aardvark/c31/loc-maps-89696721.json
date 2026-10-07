@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1989--242-345/80186. Reprint 1989.\"",
+    "\"*GPO: 1989--242-345/80186. Reprint 1989.\" Panel title. Title at top: Cape Cod. Includes text and location map. Text and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and location map.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1989]",
+    "Text and ill. (some col.) on verso.",
+    "Title at top: Cape Cod."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3762c.ct005930",
+    "http://lccn.loc.gov/89696721",
+    "http://www.loc.gov/item/89696721/",
+    "http://www.loc.gov/resource/g3762c.ct005930/",
+    "https://hdl.loc.gov/loc.gmd/g3762c.ct005930",
+    "https://search.catalog.loc.gov/instances/c8d7c64f-38ab-5afd-aa27-abdb4a2ca9e4",
+    "https://www.loc.gov/item/89696721/"
+  ],
+  "dct_issued_s": "1989",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3762/g3762c/ct005930.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89696721/\"}",
+  "dct_spatial_sm": [
+    "cape cod national seashore",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cape Cod National Seashore (Mass.)--Maps",
+    "United States--Massachusetts--Cape Cod National Seashore"
+  ],
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "dct_title_s": "Cape Cod National Seashore, Massachusetts",
+  "gbl_dateRange_drsim": [
+    "[1989 TO 1989]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1989
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89696721",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

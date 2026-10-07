@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternative title: Nanjing, China",
+    "Nanjing, China"
+  ],
+  "dct_description_sm": [
+    "Aerial photography.",
+    "Aerial photography. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Aircraft Squadrons",
+    "Publication statement: [Washington, D.C. ] : Aircraft Squadrons, 1929."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7824n.ct003668",
+    "http://lccn.loc.gov/2012593209",
+    "http://www.loc.gov/item/2012593209/",
+    "http://www.loc.gov/resource/g7824n.ct003668/",
+    "https://hdl.loc.gov/loc.gmd/g7824n.ct003668",
+    "https://search.catalog.loc.gov/instances/cea0fdea-c60b-5524-a3ef-f69ab963163d",
+    "https://www.loc.gov/item/2012593209/"
+  ],
+  "dct_issued_s": "2009",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7824/g7824n/ct003668.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593209/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "nanjing shi"
+  ],
+  "dct_subject_sm": [
+    "China--Nanjing Shi",
+    "Nanjing Shi (China)--Remote-sensing images"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "dct_title_s": "Nanking, China",
+  "gbl_dateRange_drsim": [
+    "[2009 TO 2009]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593209",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

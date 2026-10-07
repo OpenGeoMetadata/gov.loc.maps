@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Roanoke County, Virginia"
+  ],
+  "dct_description_sm": [
+    "\"Approved Albert H. Campbell Maj Engrs in chge Top Dep D N V\"",
+    "\"Maps from the Confederate Engineer Bureau in Richmond, Va General J.F. Gilmer, Chief Engineer. Presented to the West Point Military Academy by his only daughter, Mrs J.F. Minis, Savh. Ga.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blue-line print.",
+    "Contributors: Campbell, Albert H. (Albert Henry), 1826-1899; Confederate States of America. Army. Department of Northern Virginia; Gilmer, Jeremy Francis, 1818-1883; Izard, Walter; Minis, Louisa Porter; United States Military Academy",
+    "LC Land ownership maps, 1338",
+    "Oriented with north toward right.",
+    "Publication statement: [Virginia : Chief engineer's Office D.N.V.], 1864.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows the names of some residents. Blue-line print. Oriented with north toward right. \"Maps from the Confederate Engineer Bureau in Richmond, Va General J.F. Gilmer, Chief Engineer. Presented to the West Point Military Academy by his only daughter, Mrs J.F. Minis, Savh. Ga.\" \"Approved Albert H. Campbell Maj Engrs in chge Top Dep D N V\" LC Land ownership maps, 1338 Available also through the Library of Congress Web site as a raster image.",
+    "Shows the names of some residents."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883r.la001338",
+    "http://lccn.loc.gov/2012592127",
+    "http://www.loc.gov/item/2012592127/",
+    "http://www.loc.gov/resource/g3883r.la001338/",
+    "https://hdl.loc.gov/loc.gmd/g3883r.la001338",
+    "https://search.catalog.loc.gov/instances/0eea35dd-9768-56f3-972b-42a959b48b2f",
+    "https://www.loc.gov/item/2012592127/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883r/la001338.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592127/\"}",
+  "dct_spatial_sm": [
+    "roanoke county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Virginia--Roanoke County--Maps",
+    "Roanoke County (Va.)--Maps",
+    "United States--Virginia--Roanoke County"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Map of Roanoke County, Va",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592127",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chicago, Rock Island and Pacific Railway Company; Poole Brothers",
+    "C² 29397 U.S. Copyright Office",
+    "C² 29397 U.S. Copyright Office Shows Rock Island ticket offices and stations, cable and electric street car system, and elevated system in the city. Title in Copyright record, v. 15, 1897: Birdseye view of portion of Chicago showing elevated railway system and Loop in connection with Chicago, Rock Island & Pacific and Lake Shore & Michigan Southern Railway Stations. Includes indexes to points of interest and col. ill. of \"Elevated station at the 'Rock Island' Van Buren St. station.\" Available also through the Library of Congress Web site as a raster image. PM3",
+    "Includes indexes to points of interest and col. ill. of \"Elevated station at the 'Rock Island' Van Buren St. station.\"",
+    "PM3",
+    "Publication statement: [Chicago, Ill.] : Poole Bros., c1897.",
+    "Shows Rock Island ticket offices and stations, cable and electric street car system, and elevated system in the city.",
+    "Title in Copyright record, v. 15, 1897: Birdseye view of portion of Chicago showing elevated railway system and Loop in connection with Chicago, Rock Island & Pacific and Lake Shore & Michigan Southern Railway Stations."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4104c.pm001523",
+    "http://lccn.loc.gov/84694897",
+    "http://www.loc.gov/item/84694897/",
+    "http://www.loc.gov/resource/g4104c.pm001523/",
+    "https://hdl.loc.gov/loc.gmd/g4104c.pm001523",
+    "https://search.catalog.loc.gov/instances/f31d1f20-40fe-5852-93f4-dba188598bb7",
+    "https://www.loc.gov/item/84694897/"
+  ],
+  "dct_issued_s": "1897",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410/g4104/g4104c/pm001523.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/84694897/\"}",
+  "dct_spatial_sm": [
+    "chicago",
+    "illinois",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Chicago (Ill.)--Aerial views",
+    "Railroads, Cable--Illinois--Chicago--Maps",
+    "Railroads, Elevated--Illinois--Chicago--Maps",
+    "Street-railroads--Illinois--Chicago--Maps",
+    "United States--Illinois--Chicago"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "dct_title_s": "All elevated trains in Chicago stop at the Chicago Rock Island and Pacific Railway Station, only one on the Loop",
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-84694897",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

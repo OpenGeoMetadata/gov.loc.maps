@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO:2007--330-358/00641.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Oriented with north toward the upper right.",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2007]",
+    "Relief shown by shading.",
+    "Shows canal towpath route and adjacent campsites. Does not show National Park Service property.",
+    "Shows canal towpath route and adjacent campsites. Does not show National Park Service property. Title from cover. Relief shown by shading. \"*GPO:2007--330-358/00641.\" Oriented with north toward the upper right. Text and col. ill. on cover. Available also through the Library of Congress Web site as a raster image.",
+    "Text and col. ill. on cover.",
+    "Title from cover."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842c.ct008631",
+    "http://hdl.loc.gov/loc.gmd/g3842c.ct008632",
+    "http://lccn.loc.gov/2008620533",
+    "http://www.loc.gov/item/2008620533/",
+    "http://www.loc.gov/resource/g3842c.ct008631/",
+    "http://www.loc.gov/resource/g3842c.ct008632/",
+    "https://hdl.loc.gov/loc.gmd/g3842c.ct008631",
+    "https://hdl.loc.gov/loc.gmd/g3842c.ct008632",
+    "https://search.catalog.loc.gov/instances/e1a1dc53-cde9-59a0-954e-3ec8b068228e",
+    "https://www.loc.gov/item/2008620533/"
+  ],
+  "dct_issued_s": "2007",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842c/ct008631.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008620533/\"}",
+  "dct_spatial_sm": [
+    "chesapeake",
+    "chesapeake and ohio canal",
+    "district of columbia",
+    "maryland",
+    "ohio canal",
+    "united states",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Camp sites, facilities, etc.--Chesapeake and Ohio Canal (Md. and Washington, D.C.)--Maps",
+    "Chesapeake and Ohio Canal (Md. and Washington, D.C.)--Maps",
+    "United States--District of Columbia--Chesapeake and Ohio Canal",
+    "United States--Maryland--Chesapeake and Ohio Canal"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_title_s": "Chesapeake and Ohio Canal National Historical Park, Maryland, Washington D.C., West Virginia : a historic waterway west",
+  "gbl_dateRange_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008620533",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

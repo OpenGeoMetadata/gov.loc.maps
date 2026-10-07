@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Tōkyō Atorasusha; United States. Far East Command. Intelligence Division",
+    "Originally published: Tōkyō : Tōkyō Atorasusha, Shōwa 13 [1938].",
+    "Originally published: Tōkyō : Tōkyō Atorasusha, Shōwa 13 [1938]. Reproduced in September 1948 by the Intelligence Div., EO GHQ FEC from original plates confiscated from Japanese sources. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington : the Intelligence Div. of FEC], 1948.",
+    "Reproduced in September 1948 by the Intelligence Div., EO GHQ FEC from original plates confiscated from Japanese sources."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7824b.ct001951",
+    "http://lccn.loc.gov/2006626862",
+    "http://www.loc.gov/item/2006626862/",
+    "http://www.loc.gov/resource/g7824b.ct001951/",
+    "https://hdl.loc.gov/loc.gmd/g7824b.ct001951",
+    "https://search.catalog.loc.gov/instances/9e5ad54a-1b62-52e7-bb9e-51ecf2f55c44",
+    "https://www.loc.gov/item/2006626862/"
+  ],
+  "dct_issued_s": "1948",
+  "dct_language_sm": [
+    "chi",
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7824/g7824b/ct001951.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006626862/\"}",
+  "dct_spatial_sm": [
+    "beijing",
+    "china",
+    "tianjin"
+  ],
+  "dct_subject_sm": [
+    "Beijing (China)--Maps",
+    "China--Beijing",
+    "China--Tianjin",
+    "Tianjin (China)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "dct_title_s": "Saishin Pekin shigai chizu : tsuketari Pekin Tenshin fukin chizu",
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1948]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006626862",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

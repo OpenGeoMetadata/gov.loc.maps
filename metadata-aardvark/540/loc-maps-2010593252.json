@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2007-230",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Bird's-eye view. Includes list of numbered points of interest, ill., 2 ancillary maps, and view of lakeside Duluth. LC copy conserved, mounted on paper. Available also through the Library of Congress Web site as a raster image. Vendor: Old Map Gallery Acquisitions control no. 2007-230 PM3",
+    "Contributors: American Publishing Co. (Milwaukee, Wis.)",
+    "Includes list of numbered points of interest, ill., 2 ancillary maps, and view of lakeside Duluth.",
+    "LC copy conserved, mounted on paper.",
+    "PM3",
+    "Publication statement: Milwaukee, Wis. : American Pub. Co., c[1893?]",
+    "Vendor: Old Map Gallery"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4144d.pm020370",
+    "http://lccn.loc.gov/2010593252",
+    "http://www.loc.gov/item/2010593252/",
+    "http://www.loc.gov/resource/g4144d.pm020370/",
+    "https://hdl.loc.gov/loc.gmd/g4144d.pm020370",
+    "https://search.catalog.loc.gov/instances/02df700b-223b-5132-8bd0-fba48b8a59de",
+    "https://www.loc.gov/item/2010593252/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd414/g4144/g4144d/pm020370.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010593252/\"}",
+  "dct_spatial_sm": [
+    "duluth",
+    "minnesota",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Duluth (Minn.)--Aerial views",
+    "United States--Minnesota--Duluth"
+  ],
+  "dct_temporal_sm": [
+    "1893",
+    "Milwaukee, Wis. : American Pub. Co., c[1893?]"
+  ],
+  "dct_title_s": "Perspective map of the city of Duluth, Minn",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010593252",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

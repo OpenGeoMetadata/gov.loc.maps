@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to act of Congress, in the year 1894, by G.A. Roullier, in the Office of the Librarian of Congress, at Washington D.C.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Roullier, G. A.; Welcke, Robert A.",
+    "General street map also showing sewers, water-mains, streetcar lines, railroads, fire-alarm boxes, hydrants, house-numbering system, lot lines/numbers/acreages, block numbers, planned streets, all buildings, and village boundary.",
+    "General street map also showing sewers, water-mains, streetcar lines, railroads, fire-alarm boxes, hydrants, house-numbering system, lot lines/numbers/acreages, block numbers, planned streets, all buildings, and village boundary. \"Entered according to act of Congress, in the year 1894, by G.A. Roullier, in the Office of the Librarian of Congress, at Washington D.C.\" Imperfect: Torn, missing margin section, halved, mounted on cloth backing. Includes title and statement of attribution in embellished cartouches. Available also through the Library of Congress Web site as a raster image.",
+    "Imperfect: Torn, missing margin section, halved, mounted on cloth backing.",
+    "Includes title and statement of attribution in embellished cartouches.",
+    "Publication statement: Flushing, N.Y. : G.A. Roullier, c1894"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct006606",
+    "http://lccn.loc.gov/2004625793",
+    "http://www.loc.gov/item/2004625793/",
+    "http://www.loc.gov/resource/g3804n.ct006606/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct006606",
+    "https://search.catalog.loc.gov/instances/01dd26cf-8fcb-53e4-adb9-45f236cff744",
+    "https://www.loc.gov/item/2004625793/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct006606.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004625793/\"}",
+  "dct_spatial_sm": [
+    "flushing",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Buildings--New York (State)--New York--Maps",
+    "Flushing (New York, N.Y.)--Buildings, structures, etc.--Maps",
+    "Flushing (New York, N.Y.)--Maps",
+    "Municipal services--New York (State)--New York--Maps",
+    "Real property--New York (State)--New York--Maps",
+    "United States--New York (State)--New York",
+    "United States--New York (State)--New York--Flushing"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "Map of the village of Flushing, Queens County, New York : 1894",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004625793",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

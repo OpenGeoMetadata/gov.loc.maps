@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802930 (C00473) 2-03.\"",
+    "\"Base 802930 (C00473) 2-03.\" Available also through the Library of Congress Web site as a raster image. Also issued with shaded relief.",
+    "Also issued with shaded relief.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2003]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g81982.ct000954",
+    "http://lccn.loc.gov/2003630242",
+    "http://www.loc.gov/item/2003630242/",
+    "http://www.loc.gov/resource/g81982.ct000954/",
+    "https://hdl.loc.gov/loc.gmd/g81982.ct000954",
+    "https://search.catalog.loc.gov/instances/1ce322cd-ee26-5198-81fa-59625b96aebc",
+    "https://www.loc.gov/item/2003630242/"
+  ],
+  "dct_issued_s": "2003",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g81982/g81982/ct000954.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003630242/\"}",
+  "dct_spatial_sm": [
+    "east timor",
+    "timor-leste"
+  ],
+  "dct_subject_sm": [
+    "East Timor",
+    "Timor-Leste--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_title_s": "East Timor (Timor-Leste)",
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003630242",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

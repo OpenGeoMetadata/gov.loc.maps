@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Lee's famous \"hog-snout\" line.\"",
+    "\"Lee's famous \"hog-snout\" line.\" \"Read numerically.\" Maps 1 to 4 are dated 1933 and maps 5 to 12 dated 1935. Annotated in pen-and-ink, crayon and pencil. Confederate troop positions are colored red and Union positions are blue. Call no. cited in LC Civil War maps (2nd ed.): G1292.S6S5 .R 1935 folio. Includes notes. Library of Congress. Civil War maps (2nd ed.), 592 LeGear. Atlases of the United States, 10664 Available also through the Library of Congress Web site as a raster image.",
+    "\"Read numerically.\"",
+    "Annotated in pen-and-ink, crayon and pencil. Confederate troop positions are colored red and Union positions are blue.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Call no. cited in LC Civil War maps (2nd ed.): G1292.S6S5 .R 1935 folio.",
+    "Contributors: Russell, Robert E. L.",
+    "Includes notes.",
+    "LeGear. Atlases of the United States, 10664",
+    "Library of Congress. Civil War maps (2nd ed.), 592",
+    "Maps 1 to 4 are dated 1933 and maps 5 to 12 dated 1935.",
+    "Publication statement: [Baltimore : s.n., 1933-1935]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882nm.gcw0592000",
+    "http://lccn.loc.gov/2007627344",
+    "http://www.loc.gov/item/2007627344/",
+    "http://www.loc.gov/resource/g3882nm.gcw0592000/",
+    "https://hdl.loc.gov/loc.gmd/g3882nm.gcw0592000",
+    "https://search.catalog.loc.gov/instances/0bd84c91-ea00-5c07-b6c1-59343ff294ab",
+    "https://www.loc.gov/item/2007627344/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388m/g3882m/g3882nm/gcw0592000/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007627344/\"}",
+  "dct_spatial_sm": [
+    "north anna river",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "North Anna River (Va.)--History--Civil War, 1861-1865--Maps",
+    "North Anna River, Battle of, Va",
+    "North Anna River, Battle of, Va., 1864--Maps",
+    "United States--Virginia--North Anna River"
+  ],
+  "dct_temporal_sm": [
+    "1933/1935"
+  ],
+  "dct_title_s": "The North Anna and movement from Spottsylvania [sic], May 21-26, 1864, between Lee, 50,000 and Grant, 100,000",
+  "gbl_dateRange_drsim": [
+    "[1933 TO 1935]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1933
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007627344",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

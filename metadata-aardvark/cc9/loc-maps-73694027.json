@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Keulen, Gerard van; Robert Laurie and James Whittle",
+    "Hand colored.",
+    "Includes inset of \"Plan of Fort Amsterdam\" and profiles of relief.",
+    "Publication statement: London, Laurie & Whittle, 1794.",
+    "Published in the 1795 ed. of Thomas Jefferys' West-India atlas. First published by Robert Sayer for the 1775 ed. of the same work.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Hand colored. Published in the 1795 ed. of Thomas Jefferys' West-India atlas. First published by Robert Sayer for the 1775 ed. of the same work. Three copies. Copy 1, colored in greens. Copy 2, colored in oranges. Copy 3, colored in pinks. Includes inset of \"Plan of Fort Amsterdam\" and profiles of relief. Scale ca. 1:120,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:120,000.",
+    "Three copies. Copy 1, colored in greens. Copy 2, colored in oranges. Copy 3, colored in pinks.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/73694027",
+    "http://www.loc.gov/item/73694027/",
+    "http://www.loc.gov/resource/g5180.ct009240/",
+    "http://www.loc.gov/resource/g5180.ct009241/",
+    "http://www.loc.gov/resource/g5180.ct009242/",
+    "https://hdl.loc.gov/loc.gmd/g5180.ct009240",
+    "https://hdl.loc.gov/loc.gmd/g5180.ct009241",
+    "https://hdl.loc.gov/loc.gmd/g5180.ct009242",
+    "https://search.catalog.loc.gov/instances/e3347692-f89e-53b6-89a0-629170543460",
+    "https://www.loc.gov/item/73694027/"
+  ],
+  "dct_issued_s": "1794",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5180/g5180/ct009240.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73694027/\"}",
+  "dct_spatial_sm": [
+    "curaçao",
+    "curaçao."
+  ],
+  "dct_subject_sm": [
+    "Curaçao",
+    "Curaçao--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1794"
+  ],
+  "dct_title_s": "Curaçao,",
+  "gbl_dateRange_drsim": [
+    "[1794 TO 1794]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1794
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73694027",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

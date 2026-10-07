@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Linares, Juan; Real Escuela de Navegación (Cádiz, Spain)",
+    "Depths shown by soundings.",
+    "In cartouche of Real Escuela de Navegación, Departamento de Cádiz: 1756.",
+    "LC Luso-Hispanic World, 266",
+    "Maggs number annotated in pencil in lower right margin: 299.",
+    "Mounted on cloth backing.",
+    "Oriented with north to the bottom.",
+    "Pen-and-ink and watercolor.",
+    "Prime meridian: Tenerife.",
+    "Publication statement: [1755]",
+    "Shows coast of Colombia in vicinity of Santa Marta.",
+    "Shows coast of Colombia in vicinity of Santa Marta. In cartouche of Real Escuela de Navegación, Departamento de Cádiz: 1756. Depths shown by soundings. Prime meridian: Tenerife. Oriented with north to the bottom. Watermarks: IV; and, fleur-de-lis. Pen-and-ink and watercolor. Mounted on cloth backing. Maggs number annotated in pencil in lower right margin: 299. LC Luso-Hispanic World, 266 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermarks: IV; and, fleur-de-lis."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5294s.lh000266",
+    "http://lccn.loc.gov/90682813",
+    "http://www.loc.gov/item/90682813/",
+    "http://www.loc.gov/resource/g5294s.lh000266/",
+    "https://hdl.loc.gov/loc.gmd/g5294s.lh000266",
+    "https://search.catalog.loc.gov/instances/9bd1c9b8-6b70-5d83-af3d-e49b5a9da9b7",
+    "https://www.loc.gov/item/90682813/"
+  ],
+  "dct_issued_s": "1755",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5294/g5294s/lh000266.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90682813/\"}",
+  "dct_spatial_sm": [
+    "atlantic coast",
+    "colombia",
+    "santa marta"
+  ],
+  "dct_subject_sm": [
+    "Atlantic Coast (Colombia)--Maps, Manuscript--Early works to 1800",
+    "Coasts--Colombia--Santa Marta--Maps--Early works to 1800",
+    "Colombia--Atlantic Coast",
+    "Colombia--Santa Marta",
+    "Manuscript maps--Early works to 1800",
+    "Santa Marta (Colombia)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1755"
+  ],
+  "dct_title_s": "Plano del puerto de Sta. Marta situado en la costa de Tierra Firme en 11 grs. 16 ms. de latitud N. y en la longitud de 302 grs. y 23 ms., meridiano de Tenerife",
+  "gbl_dateRange_drsim": [
+    "[1755 TO 1755]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1755
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90682813",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

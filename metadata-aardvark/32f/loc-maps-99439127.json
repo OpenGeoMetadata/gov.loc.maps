@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Confederate imprint.",
+    "Confederate imprint. Shows \"battle ground, July 18th,\" \"battle ground July 21st,\" roads, railroads, towns, and drainage. \"Blue Ridge,\" \"Thorough Fare Mountains,\" and two unnamed mountains are indicated by hachures. Troop positions are not given. Roads, railroads, bridges, and distances are described in a brief text below the map. Description derived from published bibliography. Scale ca. 1:322,000. LC Civil War Maps (2nd ed.), 568 Available also through the Library of Congress web site as raster image.",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 568",
+    "Publication statement: [S.l., 1861]",
+    "Roads, railroads, bridges, and distances are described in a brief text below the map.",
+    "Scale ca. 1:322,000.",
+    "Shows \"battle ground, July 18th,\" \"battle ground July 21st,\" roads, railroads, towns, and drainage. \"Blue Ridge,\" \"Thorough Fare Mountains,\" and two unnamed mountains are indicated by hachures. Troop positions are not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884m.cw0568000",
+    "http://lccn.loc.gov/99439127",
+    "http://www.loc.gov/item/99439127/",
+    "http://www.loc.gov/resource/g3884m.cw0568000/",
+    "https://hdl.loc.gov/loc.gmd/g3884m.cw0568000",
+    "https://search.catalog.loc.gov/instances/fb1561c3-6628-5419-9061-b4810bfec39e",
+    "https://www.loc.gov/item/99439127/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884m/cw0568000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99439127/\"}",
+  "dct_spatial_sm": [
+    "manassas region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Manassas Region (Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia--Manassas Region"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Seat of war, Manassas and its vicinity",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99439127",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

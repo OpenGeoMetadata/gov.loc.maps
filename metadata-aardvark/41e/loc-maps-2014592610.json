@@ -1,0 +1,73 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Robinson, Bucrckhardt, Jacotin & c. ; London, Charles Knight & Co., 22 Ludgate Street ; W. Hughes, 1843.\"",
+    "\"Robinson, Bucrckhardt, Jacotin & c. ; London, Charles Knight & Co., 22 Ludgate Street ; W. Hughes, 1843.\" Relief shown by contours and hachures. Shows Ottoman Empire administrative divisions, principal towns, roads, and caravan trails, Includes inset of \"(Modern) Plan of Jerusalem\". LC copy accompanied by cover page of: Maps of the Society for the Diffusion of Useful Knowledge / by the Rev. James Mickleburgh, A.M., London, Charles Knight, 22 Ludgate Street, 1847. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Burckhardt, John Lewis, 1784-1817; Charles Knight & Co; Hughes, William, 1818-1876, cartographer; Jacotin, Pierre, 1765-1827; Robinson, Edward, 1794-1863; Society for the Diffusion of Useful Knowledge (Great Britain)",
+    "Includes inset of \"(Modern) Plan of Jerusalem\".",
+    "LC copy accompanied by cover page of: Maps of the Society for the Diffusion of Useful Knowledge / by the Rev. James Mickleburgh, A.M., London, Charles Knight, 22 Ludgate Street, 1847.",
+    "Publication statement: London : Charles Knight & Co, [1843]",
+    "Relief shown by contours and hachures.",
+    "Shows Ottoman Empire administrative divisions, principal towns, roads, and caravan trails,"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2014592610",
+    "http://www.loc.gov/item/2014592610/",
+    "http://www.loc.gov/resource/g7500.hl000031/",
+    "https://hdl.loc.gov/loc.gmd/g7500.hl000031",
+    "https://search.catalog.loc.gov/instances/eb8dd08b-3b78-5a62-a1b8-4c03c4a1d971",
+    "https://www.loc.gov/item/2014592610/"
+  ],
+  "dct_issued_s": "1843",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7500:g7500:hl000031/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2014592610/\"}",
+  "dct_spatial_sm": [
+    "israel",
+    "jerusalem",
+    "jordan",
+    "lebanon",
+    "palestine",
+    "syria",
+    "turkey"
+  ],
+  "dct_subject_sm": [
+    "Israel--Jerusalem",
+    "Jerusalem--Maps",
+    "Jordan",
+    "Jordan--Maps",
+    "Lebanon",
+    "Lebanon--Maps",
+    "Palestine",
+    "Palestine--Maps",
+    "Syria",
+    "Syria--Maps",
+    "Turkey",
+    "Turkey--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1843"
+  ],
+  "dct_title_s": "Palestine, with the Hauran, and the adjacent districts",
+  "gbl_dateRange_drsim": [
+    "[1843 TO 1843]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1843
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2014592610",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Campbell, Henry R.; Kramm, Gustavus; Lehman & Duval Lithrs",
+    "Hand colored.",
+    "LC Railroad maps, 610",
+    "Map includes parts of Philadelphia and Montgomery counties. Indicates topography by hachures, drainage, roads, property owners, and part of the city street plan of Philadelphia. [From published bibliography].",
+    "Publication statement: Philadelphia, Lehman & Duval Lithrs., 1835.",
+    "Relief shown by hachures.",
+    "Scale ca. 1:26,600.",
+    "Shows the \"Columbia and Philadelphia Rail-Road located by Major John Wilson 1829.\""
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3821p.rr006100",
+    "http://lccn.loc.gov/gm70002888",
+    "http://www.loc.gov/item/gm70002888/",
+    "http://www.loc.gov/resource/g3821p.rr006100/",
+    "https://hdl.loc.gov/loc.gmd/g3821p.rr006100",
+    "https://search.catalog.loc.gov/instances/32923a6f-eeab-5128-a8ea-62fccc7efaf3",
+    "https://www.loc.gov/item/gm70002888/"
+  ],
+  "dct_issued_s": "1835",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3821/g3821p/rr006100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70002888/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Columbia-Philadelphia Railroad--Maps",
+    "Railroads--Pennsylvania--Maps",
+    "United States--Pennsylvania",
+    "West Philadelphia Rail Road Company--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1835"
+  ],
+  "dct_title_s": "Plan of the West-Philadelphia Rail-Road",
+  "gbl_dateRange_drsim": [
+    "[1835 TO 1835]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1835
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70002888",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

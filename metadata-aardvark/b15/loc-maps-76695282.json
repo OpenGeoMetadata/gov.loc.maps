@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Wanamaker, John, 1838-1922",
+    "Publication statement: [n.p.] c1917.",
+    "Scale ca. 1:400,000.",
+    "Scale ca. 1:400,000. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.ct006583",
+    "http://lccn.loc.gov/76695282",
+    "http://www.loc.gov/item/76695282/",
+    "http://www.loc.gov/resource/g3804n.ct006583/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.ct006583",
+    "https://search.catalog.loc.gov/instances/4febd0ee-7421-50b7-afa6-433a1c38923e",
+    "https://www.loc.gov/item/76695282/"
+  ],
+  "dct_issued_s": "1917",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/ct006583.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76695282/\"}",
+  "dct_spatial_sm": [
+    "new york (state)",
+    "new york metropolitan area",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Roads--New York Metropolitan Area--Maps",
+    "United States--New York (State)--New York Metropolitan Area"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "dct_title_s": "New York & vicinity: The Wanamaker diary automobile road map",
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1917]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1917
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76695282",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

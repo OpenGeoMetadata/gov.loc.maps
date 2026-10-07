@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Robert Sayer and John Bennett (Firm)",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Prime meridian: London and Ferro. Shows routes of major exploration. In lower right corner: IV. Includes charts of astronomical observations and descriptive and historic text. Scale ca. 1:16,300,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "In lower right corner: IV.",
+    "Includes charts of astronomical observations and descriptive and historic text.",
+    "Prime meridian: London and Ferro.",
+    "Publication statement: [London] 1775.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:16,300,000.",
+    "Shows routes of major exploration.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct007099",
+    "http://lccn.loc.gov/74696185",
+    "http://www.loc.gov/item/74696185/",
+    "http://www.loc.gov/resource/g3200.ct007099/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct007099",
+    "https://search.catalog.loc.gov/instances/1f7214eb-8d1a-593b-ba1a-ef6c2607549b",
+    "https://www.loc.gov/item/74696185/"
+  ],
+  "dct_issued_s": "1775",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct007099.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74696185/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)",
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)",
+    "North America",
+    "North America--Maps--Early works to 1800",
+    "World maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_title_s": "Chart, containing the coasts of California, New Albion, and Russian discoveries to the north; with the peninsula of Kamtschatka, in Asia, opposite thereto; and islands, dispersed over the Pacific Ocean, to the north of the line. North America and the West Indies, with the opposite coasts of Europe and Africa",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74696185",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

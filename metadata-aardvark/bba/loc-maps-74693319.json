@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Appears in Atlas moderne ou collection de cartes sur toutes les parties du globe terrestre. [1771-83] no. 64.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bonne, Rigobert, 1727-1794; Lattré, Jean",
+    "Covers North America from the Gulf of St. Lawrence to the Gulf of Mexico, west nearly to the Rocky Mountains.",
+    "Hand colored.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 91",
+    "Publication statement: [Paris, Chez Lattré, 1776]",
+    "Relief shown pictorially and by hachures.",
+    "Relief shown pictorially and by hachures. Appears in Atlas moderne ou collection de cartes sur toutes les parties du globe terrestre. [1771-83] no. 64. Covers North America from the Gulf of St. Lawrence to the Gulf of Mexico, west nearly to the Rocky Mountains. Hand colored. Scale ca. 1:10,500,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 91 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:10,500,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar009101",
+    "http://hdl.loc.gov/loc.gmd/g3300.ar009102",
+    "http://lccn.loc.gov/74693319",
+    "http://www.loc.gov/item/74693319/",
+    "http://www.loc.gov/resource/g3300.ar009101/",
+    "http://www.loc.gov/resource/g3300.ar009102/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar009101",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar009102",
+    "https://search.catalog.loc.gov/instances/6d44721b-c5b1-5179-8bda-660b2fdee1fa",
+    "https://www.loc.gov/item/74693319/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar009101.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693319/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "Canada IIe. feuille, XXXV, B 32",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693319",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

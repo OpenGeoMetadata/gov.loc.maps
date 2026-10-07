@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"291 E 526.\"",
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Mobile District",
+    "Photocopy; blue line print.",
+    "Photocopy; blue line print. \"291 E 526.\" Scale ca. 1:510,000. Available also through the Library of Congress Web site as a raster image. AACR2: 651/1",
+    "Publication statement: Mobile [1974?]",
+    "Scale ca. 1:510,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/76691430",
+    "http://www.loc.gov/item/76691430/",
+    "http://www.loc.gov/resource/g3982t.ct010826/",
+    "https://hdl.loc.gov/loc.gmd/g3982t.ct010826",
+    "https://search.catalog.loc.gov/instances/7844168a-a649-5771-9416-3eaf55d0eae1",
+    "https://www.loc.gov/item/76691430/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3982/g3982t/ct010826.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76691430/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "mississippi",
+    "tennessee",
+    "tennessee-tombigbee waterway",
+    "tombigbee waterway",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Tennessee-Tombigbee Waterway (Ala. and Miss.)--Maps",
+    "United States--Alabama--Tennessee-Tombigbee Waterway",
+    "United States--Mississippi--Tennessee-Tombigbee Waterway"
+  ],
+  "dct_temporal_sm": [
+    "1974",
+    "Mobile [1974?]"
+  ],
+  "dct_title_s": "Tennessee-Tombigbee Waterway",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76691430",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Gulf of Maine surficial sediment data"
+  ],
+  "dct_description_sm": [
+    "Also available via Internet from the USGS web site. Address as of 10/10/03: http://pubs.usgs.gov/of/2003/of03-001/; current access is available via PURL.",
+    "Contains a compilation of over 49,000 textural data and lithologic descriptions generated on surficial sediment samples. Many of the 42 layers were compiled from gray literature or unpublished sources and have not been available in digital form prior to this publication. These data layers have been converted to the ESRI shapefile format for use in a GIS.",
+    "Contributors: Coastal and Marine Geology Program (Geological Survey). Woods Hole Field Center.; Geological Survey (U.S.); Poppe, Lawrence J.",
+    "Includes bibliographical references.",
+    "Metadata for the individual data layers are provided in three versions (HTML, FAQ, text).",
+    "Publication statement: Woods Hole, MA : Woods Hole Field Center, U.S. Geological Survey, Coastal and Marine Geology Program, 2003.",
+    "Shipping list no. 2003-0029-E.",
+    "System requirements: PC with CD-ROM drive, Windows 98/NT/2000/XP, or Macintosh operating systems. Access is via HyperText Markup Language (HTML) used by the World Wide Web (WWW), using Web browsers (i.e., Microsoft Internet Explorer 4.0 or later, Netscape 4.0 or later). Geographic information systems (e.g. ArcView, ArcExplorer, MapInfo), must have the ability to handle data in Environmental Systems Research Institute, Inc. (ESRI) \"shapefile\" format. In addition, sediment data and sample identifiers are also supplied in flat-file format and Microsoft Excel spreadsheet files.",
+    "Title from container."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2003683591",
+    "http://purl.access.gpo.gov/GPO/LPS35833",
+    "http://www.loc.gov/item/2003683591/",
+    "https://www.loc.gov/item/2003683591/"
+  ],
+  "dct_issued_s": "2003",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2003683591/\"}",
+  "dct_spatial_sm": [
+    "georges bank",
+    "gulf of maine"
+  ],
+  "dct_subject_sm": [
+    "Maps--Digital",
+    "Marine sediments--Georges Bank--Maps",
+    "Marine sediments--Maine, Gulf of--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_title_s": "Surficial sediment data from the Gulf of Maine, Georges Bank, and vicinity, a GIS compilation",
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003683591",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

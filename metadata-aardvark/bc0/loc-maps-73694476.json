@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Appears in Il Gazzettiere americano, 1763, v. 1 and Atlante dell' America, 1777.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Pazzi, Giuseppe; Vanni, Violante, approximately 1732-1775 or 1776",
+    "LC Maps of North America, 1750-1789, 1640",
+    "Oriented with north to the right.",
+    "Publication statement: [n.p., 1763?]",
+    "Relief shown pictorially. Soundings shown in feet.",
+    "Relief shown pictorially. Soundings shown in feet. Oriented with north to the right. Appears in Il Gazzettiere americano, 1763, v. 1 and Atlante dell' America, 1777. Scale ca. 1:47,000. LC Maps of North America, 1750-1789, 1640 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:47,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3934s.ar164000",
+    "http://lccn.loc.gov/73694476",
+    "http://www.loc.gov/item/73694476/",
+    "http://www.loc.gov/resource/g3934s.ar164000/",
+    "https://hdl.loc.gov/loc.gmd/g3934s.ar164000",
+    "https://search.catalog.loc.gov/instances/beca13b7-d715-56e0-aa5f-920ebd24609e",
+    "https://www.loc.gov/item/73694476/"
+  ],
+  "dct_language_sm": [
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3934/g3934s/ar164000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73694476/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "saint augustine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Harbors--Florida--Saint Augustine--Maps--Early works to 1800",
+    "Saint Augustine (Fla.)--Maps--Early works to 1800",
+    "United States--Florida--Saint Augustine"
+  ],
+  "dct_temporal_sm": [
+    "1763",
+    "[n.p., 1763?]"
+  ],
+  "dct_title_s": "Piano della città, e porto di Sant'. Agostino",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73694476",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1992--312-248/40079. Reprint 1992.\"",
+    "\"*GPO: 1992--312-248/40079. Reprint 1992.\" Relief shown by shading. Panel title. Title in upper margin: Gettysburg. Includes text and descriptive index to points of interest. Text, map of headquarters vicinity, 3 troop-position maps, and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and descriptive index to points of interest.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1992]",
+    "Relief shown by shading.",
+    "Text, map of headquarters vicinity, 3 troop-position maps, and ill. (some col.) on verso.",
+    "Title in upper margin: Gettysburg."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822g.ct007873",
+    "http://lccn.loc.gov/92683620",
+    "http://www.loc.gov/item/92683620/",
+    "http://www.loc.gov/resource/g3822g.ct007873/",
+    "https://hdl.loc.gov/loc.gmd/g3822g.ct007873",
+    "https://search.catalog.loc.gov/instances/a0ad94bd-97f6-5c54-9405-0b3c96fd5fa8",
+    "https://www.loc.gov/item/92683620/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822g/ct007873.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92683620/\"}",
+  "dct_spatial_sm": [
+    "gettysburg national military park",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gettysburg National Military Park (Pa.)--Maps",
+    "United States--Pennsylvania--Gettysburg National Military Park"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Gettysburg National Military Park, Pennsylvania, official map and guide",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92683620",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

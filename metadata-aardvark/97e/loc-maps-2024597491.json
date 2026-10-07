@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by manuscript tracing, adhered at top margin to map recto of sheet 4, showing angles of fire of the batteries.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Black and red pen-and-ink.",
+    "Contributors: Craighill, Wm. P. (William Price), 1833-1909, contributor; Turtle, Thomas, cartographer",
+    "Includes 4 cross-sections.",
+    "Mounted on cloth.",
+    "North oriented towards the lower left.",
+    "Publication statement: [Washington, D.C.] : Lieut. Thomas Turtle, 1877.",
+    "Relief shown by contours.",
+    "Relief shown by contours. North oriented towards the lower left. Black and red pen-and-ink. Includes 4 cross-sections. Mounted on cloth. Accompanied by manuscript tracing, adhered at top margin to map recto of sheet 4, showing angles of fire of the batteries. Available also through the Library of Congress Web site as a raster image. vcFY24",
+    "vcFY24"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597491",
+    "http://www.loc.gov/item/2024597491/",
+    "http://www.loc.gov/resource/g3842f.ct006205/",
+    "http://www.loc.gov/resource/g3842f.ct006206/",
+    "https://hdl.loc.gov/loc.gmd/g3842f.ct006205",
+    "https://hdl.loc.gov/loc.gmd/g3842f.ct006206",
+    "https://search.catalog.loc.gov/instances/6e037ace-324a-5c8c-89e8-9b84f31decf3",
+    "https://www.loc.gov/item/2024597491/"
+  ],
+  "dct_issued_s": "1877",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd384:g3842:g3842f:ct006205/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597491/\"}",
+  "dct_spatial_sm": [
+    "fort washington",
+    "fort washington (md. : fort)",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Washington (Md. : Fort)--Maps",
+    "United States--Maryland--Fort Washington (Md. : Fort)"
+  ],
+  "dct_temporal_sm": [
+    "1877"
+  ],
+  "dct_title_s": "Fort Washington, Maryland : plans and sections of new batteries",
+  "gbl_dateRange_drsim": [
+    "[1877 TO 1877]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1877
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597491",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

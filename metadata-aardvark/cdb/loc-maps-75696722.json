@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright by Bradley-Brink Co. 1913.\"",
+    "\"Copyright by Bradley-Brink Co. 1913.\" Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1059 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1",
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bradley-Brink Co; Bureau of Engraving, Inc. (Minneapolis, Minn.)",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 1059",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [Minneapolis] Bureau of Engraving, c1913."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4124s.pm010590",
+    "http://lccn.loc.gov/75696722",
+    "http://www.loc.gov/item/75696722/",
+    "http://www.loc.gov/resource/g4124s.pm010590/",
+    "https://hdl.loc.gov/loc.gmd/g4124s.pm010590",
+    "https://search.catalog.loc.gov/instances/fec18b0a-8d81-5335-8e78-70e9b560d8ba",
+    "https://www.loc.gov/item/75696722/"
+  ],
+  "dct_issued_s": "1913",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4124/g4124s/pm010590.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75696722/\"}",
+  "dct_spatial_sm": [
+    "superior",
+    "united states",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "Superior (Wis.)",
+    "United States--Wisconsin--Superior"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "dct_title_s": "Bird's eye view Superior, Wisconsin \"the New Steel Center.\"",
+  "gbl_dateRange_drsim": [
+    "[1913 TO 1913]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1913
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75696722",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

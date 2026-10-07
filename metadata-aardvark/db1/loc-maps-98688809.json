@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Southern Maryland Railroad",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 566",
+    "LC also has an edition c1881 which includes a statement of advantages for trade on the line.",
+    "Middle Atlantic states showing relief by hachures, drainage, cities and towns, counties, and the railroad network with emphasis on the main line.",
+    "Publication statement: New York, [1881]",
+    "Scale 1:760,320."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g370931p.rr005660",
+    "http://lccn.loc.gov/98688809",
+    "http://www.loc.gov/item/98688809/",
+    "http://www.loc.gov/resource/g370931p.rr005660/",
+    "https://hdl.loc.gov/loc.gmd/g370931p.rr005660",
+    "https://search.catalog.loc.gov/instances/0d619cdc-401e-5e9a-aa19-3733e8ae0ed9",
+    "https://www.loc.gov/item/98688809/"
+  ],
+  "dct_issued_s": "1881",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g370931/g370931p/rr005660.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688809/\"}",
+  "dct_spatial_sm": [
+    "atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Atlantic States--Maps",
+    "Southern Maryland Railroad",
+    "United States--Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1881"
+  ],
+  "dct_title_s": "Map showing the Southern Maryland Railroad and its connections north, south, east, and west",
+  "gbl_dateRange_drsim": [
+    "[1881 TO 1881]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1881
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688809",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

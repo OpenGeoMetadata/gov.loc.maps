@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ruhl, Moritz, cartographer, publisher",
+    "LC copy accompanied by photocopy of verso.",
+    "LC copy imperfect: torn along margins and fold line.",
+    "Publication statement: Leipzig : Verlag von Moritz Ruhl, [1887?]",
+    "Shows the elections results by districts for the 1887 Reichstag election.",
+    "Shows the elections results by districts for the 1887 Reichstag election. Title from panel. LC copy accompanied by photocopy of verso. LC copy imperfect: torn along margins and fold line. Available also through the Library of Congress Web site as a raster image.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018585556",
+    "http://www.loc.gov/item/2018585556/",
+    "http://www.loc.gov/resource/g6081f.ct010992/",
+    "https://hdl.loc.gov/loc.gmd/g6081f.ct010992",
+    "https://search.catalog.loc.gov/instances/7a107448-93d0-47f5-82d1-0c4c0494080e",
+    "https://www.loc.gov/item/2018585556/"
+  ],
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd6:g6081:g6081f:ct010992/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018585556/\"}",
+  "dct_spatial_sm": [
+    "germany"
+  ],
+  "dct_subject_sm": [
+    "Election districts--Germany--Maps",
+    "Germany",
+    "Germany.--Reichstag--Elections, 1887--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1887",
+    "Leipzig : Verlag von Moritz Ruhl, [1887?]"
+  ],
+  "dct_title_s": "Karte über den Ausfall der am 21. Februar 1887 erfolgten Deutschen Reichstagswahlen",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018585556",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

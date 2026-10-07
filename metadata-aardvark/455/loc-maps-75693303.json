@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"58352.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, 1970]",
+    "Scale 1:32,000,000.",
+    "Shows radial distances.",
+    "Shows radial distances. \"58352.\" Scale 1:32,000,000. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3201b.ct002678",
+    "http://lccn.loc.gov/75693303",
+    "http://www.loc.gov/item/75693303/",
+    "http://www.loc.gov/resource/g3201b.ct002678/",
+    "https://hdl.loc.gov/loc.gmd/g3201b.ct002678",
+    "https://search.catalog.loc.gov/instances/42c67fe9-680c-5075-8250-747feb09c82a",
+    "https://www.loc.gov/item/75693303/"
+  ],
+  "dct_issued_s": "1970",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201b/ct002678.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693303/\"}",
+  "dct_spatial_sm": [
+    "earth",
+    "france",
+    "paris"
+  ],
+  "dct_subject_sm": [
+    "Azimuthal equidistant projection (Cartography)--Maps",
+    "Earth",
+    "Paris (France)--Distances, etc.--Maps",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "dct_title_s": "Azimuthal equidistant projection centered on Paris, 48⁰52ʹN., 2⁰20ʹE. 3-70",
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1970]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1970
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693303",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Lang & Laing Lith",
+    "Description derived from published bibliography.",
+    "General maps showing roads, railroads, rivers, and place names.",
+    "General maps showing roads, railroads, rivers, and place names. LC copy has annotations in pencil. Description derived from published bibliography. Scale ca. 1:200,000 and 1:400,000. LC Civil War Maps (2nd ed.), 508.2 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 508.2",
+    "LC copy has annotations in pencil.",
+    "Publication statement: New York, Lang & Laing, [1861-1865?]",
+    "Scale ca. 1:200,000 and 1:400,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881s.cw0508200",
+    "http://lccn.loc.gov/99448896",
+    "http://www.loc.gov/item/99448896/",
+    "http://www.loc.gov/resource/g3881s.cw0508200/",
+    "https://hdl.loc.gov/loc.gmd/g3881s.cw0508200",
+    "https://search.catalog.loc.gov/instances/ed9e6ce3-1bbd-5b9a-972f-532ecd11acf8",
+    "https://www.loc.gov/item/99448896/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881s/cw0508200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448896/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--History--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1861/1865",
+    "New York, Lang & Laing, [1861-1865?]"
+  ],
+  "dct_title_s": "Country between Washington & Manassas Junction [and] Topographical map of the country between Fortress Monroe & Richmond",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448896",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

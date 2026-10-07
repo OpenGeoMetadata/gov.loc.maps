@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 37-83C.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Horsburgh, James; Walker, J.",
+    "Hand drawn copy of printed original \"Published according to Act of Parliament by James Horsburgh, 1st Jany. 1806.\" Annotated in a different hand to show the track of the \"Brig. Macedonian of Boston ... Oct. 1820.\"",
+    "Includes \"General description\" and information on \"Probable dangers not marked in the chart.\"",
+    "Publication statement: [1806?]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. Hand drawn copy of printed original \"Published according to Act of Parliament by James Horsburgh, 1st Jany. 1806.\" Annotated in a different hand to show the track of the \"Brig. Macedonian of Boston ... Oct. 1820.\" Includes \"General description\" and information on \"Probable dangers not marked in the chart.\" Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 37-83C. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g9237s.ct004741",
+    "http://lccn.loc.gov/84696453",
+    "http://www.loc.gov/item/84696453/",
+    "http://www.loc.gov/resource/g9237s.ct004741/",
+    "https://hdl.loc.gov/loc.gmd/g9237s.ct004741",
+    "https://search.catalog.loc.gov/instances/627b10f1-dca1-5959-a827-a955d9c8777d",
+    "https://www.loc.gov/item/84696453/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd9/g9237/g9237s/ct004741.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/84696453/\"}",
+  "dct_spatial_sm": [
+    "asia",
+    "pacific coast",
+    "south china sea"
+  ],
+  "dct_subject_sm": [
+    "Asia--Pacific Coast",
+    "Manuscript maps",
+    "Nautical charts--South China Sea",
+    "Pacific Coast (Asia)--Maps",
+    "Pacific Coast (Asia)--Maps, Manuscript",
+    "South China Sea"
+  ],
+  "dct_temporal_sm": [
+    "1820",
+    "[1806?]"
+  ],
+  "dct_title_s": "China Sea",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-84696453",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

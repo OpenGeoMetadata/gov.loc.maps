@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"PIN:071754-000.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Center of Military History",
+    "Panel title.",
+    "Publication statement: [Washington, D.C. : Center of Military History, 1993?]",
+    "Shows World-War-II Normandy invasion routes.",
+    "Shows World-War-II Normandy invasion routes. Panel title. Title at upper left: Normandy Invasion. Text, 2 local maps, and ill. (some col.) on verso. \"PIN:071754-000.\" Available also through the Library of Congress Web site as a raster image.",
+    "Text, 2 local maps, and ill. (some col.) on verso.",
+    "Title at upper left: Normandy Invasion."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5833n.ct001239",
+    "http://lccn.loc.gov/94681943",
+    "http://www.loc.gov/item/94681943/",
+    "http://www.loc.gov/resource/g5833n.ct001239/",
+    "https://hdl.loc.gov/loc.gmd/g5833n.ct001239",
+    "https://search.catalog.loc.gov/instances/55256278-6867-5391-b6d2-d18638d21870",
+    "https://www.loc.gov/item/94681943/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5833/g5833n/ct001239.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94681943/\"}",
+  "dct_spatial_sm": [
+    "france",
+    "normandy"
+  ],
+  "dct_subject_sm": [
+    "Coasts--France--Normandy--Maps",
+    "France--Normandy",
+    "World War, 1939-1945--Campaigns--France--Normandy--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1944",
+    "[Washington, D.C. : Center of Military History, 1993?]"
+  ],
+  "dct_title_s": "D-Day the 6th of June : Normandy 1944",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94681943",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

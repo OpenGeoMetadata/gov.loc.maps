@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Magnus, Charles",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 14.35",
+    "Publication statement: [S.l. 1861]",
+    "Scale ca. 1:5,800,000.",
+    "This map was originally published as an inset on Charles Magnus's Complete Map of the Rail Roads and Water Courses, in the United States & Canada (see Civil War Maps entry no 14.33). Indicated are railroads linking New York and St. Louis, but military movements are not depicted.",
+    "This map was originally published as an inset on Charles Magnus's Complete Map of the Rail Roads and Water Courses, in the United States & Canada (see Civil War Maps entry no 14.33). Indicated are railroads linking New York and St. Louis, but military movements are not depicted. Description derived from published bibliography. Scale ca. 1:5,800,000. LC Civil War Maps (2nd ed.), 14.35 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.cw0014350",
+    "http://lccn.loc.gov/99447037",
+    "http://www.loc.gov/item/99447037/",
+    "http://www.loc.gov/resource/g3701p.cw0014350/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.cw0014350",
+    "https://search.catalog.loc.gov/instances/e26d7479-d208-5b8c-a547-95913fa28a29",
+    "https://www.loc.gov/item/99447037/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/cw0014350.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447037/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Map of northern military movements: between New York & St. Louis",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447037",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title: Amistad",
+    "Amistad"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 2002--491-282/40282. Reprint 2002.\"",
+    "\"*GPO: 2002--491-282/40282. Reprint 2002.\" Includes text, location map, inset, and Diablo East detail map. \"Do not use this map for navigation.\" Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image. English. Legend and table also in Spanish.",
+    "\"Do not use this map for navigation.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "English. Legend and table also in Spanish.",
+    "Includes text, location map, inset, and Diablo East detail map.",
+    "Publication statement: [Washington] : The Service, [2002]",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2002630361",
+    "http://www.loc.gov/item/2002630361/",
+    "http://www.loc.gov/resource/g4032a.ct011326/",
+    "https://hdl.loc.gov/loc.gmd/g4032a.ct011326",
+    "https://search.catalog.loc.gov/instances/4fecb51f-5e04-5480-a5ee-815c5d0e6e96",
+    "https://www.loc.gov/item/2002630361/"
+  ],
+  "dct_issued_s": "2002",
+  "dct_language_sm": [
+    "eng",
+    "engspa",
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032a/ct011326.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002630361/\"}",
+  "dct_spatial_sm": [
+    "amistad national recreation area",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Amistad National Recreation Area (Tex.)--Maps",
+    "United States--Texas--Amistad National Recreation Area"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "dct_title_s": "Amistad National Recreation Area, Texas",
+  "gbl_dateRange_drsim": [
+    "[2002 TO 2002]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002630361",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

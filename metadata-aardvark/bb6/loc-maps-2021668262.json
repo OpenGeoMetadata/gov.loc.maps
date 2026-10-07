@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "历代地理指掌图"
+  ],
+  "dct_description_sm": [
+    "Content in Chinese.",
+    "Contributors: Zhao, Liangfu Contributor",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Li dai di li zhi zhang tu (Handy geographical maps through the ages) is the earliest existing historical atlas of China, first printed during the Song dynasty. This edition was printed during the Ming, but the text has been changed in places to make it look like an older, Song edition. Exactly when and by whom the original work were made are unclear. The original inscription reads \"Compiled by Su Shi of the Song dynasty.\" But the inscription is undated and the work is obviously not by Su Shi (1037-1101), as was recognized already during the Song dynasty, specifically in Juan 138 of Zhuzi yu lei (Analects of Zhuzi), a famous 12th-century work. In Juan 6 of his work Liangxi man zhi (Notes of Liangxi) the Southern Song scholar Fei Gun provided more detailed information about the atlas, noting that the work contains a \"map of established and abolished prefectures and counties during the dynasty.\" Some of the prefectures depicted in the atlas were abolished after the Chongning reign (1102-6) and during the Jianyan (1127-30) and Shaoxing (1131-62) eras of the Southern Song, thereby proving that the work could not have been by Su Shi. The simple writing in the atlas also differs from Su Shi's unrestrained and exuberant style. Moreover, Si ku quan shu (The complete library of the four treasures) did not include this work, although it was listed in the geography section of Si ku cun mu (Catalog of books not included in the general catalog of the Si ku Collection). The edition presented here was supplemented with additions by Zhao Liangfu of the Southern Song. At the heading of juan 1 is a script which reads: \"By Zhao Liangfu, Maode, of Junyi [present-day Kaifeng, Henan], at his studio Jingzhitang, on the 15th day of the first month of the 12th year of Chunxi (1185).\" This is followed by a preface attributed to Su Shi, followed by the table of contents. The work begins with Diku, one of the five legendary emperors, and ends with the Song dynasty. It has a total of 44 maps. Each map has a title and is accompanied by explanatory text. For each dynasty there is at least one map; for some there are more, up to five maps. The first two maps are \"Summary of Chinese and Non-Chinese Territories from the Past to the Present\" and \"Names of Mountains and Rivers from the Past to the Present.\" They are followed by maps of the nine regions of Emperor Diku, 12 regions of Yushun, and, at the end, the territories beyond Chinese civilization during the Song dynasty. The last map was originally entitled \"Map of Established and Abolished Prefectures and Counties during the Current Imperial Dynasty.\" Li dai di li zhi zhang tu went through a number of printings during the Song, but most surviving editions are from the Ming, in which the term \"current imperial dynasty\" is changed to \"Song dynasty.\" This copy also bears such changes. This is one of two Ming editions in the National Central Library; the other is a reprint of this copy. This work has no juan designation. The numbering of the pages is continuous, for a total of 127 leaves, including maps, but excluding the cover and protective wraps. At the end of this work is an essay in five leaves, Li dai di li zhi zhang tu zong lun (Introduction to handy geographical maps through the ages). The prefaces, table of contents, and the first 22 maps with texts are presented here.",
+    "Original resource at: National Central Library.",
+    "Publication statement: Kaifeng, Henan : Zhao Liangfu, [1368 to 1644]",
+    "Title devised, in English, by Library staff.",
+    "Title revised per Asian Division.--cc28 2023-01-06"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668262",
+    "http://www.loc.gov/item/2021668262/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_02961/",
+    "http://www.loc.gov/resource/wdl.2961/",
+    "https://hdl.loc.gov/loc.wdl/wdl.2961",
+    "https://www.loc.gov/item/2021668262/"
+  ],
+  "dct_issued_s": "1368",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_02961.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/02/96/1/wdl_02961/wdl_02961.pdf\"}, {\"label\": \"ZIP: wdl_02961.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/02/96/1/wdl_02961/wdl_02961.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:96:1:wdl_02961:00011/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668262/\"}",
+  "dct_spatial_sm": [
+    "china"
+  ],
+  "dct_subject_sm": [
+    "1368 to 1644",
+    "China",
+    "Historical geography"
+  ],
+  "dct_temporal_sm": [
+    "1368"
+  ],
+  "dct_title_s": "Li dai di li zhi zhang tu",
+  "gbl_dateRange_drsim": [
+    "[1368 TO 1368]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1368
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668262",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

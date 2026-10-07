@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1983--361-609/426. Reprint 1983.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Covers central business district and federal enclave.",
+    "Covers central business district and federal enclave. Selected buildings shown pictorially. \"*GPO: 1983--361-609/426. Reprint 1983.\" Panel title. Place-names in English. Title at upper left: Washington, DC. Includes text, directory to points of interest, and col. ill. Text, tourist information, region map, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image. DCP",
+    "DCP",
+    "Includes text, directory to points of interest, and col. ill.",
+    "Panel title.",
+    "Place-names in English.",
+    "Publication statement: [Washington, D.C.] : The Service, [1983]",
+    "Selected buildings shown pictorially.",
+    "Text, tourist information, region map, and col. ill. on verso.",
+    "Title at upper left: Washington, DC."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851e.ct004618",
+    "http://lccn.loc.gov/91683050",
+    "http://www.loc.gov/item/91683050/",
+    "http://www.loc.gov/resource/g3851e.ct004618/",
+    "https://hdl.loc.gov/loc.gmd/g3851e.ct004618",
+    "https://search.catalog.loc.gov/instances/d1cc8a7a-7340-5563-964e-aba4024fbe27",
+    "https://www.loc.gov/item/91683050/"
+  ],
+  "dct_issued_s": "1983",
+  "dct_language_sm": [
+    "eng",
+    "ita",
+    "itaeng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct004618.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91683050/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington region"
+  ],
+  "dct_subject_sm": [
+    "Central business districts--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Region",
+    "Washington (D.C.)--Maps",
+    "Washington Region--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "dct_title_s": "Benvenuti a Washington",
+  "gbl_dateRange_drsim": [
+    "[1983 TO 1983]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1983
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91683050",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

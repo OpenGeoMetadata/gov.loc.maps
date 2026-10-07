@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to act of Congress in the year 1890 by Brice and Smith in the office of Librarian of Congress.\"",
+    "\"Entered according to act of Congress in the year 1890 by Brice and Smith in the office of Librarian of Congress.\" LC copy hand colored and mounted on linen. LC Land ownership maps, 1428 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brice and Smith; Welcke, Robert A.",
+    "LC Land ownership maps, 1428",
+    "LC copy hand colored and mounted on linen.",
+    "Publication statement: La Crosse, Wis. : Brice and Smith, 1890.; N.Y. : Robert A. Welcke, Photo-Lith"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4123l.la001428",
+    "http://lccn.loc.gov/2012593191",
+    "http://www.loc.gov/item/2012593191/",
+    "http://www.loc.gov/resource/g4123l.la001428/",
+    "https://hdl.loc.gov/loc.gmd/g4123l.la001428",
+    "https://search.catalog.loc.gov/instances/fa3194ad-5add-5f42-9a30-a080ac0f2874",
+    "https://www.loc.gov/item/2012593191/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd412/g4123/g4123l/la001428.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593191/\"}",
+  "dct_spatial_sm": [
+    "la crosse county",
+    "united states",
+    "wisconsin"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Wisconsin--La Crosse County--Maps",
+    "Real property--Wisconsin--La Crosse County--Maps",
+    "United States--Wisconsin--La Crosse County"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Map of the county of La Crosse, Wisconsin",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593191",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

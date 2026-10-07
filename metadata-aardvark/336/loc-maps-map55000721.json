@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by partial index (on sheet 22 x 28 cm.).",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service, cartographer",
+    "Includes various editions of some sheets.",
+    "Publication statement: Washington, D.C. : Army Map Service, Corps of Engineers,",
+    "Relief shown by contours, shading, form lines, and spot heights. Depths shown by contours.",
+    "Relief shown by contours, shading, form lines, and spot heights. Depths shown by contours. Includes various editions of some sheets. Accompanied by partial index (on sheet 22 x 28 cm.). Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8320m.gct00173",
+    "http://lccn.loc.gov/map55000721",
+    "http://www.loc.gov/item/map55000721/",
+    "http://www.loc.gov/resource/g8320m.gct00173/",
+    "https://hdl.loc.gov/loc.gmd/g8320m.gct00173",
+    "https://search.catalog.loc.gov/instances/6dafc408-1436-5935-916c-9b078ca4e5d4",
+    "https://www.loc.gov/item/map55000721/"
+  ],
+  "dct_issued_s": "1954",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8m/g8320m/g8320m/gct00173/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/map55000721/\"}",
+  "dct_spatial_sm": [
+    "africa",
+    "africa, eastern",
+    "eastern"
+  ],
+  "dct_subject_sm": [
+    "Africa, Eastern",
+    "Africa, Eastern--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "dct_title_s": "East Africa 1:250,000",
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1954]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map55000721",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

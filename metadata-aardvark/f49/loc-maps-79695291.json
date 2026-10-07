@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"J.N. Mauborgne, a former professor of geography in Paris, created this \"geographical game of the French Republic\" in honor of the government of the National Convention during the French Revolution. Mauborgne's game involves traveling around republican France, which was divided into 83 \"departments,\" the new unit of territorial administration that the Revolution introduced to replace the much larger historical provinces. Each space on the map shows a different department with its departmental capital, or chef-lieu. Players move counter-clockwise about the board from department to department, ending on the Mediterranean island of Corsica, which is draped in the words \"liberty\" and \"equality\" and crowned by a Phrygian bonnet dangling on a pike. The game board also features, in the upper left hand corner, an inset map of France's Caribbean colony of Saint-Domingue and numerous Gallic roosters, which the Revolution transformed into a popular national image.\" World Digital Library.",
+    "AACR2: 110; 651/1; 650/2; 650/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Consists of maps of the departments of France in a spiral arrangement designed as a game.",
+    "Contributors: Basset (Firm); Mauborgne, J. N.",
+    "Hand colored.",
+    "Includes text of game rules and indexed table of administrative divisions.",
+    "Insets: Isle St. Domingue.--Comtat Venessain avant sa réunion à la France.--La France divisiée en LXXXIII départemen[t]s avec les chefs-lieux.",
+    "Publication statement: Paris : Chez Basset, [1795?]",
+    "Relief shown pictorially on some maps.",
+    "Scales vary.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5831f.ct001461",
+    "http://lccn.loc.gov/79695291",
+    "http://www.loc.gov/item/79695291/",
+    "http://www.loc.gov/resource/g5831f.ct001461/",
+    "https://hdl.loc.gov/loc.gmd/g5831f.ct001461",
+    "https://search.catalog.loc.gov/instances/0f57615c-8212-57ab-b599-4a651830a8f0",
+    "https://www.loc.gov/item/79695291/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5831/g5831f/ct001461.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79695291/\"}",
+  "dct_spatial_sm": [
+    "france"
+  ],
+  "dct_subject_sm": [
+    "Board games--Maps--Early works to 1800",
+    "France",
+    "France--Administrative and political divisions--Maps--Early works to 1800",
+    "Geographical recreations--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1795",
+    "Paris : Chez Basset, [1795?]"
+  ],
+  "dct_title_s": "Jeu géographique de la République Française : présenté à la Convention Nationale",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79695291",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

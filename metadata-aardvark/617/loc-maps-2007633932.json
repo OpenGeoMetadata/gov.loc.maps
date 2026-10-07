@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Opens April 30th, 1904; closes December 1st, 1904.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brown, W. J., del; Carson, John, del",
+    "Indicates individual pavilions.",
+    "Indicates individual pavilions. \"Opens April 30th, 1904; closes December 1st, 1904.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [S.l. : s.n.] , 1904."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4164s.ct002185",
+    "http://lccn.loc.gov/2007633932",
+    "http://www.loc.gov/item/2007633932/",
+    "http://www.loc.gov/resource/g4164s.ct002185/",
+    "https://hdl.loc.gov/loc.gmd/g4164s.ct002185",
+    "https://search.catalog.loc.gov/instances/530f2af6-e2bf-5d1d-879f-9702b167f7ba",
+    "https://www.loc.gov/item/2007633932/"
+  ],
+  "dct_issued_s": "1904",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd416/g4164/g4164s/ct002185.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007633932/\"}",
+  "dct_spatial_sm": [
+    "louisiana purchase exposition (1904 : st. louis)",
+    "missouri",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Louisiana Purchase Exposition--(1904 :--Saint Louis, Mo.)--Maps",
+    "United States--Missouri--Louisiana Purchase Exposition (1904 : St. Louis)"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "dct_title_s": "World's fair, St. Louis, 1904: ground plan Louisiana Purchase Exposition, St. Louis, Missouri Worlds [sic] Fair, 1904",
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1904
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007633932",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

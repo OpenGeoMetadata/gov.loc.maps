@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"The Unique Map of California was issued in 1888 by the Southern Pacific Railroad Company and the California State Board of Trade as part of a campaign to promote the economic, cultural, and natural advantages of California as a place in which to live and invest. The map covers the entire state, with insets showing temperature, soil, land area, and scenic images. Annual rainfall in inches is indicated by circled numbers across the map. An inset at the top shows a cross-section of the Sierra Nevada Mountains and the elevation in feet of some of the famous peaks (the heights differ from more accurate present-day measurements). The map charts the main existing rail lines (prominently including Southern Pacific Company's routes), and emphasizes key products from various regions of California. An inset highlights the size of California, showing that its land mass is larger than that of ten other states combined. Vignettes highlight iconic scenes from the state, including both natural wonders and urban landmarks. Among the natural vistas shown are the Yosemite Valley, Lassen Peak, Mount Whitney, Lake Tahoe, the redwoods, and the Golden Gate. The images of famous California buildings presented include the Hotel del Coronado in San Diego, the Hotel del Monte in Monterey, and the State Capitol in Sacramento. Prominent railroad scenes are also included. The cartographer, E. Johnstone, produced other maps of California at this time, including on climate and other specialized subjects.\" World Digital Library.",
+    "2 copies",
+    "36896 U.S. Copyright Office",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Dickman-Jones Co.Lith; Johnstone, E. McD",
+    "Includes insets of California's area, temperature, soils, and The Sierra Mountains.",
+    "Publication statement: [S.l., 1888]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4360.mf000063",
+    "http://lccn.loc.gov/99446216",
+    "http://www.loc.gov/item/99446216/",
+    "http://www.loc.gov/resource/g4360.mf000063/",
+    "https://hdl.loc.gov/loc.gmd/g4360.mf000063",
+    "https://search.catalog.loc.gov/instances/a0e9927f-973f-5162-a34b-0f4d17834349",
+    "https://www.loc.gov/item/99446216/"
+  ],
+  "dct_issued_s": "1888",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4360/g4360/mf000063.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446216/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "California--Maps",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "1888"
+  ],
+  "dct_title_s": "The unique map of California",
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1888]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1888
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446216",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

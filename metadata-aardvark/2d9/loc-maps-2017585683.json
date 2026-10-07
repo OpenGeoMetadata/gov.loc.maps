@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Nolin, Jean Baptiste, 1686-1762, cartographer",
+    "Includes illustrations and text, and ten astronomical diagrams.",
+    "LC copy mounted on contemporary paper, printed with a military registration form. Annotated on verso: Mappemonde 1755. Barbier Villemeioh Chaumol [?].",
+    "Publication statement: A Paris : Chez Daumont, rue de la Ferronerie, 1755.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Includes illustrations and text, and ten astronomical diagrams. LC copy mounted on contemporary paper, printed with a military registration form. Annotated on verso: Mappemonde 1755. Barbier Villemeioh Chaumol [?]. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct009322",
+    "http://hdl.loc.gov/loc.gmd/g3200.ct009323",
+    "http://lccn.loc.gov/2017585683",
+    "http://www.loc.gov/item/2017585683/",
+    "http://www.loc.gov/resource/g3200.ct009322/",
+    "http://www.loc.gov/resource/g3200.ct009323/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct009322",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct009323",
+    "https://search.catalog.loc.gov/instances/275cb892-a838-58d7-a098-d7b94fe27b78",
+    "https://www.loc.gov/item/2017585683/"
+  ],
+  "dct_issued_s": "1755",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct009322.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585683/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Astronomy--Charts, diagrams, etc.--Early works to 1800",
+    "Earth (Planet)"
+  ],
+  "dct_temporal_sm": [
+    "1755"
+  ],
+  "dct_title_s": "Mappe-monde, carte universelle de la terre : dressée sur les relations les plus nouvelles soumises aux observations astronomiques des mrs. de l'Academie royale des sciences et de leurs correspondences",
+  "gbl_dateRange_drsim": [
+    "[1755 TO 1755]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1755
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585683",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

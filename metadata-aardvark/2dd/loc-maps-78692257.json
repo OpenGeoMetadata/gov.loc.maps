@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 700/1; 700/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: King, N. (Nicholas), 1771-1812; Nau, Anthony; Pike, Zebulon Montgomery, 1779-1813; Shallus, Francis",
+    "Oriented with north toward the upper left.",
+    "Oriented with north toward the upper left. Scale ca. 1:170,000. Available also through the Library of Congress Web site as a raster image. AACR2: 100; 651/1; 700/1; 700/3",
+    "Publication statement: [n.p., 1811?]",
+    "Scale ca. 1:170,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4042m.ct000657",
+    "http://lccn.loc.gov/78692257",
+    "http://www.loc.gov/item/78692257/",
+    "http://www.loc.gov/resource/g4042m.ct000657/",
+    "https://hdl.loc.gov/loc.gmd/g4042m.ct000657",
+    "https://search.catalog.loc.gov/instances/8fc92ac7-808b-59d8-9222-31e5e4fd729e",
+    "https://www.loc.gov/item/78692257/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd404/g4042/g4042m/ct000657.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78692257/\"}",
+  "dct_spatial_sm": [
+    "mississippi river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mississippi River--Maps",
+    "United States--Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "1811",
+    "[n.p., 1811?]"
+  ],
+  "dct_title_s": "Map of the Mississippi River from its source to the mouth of the Missouri",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78692257",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

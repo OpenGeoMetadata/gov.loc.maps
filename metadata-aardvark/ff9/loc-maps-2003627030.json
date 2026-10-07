@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Beckwith, J. P.; Florida East Coast Railway; Florida East Coast Steamship Co",
+    "Florida East Coast Railway/Steamship line running from Jacksonville to Key West.",
+    "Florida East Coast Railway/Steamship line running from Jacksonville to Key West. Available also through the Library of Congress web site as a raster image.",
+    "Publication statement: [S.l.], 1898."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3931p.ct000145",
+    "http://lccn.loc.gov/2003627030",
+    "http://www.loc.gov/item/2003627030/",
+    "http://www.loc.gov/resource/g3931p.ct000145/",
+    "https://hdl.loc.gov/loc.gmd/g3931p.ct000145",
+    "https://search.catalog.loc.gov/instances/d02cae52-3464-56d9-9bc6-1b3d95f0d6df",
+    "https://www.loc.gov/item/2003627030/"
+  ],
+  "dct_issued_s": "1898",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3931/g3931p/ct000145.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003627030/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Florida--Maps",
+    "Steamboat lines--Florida--Maps",
+    "United States--Florida"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "dct_title_s": "The east coast of Florida is paradise regained",
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1898]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1898
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003627030",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

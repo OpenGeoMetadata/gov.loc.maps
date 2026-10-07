@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Spoor, John D., cartographer",
+    "Includes notes.",
+    "Mounted on cloth.",
+    "North oriented towards the upper right.",
+    "Pen-and-ink, watercolor, and pencil.",
+    "Publication statement: [Athens, N.Y.] : John D. Spoor, 1801.",
+    "Shows lots.",
+    "Shows lots. North oriented towards the upper right. Pen-and-ink, watercolor, and pencil. Includes notes. Mounted on cloth. Available also through the Library of Congress Web site as a raster image. vcFY24",
+    "vcFY24"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597365",
+    "http://www.loc.gov/item/2024597365/",
+    "http://www.loc.gov/resource/g3804a.ct005666/",
+    "https://hdl.loc.gov/loc.gmd/g3804a.ct005666",
+    "https://search.catalog.loc.gov/instances/9eef6fdc-93dc-53a9-8097-b241c439cf3b",
+    "https://www.loc.gov/item/2024597365/"
+  ],
+  "dct_issued_s": "1801",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3804:g3804a:ct005666/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597365/\"}",
+  "dct_spatial_sm": [
+    "athens",
+    "athens (n.y.)",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Real property--New York (State)--Athens--Maps",
+    "United States--New York (State)--Athens (N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "1801"
+  ],
+  "dct_title_s": "A plot and survey of the village of Athens, situate on the west bank of Hudsons River opposite the city of Hudson for natural advantages it is not wanting its waters and harbor spacious its situation delightful & its soil fertile breathing a wholesome air all combined : invites the machanic, the gentleman, the mercantile body and the seafaring adventurer to inhabit its climate",
+  "gbl_dateRange_drsim": [
+    "[1801 TO 1801]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1801
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597365",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Clements, James E.",
+    "DCP",
+    "Includes text and col. ill.",
+    "Includes text and col. ill. Text on verso. Stephenson. Cartography of northern Virginia, pl. 88 Available also through the Library of Congress Web site as a raster image. LC copy torn and mounted on cloth backing. DCP",
+    "LC copy torn and mounted on cloth backing.",
+    "Publication statement: Washington, D.C. : James E. Clements, [1891?]",
+    "Stephenson. Cartography of northern Virginia, pl. 88",
+    "Text on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct000757",
+    "http://lccn.loc.gov/88693399",
+    "http://www.loc.gov/item/88693399/",
+    "http://www.loc.gov/resource/g3850.ct000757/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct000757",
+    "https://search.catalog.loc.gov/instances/f39b6ecf-8314-5499-8f2b-4d0f8b3203f2",
+    "https://www.loc.gov/item/88693399/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct000757.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693399/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps",
+    "Washington Metropolitan Area--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1891",
+    "Washington, D.C. : James E. Clements, [1891?]"
+  ],
+  "dct_title_s": "James E. Clements' map of Washington City and surrounding country",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693399",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

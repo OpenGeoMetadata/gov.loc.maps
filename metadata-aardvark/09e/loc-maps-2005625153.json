@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In pencil on verso: 339.",
+    "Library of Congress. Civil War maps (2nd ed.), H246",
+    "Pen-and-ink on graph paper, mounted on cloth.",
+    "Publication statement: [188-?]",
+    "Relief shown by hachures and form lines.",
+    "Relief shown by hachures and form lines. Title, date, and scale from Stephenson's Civil War maps, 1989. Pen-and-ink on graph paper, mounted on cloth. In pencil on verso: 339. Library of Congress. Civil War maps (2nd ed.), H246 Available also through the Library of Congress web site as raster image.",
+    "Title, date, and scale from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884s.cwh00246",
+    "http://lccn.loc.gov/2005625153",
+    "http://www.loc.gov/item/2005625153/",
+    "http://www.loc.gov/resource/g3884s.cwh00246/",
+    "https://hdl.loc.gov/loc.gmd/g3884s.cwh00246",
+    "https://search.catalog.loc.gov/instances/b8183f95-2f29-5a2d-8c07-b820ca23a152",
+    "https://www.loc.gov/item/2005625153/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884s/cwh00246.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625153/\"}",
+  "dct_spatial_sm": [
+    "shenandoah",
+    "shenandoah region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Iron mines and mining--Virginia--Shenandoah Region--Maps",
+    "Iron ores--Virginia--Shenandoah Region--Maps",
+    "Shenandoah (Va.)--Maps",
+    "United States--Virginia--Shenandoah",
+    "United States--Virginia--Shenandoah Region"
+  ],
+  "dct_temporal_sm": [
+    "188?"
+  ],
+  "dct_title_s": "[Map showing the location of the Shenandoah Iron Works at Shenandoah, Virginia]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625153",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

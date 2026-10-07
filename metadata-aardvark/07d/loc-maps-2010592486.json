@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Gibson, J. (John), active 1750-1792",
+    "Indexed.",
+    "Publication statement: [London? : s.n., ca. 1758]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Transfer from Manuscript Division, Library of Congress, Aug. 2010. Gift from Mark Hutchins, Hutchins & Associates. Indexed. Available also through the Library of Congress Web site as a raster image.",
+    "Transfer from Manuscript Division, Library of Congress, Aug. 2010. Gift from Mark Hutchins, Hutchins & Associates."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3424l.ct008144",
+    "http://lccn.loc.gov/2010592486",
+    "http://www.loc.gov/item/2010592486/",
+    "http://www.loc.gov/resource/g3424l.ct008144/",
+    "https://hdl.loc.gov/loc.gmd/g3424l.ct008144",
+    "https://search.catalog.loc.gov/instances/48c561bd-0650-5391-a24d-96e69b313a94",
+    "https://www.loc.gov/item/2010592486/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3424/g3424l/ct008144.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010592486/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "fortress of louisbourg national historic site",
+    "louisbourg",
+    "nova scotia"
+  ],
+  "dct_subject_sm": [
+    "Canada--Nova Scotia--Louisbourg",
+    "Fortification--Nova Scotia--Louisbourg--Maps--Early works to 1800",
+    "Fortress of Louisbourg National Historic Site (N.S.)--Maps--Early works to 1800",
+    "Louisbourg (N.S.)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1758",
+    "[London? : s.n., ca. 1758]"
+  ],
+  "dct_title_s": "A plan of the city of Louisbourg with its fortifications",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010592486",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

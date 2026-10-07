@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Containing a map of the vicinity of Washington, Baltimore, Harper's Ferry and Annapolis, with five mile distance lines from Washington. Map showing the railroad routes, coast lines and forts, between Boston and Norfolk harbor; map of Norfolk harbor, Fort Monroe and vicinity, with 1 mile distance lines from Ft. Monroe; Map of the vicinity of Richmond. Small map of the Atlantic states, showing the R.road connections; diagram of the camp at Cairo. Plan of Haper's Ferry! Portraits of Gen. B.F. Butler, the late Col. E. Ellsworth, &c.",
+    "Containing a map of the vicinity of Washington, Baltimore, Harper's Ferry and Annapolis, with five mile distance lines from Washington. Map showing the railroad routes, coast lines and forts, between Boston and Norfolk harbor; map of Norfolk harbor, Fort Monroe and vicinity, with 1 mile distance lines from Ft. Monroe; Map of the vicinity of Richmond. Small map of the Atlantic states, showing the R.road connections; diagram of the camp at Cairo. Plan of Haper's Ferry! Portraits of Gen. B.F. Butler, the late Col. E. Ellsworth, &c. Description derived from published bibliography. Various scales. LC Civil War Maps (2nd ed.), 16 Available also through the Library of Congress web site as raster image.",
+    "Contributors: Louis Prang and Company",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 16",
+    "Publication statement: Boston c1861.",
+    "Various scales."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851a.cw0016000",
+    "http://lccn.loc.gov/99447049",
+    "http://www.loc.gov/item/99447049/",
+    "http://www.loc.gov/resource/g3851a.cw0016000/",
+    "https://hdl.loc.gov/loc.gmd/g3851a.cw0016000",
+    "https://search.catalog.loc.gov/instances/e85dfd2c-897b-5548-b5d4-509a95295112",
+    "https://www.loc.gov/item/99447049/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/cw0016000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447049/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington region"
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps",
+    "Washington Region--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Map of the seat of war!",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447049",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Budadiri: Uganda 1: 50,000"
+  ],
+  "dct_description_sm": [
+    "\"From the Uganda National Fisheries Resources Research Institute. Digitized at the National Library of Uganda with support from the Carnegie Corporation of New York.\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: Fairey Air Surveys Limited Contributor.; Great Britain. Overseas Surveys Directorate Contributor.; Great Britain. Royal Air Force Contributor.; Uganda Copyright Holder.; Uganda. Department of Lands and Surveys Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Uganda.",
+    "Publication statement: Entebbe, Uganda : Uganda. Department of Lands and Surveys, 1963.",
+    "This map of the Budadiri region of Uganda was issued by the Uganda Department of Lands and Surveys in 1963 and is based on field survey data and on aerial surveys carried out in 1959 and 1960. Budadiri is in the eastern part of the country, on the border with Kenya. The region encompasses the western foothills of Mount Elgon, an extinct volcano with a vast caldera that is located in Uganda and Kenya and rises to more than 4,000 meters above sea level. The dense contour lines on the map indicate the steep terrain. Much of the eastern part of the area shown on the map is occupied by the Mount Elgon Central Forest Reserve, which in 1992 became the Ugandan part of Mount Elgon National Park. Sites indicated along the main gravel-surfaced road include schools, churches and missions, a dispensary, a prison and prison farm, and installations linked to the local coffee-producing economy. Individual dwellings on this extremely detailed survey map are indicated by dots. An index grid in the lower left identifies adjoining sheets to this map, including maps of parts of neighboring Kenya. The map scale is 1:50,000. Distances are shown in kilometers and miles; elevations are in feet.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668569",
+    "http://www.loc.gov/item/2021668569/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_14268/",
+    "http://www.loc.gov/resource/wdl.14268/",
+    "https://hdl.loc.gov/loc.wdl/wdl.14268",
+    "https://www.loc.gov/item/2021668569/"
+  ],
+  "dct_issued_s": "1963-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_14268.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/14/26/8/wdl_14268/wdl_14268.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:26:8:wdl_14268:NaFiRRI_0037/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668569/\"}",
+  "dct_spatial_sm": [
+    "uganda"
+  ],
+  "dct_subject_sm": [
+    "1963",
+    "Mount Elgon National Park (Uganda)",
+    "National parks and reserves",
+    "Uganda"
+  ],
+  "dct_temporal_sm": [
+    "1963-01-01"
+  ],
+  "dct_title_s": "Budadiri, Uganda.",
+  "gbl_dateRange_drsim": [
+    "[1963 TO 1963]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1963
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668569",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

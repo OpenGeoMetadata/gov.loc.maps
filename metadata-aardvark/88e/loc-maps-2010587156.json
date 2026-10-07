@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Book number: 001739.",
+    "Contributors: Bourquin, F. (Frederick), 1808-; Griffing, B. N.; Lake, D. J.; Worley & Bracher",
+    "Copy imperfect: Lacking front and back boards.",
+    "First atlas of this county directly north of Lansing.",
+    "First atlas of this county directly north of Lansing. Folded map has title: Sectional map of Michigan. Copy imperfect: Lacking front and back boards. Book number: 001739. Available also through the Library of Congress Web site as a raster image.",
+    "Folded map has title: Sectional map of Michigan.",
+    "Publication statement: Philadelphia : C.O. Titus, 1873"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4113cm.gla00202",
+    "http://lccn.loc.gov/2010587156",
+    "http://www.loc.gov/item/2010587156/",
+    "http://www.loc.gov/resource/g4113cm.gla00202/",
+    "https://hdl.loc.gov/loc.gmd/g4113cm.gla00202",
+    "https://search.catalog.loc.gov/instances/5f80d489-529a-5ae0-b030-d15eb7db3c05",
+    "https://www.loc.gov/item/2010587156/"
+  ],
+  "dct_issued_s": "1873",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd411m/g4113m/g4113cm/gla00202/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010587156/\"}",
+  "dct_spatial_sm": [
+    "clinton county",
+    "michigan",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Clinton County (Mich.)--Biography",
+    "Clinton County (Mich.)--Maps",
+    "Landowners--Michigan--Clinton County--Maps",
+    "Real property--Michigan--Clinton County--Maps",
+    "United States--Michigan--Clinton County"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "dct_title_s": "Atlas of Clinton County, Michigan",
+  "gbl_dateRange_drsim": [
+    "[1873 TO 1873]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1873
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010587156",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

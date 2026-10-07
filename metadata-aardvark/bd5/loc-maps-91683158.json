@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "India ink and purple wash on tracing linen.",
+    "Oriented with north toward the upper left.",
+    "Probably drawn by Dr. Joseph M. Toner.",
+    "Publication statement: 1880.",
+    "Shows all streets in county area. Shows main streets and numbered wards within city limits.",
+    "Shows all streets in county area. Shows main streets and numbered wards within city limits. India ink and purple wash on tracing linen. Probably drawn by Dr. Joseph M. Toner. Oriented with north toward the upper left. Available also through the Library of Congress Web site as a raster image. DCP Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004022",
+    "http://lccn.loc.gov/91683158",
+    "http://www.loc.gov/item/91683158/",
+    "http://www.loc.gov/resource/g3850.ct004022/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004022",
+    "https://search.catalog.loc.gov/instances/c27b88d4-cc2f-5d6e-a524-8525f231ce4d",
+    "https://www.loc.gov/item/91683158/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004022.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91683158/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Map of the District of Columbia",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91683158",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

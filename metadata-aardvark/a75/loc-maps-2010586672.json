@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 2010--357-940/80553 Reprint 2010.\"",
+    "\"*GPO: 2010--357-940/80553 Reprint 2010.\" Relief shown by shading. Title from panel. Includes text and illustrations (some color). Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and illustrations (some color).",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2010]",
+    "Relief shown by shading.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2010586672",
+    "http://www.loc.gov/item/2010586672/",
+    "http://www.loc.gov/resource/g3922c.ct010026/",
+    "https://hdl.loc.gov/loc.gmd/g3922c.ct010026",
+    "https://search.catalog.loc.gov/instances/4cc07586-ffaf-5f61-9600-898d7b6532fd",
+    "https://www.loc.gov/item/2010586672/"
+  ],
+  "dct_issued_s": "2010",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922c/ct010026.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010586672/\"}",
+  "dct_spatial_sm": [
+    "chattanooga national military park",
+    "chickamauga",
+    "chickamauga and chattanooga national military park",
+    "georgia",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Chickamauga and Chattanooga National Military Park (Ga. and Tenn.)--Maps",
+    "United States--Georgia--Chickamauga and Chattanooga National Military Park",
+    "United States--Tennessee--Chickamauga and Chattanooga National Military Park"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_title_s": "Chickamauga and Chattanooga National Military Park, Georgia/Tennessee",
+  "gbl_dateRange_drsim": [
+    "[2010 TO 2010]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010586672",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Aa, Pieter van der, 1659-1733; Nieuhof, Johannes, 1618-1672",
+    "Includes ill.",
+    "LC copy annotated in ink on verso: 95.",
+    "Publication statement: [Leiden, Netherlands : s.n., 170-?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Includes ill. Available also through the Library of Congress Web site as a raster image. LC copy annotated in ink on verso: 95. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7810.ct002857",
+    "http://lccn.loc.gov/87691057",
+    "http://www.loc.gov/item/87691057/",
+    "http://www.loc.gov/resource/g7810.ct002857/",
+    "https://hdl.loc.gov/loc.gmd/g7810.ct002857",
+    "https://search.catalog.loc.gov/instances/ef335f7d-3c93-5080-ab64-aadee16432cb",
+    "https://www.loc.gov/item/87691057/"
+  ],
+  "dct_issued_s": "1700",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7810/g7810/ct002857.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87691057/\"}",
+  "dct_spatial_sm": [
+    "china"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1700"
+  ],
+  "dct_title_s": "Carte exacte de toutes les provinces, villes, bourgs, villages et rivières du vaste et puissant empire de la Chine : faite par les ambassadeurs hollandois dans leur voyage de Batavia à Peking",
+  "gbl_dateRange_drsim": [
+    "[1700 TO 1700]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1700
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87691057",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

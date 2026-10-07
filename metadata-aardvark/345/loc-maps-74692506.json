@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 440; 651/1; 651/2; 700/1; 700/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Davis, John (Printer); Scull, Nicholas, 1686?-1761?; Turner, James, -1759",
+    "LC Maps of North America, 1750-1789, 1294",
+    "Publication statement: Philadelphia; Sold by the author, Nicholas Scull, 1759.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:250,000.",
+    "Sectioned and mounted on cloth backing with reinforced edges.",
+    "Sectioned and mounted on cloth backing with reinforced edges. Relief shown pictorially. Shows county boundaries. Scale ca. 1:250,000. LC Maps of North America, 1750-1789, 1294 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 440; 651/1; 651/2; 700/1; 700/2",
+    "Shows county boundaries.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3820.ar129400",
+    "http://lccn.loc.gov/74692506",
+    "http://www.loc.gov/item/74692506/",
+    "http://www.loc.gov/resource/g3820.ar129400/",
+    "https://hdl.loc.gov/loc.gmd/g3820.ar129400",
+    "https://search.catalog.loc.gov/instances/e527c29e-97ed-54cf-84bf-9471322cf08f",
+    "https://www.loc.gov/item/74692506/"
+  ],
+  "dct_issued_s": "1759",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3820/g3820/ar129400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692506/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Counties--Pennsylvania--Maps--Early works to 1800",
+    "Pennsylvania--Maps--Early works to 1800",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1759"
+  ],
+  "dct_title_s": "To the Honourable Thomas Penn and Richard Penn, Esqrs., true & absolute proprietaries & Governours of the Province of Pennsylvania & counties of New-Castle, Kent & Sussex on Delaware this map of the improved part of the Province of Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1759 TO 1759]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1759
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692506",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

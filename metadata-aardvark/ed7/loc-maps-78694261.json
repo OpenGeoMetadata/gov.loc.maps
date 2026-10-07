@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing lot lines, lot numbers, and dimensions.",
+    "Contributors: Barnes & Weaver; Gedney & Roberts",
+    "DCP",
+    "Includes text.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 111.1",
+    "Oriented with north toward the lower right.",
+    "Oriented with north toward the lower right. Cadastral map showing lot lines, lot numbers, and dimensions. Includes text. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 111.1 Available also through the Library of Congress Web site as a raster image. DCP AACR2",
+    "Publication statement: Washington, D.C. : Barnes & Weaver, [1895?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852b.pm001111",
+    "http://lccn.loc.gov/78694261",
+    "http://www.loc.gov/item/78694261/",
+    "http://www.loc.gov/resource/g3852b.pm001111/",
+    "https://hdl.loc.gov/loc.gmd/g3852b.pm001111",
+    "https://search.catalog.loc.gov/instances/2ffa9bb5-c46d-575a-b7a3-c8a51d7f7b25",
+    "https://www.loc.gov/item/78694261/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852b/pm001111.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78694261/\"}",
+  "dct_spatial_sm": [
+    "brookland",
+    "brookland (washington)",
+    "district of columbia",
+    "united states",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Brookland (Washington, D.C.)--Maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Brookland (Washington)"
+  ],
+  "dct_temporal_sm": [
+    "1895",
+    "Washington, D.C. : Barnes & Weaver, [1895?]"
+  ],
+  "dct_title_s": "Birds eye view of Barnes & Weaver's addition to Brookland",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78694261",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

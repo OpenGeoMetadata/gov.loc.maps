@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Scrapbook (Mss5:7 Sn237:1 p. 311).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a photocopy of this scrapbook image.",
+    "Publication statement: [1863-1865]",
+    "Regional map of Charleston Harbor extending along the Atlantic Coast from Sullivan's Island just north of the harbor entrance to St. John's and Kiawah islands to the south. Indicates the presence of Union warships off the coast and places along the coastline where the Union has established a foothold.",
+    "Relief shown by hachures.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00267",
+    "http://www.loc.gov/item/001-CABIB20007656/",
+    "http://www.loc.gov/item/gvhs01.vhs00267/",
+    "http://www.loc.gov/resource/gvhs01.vhs00267/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00267",
+    "https://www.loc.gov/item/gvhs01.vhs00267/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00267.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00267/\"}",
+  "dct_spatial_sm": [
+    "charleston",
+    "charleston harbor",
+    "charleston region",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Charleston (S.C.)--History--Civil War 1861-1865--Maps",
+    "Coast defenses--South Carolina--History--Civil War, 1861-1865--Maps",
+    "South Carolina--History--Civil war, 1861-1865--Maps",
+    "United States--South Carolina--Charleston Harbor",
+    "United States--South Carolina--Charleston Region"
+  ],
+  "dct_temporal_sm": [
+    "1863/1865"
+  ],
+  "dct_title_s": "Map of Charleston Harbor with Morris Island and James, Broad, Folly, and Cole's Islds. : showing the position of the Union and Rebel forts and batteries & & November and December 1863.",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00267",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

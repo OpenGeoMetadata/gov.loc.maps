@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "South East Asia"
+  ],
+  "dct_description_sm": [
+    "\"802995AI (RO2106) 7-03.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes explanatory note.",
+    "Includes explanatory note. \"802995AI (RO2106) 7-03.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 2003]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8000.ct001100",
+    "http://lccn.loc.gov/2003682647",
+    "http://www.loc.gov/item/2003682647/",
+    "http://www.loc.gov/resource/g8000.ct001100/",
+    "https://hdl.loc.gov/loc.gmd/g8000.ct001100",
+    "https://search.catalog.loc.gov/instances/1a736dde-222f-5097-9a9f-497b1c9cb39a",
+    "https://www.loc.gov/item/2003682647/"
+  ],
+  "dct_issued_s": "2003",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8000/g8000/ct001100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003682647/\"}",
+  "dct_spatial_sm": [
+    "asia, southeastern",
+    "southeast asia"
+  ],
+  "dct_subject_sm": [
+    "Asia, Southeastern",
+    "Southeast Asia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_title_s": "Southeast Asia",
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003682647",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

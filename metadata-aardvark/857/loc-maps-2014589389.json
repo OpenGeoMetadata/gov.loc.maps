@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Eng. for the London Mag.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Benning, R",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 1679",
+    "Oriented with north to the upper right.",
+    "Publication statement: [England] : R. Benning, [1761?]",
+    "Shows houses, streets, and vegetation.",
+    "Shows houses, streets, and vegetation. Oriented with north to the upper right. \"Eng. for the London Mag.\" Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 1679 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4014n.ar167900",
+    "http://hdl.loc.gov/loc.gmd/g4014n.ar167901",
+    "http://hdl.loc.gov/loc.gmd/g4014n.ar167902",
+    "http://lccn.loc.gov/2014589389",
+    "http://www.loc.gov/item/2014589389/",
+    "http://www.loc.gov/resource/g4014n.ar167900/",
+    "http://www.loc.gov/resource/g4014n.ar167901/",
+    "http://www.loc.gov/resource/g4014n.ar167902/",
+    "https://hdl.loc.gov/loc.gmd/g4014n.ar167900",
+    "https://hdl.loc.gov/loc.gmd/g4014n.ar167901",
+    "https://hdl.loc.gov/loc.gmd/g4014n.ar167902",
+    "https://search.catalog.loc.gov/instances/39cb0a2a-d4d6-5542-989e-684d8bbb5c7c",
+    "https://www.loc.gov/item/2014589389/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4014/g4014n/ar167900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2014589389/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "new orleans",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Orleans (La.)--Maps.--Early works to 1800",
+    "United States--Louisiana--New Orleans"
+  ],
+  "dct_temporal_sm": [
+    "1761",
+    "[England] : R. Benning, [1761?]"
+  ],
+  "dct_title_s": "Plan of New Orleans the capital of Louisiana",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2014589389",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

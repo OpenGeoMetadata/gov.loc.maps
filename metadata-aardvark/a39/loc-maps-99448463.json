@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 26\" is in the upper left corner.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: United States Coast Survey",
+    "Description derived from published bibliography.",
+    "From its Report of the Superintendent of the Coast Survey, showing the progress of the survey during the year 1862 (Washington, Government Printing Office, 1864). Map 26.",
+    "From its Report of the Superintendent of the Coast Survey, showing the progress of the survey during the year 1862 (Washington, Government Printing Office, 1864). Map 26. \"No. 26\" is in the upper left corner. Description derived from published bibliography. Scale 1:60,000. LC Civil War Maps (2nd ed.), 389.16 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 389.16",
+    "Publication statement: [Washington, U.S. Coast Survey], 1862.",
+    "Scale 1:60,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3912p.cw0389160",
+    "http://lccn.loc.gov/99448463",
+    "http://www.loc.gov/item/99448463/",
+    "http://www.loc.gov/resource/g3912p.cw0389160/",
+    "https://hdl.loc.gov/loc.gmd/g3912p.cw0389160",
+    "https://search.catalog.loc.gov/instances/d273805d-539c-573a-b979-d06fa9a21c2e",
+    "https://www.loc.gov/item/99448463/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3912/g3912p/cw0389160.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448463/\"}",
+  "dct_spatial_sm": [
+    "hilton head island",
+    "port royal sound",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hilton Head Island (S.C.)--Maps",
+    "Port Royal Sound (S.C.)--Maps",
+    "United States--South Carolina--Hilton Head Island",
+    "United States--South Carolina--Port Royal Sound"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Preliminary chart of Port Royal entrance, Beaufort, Broad and Chechessee Rivers, South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448463",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "At top of map: No. 2.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Miller & Co; Whitney, Asa, 1797-1872",
+    "From the author's A project for a railroad to the Pacific.",
+    "Includes distance chart showing distances via Northern Route, Southern Route, Galveston Route, and St. Louis Route.",
+    "LC Railroad maps, 14",
+    "Outline map of North America showing proposed railroad routes within the present limits of the United States. This is one of the earliest promotional maps for a transcontinental railroad to come before the United States Congress and claimed by the author to have been \"conceived as early as 1830.\"",
+    "Publication statement: N[ew] Y[ork] Miller's Lith. [1849]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:15,500,000.",
+    "Title from C. I. Wheat's Mapping the transmississippi west."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr000140",
+    "http://lccn.loc.gov/gm71000953",
+    "http://www.loc.gov/item/gm71000953/",
+    "http://www.loc.gov/resource/g3701p.rr000140/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr000140",
+    "https://search.catalog.loc.gov/instances/a5a5ff82-a141-5d26-b1a2-48594e43f132",
+    "https://www.loc.gov/item/gm71000953/"
+  ],
+  "dct_issued_s": "1849",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr000140.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000953/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1849"
+  ],
+  "dct_title_s": "Map without title showing the railroad route to Santa Fe and San Diego; the central route through South Pass and on to San Francisco and \"Puget's Sound,\" and connecting railroads east of the Mississippi",
+  "gbl_dateRange_drsim": [
+    "[1849 TO 1849]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1849
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000953",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

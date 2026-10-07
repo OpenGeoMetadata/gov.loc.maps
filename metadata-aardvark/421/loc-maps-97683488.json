@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map \"Compiled, edited, and published by the Geological Survey.\"",
+    "Contributors: Geological Survey (U.S.); United States. Forest Service. Southern Region",
+    "In upper right margin: South Carolina.",
+    "Publication statement: Atlanta : The Region, 1979.",
+    "Relief shown by spot heights.",
+    "Shows \"RARE II roadless areas\" (recommended wilderness areas, areas for further planning, nonwilderness areas, and other national forest system lands) in color on black-and-white base map.",
+    "Shows \"RARE II roadless areas\" (recommended wilderness areas, areas for further planning, nonwilderness areas, and other national forest system lands) in color on black-and-white base map. Relief shown by spot heights. In upper right margin: South Carolina. Base map \"Compiled, edited, and published by the Geological Survey.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/97683488",
+    "http://www.loc.gov/item/97683488/",
+    "http://www.loc.gov/resource/g3911g.ct009812/",
+    "https://hdl.loc.gov/loc.gmd/g3911g.ct009812",
+    "https://search.catalog.loc.gov/instances/446d06ae-2d0e-5a29-8615-d59de49f3c62",
+    "https://www.loc.gov/item/97683488/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3911/g3911g/ct009812.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97683488/\"}",
+  "dct_spatial_sm": [
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Environmental policy--South Carolina--Maps",
+    "Regional planning--South Carolina--Maps",
+    "United States--South Carolina",
+    "Wilderness areas--South Carolina--Planning--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "State of South Carolina, roadless and undeveloped area evaluation II, RARE II final evaluation statement : January 1979",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97683488",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Fowler, T. M. (Thaddeus Mortimer), 1842-1922; Hughes & Bailey",
+    "Includes illus. and index to merchants and industry.",
+    "Includes illus. and index to merchants and industry. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 83 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 710/1",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 83",
+    "Perspective map not drawn to scale.",
+    "Publication statement: New York : Hughes & Bailey, c1918.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3784m.pm000830",
+    "http://lccn.loc.gov/73693115",
+    "http://www.loc.gov/item/73693115/",
+    "http://www.loc.gov/resource/g3784m.pm000830/",
+    "https://hdl.loc.gov/loc.gmd/g3784m.pm000830",
+    "https://search.catalog.loc.gov/instances/e25343cb-35a2-5f6b-bca3-816f1ab11d4e",
+    "https://www.loc.gov/item/73693115/"
+  ],
+  "dct_issued_s": "1918",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd378/g3784/g3784m/pm000830.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693115/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "meriden",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Meriden (Conn.)",
+    "United States--Connecticut--Meriden"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "dct_title_s": "Aero view of Meriden, Connecticut 1918",
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1918]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1918
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693115",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

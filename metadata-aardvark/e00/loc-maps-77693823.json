@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Proportion of vertical scale = 10 feet.\"",
+    "AACR2: 100; 651/1; 650/2; 650/3",
+    "Accompanied by: Report of the engineer & geologist, in relation to the new map, to the executive of Maryland. 1836. 89 p. diagr. chart.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Alexander, John H. (John Henry), 1812-1867, cartographer",
+    "In lower left corner: A. Schwanecker, Water St. 57.",
+    "Issued with 5 other maps.",
+    "LC copy imperfect: upper margin deteriorated.",
+    "LC copy mounted on cloth. Accompanied by positive and negative photostats.",
+    "Publication statement: [Baltimore, Md.] : A. Schwanecker, Water St. 57, [1835]",
+    "Relief shown by form lines.",
+    "Shows the counties of St. Mary, Charles, and a part of Prince George, on the Western Shore of Maryland.",
+    "Shows the counties of St. Mary, Charles, and a part of Prince George, on the Western Shore of Maryland. Relief shown by form lines. \"Proportion of vertical scale = 10 feet.\" In lower left corner: A. Schwanecker, Water St. 57. Issued with 5 other maps. Accompanied by: Report of the engineer & geologist, in relation to the new map, to the executive of Maryland. 1836. 89 p. diagr. chart. LC copy imperfect: upper margin deteriorated. LC copy mounted on cloth. Accompanied by positive and negative photostats. Available also through the Library of Congress Web site as a raster image. AACR2: 100; 651/1; 650/2; 650/3"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3840.ct008334",
+    "http://lccn.loc.gov/77693823",
+    "http://www.loc.gov/item/77693823/",
+    "http://www.loc.gov/resource/g3840.ct008334/",
+    "https://hdl.loc.gov/loc.gmd/g3840.ct008334",
+    "https://search.catalog.loc.gov/instances/5b920697-13dc-585d-bc42-c30914724183",
+    "https://www.loc.gov/item/77693823/"
+  ],
+  "dct_issued_s": "1835",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3840/g3840/ct008334.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77693823/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Maryland--Maps",
+    "United States--Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1835"
+  ],
+  "dct_title_s": "Map B : [Maryland]",
+  "gbl_dateRange_drsim": [
+    "[1835 TO 1835]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1835
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77693823",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

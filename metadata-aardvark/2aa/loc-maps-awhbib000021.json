@@ -1,0 +1,41 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: National Cancer Institute (U.S.)",
+    "Produced from: The State Cancer Control Map and Data Program of the National Cancer Institute (GIS software package) from statistical data developed by the National Institutes of Health.",
+    "Publication statement: [after 1987]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4181e.awh00004",
+    "http://www.loc.gov/item/awhbib000021/",
+    "http://www.loc.gov/item/g4181e.awh00004/",
+    "http://www.loc.gov/resource/g4181e.awh00004/",
+    "https://hdl.loc.gov/loc.gmd/g4181e.awh00004",
+    "https://www.loc.gov/item/awhbib000021/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd418/g4181/g4181e/awh00004.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/awhbib000021/\"}",
+  "dct_rights_sm": [
+    "For rights relating to this resource, visit http://hdl.loc.gov/loc.natlib/awh.access"
+  ],
+  "dct_subject_sm": [
+    "Maps",
+    "Uterus--Cancer--South Dakota--Statistics--Maps."
+  ],
+  "dct_title_s": "Uterine cancer rates in South Dakota, by county, 1953-1987",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-awhbib000021",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

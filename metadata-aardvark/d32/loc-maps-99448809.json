@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At the bottom of each map is a view of the fort.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contents: Fort \"Walker,\" Hilton Head Isld., S.C. Scale 1:2000. 17 x 15 cm.-Ground plan and view of fort on Botany-Bay Isld. North Edisto R. Scale 1:2000. 12 x 15 cm.-Fort on Sam's Point, Coosaw River, S.C. Scale 1:1000. 13 x 15 cm.-Ground plan and view of fort on Bay Point South Edisto R., S.C. Scale 1:1000. 14 x 15 cm.-Plan and view of Fort \"Beauregard,\" Bay Point, S.C. Scale 1:2000. 17 x 17 cm.-Plan and view of fort on Otter Isld. Point, St. Helena Sound, S.C. Scale 1:1600. 12 x 17 cm.-Fort on Fenwick's Island, S.C. Scale 1:1000. 13 x 17 cm.",
+    "Contents: Fort \"Walker,\" Hilton Head Isld., S.C. Scale 1:2000. 17 x 15 cm.-Ground plan and view of fort on Botany-Bay Isld. North Edisto R. Scale 1:2000. 12 x 15 cm.-Fort on Sam's Point, Coosaw River, S.C. Scale 1:1000. 13 x 15 cm.-Ground plan and view of fort on Bay Point South Edisto R., S.C. Scale 1:1000. 14 x 15 cm.-Plan and view of Fort \"Beauregard,\" Bay Point, S.C. Scale 1:2000. 17 x 17 cm.-Plan and view of fort on Otter Isld. Point, St. Helena Sound, S.C. Scale 1:1600. 12 x 17 cm.-Fort on Fenwick's Island, S.C. Scale 1:1000. 13 x 17 cm. At the bottom of each map is a view of the fort. Description derived from published bibliography. Scale not given. LC Civil War Maps (2nd ed.), 367 Available also through the Library of Congress web site as raster image.",
+    "Contributors: Willenbücher, Eugene",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 367",
+    "Publication statement: Philada., Bowen & Co., lith., 1862",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3911r.cw0367000",
+    "http://lccn.loc.gov/99448809",
+    "http://www.loc.gov/item/99448809/",
+    "http://www.loc.gov/resource/g3911r.cw0367000/",
+    "https://hdl.loc.gov/loc.gmd/g3911r.cw0367000",
+    "https://search.catalog.loc.gov/instances/9d50444b-6be2-544f-9000-519a501e62bc",
+    "https://www.loc.gov/item/99448809/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3911/g3911r/cw0367000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448809/\"}",
+  "dct_spatial_sm": [
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fortification--South Carolina--Maps",
+    "South Carolina--History--Civil War, 1861-1865--Maps",
+    "United States--South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Plans & views of Rebel defences, coast of South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448809",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

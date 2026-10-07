@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Community-panel number 340257 0005 B.\"",
+    "\"Initial identification: January 9, 1974.\"",
+    "At head of title: National Flood Insurance Program.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Flood Insurance Program (U.S.); United States. Federal Emergency Management Agency",
+    "Includes notes, street index, and directory of \"Elevation reference marks.\"",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Agency, [1992]",
+    "Relief shown by spot heights.",
+    "Relief shown by spot heights. Panel title. At head of title: National Flood Insurance Program. \"Initial identification: January 9, 1974.\" Includes notes, street index, and directory of \"Elevation reference marks.\" \"Community-panel number 340257 0005 B.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814c.ct006934",
+    "http://lccn.loc.gov/93683624",
+    "http://www.loc.gov/item/93683624/",
+    "http://www.loc.gov/resource/g3814c.ct006934/",
+    "https://hdl.loc.gov/loc.gmd/g3814c.ct006934",
+    "https://search.catalog.loc.gov/instances/74c15f8b-2d5d-57dc-a1a1-5cc06675f166",
+    "https://www.loc.gov/item/93683624/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814c/ct006934.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93683624/\"}",
+  "dct_spatial_sm": [
+    "carteret",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Carteret (N.J.)--Maps",
+    "Flood insurance--New Jersey--Carteret--Maps",
+    "Floodplains--New Jersey--Carteret--Maps",
+    "United States--New Jersey--Carteret"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "FIRM, flood insurance rate map and street index, borough of Carteret, New Jersey, Middlesex County",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93683624",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

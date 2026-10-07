@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Larrabee, L. C., cartographer",
+    "Includes notes.",
+    "Mounted on cloth.",
+    "North oriented to the bottom.",
+    "Pen-and-ink and pencil.",
+    "Publication statement: Lake George : L. C. Larrabee, 1843.",
+    "Relief shown by hachures and spot heights.",
+    "Title supplied by cataloger.",
+    "vcFY24",
+    "vcFY24 Relief shown by hachures and spot heights. Title supplied by cataloger. North oriented to the bottom. Pen-and-ink and pencil. Includes notes. Mounted on cloth. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597420",
+    "http://www.loc.gov/item/2024597420/",
+    "http://www.loc.gov/resource/g3802g.ct005546/",
+    "https://hdl.loc.gov/loc.gmd/g3802g.ct005546",
+    "https://search.catalog.loc.gov/instances/6be7395e-26b3-58e9-a8a7-32e264786e6e",
+    "https://www.loc.gov/item/2024597420/"
+  ],
+  "dct_issued_s": "1843",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3802:g3802g:ct005546/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597420/\"}",
+  "dct_spatial_sm": [
+    "george",
+    "george, lake (n.y. : lake)",
+    "lake",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "George, Lake (N.Y. : Lake)--Maps",
+    "United States--New York (State)--George, Lake (N.Y. : Lake)"
+  ],
+  "dct_temporal_sm": [
+    "1843"
+  ],
+  "dct_title_s": "[Map of Lake George, N.Y.]",
+  "gbl_dateRange_drsim": [
+    "[1843 TO 1843]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1843
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597420",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

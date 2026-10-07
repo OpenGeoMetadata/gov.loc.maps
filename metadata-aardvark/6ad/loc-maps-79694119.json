@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2; 650/3",
+    "Annotated in pencil.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Covers the area bounded by Massachusetts Avenue, Fourteenth Street, B Street, and Thirteenth Street.",
+    "DCP",
+    "Manuscript, pen-and-ink.",
+    "Manuscript, pen-and-ink. Annotated in pencil. Cadastral map. Covers the area bounded by Massachusetts Avenue, Fourteenth Street, B Street, and Thirteenth Street. Scale ca. 1:900. Available also through the Library of Congress Web site as a raster image. Vault DCP AACR2: 650/1; 651/2; 650/3",
+    "Publication statement: [187-?]",
+    "Scale ca. 1:900.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851g.la002227",
+    "http://lccn.loc.gov/79694119",
+    "http://www.loc.gov/item/79694119/",
+    "http://www.loc.gov/resource/g3851g.la002227/",
+    "https://hdl.loc.gov/loc.gmd/g3851g.la002227",
+    "https://search.catalog.loc.gov/instances/a80a9fbb-ed50-5a32-9b26-d0c07681ff08",
+    "https://www.loc.gov/item/79694119/"
+  ],
+  "dct_issued_s": "1870",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851g/la002227.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79694119/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ],
+  "dct_title_s": "Sub-division of lots 1, 2, 3, and 4 in square 1037, containing 49,000 sqr. ft. : [southeastern Washington, D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1870 TO 1870]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1870
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79694119",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

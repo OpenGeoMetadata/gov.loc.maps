@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from Texas general highway map ...\"",
+    "\"Source: Original draft by State Soil Survey staff.\"",
+    "\"This general soil map is suitable for broad planning purposes only.\"",
+    "\"This general soil map is suitable for broad planning purposes only.\" In lower right corner: July 1981 4-R-31797. \"Base compiled from Texas general highway map ...\" \"Source: Original draft by State Soil Survey staff.\" Includes location map and table for proportions of units in the county. Text and table of \"Soil interpretations for selected uses\" on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Texas Agricultural Experiment Station; United States. Soil Conservation Service",
+    "In lower right corner: July 1981 4-R-31797.",
+    "Includes location map and table for proportions of units in the county.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1981.",
+    "Text and table of \"Soil interpretations for selected uses\" on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/83693508",
+    "http://www.loc.gov/item/83693508/",
+    "http://www.loc.gov/resource/g4033f.ct011519/",
+    "https://hdl.loc.gov/loc.gmd/g4033f.ct011519",
+    "https://search.catalog.loc.gov/instances/d963165f-ce64-5f6d-bca1-e1c76fa99b41",
+    "https://www.loc.gov/item/83693508/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033f/ct011519.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83693508/\"}",
+  "dct_spatial_sm": [
+    "foard county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soils--Texas--Foard County--Maps",
+    "United States--Texas--Foard County"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "General soil map, Foard County, Texas",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83693508",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

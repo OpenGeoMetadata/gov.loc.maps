@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "7738 U.S. Copyright Office",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Louisville, New Albany, and St. Louis Air Line Railway Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 451",
+    "Map of the middle Atlantic and central United States showing drainage, cities and towns, state and county boundaries, and the railroad network with emphasis on the main lines. Indicates coal field in Illinois and Indiana.",
+    "Publication statement: New York, 1872.",
+    "Scale 1:2,217,600."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr004510",
+    "http://lccn.loc.gov/98688702",
+    "http://www.loc.gov/item/98688702/",
+    "http://www.loc.gov/resource/g3701p.rr004510/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr004510",
+    "https://search.catalog.loc.gov/instances/eb56c5ce-6771-5d4c-9c14-a8f92564743f",
+    "https://www.loc.gov/item/98688702/"
+  ],
+  "dct_issued_s": "1872",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr004510.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688702/\"}",
+  "dct_spatial_sm": [
+    "illinois",
+    "indiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coal mines and mining--Illinois--Maps",
+    "Coal mines and mining--Indiana--Maps",
+    "Louisville, New Albany, and St. Louis Air Line Railway Company--Maps",
+    "Railroads--United States--Maps",
+    "United States",
+    "United States--Illinois",
+    "United States--Indiana"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "dct_title_s": "Map showing the line of the Louisville, New Albany, and St. Louis Air Line Railroad and its connections",
+  "gbl_dateRange_drsim": [
+    "[1872 TO 1872]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1872
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688702",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

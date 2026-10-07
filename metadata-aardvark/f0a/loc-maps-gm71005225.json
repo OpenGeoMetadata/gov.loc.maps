@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2; 700",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Dian shi zhai; Xu, Yucang",
+    "Includes text.",
+    "Publication statement: Shanghai : Dian shi zhai, Qing Guangxu 10 nian jin shen [1884]",
+    "Revision of map originally drawn by Xu Yucang in 1875.",
+    "Revision of map originally drawn by Xu Yucang in 1875. Shows foreign concessions in Shanghai. Chinese area in yellow, French in red, British in blue, and American in orange. Includes text. Scale ca. 1:5400. Available also through the Library of Congress Web site as a raster image. AACR2: 650/1; 651/2; 700",
+    "Scale ca. 1:5400.",
+    "Shows foreign concessions in Shanghai. Chinese area in yellow, French in red, British in blue, and American in orange."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7824s.ct000648",
+    "http://lccn.loc.gov/gm71005225",
+    "http://www.loc.gov/item/gm71005225/",
+    "http://www.loc.gov/resource/g7824s.ct000648/",
+    "https://hdl.loc.gov/loc.gmd/g7824s.ct000648",
+    "https://search.catalog.loc.gov/instances/22724b3d-93dd-5c2b-8502-fc80f3aacd16",
+    "https://www.loc.gov/item/gm71005225/"
+  ],
+  "dct_issued_s": "1884",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7824/g7824s/ct000648.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005225/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "shanghai"
+  ],
+  "dct_subject_sm": [
+    "China--Shanghai",
+    "Concessions--China--Shanghai--Maps",
+    "Shanghai (China)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_title_s": "Shanghai xian cheng xiang zu jie quan tu",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005225",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

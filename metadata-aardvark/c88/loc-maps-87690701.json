@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 19-85",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ortelius, Abraham, 1527-1598",
+    "Includes text.",
+    "Publication statement: [Amstelodami? : s.n., 1628?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Includes text. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 19-85 Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct007045",
+    "http://lccn.loc.gov/87690701",
+    "http://www.loc.gov/item/87690701/",
+    "http://www.loc.gov/resource/g3200.ct007045/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct007045",
+    "https://search.catalog.loc.gov/instances/7d963b67-333f-57f1-9c34-9c506ae9bcc1",
+    "https://www.loc.gov/item/87690701/"
+  ],
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct007045.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87690701/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)",
+    "World maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1628",
+    "[Amstelodami? : s.n., 1628?]"
+  ],
+  "dct_title_s": "Typvs orbis terrarvm",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87690701",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

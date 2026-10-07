@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Middleton, Wallace & Co. Lith. Cincinnati.\"",
+    "AACR2: 650",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cooke (D.B.) & Co",
+    "Differs from other copy in border design.",
+    "Hand colored.",
+    "Hand colored. Differs from other copy in border design. \"Middleton, Wallace & Co. Lith. Cincinnati.\" Scale ca. 1:1,300,000. Available also through the Library of Congress Web site as a raster image. AACR2: 650",
+    "Publication statement: Chicago, 1856.",
+    "Scale ca. 1:1,300,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm70002910",
+    "http://www.loc.gov/item/gm70002910/",
+    "http://www.loc.gov/resource/g4071p.ct011769/",
+    "https://hdl.loc.gov/loc.gmd/g4071p.ct011769",
+    "https://search.catalog.loc.gov/instances/e4d16d0c-ffaa-5df0-885d-19d4174112c2",
+    "https://www.loc.gov/item/gm70002910/"
+  ],
+  "dct_issued_s": "1856",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd407/g4071/g4071p/ct011769.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70002910/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "dct_title_s": "D.B. Cooke & Co's great western railway guide exhibiting all stations with distances from each other",
+  "gbl_dateRange_drsim": [
+    "[1856 TO 1856]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1856
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70002910",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

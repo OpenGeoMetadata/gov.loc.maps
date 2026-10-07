@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: library of congress. geography and map division; library of congress. national digital library program",
+    "The collection consists of 40 manuscript and 26 printed maps, and a manuscript atlas, the originals of which are in the Library of Congress' Geography and Map Division."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2006577705",
+    "http://www.loc.gov/collections/rochambeau-maps/about-this-collection/",
+    "http://www.loc.gov/collections/rochmaps/",
+    "http://www.loc.gov/item/2006577705/",
+    "https://hdl.loc.gov/loc.gmd/collgmd.gm000008",
+    "https://lccn.loc.gov/2006577705",
+    "https://search.catalog.loc.gov/instances/f72cbaca-a1ab-5331-aaf7-2a9e4ed2f2f1",
+    "https://www.loc.gov/item/2006577705",
+    "https://www.loc.gov/item/2006577705/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://www.loc.gov/static/collections/rochambeau-maps/500_500.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006577705/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "england",
+    "france",
+    "mississippi river valley",
+    "north america",
+    "placenita bay",
+    "united states",
+    "yorktown"
+  ],
+  "dct_subject_sm": [
+    "American History",
+    "American History and Civilization",
+    "American Revolution, 1763-1783",
+    "Maps & Geography",
+    "Military History",
+    "Military Maps"
+  ],
+  "dct_temporal_sm": [
+    "200?"
+  ],
+  "dct_title_s": "Rochambeau Map Collection",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006577705",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

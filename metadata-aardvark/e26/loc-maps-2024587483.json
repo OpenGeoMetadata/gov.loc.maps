@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "New map of New York and adjacent cities"
+  ],
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress A.D. 1876 by Gaylord Watson in the Office of the Librarian of Congress at Washington, D.C.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Watson, Gaylord, cartographer, publisher",
+    "Includes table of ocean steamships and illustrations.",
+    "Insets: Northern portion of the 24th ward of New York -- Map showing the Hudson River and adjoining country.",
+    "LC Ward maps 44",
+    "LC copy sectioned in 4 and mounted on 2 pieces of cloth.",
+    "Publication statement: N.Y. : published by Gaylord Watson, No. 16 Beckman Street, 1876.",
+    "Relief shown by hachures.",
+    "Shows wards and radial distances from 42nd street.",
+    "Shows wards and radial distances from 42nd street. Relief shown by hachures. \"Entered according to Act of Congress A.D. 1876 by Gaylord Watson in the Office of the Librarian of Congress at Washington, D.C.\" Includes table of ocean steamships and illustrations. Insets: Northern portion of the 24th ward of New York -- Map showing the Hudson River and adjoining country. LC copy sectioned in 4 and mounted on 2 pieces of cloth. LC Ward maps 44 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024587483",
+    "http://www.loc.gov/item/2024587483/",
+    "http://www.loc.gov/resource/g3804n.wd000044a/",
+    "http://www.loc.gov/resource/g3804n.wd000044b/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.wd000044a",
+    "https://hdl.loc.gov/loc.gmd/g3804n.wd000044b",
+    "https://search.catalog.loc.gov/instances/a51785d3-5dd0-57a7-87d8-32c717d1fcc4",
+    "https://www.loc.gov/item/2024587483/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/wd000044b.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024587483/\"}",
+  "dct_spatial_sm": [
+    "hoboken",
+    "jersey city",
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "new york city",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Hoboken (N.J.)--Maps",
+    "Jersey City (N.J.)--Maps",
+    "New York (N.Y.)--Maps",
+    "United States--New Jersey--Hoboken",
+    "United States--New Jersey--Jersey City",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Watson's new map of New York and adjacent cities",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024587483",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Washington and Ohio Railroad Company",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 607",
+    "Map of the northeastern states showing drainage, cities and towns, townships, counties, and the railroad network with emphasis on the main line.",
+    "Publication statement: New York, 1870.",
+    "Scale 1:1,267,200."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3706p.rr006070",
+    "http://lccn.loc.gov/98688848",
+    "http://www.loc.gov/item/98688848/",
+    "http://www.loc.gov/resource/g3706p.rr006070/",
+    "https://hdl.loc.gov/loc.gmd/g3706p.rr006070",
+    "https://search.catalog.loc.gov/instances/0c58c90f-7987-5e12-83a8-1159ae65a6c9",
+    "https://www.loc.gov/item/98688848/"
+  ],
+  "dct_issued_s": "1870",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3706/g3706p/rr006070.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688848/\"}",
+  "dct_spatial_sm": [
+    "east",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--East (U.S.)--Maps",
+    "United States--East",
+    "Washington and Ohio Railroad Company--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ],
+  "dct_title_s": "Map showing the Washington and Ohio Rail Road and its connections",
+  "gbl_dateRange_drsim": [
+    "[1870 TO 1870]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1870
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688848",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

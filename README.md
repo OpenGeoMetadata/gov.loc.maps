@@ -1,9 +1,10 @@
 # Library of Congress Maps — partial collection
 
-**13,014 map items plus one collection record are available in this branch.**
-Browse [metadata-aardvark/](metadata-aardvark/). The bulk import adds 12,888
-inventory-matched Sanborn items. Full collection reconciliation remains pending.
-See the [bulk import report](reports/sanborn-bulk.json) and [reproduction instructions](docs/bulk-import.md).
+**59,663 map items plus one collection record are available in this branch.**
+Browse [metadata-aardvark/](metadata-aardvark/). Includes all 50,600 records from
+the official historical Sanborn package and additional LOC maps discoveries.
+Current membership reconciliation and full-item enrichment remain pending.
+See [source coverage](reports/sanborn-bulk.json) and [reproduction instructions](docs/bulk-import.md).
 
 # Project documentation
 

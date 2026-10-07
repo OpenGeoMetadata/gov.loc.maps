@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2004-84",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jaques, A. B.; Walling, Henry Francis, 1825-1888",
+    "General map showing householders' names.",
+    "General map showing householders' names. Relief shown by hachures. Wall map issued with wooden rods attached at top and bottom sheet edges. Includes ancillary map of downtown Haverhill and ill. Imperfect: Darkened, stained, brittle, small tears along edges. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 2004-84",
+    "Imperfect: Darkened, stained, brittle, small tears along edges.",
+    "Includes ancillary map of downtown Haverhill and ill.",
+    "Publication statement: [Massachusetts?] : Published by A.B. Jaques, 1851.",
+    "Relief shown by hachures.",
+    "Wall map issued with wooden rods attached at top and bottom sheet edges."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764h.ct006245",
+    "http://lccn.loc.gov/2004631170",
+    "http://www.loc.gov/item/2004631170/",
+    "http://www.loc.gov/resource/g3764h.ct006245/",
+    "https://hdl.loc.gov/loc.gmd/g3764h.ct006245",
+    "https://search.catalog.loc.gov/instances/4ba6a0c8-74a9-5439-a343-ed45965776e2",
+    "https://www.loc.gov/item/2004631170/"
+  ],
+  "dct_issued_s": "1851",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764h/ct006245.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004631170/\"}",
+  "dct_spatial_sm": [
+    "haverhill",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Central business districts--Massachusetts--Haverhill--Maps",
+    "Haverhill (Mass.)--Maps",
+    "Landowners--Massachusetts--Haverhill--Maps",
+    "Real property--Massachusetts--Haverhill--Maps",
+    "United States--Massachusetts--Haverhill"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "dct_title_s": "Map of the town of Haverhill, Essex County, Mass",
+  "gbl_dateRange_drsim": [
+    "[1851 TO 1851]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1851
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004631170",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

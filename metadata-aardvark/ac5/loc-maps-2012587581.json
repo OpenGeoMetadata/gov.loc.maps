@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: McWilliams & Thompson; Mendel, Edward, 1827-1884",
+    "Includes illustrations.",
+    "LC Land ownership maps, 194",
+    "LC copy sectioned in two.",
+    "Publication statement: Marion, Iowa : A copy of an original lithograph by courtesy of Marvin Oxley, [1949?]",
+    "Shows landowners.",
+    "Shows landowners. Includes illustrations. LC copy sectioned in two. LC Land ownership maps, 194 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4153l.la000194",
+    "http://lccn.loc.gov/2012587581",
+    "http://www.loc.gov/item/2012587581/",
+    "http://www.loc.gov/resource/g4153l.la000194/",
+    "https://hdl.loc.gov/loc.gmd/g4153l.la000194",
+    "https://search.catalog.loc.gov/instances/c2d51d57-6ec0-5c79-97ab-d112764a8eea",
+    "https://www.loc.gov/item/2012587581/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd415/g4153/g4153l/la000194.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012587581/\"}",
+  "dct_spatial_sm": [
+    "iowa",
+    "linn county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Iowa--Linn County--Maps",
+    "Linn County (Iowa)--Maps",
+    "Real property--Iowa--Linn County--Maps",
+    "United States--Iowa--Linn County"
+  ],
+  "dct_temporal_sm": [
+    "1949",
+    "Marion, Iowa : A copy of an original lithograph by courtesy of Marvin Oxley, [1949?]"
+  ],
+  "dct_title_s": "Map of Linn County, Iowa",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012587581",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

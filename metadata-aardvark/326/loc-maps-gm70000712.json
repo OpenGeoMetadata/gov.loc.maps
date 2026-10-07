@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base from General highway map, July 1, 1968 and March 1, 1969. Base 4-R-28, 218.\"",
+    "\"Base from General highway map, July 1, 1968 and March 1, 1969. Base 4-R-28, 218.\" Includes location map. Scale 1:589,300. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Fort Worth, Tex. [1969]",
+    "Scale 1:589,300."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm70000712",
+    "http://www.loc.gov/item/gm70000712/",
+    "http://www.loc.gov/resource/g4032t.ct011488/",
+    "https://hdl.loc.gov/loc.gmd/g4032t.ct011488",
+    "https://search.catalog.loc.gov/instances/bbe7160c-9b8b-53db-8d26-113c79aa90ab",
+    "https://www.loc.gov/item/gm70000712/"
+  ],
+  "dct_issued_s": "1969",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032t/ct011488.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70000712/\"}",
+  "dct_spatial_sm": [
+    "texas",
+    "texas panhandle",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Texas Panhandle (Tex.)--Maps",
+    "United States--Texas--Texas Panhandle"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "dct_title_s": "Preliminary map, North Rolling Plains, RC&D, Collingsworth, Donley, Gray, Hall, Hemphill, Wheeler counties and a portion of Briscoe County, Texas",
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1969]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70000712",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

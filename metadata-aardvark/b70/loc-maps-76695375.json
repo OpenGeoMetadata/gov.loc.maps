@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bailey (F. and R.); Scott, Joseph (Geographer)",
+    "From the author's United States gazetteer, 1795.",
+    "LC copy annotated in pencil.",
+    "Publication statement: [Philadelphia, F. and R. Bailey, 1795]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. From the author's United States gazetteer, 1795. Scale ca. 1:1,700,000. Available also through the Library of Congress Web site as a raster image. LC copy annotated in pencil. Vault AACR2: 100; 651/1",
+    "Scale ca. 1:1,700,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3840.ct004120",
+    "http://lccn.loc.gov/76695375",
+    "http://www.loc.gov/item/76695375/",
+    "http://www.loc.gov/resource/g3840.ct004120/",
+    "https://hdl.loc.gov/loc.gmd/g3840.ct004120",
+    "https://search.catalog.loc.gov/instances/f3e5a164-2bc4-5adf-bc28-a5ce3848e076",
+    "https://www.loc.gov/item/76695375/"
+  ],
+  "dct_issued_s": "1795",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3840/g3840/ct004120.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76695375/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Maryland--Maps--Early works to 1800",
+    "United States--Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1795"
+  ],
+  "dct_title_s": "Maryland",
+  "gbl_dateRange_drsim": [
+    "[1795 TO 1795]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1795
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76695375",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

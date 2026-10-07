@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from USGS base map.\"",
+    "\"From: Map of Land resource regions and major land resource areas of the United States (48 conterminous states), September 1978.\"",
+    "\"Revised April 1983 4-R-18903.\"",
+    "\"Revised April 1983 4-R-18903.\" \"From: Map of Land resource regions and major land resource areas of the United States (48 conterminous states), September 1978.\" \"Base compiled from USGS base map.\" Indexed. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Indexed.",
+    "Publication statement: Ft. Worth, TX : USDA-SCS-National Cartographic Center ; [Temple, Tex. : State Conservationist, distributor], 1992."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3861j.ct008844",
+    "http://lccn.loc.gov/92682926",
+    "http://www.loc.gov/item/92682926/",
+    "http://www.loc.gov/resource/g3861j.ct008844/",
+    "https://hdl.loc.gov/loc.gmd/g3861j.ct008844",
+    "https://search.catalog.loc.gov/instances/678360cd-555c-50a1-afc5-804c35fb8077",
+    "https://www.loc.gov/item/92682926/"
+  ],
+  "dct_issued_s": "1983",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3861/g3861j/ct008844.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92682926/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Agricultural geography--Southern States--Maps",
+    "Physical geography--Southern States--Maps",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "dct_title_s": "Land resource areas, South Technical Service Center area",
+  "gbl_dateRange_drsim": [
+    "[1983 TO 1983]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1983
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92682926",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Alternate title from P. L. Phillips' A list of maps of America: Map of the route of Gen. William Tryon's expedition to Danbury.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Montrésor, John, 1736-1799",
+    "Has watermarks.",
+    "LC Maps of North America, 1750-1789, 1025",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: [1777?]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:80,000.",
+    "Stamped on verso: Montresor.",
+    "Title in pencil.",
+    "Title in pencil. Alternate title from P. L. Phillips' A list of maps of America: Map of the route of Gen. William Tryon's expedition to Danbury. Manuscript, pen-and-ink and watercolor. Has watermarks. Relief shown by hachures. Stamped on verso: Montresor. Scale ca. 1:80,000. LC Maps of North America, 1750-1789, 1025 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3784d.ar102500",
+    "http://lccn.loc.gov/gm71000884",
+    "http://www.loc.gov/item/gm71000884/",
+    "http://www.loc.gov/resource/g3784d.ar102500/",
+    "https://hdl.loc.gov/loc.gmd/g3784d.ar102500",
+    "https://search.catalog.loc.gov/instances/e32a8548-7390-5062-9cb3-977bce7a64c9",
+    "https://www.loc.gov/item/gm71000884/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd378/g3784/g3784d/ar102500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000884/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "danbury",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Danbury (Conn.)--History--Burning by the British, 1777--Maps, Manuscript--Early works to 1800",
+    "United States--Connecticut--Danbury"
+  ],
+  "dct_temporal_sm": [
+    "1777",
+    "[1777?]"
+  ],
+  "dct_title_s": "Gov. Tryon's expedition to Danbury, 1777",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000884",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

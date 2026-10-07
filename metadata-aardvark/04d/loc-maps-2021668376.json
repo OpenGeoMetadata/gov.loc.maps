@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Charte von Holland : nach astronomischen Beobachtungen, den Messungen des Schnellius & c. und den vorzüglichsten Specialcharten neu entworfen von F. L. Güssefeld"
+  ],
+  "dct_description_sm": [
+    "Content in German.",
+    "Contributors: Güssefeld, Franz Ludwig, 1744-1807 Cartographer.; Snellius, Willebrord, 1580-1626 Contributor.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 colored map ; 56 x 44 centimeters.",
+    "Publication statement: Nürnberg, Germany : Homann Heirs, 1791.",
+    "This map of the Netherlands coast is the work of Prussian cartographer Franz Ludwig Güssefeld (1744-1807). It was drawn based on the calculations of the renowned Dutch mathematician Willebrord Snellius (1580-1626), a professor of mathematics at the University of Leiden, who conceived the idea of measuring the earth using triangulation. Snellius's discoveries helped to determine the radius of the earth as well as led to more accurate ways of measuring the distance between two cities.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668376",
+    "http://www.loc.gov/item/2021668376/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_01132/",
+    "http://www.loc.gov/resource/wdl.1132/",
+    "https://hdl.loc.gov/loc.wdl/wdl.1132",
+    "https://www.loc.gov/item/2021668376/"
+  ],
+  "dct_issued_s": "1791-01-01",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_01132.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/01/13/2/wdl_01132/wdl_01132.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:13:2:wdl_01132:cart528759/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668376/\"}",
+  "dct_spatial_sm": [
+    "netherlands"
+  ],
+  "dct_subject_sm": [
+    "1791",
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "1791-01-01"
+  ],
+  "dct_title_s": "Map of Holland: According to Astronomical Observations, Measurements of Schnellius & c. and the Superiorly Redesigned Special Maps of F. L. Güssefeld.",
+  "gbl_dateRange_drsim": [
+    "[1791 TO 1791]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1791
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668376",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blue-line print.",
+    "Contributors: Wilkins, W. G. Co",
+    "Includes inset of northern portion of county.",
+    "Publication statement: Logan, W. Va. : The W.G. Wilkins Co., [1915]; copyrighted 1915",
+    "Shows coal company boundaries.",
+    "Shows coal company boundaries. Blue-line print. Includes inset of northern portion of county. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3893l.ct002322",
+    "http://lccn.loc.gov/2012593204",
+    "http://www.loc.gov/item/2012593204/",
+    "http://www.loc.gov/resource/g3893l.ct002322/",
+    "https://hdl.loc.gov/loc.gmd/g3893l.ct002322",
+    "https://search.catalog.loc.gov/instances/fbf980b1-018c-5ddc-99f1-7d106005308b",
+    "https://www.loc.gov/item/2012593204/"
+  ],
+  "dct_issued_s": "1915",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3893/g3893l/ct002322.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593204/\"}",
+  "dct_spatial_sm": [
+    "logan county",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Coal mines and mining--West Virginia--Logan County--Maps",
+    "Coal--West Virginia--Logan County--Maps",
+    "Logan County (W. Va.)--Maps",
+    "United States--West Virginia--Logan County"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "dct_title_s": "Map of the Logan County coal field in West Virginia",
+  "gbl_dateRange_drsim": [
+    "[1915 TO 1915]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1915
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593204",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

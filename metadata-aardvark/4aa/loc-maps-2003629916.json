@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Totivs Americae nova et exacta tabvla ex optimis tvm geographorvm tvm aliorvm scriptis collecta et ad hodiernam regnorvm principatvvm et maiorvm partivm distinctionem accomodata"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 2003-12",
+    "Also shows Iberian peninsula and west coast of Africa.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Blaeu, Willem Janszoon, 1571-1638; Danckerts, Cornelis, approximately 1603-1656; Rossi, Giovanni Giacomo de, 1627-1691",
+    "Copy imperfect: lacking eastern sheet.",
+    "Includes polar stereographic inset and ill.",
+    "Not attributable to Blaeu, but instead derived from Cornelius Danckert's 1647 map of the same title, according to Burden's The mapping of North America, 1996.",
+    "Publication statement: [Rome] : Si vendano per Gio. Giacomo Rossi a Roma all'insegna di Parigi alle pace, 1679.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Also shows Iberian peninsula and west coast of Africa. Not attributable to Blaeu, but instead derived from Cornelius Danckert's 1647 map of the same title, according to Burden's The mapping of North America, 1996. Includes polar stereographic inset and ill. Copy imperfect: lacking eastern sheet. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 2003-12"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3290.ct007241",
+    "http://lccn.loc.gov/2003629916",
+    "http://www.loc.gov/item/2003629916/",
+    "http://www.loc.gov/resource/g3290.ct007241/",
+    "https://hdl.loc.gov/loc.gmd/g3290.ct007241",
+    "https://search.catalog.loc.gov/instances/07e61f73-b5f1-55fa-bee8-25486b02716f",
+    "https://www.loc.gov/item/2003629916/"
+  ],
+  "dct_issued_s": "1679",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3290/g3290/ct007241.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003629916/\"}",
+  "dct_spatial_sm": [
+    "america"
+  ],
+  "dct_subject_sm": [
+    "America",
+    "America--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1679"
+  ],
+  "dct_title_s": "Totius Americae nova et exacta tabula ex optimis tum geographorum tum aliorum scriptis collecta et ad hodiernam regnorum principatuum et maiorum partium distinctionem accomodata",
+  "gbl_dateRange_drsim": [
+    "[1679 TO 1679]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1679
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003629916",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-15,771.\"",
+    "\"April 1979.\"",
+    "\"Base source: USGS 1:24,000 Topo Quads (1969, 1970).\"",
+    "\"Base source: USGS 1:24,000 Topo Quads (1969, 1970).\" \"April 1979.\" Includes location map. \"1-15,771.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1980."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822t.ct008080",
+    "http://lccn.loc.gov/81690279",
+    "http://www.loc.gov/item/81690279/",
+    "http://www.loc.gov/resource/g3822t.ct008080/",
+    "https://hdl.loc.gov/loc.gmd/g3822t.ct008080",
+    "https://search.catalog.loc.gov/instances/3cb88a01-d925-55fe-b999-c228a85290d9",
+    "https://www.loc.gov/item/81690279/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822t/ct008080.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690279/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "pennsylvania",
+    "tioga river watershed",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Land capability for agriculture--Tioga River watershed (Pa. and N.Y.)--Maps",
+    "United States--Pennsylvania--Tioga River watershed"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Land capability classes, upper Tioga River watershed, Tioga and Bradford Counties, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690279",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

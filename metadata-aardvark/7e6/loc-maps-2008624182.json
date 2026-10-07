@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no.: 2008-178",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing lots and lot numbers.",
+    "Cadastral map showing lots and lot numbers. Includes ill. of buildings. Available also through the Library of Congress Web site as a raster image. Acquisitions control no.: 2008-178",
+    "Contributors: E. Boyden & Son; J.H. Bufford's Lith",
+    "Includes ill. of buildings.",
+    "Publication statement: Boston : J.H. Bufford's Lith., [1873]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764f.ct006029",
+    "http://lccn.loc.gov/2008624182",
+    "http://www.loc.gov/item/2008624182/",
+    "http://www.loc.gov/resource/g3764f.ct006029/",
+    "https://hdl.loc.gov/loc.gmd/g3764f.ct006029",
+    "https://search.catalog.loc.gov/instances/a56cb78f-8b37-582d-b449-b72d8f3ea316",
+    "https://www.loc.gov/item/2008624182/"
+  ],
+  "dct_issued_s": "1873",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764f/ct006029.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008624182/\"}",
+  "dct_spatial_sm": [
+    "falmouth heights",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Real property--Massachusetts--Falmouth Heights--Maps",
+    "United States--Massachusetts--Falmouth Heights"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "dct_title_s": "Plan of Falmouth Heights, Falmouth Mass., April 1st 1873",
+  "gbl_dateRange_drsim": [
+    "[1873 TO 1873]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1873
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008624182",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

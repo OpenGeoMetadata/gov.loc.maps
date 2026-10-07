@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Foster & Reynolds Co; Matthews-Northrup Company",
+    "DCP",
+    "Includes text, indexes, and advertisement.",
+    "LC copy imperfect: Stained by mending tape.",
+    "Publication statement: Washington, D.C. : Foster & Reynolds Co., c1911.",
+    "Scale ca. 1:16,896.",
+    "Shows radial distances from the Capitol.",
+    "Shows radial distances from the Capitol. Includes text, indexes, and advertisement. Scale ca. 1:16,896. Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Stained by mending tape. DCP AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004493",
+    "http://lccn.loc.gov/80693175",
+    "http://www.loc.gov/item/80693175/",
+    "http://www.loc.gov/resource/g3850.ct004493/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004493",
+    "https://search.catalog.loc.gov/instances/09174ff2-a1e4-5d69-99ab-ceccafab548f",
+    "https://www.loc.gov/item/80693175/"
+  ],
+  "dct_issued_s": "1911",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004493.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80693175/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "dct_title_s": "The \"Standard guide\" ready reference map of Washington : to accompany the \"Washington standard guide\"",
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1911
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80693175",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

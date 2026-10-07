@@ -1,0 +1,47 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Historic atlas resource, Europe",
+    "Oregon State System of Higher Education historical & cultural atlas resource"
+  ],
+  "dct_description_sm": [
+    "Began in 1990s?",
+    "Collection of original interactive maps created at the University of Oregon, for use in instruction in a variety of subjects.",
+    "Contributors: University of Oregon. InfoGraphics Lab.",
+    "Mode of access: World Wide Web.",
+    "Publication statement: [Eugene, Or.] : University of Oregon, Dept. of History : University of Oregon, New Media Center; University of Oregon Dept. of Geography InfoGraphics Lab",
+    "System requirements: World Wide Web browser and shockwave plug-in required.",
+    "Title from home page (viewed on Sept. 4, 2003)."
+  ],
+  "dct_identifier_sm": [
+    "http://darkwing.uoregon.edu/~atlas/europe/maps.html",
+    "http://lccn.loc.gov/2003621520",
+    "http://www.loc.gov/item/2003621520/",
+    "https://www.loc.gov/item/2003621520/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2003621520/\"}",
+  "dct_subject_sm": [
+    "Civilization, Ancient--Maps",
+    "Geography--Study and teaching--Maps"
+  ],
+  "dct_temporal_sm": [
+    "199?"
+  ],
+  "dct_title_s": "OSSHE historical & cultural atlas resource Europe map archive.",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003621520",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

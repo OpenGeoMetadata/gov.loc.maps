@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate panel title: Lowell",
+    "Lowell",
+    "Title at upper left: Visiting Lowell",
+    "Visiting Lowell"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 1999--454-767/00151.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes descriptive list of points of interest, 3 insets showing canal system in 1823, 1836, and 1848, diagram showing vertical drops for locks, and col. ill.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1999]",
+    "Relief shown by spot heights.",
+    "Relief shown by spot heights. \"*GPO: 1999--454-767/00151.\" Panel title. Includes descriptive list of points of interest, 3 insets showing canal system in 1823, 1836, and 1848, diagram showing vertical drops for locks, and col. ill. Text, ill. (some col.), map showing ethnic enclaves in 1912, and background image consisting of part of 1845 map of Lowell by G.W. Boynton on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text, ill. (some col.), map showing ethnic enclaves in 1912, and background image consisting of part of 1845 map of Lowell by G.W. Boynton on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764l.ct006239",
+    "http://lccn.loc.gov/00555694",
+    "http://www.loc.gov/item/00555694/",
+    "http://www.loc.gov/resource/g3764l.ct006239/",
+    "https://hdl.loc.gov/loc.gmd/g3764l.ct006239",
+    "https://search.catalog.loc.gov/instances/d28276a2-d7c6-5385-8f53-2e9766a0eb4c",
+    "https://www.loc.gov/item/00555694/"
+  ],
+  "dct_issued_s": "1999",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764l/ct006239.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00555694/\"}",
+  "dct_spatial_sm": [
+    "lowell",
+    "lowell national historical park",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Lowell National Historical Park (Lowell, Mass.)--Maps",
+    "United States--Massachusetts--Lowell--Lowell National Historical Park"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "dct_title_s": "Lowell National Historical Park, Massachusetts",
+  "gbl_dateRange_drsim": [
+    "[1999 TO 1999]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1999
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00555694",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

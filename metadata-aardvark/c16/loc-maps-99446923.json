@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Hotchkiss, Jedediah, 1828-1899",
+    "Description derived from published bibliography.",
+    "LC Civil War maps (2nd ed.), H274",
+    "Pencil sketch giving the names of a number of settlements. Annotation on the reverse, \"Foot of Blue Ridge.\"",
+    "Pencil sketch giving the names of a number of settlements. Annotation on the reverse, \"Foot of Blue Ridge.\" Description derived from published bibliography. Scale ca. 1:200,000. LC Civil War maps (2nd ed.), H274 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: [ 186-]",
+    "Scale ca. 1:200,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883a.cwh00274",
+    "http://lccn.loc.gov/99446923",
+    "http://www.loc.gov/item/99446923/",
+    "http://www.loc.gov/resource/g3883a.cwh00274/",
+    "https://hdl.loc.gov/loc.gmd/g3883a.cwh00274",
+    "https://search.catalog.loc.gov/instances/b77a2f61-efed-5336-8424-717b34af6847",
+    "https://www.loc.gov/item/99446923/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883a/cwh00274.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446923/\"}",
+  "dct_spatial_sm": [
+    "albemarle county",
+    "nelson county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Albemarle County (Va.)--Maps, Manuscript",
+    "Nelson County (Va.)--Maps, Manuscript",
+    "United States--Virginia--Albemarle County",
+    "United States--Virginia--Nelson County"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "[Sketch of parts of Albemarle and Nelson counties, Virginia, showing road from Charlottesville to Scottsville, Lovingston, Howardsville, Afton, etc.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446923",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

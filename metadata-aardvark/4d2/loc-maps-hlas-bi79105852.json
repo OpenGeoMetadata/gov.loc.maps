@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: comité de la carta geológica de méxico; hernández sánchez mejorada, santiago; lópez ramos, ernesto; modelski, andrew m."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi79105852/",
+    "https://www.loc.gov/item/hlas-bi79105852/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "Comité de la Carta Geológica de México,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi79105852/\"}",
+  "dct_spatial_sm": [
+    "mexico"
+  ],
+  "dct_subject_sm": [
+    "geology",
+    "geology -- maps and cartography",
+    "geology -- mexico",
+    "maps and cartography",
+    "maps and cartography -- mexico",
+    "mexico"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "Carta geológica de la República Mexicana. Compilada con la colaboración de Santiago Hernández Sánchez Mejorada. Reproducción cartográfica: dirección de Santiago Hernández Sánchez Mejorada. Grabado y dibujó, Luis Burgos et al. Colaboración de Jorge Becerril Munciño et al.",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi79105852",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

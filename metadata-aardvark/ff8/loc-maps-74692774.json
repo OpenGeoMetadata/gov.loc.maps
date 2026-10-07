@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Homann Erben (Firm); Sauthier, Claude Joseph",
+    "Hand colored.",
+    "LC Maps of North America, 1750-1789, 1049",
+    "Prime meridian: New York.",
+    "Publication statement: Norimbergæ, 1778.",
+    "Relief shown by hachures.",
+    "Scale ca. 1:1,050,000.",
+    "Shows administrative boundaries in New York and New Jersey. Also shows portions of Pennsylvania and New England.",
+    "Title in upper margin: Carte geographique des provinces Neu-York et Neu-Jersey en Amérique publié par les Heritiers de Homann 1778.",
+    "Title in upper margin: Carte geographique des provinces Neu-York et Neu-Jersey en Amérique publié par les Heritiers de Homann 1778. Hand colored. Prime meridian: New York. Relief shown by hachures. Shows administrative boundaries in New York and New Jersey. Also shows portions of Pennsylvania and New England. Scale ca. 1:1,050,000. LC Maps of North America, 1750-1789, 1049 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3800.ar104900",
+    "http://lccn.loc.gov/74692774",
+    "http://www.loc.gov/item/74692774/",
+    "http://www.loc.gov/resource/g3800.ar104900/",
+    "https://hdl.loc.gov/loc.gmd/g3800.ar104900",
+    "https://search.catalog.loc.gov/instances/1ebc91ae-1aa8-5a92-af55-7bfc775a79aa",
+    "https://www.loc.gov/item/74692774/"
+  ],
+  "dct_issued_s": "1778",
+  "dct_language_sm": [
+    "fre",
+    "lat",
+    "latfre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3800/g3800/ar104900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692774/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "new york",
+    "new york (state)",
+    "northeastern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New Jersey--Administrative and political divisions--Maps--Early works to 1800",
+    "New Jersey--Maps--Early works to 1800",
+    "New York (State)--Administrative and political divisions--Maps--Early works to 1800",
+    "New York (State)--Maps--Early works to 1800",
+    "Northeastern States--Maps--Early works to 1800",
+    "United States--New Jersey",
+    "United States--New York (State)",
+    "United States--Northeastern States"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "dct_title_s": "Mappa geographica Provinciæ Nova Eboraci ab Anglis New-York dictæ ex ampliori delineatione ad exactas dimensiones concinnata in arctius spatium redacta cura Claudii Josephi Sauthier cui accedit Nova Jersey ex topographicis observationibus",
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1778
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692774",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

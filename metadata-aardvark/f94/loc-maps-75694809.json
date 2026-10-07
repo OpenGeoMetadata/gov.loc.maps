@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Shows points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 595 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Contributors: Currier & Ives",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 595",
+    "Perspective map not drawn to scale.",
+    "Publication statement: New York, Currier & Ives, 1870.",
+    "Shows points of interest."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804n.pm005950",
+    "http://lccn.loc.gov/75694809",
+    "http://www.loc.gov/item/75694809/",
+    "http://www.loc.gov/resource/g3804n.pm005950/",
+    "https://hdl.loc.gov/loc.gmd/g3804n.pm005950",
+    "https://search.catalog.loc.gov/instances/6ac3966c-eb9b-566a-b203-370dd7d91435",
+    "https://www.loc.gov/item/75694809/"
+  ],
+  "dct_issued_s": "1870",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804n/pm005950.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694809/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "new york city",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "New York (N.Y.)--Maps",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ],
+  "dct_title_s": "The city of New York",
+  "gbl_dateRange_drsim": [
+    "[1870 TO 1870]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1870
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694809",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

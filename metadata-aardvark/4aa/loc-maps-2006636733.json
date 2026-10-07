@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Approved, Chas. R. Suter, 1st Lt., U.S. Engrs., Chf. Engr., D. S.\"",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Mills, Robert, 1781-1855",
+    "Description derived from published bibliography.",
+    "LC Civil War maps (2nd ed.), S136",
+    "Pen and ink tracing of a map in Robert Mill's Atlas of the State of South Carolina . . . Baltimore, F. Lucas, Jr. [1825]",
+    "Publication statement: [1825]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Title and date from Stephenson's Civil War Maps, 1898. Description derived from published bibliography. \"Approved, Chas. R. Suter, 1st Lt., U.S. Engrs., Chf. Engr., D. S.\" Pen and ink tracing of a map in Robert Mill's Atlas of the State of South Carolina . . . Baltimore, F. Lucas, Jr. [1825] LC Civil War maps (2nd ed.), S136 Available also through the Library of Congress web site as raster image.",
+    "Title and date from Stephenson's Civil War Maps, 1898."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3913c.cws00136",
+    "http://lccn.loc.gov/2006636733",
+    "http://www.loc.gov/item/2006636733/",
+    "http://www.loc.gov/resource/g3913c.cws00136/",
+    "https://hdl.loc.gov/loc.gmd/g3913c.cws00136",
+    "https://search.catalog.loc.gov/instances/fd03a318-ca14-557d-99ad-007c7e46e11a",
+    "https://www.loc.gov/item/2006636733/"
+  ],
+  "dct_issued_s": "1825",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3913/g3913c/cws00136.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006636733/\"}",
+  "dct_spatial_sm": [
+    "colleton county",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Colleton County (S.C.)--Maps, Manuscript",
+    "United States--South Carolina--Colleton County"
+  ],
+  "dct_temporal_sm": [
+    "1825"
+  ],
+  "dct_title_s": "Colleton District, South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1825 TO 1825]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1825
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006636733",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

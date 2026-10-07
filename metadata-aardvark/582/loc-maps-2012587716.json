@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: McVicker, Geo. A.",
+    "Includes ancillary maps showing cities and towns, subdivisions, and partitions of estates, lists of county officials, distance chart, business directories, advertisement, and illustrations.",
+    "LC Land ownership maps, 201",
+    "LC copy laminated, mounted on cloth, and sectioned in six. Some losses throughout.",
+    "On label under title: G.W. Terry, map colorer & mounter, Rice's building, 79 Dearborn St., Chicago. Ill.",
+    "Publication statement: [Iowa?] : Geo. A. Vicker, 1872.",
+    "Shows landowners.",
+    "Shows landowners. On label under title: G.W. Terry, map colorer & mounter, Rice's building, 79 Dearborn St., Chicago. Ill. Includes ancillary maps showing cities and towns, subdivisions, and partitions of estates, lists of county officials, distance chart, business directories, advertisement, and illustrations. LC copy laminated, mounted on cloth, and sectioned in six. Some losses throughout. LC Land ownership maps, 201 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4153p.la000201",
+    "http://lccn.loc.gov/2012587716",
+    "http://www.loc.gov/item/2012587716/",
+    "http://www.loc.gov/resource/g4153p.la000201/",
+    "https://hdl.loc.gov/loc.gmd/g4153p.la000201",
+    "https://search.catalog.loc.gov/instances/c02ee17d-12ba-5991-b569-73f5c9fbfedd",
+    "https://www.loc.gov/item/2012587716/"
+  ],
+  "dct_issued_s": "1872",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd415/g4153/g4153p/la000201.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012587716/\"}",
+  "dct_spatial_sm": [
+    "iowa",
+    "polk county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Iowa--Polk County--Maps",
+    "Polk County (Iowa)--Maps",
+    "Real property--Iowa--Polk County--Maps",
+    "United States--Iowa--Polk County"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "dct_title_s": "Map of Polk County, Iowa",
+  "gbl_dateRange_drsim": [
+    "[1872 TO 1872]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1872
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012587716",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

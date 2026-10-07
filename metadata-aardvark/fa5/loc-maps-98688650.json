@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At head of title: \"776 miles in operation. 691 miles under construction.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Denver and Rio Grande Railway Company; Eccles, S. W.",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 399",
+    "Outline map of Colorado and New Mexico showing major relief by hachures, major drainage, cities and towns, and county boundaries. Main lines are indicated by heavy colored lines.",
+    "Publication statement: Chicago, c1881.",
+    "Scale 1:760,320."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4311p.rr003990",
+    "http://hdl.loc.gov/loc.gmd/g4311p.rr00399a",
+    "http://lccn.loc.gov/98688650",
+    "http://www.loc.gov/item/98688650/",
+    "http://www.loc.gov/resource/g4311p.rr003990/",
+    "http://www.loc.gov/resource/g4311p.rr00399a/",
+    "https://hdl.loc.gov/loc.gmd/g4311p.rr003990",
+    "https://hdl.loc.gov/loc.gmd/g4311p.rr00399a",
+    "https://search.catalog.loc.gov/instances/354dbb72-e984-5e1e-ad3b-3f83d6e2c7bf",
+    "https://www.loc.gov/item/98688650/"
+  ],
+  "dct_issued_s": "1881",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd431/g4311/g4311p/rr003990.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688650/\"}",
+  "dct_spatial_sm": [
+    "colorado",
+    "new mexico",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Denver and Rio Grande Railway Company--Maps",
+    "Railroads--Colorado--Maps",
+    "Railroads--New Mexico--Maps",
+    "United States--Colorado",
+    "United States--New Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1881"
+  ],
+  "dct_title_s": "Map of the Denver & Rio Grande Railway, showing its connections and extensions also the relative position of Denver and Pueblo to all the principal towns and mining regions of Colorado and New Mexico",
+  "gbl_dateRange_drsim": [
+    "[1881 TO 1881]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1881
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688650",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

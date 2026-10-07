@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Also showing the eastern shore of Mobile Bay, and including parts of Baldwin and Washington counties, Alabama, and Jackson and Green counties, Mississippi.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Black line print.",
+    "Black line print. \"Also showing the eastern shore of Mobile Bay, and including parts of Baldwin and Washington counties, Alabama, and Jackson and Green counties, Mississippi. Includes election precincts information. LC Land ownership maps, 5 Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Fondé, Henry",
+    "Includes election precincts information.",
+    "LC Land ownership maps, 5",
+    "Publication statement: St. Louis, Mo. : Photo. Eng. Co., 1895."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3973m.la000005",
+    "http://lccn.loc.gov/2011590019",
+    "http://www.loc.gov/item/2011590019/",
+    "http://www.loc.gov/resource/g3973m.la000005/",
+    "https://hdl.loc.gov/loc.gmd/g3973m.la000005",
+    "https://search.catalog.loc.gov/instances/ac7c419f-0598-5d58-bc55-0e23acc21849",
+    "https://www.loc.gov/item/2011590019/"
+  ],
+  "dct_issued_s": "1895",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3973/g3973m/la000005.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011590019/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "mobile county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Alabama--Maps",
+    "Election districts--Alabama--Mobile County--Maps",
+    "Landowners--Alabama--Mobile County--Maps",
+    "Mobile County (Ala.)--Maps",
+    "United States--Alabama--Mobile County"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dct_title_s": "Township and sectional map of Mobile County, State of Alabama : compiled and drawn from the most reliable and recent data : showing the railroads, public roads, school houses, Old Spanish & other grants, etc., etc",
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011590019",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

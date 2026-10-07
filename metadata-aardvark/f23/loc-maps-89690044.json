@@ -1,0 +1,75 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Archives and Records Administration. Cartographic and Architectural Branch",
+    "DCP",
+    "In left lower margin of some maps: N.G.S.",
+    "LC copies rubber-stamped and annotated in ink on verso: Copy from the National Archives, record group no. 92, Post and Reservation File, map [no.], seq. [letter], sht. [no.].",
+    "Large-scale maps showing individual buildings and related facilities.",
+    "Large-scale maps showing individual buildings and related facilities. Title devised by cataloger. Photocopies of ms. maps in the National Archives and Records Administration, Cartographic and Architectural Branch, record group 92. Orientation differs. In left lower margin of some maps: N.G.S. Some maps include text, ill., and cost figures in dollars in lower margin. Some maps have \"Genl. plan no. ...\" in upper margin. Available also through the Library of Congress Web site as a raster image. LC copies rubber-stamped and annotated in ink on verso: Copy from the National Archives, record group no. 92, Post and Reservation File, map [no.], seq. [letter], sht. [no.]. DCP",
+    "Orientation differs.",
+    "Photocopies of ms. maps in the National Archives and Records Administration, Cartographic and Architectural Branch, record group 92.",
+    "Publication statement: [1865]",
+    "Some maps have \"Genl. plan no. ...\" in upper margin.",
+    "Some maps include text, ill., and cost figures in dollars in lower margin.",
+    "Title devised by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/89690044",
+    "http://www.loc.gov/item/89690044/",
+    "http://www.loc.gov/resource/gmdsetmaps.89690044/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.89690044",
+    "https://search.catalog.loc.gov/instances/1f3ab927-d805-58c9-8901-271151988990",
+    "https://www.loc.gov/item/89690044/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:89:69:00:44:89690044:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/89690044/\"}",
+  "dct_spatial_sm": [
+    "alexandria",
+    "arlington county",
+    "district of columbia",
+    "united states",
+    "virginia",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Military bases--Virginia--Alexandria--Maps",
+    "Military bases--Virginia--Arlington County--Maps",
+    "Military bases--Washington (D.C.)--Maps",
+    "Military hospitals--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--History--Civil War, 1861-1865--Hospitals--Maps",
+    "United States--History--Civil War, 1861-1865--Prisoners and prisons--Maps",
+    "United States--Virginia--Alexandria",
+    "United States--Virginia--Arlington County",
+    "United States.--Army--Prisons--Washington Metropolitan Area--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "[Maps of Civil War army posts, reservations, and hospitals in Washington D.C., Arlington, and Alexandria]",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89690044",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

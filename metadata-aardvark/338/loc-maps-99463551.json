@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate panel title: Home of Franklin D. Roosevelt National Historic Site, New York",
+    "Home of Franklin D. Roosevelt National Historic Site, New York"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 1999--454-767/00045. Reprint 1999.\"",
+    "\"*GPO: 1999--454-767/00045. Reprint 1999.\" Panel title. Includes text and col. ill. Text and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and col. ill.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1999]",
+    "Text and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804h.ct006551",
+    "http://lccn.loc.gov/99463551",
+    "http://www.loc.gov/item/99463551/",
+    "http://www.loc.gov/resource/g3804h.ct006551/",
+    "https://hdl.loc.gov/loc.gmd/g3804h.ct006551",
+    "https://search.catalog.loc.gov/instances/77217d63-1df2-56fb-b739-5df4971ac64b",
+    "https://www.loc.gov/item/99463551/"
+  ],
+  "dct_issued_s": "1999",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804h/ct006551.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99463551/\"}",
+  "dct_spatial_sm": [
+    "home of franklin d. roosevelt national historic site",
+    "hyde park",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Home of Franklin D. Roosevelt National Historic Site (Hyde Park, N.Y.)--Maps",
+    "United States--New York (State)--Hyde Park--Home of Franklin D. Roosevelt National Historic Site"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "dct_title_s": "Home of Franklin D. Roosevelt",
+  "gbl_dateRange_drsim": [
+    "[1999 TO 1999]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1999
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99463551",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

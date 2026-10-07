@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Standard map series designation: Series V895",
+    "Variant subtitle in lower margin: Duncans Mills, Calif, Sonoma County"
+  ],
+  "dct_description_sm": [
+    "\"Original map compiled by U.S. Geological Survey by planetable methods, 1942-1943.\"",
+    "Accompanied by \"Index map of California 1:25,000.\" A.M.S. V895. 2 maps : color ; each 24 x 45 cm.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.), compiler; United States. Army Map Service, cartographer, publisher",
+    "Includes source-materials note, sheet number, and diagrams.",
+    "Publication statement: Washington, D.C. : Army Map Service, 1947-",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. \"Original map compiled by U.S. Geological Survey by planetable methods, 1942-1943.\" Various editions of some sheets. Accompanied by \"Index map of California 1:25,000.\" A.M.S. V895. 2 maps : color ; each 24 x 45 cm. Includes source-materials note, sheet number, and diagrams. Available also through the Library of Congress Web site as a raster image.",
+    "Various editions of some sheets."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map48000290",
+    "http://www.loc.gov/item/map48000290/",
+    "http://www.loc.gov/resource/gmdsetmaps.map48000290/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map48000290",
+    "https://search.catalog.loc.gov/instances/26d87f86-df2d-5ade-8e30-9188daf1c7ec",
+    "https://www.loc.gov/item/map48000290/"
+  ],
+  "dct_issued_s": "1947",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:ma:p4:80:00:29:0:map48000290:cs000001r/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map48000290/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "California--Maps",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "dct_title_s": "California 1:25,000",
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1947]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-map48000290",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

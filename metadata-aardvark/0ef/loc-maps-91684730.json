@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"801451 (B00895) 6-91.\"",
+    "\"801451 (B00895) 6-91.\" Depths shown by contours. Also shows major ports, airfields, and historic sites. Includes comparative area map. Available also through the Library of Congress Web site as a raster image.",
+    "Also shows major ports, airfields, and historic sites.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Depths shown by contours.",
+    "Includes comparative area map.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1991]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7620.ct000925",
+    "http://lccn.loc.gov/91684730",
+    "http://www.loc.gov/item/91684730/",
+    "http://www.loc.gov/resource/g7620.ct000925/",
+    "https://hdl.loc.gov/loc.gmd/g7620.ct000925",
+    "https://search.catalog.loc.gov/instances/83f9dcf8-381c-56dc-94a9-e8035e5b85ba",
+    "https://www.loc.gov/item/91684730/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7620/g7620/ct000925.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91684730/\"}",
+  "dct_spatial_sm": [
+    "iran"
+  ],
+  "dct_subject_sm": [
+    "Iran",
+    "Iran--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "Iran",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91684730",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

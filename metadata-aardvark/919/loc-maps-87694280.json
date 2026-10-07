@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotated in pencil on verso of paper backing: W. in embryo.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral sketch map with tracts dated 1688 to 1794.",
+    "Cadastral sketch map with tracts dated 1688 to 1794. Title devised by cataloger. Manuscript--lead pencil on tracing paper. Mounted on manila paper. Annotated in pencil on verso of paper backing: W. in embryo. Lacks small sections. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 466 Vault DCP",
+    "DCP",
+    "Lacks small sections.",
+    "Manuscript--lead pencil on tracing paper.",
+    "Mounted on manila paper.",
+    "Phillips. Washington 466",
+    "Publication statement: [187-?]",
+    "Title devised by cataloger.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851g.la002217",
+    "http://lccn.loc.gov/87694280",
+    "http://www.loc.gov/item/87694280/",
+    "http://www.loc.gov/resource/g3851g.la002217/",
+    "https://hdl.loc.gov/loc.gmd/g3851g.la002217",
+    "https://search.catalog.loc.gov/instances/995aa000-2484-58b6-bd46-99b0de0151fa",
+    "https://www.loc.gov/item/87694280/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851g/la002217.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694280/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1688 d1794"
+  ],
+  "dct_title_s": "[Map of the area of northern Washington D.C. between Rockville Road and Washington Turnpike showing land tracts, owners' names, and dates]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694280",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

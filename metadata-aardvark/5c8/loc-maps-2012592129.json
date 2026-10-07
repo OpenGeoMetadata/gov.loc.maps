@@ -1,0 +1,77 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Prince George, Surry, Sussex and Southampton counties, Virginia"
+  ],
+  "dct_description_sm": [
+    "\"Gilmer maps no. 41.\"",
+    "\"Map from the Confederate Engineer Bureau in Richmond, Va. General J.F. Gilmer chief engineer - Presented to - the West Point Military Academy by his only daughter, Mrs. J.F. Minis, Savannah, GA.\"",
+    "At head of title: Chief Engineers Office D.N.V. Colonel, J.F. Gilmer, Chief Engineer.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint.",
+    "Contributors: Campbell, Albert H. (Albert Henry), 1826-1899; Confederate States of America. Army. Department of Northern Virginia; Gilmer, Jeremy Francis, 1818-1883; Minis, Louisa Porter",
+    "LC Land ownership maps, 1330",
+    "Publication statement: [Virginia : s.n.], 1863.",
+    "Shows names of some residents.",
+    "Shows names of some residents. \"Map from the Confederate Engineer Bureau in Richmond, Va. General J.F. Gilmer chief engineer - Presented to - the West Point Military Academy by his only daughter, Mrs. J.F. Minis, Savannah, GA.\" At head of title: Chief Engineers Office D.N.V. Colonel, J.F. Gilmer, Chief Engineer. Blueprint. \"Gilmer maps no. 41.\" LC Land ownership maps, 1330 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883p.la001330",
+    "http://lccn.loc.gov/2012592129",
+    "http://www.loc.gov/item/2012592129/",
+    "http://www.loc.gov/resource/g3883p.la001330/",
+    "https://hdl.loc.gov/loc.gmd/g3883p.la001330",
+    "https://search.catalog.loc.gov/instances/f22586f9-be64-544c-86f7-cf73c229d3da",
+    "https://www.loc.gov/item/2012592129/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883p/la001330.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592129/\"}",
+  "dct_spatial_sm": [
+    "prince george county",
+    "southampton county",
+    "surry county",
+    "sussex county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Virginia--Prince George County--Maps",
+    "Landowners--Virginia--Southampton County--Maps",
+    "Landowners--Virginia--Surry County--Maps",
+    "Landowners--Virginia--Sussex County--Maps",
+    "Prince George County (Va.)--Maps",
+    "Southampton County (Va.)--Maps",
+    "Surry County (Va.)--Maps",
+    "Sussex County (Va.)--Maps",
+    "United States--Virginia--Prince George County",
+    "United States--Virginia--Southampton County",
+    "United States--Virginia--Surry County",
+    "United States--Virginia--Sussex County"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Map of Pr. George, Surry, Sussex and Southampton counties, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592129",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Moore, E. S.",
+    "Indexed.",
+    "Indexed. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 19.1 Available also through the Library of Congress Web site as a raster image.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 19.1",
+    "Publication statement: [San Diego] : Coronado Beach Co., [188-]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4364c.pm000191",
+    "http://lccn.loc.gov/86690660",
+    "http://www.loc.gov/item/86690660/",
+    "http://www.loc.gov/resource/g4364c.pm000191/",
+    "https://hdl.loc.gov/loc.gmd/g4364c.pm000191",
+    "https://search.catalog.loc.gov/instances/ec31445e-5be3-579c-b0aa-6d69086270ef",
+    "https://www.loc.gov/item/86690660/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4364/g4364c/pm000191.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86690660/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "coronado",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coronado (Calif.)",
+    "United States--California--Coronado"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Bird's eye view of Coronado Beach, San Diego Bay and city of San Diego, Cal. in distance",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86690660",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Jefferson National Forest",
+    "Mount Rogers National Recreation Area map, Jefferson National Forest",
+    "Title from panel : Mount Rogers National Recreation Area map, Jefferson National Forest"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region; Virginia Commission of Game and Inland Fisheries",
+    "Map printed in 2 segments.",
+    "Publication statement: [Atlanta, Ga.?] : U.S. Dept. of Agriculture, Forest Service [Southern Region?, 2003?]",
+    "Relief shown by contours.",
+    "Relief shown by contours. Map printed in 2 segments. Text, recreation information, key map, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text, recreation information, key map, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882m.ct009125r",
+    "http://hdl.loc.gov/loc.gmd/g3882m.ct009125v",
+    "http://lccn.loc.gov/2013587513",
+    "http://www.loc.gov/item/2013587513/",
+    "http://www.loc.gov/resource/g3882m.ct009125r/",
+    "http://www.loc.gov/resource/g3882m.ct009125v/",
+    "https://hdl.loc.gov/loc.gmd/g3882m.ct009125r",
+    "https://hdl.loc.gov/loc.gmd/g3882m.ct009125v",
+    "https://search.catalog.loc.gov/instances/04163929-108a-51e1-bf35-53b18426ad51",
+    "https://www.loc.gov/item/2013587513/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882m/ct009125r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013587513/\"}",
+  "dct_spatial_sm": [
+    "mount rogers national recreation area",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Mount Rogers National Recreation Area (Va.)--Maps",
+    "United States--Virginia--Mount Rogers National Recreation Area"
+  ],
+  "dct_temporal_sm": [
+    "2003",
+    "[Atlanta, Ga.?] : U.S. Dept. of Agriculture, Forest Service [Southern Region?, 2003?]"
+  ],
+  "dct_title_s": "Mount Rogers National Recreation Area, Jefferson National Forest",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013587513",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

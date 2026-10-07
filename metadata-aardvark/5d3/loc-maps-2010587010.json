@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hotchkiss, Jedediah, 1828-1899",
+    "LC Land ownership maps, 1344",
+    "Mounted on chartex.",
+    "Publication statement: [Washington, D.C.] : Published by authority ... U.S. Army, 1875.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows landownership. Mounted on chartex. LC Land ownership maps, 1344 Available also through the Library of Congress Web site as a raster image.",
+    "Shows landownership."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883r.la001344",
+    "http://lccn.loc.gov/2010587010",
+    "http://www.loc.gov/item/2010587010/",
+    "http://www.loc.gov/resource/g3883r.la001344/",
+    "https://hdl.loc.gov/loc.gmd/g3883r.la001344",
+    "https://search.catalog.loc.gov/instances/53d2cce2-0c9c-55df-b2a6-4c97b6c5e335",
+    "https://www.loc.gov/item/2010587010/"
+  ],
+  "dct_issued_s": "1875",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883r/la001344.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010587010/\"}",
+  "dct_spatial_sm": [
+    "rockingham county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Rockingham County (Va.)--Maps",
+    "United States--Virginia--Rockingham County"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "dct_title_s": "Map of Rockingham County, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1875
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010587010",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

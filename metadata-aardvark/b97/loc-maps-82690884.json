@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-R,11,744.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Indexed.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1981.",
+    "Shows \"PL-566 and PL-534\" watershed study areas.",
+    "Shows \"PL-566 and PL-534\" watershed study areas. Indexed. \"1-R,11,744.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3881c.ct008957",
+    "http://lccn.loc.gov/82690884",
+    "http://www.loc.gov/item/82690884/",
+    "http://www.loc.gov/resource/g3881c.ct008957/",
+    "https://hdl.loc.gov/loc.gmd/g3881c.ct008957",
+    "https://search.catalog.loc.gov/instances/57195de0-1230-5322-be05-5a0b882da04f",
+    "https://www.loc.gov/item/82690884/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3881/g3881c/ct008957.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82690884/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Water resources development--Virginia--Maps",
+    "Watershed management--Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Watershed status map, Virginia : October 1, 1981",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82690884",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

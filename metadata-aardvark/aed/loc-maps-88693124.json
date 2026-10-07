@@ -1,0 +1,71 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"8 cents per square foot ... 20 May 1800.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map of block bounded by South Capitol, O, Half, and N streets S.W.",
+    "Cadastral map of block bounded by South Capitol, O, Half, and N streets S.W. \"8 cents per square foot ... 20 May 1800.\" Oriented with north to the left. Watermark: C W Mott 1795. Pen-and-ink and lead pencil. Fold-lined and mounted on cloth backing. Includes notes. Note in ink on verso. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "Contributors: Dermott, James R. (James Reed)",
+    "DCP",
+    "Fold-lined and mounted on cloth backing.",
+    "Includes notes.",
+    "Note in ink on verso.",
+    "Oriented with north to the left.",
+    "Pen-and-ink and lead pencil.",
+    "Publication statement: [1800]",
+    "Vault",
+    "Watermark: C W Mott 1795."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851g.la002211r",
+    "http://hdl.loc.gov/loc.gmd/g3851g.la002211v",
+    "http://lccn.loc.gov/88693124",
+    "http://www.loc.gov/item/88693124/",
+    "http://www.loc.gov/resource/g3851g.la002211r/",
+    "http://www.loc.gov/resource/g3851g.la002211v/",
+    "https://hdl.loc.gov/loc.gmd/g3851g.la002211r",
+    "https://hdl.loc.gov/loc.gmd/g3851g.la002211v",
+    "https://search.catalog.loc.gov/instances/f8dbc99b-8a5c-5f31-9a26-d489132ebda5",
+    "https://www.loc.gov/item/88693124/"
+  ],
+  "dct_issued_s": "1794",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851g/la002211r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693124/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps--To 1800",
+    "Real property--Washington (D.C.)--Maps--To 1800",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps, Manuscript--To 1800"
+  ],
+  "dct_temporal_sm": [
+    "1794"
+  ],
+  "dct_title_s": "Square no. 653, city of Washington",
+  "gbl_dateRange_drsim": [
+    "[1794 TO 1794]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1794
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693124",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

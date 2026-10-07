@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"718956 (B00129) 5-90.\"",
+    "Also shown administrative divisions.",
+    "Also shown administrative divisions. \"718956 (B00129) 5-90.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1990]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6080.ct002946",
+    "http://lccn.loc.gov/91685645",
+    "http://www.loc.gov/item/91685645/",
+    "http://www.loc.gov/resource/g6080.ct002946/",
+    "https://hdl.loc.gov/loc.gmd/g6080.ct002946",
+    "https://search.catalog.loc.gov/instances/b9939ffc-596e-54f9-8cb3-baaf9c949574",
+    "https://www.loc.gov/item/91685645/"
+  ],
+  "dct_issued_s": "1990",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6080/g6080/ct002946.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91685645/\"}",
+  "dct_spatial_sm": [
+    "germany"
+  ],
+  "dct_subject_sm": [
+    "Germany",
+    "Germany--Administrative and political divisions--Maps",
+    "Germany--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "dct_title_s": "East Germany and West Germany",
+  "gbl_dateRange_drsim": [
+    "[1990 TO 1990]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1990
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91685645",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

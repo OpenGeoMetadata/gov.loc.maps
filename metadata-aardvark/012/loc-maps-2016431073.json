@@ -1,0 +1,82 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Austria. Bundesamt für Eich- und Vermessungswesen, cartographer; Austria. Kartographisches Institut, cartographer; Austro-Hungarian Monarchy. Militärgeographisches Institut, cartographer; Germany. Reichsamt für Landesaufnahme. Hauptvermessungsabteilung XIV, Wien, cartographer",
+    "Each sheet individually titled and numbered, for example \"Gyimes-Pasz, zone 19 kol. XXXIV\".",
+    "Hungarian text on some sheets.",
+    "Includes various editions of most sheets.",
+    "Later sheets produced by Kartographisches Institut and the Bundesamt für Eich- und Vermessungswesen. Some sheets reprinted and updated by Hauptvermessungsabteilung XIV.",
+    "Publication statement: [Vienna] : K.u.K. Militärgeographisches Institut, [1875?-1945?]",
+    "Relief shown by hachures, contours, and spot heights.",
+    "Relief shown by hachures, contours, and spot heights. Title from index sheet. Each sheet individually titled and numbered, for example \"Gyimes-Pasz, zone 19 kol. XXXIV\". Includes various editions of most sheets. Later sheets produced by Kartographisches Institut and the Bundesamt für Eich- und Vermessungswesen. Some sheets reprinted and updated by Hauptvermessungsabteilung XIV. Some sheets mounted on cloth. Available also through the Library of Congress Web site as a raster image. Hungarian text on some sheets.",
+    "Some sheets mounted on cloth.",
+    "Title from index sheet."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2016431073",
+    "http://www.loc.gov/item/2016431073/",
+    "http://www.loc.gov/resource/gmdsetmaps.2016431073-001/",
+    "http://www.loc.gov/resource/gmdsetmaps.2016431073-002/",
+    "http://www.loc.gov/resource/gmdsetmaps.2016431073-003/",
+    "http://www.loc.gov/resource/gmdsetmaps.2016431073-004/",
+    "http://www.loc.gov/resource/gmdsetmaps.2016431073-005/",
+    "http://www.loc.gov/resource/gmdsetmaps.2016431073-006/",
+    "http://www.loc.gov/resource/gmdsetmaps.2016431073-007/",
+    "http://www.loc.gov/resource/gmdsetmaps.2016431073-008/",
+    "http://www.loc.gov/resource/gmdsetmaps.2016431073-009/",
+    "http://www.loc.gov/resource/gmdsetmaps.2016431073-010/",
+    "http://www.loc.gov/resource/gmdsetmaps.2016431073-011/",
+    "http://www.loc.gov/resource/gmdsetmaps.2016431073-012/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2016431073-001",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2016431073-002",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2016431073-003",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2016431073-004",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2016431073-005",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2016431073-006",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2016431073-007",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2016431073-008",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2016431073-009",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2016431073-010",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2016431073-011",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2016431073-012",
+    "https://search.catalog.loc.gov/instances/41d37d70-230b-5ad5-a9bf-768e08c5ddf8",
+    "https://www.loc.gov/item/2016431073/"
+  ],
+  "dct_language_sm": [
+    "ger",
+    "hungarian"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:20:16:43:10:73:-0:01:2016431073-001:0000-001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2016431073/\"}",
+  "dct_spatial_sm": [
+    "austria",
+    "hungary"
+  ],
+  "dct_subject_sm": [
+    "Austria",
+    "Austria--Maps",
+    "Hungary",
+    "Hungary--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1875",
+    "[Vienna] : K.u.K. Militärgeographisches Institut, [1875?-1945?]"
+  ],
+  "dct_title_s": "Spezialkarte der ö̈sterreichisch-ungarischen Monarchie",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2016431073",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

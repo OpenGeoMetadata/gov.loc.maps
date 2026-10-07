@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "DCP",
+    "LC copy fold-lined, torn, and mounted on cloth backing.",
+    "Publication statement: [Washington, D.C.? : s.n., 1882]",
+    "Road map of area including D.C., Alexandria, Fairfax, Prince Georges, and lower Montgomery counties.",
+    "Road map of area including D.C., Alexandria, Fairfax, Prince Georges, and lower Montgomery counties. Shows radial distances from the Capitol. Stephenson. Cartography of northern Virginia, pl. 82 Available also through the Library of Congress Web site as a raster image. LC copy fold-lined, torn, and mounted on cloth backing. DCP",
+    "Shows radial distances from the Capitol.",
+    "Stephenson. Cartography of northern Virginia, pl. 82"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct004803",
+    "http://lccn.loc.gov/88693455",
+    "http://www.loc.gov/item/88693455/",
+    "http://www.loc.gov/resource/g3851p.ct004803/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct004803",
+    "https://search.catalog.loc.gov/instances/3d2612d6-4512-502f-87b0-0681e5e79ff4",
+    "https://www.loc.gov/item/88693455/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct004803.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693455/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington metropolitan area",
+    "washington region"
+  ],
+  "dct_subject_sm": [
+    "Roads--Washington Metropolitan Area--Maps",
+    "Roads--Washington Region--Maps",
+    "United States--District of Columbia--Washington Metropolitan Area",
+    "United States--District of Columbia--Washington Region"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Map of Washington and vicinity",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693455",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

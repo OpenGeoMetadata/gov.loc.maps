@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lodge, John, -1796, engraver; Murray, John, 1737-1793, cartographer, publisher",
+    "From the Political magazine and parliamentary, naval, military, and literary journal (July 1785), volume 9.",
+    "In upper right corner: Political map July 85.",
+    "Includes notes and chart of latitude and longitude.",
+    "LC copy mounted on cloth backed paper.",
+    "Prime meridians: London and Ferro.",
+    "Publication statement: London : Published as the act directs 31st July 1785 by J. Murray, no. 32 Fleet Street, [1785]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Shows Maritime Provinces, New England to Boston, and St. Lawrence Valley region to Montreal. From the Political magazine and parliamentary, naval, military, and literary journal (July 1785), volume 9. Prime meridians: London and Ferro. In upper right corner: Political map July 85. Includes notes and chart of latitude and longitude. LC copy mounted on cloth backed paper. Available also through the Library of Congress Web site as a raster image.",
+    "Shows Maritime Provinces, New England to Boston, and St. Lawrence Valley region to Montreal."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3420.ct008114",
+    "http://lccn.loc.gov/2017585982",
+    "http://www.loc.gov/item/2017585982/",
+    "http://www.loc.gov/resource/g3420.ct008114/",
+    "https://hdl.loc.gov/loc.gmd/g3420.ct008114",
+    "https://search.catalog.loc.gov/instances/e33d0440-7bb7-5621-b6c0-606f74cee632",
+    "https://www.loc.gov/item/2017585982/"
+  ],
+  "dct_issued_s": "1785",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3420/g3420/ct008114.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585982/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "maritime provinces",
+    "new england",
+    "north america",
+    "nova scotia",
+    "saint lawrence river valley",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--Maritime Provinces",
+    "Canada--Nova Scotia",
+    "Maritime Provinces--Maps--Early works to 1800",
+    "New England--Maps--Early works to 1800",
+    "North America--Saint Lawrence River Valley",
+    "Nova Scotia--Maps--Early works to 1800",
+    "Saint Lawrence River Valley--Maps--Early works to 1800",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1785"
+  ],
+  "dct_title_s": "A new map of Nova Scotia and Cape Britain, with the adjacent part of New England and Canada from the latest authorities",
+  "gbl_dateRange_drsim": [
+    "[1785 TO 1785]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1785
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585982",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

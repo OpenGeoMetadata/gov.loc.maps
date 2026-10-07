@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Planimetry compiled from tri-metrogon aerial photography, mission: 267X Sept 1943 by 8th Photo Squadron, 5th Air Force, U.S. Army. Additional information from Anglo Persian Oil Co, Australasian Petroleum Co and local informants.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Anglo-Persian Oil Company; Australasian Petroleum Company; United States. Army Air Forces. Photo Reconnaissance Squadron, 8th; United States. Army. Corps of Engineers",
+    "Publication statement: United States : Army Corps of Engineers, 1943-",
+    "Verso of each map contains photomap of corresponding area.",
+    "Verso of each map contains photomap of corresponding area. \"Planimetry compiled from tri-metrogon aerial photography, mission: 267X Sept 1943 by 8th Photo Squadron, 5th Air Force, U.S. Army. Additional information from Anglo Persian Oil Co, Australasian Petroleum Co and local informants.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8160m.gct00320",
+    "http://lccn.loc.gov/2013588245",
+    "http://www.loc.gov/item/2013588245/",
+    "http://www.loc.gov/resource/g8160m.gct00320/",
+    "https://hdl.loc.gov/loc.gmd/g8160m.gct00320",
+    "https://search.catalog.loc.gov/instances/a52fa7aa-b912-5ac4-ba3f-edcc5bee73ac",
+    "https://www.loc.gov/item/2013588245/"
+  ],
+  "dct_issued_s": "1943",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8m/g8160m/g8160m/gct00320/cs000001r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013588245/\"}",
+  "dct_spatial_sm": [
+    "papua new guinea"
+  ],
+  "dct_subject_sm": [
+    "Papua New Guinea",
+    "Papua New Guinea--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "dct_title_s": "Special Map northeast New Guinea",
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1943]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013588245",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

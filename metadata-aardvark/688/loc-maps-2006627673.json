@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright 1883 by S. Howell Brown.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brown, S. Howell",
+    "Includes inset of Charlestown, text and 3 ill.",
+    "LC Land ownership maps, 1395",
+    "Publication statement: Philadelphia : J.L. Smith, 1883.",
+    "Relief shown with hachures.",
+    "Shows district boundaries and land ownership."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3893j.la001395",
+    "http://lccn.loc.gov/2006627673",
+    "http://www.loc.gov/item/2006627673/",
+    "http://www.loc.gov/resource/g3893j.la001395/",
+    "https://hdl.loc.gov/loc.gmd/g3893j.la001395",
+    "https://search.catalog.loc.gov/instances/70072939-9711-5ffd-80fa-f91a5afd2557",
+    "https://www.loc.gov/item/2006627673/"
+  ],
+  "dct_issued_s": "1883",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3893/g3893j/la001395.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006627673/\"}",
+  "dct_spatial_sm": [
+    "jefferson county",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Jefferson County (W. Va.)--Maps",
+    "Landowners--West Virginia--Jefferson County--Maps",
+    "Real property--West Virginia--Jefferson County--Maps",
+    "United States--West Virginia--Jefferson County"
+  ],
+  "dct_temporal_sm": [
+    "1883"
+  ],
+  "dct_title_s": "Map of Jefferson County, West Virginia",
+  "gbl_dateRange_drsim": [
+    "[1883 TO 1883]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1883
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006627673",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

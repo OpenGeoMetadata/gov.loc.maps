@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Authorship statement varies on some sheets: Modification to AMS base map by the Geometronics Service Center from 1974-75 aerial photography and 1980 correction guides furnished by the Southern Region.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map prepared by the U.S. Geological Survey, U.S. Coast and Geodetic Survey, and Army Map Service.",
+    "Base map series: 7.5 minute series.",
+    "Contributors: Geological Survey (U.S.); Geometronics Service Center (U.S.); U.S. Coast and Geodetic Survey; United States. Army Map Service; United States. Forest Service. Southern Region",
+    "In left upper margin: United States, Department of the Interior, Geological Survey, modified for USDA Forest Service use.",
+    "Includes index map.",
+    "On some sheets: Intermediate edition.",
+    "Publication statement: [Atlanta, Ga.] : The Region ; Asheville, N.C. : Forest Supervisor's Headquarters [distributor, 1985?]",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Authorship statement varies on some sheets: Modification to AMS base map by the Geometronics Service Center from 1974-75 aerial photography and 1980 correction guides furnished by the Southern Region. In left upper margin: United States, Department of the Interior, Geological Survey, modified for USDA Forest Service use. On some sheets: Intermediate edition. Base map prepared by the U.S. Geological Survey, U.S. Coast and Geodetic Survey, and Army Map Service. Base map series: 7.5 minute series. UTM grid. Includes index map. Available also through the Library of Congress Web site as a raster image.",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/86690307",
+    "http://www.loc.gov/item/86690307/",
+    "http://www.loc.gov/resource/gmdsetmaps.86690307/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.86690307",
+    "https://search.catalog.loc.gov/instances/928bd406-d42a-5ed5-a35a-f571af108529",
+    "https://www.loc.gov/item/86690307/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:86:69:03:07:86690307:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/86690307/\"}",
+  "dct_spatial_sm": [
+    "croatan national forest",
+    "croatan national forest (n.c.)",
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Croatan National Forest (N.C.)--Maps",
+    "United States--North Carolina--Croatan National Forest (N.C.)"
+  ],
+  "dct_temporal_sm": [
+    "1985",
+    "[Atlanta, Ga.] : The Region ; Asheville, N.C. : Forest Supervisor's Headquarters [distributor, 1985?]"
+  ],
+  "dct_title_s": "Croatan National Forest",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-86690307",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

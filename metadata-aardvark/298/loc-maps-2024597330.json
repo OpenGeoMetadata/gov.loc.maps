@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Commonly known as: Bishop Madison's map of Virginia"
+  ],
+  "dct_description_sm": [
+    "\"To the general assembly of Virginia this map is respectfully inscribed by their fellow citizens. James Madison, William Prentis, William Davis, proprietors.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Davis, William, active 1795-1816, contributor; Madison, James, 1749-1812, cartographer; Prentis, William, -1824, contributor",
+    "Includes inset of Ohio and panoramic view of \"the City of Richmond, metropolis of Virginia.\"",
+    "LC copy sectioned in 28 and mounted on 1 piece of cloth.",
+    "Prime meridian: Washington, D.C.",
+    "Publication statement: Richmond : published by the proprietors, [1818]",
+    "Relief shown by hachures.",
+    "Shows counties.",
+    "Title from illustrated cartouche.",
+    "vcFY24",
+    "vcFY24 Shows counties. Relief shown by hachures. Title from illustrated cartouche. Prime meridian: Washington, D.C. Includes inset of Ohio and panoramic view of \"the City of Richmond, metropolis of Virginia.\" \"To the general assembly of Virginia this map is respectfully inscribed by their fellow citizens. James Madison, William Prentis, William Davis, proprietors.\" LC copy sectioned in 28 and mounted on 1 piece of cloth. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597330",
+    "http://www.loc.gov/item/2024597330/",
+    "http://www.loc.gov/resource/g3881f.ct006373/",
+    "http://www.loc.gov/resource/g3881f.ct006707/",
+    "http://www.loc.gov/resource/g3881f.ct006708/",
+    "https://hdl.loc.gov/loc.gmd/g3881f.ct006373",
+    "https://hdl.loc.gov/loc.gmd/g3881f.ct006707",
+    "https://hdl.loc.gov/loc.gmd/g3881f.ct006708",
+    "https://search.catalog.loc.gov/instances/90835142-505f-5b71-a5a4-6d302a92d1bf",
+    "https://www.loc.gov/item/2024597330/"
+  ],
+  "dct_issued_s": "1818",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd388:g3881:g3881f:ct006373/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597330/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Administrative and political divisions--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1818"
+  ],
+  "dct_title_s": "A map of Virginia : formed from actual surveys, and the latest as well as most accurate observations",
+  "gbl_dateRange_drsim": [
+    "[1818 TO 1818]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1818
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597330",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

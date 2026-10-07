@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows submarine vegetation.",
+    "Also shows submarine vegetation. Depths shown by contours. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by contours.",
+    "Publication statement: [Florida? : s.n., 1979?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3932d.ct001255",
+    "http://lccn.loc.gov/83692704",
+    "http://www.loc.gov/item/83692704/",
+    "http://www.loc.gov/resource/g3932d.ct001255/",
+    "https://hdl.loc.gov/loc.gmd/g3932d.ct001255",
+    "https://search.catalog.loc.gov/instances/f3ff357d-08ea-55b6-b333-3fe6c3549b41",
+    "https://www.loc.gov/item/83692704/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3932/g3932d/ct001255.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83692704/\"}",
+  "dct_spatial_sm": [
+    "dry tortugas",
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Aquatic plants--Florida--Dry Tortugas--Maps",
+    "Corals--Florida--Dry Tortugas--Maps",
+    "United States--Florida--Dry Tortugas"
+  ],
+  "dct_temporal_sm": [
+    "1979",
+    "[Florida? : s.n., 1979?]"
+  ],
+  "dct_title_s": "Coral distribution in 1881 at Dry Tortugas, Florida, after Agassiz (1883)",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83692704",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

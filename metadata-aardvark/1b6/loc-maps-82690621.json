@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Includes index to points of interest and col. ill. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 328.1 Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: O.H. Bailey & Co",
+    "Includes index to points of interest and col. ill.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 328.1",
+    "Publication statement: Boston : O.H. Bailey & Co., lith. & pub., 1887."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764w.pm003281",
+    "http://lccn.loc.gov/82690621",
+    "http://www.loc.gov/item/82690621/",
+    "http://www.loc.gov/resource/g3764w.pm003281/",
+    "https://hdl.loc.gov/loc.gmd/g3764w.pm003281",
+    "https://search.catalog.loc.gov/instances/7937cfb4-306c-5fa3-9519-4470e6408491",
+    "https://www.loc.gov/item/82690621/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764w/pm003281.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82690621/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "united states",
+    "west medway"
+  ],
+  "dct_subject_sm": [
+    "United States--Massachusetts--West Medway",
+    "West Medway (Mass.)"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "West Medway, Massachusetts",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82690621",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

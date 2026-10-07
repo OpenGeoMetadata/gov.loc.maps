@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beck & Pauli; Stoner, J. J.",
+    "Includes illus. and index to points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 68",
+    "Oriented with north toward the lower right.",
+    "Oriented with north toward the lower right. Includes illus. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 68 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Madison, Wis., c1882."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4314g.pm000680",
+    "http://lccn.loc.gov/75693136",
+    "http://www.loc.gov/item/75693136/",
+    "http://www.loc.gov/resource/g4314g.pm000680/",
+    "https://hdl.loc.gov/loc.gmd/g4314g.pm000680",
+    "https://search.catalog.loc.gov/instances/ae975399-d25a-594c-97ed-d409407c92f6",
+    "https://www.loc.gov/item/75693136/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd431/g4314/g4314g/pm000680.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693136/\"}",
+  "dct_spatial_sm": [
+    "colorado",
+    "golden",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Golden (Colo.)--Maps",
+    "United States--Colorado--Golden"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Bird's eye view of Golden, Colo. co. seat of Jefferson County, 1882",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693136",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

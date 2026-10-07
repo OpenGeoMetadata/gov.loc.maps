@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bassett, Thomas (Bookseller), publisher; Chiswell, Richard publisher; Lamb, Francis, engraver; Speed, John, 1552-1629, cartographer",
+    "Copy imperfect: Water staining and losses along the edges.",
+    "From: Speed, John, The Theatre of the Empire of Great-Britain, London, 1676.",
+    "Includes coat of arms.",
+    "On verso: Description of Maryland and Virginia.",
+    "Oriented with north to the right.",
+    "Oriented with north to the right. Relief shown pictorially. From: Speed, John, The Theatre of the Empire of Great-Britain, London, 1676. Includes coat of arms. On verso: Description of Maryland and Virginia. Stamped in blue ink in lower left corner: 15C. Copy imperfect: Water staining and losses along the edges. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: London : Sold by Thomas Basset in Fleet Street and Richard Chiswell in St. Pauls Church yard, [1676]",
+    "Relief shown pictorially.",
+    "Stamped in blue ink in lower left corner: 15C."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021586054",
+    "http://www.loc.gov/item/2021586054/",
+    "http://www.loc.gov/resource/g3880.ct006352r/",
+    "http://www.loc.gov/resource/g3880.ct006352v/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct006352r",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct006352v",
+    "https://search.catalog.loc.gov/instances/14308685-fd89-5a88-a256-43e9ec188b9c",
+    "https://www.loc.gov/item/2021586054/"
+  ],
+  "dct_issued_s": "1676",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd388:g3880:g3880:ct006352r/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021586054/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Maryland--Maps--Early works to 1800",
+    "United States--Maryland",
+    "United States--Virginia",
+    "Virginia--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1676"
+  ],
+  "dct_title_s": "A map of Virginia and Maryland",
+  "gbl_dateRange_drsim": [
+    "[1676 TO 1676]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1676
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021586054",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

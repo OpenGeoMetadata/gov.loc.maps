@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"40076-H5-CF-050 : 1989.\"",
+    "\"Map edited 1989.\"",
+    "Alternate title in right lower margin: Montour Co., Pa.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); Pennsylvania. Bureau of Topographic and Geologic Survey",
+    "Includes notes, index diagram for 1:24,000-scale maps, and location map.",
+    "Pa. coordinate and UTM grids.",
+    "Publication statement: Reston, Va. : Interior--Geological Survey, 1989.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Alternate title in right lower margin: Montour Co., Pa. \"Map edited 1989.\" Pa. coordinate and UTM grids. Includes notes, index diagram for 1:24,000-scale maps, and location map. \"40076-H5-CF-050 : 1989.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823m.ct008246",
+    "http://lccn.loc.gov/90685068",
+    "http://www.loc.gov/item/90685068/",
+    "http://www.loc.gov/resource/g3823m.ct008246/",
+    "https://hdl.loc.gov/loc.gmd/g3823m.ct008246",
+    "https://search.catalog.loc.gov/instances/0a5bd04d-370d-5252-b601-0a150a7f72cd",
+    "https://www.loc.gov/item/90685068/"
+  ],
+  "dct_issued_s": "1989",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823m/ct008246.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90685068/\"}",
+  "dct_spatial_sm": [
+    "montour county",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Montour County (Pa.)--Maps",
+    "United States--Pennsylvania--Montour County"
+  ],
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "dct_title_s": "Montour County, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1989 TO 1989]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1989
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-90685068",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: alagoas, brazil (state). secretaría de planejamento; editôra abril. departamento cartográphico; lima, ivan fernandes; modelski, andrew m.; porto, fernando rocha"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi79105783/",
+    "https://www.loc.gov/item/hlas-bi79105783/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_publisher_sm": [
+    "Secretaría de Planejamento,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi79105783/\"}",
+  "dct_spatial_sm": [
+    "brazil"
+  ],
+  "dct_subject_sm": [
+    "alagoas, brazil (state)",
+    "alagoas, brazil (state) -- economic development",
+    "alagoas, brazil (state) -- maps and cartography",
+    "alagoas, brazil (state) -- regional planning",
+    "economic development",
+    "maps and cartography",
+    "regional development",
+    "regional development -- maps and cartography",
+    "regional planning"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "Estado de Alagoas, plano de ação 1976/79. Desenho original, Fernando Porto. Cartografia, Departamento Cartográfico Abril",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi79105783",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

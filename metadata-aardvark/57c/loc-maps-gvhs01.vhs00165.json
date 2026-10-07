@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Diary (Mss5:1 Sn237:1 v. 4, p. 948).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary image.",
+    "Publication statement: [S.l., 1863-1865]",
+    "Relief shown by hachures.",
+    "Shows the route of Lee's retreat across the Rappahannock River. Map is oriented with pontoon bridge at Rappahannock Station in upper left of the image, protected by Confederate earthworks and redoubts. Tne Wheatley post office is shown in the center of the image. Kellysville and Kelly's Ford, protected by Ewell's Division, are in lower third, to the left; and Mount Holly is to the right under the control of the Federal III Corps, commanded by William Henry French.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00165",
+    "http://www.loc.gov/item/001-CABIB20009748/",
+    "http://www.loc.gov/item/gvhs01.vhs00165/",
+    "http://www.loc.gov/resource/gvhs01.vhs00165/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00165",
+    "https://www.loc.gov/item/gvhs01.vhs00165/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00165.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00165/\"}",
+  "dct_spatial_sm": [
+    "culpeper county",
+    "fauquier county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Culpeper County (Va.)--History--Civil War, 1861-1865--Maps",
+    "Fauquier County (Va.)--History--Civil War, 1861-1865--Maps",
+    "French, William Henry,--1815-1881",
+    "Kelly's Ford, Battle of, Va",
+    "Kelly's Ford, Battle of, Va., 1863--Maps",
+    "United States--Virginia--Culpeper County",
+    "United States--Virginia--Fauquier County"
+  ],
+  "dct_temporal_sm": [
+    "1863/1865"
+  ],
+  "dct_title_s": "Battle of Kelly's Ford, Va. Plan of position of Union and Rebel forces at 1 o'clock 7th Nov.",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00165",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

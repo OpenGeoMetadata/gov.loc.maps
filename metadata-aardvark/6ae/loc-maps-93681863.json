@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802144 (R00931) 5-93.\"",
+    "\"Base 802144 (R00931) 5-93.\" Relief shown by shading. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1993]",
+    "Relief shown by shading."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8840.ct001170",
+    "http://lccn.loc.gov/93681863",
+    "http://www.loc.gov/item/93681863/",
+    "http://www.loc.gov/resource/g8840.ct001170/",
+    "https://hdl.loc.gov/loc.gmd/g8840.ct001170",
+    "https://search.catalog.loc.gov/instances/7325e515-4322-5873-ab53-0defc0311dbb",
+    "https://www.loc.gov/item/93681863/"
+  ],
+  "dct_issued_s": "1993",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8840/g8840/ct001170.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93681863/\"}",
+  "dct_spatial_sm": [
+    "nigeria"
+  ],
+  "dct_subject_sm": [
+    "Nigeria",
+    "Nigeria--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "dct_title_s": "Nigeria",
+  "gbl_dateRange_drsim": [
+    "[1993 TO 1993]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1993
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93681863",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This pen-and-ink and watercolor Spanish map of 1787 rather sketchily covers the coast of what are now Oregon, Washington, British Columbia, and southeastern Alaska from the 44th to the 61st parallels. It includes coastline, coastal features, islands, navigational hazards, and pictorial representation of selected coastal mountains. The map was prepared by Bernabé Muñoz under the direction of Pedro Rivelles of the Real Escuela de Navegación, Cadiz, Spain. The Real Escuela de Navegación was a mapping agency that operated within and performed services for the Spanish Royal Navy. Exactly when the agency was established and the tasks it performed are not fully understood by historians. It is probable that it was established in the mid-18th century to ensure the accuracy and consistency of maps produced for naval and commercial shipping and to house the growing body of maps and charts related to Spain's empire.\" World Digital Library.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Muñoz, Bernabe",
+    "LC Luso-Hispanic World, 81",
+    "Magg's description on verso.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: 1787.",
+    "Wagner, H. R. Cartography of the northwest coast, 708"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4362c.mf000073",
+    "http://lccn.loc.gov/99446213",
+    "http://www.loc.gov/item/99446213/",
+    "http://www.loc.gov/resource/g4362c.mf000073/",
+    "https://hdl.loc.gov/loc.gmd/g4362c.mf000073",
+    "https://search.catalog.loc.gov/instances/71cf653b-a3ba-5af8-bf2f-0a13c04fe530",
+    "https://www.loc.gov/item/99446213/"
+  ],
+  "dct_issued_s": "1787",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4362/g4362c/mf000073.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446213/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coasts--California--Maps--Early works to 1800",
+    "United States--California"
+  ],
+  "dct_temporal_sm": [
+    "1787"
+  ],
+  "dct_title_s": "Carta que contiene parte de la costa de la California",
+  "gbl_dateRange_drsim": [
+    "[1787 TO 1787]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1787
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446213",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

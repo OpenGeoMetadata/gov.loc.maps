@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hawley, Jesse L.; Through Traffic Railway",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 580",
+    "Outline map of eastern Pennsylvania and part of New Jersey showing relief by hachures, major drainage, major cities, and the connections of the many tributary railroads serving the coal regions. Railroads are named along the lines.",
+    "Publication statement: Pottsville, Pa., 1868.",
+    "Scale ca. 1:350,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3821p.rr005800",
+    "http://lccn.loc.gov/98688823",
+    "http://www.loc.gov/item/98688823/",
+    "http://www.loc.gov/resource/g3821p.rr005800/",
+    "https://hdl.loc.gov/loc.gmd/g3821p.rr005800",
+    "https://search.catalog.loc.gov/instances/2d47063a-7c4c-56cd-bbf9-500dfc7be27e",
+    "https://www.loc.gov/item/98688823/"
+  ],
+  "dct_issued_s": "1868",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3821/g3821p/rr005800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688823/\"}",
+  "dct_spatial_sm": [
+    "new jersey",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--New Jersey--Maps",
+    "Railroads--Pennsylvania--Maps",
+    "Through Traffic Railway",
+    "United States--New Jersey",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1868"
+  ],
+  "dct_title_s": "Map of Through Traffic Railway from the middle & southern anthracite coal fields of Pennsylvania to New York via Perth Amboy; Jesse L. Hawley under direction of R.A. Wilder",
+  "gbl_dateRange_drsim": [
+    "[1868 TO 1868]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1868
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688823",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

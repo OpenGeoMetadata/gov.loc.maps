@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Map edited 1987.\"",
+    "Alternate title in right lower margin: Cameron Co., Pa. : N4112.5--W 7758.75/25 X 27.25 : 1987.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); Pennsylvania. Bureau of Topographic and Geologic Survey",
+    "In center upper margin: Commonwealth of Pennsylvania, Department of Environmental Resources, Topographic and Geologic Survey.",
+    "Includes notes, \"Index to 1:24 000-scale maps,\" and location maps.",
+    "Pennsylvania coordinate and UTM grids.",
+    "Publication statement: Reston, Va. : Interior--Geological Survey, 1987.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Alternate title in right lower margin: Cameron Co., Pa. : N4112.5--W 7758.75/25 X 27.25 : 1987. \"Map edited 1987.\" In center upper margin: Commonwealth of Pennsylvania, Department of Environmental Resources, Topographic and Geologic Survey. Pennsylvania coordinate and UTM grids. Includes notes, \"Index to 1:24 000-scale maps,\" and location maps. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823c.ct008133",
+    "http://lccn.loc.gov/88694408",
+    "http://www.loc.gov/item/88694408/",
+    "http://www.loc.gov/resource/g3823c.ct008133/",
+    "https://hdl.loc.gov/loc.gmd/g3823c.ct008133",
+    "https://search.catalog.loc.gov/instances/0bd64f88-08bc-52bc-a40f-ed1e9adb07c7",
+    "https://www.loc.gov/item/88694408/"
+  ],
+  "dct_issued_s": "1987",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823c/ct008133.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88694408/\"}",
+  "dct_spatial_sm": [
+    "cameron county",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cameron County (Pa.)--Maps",
+    "United States--Pennsylvania--Cameron County"
+  ],
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "dct_title_s": "Cameron County, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1987 TO 1987]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1987
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-88694408",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

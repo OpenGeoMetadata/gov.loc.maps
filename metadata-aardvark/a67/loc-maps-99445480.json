@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Library of Congress. Civil War maps (2nd ed.), 508.56",
+    "Pen-and-ink on tracing linen.",
+    "Publication statement: [Virginia?] : [producer not identified], [approximately 1861-1865?]",
+    "Title and publication date Stephenson's Civil War maps, 1989.",
+    "Title and publication date Stephenson's Civil War maps, 1989. Pen-and-ink on tracing linen. Library of Congress. Civil War maps (2nd ed.), 508.56 Available also through the Library of Congress Web site as a raster image. vcFY25",
+    "vcFY25"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884f.cw0508560",
+    "http://lccn.loc.gov/99445480",
+    "http://www.loc.gov/item/99445480/",
+    "http://www.loc.gov/resource/g3884f.cw0508560/",
+    "https://hdl.loc.gov/loc.gmd/g3884f.cw0508560",
+    "https://search.catalog.loc.gov/instances/0b29b4f2-a6f2-515b-b63f-3f7fdfbd9aa9",
+    "https://www.loc.gov/item/99445480/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd388:g3884:g3884f:cw0508560/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/99445480/\"}",
+  "dct_spatial_sm": [
+    "fredericksburg region",
+    "richmond region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Fredericksburg Region (Va.)--Maps",
+    "Railroads--Virginia--Fredericksburg Region--Maps",
+    "Railroads--Virginia--Richmond Region--Maps",
+    "Richmond Region (Va.)--Maps",
+    "Roads--Virginia--Fredericksburg Region--Maps",
+    "Roads--Virginia--Richmond Region--Maps",
+    "United States--Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1861/1865",
+    "[Virginia?] : [producer not identified], [approximately 1861-1865?]"
+  ],
+  "dct_title_s": "[Map of the country between Fredericksburg and Richmond, Virginia, showing roads, railroads, and some place names]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99445480",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Hotchkiss, Jedediah, 1828-1899",
+    "In ink on red label on verso: 158.",
+    "In ink on verso: 157.",
+    "In pencil on verso: 149.",
+    "In upper left corner: (207).",
+    "LC Land ownership maps, 1299",
+    "Library of Congress. Civil War maps (2nd ed.), H299",
+    "Pen-and-ink and pencil on tracing linen.",
+    "Publication statement: [186-]",
+    "Scale from Stephenson's Civil War maps, 1989.",
+    "Shows names of some residents.",
+    "Shows names of some residents. Pen-and-ink and pencil on tracing linen. Scale from Stephenson's Civil War maps, 1989. In upper left corner: (207). In ink on red label on verso: 158. In ink on verso: 157. In pencil on verso: 149. LC Land ownership maps, 1299 Library of Congress. Civil War maps (2nd ed.), H299 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883m.cwh00299",
+    "http://lccn.loc.gov/2005625183",
+    "http://www.loc.gov/item/2005625183/",
+    "http://www.loc.gov/resource/g3883m.cwh00299/",
+    "https://hdl.loc.gov/loc.gmd/g3883m.cwh00299",
+    "https://search.catalog.loc.gov/instances/78bc1c05-e443-500d-8d35-12fc3d27472a",
+    "https://www.loc.gov/item/2005625183/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883m/cwh00299.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625183/\"}",
+  "dct_spatial_sm": [
+    "mecklenburg county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Virginia--Mecklenburg County--Maps",
+    "Mecklenburg County (Va.)--Maps",
+    "United States--Virginia--Mecklenburg County"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "Map of Mecklenburg County, Virginia",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625183",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

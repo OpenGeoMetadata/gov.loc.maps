@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-13361.\"",
+    "\"Base source: USGS 1:50,000 county base dated 1976.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "In right lower margin: June 1981.",
+    "In right lower margin: June 1981. \"Base source: USGS 1:50,000 county base dated 1976.\" Includes note. \"1-13361.\" Available also through the Library of Congress Web site as a raster image. Stamped on LC copy: Produced under contract printing.",
+    "Includes note.",
+    "Publication statement: [Lanham? Md.] : The Service, [1981]",
+    "Stamped on LC copy: Produced under contract printing."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823c.ct008101",
+    "http://lccn.loc.gov/82690559",
+    "http://www.loc.gov/item/82690559/",
+    "http://www.loc.gov/resource/g3823c.ct008101/",
+    "https://hdl.loc.gov/loc.gmd/g3823c.ct008101",
+    "https://search.catalog.loc.gov/instances/4ffc4a4c-30b4-5a9e-953b-1ba0b5c5fd1f",
+    "https://www.loc.gov/item/82690559/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823c/ct008101.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82690559/\"}",
+  "dct_spatial_sm": [
+    "columbia county",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Roads--Pennsylvania--Columbia County--Subgrades--Maps",
+    "Soil mechanics--Pennsylvania--Columbia County--Maps",
+    "United States--Pennsylvania--Columbia County"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Local roads and streets, interpretive map : Columbia County, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82690559",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

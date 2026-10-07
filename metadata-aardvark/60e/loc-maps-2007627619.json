@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Approved, C. R. Suter, 1st Lt. & Chf. Engr., D. S.\"",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Harlee, Thomas; Mills, Robert, 1781-1855",
+    "Description derived from published bibliography.",
+    "Description derived from published bibliography. \"Approved, C. R. Suter, 1st Lt. & Chf. Engr., D. S.\" Pen and ink tracing of a map in Robert Mills's Atlas of the State of South Carolina . . . Baltimore, F. Lucas, Jr. [1825] LC Civil War maps (2nd ed.), S142 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War maps (2nd ed.), S142",
+    "Pen and ink tracing of a map in Robert Mills's Atlas of the State of South Carolina . . . Baltimore, F. Lucas, Jr. [1825]",
+    "Publication statement: [1825]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3913h.cws00142",
+    "http://lccn.loc.gov/2007627619",
+    "http://www.loc.gov/item/2007627619/",
+    "http://www.loc.gov/resource/g3913h.cws00142/",
+    "https://hdl.loc.gov/loc.gmd/g3913h.cws00142",
+    "https://search.catalog.loc.gov/instances/bce9fb2c-b8c9-53ce-9fa9-84ba94c16bfe",
+    "https://www.loc.gov/item/2007627619/"
+  ],
+  "dct_issued_s": "1825",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3913/g3913h/cws00142.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007627619/\"}",
+  "dct_spatial_sm": [
+    "horry county",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Horry County (S.C.)--Maps, Manuscript",
+    "United States--South Carolina--Horry County"
+  ],
+  "dct_temporal_sm": [
+    "1825"
+  ],
+  "dct_title_s": "Horry District, South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1825 TO 1825]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1825
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007627619",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

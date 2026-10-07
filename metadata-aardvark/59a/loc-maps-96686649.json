@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Clark, F. A.; Hague, A. (Arnold), 1840-1917; King, Clarence, 1842-1901",
+    "Oriented with north to the right.",
+    "Original art for plate 14 of: Atlas accompanying volume III on mining industry / Clarence King. New York : J. Bien, [187-]",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [186-?]",
+    "Relief shown by contours.",
+    "Relief shown by contours. Oriented with north to the right. Pen-and-ink and watercolor. Original art for plate 14 of: Atlas accompanying volume III on mining industry / Clarence King. New York : J. Bien, [187-] Available also through the Library of Congress Web site as a raster image. Vault Two copies; copy 2 is a blue line print, with annotations in ink.",
+    "Two copies; copy 2 is a blue line print, with annotations in ink.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4352w.ct007803",
+    "http://hdl.loc.gov/loc.gmd/g4352w.ct007804",
+    "http://lccn.loc.gov/96686649",
+    "http://www.loc.gov/item/96686649/",
+    "http://www.loc.gov/resource/g4352w.ct007803/",
+    "http://www.loc.gov/resource/g4352w.ct007804/",
+    "https://hdl.loc.gov/loc.gmd/g4352w.ct007803",
+    "https://hdl.loc.gov/loc.gmd/g4352w.ct007804",
+    "https://search.catalog.loc.gov/instances/dba6830d-48c9-58ae-a036-5864dbfc45ed",
+    "https://www.loc.gov/item/96686649/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd435/g4352/g4352w/ct007803.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96686649/\"}",
+  "dct_spatial_sm": [
+    "nevada",
+    "united states",
+    "white pine mining district"
+  ],
+  "dct_subject_sm": [
+    "Geology--Nevada--White Pine Mining District--Maps",
+    "United States--Nevada--White Pine Mining District",
+    "White Pine Mining District (Nev.)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "Geological map of the White Pine Mining District",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96686649",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

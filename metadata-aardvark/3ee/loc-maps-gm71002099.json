@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"11215.1.\"",
+    "\"11215.1.\" Scale 1:750,000. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, 1950]",
+    "Scale 1:750,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4861a.ct002771",
+    "http://lccn.loc.gov/gm71002099",
+    "http://www.loc.gov/item/gm71002099/",
+    "http://www.loc.gov/resource/g4861a.ct002771/",
+    "https://hdl.loc.gov/loc.gmd/g4861a.ct002771",
+    "https://search.catalog.loc.gov/instances/9c62cf9a-7460-5640-9637-b3126e1c35e9",
+    "https://www.loc.gov/item/gm71002099/"
+  ],
+  "dct_issued_s": "1950",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4861/g4861a/ct002771.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002099/\"}",
+  "dct_spatial_sm": [
+    "costa rica"
+  ],
+  "dct_subject_sm": [
+    "Costa Rica",
+    "Costa Rica--Maps, Outline and base"
+  ],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "dct_title_s": "Costa Rica. 4-50",
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1950]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002099",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"ARC INFO format prepared by Geometronics Southern Region.\"",
+    "\"CD-ROM Digital Data 150 9660.\"",
+    "\"Covers state boundaries, National Forest and Grassland boundaries, and ecological unit boundaries.",
+    "\"Covers state boundaries, National Forest and Grassland boundaries, and ecological unit boundaries. Relief shown by shading. Title from disc label. \"ARC INFO format prepared by Geometronics Southern Region.\" \"CD-ROM Digital Data 150 9660.\" Shipping list no.: 97-0018-E (CORRECTION). Includes: pt. I. ARC INFO -- pt. II. Supporting imagery -- pt. III Text; and bibliographical references. Issued also as a printed col. map. System requirements: 486 PC or better; 20 MB RAM (less for Pentium); text files in WordPerfect 4.2 and ASCII format, summary tables of this information in Microsoft excel and dBASE IV; images in ArcView 2.1. FFD. 8 coded a temporarily.",
+    "Contributors: Keys, James E.; United States. Forest Service; United States. Forest Service. Southern Region. Geometronics",
+    "FFD. 8 coded a temporarily.",
+    "Includes: pt. I. ARC INFO -- pt. II. Supporting imagery -- pt. III Text; and bibliographical references.",
+    "Issued also as a printed col. map.",
+    "Publication statement: Atlanta, Ga. : The Service, 1995.",
+    "Relief shown by shading.",
+    "Shipping list no.: 97-0018-E (CORRECTION).",
+    "System requirements: 486 PC or better; 20 MB RAM (less for Pentium); text files in WordPerfect 4.2 and ASCII format, summary tables of this information in Microsoft excel and dBASE IV; images in ArcView 2.1.",
+    "Title from disc label."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/98677190",
+    "http://www.loc.gov/item/98677190/",
+    "http://www.loc.gov/resource/gdcdatasets.98677190/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.98677190",
+    "https://search.catalog.loc.gov/instances/e25337e1-2df0-5160-ab6b-ee1f02f6aeca",
+    "https://www.loc.gov/item/98677190/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/98677190/\"}",
+  "dct_rights_sm": [
+    "Public Domain https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Biogeography--East (U.S.)--Maps",
+    "Biotic communities--East (U.S.)--Maps",
+    "Maps--Digital"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Ecological units of the eastern United States first approximation",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98677190",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

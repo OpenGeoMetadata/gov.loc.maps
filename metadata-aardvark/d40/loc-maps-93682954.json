@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from latest U.S.G.S. quads.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: F[or]t, TX : USDA-SCS National Cartographic Center ; [Stillwater, Okla. : State Conservationist, distributor], 1992.",
+    "Revised October 1992 1007054.\"",
+    "Revised October 1992 1007054.\" Shows structures constructed for multiple-purposes, floodwater retarding, drainage, and benefited areas. \"Base compiled from latest U.S.G.S. quads.\" Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "Shows structures constructed for multiple-purposes, floodwater retarding, drainage, and benefited areas."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/93682954",
+    "http://www.loc.gov/item/93682954/",
+    "http://www.loc.gov/resource/g4022o.ct011211/",
+    "https://hdl.loc.gov/loc.gmd/g4022o.ct011211",
+    "https://search.catalog.loc.gov/instances/1d39c157-cfed-5bdd-820d-9b6178b9d304",
+    "https://www.loc.gov/item/93682954/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4022/g4022o/ct011211.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93682954/\"}",
+  "dct_spatial_sm": [
+    "big creek watershed",
+    "big creek watershed (jones county)",
+    "jones county",
+    "kiowa county",
+    "mississippi",
+    "oklahoma",
+    "otter creek watershed",
+    "otter creek watershed (kiowa county)",
+    "otter creek watershed (tillman county)",
+    "tillman county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Flood control--Mississippi--Big Creek Watershed (Jones County)--Maps",
+    "Otter Creek Watershed (Kiowa County and Tillman County, Okla.)--Maps",
+    "United States--Mississippi--Big Creek Watershed (Jones County)",
+    "United States--Oklahoma--Otter Creek Watershed (Kiowa County)",
+    "United States--Oklahoma--Otter Creek Watershed (Tillman County)",
+    "Watershed management--Oklahoma--Otter Creek Watershed (Kiowa County and Tillman County)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Project map, Otter Creek watershed : Comanche, Kiowa, and Tillman counties, Oklahoma",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93682954",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

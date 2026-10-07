@@ -1,0 +1,75 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "England 1:10 000",
+    "Grossbritannien 1:250 000",
+    "Title of base map on 1:10,000 sheets: England 1:10 000",
+    "Title of base map on 1:250,000 sheets: Grossbritannien 1:250 000"
+  ],
+  "dct_description_sm": [
+    "\"Nur für den Dienstgebrauch!\"",
+    "Accompanied by: Planheft Grossbritannien. 1940-1944. 3 v. : maps (some col.) ; 31 cm.",
+    "Also shows Wales on some sheets.",
+    "Also shows Wales on some sheets. Issued as a series in separate portfolios; each portfolio consists of 2 or more sheets; and numbered 1 through 4 and 6 through 12. Relief shown by contours, hachures, and spot heights on some maps. Depths shown by contours on some maps. Title from portfolio. Section title of some 1:10,000 sheets has: Stadtplan ... Each portfolio except portfolio no. 12 accompanied by text: Militärgeographische Einzelangaben über England : Objektbilder zu den militärgeographischen Objektkarten 1:250 000 and 1:10 000 der Mappe ... 1 v. : ill., maps, sections ; 15 cm. Accompanied by: Planheft Grossbritannien. 1940-1944. 3 v. : maps (some col.) ; 31 cm. \"Nur für den Dienstgebrauch!\" Some sheets include indexes, insets, and index map. Index map inside portfolio and accompanying text. Bibliography in accompanying text. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bibliography in accompanying text.",
+    "Contributors: Germany. Heer. Abteilung für Kriegskarten- und Vermessungswesen. IV. Mil.-Geo",
+    "Each portfolio except portfolio no. 12 accompanied by text: Militärgeographische Einzelangaben über England : Objektbilder zu den militärgeographischen Objektkarten 1:250 000 and 1:10 000 der Mappe ... 1 v. : ill., maps, sections ; 15 cm.",
+    "Index map inside portfolio and accompanying text.",
+    "Issued as a series in separate portfolios; each portfolio consists of 2 or more sheets; and numbered 1 through 4 and 6 through 12.",
+    "Publication statement: Berlin : Generalstab des Heeres, Abteilung für Kriegskarten und Vermessungswesen (IV. Mi.-Geo.), 1941-1942.",
+    "Relief shown by contours, hachures, and spot heights on some maps. Depths shown by contours on some maps.",
+    "Section title of some 1:10,000 sheets has: Stadtplan ...",
+    "Some sheets include indexes, insets, and index map.",
+    "Title from portfolio."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5751sm.gct00162a",
+    "http://lccn.loc.gov/2009580133",
+    "http://www.loc.gov/item/2009580133/",
+    "http://www.loc.gov/resource/g5751sm.gct00162a/",
+    "https://hdl.loc.gov/loc.gmd/g5751sm.gct00162a",
+    "https://search.catalog.loc.gov/instances/3c77ef9d-477d-51b8-b741-4f05670504dc",
+    "https://www.loc.gov/item/2009580133/"
+  ],
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5m/g5751m/g5751sm/gct00162a/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009580133/\"}",
+  "dct_spatial_sm": [
+    "england",
+    "wales"
+  ],
+  "dct_subject_sm": [
+    "England",
+    "England--Maps",
+    "Military maps",
+    "Wales",
+    "Wales--Maps",
+    "World War, 1939-1945--England--Maps",
+    "World War, 1939-1945--Wales--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1941/1942"
+  ],
+  "dct_title_s": "Militärgeographische Einzelangaben über England : militärgeographische Objektkarten mit Objektbildern",
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1942]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1941
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009580133",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

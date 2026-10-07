@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1848, by J. Disturnell, in the Clerk's Office of the Distt. Court of the Southn. Distt. of N.Y.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Disturnell, John, 1801-1877; Jones & Newman",
+    "Publication statement: New York : J. Disturnell, 1848",
+    "Shows states with Whig party, states changed from Whig to Democratic party, and new states.",
+    "Shows states with Whig party, states changed from Whig to Democratic party, and new states. \"Entered according to Act of Congress in the year 1848, by J. Disturnell, in the Clerk's Office of the Distt. Court of the Southn. Distt. of N.Y.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701f.ct003589",
+    "http://lccn.loc.gov/2012586606",
+    "http://www.loc.gov/item/2012586606/",
+    "http://www.loc.gov/resource/g3701f.ct003589/",
+    "https://hdl.loc.gov/loc.gmd/g3701f.ct003589",
+    "https://search.catalog.loc.gov/instances/a621836c-906a-5951-adf9-88c577e53986",
+    "https://www.loc.gov/item/2012586606/"
+  ],
+  "dct_issued_s": "1848",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701f/ct003589.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012586606/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Political parties--United States--Maps",
+    "United States",
+    "United States--Administrative and political divisions--Maps",
+    "United States--Politics and government--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "dct_title_s": "Political map of the United States",
+  "gbl_dateRange_drsim": [
+    "[1848 TO 1848]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1848
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012586606",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

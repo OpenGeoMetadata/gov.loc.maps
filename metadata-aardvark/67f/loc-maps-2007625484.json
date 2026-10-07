@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no.: 2007-100",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing lot lines, lot numbers, sold lots, and street names.",
+    "Cadastral map showing lot lines, lot numbers, sold lots, and street names. Depths shown by soundings. Includes text and index to points of interest. LC copy imperfect: Torn, fold-lined, mounted on paper backing. Available also through the Library of Congress Web site as a raster image. Acquisitions control no.: 2007-100",
+    "Contributors: A.E. Baker's Lithog'hy; Denison, John (Surveyor)",
+    "Depths shown by soundings.",
+    "Includes text and index to points of interest.",
+    "LC copy imperfect: Torn, fold-lined, mounted on paper backing.",
+    "Publication statement: N. York [New York] : A.E. Baker's Lithog'hy, 1836."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804d.ct002124",
+    "http://lccn.loc.gov/2007625484",
+    "http://www.loc.gov/item/2007625484/",
+    "http://www.loc.gov/resource/g3804d.ct002124/",
+    "https://hdl.loc.gov/loc.gmd/g3804d.ct002124",
+    "https://search.catalog.loc.gov/instances/8bb90188-2e22-5287-aac6-62b7bb897fe8",
+    "https://www.loc.gov/item/2007625484/"
+  ],
+  "dct_issued_s": "1836",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804d/ct002124.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007625484/\"}",
+  "dct_spatial_sm": [
+    "dexter",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Dexter (N.Y.)--Maps",
+    "Real property--New York (State)--Dexter--Maps",
+    "United States--New York (State)",
+    "United States--New York (State)--Dexter"
+  ],
+  "dct_temporal_sm": [
+    "1836"
+  ],
+  "dct_title_s": "Map of Dexter in Jefferson County N.Y.",
+  "gbl_dateRange_drsim": [
+    "[1836 TO 1836]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1836
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007625484",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

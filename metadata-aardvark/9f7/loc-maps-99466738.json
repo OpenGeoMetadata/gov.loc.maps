@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Clüver, Philipp, 1580-1622",
+    "Publication statement: [S.l.], 1704."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7500.ct000396",
+    "http://lccn.loc.gov/99466738",
+    "http://www.loc.gov/item/99466738/",
+    "http://www.loc.gov/resource/g7500.ct000396/",
+    "https://hdl.loc.gov/loc.gmd/g7500.ct000396",
+    "https://search.catalog.loc.gov/instances/52ebc72e-7031-537b-9cab-36db22dc6037",
+    "https://www.loc.gov/item/99466738/"
+  ],
+  "dct_issued_s": "1704",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7500/g7500/ct000396.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466738/\"}",
+  "dct_spatial_sm": [
+    "palestine"
+  ],
+  "dct_subject_sm": [
+    "Palestine",
+    "Palestine.--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1704"
+  ],
+  "dct_title_s": "Totius Terræ Sanctæ Delineatio",
+  "gbl_dateRange_drsim": [
+    "[1704 TO 1704]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1704
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466738",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Oriented with north toward upper left corner.",
+    "Pen-and-ink on paper, mounted on cloth.",
+    "Publication statement: [California?] : [producer not identified], [approximately 1850]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Pen-and-ink on paper, mounted on cloth. Shows lot numbers. Oriented with north toward upper left corner. Available also through the Library of Congress Web site as a raster image. vcFY25",
+    "Shows lot numbers.",
+    "vcFY25"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024593615",
+    "http://www.loc.gov/item/2024593615/",
+    "http://www.loc.gov/resource/g4364b.la002356/",
+    "https://hdl.loc.gov/loc.gmd/g4364b.la002356",
+    "https://search.catalog.loc.gov/instances/46415bc1-8779-54be-9d25-33a832370938",
+    "https://www.loc.gov/item/2024593615/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4364/g4364b/la002356.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024593615/\"}",
+  "dct_spatial_sm": [
+    "benicia",
+    "california",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Benicia (Calif.)--Maps",
+    "Real property--California--Benicia--Maps",
+    "United States--California--Benicia"
+  ],
+  "dct_temporal_sm": [
+    "1850",
+    "[California?] : [producer not identified], [approximately 1850]"
+  ],
+  "dct_title_s": "City of Benicia",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024593615",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lynch, William Francis, 1801-1865; United States. Navy Department",
+    "Four copies.",
+    "Gift; 1968; American Colonization Society;",
+    "Inset: Cape Palmas.",
+    "Publication statement: [Washington, D.C. : U.S. Senate, 1853]",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Relief shown by hachures. Depths shown by soundings. Inset: Cape Palmas. Available also through the Library of Congress Web site as a raster image. Gift; 1968; American Colonization Society; Vault Four copies.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8883m.lm000016",
+    "http://lccn.loc.gov/96684992",
+    "http://www.loc.gov/item/96684992/",
+    "http://www.loc.gov/resource/g8883m.lm000016/",
+    "https://hdl.loc.gov/loc.gmd/g8883m.lm000016",
+    "https://search.catalog.loc.gov/instances/7876c015-cf44-5a73-a4d0-97386053b953",
+    "https://www.loc.gov/item/96684992/"
+  ],
+  "dct_issued_s": "1853",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8883/g8883m/lm000016.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96684992/\"}",
+  "dct_spatial_sm": [
+    "liberia",
+    "maryland county"
+  ],
+  "dct_subject_sm": [
+    "Liberia--Maryland County",
+    "Maryland County (Liberia)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "dct_title_s": "Maryland in Liberia",
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1853
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96684992",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

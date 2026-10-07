@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Ordenanzas Municipales, Apendice No. 1(a)\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Serra, D. J. M.",
+    "Includes statistical table and table of distances.",
+    "Publication statement: Barcelona : Foto. Lit Thomas & Ca., 1891.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Includes statistical table and table of distances. \"Ordenanzas Municipales, Apendice No. 1(a)\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6564b.ct003195",
+    "http://lccn.loc.gov/2011590006",
+    "http://www.loc.gov/item/2011590006/",
+    "http://www.loc.gov/resource/g6564b.ct003195/",
+    "https://hdl.loc.gov/loc.gmd/g6564b.ct003195",
+    "https://search.catalog.loc.gov/instances/1b2d6243-6382-5485-8832-377f6c087b11",
+    "https://www.loc.gov/item/2011590006/"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6564/g6564b/ct003195.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011590006/\"}",
+  "dct_spatial_sm": [
+    "barcelona",
+    "spain"
+  ],
+  "dct_subject_sm": [
+    "Barcelona (Spain)--Maps",
+    "Spain--Barcelona"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "Plano de Barcelona y sus alrededores en 1890 : aprobado por el exemo. ayuntamiento en session del dia 13 de Enero de 1891",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011590006",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

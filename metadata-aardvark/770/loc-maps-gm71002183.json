@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Louisiane et du cours du Mississipi"
+  ],
+  "dct_description_sm": [
+    "\"Carte de la Louisiane et du cours du Mississipi (Map of Louisiana and the course of the Mississippi River) was created in the early 18th century by the noted French cartographer Guillaume de L'Isle (1675-1726), famous for his relatively accurate maps of Europe, Africa, and North and South America. The map mostly shows the Louisiana Territory, centered on the course and watershed of the Mississippi River. It covers from the Great Lakes in the north to the Gulf of Mexico in the south and the Rocky Mountains to the west and the Appalachian Mountains to the east. The map gives the names of numerous Indian tribes and confederations throughout this entire area, as well as indicates European forts, missions, mines, and occasional towns, including the Spanish city of Saint Augustine in Florida and Natchitoches, a French settlement on the Red River that was an important outpost for trade with Spanish Mexico. The map also shows the paths of a number of European explorers, including the Spanish conquistador Hernando De Soto from 1539-42, and it identifies several portages of the French voyageurs, who by this time had already traded and trapped throughout this region for more than a century. Relief is shown pictorially. The map has watermarks as well as several holes and tears, especially along the folds and creases. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: L'Isle, Guillaume de, 1675-1726, cartographer; Le Maire, François, 1675-1748; Vega, Garcilaso de la, 1539-1616",
+    "LC copy mounted on cloth backed paper. Folded in six, split along folds.",
+    "Publication statement: [Paris] : [Guillaume de l'Isle], [1717?]",
+    "Relief shown pictorially.",
+    "Shows \"Natichitoches, éstablissemt. françois fait en 1717 par Mr. de Bienville\" and routes of explorers, De Soto and others."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4042m.ct001245",
+    "http://lccn.loc.gov/gm71002183",
+    "http://www.loc.gov/item/gm71002183/",
+    "http://www.loc.gov/resource/g4042m.ct001245/",
+    "https://hdl.loc.gov/loc.gmd/g4042m.ct001245",
+    "https://search.catalog.loc.gov/instances/07f0052c-7e38-5eac-a257-858913dab8e6",
+    "https://www.loc.gov/item/gm71002183/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd404/g4042/g4042m/ct001245.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002183/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "mississippi river valley",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Louisiana--Maps--Early works to 1800",
+    "Mississippi River Valley--Maps--Early works to 1800",
+    "United States",
+    "United States--Louisiana",
+    "United States--Maps--Early works to 1800",
+    "United States--Mississippi River Valley"
+  ],
+  "dct_temporal_sm": [
+    "1717",
+    "[Paris] : [Guillaume de l'Isle], [1717?]"
+  ],
+  "dct_title_s": "Carte de la Louisiane et du cours du Mississipi",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002183",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

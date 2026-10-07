@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Great Britain. Army. Royal Engineers. Field Survey Coy., 514th, cartographer; Istituto geografico militare (Italy)",
+    "Geographic features in Italian. Title and legend in English.",
+    "Index to adjoining sheets on verso.",
+    "Publication statement: [London?] : 514 Field Survey Coy., R. E.,",
+    "Relief shown by hachures, form lines, and spot heights.",
+    "Relief shown by hachures, form lines, and spot heights. Some sheets by the 512 Army Field Survey Company, Royal Engineers. Reprinted from various editions originally published by the Istituto geografico militare, Italy. Index to adjoining sheets on verso. Available also through the Library of Congress Web site as a raster image. Geographic features in Italian. Title and legend in English.",
+    "Reprinted from various editions originally published by the Istituto geografico militare, Italy.",
+    "Some sheets by the 512 Army Field Survey Company, Royal Engineers."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8340m.g2009578536",
+    "http://lccn.loc.gov/2009578536",
+    "http://www.loc.gov/item/2009578536/",
+    "http://www.loc.gov/resource/g8340m.g2009578536/",
+    "https://hdl.loc.gov/loc.gmd/g8340m.g2009578536",
+    "https://search.catalog.loc.gov/instances/c219bbfc-7453-5acc-a084-aaa014b79b03",
+    "https://www.loc.gov/item/2009578536/"
+  ],
+  "dct_issued_s": "1941",
+  "dct_language_sm": [
+    "eng",
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8m/g8340m/g8340m/g2009578536/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009578536/\"}",
+  "dct_spatial_sm": [
+    "eritrea"
+  ],
+  "dct_subject_sm": [
+    "Eritrea",
+    "Eritrea--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "dct_title_s": "Eritrea 1:100,000",
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1941]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1941
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009578536",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

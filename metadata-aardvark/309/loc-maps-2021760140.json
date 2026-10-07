@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Costa, Renato da Gama-Rosa, 1964-; Oliveira, Benedito Tadeu de, 1955-; Pessoa, Alexandre José de Souza, 1970-",
+    "Description based on print version record; resource not viewed.",
+    "Includes bibliographical references (pages 259-263).",
+    "Includes bibliographical references (pages 259-263). Description based on print version record; resource not viewed.",
+    "Publication statement: Rio de Janeiro, RJ : Editora Fiocruz, 2003."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021760140",
+    "http://www.loc.gov/item/2021760140/",
+    "http://www.loc.gov/resource/gdcebookspublic.2021760140/",
+    "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2021760140",
+    "https://search.catalog.loc.gov/instances/ffebd3ef-2d17-4740-b603-afb9645224cd",
+    "https://www.loc.gov/item/2021760140/"
+  ],
+  "dct_issued_s": "2003",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2021760140.pdf\", \"url\": \"https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/76/01/40/2021760140/2021760140.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/76/01/40/2021760140/2021760140.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021760140/\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 International CC BY 4.0 https://creativecommons.org/licenses/by/4.0/legalcode"
+  ],
+  "dct_spatial_sm": [
+    "brazil",
+    "manguinhos",
+    "rio de janeiro"
+  ],
+  "dct_subject_sm": [
+    "Architecture--Brazil--Manguinhos (Rio de Janeiro)--History",
+    "Fundação Oswaldo Cruz--History",
+    "Manguinhos (Rio de Janeiro)--Buildings, structures, etc",
+    "Medicine--Research--Brazil--Manguinhos (Rio de Janeiro)--History"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_title_s": "Um lugar para a ciência : a formação do campus de Manguinhos",
+  "gbl_dateRange_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "gbl_displayNote_sm": [
+    "Unrestricted online access.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021760140",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Wyandotte County, Kansas"
+  ],
+  "dct_description_sm": [
+    "Ancillary maps: Bethel -- Bonner Springs/Tiblow -- Connor City -- Edwardsville -- In section 25 -- Loring P.O. & station -- Pomeroy.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hopkins, Griffith Morgan, Jr",
+    "LC Land ownership maps, 222",
+    "LC copy mounted on cloth.",
+    "Publication statement: Philadelphia : Published by G.M. Hopkins, C.E., [1887]",
+    "Shows landowners.",
+    "Shows landowners. Ancillary maps: Bethel -- Bonner Springs/Tiblow -- Connor City -- Edwardsville -- In section 25 -- Loring P.O. & station -- Pomeroy. LC copy mounted on cloth. LC Land ownership maps, 222 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4203w.la000222",
+    "http://lccn.loc.gov/2012593081",
+    "http://www.loc.gov/item/2012593081/",
+    "http://www.loc.gov/resource/g4203w.la000222/",
+    "https://hdl.loc.gov/loc.gmd/g4203w.la000222",
+    "https://search.catalog.loc.gov/instances/43c1e2bb-31a2-551c-bc25-e3f571f40ac0",
+    "https://www.loc.gov/item/2012593081/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd420/g4203/g4203w/la000222.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593081/\"}",
+  "dct_spatial_sm": [
+    "kansas",
+    "united states",
+    "wyandotte county"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Kansas--Wyandotte County--Maps",
+    "Real property--Kansas--Wyandotte County--Maps",
+    "United States--Kansas--Wyandotte County",
+    "Wyandotte County (Kan.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "Map of Wyandotte Co., Kansas",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593081",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

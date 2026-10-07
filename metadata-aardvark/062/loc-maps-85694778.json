@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Stephenson, Richard W., 1930-",
+    "Publication statement: [1966]",
+    "Reproduced in the author's Land ownership maps, 1967, p. vi.",
+    "Reproduced in the author's Land ownership maps, 1967, p. vi. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701g.ct004064",
+    "http://lccn.loc.gov/85694778",
+    "http://www.loc.gov/item/85694778/",
+    "http://www.loc.gov/resource/g3701g.ct004064/",
+    "https://hdl.loc.gov/loc.gmd/g3701g.ct004064",
+    "https://search.catalog.loc.gov/instances/e30c24cc-67f5-5540-ad73-c8d79badc9bf",
+    "https://www.loc.gov/item/85694778/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701g/ct004064.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85694778/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "Real property--United States--Maps, Manuscript",
+    "United States",
+    "United States--Index maps"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "County land ownership maps in the Library of Congress through 1900",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85694778",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

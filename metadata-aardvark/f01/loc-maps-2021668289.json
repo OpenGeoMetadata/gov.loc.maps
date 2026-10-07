@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Content in Russian.",
+    "Contributors: Bering, Vitus Jonassen, 1681-1741, artist.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Sweden.",
+    "Original resource extent: 1 handdrawn map ; 52 x 130 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], [1725 to 1730]",
+    "Title devised, in English, by Library staff.",
+    "Vitus Jonassen Bering (1681--1741) was born in Denmark but spent most of his adult life in the Russian navy. In 1725, Tsar Peter I (Peter the Great) instructed Bering to undertake an expedition to find the point at which Siberia connected to America. In what became known as the First Kamchatka Expedition (1725--30), Bering traveled overland from St. Petersburg via Tobolsk to the Kamchatka Peninsula, where he had a ship, the Saint Gabriel, constructed. In 1728 he sailed north along the coast of the Kamchatka Peninsula. In August of that year he passed between the two continents through the strait that would later bear his name, but he never spotted the Alaskan coast and was unable to determine whether Asia and North America were connected or separated by water. Upon his return to St. Petersburg, Bering presented to Empress Anna (reigned 1730--40) the maps prepared during the expedition. Unlike other maps of the expedition, this hand-drawn map contains ethnographic drawings, some of the first images of the inhabitants of Siberia. Peoples represented on the map include the Yakuts, Koriaks, Chukchi, Evenks (formerly known as the Tungus or Tunguz), Kamchadal (or Itelmen), and the Ainu people of the Kuril Islands. The Second Kamchatka Expedition of 1733--43, also led by Bering, finally resulted in the European discovery of Alaska and confirmation that Siberia and Alaska were indeed separated by water."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668289",
+    "http://www.loc.gov/item/2021668289/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_02572/",
+    "http://www.loc.gov/resource/wdl.2572/",
+    "https://hdl.loc.gov/loc.wdl/wdl.2572",
+    "https://www.loc.gov/item/2021668289/"
+  ],
+  "dct_issued_s": "1725-01-01",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_02572.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/02/57/2/wdl_02572/wdl_02572.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:57:2:wdl_02572:E50_nr_610_Bering/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668289/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "1725 to 1730",
+    "Expeditions and surveys",
+    "Exploration and encounters",
+    "Indigenous peoples",
+    "Russian Federation",
+    "Siberia"
+  ],
+  "dct_temporal_sm": [
+    "1725-01-01"
+  ],
+  "dct_title_s": "This Chart was Compiled on the Siberian Expedition under the Command of Navy Captain Bering from Tobolsk to the Chukotkan Corner.",
+  "gbl_dateRange_drsim": [
+    "[1725 TO 1725]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1725
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668289",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

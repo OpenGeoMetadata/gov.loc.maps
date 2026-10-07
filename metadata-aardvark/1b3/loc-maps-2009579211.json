@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Acadia",
+    "Alternate panel title: Acadia",
+    "Title at top: Visiting Acadia",
+    "Visiting Acadia"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 2009--349-224/80217. Reprint 2009.\"",
+    "\"*GPO: 2009--349-224/80217. Reprint 2009.\" Relief shown by shading and spot heights. Title from panel. Includes text. Text and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text.",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2009]",
+    "Relief shown by shading and spot heights.",
+    "Text and ill. (some col.) on verso.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3732a.ct005592",
+    "http://lccn.loc.gov/2009579211",
+    "http://www.loc.gov/item/2009579211/",
+    "http://www.loc.gov/resource/g3732a.ct005592/",
+    "https://hdl.loc.gov/loc.gmd/g3732a.ct005592",
+    "https://search.catalog.loc.gov/instances/c0145b40-620d-5525-a4ab-beb385035214",
+    "https://www.loc.gov/item/2009579211/"
+  ],
+  "dct_issued_s": "2009",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3732/g3732a/ct005592.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009579211/\"}",
+  "dct_spatial_sm": [
+    "acadia national park",
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Acadia National Park (Me.)--Maps",
+    "United States--Maine--Acadia National Park"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "dct_title_s": "Acadia National Park, Maine",
+  "gbl_dateRange_drsim": [
+    "[2009 TO 2009]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009579211",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"802083 (R00137) 8-92.\"",
+    "\"802083 (R00137) 8-92.\" Includes location map. Available also through the Library of Congress Web site as a raster image. ARP",
+    "ARP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes location map.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1992]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7140.ct002687",
+    "http://lccn.loc.gov/93680022",
+    "http://www.loc.gov/item/93680022/",
+    "http://www.loc.gov/resource/g7140.ct002687/",
+    "https://hdl.loc.gov/loc.gmd/g7140.ct002687",
+    "https://search.catalog.loc.gov/instances/f111f367-f08f-5915-a16a-39eb62b46d8b",
+    "https://www.loc.gov/item/93680022/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7140/g7140/ct002687.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93680022/\"}",
+  "dct_spatial_sm": [
+    "azerbaijan"
+  ],
+  "dct_subject_sm": [
+    "Azerbaijan",
+    "Azerbaijan--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Azerbaijan",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93680022",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

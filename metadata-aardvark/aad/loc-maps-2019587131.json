@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Original map compiled by photogrammetric (multiplex) methods by U.S. Geological Survey.\"",
+    "Accompanied by \"Index to maps of Nevada. V896.\" 1 map : color ; 25 x 37 cm.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.), compiler; United States. Army Map Service, cartographer, publisher",
+    "Includes source-materials note, sheet number, and diagrams.",
+    "Publication statement: Washington, D.C. : Army Map Service, 1955-",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. \"Original map compiled by photogrammetric (multiplex) methods by U.S. Geological Survey.\" Various editions of some sheets. Accompanied by \"Index to maps of Nevada. V896.\" 1 map : color ; 25 x 37 cm. Includes source-materials note, sheet number, and diagrams. Available also through the Library of Congress Web site as a raster image.",
+    "Various editions of some sheets."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2019587131",
+    "http://www.loc.gov/item/2019587131/",
+    "http://www.loc.gov/resource/gmdsetmaps.2019587131/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2019587131",
+    "https://search.catalog.loc.gov/instances/f2abaa74-aebb-525d-9fd7-df34abf9652b",
+    "https://www.loc.gov/item/2019587131/"
+  ],
+  "dct_issued_s": "1955",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:20:19:58:71:31:2019587131:cs000063r/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2019587131/\"}",
+  "dct_spatial_sm": [
+    "nevada",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Nevada--Maps",
+    "United States--Nevada"
+  ],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "dct_title_s": "Nevada 1:25,000",
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1955]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2019587131",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

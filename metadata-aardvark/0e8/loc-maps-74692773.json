@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Armstrong, John, 1725-1795",
+    "Includes 2 distance charts.",
+    "LC Maps of North America, 1750-1789, 1303",
+    "Mounted on cloth backing, with reinforced edges.",
+    "Publication statement: [1755?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:800,000.",
+    "Shows central Pennsylvania and the location of \"F. du Quesne\" in western Pennsylvania. Also shows the road from Harrisburg to the Youghiogheny River.",
+    "Title from annotation on verso.",
+    "Title from annotation on verso. Mounted on cloth backing, with reinforced edges. Watermarked. Relief shown pictorially. Shows central Pennsylvania and the location of \"F. du Quesne\" in western Pennsylvania. Also shows the road from Harrisburg to the Youghiogheny River. Includes 2 distance charts. Scale ca. 1:800,000. LC Maps of North America, 1750-1789, 1303 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1; 651/2",
+    "Vault",
+    "Watermarked."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3820.ar130300",
+    "http://lccn.loc.gov/74692773",
+    "http://www.loc.gov/item/74692773/",
+    "http://www.loc.gov/resource/g3820.ar130300/",
+    "https://hdl.loc.gov/loc.gmd/g3820.ar130300",
+    "https://search.catalog.loc.gov/instances/b28443a7-c139-5202-b45b-c8693039f3c2",
+    "https://www.loc.gov/item/74692773/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3820/g3820/ar130300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692773/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pennsylvania--Maps, Manuscript--Early works to 1800",
+    "Roads--Pennsylvania--Early works to 1800",
+    "United States--Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1755",
+    "[1755?]"
+  ],
+  "dct_title_s": "Mr. Armstrong's rough draft of the country to the west of Susquehanna",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692773",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

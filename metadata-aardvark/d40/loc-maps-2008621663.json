@@ -1,0 +1,49 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Land ownership maps, 1117",
+    "LC Land ownership maps, 1117 Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [S.l. : s.n., 189-]."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033s.la001117",
+    "http://lccn.loc.gov/2008621663",
+    "http://www.loc.gov/item/2008621663/",
+    "http://www.loc.gov/resource/g4033s.la001117/",
+    "https://hdl.loc.gov/loc.gmd/g4033s.la001117",
+    "https://search.catalog.loc.gov/instances/b3a825be-72ec-594d-a951-5fe14f9cdc26",
+    "https://www.loc.gov/item/2008621663/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033s/la001117.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008621663/\"}",
+  "dct_spatial_sm": [
+    "san jacinto county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Texas--San Jacinto County--Maps",
+    "San Jacinto County (Tex.)--Maps",
+    "United States--Texas--San Jacinto County"
+  ],
+  "dct_temporal_sm": [
+    "189?"
+  ],
+  "dct_title_s": "San Jacinto County",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008621663",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

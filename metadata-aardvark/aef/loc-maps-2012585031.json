@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Published by Baldwin & Cradock, 47 Paternoster Row, Nov'r 1.1832.\"",
+    "\"Published under the superintendence of the Society for the Diffusion of Useful Knowledge.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Baldwin & Cradock; Clarke, W. B.; Cockerell, C. R. (Charles Robert), 1788-1863; Henshall, J.; Leake, William Martin, 1777-1860; Society for the Diffusion of Useful Knowledge (Great Britain)",
+    "Includes notes, inset of \"Acropolis of Athens\", a ground-level \"Panorama of Athens from the original drawing of C.R. Cockerell Esq're A.R.A.\" in 3 segments in the left/top/right-hand margins, 2 ground-level views of the Acropolis (in its original form), and ill. of principal buildings (in their original forms) in the lower margin.",
+    "LC copy imperfect: Brittle, torn at margins.",
+    "Publication statement: [London] : Baldwin & Cradock, 1832.",
+    "Relief shown by hachures.",
+    "Shows extant and presumed antiquities (buildings, theaters, tombs, walls, etc.) of central Athens as in 1832.",
+    "Shows extant and presumed antiquities (buildings, theaters, tombs, walls, etc.) of central Athens as in 1832. Relief shown by hachures. \"Published by Baldwin & Cradock, 47 Paternoster Row, Nov'r 1.1832.\" \"Published under the superintendence of the Society for the Diffusion of Useful Knowledge.\" LC copy imperfect: Brittle, torn at margins. Includes notes, inset of \"Acropolis of Athens\", a ground-level \"Panorama of Athens from the original drawing of C.R. Cockerell Esq're A.R.A.\" in 3 segments in the left/top/right-hand margins, 2 ground-level views of the Acropolis (in its original form), and ill. of principal buildings (in their original forms) in the lower margin. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6814a.ct003572",
+    "http://lccn.loc.gov/2012585031",
+    "http://www.loc.gov/item/2012585031/",
+    "http://www.loc.gov/resource/g6814a.ct003572/",
+    "https://hdl.loc.gov/loc.gmd/g6814a.ct003572",
+    "https://search.catalog.loc.gov/instances/442322a5-0970-5c76-85c0-6596c2bff10b",
+    "https://www.loc.gov/item/2012585031/"
+  ],
+  "dct_issued_s": "1832",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6814/g6814a/ct003572.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012585031/\"}",
+  "dct_spatial_sm": [
+    "acropolis",
+    "athens",
+    "greece"
+  ],
+  "dct_subject_sm": [
+    "Acropolis (Athens, Greece)--Maps",
+    "Acropolis (Athens, Greece)--Pictorial works",
+    "Architecture--Greece--Athens--Pictorial works",
+    "Athens (Greece)--Antiquities--Maps",
+    "Athens (Greece)--Antiquities--Pictorial works",
+    "Greece--Athens",
+    "Greece--Athens--Acropolis",
+    "Panoramas--Greece--Athens"
+  ],
+  "dct_temporal_sm": [
+    "1832"
+  ],
+  "dct_title_s": "Athens",
+  "gbl_dateRange_drsim": [
+    "[1832 TO 1832]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1832
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012585031",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

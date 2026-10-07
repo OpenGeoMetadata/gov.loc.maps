@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Atlas of the twenty fourth ward, New York City"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 2008-168",
+    "Annotations in pencil and colored ink on some maps.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bourquin, F. (Frederick), 1808-; Bromley, George Washington; Bromley, Walter Scott; G.W. Bromley & Co; Mueller, A. H. (August H.)",
+    "Includes index.",
+    "Includes index. Annotations in pencil and colored ink on some maps. LC copy imperfect: Front and rear boards separated from binding. Available also through the Library of Congress Web site as a raster image. Vendor: John Carbonell Acquisitions control no. 2008-168",
+    "LC copy imperfect: Front and rear boards separated from binding.",
+    "Publication statement: Philad[elphi]a : Geo. W. & Walter S. Bromley, 1882",
+    "Vendor: John Carbonell"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804bm.gla00163",
+    "http://lccn.loc.gov/2008627036",
+    "http://www.loc.gov/item/2008627036/",
+    "http://www.loc.gov/resource/g3804bm.gla00163/",
+    "https://hdl.loc.gov/loc.gmd/g3804bm.gla00163",
+    "https://search.catalog.loc.gov/instances/263444c6-6655-5649-b1c6-e7d14110cbde",
+    "https://www.loc.gov/item/2008627036/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380m/g3804m/g3804bm/gla00163/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008627036/\"}",
+  "dct_spatial_sm": [
+    "bronx",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Bronx (New York, N.Y.)--Maps",
+    "Landowners--New York (State)--New York--Maps",
+    "Real property--New York (State)--New York--Maps",
+    "United States--New York (State)--New York"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Atlas of the 24th ward, city of New York : from actual surveys and official records",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008627036",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

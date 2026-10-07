@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"38077-D8-CF-050.\"",
+    "\"Map edited 1992.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); Virginia. Division of Mineral Resources",
+    "In center upper margin: Commonwealth of Virginia, Division of Mineral Resources.",
+    "Includes location map, index to 24,000-scale maps, and conversion table.",
+    "Publication statement: Reston, Va. : The Survey, 1992.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Title in left upper margin: Culpeper County, Virginia. Title in right lower margin: Culpeper County, Va. In center upper margin: Commonwealth of Virginia, Division of Mineral Resources. \"Map edited 1992.\" Includes location map, index to 24,000-scale maps, and conversion table. \"38077-D8-CF-050.\" Available also through the Library of Congress Web site as a raster image.",
+    "Title in left upper margin: Culpeper County, Virginia.",
+    "Title in right lower margin: Culpeper County, Va."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883c.ct009239",
+    "http://lccn.loc.gov/95686026",
+    "http://www.loc.gov/item/95686026/",
+    "http://www.loc.gov/resource/g3883c.ct009239/",
+    "https://hdl.loc.gov/loc.gmd/g3883c.ct009239",
+    "https://search.catalog.loc.gov/instances/8af0761a-2b68-5cc0-b7ca-603916ad648d",
+    "https://www.loc.gov/item/95686026/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883c/ct009239.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95686026/\"}",
+  "dct_spatial_sm": [
+    "culpeper county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Culpeper County (Va.)--Maps",
+    "United States--Virginia--Culpeper County"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Culpeper County, Virginia : 1:50 000-scale topographic map",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-95686026",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

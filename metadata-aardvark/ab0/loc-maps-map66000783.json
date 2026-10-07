@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Printed by Army Map Service, Corps of Engineers.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Great Britain. Air Ministry; Great Britain. Directorate of Military Survey; United States. Army Map Service",
+    "Includes grid data, magnetic information diagram, and index to adjoining sheets.",
+    "Publication statement: [London] D. Survey, War Office and Air Ministry, 1958-",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. \"Printed by Army Map Service, Corps of Engineers.\" Sheets individually numbered, for example: Sheet F -- Sheet J. Includes grid data, magnetic information diagram, and index to adjoining sheets. Available also through the Library of Congress Web site as a raster image.",
+    "Sheets individually numbered, for example: Sheet F -- Sheet J."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map66000783",
+    "http://www.loc.gov/item/map66000783/",
+    "http://www.loc.gov/resource/gmdsetmaps.map66000783/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map66000783",
+    "https://search.catalog.loc.gov/instances/9a952e79-b228-547b-ab60-1cf71d32a989",
+    "https://www.loc.gov/item/map66000783/"
+  ],
+  "dct_issued_s": "1958",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:ma:p6:60:00:78:3:map66000783:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map66000783/\"}",
+  "dct_spatial_sm": [
+    "south yemen",
+    "yemen, south"
+  ],
+  "dct_subject_sm": [
+    "Yemen, South",
+    "Yemen, South--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "dct_title_s": "Aden 1:10,000",
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1958]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map66000783",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

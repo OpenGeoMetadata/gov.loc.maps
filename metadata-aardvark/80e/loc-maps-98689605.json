@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Pittsburgh District",
+    "Includes text, table of recreation facilities, and col. ill.",
+    "Panel title.",
+    "Panel title. Printed by \"*U.S. Government Printing Office: 1992--611-380\". Includes text, table of recreation facilities, and col. ill. Text, statistical table, location map, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Printed by \"*U.S. Government Printing Office: 1992--611-380\".",
+    "Publication statement: [Pittsburgh?] : The District, [1992]",
+    "Text, statistical table, location map, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822c.ct007830",
+    "http://lccn.loc.gov/98689605",
+    "http://www.loc.gov/item/98689605/",
+    "http://www.loc.gov/resource/g3822c.ct007830/",
+    "https://hdl.loc.gov/loc.gmd/g3822c.ct007830",
+    "https://search.catalog.loc.gov/instances/e584f0c0-1d7e-591b-9859-1cad0f1ea8ba",
+    "https://www.loc.gov/item/98689605/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822c/ct007830.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98689605/\"}",
+  "dct_spatial_sm": [
+    "conemaugh river lake",
+    "conemaugh river lake region",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Conemaugh River Lake (Pa.)--Recreational use--Maps",
+    "Outdoor recreation--Pennsylvania--Conemaugh River Lake Region--Maps",
+    "United States--Pennsylvania--Conemaugh River Lake",
+    "United States--Pennsylvania--Conemaugh River Lake Region"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Conemaugh River Lake",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98689605",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

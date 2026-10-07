@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Copyright 1888 R.M. Hall, Commissioner of the Genl. Land Office of the State of Texas.\"",
+    "\"October 1889.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: August Gast & Co; Hall, R. M.; Texas. General Land Office",
+    "LC Land ownership maps, 990",
+    "LC copy annotated in pencil.",
+    "Mounted on paper.",
+    "Publication statement: [St. Louis, Mo.] : Aug. Gast Bank Note & Litho Co., 1889, c1888.",
+    "Shows land ownership.",
+    "Shows land ownership. LC copy annotated in pencil. Mounted on paper. \"Copyright 1888 R.M. Hall, Commissioner of the Genl. Land Office of the State of Texas.\" \"October 1889.\" LC Land ownership maps, 990 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033g.la000990",
+    "http://lccn.loc.gov/2012591093",
+    "http://www.loc.gov/item/2012591093/",
+    "http://www.loc.gov/resource/g4033g.la000990/",
+    "https://hdl.loc.gov/loc.gmd/g4033g.la000990",
+    "https://search.catalog.loc.gov/instances/b16c0e2a-5868-5917-9444-45097344c0e8",
+    "https://www.loc.gov/item/2012591093/"
+  ],
+  "dct_issued_s": "1889",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033g/la000990.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012591093/\"}",
+  "dct_spatial_sm": [
+    "gray county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gray County (Tex.)--Maps",
+    "Landowners--Texas--Gray County--Maps",
+    "Real property--Texas--Gray County--Maps",
+    "United States--Texas--Gray County"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "dct_title_s": "Gray County, state of Texas",
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012591093",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

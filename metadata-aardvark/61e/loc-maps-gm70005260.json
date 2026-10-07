@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Everts and Richards, firm, publishers",
+    "Cover title: Bristol County road map.",
+    "Cover title: Bristol County road map. Scale 1:63,360; 1 in. = 1 mile. Available also through the Library of Congress Web site as a raster image. AACR2: 651",
+    "Publication statement: Philad[elphi]a, 1895.",
+    "Scale 1:63,360; 1 in. = 1 mile."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3763b.ct005894",
+    "http://lccn.loc.gov/gm70005260",
+    "http://www.loc.gov/item/gm70005260/",
+    "http://www.loc.gov/resource/g3763b.ct005894/",
+    "https://hdl.loc.gov/loc.gmd/g3763b.ct005894",
+    "https://search.catalog.loc.gov/instances/a522b121-6a57-5b84-9498-c4279af7b750",
+    "https://www.loc.gov/item/gm70005260/"
+  ],
+  "dct_issued_s": "1895",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3763/g3763b/ct005894.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70005260/\"}",
+  "dct_spatial_sm": [
+    "bristol county",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Roads--Massachusetts--Bristol County--Maps",
+    "United States--Massachusetts--Bristol County"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dct_title_s": "Road map of Bristol Co., Mass",
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70005260",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

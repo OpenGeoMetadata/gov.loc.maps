@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text.",
+    "Panel title.",
+    "Panel title. Includes text. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington, D.C.] : The Service, [1997?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3762c.ct005945",
+    "http://lccn.loc.gov/97687169",
+    "http://www.loc.gov/item/97687169/",
+    "http://www.loc.gov/resource/g3762c.ct005945/",
+    "https://hdl.loc.gov/loc.gmd/g3762c.ct005945",
+    "https://search.catalog.loc.gov/instances/94c17a69-c741-52d1-95dd-c166081e368e",
+    "https://www.loc.gov/item/97687169/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3762/g3762c/ct005945.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97687169/\"}",
+  "dct_spatial_sm": [
+    "cape cod national seashore",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Bicycle trails--Massachusetts--Cape Cod National Seashore--Maps",
+    "Cycling--Massachusetts--Cape Cod National Seashore--Maps",
+    "United States--Massachusetts--Cape Cod National Seashore"
+  ],
+  "dct_temporal_sm": [
+    "1997",
+    "[Washington, D.C.] : The Service, [1997?]"
+  ],
+  "dct_title_s": "Cape Cod National Seashore, Massachusetts, bicycle trails",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97687169",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

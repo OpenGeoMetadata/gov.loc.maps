@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1984--421-609/463.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Covers Assateague Island National Seashore.",
+    "Covers Assateague Island National Seashore. Panel title. Oriented with north toward the lower left. Includes text and 2 location maps. \"*GPO: 1984--421-609/463.\" Available also through the Library of Congress Web site as a raster image.",
+    "Includes text and 2 location maps.",
+    "Oriented with north toward the lower left.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1984]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842a.ct008538",
+    "http://lccn.loc.gov/84697421",
+    "http://www.loc.gov/item/84697421/",
+    "http://www.loc.gov/resource/g3842a.ct008538/",
+    "https://hdl.loc.gov/loc.gmd/g3842a.ct008538",
+    "https://search.catalog.loc.gov/instances/fee3d446-a431-58be-9126-2eac15722df9",
+    "https://www.loc.gov/item/84697421/"
+  ],
+  "dct_issued_s": "1984",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842a/ct008538.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/84697421/\"}",
+  "dct_spatial_sm": [
+    "assateague island national seashore",
+    "maryland",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Assateague Island National Seashore (Md. and Va.)--Maps",
+    "United States--Maryland--Assateague Island National Seashore",
+    "United States--Virginia--Assateague Island National Seashore"
+  ],
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "dct_title_s": "Assateague",
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1984]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-84697421",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Cullum, George W. (George Washington), 1809-1892",
+    "Description derived from published bibliography.",
+    "LC Civil War maps (2nd ed.), 299",
+    "Publication statement: N.Y., Lith. of J. Bien, [1862]",
+    "Scale 1:12,000.",
+    "The number and type of guns in the \"batteries on Kentucky shore\" and in the \"batteries on Island no. 10\" are included in the legend.",
+    "The number and type of guns in the \"batteries on Kentucky shore\" and in the \"batteries on Island no. 10\" are included in the legend. Description derived from published bibliography. Scale 1:12,000. LC Civil War maps (2nd ed.), 299 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4042m.cw0299000",
+    "http://lccn.loc.gov/99447231",
+    "http://www.loc.gov/item/99447231/",
+    "http://www.loc.gov/resource/g4042m.cw0299000/",
+    "https://hdl.loc.gov/loc.gmd/g4042m.cw0299000",
+    "https://search.catalog.loc.gov/instances/c389fb72-d644-5df1-b8fe-1329cfd3f32f",
+    "https://www.loc.gov/item/99447231/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd404/g4042/g4042m/cw0299000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447231/\"}",
+  "dct_spatial_sm": [
+    "mississippi river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mississippi River--History--Civil War, 1861-1865--Maps",
+    "United States--Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Map showing the Rebel batteries at Island no. 10 & vicinity for the defence of the Mississippi River, captured by U.S. forces, April 7th 1862",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447231",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

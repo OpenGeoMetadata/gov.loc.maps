@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Plano de la ciudad de México"
+  ],
+  "dct_description_sm": [
+    "Content in Spanish.",
+    "Contributors: Alvarez, Antonio Cartographer.; Rivera, Miguel Creator.",
+    "Dated 1720, this map was produced by the government of Mexico City in order to improve urban sanitation through the collection of garbage. It shows the central part of the city in detail, including names of streets, plazas, hospitals, hospices, columns, small squares, arches, and other places.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Center for the Study of the History of Mexico CARSO.",
+    "Original resource extent: Ink on paper 59 x 42 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1720.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668414",
+    "http://www.loc.gov/item/2021668414/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_02967/",
+    "http://www.loc.gov/resource/wdl.2967/",
+    "https://hdl.loc.gov/loc.wdl/wdl.2967",
+    "https://www.loc.gov/item/2021668414/"
+  ],
+  "dct_issued_s": "1720-01-01",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_02967.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/02/96/7/wdl_02967/wdl_02967.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:96:7:wdl_02967:img_0802_flat/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668414/\"}",
+  "dct_spatial_sm": [
+    "distrito federal",
+    "mexico",
+    "mexico city"
+  ],
+  "dct_subject_sm": [
+    "1720",
+    "Mexico--Distrito Federal--Mexico City",
+    "New Spain",
+    "Sanitation",
+    "Spain--Colonies"
+  ],
+  "dct_temporal_sm": [
+    "1720-01-01"
+  ],
+  "dct_title_s": "Map of Mexico City.",
+  "gbl_dateRange_drsim": [
+    "[1720 TO 1720]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1720
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668414",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

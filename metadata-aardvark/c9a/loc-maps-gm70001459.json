@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"94051870342.\"",
+    "\"94051870342.\" Scale ca. 1:2,000,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, 1965]",
+    "Scale ca. 1:2,000,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4820.ct002700",
+    "http://lccn.loc.gov/gm70001459",
+    "http://www.loc.gov/item/gm70001459/",
+    "http://www.loc.gov/resource/g4820.ct002700/",
+    "https://hdl.loc.gov/loc.gmd/g4820.ct002700",
+    "https://search.catalog.loc.gov/instances/f2fad59f-298b-5626-b9a0-9db52822a950",
+    "https://www.loc.gov/item/gm70001459/"
+  ],
+  "dct_issued_s": "1965",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4820/g4820/ct002700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70001459/\"}",
+  "dct_spatial_sm": [
+    "belize"
+  ],
+  "dct_subject_sm": [
+    "Belize",
+    "Belize--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "dct_title_s": "British Honduras. 9-65",
+  "gbl_dateRange_drsim": [
+    "[1965 TO 1965]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1965
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70001459",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Mister Forrester's plan of the River Douro, delivered in 29th April, 1852",
+    "Plan of the River Douro, delivered in 29th April, 1852"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Forrester, Joseph James, 1809-1861; Standidge & Co",
+    "Handwritten cover title: Portugal River Douro 1852.",
+    "Handwritten cover title: Portugal River Douro 1852. LC copy imperfect: Staining, foxed, sectioned into 8 sections and mounted on cloth for folding. Signature on verso: Millard Fillmore. In upper right corner: (To face page 174). Available also through the Library of Congress Web site as a raster image.",
+    "In upper right corner: (To face page 174).",
+    "LC copy imperfect: Staining, foxed, sectioned into 8 sections and mounted on cloth for folding. Signature on verso: Millard Fillmore.",
+    "Publication statement: London : Standidge & Co., Litho., [1852]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6562d.fi000061",
+    "http://lccn.loc.gov/2012593346",
+    "http://www.loc.gov/item/2012593346/",
+    "http://www.loc.gov/resource/g6562d.fi000061/",
+    "https://hdl.loc.gov/loc.gmd/g6562d.fi000061",
+    "https://search.catalog.loc.gov/instances/ebc6ec24-19bd-5a67-982e-7fb141f08feb",
+    "https://www.loc.gov/item/2012593346/"
+  ],
+  "dct_issued_s": "1852",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6562/g6562d/fi000061.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593346/\"}",
+  "dct_spatial_sm": [
+    "duero river",
+    "portugal",
+    "spain"
+  ],
+  "dct_subject_sm": [
+    "Duero River (Spain and Portugal)--Maps",
+    "Portugal--Duero River",
+    "Spain--Duero River"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "dct_title_s": "Mr. Forrester's plan of the River Douro, delivered in 29th April, 1852",
+  "gbl_dateRange_drsim": [
+    "[1852 TO 1852]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1852
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593346",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

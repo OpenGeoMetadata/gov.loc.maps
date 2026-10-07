@@ -1,0 +1,70 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Collection material in English, Russian and Croatian.",
+    "Collection of 6 maps from the Wallace R. Brode Papers. The materials include maps of the 1936 Russian solar eclipse, a WWII bombing map of the Leuna works in Germany, tourist maps of Yugoslavia and Russia, and a U.S. State Department map showing areas restricted to travel by Soviet citizens.",
+    "Contributors: Brode, Wallace R. (Wallace Reed), 1900-1974",
+    "Finding aid available in the Geography and Map Reading Room and at http://hdl.loc.gov/loc.gmd/eadgmd.gm017008",
+    "Materials transferred from Manuscript Division.",
+    "Publication statement: [Various places] : [various publishers], 1936-1963.",
+    "Title supplied by cataloger.",
+    "Transfer ; LC Manuscript Division."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2017585116",
+    "http://www.loc.gov/item/2017585116/",
+    "http://www.loc.gov/resource/gmdfindingaids.2017585116/",
+    "https://hdl.loc.gov/loc.gmd/gmdfindingaids.2017585116",
+    "https://search.catalog.loc.gov/instances/96aada96-8607-5687-91e1-2161bfbc4c7f",
+    "https://www.loc.gov/item/2017585116/"
+  ],
+  "dct_language_sm": [
+    "croatian",
+    "eng",
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdfindingaids:2017585116:2017585116-001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585116/\"}",
+  "dct_spatial_sm": [
+    "europe",
+    "germany",
+    "soviet union",
+    "united states",
+    "yugoslavia"
+  ],
+  "dct_subject_sm": [
+    "Europe",
+    "Europe--Maps",
+    "Germany",
+    "Germany--Maps",
+    "Soviet Union",
+    "Soviet Union--Maps",
+    "United States",
+    "United States--Maps",
+    "Yugoslavia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1936/1963"
+  ],
+  "dct_title_s": "Wallace R. Brode map collection",
+  "gbl_dateRange_drsim": [
+    "[1936 TO 1963]"
+  ],
+  "gbl_displayNote_sm": [
+    "Open to research.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1936
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585116",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

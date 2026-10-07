@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"New 14 x 21.\"",
+    "Appears in: Standard Atlas of the World, New York, 1897, p.126.",
+    "Appears in: Standard Atlas of the World, New York, 1897, p.126. At top margin: Rand McNally & Company's At left corner: 126 \"New 14 x 21.\" LC copy stamped on : 626888. Text on verso. Available also through the Library of Congress Web site as a raster image.",
+    "At left corner: 126",
+    "At top margin: Rand McNally & Company's",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rand McNally and Company",
+    "LC copy stamped on : 626888.",
+    "Publication statement: New York : Rand McNally, [1897]",
+    "Text on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7820.ct005335",
+    "http://lccn.loc.gov/2006458349",
+    "http://www.loc.gov/item/2006458349/",
+    "http://www.loc.gov/resource/g7820.ct005335/",
+    "https://hdl.loc.gov/loc.gmd/g7820.ct005335",
+    "https://search.catalog.loc.gov/instances/ffc5c8e9-b3a7-5548-91ba-fbe84836fbb3",
+    "https://www.loc.gov/item/2006458349/"
+  ],
+  "dct_issued_s": "1897",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7820/g7820/ct005335.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006458349/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "indochina",
+    "malaysia"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Maps",
+    "Indochina",
+    "Indochina--Maps",
+    "Malaysia",
+    "Malaysia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "dct_title_s": "Map of China, Indo-China, and part of Malasysia",
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006458349",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

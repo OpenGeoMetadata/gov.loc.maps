@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Covers area bounded by D St. north, 2nd St. east, C St. south, and 4th St. west.",
+    "DCP",
+    "Mounted on cloth backing.",
+    "Pen-and-ink and lead pencil.",
+    "Phillips. Washington 80",
+    "Publication statement: [18--]",
+    "Shows block numbers, block dimensions, and street widths.",
+    "Shows block numbers, block dimensions, and street widths. Covers area bounded by D St. north, 2nd St. east, C St. south, and 4th St. west. Pen-and-ink and lead pencil. Mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 80 Vault DCP",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852u.ct006215r",
+    "http://lccn.loc.gov/88690761",
+    "http://www.loc.gov/item/88690761/",
+    "http://www.loc.gov/resource/g3852u.ct006215r/",
+    "https://hdl.loc.gov/loc.gmd/g3852u.ct006215r",
+    "https://search.catalog.loc.gov/instances/54436a67-e49c-57e6-95aa-48b49694c37b",
+    "https://www.loc.gov/item/88690761/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852u/ct006215r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690761/\"}",
+  "dct_spatial_sm": [
+    "capitol hill",
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Capitol Hill (Washington, D.C.)--Maps, Manuscript",
+    "Manuscript maps",
+    "United States Capitol (Washington, D.C.)--Maps, Manuscript",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[18--]"
+  ],
+  "dct_title_s": "[Map of the Capitol grounds and surrounding squares, Washington D.C.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690761",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

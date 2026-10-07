@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map, published in 1902 in H.M. Chittenden's History of the Fur Trade of the Far West, shows major cartographic features of the American West in the early 19th century, including the location of key Native American populations, forts, trading posts, and physical features, such as mountains and rivers. French voyageurs pioneered fur trading and trapping in Canada and the American West before the Louisiana Purchase of 1803, but the basic geography of this vast region was poorly understood before the Lewis and Clark expedition of 1804-6. Following the expedition, the fur trade rapidly expanded in the region between the Mississippi River and the Pacific Ocean. One of the most famous American fur traders, John Jacob Astor, established his Pacific Fur Company in 1810 near the mouth of the Columbia River in Astoria, Oregon. The British-controlled Hudson Bay Company was at this time the predominant force in the fur trade on the North American continent, but it was increasingly challenged by Russian traders in Alaska and by American frontiersmen. The map shows the routes of the most important expeditions to the West, including those of Lewis and Clark, Wilson Price Hunt (the Astor Expedition of 1810-12), Jedediah Smith, and William Sublette. Saint Louis was the starting point for many of these expeditions. It became an important metropolis and was for decades the gateway to the American West and a provisioning and outfitting point for traders, trappers, explorers, and settlers.\" World Digital Library.",
+    "13194 U.S. Copyright Office",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Chittenden, Hiram Martin, 1858-1917",
+    "From: History of the Fur Trade of the Far West, by H.M. Chittenden, vol. 3.",
+    "Publication statement: [Publisher not identified] : Paul Burgoldt, [1902]",
+    "Relief shown by hachures.",
+    "Stamped below bar scale: Copyright 1901, by Francis P. Harper"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4051s.mf000042",
+    "http://lccn.loc.gov/99446195",
+    "http://www.loc.gov/item/99446195/",
+    "http://www.loc.gov/resource/g4051s.mf000042/",
+    "https://hdl.loc.gov/loc.gmd/g4051s.mf000042",
+    "https://search.catalog.loc.gov/instances/fc25fa2f-bda6-52c4-bb6b-623a70a8b4fe",
+    "https://www.loc.gov/item/99446195/"
+  ],
+  "dct_issued_s": "1902",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4051/g4051s/mf000042.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446195/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west"
+  ],
+  "dct_subject_sm": [
+    "Fur trade--West (U.S.)--History--19th century",
+    "Indians of North America--West (U.S.)",
+    "United States--West",
+    "West (U.S.)--History--19th century"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "dct_title_s": "Map of the Trans-Mississippi Territory of the United States during the period of the American fur trade as conducted from St. Louis between the years 1807 and 1843, showing the location of Indian Tribes, trading posts, routes of travel and other features of interest",
+  "gbl_dateRange_drsim": [
+    "[1902 TO 1902]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1902
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446195",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

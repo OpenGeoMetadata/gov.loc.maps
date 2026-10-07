@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Rockbridge County, Virginia"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In the upper left corner: No. 25.",
+    "LC Civil War maps (2nd ed.), H57",
+    "LC Land ownership maps, 1342",
+    "Pen-and-ink and pencil mounted on cloth.",
+    "Publication statement: [186-]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows the names of some residents. Pen-and-ink and pencil mounted on cloth. In the upper left corner: No. 25. LC Civil War maps (2nd ed.), H57 LC Land ownership maps, 1342 Available also through the Library of Congress web site as raster image.",
+    "Shows the names of some residents."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883r.cwh00057",
+    "http://lccn.loc.gov/2002627465",
+    "http://www.loc.gov/item/2002627465/",
+    "http://www.loc.gov/resource/g3883r.cwh00057/",
+    "https://hdl.loc.gov/loc.gmd/g3883r.cwh00057",
+    "https://search.catalog.loc.gov/instances/067005d8-8124-592a-b31b-cc7758c47509",
+    "https://www.loc.gov/item/2002627465/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883r/cwh00057.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002627465/\"}",
+  "dct_spatial_sm": [
+    "rockbridge county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Virginia--Rockbridge County--Maps",
+    "Rockbridge County (Va.)--Maps, Manuscript",
+    "United States--Virginia--Rockbridge County"
+  ],
+  "dct_temporal_sm": [
+    "186?"
+  ],
+  "dct_title_s": "Rockbridge Co., Va",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002627465",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

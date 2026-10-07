@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Gettysburg Monuments Commissioners. New York Board",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 336.5",
+    "Map indicates lands owned by the Gettysburg Battlefield Memorial Association and the U.S. government and the \"proposed purchases of lands.\"",
+    "Map indicates lands owned by the Gettysburg Battlefield Memorial Association and the U.S. government and the \"proposed purchases of lands.\" Description derived from published bibliography. Scale ca. 1:12,000. LC Civil War Maps (2nd ed.), 336.5 Available also through the Library of Congress web site as raster image.",
+    "Publication statement: [S.l., 1894]",
+    "Scale ca. 1:12,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824g.cw0336500",
+    "http://lccn.loc.gov/99447503",
+    "http://www.loc.gov/item/99447503/",
+    "http://www.loc.gov/resource/g3824g.cw0336500/",
+    "https://hdl.loc.gov/loc.gmd/g3824g.cw0336500",
+    "https://search.catalog.loc.gov/instances/e995f55b-2521-5380-8e5e-822b1560aa8f",
+    "https://www.loc.gov/item/99447503/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824g/cw0336500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447503/\"}",
+  "dct_spatial_sm": [
+    "gettysburg",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gettysburg (Pa.)--Maps",
+    "United States--Pennsylvania--Gettysburg"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "Map of the battlefield of Gettysburg",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447503",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows radial distances.",
+    "Also shows radial distances. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1989?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3201b.ct002663",
+    "http://lccn.loc.gov/90682564",
+    "http://www.loc.gov/item/90682564/",
+    "http://www.loc.gov/resource/g3201b.ct002663/",
+    "https://hdl.loc.gov/loc.gmd/g3201b.ct002663",
+    "https://search.catalog.loc.gov/instances/35e7dc44-cb1d-5ef7-b83f-915d4ef72185",
+    "https://www.loc.gov/item/90682564/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201b/ct002663.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90682564/\"}",
+  "dct_spatial_sm": [
+    "abīs al mustajaddah",
+    "earth",
+    "egypt"
+  ],
+  "dct_subject_sm": [
+    "Abīs al Mustajaddah (Egypt)--Distances, etc.--Maps",
+    "Azimuthal equidistant projection (Cartography)--Maps",
+    "Earth",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1989",
+    "[Washington, D.C. : Central Intelligence Agency, 1989?]"
+  ],
+  "dct_title_s": "Azimuthal equidistant projection centered on Abīs al Mustajaddah, Egypt, 31⁰08ʹN, 30⁰06ʹE",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90682564",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Lavaca County, Texas"
+  ],
+  "dct_description_sm": [
+    "\"Octob. 1896.\"",
+    "\"Traced 1914 by H.M. Bramlette.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint",
+    "Contributors: Texas. General Land Office",
+    "LC Land ownership maps, 1048",
+    "Map separated in 2 parts.",
+    "Publication statement: [Austin, Tex.] General Land Office, [1914]",
+    "Shows land ownership.",
+    "Shows land ownership. Blueprint \"Octob. 1896.\" \"Traced 1914 by H.M. Bramlette. Map separated in 2 parts. LC Land ownership maps, 1048 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033l.la001048",
+    "http://lccn.loc.gov/2012590028",
+    "http://www.loc.gov/item/2012590028/",
+    "http://www.loc.gov/resource/g4033l.la001048/",
+    "https://hdl.loc.gov/loc.gmd/g4033l.la001048",
+    "https://search.catalog.loc.gov/instances/73adf416-ec3e-5b54-a8df-7317000ee21f",
+    "https://www.loc.gov/item/2012590028/"
+  ],
+  "dct_issued_s": "1896",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033l/la001048.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012590028/\"}",
+  "dct_spatial_sm": [
+    "lavaca county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Texas--Lavaca County--Maps",
+    "Lavaca County (Tex.)--Maps",
+    "Real property--Texas--Lavaca County--Maps",
+    "United States--Texas--Lavaca County"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dct_title_s": "Lavaca Co",
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1896
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012590028",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

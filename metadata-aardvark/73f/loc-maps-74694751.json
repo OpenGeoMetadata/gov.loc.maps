@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Has watermarks.",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Has watermarks. Scale not given. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: [175-?]",
+    "Scale not given.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3732s.ar304100",
+    "http://lccn.loc.gov/74694751",
+    "http://www.loc.gov/item/74694751/",
+    "http://www.loc.gov/resource/g3732s.ar304100/",
+    "https://hdl.loc.gov/loc.gmd/g3732s.ar304100",
+    "https://search.catalog.loc.gov/instances/78ff61c3-c7e8-562d-bd71-4d52458718a4",
+    "https://www.loc.gov/item/74694751/"
+  ],
+  "dct_issued_s": "1750",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3732/g3732s/ar304100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694751/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "maine",
+    "new brunswick",
+    "saint john river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--New Brunswick--Saint John River",
+    "Saint John River (Me. and N.B.)--Maps, Manuscript--Early works to 1800",
+    "United States--Maine--Saint John River"
+  ],
+  "dct_temporal_sm": [
+    "1750"
+  ],
+  "dct_title_s": "Survey of the River St. Johns from Fort Frederick in the Bay of Fundy to the River Medauesqua with the Lake Temesecuala and the Grand Portage from thence to the River St. Lawrence",
+  "gbl_dateRange_drsim": [
+    "[1750 TO 1750]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1750
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694751",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

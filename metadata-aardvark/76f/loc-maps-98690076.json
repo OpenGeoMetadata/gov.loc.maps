@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 802614ai (R02194) 11-98.\"",
+    "\"Base 802614ai (R02194) 11-98.\" Includes notes. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes notes.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1998]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6866f.ct000374",
+    "http://lccn.loc.gov/98690076",
+    "http://www.loc.gov/item/98690076/",
+    "http://www.loc.gov/resource/g6866f.ct000374/",
+    "https://hdl.loc.gov/loc.gmd/g6866f.ct000374",
+    "https://search.catalog.loc.gov/instances/0dcfb871-ead4-5d81-b689-67cdc305db83",
+    "https://www.loc.gov/item/98690076/"
+  ],
+  "dct_issued_s": "1998",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6866/g6866f/ct000374.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98690076/\"}",
+  "dct_spatial_sm": [
+    "kosovo",
+    "republic",
+    "serbia"
+  ],
+  "dct_subject_sm": [
+    "Kosovo (Republic)--Administrative and political divisions--Maps",
+    "Serbia--Kosovo"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dct_title_s": "Kosovo, administrative divisions",
+  "gbl_dateRange_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98690076",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

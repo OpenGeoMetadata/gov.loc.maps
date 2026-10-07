@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"GPO: 1988-201-941/80059.\"",
+    "\"GPO: 1988-201-941/80059.\" Relief shown by shading. Panel title. Title on verso: Great Smoky Mountains National Park, North Carolina/Tennessee, trail map and guide. Text, indexed tables of campsites and trail shelters, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Panel title.",
+    "Publication statement: Washington, D.C. : The Service, [1988]",
+    "Relief shown by shading.",
+    "Text, indexed tables of campsites and trail shelters, and col. ill. on verso.",
+    "Title on verso: Great Smoky Mountains National Park, North Carolina/Tennessee, trail map and guide."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3902g.np000253",
+    "http://lccn.loc.gov/93681892",
+    "http://www.loc.gov/item/93681892/",
+    "http://www.loc.gov/resource/g3902g.np000253/",
+    "https://hdl.loc.gov/loc.gmd/g3902g.np000253",
+    "https://search.catalog.loc.gov/instances/27fb3d8d-7227-56f8-8e22-1aece7c33b2c",
+    "https://www.loc.gov/item/93681892/"
+  ],
+  "dct_issued_s": "1988",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902g/np000253.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93681892/\"}",
+  "dct_spatial_sm": [
+    "great smoky mountains national park",
+    "north carolina",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Trails--Great Smoky Mountains National Park (N.C. and Tenn.)--Maps",
+    "United States--North Carolina--Great Smoky Mountains National Park",
+    "United States--Tennessee--Great Smoky Mountains National Park"
+  ],
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "dct_title_s": "Great Smoky Mountains National Park, North Carolina/Tennessee, trail map",
+  "gbl_dateRange_drsim": [
+    "[1988 TO 1988]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1988
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93681892",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

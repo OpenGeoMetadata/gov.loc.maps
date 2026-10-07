@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Quebec, ville de l'Amerique septentrionale"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Aubant, Abraham d'",
+    "Includes index and col. ill.",
+    "Oriented with north to the left.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1755?]",
+    "Shows siege of Quebec City in 1670.",
+    "Shows siege of Quebec City in 1670. Oriented with north to the left. Pen-and-ink and watercolor. Includes index and col. ill. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3454q.ct001307",
+    "http://lccn.loc.gov/2005630142",
+    "http://www.loc.gov/item/2005630142/",
+    "http://www.loc.gov/resource/g3454q.ct001307/",
+    "https://hdl.loc.gov/loc.gmd/g3454q.ct001307",
+    "https://search.catalog.loc.gov/instances/41e2a864-6891-5b71-b10a-91bbb7988c1c",
+    "https://www.loc.gov/item/2005630142/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3454/g3454q/ct001307.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005630142/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "québec"
+  ],
+  "dct_subject_sm": [
+    "Canada--Québec--Québec",
+    "Québec (Québec)--History--17th century--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1755",
+    "[1755?]"
+  ],
+  "dct_title_s": "Qubbec, ville de l'Amerique septentrionale dans la Nouvelle France avec titre d'Eveché située sur le fleuve de St. Laurens a 310 degrez 17 minutes de longitude et 46 degrez 55 minutes de latitude : elle fut Assiegée par les Anglois sur les Francois par qui elle est encore possédée l'an 1670 depuis le 16e octobre jusqu'au 22e du meme Mois : monsr de frontenac etant pour lors gouverneur du pays qui leur fit hontue sement lever le siege",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005630142",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

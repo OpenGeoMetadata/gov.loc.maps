@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Sectional map of Dakota Territory"
+  ],
+  "dct_description_sm": [
+    "\"Draughted by Fred Sturnegk.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rice, G. Jay; St. Paul Litho. & Engr. Co; Sturnegk, Fred",
+    "Originally printed 2 maps 43 x 69 cm. on sheets 48 x 75 cm., sheets joined horizontally to form 1 map.",
+    "Publication statement: St. Paul, Minn. : St. Paul Lithog. & Eng. Co., 1872.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows roads, railroads, trails, towns, villages, settlements, and boundary lines across the Dakota Territory. \"Draughted by Fred Sturnegk.\" Originally printed 2 maps 43 x 69 cm. on sheets 48 x 75 cm., sheets joined horizontally to form 1 map. Available also through the Library of Congress Web site as a raster image.",
+    "Shows roads, railroads, trails, towns, villages, settlements, and boundary lines across the Dakota Territory."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4170.ct003095",
+    "http://lccn.loc.gov/2012593215",
+    "http://www.loc.gov/item/2012593215/",
+    "http://www.loc.gov/resource/g4170.ct003095/",
+    "https://hdl.loc.gov/loc.gmd/g4170.ct003095",
+    "https://search.catalog.loc.gov/instances/a5fe3190-83ab-5854-a586-94d6b2ded41c",
+    "https://www.loc.gov/item/2012593215/"
+  ],
+  "dct_issued_s": "1872",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd417/g4170/g4170/ct003095.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593215/\"}",
+  "dct_spatial_sm": [
+    "dakota territory",
+    "north dakota",
+    "south dakota",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Dakota Territory--Maps",
+    "North Dakota--Maps",
+    "South Dakota--Maps",
+    "United States--Dakota Territory",
+    "United States--North Dakota",
+    "United States--South Dakota"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "dct_title_s": "Rice's sectional map of Dakota Territory",
+  "gbl_dateRange_drsim": [
+    "[1872 TO 1872]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1872
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593215",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

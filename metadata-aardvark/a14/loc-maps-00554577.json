@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Gallery plan",
+    "Title at top: Gallery plan"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Gallery of Art (U.S.)",
+    "DCP",
+    "Includes text, color-key to museum collections, and building cross-section.",
+    "Maps of 7 floorplans of the 2 museum buildings.",
+    "Maps of 7 floorplans of the 2 museum buildings. Panel title. Includes text, color-key to museum collections, and building cross-section. Text, \"Area map\", website address, and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Panel title.",
+    "Publication statement: Washington, D.C. : National Gallery of Art, [1999?]",
+    "Text, \"Area map\", website address, and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852n.ct005180",
+    "http://lccn.loc.gov/00554577",
+    "http://www.loc.gov/item/00554577/",
+    "http://www.loc.gov/resource/g3852n.ct005180/",
+    "https://hdl.loc.gov/loc.gmd/g3852n.ct005180",
+    "https://search.catalog.loc.gov/instances/db0dbc72-4ddd-5e85-8dc9-4ac9be560826",
+    "https://www.loc.gov/item/00554577/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852n/ct005180.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00554577/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Art museums--Washington (D.C.)--Designs and plans",
+    "National Gallery of Art (U.S.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1999",
+    "Washington, D.C. : National Gallery of Art, [1999?]"
+  ],
+  "dct_title_s": "National Gallery of Art, brief guide and plan",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00554577",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

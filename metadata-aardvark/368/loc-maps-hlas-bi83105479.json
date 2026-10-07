@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: minas gerais, brazil (state). instituto de geociências aplicadas. diretoria de cartografia; minas gerais, brazil (state). instituto de geociências aplicadas. diretoria de geografia; modelski, andrew m.",
+    "Detailed general map of the state"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi83105479/",
+    "https://www.loc.gov/item/hlas-bi83105479/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_publisher_sm": [
+    "Instituto de Geociências Aplicadas,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi83105479/\"}",
+  "dct_spatial_sm": [
+    "brazil"
+  ],
+  "dct_subject_sm": [
+    "brazil",
+    "geography",
+    "maps and cartography",
+    "maps and cartography -- brazil",
+    "minas gerais, brazil (state)",
+    "minas gerais, brazil (state) -- geography"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Mapa geográfico, Estado de Minas Gerais",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi83105479",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

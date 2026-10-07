@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This panoramic map shows Belleville, Illinois, as it appeared in 1867. The name of the town is French, meaning \"beautiful city.\" Belleville was founded in 1814 and was officially incorporated as a city in 1850. An index at the bottom of the map indicates points of interest, including the public square, court house, railroad depot, coal mines, schools, and churches for German Protestant, Presbyterian, Baptist, Methodist, German Methodist, and Catholic congregations. The panoramic map was a cartographic form popularly used to depict U.S. and Canadian cities and towns in the late 19th and early 20th centuries. Also known as bird's-eye views or perspective maps, these maps are representations of cities portrayed as if viewed from above at an oblique angle. Not generally drawn to scale, they show street patterns, individual buildings, and major landscape features in perspective. This map is by Albert Ruger (1829-99), the first American to achieve success as a panoramic artist. Born in Prussia, Ruger immigrated to the United States and worked initially as a mason. While serving with the Ohio Volunteers during the Civil War, he drew views of Union campsites. After the war, Ruger settled in Battle Creek, Michigan, where he began his panoramic mapping career by sketching Michigan cities. In the late 1860s, Ruger formed a partnership with J.J. Stoner of Madison, Wisconsin, and together they published numerous city panoramas.\" World Digital Library.",
+    "AACR2: 100; 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Contributors: Chicago Lithographing Co; Ruger, A.",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 139",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [Chicago] Chicago Lithographing Co. [1867]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4104b.pm001390",
+    "http://lccn.loc.gov/73693343",
+    "http://www.loc.gov/item/73693343/",
+    "http://www.loc.gov/resource/g4104b.pm001390/",
+    "https://hdl.loc.gov/loc.gmd/g4104b.pm001390",
+    "https://search.catalog.loc.gov/instances/1b35c34b-f6c1-5ef7-9f12-1dee49a91a0f",
+    "https://www.loc.gov/item/73693343/"
+  ],
+  "dct_issued_s": "1867",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410/g4104/g4104b/pm001390.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693343/\"}",
+  "dct_spatial_sm": [
+    "belleville",
+    "illinois",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Belleville (Ill.)",
+    "United States--Illinois--Belleville"
+  ],
+  "dct_temporal_sm": [
+    "1867"
+  ],
+  "dct_title_s": "Belleville, St. Clair Co., Illinois 1867",
+  "gbl_dateRange_drsim": [
+    "[1867 TO 1867]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1867
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693343",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

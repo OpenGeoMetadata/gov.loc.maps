@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 2000-67",
+    "Attributed to Rev. Duke?",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Catalog: Antique maps and prints 2000, item no. 1515.",
+    "Includes list of estates with proprietors and numbers of slaves.",
+    "Pen-and-ink, watercolor, and pencil.",
+    "Pen-and-ink, watercolor, and pencil. Attributed to Rev. Duke? Includes list of estates with proprietors and numbers of slaves. Catalog: Antique maps and prints 2000, item no. 1515. Available also through the Library of Congress Web site as a raster image. Vault Acquisitions control no. 2000-67",
+    "Publication statement: [1820?]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2001622464",
+    "http://www.loc.gov/item/2001622464/",
+    "http://www.loc.gov/resource/g5133s.lh002017/",
+    "https://hdl.loc.gov/loc.gmd/g5133s.lh002017",
+    "https://search.catalog.loc.gov/instances/a629b722-93db-576f-b853-d3455eeb1f44",
+    "https://www.loc.gov/item/2001622464/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5133/g5133s/lh002017.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001622464/\"}",
+  "dct_spatial_sm": [
+    "grenada",
+    "saint patrick"
+  ],
+  "dct_subject_sm": [
+    "Grenada--Saint Patrick",
+    "Saint Patrick (Grenada)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1820",
+    "[1820?]"
+  ],
+  "dct_title_s": "A plan of the parish of St. Patrick in the island of Grenada",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001622464",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

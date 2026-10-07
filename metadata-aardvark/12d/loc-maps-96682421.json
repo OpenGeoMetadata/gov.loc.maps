@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title: Santa Fe Trail, official map and guide",
+    "Santa Fe Trail, official map and guide"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 1995--387-038/00212.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, list of \"Trail sites on federal land,\" location map, and vegetation color key.",
+    "Publication statement: [Washington, D.C.] : The Service, [1995]",
+    "Relief shown by shading.",
+    "Relief shown by shading. \"*GPO: 1995--387-038/00212.\" Includes text, list of \"Trail sites on federal land,\" location map, and vegetation color key. Text, time line, and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text, time line, and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/96682421",
+    "http://www.loc.gov/item/96682421/",
+    "http://www.loc.gov/resource/g4052s.ct011741/",
+    "https://hdl.loc.gov/loc.gmd/g4052s.ct011741",
+    "https://search.catalog.loc.gov/instances/bfc4b040-39d1-5811-98b3-de879db9afaa",
+    "https://www.loc.gov/item/96682421/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4052/g4052s/ct011741.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96682421/\"}",
+  "dct_spatial_sm": [
+    "santa fe national historic trail",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Santa Fe National Historic Trail--Maps",
+    "United States--Santa Fe National Historic Trail"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Santa Fe National Historic Trail, Colorado, Kansas, Missouri, New Mexico, Oklahoma",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96682421",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

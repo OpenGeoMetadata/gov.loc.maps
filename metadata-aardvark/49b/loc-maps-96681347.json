@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"6/95.\"",
+    "\"6/95.\" Includes area map, table of navigation aids, and facility guide/index. Lake information, col. ill., and statistical data on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Nashville District; United States. Forest Service",
+    "Includes area map, table of navigation aids, and facility guide/index.",
+    "Lake information, col. ill., and statistical data on verso.",
+    "Publication statement: [Nashville, Tenn.] : The District, [1995]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/96681347",
+    "http://www.loc.gov/item/96681347/",
+    "http://www.loc.gov/resource/g3952l.ct010463/",
+    "https://hdl.loc.gov/loc.gmd/g3952l.ct010463",
+    "https://search.catalog.loc.gov/instances/f6c6c148-084f-57a1-998d-4959c800cca1",
+    "https://www.loc.gov/item/96681347/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd395/g3952/g3952l/ct010463.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96681347/\"}",
+  "dct_spatial_sm": [
+    "kentucky",
+    "laurel river lake",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Laurel River Lake (Ky.)--Maps",
+    "Outdoor recreation--Kentucky--Laurel River Lake--Maps",
+    "United States--Kentucky--Laurel River Lake"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Laurel River Lake",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96681347",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

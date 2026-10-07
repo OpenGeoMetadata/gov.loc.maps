@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "Oriented with north to the bottom.",
+    "Pen-and-ink and lead pencil.",
+    "Phillips. Washington 84",
+    "Publication statement: [180-?]",
+    "Relief shown by spot heights.",
+    "Relief shown by spot heights. Pen-and-ink and lead pencil. Watermarked: J M. Oriented with north to the bottom. Torn and fold-lined. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 84 Vault DCP",
+    "Torn and fold-lined.",
+    "Vault",
+    "Watermarked: J M."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852u.ct006219r",
+    "http://hdl.loc.gov/loc.gmd/g3852u.ct006219v",
+    "http://lccn.loc.gov/88690763",
+    "http://www.loc.gov/item/88690763/",
+    "http://www.loc.gov/resource/g3852u.ct006219r/",
+    "http://www.loc.gov/resource/g3852u.ct006219v/",
+    "https://hdl.loc.gov/loc.gmd/g3852u.ct006219r",
+    "https://hdl.loc.gov/loc.gmd/g3852u.ct006219v",
+    "https://search.catalog.loc.gov/instances/11461ca1-5acf-59a3-8ed8-4b53373de900",
+    "https://www.loc.gov/item/88690763/"
+  ],
+  "dct_issued_s": "1800",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852u/ct006219r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690763/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "United States Capitol (Washington, D.C.)--Maps, Manuscript",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1800"
+  ],
+  "dct_title_s": "[Plan of a circle within the Capitol grounds, Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1800 TO 1800]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1800
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690763",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

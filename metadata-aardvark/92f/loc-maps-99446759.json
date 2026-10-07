@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Drawn on tracing paper.",
+    "LC Civil War maps (2nd ed.), H94",
+    "Publication statement: [1862?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Drawn on tracing paper. LC Civil War maps (2nd ed.), H94 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884m.cwh00094",
+    "http://lccn.loc.gov/99446759",
+    "http://www.loc.gov/item/99446759/",
+    "http://www.loc.gov/resource/g3884m.cwh00094/",
+    "https://hdl.loc.gov/loc.gmd/g3884m.cwh00094",
+    "https://search.catalog.loc.gov/instances/587aac3d-abb7-5a04-8ded-dd976bd1b60a",
+    "https://www.loc.gov/item/99446759/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884m/cwh00094.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446759/\"}",
+  "dct_spatial_sm": [
+    "mcdowell region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "McDowell Region (Va.)--Maps, Manuscript",
+    "United States--Virginia--McDowell Region"
+  ],
+  "dct_temporal_sm": [
+    "1862",
+    "[1862?]"
+  ],
+  "dct_title_s": "[Sketch of the vicinity of McDowell, Va.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446759",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

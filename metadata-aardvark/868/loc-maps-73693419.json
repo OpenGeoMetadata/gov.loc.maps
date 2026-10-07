@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chicago Lithographing Co; Ruger, A.",
+    "Indexed for points of interest.",
+    "Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 333 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 710/1",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 333",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Chicago, Chicago Lithographing Co. [1868?]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4114a.pm003330",
+    "http://lccn.loc.gov/73693419",
+    "http://www.loc.gov/item/73693419/",
+    "http://www.loc.gov/resource/g4114a.pm003330/",
+    "https://hdl.loc.gov/loc.gmd/g4114a.pm003330",
+    "https://search.catalog.loc.gov/instances/37bfb190-8193-5891-a455-3130c83f13de",
+    "https://www.loc.gov/item/73693419/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd411/g4114/g4114a/pm003330.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693419/\"}",
+  "dct_spatial_sm": [
+    "albion",
+    "albion (calhoun county)",
+    "calhoun county",
+    "michigan",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Albion (Calhoun County, Mich.)",
+    "United States--Michigan--Albion (Calhoun County)"
+  ],
+  "dct_temporal_sm": [
+    "1868",
+    "Chicago, Chicago Lithographing Co. [1868?]"
+  ],
+  "dct_title_s": "Birds eye view of the city of Albion, Calhoun Co., Michigan",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693419",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

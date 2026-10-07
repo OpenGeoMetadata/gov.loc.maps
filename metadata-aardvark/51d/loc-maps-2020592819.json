@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Land map of the County of Kings, N.Y., January 1, 1911"
+  ],
+  "dct_description_sm": [
+    "\"December 31st, 1910.\"",
+    "\"December 31st, 1910.\" Available also through the Library of Congress Web site as a raster image. unk82049401 upgraded to RDA and LCCN 2020592819 replaced (ga15 2020-09-18)",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Kings County (N.Y.)",
+    "Publication statement: New York : M. B. Brown Printing and Binding Co., 1910.",
+    "unk82049401 upgraded to RDA and LCCN 2020592819 replaced (ga15 2020-09-18)"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2020592819",
+    "http://www.loc.gov/item/2020592819/",
+    "http://www.loc.gov/resource/gmdatlases.2020592819/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.2020592819",
+    "https://search.catalog.loc.gov/instances/f842a2a6-a778-5fc7-b82c-f885ac47f1c6",
+    "https://www.loc.gov/item/2020592819/"
+  ],
+  "dct_issued_s": "1910",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:20:20:59:28:19:2020592819:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2020592819/\"}",
+  "dct_spatial_sm": [
+    "brooklyn",
+    "kings county",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Brooklyn (New York, N.Y.)--Maps",
+    "Kings County (N.Y.)--Maps",
+    "Real property--New York (State)--New York--Maps",
+    "United States--New York (State)--New York--Brooklyn (New York)"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "dct_title_s": "The land map of the County of Kings, state of New York 1911 to 1920, inclusive",
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1910]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1910
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2020592819",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

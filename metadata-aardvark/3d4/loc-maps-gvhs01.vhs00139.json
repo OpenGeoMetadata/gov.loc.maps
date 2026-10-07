@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Color coding indicates the location of Union and Confederate forces.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden Diary (Mss5:1 Sn237:1 v. 4, p. 426).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary image.",
+    "Publication statement: [S.l., 1863-1865].",
+    "Relief shown by hachures.",
+    "The map shows the Union troops on land and water surrounding Confederate fortifications at Port Hudson, La., on the Mississippi River, approximately 25 miles north of Baton Rouge. The Union XIX Corps under Gen. Banks had its first engagement May 26th on the Bayou Sara Road, and laid siege to the fort on May 27th. Confederate Gen. Franklin Gardner surrendered Port Hudson on July 9th, 1863, after having been under siege for six weeks and upon hearing news of the fall of Vicksburg to Gen. Grant on July 4th.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00139",
+    "http://www.loc.gov/item/001-CABIB20009353/",
+    "http://www.loc.gov/item/gvhs01.vhs00139/",
+    "http://www.loc.gov/resource/gvhs01.vhs00139/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00139",
+    "https://www.loc.gov/item/gvhs01.vhs00139/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00139.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00139/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "port hudson",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Banks, Nathaniel Prentiss,--1816-1894",
+    "Gardner, Franklin,--1823-1873",
+    "Louisiana--History--Civil War, 1861-1865--Maps",
+    "Port Hudson (La.)--History--Siege, 1863--Maps",
+    "United States--Louisiana--Port Hudson"
+  ],
+  "dct_temporal_sm": [
+    "1863/1865"
+  ],
+  "dct_title_s": "Siege of Port Hudson",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00139",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

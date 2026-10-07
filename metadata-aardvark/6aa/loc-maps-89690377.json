@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 800565 (B00425) 6-88.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes text and insets of Shetland and Northern Ireland.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1988]",
+    "Shows counties (England and Wales), regions (Scotland), and districts (Northern Ireland).",
+    "Shows counties (England and Wales), regions (Scotland), and districts (Northern Ireland). Includes text and insets of Shetland and Northern Ireland. \"Base 800565 (B00425) 6-88.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5741f.ct001689",
+    "http://lccn.loc.gov/89690377",
+    "http://www.loc.gov/item/89690377/",
+    "http://www.loc.gov/resource/g5741f.ct001689/",
+    "https://hdl.loc.gov/loc.gmd/g5741f.ct001689",
+    "https://search.catalog.loc.gov/instances/f4635039-b7e3-5253-bdfd-f63e269a28f6",
+    "https://www.loc.gov/item/89690377/"
+  ],
+  "dct_issued_s": "1988",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5741/g5741f/ct001689.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89690377/\"}",
+  "dct_spatial_sm": [
+    "great britain"
+  ],
+  "dct_subject_sm": [
+    "Great Britain",
+    "Great Britain--Administrative and political divisions--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "dct_title_s": "United Kingdom, administrative divisions",
+  "gbl_dateRange_drsim": [
+    "[1988 TO 1988]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1988
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89690377",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

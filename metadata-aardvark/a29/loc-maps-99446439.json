@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Depths shown by soundings.",
+    "Indicates the location and names of vessels, and soundings.",
+    "LC Civil War Maps (2nd ed.), 313",
+    "Publication statement: [1865]",
+    "Similar to pl. 67, no. 1, in the Atlas to Accompany the Official Records of the Union and Confederate Armies (Washington, Government Printing Office, 1891-95).",
+    "Stamped in the lower right corner \"From Collection of David Dixon Porter.\"",
+    "Stamped in the lower right corner \"From Collection of David Dixon Porter.\" Similar to pl. 67, no. 1, in the Atlas to Accompany the Official Records of the Union and Confederate Armies (Washington, Government Printing Office, 1891-95). Depths shown by soundings. Indicates the location and names of vessels, and soundings. LC Civil War Maps (2nd ed.), 313 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3904f.cw0313000",
+    "http://lccn.loc.gov/99446439",
+    "http://www.loc.gov/item/99446439/",
+    "http://www.loc.gov/resource/g3904f.cw0313000/",
+    "https://hdl.loc.gov/loc.gmd/g3904f.cw0313000",
+    "https://search.catalog.loc.gov/instances/bdc46daa-449d-51b2-8762-1093a322740b",
+    "https://www.loc.gov/item/99446439/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3904/g3904f/cw0313000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446439/\"}",
+  "dct_spatial_sm": [
+    "fort fisher",
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Fisher (N.C.)--History--Civil War, 1861-1865--Maps",
+    "United States--North Carolina--Fort Fisher"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "[Fort Fisher, defensive work protecting the entrance to the port of Wilmington, North Carolina, captured by the Federals, Jan. 15, 1865]",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446439",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

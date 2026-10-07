@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: castillo, g.j.; modelski, andrew m.; nicaragua. plan regulador de managua"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi81105498/",
+    "https://www.loc.gov/item/hlas-bi81105498/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "Oficina Nacional de Urbanismo, Plan Regulador de Managua, Ministerio de Obras Públicas y Ministerio del Distrito Nacional,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi81105498/\"}",
+  "dct_spatial_sm": [
+    "nicaragua"
+  ],
+  "dct_subject_sm": [
+    "managua, nicaragua (city)",
+    "managua, nicaragua (city) -- maps and cartography",
+    "maps and cartography",
+    "maps and cartography -- nicaragua",
+    "nicaragua"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Plano básico regional de Managua. Dibujo, G.J. Castillo",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi81105498",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

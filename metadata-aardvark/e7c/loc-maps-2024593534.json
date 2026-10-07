@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At lower right corner: Entered according to Act of Congress in the year 1846, by H.S. Tanner, in the Clerks office of the District Court for the Southern District of New York.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Tanner, Henry Schenck, 1786-1858, cartographer, publisher",
+    "Includes table of distances, table of statistics, and inset map of roads from Vera Cruz and Alvarado to Mexico.",
+    "LC copy imperfect: Lacks cover. Separated into two sheets vertically along the centerfold with minor loss between the sheets, and mounted on cloth backing. Small hole in the upper right area of the sheet at the location of the Alabama River on the map.",
+    "LC copy: Annotation in ink next to the table of distances: Comargo to [illegible] = 66 miles.",
+    "Prime meridian: Washington.",
+    "Publication statement: [Philadelphia] : H.S. Tanner, 1846.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Prime meridian: Washington. At lower right corner: Entered according to Act of Congress in the year 1846, by H.S. Tanner, in the Clerks office of the District Court for the Southern District of New York. Includes table of distances, table of statistics, and inset map of roads from Vera Cruz and Alvarado to Mexico. LC copy: Annotation in ink next to the table of distances: Comargo to [illegible] = 66 miles. LC copy imperfect: Lacks cover. Separated into two sheets vertically along the centerfold with minor loss between the sheets, and mounted on cloth backing. Small hole in the upper right area of the sheet at the location of the Alabama River on the map. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024593534",
+    "http://www.loc.gov/item/2024593534/",
+    "http://www.loc.gov/resource/g4410.ct012074/",
+    "https://hdl.loc.gov/loc.gmd/g4410.ct012074",
+    "https://search.catalog.loc.gov/instances/eec44a13-5e5f-5852-8fb0-77754e39a051",
+    "https://www.loc.gov/item/2024593534/"
+  ],
+  "dct_issued_s": "1846",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4410:g4410:ct012074/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024593534/\"}",
+  "dct_spatial_sm": [
+    "mexico",
+    "southwestern states",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Administrative and political divisions--Maps",
+    "Mexico",
+    "Mexico--Maps",
+    "Southwestern States--Maps",
+    "Texas--Maps",
+    "United States--Texas"
+  ],
+  "dct_temporal_sm": [
+    "1846"
+  ],
+  "dct_title_s": "A map of the United States of Mexico : as organized and defined by the several acts of the Congress of that Republic",
+  "gbl_dateRange_drsim": [
+    "[1846 TO 1846]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1846
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024593534",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

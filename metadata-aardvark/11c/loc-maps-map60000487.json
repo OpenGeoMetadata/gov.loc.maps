@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "أطلس، اي مجموع خارطة رسم الارض"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brocktorff, Charles Frederick de, 1775-1850, engraver",
+    "First printed Arabic world atlas.",
+    "List of geographical atlases in the Library of Congress, 768",
+    "Publication statement: [Malta] : [publisher not identified], [1835]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. First printed Arabic world atlas. Title from cover. List of geographical atlases in the Library of Congress, 768 Available also through the Library of Congress Web site as a raster image. map60000487 upgraded to RDA ; subject and description updated (ga15 2021-08-02)",
+    "Title from cover.",
+    "map60000487 upgraded to RDA ; subject and description updated (ga15 2021-08-02)"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map60000487",
+    "http://www.loc.gov/item/map60000487/",
+    "http://www.loc.gov/resource/gmdatlases.map60000487/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.map60000487",
+    "https://search.catalog.loc.gov/instances/68d31ede-7310-5fb8-839a-58efca18649c",
+    "https://www.loc.gov/item/map60000487/"
+  ],
+  "dct_issued_s": "1835",
+  "dct_language_sm": [
+    "ara"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:ma:p6:00:00:48:7:map60000487:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map60000487/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)"
+  ],
+  "dct_temporal_sm": [
+    "1835"
+  ],
+  "dct_title_s": "Aṭlas, ay majmūʻ khārīṭat rasm al-arḍ",
+  "gbl_dateRange_drsim": [
+    "[1835 TO 1835]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1835
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map60000487",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

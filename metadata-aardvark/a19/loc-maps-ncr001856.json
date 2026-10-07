@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Unidentified photographer (Photographer)",
+    "Publication statement: September, 1982"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.afc/afc96ran.47146",
+    "http://www.loc.gov/item/afc1991021.afc1991021_47146/",
+    "http://www.loc.gov/item/ncr001856/",
+    "http://www.loc.gov/resource/afc1991021.afc1991021_47146/",
+    "https://hdl.loc.gov/loc.afc/afc96ran.47146",
+    "https://www.loc.gov/item/ncr001856/"
+  ],
+  "dct_issued_s": "1982-09-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:afc:afc1991021:afc1991021_47146/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/ncr001856/\"}",
+  "dct_rights_sm": [
+    "No known restrictions on use or reproduction."
+  ],
+  "dct_subject_sm": [
+    "Dutch Fred (Flat) Mine",
+    "Ethnography",
+    "Hot Springs Range",
+    "Maps",
+    "Mines"
+  ],
+  "dct_temporal_sm": [
+    "1982-09-01"
+  ],
+  "dct_title_s": "Map of the Dutch Fred (Flat) Mine",
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1982]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-ncr001856",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

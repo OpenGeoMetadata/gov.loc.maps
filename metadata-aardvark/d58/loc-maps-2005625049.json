@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Hotchkiss, Jedediah, 1828-1899",
+    "In ink on red bordered label: 283 crossed through with pencil.",
+    "LC Civil War maps (2nd ed.), H142",
+    "Pencil (some col.) on section cut down from one signature of a ledger book, mounted between sheets of transparent paper.",
+    "Publication statement: [1863]",
+    "Shows troop movements during the battle of Chancellorsville and names of some residents.",
+    "Shows troop movements during the battle of Chancellorsville and names of some residents. Pencil (some col.) on section cut down from one signature of a ledger book, mounted between sheets of transparent paper. In ink on red bordered label: 283 crossed through with pencil. LC Civil War maps (2nd ed.), H142 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884c.cwh00142",
+    "http://lccn.loc.gov/2005625049",
+    "http://www.loc.gov/item/2005625049/",
+    "http://www.loc.gov/resource/g3884c.cwh00142/",
+    "https://hdl.loc.gov/loc.gmd/g3884c.cwh00142",
+    "https://search.catalog.loc.gov/instances/f04caa21-cd85-5033-a806-3a3cecf0565c",
+    "https://www.loc.gov/item/2005625049/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884c/cwh00142.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625049/\"}",
+  "dct_spatial_sm": [
+    "chancellorsville",
+    "chancellorsville region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Chancellorsville, Battle of, Chancellorsville, Va",
+    "Chancellorsville, Battle of, Chancellorsville, Va., 1863--Maps, Manuscript",
+    "Landowners--Virginia--Chancellorsville Region--Maps",
+    "United States--Virginia--Chancellorsville",
+    "United States--Virginia--Chancellorsville Region"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Memoranda of J. Hotchkiss, Top. Eng., Hd. Qrs., 2nd Corps, A.N.Va. : [Chancellorsville, Virginia]",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625049",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

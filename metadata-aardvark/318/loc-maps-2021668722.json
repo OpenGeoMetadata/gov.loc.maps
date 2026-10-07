@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Mar Pacifico. By Hessel Gerritsz. Met Octroy van de E.H.M. Heeren de Staten Generael der Vereenichde Nederlanden . Duytsche mÿlen vÿftien voor een graedt"
+  ],
+  "dct_description_sm": [
+    "\"On the sides of the map, on the right and on the left, the latitudes scales are graduated from 60° south to 60° north, 10° = 82 mm; indication of the equator and the tropics; system of rhumbs of 932 mm in diameter with 16 secondary centers; seven wind roses.\"--Note extracted from World Digital Library.",
+    "Content in Dutch and Spanish.",
+    "Contributors: Gerritsz, Hessel, approximately 1581-1632 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of France.",
+    "Original resource extent: 1 map on 2 sheets, vellum : color ; 107 x 141 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1622.",
+    "Reference extracted from World Digital Library: Catherine Hofmann, Hélène Richard, Emmanuelle Vagnon, et al., The Golden Age of Maritime Maps: When Europe Discovered the World (Buffalo, NY: Firefly, 2013).|National Library of Australia, Mapping our World: Terra Incognita to Australia (Canberra: National Library of Australia, 2013).",
+    "This map of the South Sea, or Pacific Ocean, was made in 1622 by the Dutch cartographer Hessel Gerritsz, who was the official cartographer to the Dutch East India Company and a prominent engraver and publisher. It was not intended as a navigational map, but as a luxurious work for the directors of the company. Regions represented include the Asian coast (named Sina and Tartaria) from Canton to the north of Korea; Insulindia to the east of Borneo; the Philippines, Japan, and the Solomon Islands; the Pacific coast of the Americas from Cape Mendocino in present-day California to the southern tip of South America; and, on the Atlantic side, the coast from the Tortugas to the east of Florida, as well as \"Buttons Bay\" (Hudson Bay). On the sides of the map, on the right and on the left, the latitude scales are graduated from 60° south to 60° north, with the equator and the Tropic of Cancer and the Tropic of Capricorn labeled. The map uses a system of rhumb lines of 932 millimeters in diameter with 16 secondary centers. There are seven wind roses. The coasts are ringed with colors; small islands are colored in flat tints. Three long captions in Dutch, two south of Timor, a third southeast of the Marquesas Islands, provide additional information about the map. At the top, cartouches show, on the left, scales in Dutch miles, Spanish leagues, and English leagues; and, on the right, three head-and-shoulder portraits of the explorers Balboa, Magellan, and Le Maire. A small planisphere (120 mm x 80 mm) is at the top center, the structure (increasing latitudes) and geographical plotting of which differ from those of the main map. California, a peninsula on the map, here is shown as an island, a design that appeared in mapping going back to 1510. The map is beautifully decorated with illustrations of vessels. In the North Pacific, four ships bearing Dutch flags are sailing towards America, while another heads to Asia. Off the coast of Peru, three Dutch ships sail to the west. The title \"Mar del Sur, Mar Pacifico\" is flanked with golden letters. At the bottom of the map, five ships are seen caught up in a storm. Also shown are whales and small indigenous boats. The border represents a golden frame, with indications of the cardinal points of the compass. In the left corner, a cartouche bound by ribbon and scrollwork bears the signature of the mapmaker. The date has been altered, probably by Gerritsz's successor; the first of the three Xs and the last two digits have been added, which results in 1634 instead of 1622, the original date.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668722",
+    "http://www.loc.gov/item/2021668722/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_18564/",
+    "http://www.loc.gov/resource/wdl.18564/",
+    "https://hdl.loc.gov/loc.wdl/wdl.18564",
+    "https://www.loc.gov/item/2021668722/"
+  ],
+  "dct_issued_s": "1622-01-01",
+  "dct_language_sm": [
+    "dut",
+    "flemish",
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_18564.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/56/4/wdl_18564/wdl_18564.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:18:56:4:wdl_18564:T0000001/full/pct:1.5625/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668722/\"}",
+  "dct_subject_sm": [
+    "1622",
+    "Coasts",
+    "Pacific Ocean"
+  ],
+  "dct_temporal_sm": [
+    "1622-01-01"
+  ],
+  "dct_title_s": "South Sea. Pacific Ocean.",
+  "gbl_dateRange_drsim": [
+    "[1622 TO 1622]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1622
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668722",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

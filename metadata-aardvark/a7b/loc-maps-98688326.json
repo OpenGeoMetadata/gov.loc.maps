@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mitchell's Map Publication Office; Mitchell, S. Augustus (Samuel Augustus), 1792-1868",
+    "Description derived from published bibliography.",
+    "General map covering the northeastern and north-central United States and part of eastern Canada. Shows drainage, cities, roads, canals, and \"railroads completed\" and \"in progress.\"",
+    "LC Railroad maps, 38",
+    "Publication statement: Philadelphia, 1859.",
+    "Scale ca. 1:2,200,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr000380",
+    "http://lccn.loc.gov/98688326",
+    "http://www.loc.gov/item/98688326/",
+    "http://www.loc.gov/resource/g3701p.rr000380/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr000380",
+    "https://search.catalog.loc.gov/instances/bf72ba3a-056a-5f51-8508-a659cdaa7251",
+    "https://www.loc.gov/item/98688326/"
+  ],
+  "dct_issued_s": "1859",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr000380.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688326/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1859"
+  ],
+  "dct_title_s": "Railroad map of the eastern, western and northern states, and Canada, showing conspicuously the lines of communication between the ports of the Atlantic and the great west and north west",
+  "gbl_dateRange_drsim": [
+    "[1859 TO 1859]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1859
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688326",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

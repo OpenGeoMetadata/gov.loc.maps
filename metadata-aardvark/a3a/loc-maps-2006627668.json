@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Villavicencio, Manuel, 1822-1871",
+    "Inset map: El Árchipiélago de Galapagos; 25 x 30 cm.",
+    "Lists major cities and towns within each province; provinces are color-coded.",
+    "Publication statement: New York : F. Mayer y Co., 1858.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Lists major cities and towns within each province; provinces are color-coded. Inset map: El Árchipiélago de Galapagos; 25 x 30 cm. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5300.ct001857",
+    "http://lccn.loc.gov/2006627668",
+    "http://www.loc.gov/item/2006627668/",
+    "http://www.loc.gov/resource/g5300.ct001857/",
+    "https://hdl.loc.gov/loc.gmd/g5300.ct001857",
+    "https://search.catalog.loc.gov/instances/e3a31b1e-10bc-5da7-afbb-e74b9a4dbaa3",
+    "https://www.loc.gov/item/2006627668/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5300/g5300/ct001857.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006627668/\"}",
+  "dct_spatial_sm": [
+    "ecuador"
+  ],
+  "dct_subject_sm": [
+    "Ecuador",
+    "Ecuador--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Carta corográfica de la Republica del Ecuador : delineada en vista de las cartas de Don Pedro maldonado, el Baron de Humboldt Mr. Wisse, la de las sontas de las costas por M.M. Filzroy i H. Kellet i las particulares del autor",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006627668",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

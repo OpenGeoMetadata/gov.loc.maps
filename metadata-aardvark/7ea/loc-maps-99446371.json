@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: McAlester, Miles D.",
+    "Description derived from published bibliography.",
+    "Indicates \"United States forces\" in blue and \"Confederate forces\" in red, names of Union field commanders, hospitals, roads, houses, names of residents, drainage, vegetation, and relief by hachures.",
+    "Indicates \"United States forces\" in blue and \"Confederate forces\" in red, names of Union field commanders, hospitals, roads, houses, names of residents, drainage, vegetation, and relief by hachures. Description derived from published bibliography. Scale 1:7200. LC Civil War Maps (2nd ed.), 669 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 669",
+    "Publication statement: [S.l., office of the Chief of Engineers, U.S. Army, 1876]",
+    "Scale 1:7200."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884w.cw0669000",
+    "http://lccn.loc.gov/99446371",
+    "http://www.loc.gov/item/99446371/",
+    "http://www.loc.gov/resource/g3884w.cw0669000/",
+    "https://hdl.loc.gov/loc.gmd/g3884w.cw0669000",
+    "https://search.catalog.loc.gov/instances/1285ca2b-21fe-50e1-ad59-e5763486e16e",
+    "https://www.loc.gov/item/99446371/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884w/cw0669000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446371/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "williamsburg"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia--Williamsburg",
+    "Williamsburg, Battle of, Williamsburg, Va",
+    "Williamsburg, Battle of, Williamsburg, Va., 1862--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Sketch of the battlefield and Confederate works in front of Williamsburg, Va., May 5th 1862",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446371",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

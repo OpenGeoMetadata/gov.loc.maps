@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Certification below plan: Secretary's office, Concord, N.H., May 1809: I hereby certify the above plan to be a true copy from the charter records of this state. Philip Carrigain, sect'y.",
+    "Contributors: Wentworth, Benning, 1696-1770",
+    "Inscription above the plan: Sandgate. For His Excellency Benning Wentworth, Esqr., a tract of land to contain five hundred acres as marked B. W. in the plan which is to be accounted two shares. Granted by B. Wentworth August 11, 1761, said township is divided into 72 equal shares, contains 23,040 acres, & is six miles square, & no more.",
+    "LC Maps of North America, 1750-1789, 878",
+    "Manuscript, pen-and-ink.",
+    "Manuscript, pen-and-ink. Watermark: MB [over the date] 1802. Inscription above the plan: Sandgate. For His Excellency Benning Wentworth, Esqr., a tract of land to contain five hundred acres as marked B. W. in the plan which is to be accounted two shares. Granted by B. Wentworth August 11, 1761, said township is divided into 72 equal shares, contains 23,040 acres, & is six miles square, & no more. Certification below plan: Secretary's office, Concord, N.H., May 1809: I hereby certify the above plan to be a true copy from the charter records of this state. Philip Carrigain, sect'y. Scale ca. 1:126,000. LC Maps of North America, 1750-1789, 878 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 700/1",
+    "Publication statement: [1809]",
+    "Scale ca. 1:126,000.",
+    "Vault",
+    "Watermark: MB [over the date] 1802."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3754s.ar087800",
+    "http://lccn.loc.gov/74692127",
+    "http://www.loc.gov/item/74692127/",
+    "http://www.loc.gov/resource/g3754s.ar087800/",
+    "https://hdl.loc.gov/loc.gmd/g3754s.ar087800",
+    "https://search.catalog.loc.gov/instances/bd66cda6-dc0e-5289-8d67-ce3d5b478c22",
+    "https://www.loc.gov/item/74692127/"
+  ],
+  "dct_issued_s": "1809",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3754/g3754s/ar087800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692127/\"}",
+  "dct_spatial_sm": [
+    "sandgate",
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Sandgate, Vt.--Maps, Manuscript--Early works to 1800",
+    "United States--Vermont--Sandgate"
+  ],
+  "dct_temporal_sm": [
+    "1809"
+  ],
+  "dct_title_s": "Plan of Sandgate",
+  "gbl_dateRange_drsim": [
+    "[1809 TO 1809]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1809
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692127",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

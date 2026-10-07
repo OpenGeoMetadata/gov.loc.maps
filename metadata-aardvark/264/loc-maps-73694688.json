@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Bird's-eye view. Indexed to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 250.1 Available also through the Library of Congress Web site as a raster image. AACR2: 100; 651/1",
+    "Contributors: D. Bremner Co; Ruger, A.",
+    "Indexed to points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 250.1",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Milwaukee, Wis., D. Bremner & Co. Lith. [1878]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3734r.pm002501",
+    "http://lccn.loc.gov/73694688",
+    "http://www.loc.gov/item/73694688/",
+    "http://www.loc.gov/resource/g3734r.pm002501/",
+    "https://hdl.loc.gov/loc.gmd/g3734r.pm002501",
+    "https://search.catalog.loc.gov/instances/ce4d238d-bf06-58b0-9c93-bc175c4e6bb2",
+    "https://www.loc.gov/item/73694688/"
+  ],
+  "dct_issued_s": "1878",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3734/g3734r/pm002501.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73694688/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "richmond",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Richmond (Me.)",
+    "United States--Maine--Richmond"
+  ],
+  "dct_temporal_sm": [
+    "1878"
+  ],
+  "dct_title_s": "Richmond, Sagadahoc Co., Maine 1878",
+  "gbl_dateRange_drsim": [
+    "[1878 TO 1878]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1878
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73694688",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

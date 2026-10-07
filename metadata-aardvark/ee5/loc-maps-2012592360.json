@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mexican Metallurgical and Engineering Co",
+    "Publication statement: City of Mexico : Mexican Metallurgical and Engineering Co., 191-?]",
+    "Relief shown by contours.",
+    "Relief shown by contours. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4631h.ct003627",
+    "http://lccn.loc.gov/2012592360",
+    "http://www.loc.gov/item/2012592360/",
+    "http://www.loc.gov/resource/g4631h.ct003627/",
+    "https://hdl.loc.gov/loc.gmd/g4631h.ct003627",
+    "https://search.catalog.loc.gov/instances/8ca3cd27-fefe-5f36-b9f9-b1ecd066ed64",
+    "https://www.loc.gov/item/2012592360/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4631/g4631h/ct003627.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592360/\"}",
+  "dct_spatial_sm": [
+    "guanajuato",
+    "guanajuato (state)",
+    "mexico"
+  ],
+  "dct_subject_sm": [
+    "Geology--Mexico--Guanajuato (State)--Maps",
+    "Guanajuato (Mexico : State)--Maps",
+    "Mexico--Guanajuato (State)",
+    "Mines and mineral resources--Mexico--Guanajuato (State)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "191?"
+  ],
+  "dct_title_s": "State of Guanajuato",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592360",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

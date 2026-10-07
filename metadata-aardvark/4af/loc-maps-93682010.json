@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Digitized from SCS base 1000303-05 dated September 1988.\"",
+    "\"Map prepared using automated map construction with the FOCAS equipment.\"",
+    "\"Source: Establishment and management of native perennial warm season grasses for forage in the Southeastern United States, unpublished Soil Conservation Service manuscripts at the South National Technical Center, Fort Worth, Texas, 3-5-90.\"",
+    "\"Status of variety as of January 1, 1990.\"",
+    "\"Status of variety as of January 1, 1990.\" Some sheets: April 1990 -- May 1990. Title supplied by cataloger. Sheets individually titled, e.g.: Alamo Switchgrass -- Aldous Little Bluestem -- Pierre Sideoats Grama. \"Digitized from SCS base 1000303-05 dated September 1988.\" \"Map prepared using automated map construction with the FOCAS equipment.\" Computer generated map. \"Source: Establishment and management of native perennial warm season grasses for forage in the Southeastern United States, unpublished Soil Conservation Service manuscripts at the South National Technical Center, Fort Worth, Texas, 3-5-90.\" Includes insets of Alaska, Hawaii, and Puerto Rico. Available also through the Library of Congress Web site as a raster image. ARP",
+    "ARP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Computer generated map.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes insets of Alaska, Hawaii, and Puerto Rico.",
+    "Publication statement: Ft. Worth, TX. : USDA-SCS-National Cartographic Center, 1990.",
+    "Sheets individually titled, e.g.: Alamo Switchgrass -- Aldous Little Bluestem -- Pierre Sideoats Grama.",
+    "Some sheets: April 1990 -- May 1990.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/93682010",
+    "http://www.loc.gov/item/93682010/",
+    "http://www.loc.gov/resource/gmdsetmaps.93682010/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.93682010",
+    "https://search.catalog.loc.gov/instances/4cc1af3a-3095-5e00-804e-4514563aa3c0",
+    "https://www.loc.gov/item/93682010/"
+  ],
+  "dct_issued_s": "1990",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:93:68:20:10:93682010:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/93682010/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Forage plants--United States--Maps",
+    "Grasses--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "dct_title_s": "[Native perennial warm season grasses for forage in the United States]",
+  "gbl_dateRange_drsim": [
+    "[1990 TO 1990]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1990
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93682010",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

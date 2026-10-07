@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden diary, 1861-1865 (v. 5, p. 311).",
+    "Map of an escape tunnel from Libby Prison, Richmond, Va., showing surrounding sites including other prisons, warehouses, the canal and dock closest to Libby, and the railroad depot.",
+    "NOTE: Researchers will be served a color photocopy of this diary page.",
+    "Robert Knox Sneden scrapbook (Mss5:7 Sn237:1), Virginia Historical Society.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00026",
+    "http://www.loc.gov/item/001-(OCoLC)ocm48998894/",
+    "http://www.loc.gov/item/gvhs01.vhs00026/",
+    "http://www.loc.gov/resource/gvhs01.vhs00026/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00026",
+    "https://www.loc.gov/item/gvhs01.vhs00026/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00026.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00026/\"}",
+  "dct_spatial_sm": [
+    "richmond",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Libby Prison",
+    "Military prisons--Virginia--Richmond--History--Civil War, 1861-1865--Maps",
+    "Richmond (Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia--Richmond"
+  ],
+  "dct_temporal_sm": [
+    "1863 d1864"
+  ],
+  "dct_title_s": "Plan of the tunnel and vicinity [of Libby Prison, Richmond, Va.].",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00026",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

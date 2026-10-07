@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base map from U.S. Geological Survey sheets surveyed in co-operation with West Virginia Geological Survey.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: West Virginia Geological and Economic Survey; White, I. C. (Israel Charles), 1848-1927",
+    "Publication statement: [Wheeling] : The Survey, 1918.",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. \"Base map from U.S. Geological Survey sheets surveyed in co-operation with West Virginia Geological Survey.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95682754",
+    "http://www.loc.gov/item/95682754/",
+    "http://www.loc.gov/resource/g3893u.ct009537/",
+    "https://hdl.loc.gov/loc.gmd/g3893u.ct009537",
+    "https://search.catalog.loc.gov/instances/415bfaf1-494b-5e55-895c-526d7ed6c542",
+    "https://www.loc.gov/item/95682754/"
+  ],
+  "dct_issued_s": "1918",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3893/g3893u/ct009537.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95682754/\"}",
+  "dct_spatial_sm": [
+    "randolph county",
+    "united states",
+    "upshur county",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Randolph County (W. Va.)--Maps",
+    "United States--West Virginia--Randolph County",
+    "United States--West Virginia--Upshur County",
+    "Upshur County (W. Va.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "dct_title_s": "Map III of Upshur County and western portion of Randolph County showing topography",
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1918]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1918
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-95682754",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

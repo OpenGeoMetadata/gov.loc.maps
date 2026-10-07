@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hart, J. (Cartographer)",
+    "LC copy imperfect: Laminated, probably prepared as a book illustration.",
+    "Publication statement: [S.l. : s.n., 191-?]",
+    "Relief shown by hachures.",
+    "Shows invasion \"Route of Napoleon to Moscow\" (Königsberg to Moscow) and route of \"Retreat from Moscow\".",
+    "Shows invasion \"Route of Napoleon to Moscow\" (Königsberg to Moscow) and route of \"Retreat from Moscow\". Relief shown by hachures. LC copy imperfect: Laminated, probably prepared as a book illustration. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7011s.ct001046",
+    "http://lccn.loc.gov/2012593516",
+    "http://www.loc.gov/item/2012593516/",
+    "http://www.loc.gov/resource/g7011s.ct001046/",
+    "https://hdl.loc.gov/loc.gmd/g7011s.ct001046",
+    "https://search.catalog.loc.gov/instances/6fd30d5d-e291-5f18-8604-f3facbcfbd23",
+    "https://www.loc.gov/item/2012593516/"
+  ],
+  "dct_issued_s": "1910",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7011/g7011s/ct001046.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593516/\"}",
+  "dct_spatial_sm": [
+    "russia",
+    "russia, western",
+    "western"
+  ],
+  "dct_subject_sm": [
+    "Napoleonic Wars, 1800-1815--Campaigns--Russia, Western--Maps",
+    "Russia, Western",
+    "Russia, Western--History, Military--1801-1917--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "dct_title_s": "Map of the Russian Campaign 1812",
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1910]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1910
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593516",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

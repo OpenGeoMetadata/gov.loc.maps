@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "План островов Сумнительного, Г(ра)фа Румянцева, Спиридова и цепи Рюрика. Апреля 1816 года"
+  ],
+  "dct_description_sm": [
+    ".",
+    ". Original map at: National Library of Russia From the atlas \"Атлас к путешествию лейтенанта Коцебу на корабле Рюрике в Южное море и в Берингов пролив.\"",
+    "Contributors: Kotzebue, Otto von, 1787-1846",
+    "From the atlas \"Атлас к путешествию лейтенанта Коцебу на корабле Рюрике в Южное море и в Берингов пролив.\"",
+    "Original map at: National Library of Russia",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], 1821-1823."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018759815",
+    "http://www.loc.gov/item/2018759815/",
+    "http://www.loc.gov/resource/gdc.2018759815/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.natl0008_00401",
+    "https://search.catalog.loc.gov/instances/aea7a3ca-db09-568a-8bfa-f4bf1dd11fb9",
+    "https://www.loc.gov/item/2018759815/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018759815.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018759815/2018759815.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018759815:0004/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018759815/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation"
+  ],
+  "dct_temporal_sm": [
+    "1821/1823"
+  ],
+  "dct_title_s": "Plan ostrovov Sumnitel'nogo, G(ra)fa Rumi︠a︡nt︠s︡eva, Spiridova i t︠s︡epi Ri︠u︡rika. Apreli︠a︡ 1816 goda",
+  "gbl_dateRange_drsim": [
+    "[1821 TO 1823]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1821
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018759815",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"13,623.\"",
+    "\"October 1978.\"",
+    "\"Sources: West Virginia Department of Natural Resources, Virginia Department of Conservation & Economic Development.\"",
+    "Appears in W.Va. Dept. of Natural Resources' Comprehensive study of the Potomac River basin.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Department of Agriculture. Economics, Statistics, and Cooperatives Service; United States. Forest Service; United States. Soil Conservation Service; West Virginia. Department of Natural Resources",
+    "In upper margin: Figure VI-7.",
+    "In upper margin: Figure VI-7. Appears in W.Va. Dept. of Natural Resources' Comprehensive study of the Potomac River basin. \"Sources: West Virginia Department of Natural Resources, Virginia Department of Conservation & Economic Development.\" \"October 1978.\" Includes location map. \"13,623.\" Available also through the Library of Congress Web site as a raster image.",
+    "Includes location map.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1980."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3792p.ct006481",
+    "http://lccn.loc.gov/81690214",
+    "http://www.loc.gov/item/81690214/",
+    "http://www.loc.gov/resource/g3792p.ct006481/",
+    "https://hdl.loc.gov/loc.gmd/g3792p.ct006481",
+    "https://search.catalog.loc.gov/instances/5cccde35-00fe-5bc8-b3b4-1a9b6a728afa",
+    "https://www.loc.gov/item/81690214/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd379/g3792/g3792p/ct006481.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690214/\"}",
+  "dct_spatial_sm": [
+    "potomac river watershed",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mines and mineral resources--Potomac River watershed--Maps",
+    "United States--Potomac River Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Potomac River basin : Clarke, Frederick, and Highland Counties, Virginia, Berkeley, Grant, Hampshire, Hardy, Jefferson, Mineral, Morgan, and Pendleton Counties, West Virginia : mineral resources",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690214",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

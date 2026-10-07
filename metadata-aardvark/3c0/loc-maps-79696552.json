@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "At head of title: D.O.P.",
+    "At head of title: D.O.P. Relief shown by contours and hachures. Includes index to adjoining sheets. Sheet 2 includes ill. Scale 1:2,000. Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Brittle and small sections missing. AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Macau. Secção de Cadastro e Propriedade",
+    "Includes index to adjoining sheets.",
+    "LC copy imperfect: Brittle and small sections missing.",
+    "Publication statement: [Macau] : O Secção, [1935]",
+    "Relief shown by contours and hachures.",
+    "Scale 1:2,000.",
+    "Sheet 2 includes ill."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7823m.ct005541",
+    "http://lccn.loc.gov/79696552",
+    "http://www.loc.gov/item/79696552/",
+    "http://www.loc.gov/resource/g7823m.ct005541/",
+    "https://hdl.loc.gov/loc.gmd/g7823m.ct005541",
+    "https://search.catalog.loc.gov/instances/596ce1ee-e367-5461-be57-d7e3a80483e0",
+    "https://www.loc.gov/item/79696552/"
+  ],
+  "dct_issued_s": "1935",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7823/g7823m/ct005541.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79696552/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "macau",
+    "macau (china : special administrative region)",
+    "special administrative region"
+  ],
+  "dct_subject_sm": [
+    "Macau (China : Special Administrative Region)",
+    "Macau (China : Special Administrative Region)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1935"
+  ],
+  "dct_title_s": "Planta geral da cidade e nôvo pôrto de Macav",
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1935]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1935
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-79696552",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

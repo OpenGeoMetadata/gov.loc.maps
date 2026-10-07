@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"P. II. 48.\"",
+    "AACR2: 100; 651/1; 651/2; 700/1; 710/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Anville, Jean Baptiste Bourguignon d', 1697-1782; Remondini (Firm); Santini, P.",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"P. II. 48.\" Scale ca. 1:2,900,000. LC Maps of North America, 1750-1789, 1408 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 651/2; 700/1; 710/2",
+    "LC Maps of North America, 1750-1789, 1408",
+    "Publication statement: Venise, Par P. Santini, chez Remondini [1784]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:2,900,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3860.ar140802",
+    "http://lccn.loc.gov/74692195",
+    "http://www.loc.gov/item/74692195/",
+    "http://www.loc.gov/resource/g3860.ar140802/",
+    "https://hdl.loc.gov/loc.gmd/g3860.ar140802",
+    "https://search.catalog.loc.gov/instances/9f4bfdf4-bb0e-5203-847e-e265dc6c57cc",
+    "https://www.loc.gov/item/74692195/"
+  ],
+  "dct_issued_s": "1784",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd386/g3860/g3860/ar140802.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74692195/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Louisiana--Maps--Early works to 1800",
+    "Southern States--Maps--Early works to 1800",
+    "United States--Louisiana",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1784"
+  ],
+  "dct_title_s": "Partie méridionale de la Louisiane, avec la Floride, la Caroline et la Virginie,",
+  "gbl_dateRange_drsim": [
+    "[1784 TO 1784]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1784
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74692195",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

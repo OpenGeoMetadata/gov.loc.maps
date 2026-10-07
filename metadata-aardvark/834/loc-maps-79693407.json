@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 650/2; 700/1; 700/2; 710/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Contributors: Fairchild, John F.; Looker, Henry B.; Thos. J. Fisher and Co; Vielé, Herman K.",
+    "DCP",
+    "LC copy annotated in red ink to show lot prices per foot and fold-lined.",
+    "Oriented with north to the left.",
+    "Oriented with north to the left. Cadastral map. Available also through the Library of Congress Web site as a raster image. LC copy annotated in red ink to show lot prices per foot and fold-lined. DCP AACR2: 100; 651/1; 650/2; 700/1; 700/2; 710/3",
+    "Publication statement: Washington : Thomas J. Fisher & Co., [189-?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852k.ct004991",
+    "http://lccn.loc.gov/79693407",
+    "http://www.loc.gov/item/79693407/",
+    "http://www.loc.gov/resource/g3852k.ct004991/",
+    "https://hdl.loc.gov/loc.gmd/g3852k.ct004991",
+    "https://search.catalog.loc.gov/instances/c7077cf4-bf57-58b1-b1d7-a1ac857d6d8f",
+    "https://www.loc.gov/item/79693407/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852k/ct004991.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79693407/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "kalorama heights",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Kalorama Heights (Washington, D.C.)--Maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Kalorama Heights"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Map of Kalorama Heights, Washington, D.C.",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79693407",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

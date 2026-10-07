@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At top of map: \"See paragraph headed Our Railway Map.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hitchcock, DeWitt C.; Snow & Wilder",
+    "Description derived from published bibliography.",
+    "Description derived from published bibliography. At top of map: \"See paragraph headed Our Railway Map.\" On the verso: City of Boston. 18 x 14 cm. Scale [ca. 1:2,700,000]. LC Railroad maps, 101 Available also through the Library of Congress Web site as a raster image.",
+    "LC Railroad maps, 101",
+    "On the verso: City of Boston. 18 x 14 cm.",
+    "Publication statement: Boston, [1847]",
+    "Scale [ca. 1:2,700,000]."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3721p.rr001010",
+    "http://lccn.loc.gov/98688376",
+    "http://www.loc.gov/item/98688376/",
+    "http://www.loc.gov/resource/g3721p.rr001010/",
+    "https://hdl.loc.gov/loc.gmd/g3721p.rr001010",
+    "https://search.catalog.loc.gov/instances/5e101e52-405a-5d53-b294-ec0264dc9dbd",
+    "https://www.loc.gov/item/98688376/"
+  ],
+  "dct_issued_s": "1847",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd372/g3721/g3721p/rr001010.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688376/\"}",
+  "dct_spatial_sm": [
+    "new england",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--New England--Maps",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1847"
+  ],
+  "dct_title_s": "Map of railways in New England and part of New York; engraved by D. C. Hitchcock for the Pathfinder Railway Guide",
+  "gbl_dateRange_drsim": [
+    "[1847 TO 1847]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1847
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688376",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

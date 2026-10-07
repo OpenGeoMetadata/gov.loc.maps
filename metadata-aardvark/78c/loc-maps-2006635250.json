@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geographical Publishing Co",
+    "Date of publication suggested by date of receipt.",
+    "Date of publication suggested by date of receipt. Some maps have insets. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Chicago : Geographical Publishing Co., [1932]",
+    "Some maps have insets."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7800.ct001989a",
+    "http://hdl.loc.gov/loc.gmd/g7800.ct001989b",
+    "http://lccn.loc.gov/2006635250",
+    "http://www.loc.gov/item/2006635250/",
+    "http://www.loc.gov/resource/g7800.ct001989a/",
+    "http://www.loc.gov/resource/g7800.ct001989b/",
+    "https://hdl.loc.gov/loc.gmd/g7800.ct001989a",
+    "https://hdl.loc.gov/loc.gmd/g7800.ct001989b",
+    "https://search.catalog.loc.gov/instances/3075bbb5-bb21-5461-8f49-997686efa188",
+    "https://www.loc.gov/item/2006635250/"
+  ],
+  "dct_issued_s": "1932",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7800/g7800/ct001989a.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006635250/\"}",
+  "dct_spatial_sm": [
+    "orient"
+  ],
+  "dct_subject_sm": [
+    "Orient",
+    "Orient--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "dct_title_s": "Map featuring countries of the far east",
+  "gbl_dateRange_drsim": [
+    "[1932 TO 1932]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1932
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006635250",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

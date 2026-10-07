@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bohn, Carl Ernst; Schmidt, Paulus (Engraver); Sotzmann, D. F.",
+    "Copy imperfect: Brittle, darkened, small tears along edges, sectioned and mounted on cloth backing.",
+    "In upper right margin: No. III.",
+    "Legend in German and English. Place names are in German and/or English.",
+    "Publication statement: Hamburg : bey Carl Ernst Bohn, [1796?]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows counties and minor civil subdivisions. In upper right margin: No. III. Copy imperfect: Brittle, darkened, small tears along edges, sectioned and mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Legend in German and English. Place names are in German and/or English.",
+    "Shows counties and minor civil subdivisions."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3760.ct003478",
+    "http://lccn.loc.gov/2011589269",
+    "http://www.loc.gov/item/2011589269/",
+    "http://www.loc.gov/resource/g3760.ct003478/",
+    "https://hdl.loc.gov/loc.gmd/g3760.ct003478",
+    "https://search.catalog.loc.gov/instances/53d3faa4-4c17-5b89-a3dc-73d20033ec21",
+    "https://www.loc.gov/item/2011589269/"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3760/g3760/ct003478.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011589269/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Massachusetts--Maps--Early works to 1800",
+    "United States--Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1796",
+    "Hamburg : bey Carl Ernst Bohn, [1796?]"
+  ],
+  "dct_title_s": "Massachusetts",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011589269",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

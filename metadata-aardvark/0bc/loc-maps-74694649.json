@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Falls of Niagara, 149 feet 9 inches perpendicular, measured Decemr. 8th, 1789, by Mejsrs. Ellicotts.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Imperfect: Perforated around border.",
+    "Manuscript, pen-and-ink.",
+    "Manuscript, pen-and-ink. Imperfect: Perforated around border. \"Falls of Niagara, 149 feet 9 inches perpendicular, measured Decemr. 8th, 1789, by Mejsrs. Ellicotts.\" Scale not given. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Publication statement: 179-?]",
+    "Scale not given.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3312n.ct007519",
+    "http://lccn.loc.gov/74694649",
+    "http://www.loc.gov/item/74694649/",
+    "http://www.loc.gov/resource/g3312n.ct007519/",
+    "https://hdl.loc.gov/loc.gmd/g3312n.ct007519",
+    "https://search.catalog.loc.gov/instances/c6af708d-e3e0-508b-afb2-282419ca893e",
+    "https://www.loc.gov/item/74694649/"
+  ],
+  "dct_issued_s": "1790",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3312/g3312n/ct007519.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694649/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "new york",
+    "new york (state)",
+    "niagara falls region",
+    "niagara falls river",
+    "niagara river",
+    "ontario",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--Ontario--Niagara Falls Region",
+    "Canada--Ontario--Niagara Falls River",
+    "Niagara Falls Region (N.Y. and Ont.)--Maps, Manuscript--Early works to 1800",
+    "Niagara River (N.Y. and Ont.)--Maps, Manuscript--Early works to 1800",
+    "United States--New York (State)--Niagara Falls Region",
+    "United States--New York (State)--Niagara Falls River"
+  ],
+  "dct_temporal_sm": [
+    "1790"
+  ],
+  "dct_title_s": "[Map of the Niagara Falls region, including the Niagara River and the Niagara Peninsula",
+  "gbl_dateRange_drsim": [
+    "[1790 TO 1790]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1790
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694649",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

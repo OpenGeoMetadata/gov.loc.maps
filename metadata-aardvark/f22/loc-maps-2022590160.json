@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also covers Azerbaydzhan, southern Georgia, and northeastern Turkey.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Edward Stanford Ltd., publisher; Lynch, H. F. B. (Harry Finnis Blosse), 1862-1913 cartographer; Oswald, Felix, 1866-1958 cartographer; Shawe, W., compiler",
+    "In right lower margin: Stanford's Geographical Establishment.",
+    "Publication statement: London : Edward Stanford, 1901.",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. Also covers Azerbaydzhan, southern Georgia, and northeastern Turkey. In right lower margin: Stanford's Geographical Establishment. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022590160",
+    "http://www.loc.gov/item/2022590160/",
+    "http://www.loc.gov/resource/g7150.ct011940/",
+    "https://hdl.loc.gov/loc.gmd/g7150.ct011940",
+    "https://search.catalog.loc.gov/instances/866d8dc2-b034-5c63-bedc-52c3d841e3ff",
+    "https://www.loc.gov/item/2022590160/"
+  ],
+  "dct_issued_s": "1901",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7150:g7150:ct011940/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022590160/\"}",
+  "dct_spatial_sm": [
+    "armenia",
+    "azerbaijan",
+    "georgia",
+    "georgia (republic)",
+    "republic",
+    "turkey"
+  ],
+  "dct_subject_sm": [
+    "Armenia",
+    "Armenia--Maps",
+    "Azerbaijan",
+    "Azerbaijan--Maps",
+    "Georgia (Republic)",
+    "Georgia (Republic)--Maps",
+    "Turkey",
+    "Turkey--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "dct_title_s": "Map of Armenia and adjacent countries",
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1901
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022590160",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

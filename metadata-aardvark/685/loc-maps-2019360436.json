@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of the United States",
+    "Title in pencil in center left margin: Map of the United States"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Pen-and-ink and brown watercolor over pencil grid.",
+    "Publication statement: [United States?] : [Producer not indicated], [1871?]",
+    "Sectioned in two and mounted on cloth.",
+    "Shows state boundaries, state names and major rivers for all of the U.S. Shows numbered counties in New England, Pennsylvania, and New York.",
+    "Title provided by cataloger.",
+    "Title provided by cataloger. Pen-and-ink and brown watercolor over pencil grid. Shows state boundaries, state names and major rivers for all of the U.S. Shows numbered counties in New England, Pennsylvania, and New York. Watermark: J. Whatman 1871. Sectioned in two and mounted on cloth. Available also through the Library of Congress Web site as a raster image.",
+    "Watermark: J. Whatman 1871."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2019360436",
+    "http://www.loc.gov/item/2019360436/",
+    "http://www.loc.gov/resource/g3700.ct004589/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ct004589",
+    "https://search.catalog.loc.gov/instances/539e5b84-facc-5eba-b972-5409fa3961a4",
+    "https://www.loc.gov/item/2019360436/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ct004589.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2019360436/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Administrative and political divisions--Maps",
+    "United States--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1871",
+    "[United States?] : [Producer not indicated], [1871?]"
+  ],
+  "dct_title_s": "[Manuscript map of the United States]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2019360436",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

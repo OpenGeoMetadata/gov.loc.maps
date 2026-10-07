@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Merian, A.",
+    "Imperfect: Fragile, torn along fold lines, holes with minor losses.",
+    "Includes indexes and color illustration.",
+    "Publication statement: [Rio de Janeiro] : Fauchon & C., [between 1900 and 1910]",
+    "Relief shown by shading.",
+    "Relief shown by shading. Imperfect: Fragile, torn along fold lines, holes with minor losses. Includes indexes and color illustration. Text and various bond tables on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text and various bond tables on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5404r.ct003655r",
+    "http://lccn.loc.gov/2012593124",
+    "http://www.loc.gov/item/2012593124/",
+    "http://www.loc.gov/resource/g5404r.ct003655r/",
+    "https://hdl.loc.gov/loc.gmd/g5404r.ct003655r",
+    "https://search.catalog.loc.gov/instances/76f03472-c5f8-580d-9751-f893bbaea0ba",
+    "https://www.loc.gov/item/2012593124/"
+  ],
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5404/g5404r/ct003655r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593124/\"}",
+  "dct_spatial_sm": [
+    "brazil",
+    "rio de janeiro",
+    "rio de janeiro metropolitan area",
+    "rio de janeiro region"
+  ],
+  "dct_subject_sm": [
+    "Brazil--Rio de Janeiro",
+    "Brazil--Rio de Janeiro Metropolitan Area",
+    "Brazil--Rio de Janeiro Region",
+    "Local transit--Brazil--Rio de Janeiro Metropolitan Area--Maps",
+    "Rio de Janeiro (Brazil)--Maps",
+    "Roads--Brazil--Rio de Janeiro Region--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1900",
+    "[Rio de Janeiro] : Fauchon & C., [between 1900 and 1910]"
+  ],
+  "dct_title_s": "Planta do Rio de Janeiro com os horarios dos bondes, estradas de ferro, barcas, estradas de rodagem etc",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2012593124",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

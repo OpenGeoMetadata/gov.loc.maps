@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Robert Sayer and John Bennett (Firm)",
+    "Hand colored.",
+    "Hand colored. Prime meridian: Boston. Relief shown by hachures. Includes \"Plan of Boston Harbour, from an actual survey\" and \"Plan of the town of Boston with the attack on Bunkers-Hill in the peninsula of Charlestown, the 17th of June, 1775.\" Scale ca. 1:450,000. LC Maps of North America, 1750-1789, 813 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Includes \"Plan of Boston Harbour, from an actual survey\" and \"Plan of the town of Boston with the attack on Bunkers-Hill in the peninsula of Charlestown, the 17th of June, 1775.\"",
+    "LC Maps of North America, 1750-1789, 813",
+    "Prime meridian: Boston.",
+    "Publication statement: London, Printed for R. Sayer & J. Bennett, 1775.",
+    "Relief shown by hachures.",
+    "Scale ca. 1:450,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3721s.ar081300",
+    "http://lccn.loc.gov/gm71002357",
+    "http://www.loc.gov/item/gm71002357/",
+    "http://www.loc.gov/resource/g3721s.ar081300/",
+    "https://hdl.loc.gov/loc.gmd/g3721s.ar081300",
+    "https://search.catalog.loc.gov/instances/4005505d-847b-5c9f-8a0c-0f8405c1b4b6",
+    "https://www.loc.gov/item/gm71002357/"
+  ],
+  "dct_issued_s": "1775",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd372/g3721/g3721s/ar081300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002357/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "boston harbor",
+    "massachusetts",
+    "new england",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston (Mass.)--Maps--Early works to 1800",
+    "Boston Harbor (Mass.)--Maps--Early works to 1800",
+    "Bunker Hill, Battle of, Boston, Mass., 1775--Maps--Early works to 1800",
+    "New England--History--Revolution, 1775-1783--Maps--Early works to 1800",
+    "United States--Massachusetts--Boston",
+    "United States--New England"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_title_s": "The Seat of war in New England, by an American volunteer, with the marches of the several corps sent by the Colonies towards Boston, with the attack on Bunkers-Hill",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002357",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

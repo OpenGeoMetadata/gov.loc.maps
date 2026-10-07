@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Atlas of Bucks County, Pennsylvania"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: E.P. Noll & Co; Mueller, A. H. (August H.)",
+    "LC copy imperfect: front board loose, liquid staining along bottom and lower right edge of all pages.",
+    "LC copy imperfect: front board loose, liquid staining along bottom and lower right edge of all pages. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Philadelphia : Published by E.P. Noll, Maps Publishers, 17 North Sixth St., 1891."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823bm.gla00261",
+    "http://lccn.loc.gov/2012587544",
+    "http://www.loc.gov/item/2012587544/",
+    "http://www.loc.gov/resource/g3823bm.gla00261/",
+    "https://hdl.loc.gov/loc.gmd/g3823bm.gla00261",
+    "https://search.catalog.loc.gov/instances/230f6ac1-3727-5dd2-be85-085067d7124b",
+    "https://www.loc.gov/item/2012587544/"
+  ],
+  "dct_issued_s": "1891",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382m/g3823m/g3823bm/gla00261/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012587544/\"}",
+  "dct_spatial_sm": [
+    "bucks county",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Bucks County (Pa.)--Maps",
+    "Landowners--Pennsylvania--Bucks County--Maps",
+    "Real property--Pennsylvania--Bucks County--Maps",
+    "United States--Pennsylvania--Bucks County"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_title_s": "Atlas of Bucks Co., Penna",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012587544",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Texas & Pacific Railway",
+    "Description derived from published bibliography.",
+    "Inset: Map showing the Texas & Pacific Railway and its connections. 16 x 19 cm.",
+    "LC Railroad maps, 578",
+    "Publication statement: New York, 1873.",
+    "Scale ca. 1:2,150,000.",
+    "Shows relief by hachures, drainages, cities and towns, counties, railroads, and the land grant."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4031p.rr005780",
+    "http://lccn.loc.gov/98688821",
+    "http://www.loc.gov/item/98688821/",
+    "http://www.loc.gov/resource/g4031p.rr005780/",
+    "https://hdl.loc.gov/loc.gmd/g4031p.rr005780",
+    "https://search.catalog.loc.gov/instances/bb5ee0ec-70cb-5bec-b1f5-74c31ebd8e1c",
+    "https://www.loc.gov/item/98688821/"
+  ],
+  "dct_issued_s": "1873",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4031/g4031p/rr005780.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688821/\"}",
+  "dct_spatial_sm": [
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroad land grants--Texas--Maps",
+    "Railroads--Texas--Maps",
+    "Texas & Pacific Railway--Maps",
+    "United States--Texas"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "dct_title_s": "Map of the state of Texas showing the line and lands of the Texas and Pacific Railway reserved and donated by the State of Texas, 1873",
+  "gbl_dateRange_drsim": [
+    "[1873 TO 1873]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1873
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688821",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

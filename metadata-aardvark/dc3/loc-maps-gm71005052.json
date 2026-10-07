@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate title in English: Map of Zhaotong Prefecture",
+    "Map of Zhaotong Prefecture",
+    "昭通府與圖"
+  ],
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hummel, Arthur W. (Arthur William), Sr., 1884-1975",
+    "Hummel purchase 1930, no. 27.",
+    "Pictorial map.",
+    "Previous call number: G7822.Z4A5 1820 .Z4 Vault",
+    "Publication statement: [Between 1908 and 1911]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Pictorial map. Shows garrison troops, garrison posts, roads connecting various stations in walled city of Zhaotong Fu, Yunnan Province. Hummel purchase 1930, no. 27. Scale ca. 1:20,000. Available also through the Library of Congress Web site as a raster image. Previous call number: G7822.Z4A5 1820 .Z4 Vault AACR2",
+    "Scale ca. 1:20,000.",
+    "Shows garrison troops, garrison posts, roads connecting various stations in walled city of Zhaotong Fu, Yunnan Province."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7822z.ct003289",
+    "http://lccn.loc.gov/gm71005052",
+    "http://www.loc.gov/item/gm71005052/",
+    "http://www.loc.gov/resource/g7822z.ct003289/",
+    "https://hdl.loc.gov/loc.gmd/g7822z.ct003289",
+    "https://search.catalog.loc.gov/instances/543162fe-2c09-5c7f-bd5b-66dffa5f0c1f",
+    "https://www.loc.gov/item/gm71005052/"
+  ],
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7822/g7822z/ct003289.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005052/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "zhaotong diqu"
+  ],
+  "dct_subject_sm": [
+    "China--Zhaotong Diqu",
+    "Fortification--China--Zhaotong Diqu--Maps",
+    "Zhaotong Diqu (China)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1908",
+    "[Between 1908 and 1911]"
+  ],
+  "dct_title_s": "Zhaotong Fu yu tu",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005052",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Land status current as of 2006.\"",
+    "\"Land status current as of 2006.\" Includes table of recreation sites and \"Index to topographic maps.\" Text, vicinity map, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes table of recreation sites and \"Index to topographic maps.\"",
+    "Publication statement: [Atlanta] : United States Dept. of Agriculture, [2007]",
+    "Text, vicinity map, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2007633450",
+    "http://www.loc.gov/item/2007633450/",
+    "http://www.loc.gov/resource/g4032a.ct011341/",
+    "https://hdl.loc.gov/loc.gmd/g4032a.ct011341",
+    "https://search.catalog.loc.gov/instances/f3ea01f6-1a2d-5fd8-a7a3-2bf2f277d99c",
+    "https://www.loc.gov/item/2007633450/"
+  ],
+  "dct_issued_s": "2007",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4032/g4032a/ct011341.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007633450/\"}",
+  "dct_spatial_sm": [
+    "angelina national forest",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Angelina National Forest (Tex.)--Maps",
+    "United States--Texas--Angelina National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_title_s": "Angelina National Forest, Texas, 2007",
+  "gbl_dateRange_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007633450",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

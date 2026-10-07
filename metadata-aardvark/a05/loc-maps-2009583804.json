@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Hon. Silas Hare, H. of R., Com. of D.L.R. Butt.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blue line print.",
+    "Contributors: Texas. General Land Office",
+    "LC Land ownership maps, 937",
+    "Publication statement: [S.l. : s.n.] , 1888.",
+    "Shows landownership.",
+    "Shows landownership. Blue line print. \"Hon. Silas Hare, H. of R., Com. of D.L.R. Butt.\" LC Land ownership maps, 937 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033c.la000937",
+    "http://lccn.loc.gov/2009583804",
+    "http://www.loc.gov/item/2009583804/",
+    "http://www.loc.gov/resource/g4033c.la000937/",
+    "https://hdl.loc.gov/loc.gmd/g4033c.la000937",
+    "https://search.catalog.loc.gov/instances/c25199af-ec3a-5932-850f-a7ed2ac1164c",
+    "https://www.loc.gov/item/2009583804/"
+  ],
+  "dct_issued_s": "1880",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033c/la000937.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2009583804/\"}",
+  "dct_spatial_sm": [
+    "cooke county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cooke County (Tex.)--Maps",
+    "Landowners--Texas--Cooke County--Maps",
+    "Real property--Texas--Cooke County--Maps",
+    "United States--Texas--Cooke County"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "dct_title_s": "Butt's map of Cooke County, Texas : compiled from the records in the County Surveyor's Office and actual surveys on the ground, and copyrighted in 1888",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1880]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2009583804",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

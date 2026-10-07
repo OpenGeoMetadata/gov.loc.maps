@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no.: 2005-176",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye view.",
+    "Bird's-eye view. Relief shown pictorially. Oriented with north to the right. Imperfect: Stained, darkened, brittle. Available also through the Library of Congress Web site as a raster image. PM3 Acquisitions control no.: 2005-176",
+    "Contributors: Norris, George E.",
+    "Imperfect: Stained, darkened, brittle.",
+    "Oriented with north to the right.",
+    "PM3",
+    "Publication statement: Brockton, [Mass.] : G.E. Norris, [1895]",
+    "Relief shown pictorially."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3734k.pm011090",
+    "http://lccn.loc.gov/2005628468",
+    "http://www.loc.gov/item/2005628468/",
+    "http://www.loc.gov/resource/g3734k.pm011090/",
+    "https://hdl.loc.gov/loc.gmd/g3734k.pm011090",
+    "https://search.catalog.loc.gov/instances/c3b833d7-cb3e-561c-b67e-57a3b52144a8",
+    "https://www.loc.gov/item/2005628468/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3734/g3734k/pm011090.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005628468/\"}",
+  "dct_spatial_sm": [
+    "kennebunk",
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Kennebunk (Me.)--Aerial views",
+    "United States--Maine--Kennebunk"
+  ],
+  "dct_title_s": "Kennebunk, Me., 1895",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005628468",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

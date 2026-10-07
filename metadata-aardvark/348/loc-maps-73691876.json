@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824",
+    "LC Maps of North America, 1750-1789, 1554",
+    "Publication statement: [London, 1780?]",
+    "Relief shown by shading and hachures.",
+    "Relief shown by shading and hachures. Scale ca. 1:4,800. LC Maps of North America, 1750-1789, 1554 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:4,800.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3914c.ar155400",
+    "http://lccn.loc.gov/73691876",
+    "http://www.loc.gov/item/73691876/",
+    "http://www.loc.gov/resource/g3914c.ar155400/",
+    "https://hdl.loc.gov/loc.gmd/g3914c.ar155400",
+    "https://search.catalog.loc.gov/instances/9f3931e2-a729-5c62-bd86-5d2f95996246",
+    "https://www.loc.gov/item/73691876/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3914/g3914c/ar155400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691876/\"}",
+  "dct_spatial_sm": [
+    "camden",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Camden, Battle of, Camden, S.C., 1780--Maps--Early works to 1800",
+    "United States--South Carolina--Camden"
+  ],
+  "dct_temporal_sm": [
+    "1780",
+    "[London, 1780?]"
+  ],
+  "dct_title_s": "A sketch of the battle near Camden in South Carolina, 16 Augst. 1780",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691876",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"4-R-37432.\"",
+    "\"Base map prepared by the Geological Survey in cooperation with the Soil Conservation Service.\"",
+    "\"Base map prepared by the Geological Survey in cooperation with the Soil Conservation Service.\" \"Compiled from USGS 1:24,000-scale topographic maps dated 1950-1955.\" UTM grid. Includes text and location map. \"4-R-37432.\" Available also through the Library of Congress Web site as a raster image.",
+    "\"Compiled from USGS 1:24,000-scale topographic maps dated 1950-1955.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); United States. Soil Conservation Service",
+    "Includes text and location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1980.",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81690333",
+    "http://www.loc.gov/item/81690333/",
+    "http://www.loc.gov/resource/g3933j.ct010350/",
+    "https://hdl.loc.gov/loc.gmd/g3933j.ct010350",
+    "https://search.catalog.loc.gov/instances/c868ca34-1389-5c43-8cd7-bcc24f686a43",
+    "https://www.loc.gov/item/81690333/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3933/g3933j/ct010350.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81690333/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "jackson county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Roads--Florida--Jackson County--Maps",
+    "Soil mechanics--Florida--Jackson County--Maps",
+    "United States--Florida--Jackson County"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Jackson County, Florida : soil interpretive map of limitation for local roads and streets",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81690333",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

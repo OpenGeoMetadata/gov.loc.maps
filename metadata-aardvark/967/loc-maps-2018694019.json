@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "План направления линии Сибирской железной дороги"
+  ],
+  "dct_description_sm": [
+    "Original map at: Tomsk Oblast Museum of Regional History and Folklife",
+    "Publication statement: [place of publication not identified] : Litografii︠a︡ Sibirskoĭ zheleznoĭ dorogi No. 13, 1891-1916."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694019",
+    "http://www.loc.gov/item/2018694019/",
+    "http://www.loc.gov/resource/gdc.2018694019/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.wmt0005",
+    "https://search.catalog.loc.gov/instances/97b00de5-6b9c-52ec-a5fa-34d6571b3bb7",
+    "https://www.loc.gov/item/2018694019/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694019.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694019/2018694019.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694019:wmt0005/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694019/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation",
+    "transport",
+    "transsib",
+    "zheleznai︠a︡ doroga",
+    "железная дорога",
+    "транспорт",
+    "транссиб"
+  ],
+  "dct_temporal_sm": [
+    "1891/1916"
+  ],
+  "dct_title_s": "Plan napravlenii︠a︡ linii Sibirskoĭ zheleznoĭ dorogi",
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1916]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694019",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

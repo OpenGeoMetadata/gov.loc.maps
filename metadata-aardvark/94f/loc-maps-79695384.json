@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hensel, D.; Inger, Christian",
+    "Includes text.",
+    "Oriented with north toward the lower left.",
+    "Oriented with north toward the lower left. Panorama. Shows the Centennial International Exhibition grounds. Includes text. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Panorama.",
+    "Publication statement: Philad[elphi]a : D. Hensel, [1876]",
+    "Shows the Centennial International Exhibition grounds."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824p.pm020549",
+    "http://lccn.loc.gov/79695384",
+    "http://www.loc.gov/item/79695384/",
+    "http://www.loc.gov/resource/g3824p.pm020549/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.pm020549",
+    "https://search.catalog.loc.gov/instances/5bd91cd8-9714-531e-9acd-64c2ffb13ec5",
+    "https://www.loc.gov/item/79695384/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/pm020549.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79695384/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "philadelphia",
+    "philadephia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Centennial Exhibition--(1876 :--Philadelphia, Pa.)--Aerial views",
+    "Philadelphia (Pa.)--Aerial views",
+    "United States--Pennsylvania--Philadephia"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Philadelphia, 1876 : chromatic view",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79695384",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

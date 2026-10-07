@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In pen-and-ink and pencil in upper left section: Coat-of-arms of Ulster County, Ireland.",
+    "In pencil on verso: 225.",
+    "LC Civil War maps (2nd ed.), H340",
+    "Pen-and-ink, pencil, crayon, and watercolor, sectioned in 3, and mounted on cloth.",
+    "Publication statement: [188-?]",
+    "Title and scale from Stephenson's Civil War maps, 1989.",
+    "Title and scale from Stephenson's Civil War maps, 1989. Pen-and-ink, pencil, crayon, and watercolor, sectioned in 3, and mounted on cloth. In pen-and-ink and pencil in upper left section: Coat-of-arms of Ulster County, Ireland. In pencil on verso: 225. LC Civil War maps (2nd ed.), H340 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5783u.cwh00340",
+    "http://lccn.loc.gov/2005625224",
+    "http://www.loc.gov/item/2005625224/",
+    "http://www.loc.gov/resource/g5783u.cwh00340/",
+    "https://hdl.loc.gov/loc.gmd/g5783u.cwh00340",
+    "https://search.catalog.loc.gov/instances/8f7961f2-5de4-5471-a3cf-3dfff958c975",
+    "https://www.loc.gov/item/2005625224/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5783/g5783u/cwh00340.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625224/\"}",
+  "dct_spatial_sm": [
+    "ireland",
+    "northern ireland",
+    "ulster"
+  ],
+  "dct_subject_sm": [
+    "Ireland--Ulster",
+    "Northern Ireland--Ulster",
+    "Ulster (Northern Ireland and Ireland)--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "188?"
+  ],
+  "dct_title_s": "[Map of Ulster Province, Ireland]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625224",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

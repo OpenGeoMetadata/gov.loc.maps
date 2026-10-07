@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map of southeastern Europe and the eastern Mediterranean was made early in World War II by Fremde Heere Ost (Foreign Armies East), a unit of the German army general staff responsible for intelligence about the armies of the Soviet Union, Scandinavia, certain Balkan countries, Africa, and the Far East. The map shows country boundaries in bold, dark purple. Also shown are oil pipelines, wells and other sources of water, and important roads, railroads, and canals. Many of the countries of this region were involved in the war. Italian and German forces attacked British-controlled Egypt from the Italian colony of Libya, but they were unable to seize the Suez Canal, their ultimate objective. Syria and Lebanon, controlled by Vichy France, were seized by Australian, Free French, British, and Indian forces in June-July 1941. Turkey and Saudi Arabia were neutral for most of the war, but Saudi Arabia supplied large amounts of oil to U.S. and British forces. The map is part of a large collection of military maps confiscated from the German armed forces after World War II by the U.S. Army and subsequently transferred to the Library of Congress.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Germany. Heer",
+    "Publication statement: Germany : Heer, [1940]",
+    "Relief shown by spot heights.",
+    "Shows country boundaries for Southeast Europe and Middle East in bold, dark purple."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7420.ct003742",
+    "http://lccn.loc.gov/2013593012",
+    "http://www.loc.gov/item/2013593012/",
+    "http://www.loc.gov/resource/g7420.ct003742/",
+    "https://hdl.loc.gov/loc.gmd/g7420.ct003742",
+    "https://search.catalog.loc.gov/instances/a2dc65e0-4d9f-5626-a5fd-9c578035bc49",
+    "https://www.loc.gov/item/2013593012/"
+  ],
+  "dct_issued_s": "1940",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7420/g7420/ct003742.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593012/\"}",
+  "dct_spatial_sm": [
+    "middle east",
+    "southeast europe"
+  ],
+  "dct_subject_sm": [
+    "Middle East",
+    "Middle East--Maps",
+    "Southeast Europe",
+    "Southeast Europe--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "dct_title_s": "Sudost-Europa und Mittlerer Meer",
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1940]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1940
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593012",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

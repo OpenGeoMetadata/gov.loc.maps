@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Includes index",
+    "Includes index Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Elmhurst, Illinois : Friendly Map & Publishing Company, [1939]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4093wm.gla00262",
+    "http://lccn.loc.gov/2012587547",
+    "http://www.loc.gov/item/2012587547/",
+    "http://www.loc.gov/resource/g4093wm.gla00262/",
+    "https://hdl.loc.gov/loc.gmd/g4093wm.gla00262",
+    "https://search.catalog.loc.gov/instances/6e3b5e86-8ab2-5f8a-8d72-a6835d6e4372",
+    "https://www.loc.gov/item/2012587547/"
+  ],
+  "dct_issued_s": "1939",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409m/g4093m/g4093wm/gla00262/ca000002.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012587547/\"}",
+  "dct_spatial_sm": [
+    "indiana",
+    "united states",
+    "whitley county"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Indiana--Whitley County--Maps",
+    "Real property--Indiana--Whitley County--Maps",
+    "United States--Indiana--Whitley County",
+    "Whitley County (Ind.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1939"
+  ],
+  "dct_title_s": "Atlas and plat book of Whitley County, Indiana",
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1939]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1939
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012587547",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

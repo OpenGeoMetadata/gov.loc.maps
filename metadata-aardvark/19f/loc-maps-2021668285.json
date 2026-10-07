@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "魯國之圖"
+  ],
+  "dct_description_sm": [
+    "Content in Chinese.",
+    "Contributors: Yu, Shunkai, born 1097 Creator",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Lu guo zhi tu (Map of Lu State) is the rubbing of a stone stele, erected by Yu Shunkai in the 24th year (1154) of the Shaoxing reign of Southern Song. The stele is now held in the Number One Middle School in Yangxin Xian, Hubei Province (the original location of Xingguojun Prefecture School). The four large characters on the top of the map read: Lu guo zhi tu, written in official script. It is a map with topographical features, depicting the ancient capital of Lu State (present-day Qufu, Shandong) and its vicinity. The map is oriented with north at the top, south at the bottom, the west on the left, and the east on the right. The scope of the area reaches Mount Tai Shan in the north, Sishui River in the west, the Jingling Palace in the east, and Mount Fengshan in the south. It maps out symbolically the city walls, palaces, temples, mountains, rivers, trees, birds, and so forth, marking prominently the 12 city gates of the ancient Lu capital and their names, as well as the Apricot Platform, a pavilion commemorating Confucius teaching his students, his abode in the Queli district of Qufu, and his tomb. On this map, the temple and tomb of Mencius are shown as still located in the Four-Mountain Range, which indicates that the map was made before the years when the Mencius Temple was moved and rebuilt, the fourth year (1114) of the Zhenghe reign, and the fourth year (1122) of the Xuanhe reign. A postscript by Yu Shunkai (born in 1097) explains how he acquired the map and made a stone stele and rubbing that he presented to the school where he taught. Yu, courtesy name Yucai, was a native of Shexian, Anhui, or possibly of Wuyuan, Jiangxi. In the 18th year (1148) of the Shaoxing reign, at age of 52, he was specially granted a jinshi degree. He served as gentleman for meritorious achievement and an instructor of Xingguojun Prefecture School. His career illustrates the importance of maps as teaching tools at the time and the great significance attached to them by the ruling class. This is the earliest existing map of the famous sites and antiquities of the area of Qufu.",
+    "Original resource at: National Library of China.",
+    "Original resource extent: 1 map : stone rubbing ; 171 x 89 centimeters.",
+    "Publication statement: [Place of publication not identified] : [Publisher not identified], 1154.",
+    "Title devised, in English, by Library staff.",
+    "Title revised per Asian Division.--cc28 2023-01-06"
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668285",
+    "http://www.loc.gov/item/2021668285/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_17874/",
+    "http://www.loc.gov/resource/wdl.17874/",
+    "https://hdl.loc.gov/loc.wdl/wdl.17874",
+    "https://www.loc.gov/item/2021668285/"
+  ],
+  "dct_issued_s": "1154",
+  "dct_language_sm": [
+    "chi"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_17874.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/17/87/4/wdl_17874/wdl_17874.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:87:4:wdl_17874:lu/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668285/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "qufu",
+    "shandong province"
+  ],
+  "dct_subject_sm": [
+    "1114",
+    "China--Shandong Province--Qufu",
+    "Cities and towns",
+    "Inscriptions, Chinese",
+    "Rubbing -- China",
+    "Song dynasty, 960-1279",
+    "Stone carving"
+  ],
+  "dct_temporal_sm": [
+    "1154"
+  ],
+  "dct_title_s": "Lu guo zhi tu",
+  "gbl_dateRange_drsim": [
+    "[1154 TO 1154]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1154
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668285",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

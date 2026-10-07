@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Civil War salted paper maps.",
+    "Contributors: Willcox, William H.",
+    "Description derived from published bibliography.",
+    "Inscribed in longhand as follows: Obtained from Washington & presented to Gen. R. E. Lee by J. E. B. Stuart.",
+    "Inscribed in longhand as follows: Obtained from Washington & presented to Gen. R. E. Lee by J. E. B. Stuart. This map was in the possession of Jedediah Hotchkiss at the time of his death. Major Hotchkiss served as topographic engineer with the Army of Northern Virginia. In July 1948, the Library of Congress purchased his map collection. Description derived from published bibliography. Civil War salted paper maps. [Scale ca. 1:13,300]. LC Civil War Maps (2nd ed.), 253 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 253",
+    "Publication statement: [Philada., Lith. of P. S. Duval & Son, 1862]",
+    "This map was in the possession of Jedediah Hotchkiss at the time of his death. Major Hotchkiss served as topographic engineer with the Army of Northern Virginia. In July 1948, the Library of Congress purchased his map collection.",
+    "[Scale ca. 1:13,300]."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3844s.cw0253000",
+    "http://lccn.loc.gov/99447397",
+    "http://www.loc.gov/item/99447397/",
+    "http://www.loc.gov/resource/g3844s.cw0253000/",
+    "https://hdl.loc.gov/loc.gmd/g3844s.cw0253000",
+    "https://search.catalog.loc.gov/instances/f8dc42ef-4f15-540d-89c2-8e9676426442",
+    "https://www.loc.gov/item/99447397/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3844/g3844s/cw0253000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447397/\"}",
+  "dct_spatial_sm": [
+    "antietam",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Antietam, Battle of, Md",
+    "Antietam, Battle of, Md., 1862--Maps",
+    "United States--Maryland--Antietam"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Map of the battlefield of Antietam, [Sept. 17, 1862]",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447397",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"West longitude from London.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Anville, Jean Baptiste Bourguignon d', 1697-1782; Robert Sayer and John Bennett (Firm)",
+    "From Thomas Jefferys' American Atlas. 1776 [i.e. 1775]. No. 7.",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. \"West longitude from London.\" From Thomas Jefferys' American Atlas. 1776 [i.e. 1775]. No. 7. Shows area east of Louisiana. Scale ca. 1:6,350,000. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 30 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 30",
+    "Publication statement: London, Printed for Robt. Sayer & J. Bennett, 1775.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:6,350,000.",
+    "Shows area east of Louisiana.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar003001",
+    "http://lccn.loc.gov/74694270",
+    "http://www.loc.gov/item/74694270/",
+    "http://www.loc.gov/resource/g3300.ar003001/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar003001",
+    "https://search.catalog.loc.gov/instances/26e83888-586f-5ac2-a29e-a86cb4ea6c2e",
+    "https://www.loc.gov/item/74694270/"
+  ],
+  "dct_issued_s": "1775",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ar003001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694270/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_title_s": "North America from the French of Mr. d'Anville improved with the English surveys made since the peace",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694270",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

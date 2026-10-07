@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from latest USGS quad sheets.\"",
+    "\"February 1980 4-R-37110-14.\"",
+    "\"February 1980 4-R-37110-14.\" \"Base compiled from latest USGS quad sheets.\" Includes location maps. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location maps.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1980."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82692929",
+    "http://www.loc.gov/item/82692929/",
+    "http://www.loc.gov/resource/g3974r.ct010732/",
+    "https://hdl.loc.gov/loc.gmd/g3974r.ct010732",
+    "https://search.catalog.loc.gov/instances/cefca05f-b4f5-551d-9482-a4249b4cb81a",
+    "https://www.loc.gov/item/82692929/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd397/g3974/g3974r/ct010732.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82692929/\"}",
+  "dct_spatial_sm": [
+    "alabama",
+    "ryan crossroads",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Septic tanks--Alabama--Ryan Crossroads--Maps",
+    "Sewage disposal in the ground--Alabama--Ryan Crossroads--Maps",
+    "Soil absorption and adsorption--Alabama--Ryan Crossroads--Maps",
+    "United States--Alabama--Ryan Crossroads"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Ryan Crossroads growth center, year 2000, soil suitability for septic tanks, Morgan County, Alabama",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82692929",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Reyna, Luis de",
+    "Depths shown by soundings.",
+    "LC Luso-Hispanic World, 715",
+    "Maggs number annotated in pencil in lower right corner: 206A.",
+    "Mounted on cloth backing.",
+    "Oriented with north to the left.",
+    "Pen-and-ink and watercolor.",
+    "Publication statement: [1733]",
+    "Shows coast of Peru in the region of Ilo.",
+    "Shows coast of Peru in the region of Ilo. Depths shown by soundings. Oriented with north to the left. Pen-and-ink and watercolor. Mounted on cloth backing. Typewritten label describing the map mounted on verso. Maggs number annotated in pencil in lower right corner: 206A. LC Luso-Hispanic World, 715 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Typewritten label describing the map mounted on verso.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5314i.lh000715",
+    "http://lccn.loc.gov/90682904",
+    "http://www.loc.gov/item/90682904/",
+    "http://www.loc.gov/resource/g5314i.lh000715/",
+    "https://hdl.loc.gov/loc.gmd/g5314i.lh000715",
+    "https://search.catalog.loc.gov/instances/44ed39c8-d825-56fc-9232-064836717603",
+    "https://www.loc.gov/item/90682904/"
+  ],
+  "dct_issued_s": "1733",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5314/g5314i/lh000715.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90682904/\"}",
+  "dct_spatial_sm": [
+    "ilo region",
+    "pacific coast",
+    "peru"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Peru--Ilo Region--Maps--Early works to 1800",
+    "Ilo Region (Peru)--Maps, Manuscript--Early works to 1800",
+    "Pacific Coast (Peru)--Maps, Manuscript--Early works to 1800",
+    "Peru--Ilo Region",
+    "Peru--Pacific Coast"
+  ],
+  "dct_temporal_sm": [
+    "1733"
+  ],
+  "dct_title_s": "Verdadera demostrasión del Puerto de Yslo. y de la Caleta de Pacocha",
+  "gbl_dateRange_drsim": [
+    "[1733 TO 1733]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1733
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90682904",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

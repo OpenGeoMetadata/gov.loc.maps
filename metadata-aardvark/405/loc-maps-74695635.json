@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 651/2",
+    "Also shows Florida, eastern Mexico, Central America, and northern South America.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bayly, J. (John Abraham), active 1755-1794; Harrison and Co. (London, England)",
+    "LC Maps of North America, 1750-1789, 1712",
+    "Prime meridian: London.",
+    "Prime meridian: London. Relief shown pictorially. Also shows Florida, eastern Mexico, Central America, and northern South America. Scale ca. 1:11,250,000. LC Maps of North America, 1750-1789, 1712 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 651/2",
+    "Publication statement: [London] Harrison & Co., 1783.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:11,250,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4390.ar171200",
+    "http://lccn.loc.gov/74695635",
+    "http://www.loc.gov/item/74695635/",
+    "http://www.loc.gov/resource/g4390.ar171200/",
+    "https://hdl.loc.gov/loc.gmd/g4390.ar171200",
+    "https://search.catalog.loc.gov/instances/8d7a023d-42a1-5835-a4d6-6d5a99aa18de",
+    "https://www.loc.gov/item/74695635/"
+  ],
+  "dct_issued_s": "1783",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4390/g4390/ar171200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74695635/\"}",
+  "dct_spatial_sm": [
+    "caribbean area",
+    "west indies"
+  ],
+  "dct_subject_sm": [
+    "Caribbean Area",
+    "Caribbean Area--Maps--Early works to 1800",
+    "West Indies",
+    "West Indies--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1783"
+  ],
+  "dct_title_s": "A new map of the West Indies,",
+  "gbl_dateRange_drsim": [
+    "[1783 TO 1783]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1783
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74695635",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

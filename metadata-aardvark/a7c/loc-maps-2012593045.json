@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint",
+    "LC copy has red and green pencil markings throughout and punch holes along the left margin.",
+    "Publication statement: [St. Louis, Mo.?] : [Publisher not identified], [between 1880 and 1910]",
+    "Shows names of residents.",
+    "Title at head of map.",
+    "Title at head of map. Blueprint Shows names of residents. LC copy has red and green pencil markings throughout and punch holes along the left margin. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4163j.la002104",
+    "http://lccn.loc.gov/2012593045",
+    "http://www.loc.gov/item/2012593045/",
+    "http://www.loc.gov/resource/g4163j.la002104/",
+    "https://hdl.loc.gov/loc.gmd/g4163j.la002104",
+    "https://search.catalog.loc.gov/instances/1dd79c0e-2b2a-5ec7-a91a-e8723b5c3534",
+    "https://www.loc.gov/item/2012593045/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd416/g4163/g4163j/la002104.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593045/\"}",
+  "dct_spatial_sm": [
+    "jackson county",
+    "missouri",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Jackson County (Mo.)",
+    "Landowners--Missouri--Jackson County--Maps",
+    "Real property--Missouri--Jackson County--Maps",
+    "United States--Missouri--Jackson County"
+  ],
+  "dct_temporal_sm": [
+    "1880",
+    "[St. Louis, Mo.?] : [Publisher not identified], [between 1880 and 1910]"
+  ],
+  "dct_title_s": "Washington township",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593045",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1980--311-309/39.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: [United States. National Park Service]",
+    "Includes text and col. ill.",
+    "Oriented with north toward the upper left.",
+    "Oriented with north toward the upper left. \"*GPO: 1980--311-309/39.\" Includes text and col. ill. Text, location map, and col. ill. on verso. Scale ca. 1:190,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: [Washington : National Park Service] : for sale by the Supt. of Docs., U.S. Govt. Print. Off., [1980]",
+    "Scale ca. 1:190,000.",
+    "Text, location map, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/80695191",
+    "http://www.loc.gov/item/80695191/",
+    "http://www.loc.gov/resource/g3932c.ct010248/",
+    "https://hdl.loc.gov/loc.gmd/g3932c.ct010248",
+    "https://search.catalog.loc.gov/instances/74049577-33d3-5366-90c4-cb558e4c2f2b",
+    "https://www.loc.gov/item/80695191/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3932/g3932c/ct010248.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80695191/\"}",
+  "dct_spatial_sm": [
+    "canaveral national seashore",
+    "florida",
+    "merritt island national wildlife refuge",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canaveral National Seashore (Fla.)--Maps",
+    "Merritt Island National Wildlife Refuge (Fla.)--Maps",
+    "United States--Florida--Canaveral National Seashore",
+    "United States--Florida--Merritt Island National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Canaveral National Seashore, Florida, Merritt Island National Wildlife Refuge, Florida",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80695191",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

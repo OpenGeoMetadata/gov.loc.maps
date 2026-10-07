@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Dec--13--1884.\"",
+    "\"Square 671 valued $2,125.00. Square 672 valued $17,440.00.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "Fold-lined.",
+    "India ink.",
+    "Phillips. Washington 907",
+    "Publication statement: 1884.",
+    "Shows dimensions for the blocks bounded by New York Av., 1st, M, and North Capitol streets N.E.",
+    "Shows dimensions for the blocks bounded by New York Av., 1st, M, and North Capitol streets N.E. \"Dec--13--1884.\" \"Square 671 valued $2,125.00. Square 672 valued $17,440.00.\" Title devised by cataloger. India ink. Fold-lined. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 907 Vault DCP",
+    "Title devised by cataloger.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851g.ct004253",
+    "http://lccn.loc.gov/88693128",
+    "http://www.loc.gov/item/88693128/",
+    "http://www.loc.gov/resource/g3851g.ct004253/",
+    "https://hdl.loc.gov/loc.gmd/g3851g.ct004253",
+    "https://search.catalog.loc.gov/instances/bf8fdf51-108e-53da-9675-e826a9ab22d9",
+    "https://www.loc.gov/item/88693128/"
+  ],
+  "dct_issued_s": "1884",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851g/ct004253.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693128/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "City blocks--Washington (D.C.)--Maps",
+    "Land value taxation--Washington (D.C.)--Maps",
+    "Manuscript maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps, Manuscript",
+    "Washington (D.C.)--Surveys--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_title_s": "[Tax survey map of squares 671 and 672, N.E. Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693128",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

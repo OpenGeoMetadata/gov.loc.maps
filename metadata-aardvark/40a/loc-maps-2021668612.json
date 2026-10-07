@@ -1,0 +1,76 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Turkestan. Asie en dix feuilles. Feuille II"
+  ],
+  "dct_description_sm": [
+    "\"Scale 1:5,000,000\"--Note extracted from World Digital Library.",
+    "Content in French and Russian and Turkish.",
+    "Contributors: Aïtoff, David, 1854-1933 Cartographer.; Bagge, Gustave, died 1915 Cartographer.; Delaune, E. Engraver.; Dufrénoy (Firm) Printer.; Dumas-Vorzet, P. Contributor.; Schrader, Franz, 1844-1924 Contributor.; Vivien de Saint-Martin, Louis, 1802-1897 Contributor.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : color, mounted on linen ; 49 x 53 centimeters.",
+    "Publication statement: Paris : Hachette & Company, 1909.",
+    "This 1909 map covers Turkestan, or the domains of Russia in Central Asia, along with adjoining regions in Persia, Afghanistan, British India, and China. Russia had acquired its vast holdings in Central Asia, including the protectorates of Khiva and Bukhara, in the second half of the previous century. The map shows Bokhara as the state capital of Turkestan and Tashkent, present-day capital of Uzbekistan, as the seat of government. This is the second map in a series of ten published by Hachette in the early 1900s as part of the Atlas Universel (World atlas) by Louis Vivien de Saint-Martin and Franz Schrader. The other maps in the series are: 1, Asia Minor and the Caucasus; 3, Mongolia; 4, Japan, Korea, and Manchuria; 5, Arabia; 6, Persia, Afghanistan, and Northwest India; 7, Northeast India and Tibet; 8, China; 9, South India; and 10, Indochina. One of the contributors to the map is David Alexandrovich Aïtoff (1854--1933), the inventor of the Aïtoff projection in cartography, who first published his formulation in an article entitled \"Projections des cartes géographiques\" that appeared in Atlas de géographie moderne in 1889. The map includes a glossary of Russian and Turkish terms. It was loaned by the American Geographical Society to the Paris Peace Conference of 1918--19, convened to draw up peace treaties after World War I.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668612",
+    "http://www.loc.gov/item/2021668612/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_15037/",
+    "http://www.loc.gov/resource/wdl.15037/",
+    "https://hdl.loc.gov/loc.wdl/wdl.15037",
+    "https://www.loc.gov/item/2021668612/"
+  ],
+  "dct_issued_s": "1909-01-01",
+  "dct_language_sm": [
+    "fre",
+    "rus",
+    "turkish"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_15037.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/03/7/wdl_15037/wdl_15037.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:7:wdl_15037:am004744/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668612/\"}",
+  "dct_spatial_sm": [
+    "afghanistan",
+    "kyrgyzstan",
+    "russian federation",
+    "tajikistan",
+    "turkmenistan",
+    "uzbekistan"
+  ],
+  "dct_subject_sm": [
+    "1909",
+    "Afghanistan",
+    "Kyrgyzstan",
+    "Library of Congress Afghanistan Project",
+    "Russian Federation",
+    "Tajikistan",
+    "Treaty of Versailles (1919)",
+    "Turkmenistan",
+    "Uzbekistan",
+    "World War, 1914-1918"
+  ],
+  "dct_temporal_sm": [
+    "1909-01-01"
+  ],
+  "dct_title_s": "Turkestan. Asia in Ten Folios. Folio II.",
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1909
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668612",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

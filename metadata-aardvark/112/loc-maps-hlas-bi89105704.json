@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: modelski, andrew m.; paraguay. dirección del servicio geográfico militar"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi89105704/",
+    "https://www.loc.gov/item/hlas-bi89105704/"
+  ],
+  "dct_issued_s": "1985",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "La Dirección,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi89105704/\"}",
+  "dct_spatial_sm": [
+    "paraguay"
+  ],
+  "dct_subject_sm": [
+    "cordillera, paraguay (dept.)",
+    "cordillera, paraguay (dept.) -- geography",
+    "cordillera, paraguay (dept.) -- maps and cartography",
+    "geography",
+    "maps and cartography"
+  ],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "dct_title_s": "Mapa departamental, Paraguay, escala 1:200.000",
+  "gbl_dateRange_drsim": [
+    "[1985 TO 1985]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi89105704",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

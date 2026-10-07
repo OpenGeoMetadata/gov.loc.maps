@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "National Highways Association Map of the State of Delaware: Showing Three Hundred Miles of National Highways Proposed by the National Highways Association"
+  ],
+  "dct_description_sm": [
+    "\"Scale 1:1,000,000\"--Note extracted from World Digital Library.",
+    "Content in English.",
+    "Contributors: National Highways Association Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+    "Original resource extent: 1 map : color ; 20 x 14 centimeters on sheet 26 x 18 centimeters.",
+    "Publication statement: Washington, D.C. : National Highways Association, 1914-03.",
+    "The National Highways Association (NHA) was established in 1911 to promote the development of an improved national road network in the United States. Under the slogan \"Good roads for everyone!\" the NHA advocated the building and permanent maintenance by the federal government of a system of 50,000 miles (some 80,500 kilometers) of highways. This map, issued by the NHA in 1914, shows 300 miles (483 kilometers) of highways proposed for Delaware and their connections to the adjoining states of Pennsylvania and Maryland. No bridge across the Delaware River as yet linked New Jersey and Delaware. Besides issuing brochures and circulars aimed at convincing citizens of the need for a national road system, the NHA was a prolific producer of maps. Cartographic work was done at an office in South Yarmouth, Massachusetts, where approximately 40 people were employed on the property of Charles Henry Davis (1865--1951), president and cofounder of the NHA. Davis believed that these maps would be helpful to a national highways commission that he hoped would be established and that they would assist the states in integrating their roads into a national system. Congress never embraced the plan put forward by the NHA, but the organization and its maps helped to promote the cause of a national road network.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668511",
+    "http://www.loc.gov/item/2021668511/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_11542/",
+    "http://www.loc.gov/resource/wdl.11542/",
+    "https://hdl.loc.gov/loc.wdl/wdl.11542",
+    "https://www.loc.gov/item/2021668511/"
+  ],
+  "dct_issued_s": "1914-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_11542.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/54/2/wdl_11542/wdl_11542.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:54:2:wdl_11542:an017/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668511/\"}",
+  "dct_spatial_sm": [
+    "delaware",
+    "united states of america"
+  ],
+  "dct_subject_sm": [
+    "1914",
+    "Highway planning",
+    "Roads",
+    "United States of America--Delaware"
+  ],
+  "dct_temporal_sm": [
+    "1914-01-01"
+  ],
+  "dct_title_s": "National Highways Association Map of the State of Delaware.",
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1914
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668511",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

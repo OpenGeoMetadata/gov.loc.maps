@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows block numbers.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: District of Columbia. Engineer Department",
+    "DCP",
+    "Includes table of \"Number of lamps in service July 1, 1894\" and directory of \"Width of streets and avenues.\"",
+    "LC copy halved and mounted on cloth backing.",
+    "Publication statement: [Washington] : Engineer Department, [1894]",
+    "Shows electric, gas, and oil streetlights.",
+    "Shows electric, gas, and oil streetlights. Also shows block numbers. Includes table of \"Number of lamps in service July 1, 1894\" and directory of \"Width of streets and avenues.\" Available also through the Library of Congress Web site as a raster image. LC copy halved and mounted on cloth backing. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct004808",
+    "http://lccn.loc.gov/87695626",
+    "http://www.loc.gov/item/87695626/",
+    "http://www.loc.gov/resource/g3851p.ct004808/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct004808",
+    "https://search.catalog.loc.gov/instances/3d4c748d-4d91-509e-844c-1c40665895e8",
+    "https://www.loc.gov/item/87695626/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct004808.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695626/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Street lighting--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "Map of the city of Washington showing street lamps : to accompany the annual report of the Engineer Department, D.C., for the year ending June 30, 1894",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695626",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

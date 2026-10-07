@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Imperfect: Fold-lined, mounted on paper, minor losses toward lower right.",
+    "Includes names of select landowners.",
+    "Library of Congress. Civil War maps (2nd ed.), S79, 176",
+    "Pencil.",
+    "Relief shown by hachures.",
+    "Shows parts of Fulton and DeKalb counties. Indicates Headquarters, Department of the Tennessee, on July 17th and 18th and the position of the 15th, 16th, and 17th Army Corps on Peach Tree Creek.",
+    "Shows parts of Fulton and DeKalb counties. Indicates Headquarters, Department of the Tennessee, on July 17th and 18th and the position of the 15th, 16th, and 17th Army Corps on Peach Tree Creek. Relief shown by hachures. Title and date from Stephenson's Civil War maps, 1989. Pencil. Includes names of select landowners. Imperfect: Fold-lined, mounted on paper, minor losses toward lower right. Library of Congress. Civil War maps (2nd ed.), S79, 176 Available also through the Library of Congress Web site as a raster image.",
+    "Title and date from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3923d.cws00079",
+    "http://lccn.loc.gov/2006459243",
+    "http://www.loc.gov/item/2006459243/",
+    "http://www.loc.gov/resource/g3923d.cws00079/",
+    "https://hdl.loc.gov/loc.gmd/g3923d.cws00079",
+    "https://search.catalog.loc.gov/instances/08b10d4b-eeda-5a38-be29-11094e19bb70",
+    "https://www.loc.gov/item/2006459243/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3923/g3923d/cws00079.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006459243/\"}",
+  "dct_spatial_sm": [
+    "dekalb county",
+    "fulton county",
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "DeKalb County (Ga.)--History--Civil War, 1861-1865--Maps",
+    "Fulton County (Ga.)--History--Civil War, 1861-1865--Maps",
+    "Landowners--Georgia--DeKalb County--Maps",
+    "Landowners--Georgia--Fulton County--Maps",
+    "United States--Georgia--DeKalb County",
+    "United States--Georgia--Fulton County"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "[Map of part of DeKalb County, Georgia, from the Chattahoochee River south to Peach Tree Creek, July 17-18, 1864]",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006459243",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

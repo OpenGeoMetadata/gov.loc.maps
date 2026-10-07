@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Atlas city of Buffalo, New York"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: American Atlas Company (1894-1901), cartographer, publisher",
+    "Includes indexes.",
+    "LC copy imperfect: lacking volume one.",
+    "LC copy imperfect: lacking volume one. Includes indexes. List of geographical atlases in the Library of Congress, 15951 Available also through the Library of Congress Web site as a raster image.",
+    "List of geographical atlases in the Library of Congress, 15951",
+    "Publication statement: New York : Published by American Atlas Co., 1894.; Phila. : A. H. Mueller, lith., 530 Locust St., [1894]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map35000079",
+    "http://www.loc.gov/item/map35000079/",
+    "http://www.loc.gov/resource/gmdatlases.map35000079/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.map35000079",
+    "https://search.catalog.loc.gov/instances/28ab99ad-c7a7-59a3-aff6-cfd4cae42849",
+    "https://www.loc.gov/item/map35000079/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:ma:p3:50:00:07:9:map35000079:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map35000079/\"}",
+  "dct_spatial_sm": [
+    "buffalo",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--New York (State)--New York--Maps",
+    "Real property--New York (State)--New York--Maps",
+    "United States--New York (State)--Buffalo"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "Atlas of the city of Buffalo, New York",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map35000079",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

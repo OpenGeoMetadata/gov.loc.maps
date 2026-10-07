@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Original map at: National Library of Russia",
+    "Publication statement: Paris : J.Hansen, 1880-1889.",
+    "T︠S︡vetnai︠a︡. Kartograficheskai︠a︡ setka cherez 20°; schet dolgot ot Grinvicha.",
+    "T︠S︡vetnai︠a︡. Kartograficheskai︠a︡ setka cherez 20°; schet dolgot ot Grinvicha. Uslovnye znaki: Transsibirskai︠a︡ magistral', proektiruemai︠a︡ zheleznai︠a︡ doroga Sibir'-Ali︠a︡ska, sudokhodnye reki. Otmecheny: granit︠s︡y gosudarstv, osnovnye goroda i stant︠s︡ii; rel'ef skhematicheski shtrikhami. Original map at: National Library of Russia Цветная. Картографическая сетка через 20°; счет долгот от Гринвича. Условные знаки: Транссибирская магистраль, проектируемая железная дорога Сибирь-Аляска, судоходные реки. Отмечены: границы государств, основные города и станции; рельеф схематически штрихами.",
+    "Uslovnye znaki: Transsibirskai︠a︡ magistral', proektiruemai︠a︡ zheleznai︠a︡ doroga Sibir'-Ali︠a︡ska, sudokhodnye reki. Otmecheny: granit︠s︡y gosudarstv, osnovnye goroda i stant︠s︡ii; rel'ef skhematicheski shtrikhami.",
+    "Условные знаки: Транссибирская магистраль, проектируемая железная дорога Сибирь-Аляска, судоходные реки. Отмечены: границы государств, основные города и станции; рельеф схематически штрихами.",
+    "Цветная. Картографическая сетка через 20°; счет долгот от Гринвича."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018693921",
+    "http://www.loc.gov/item/2018693921/",
+    "http://www.loc.gov/resource/gdc.2018693921/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.nmap049",
+    "https://search.catalog.loc.gov/instances/ffe5a754-a43b-5bbe-8940-86610f374289",
+    "https://www.loc.gov/item/2018693921/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018693921.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018693921/2018693921.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018693921:nmap049/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018693921/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation",
+    "Siberia",
+    "maps"
+  ],
+  "dct_temporal_sm": [
+    "1880/1889"
+  ],
+  "dct_title_s": "Traee du Chemin de fer Trans-Alaska-Siberien sur territoire russe",
+  "gbl_dateRange_drsim": [
+    "[1880 TO 1889]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1880
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018693921",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

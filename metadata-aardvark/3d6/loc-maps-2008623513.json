@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"September 30, 1983.\"",
+    "\"September 30, 1983.\" In upper margin: Corps of Engineers, U.S. Army. Includes vicinity map and ill. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. St. Louis District",
+    "In upper margin: Corps of Engineers, U.S. Army.",
+    "Includes vicinity map and ill.",
+    "Publication statement: St. Louis, Mo. : The District, [1983]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2008623513",
+    "http://www.loc.gov/item/2008623513/",
+    "http://www.loc.gov/resource/g4042m.ct011643/",
+    "https://hdl.loc.gov/loc.gmd/g4042m.ct011643",
+    "https://search.catalog.loc.gov/instances/1c820647-b1a7-57e8-8f57-139ff3f6572b",
+    "https://www.loc.gov/item/2008623513/"
+  ],
+  "dct_issued_s": "1983",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd404/g4042/g4042m/ct011643.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008623513/\"}",
+  "dct_spatial_sm": [
+    "meramec river watershed",
+    "mississippi river",
+    "missouri",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Flood control--Mississippi River--Maps",
+    "Flood control--Missouri--Meramec River Watershed--Maps",
+    "United States--Mississippi River",
+    "United States--Missouri--Meramec River Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "dct_title_s": "Flood control project, Mississippi River, angler - use site : Meramec Basin, Missouri",
+  "gbl_dateRange_drsim": [
+    "[1983 TO 1983]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1983
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008623513",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

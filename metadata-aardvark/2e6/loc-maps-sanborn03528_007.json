@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "16 sheet(s).",
+    "506. Other places as they appear on original: Gould's Siding, Phair, Scott's Siding, Riverview Siding, Maysville Siding, Parkhurst Siding, Daggett Siding, Rand's Siding, Caribou Road Siding, Perry Siding, Fisher's Siding, Guiou Siding, Mcgraw's Siding, Campbell Siding, Robert's Siding.",
+    "Jan 1927 - Jul 1950."
+  ],
+  "dct_identifier_sm": [
+    "https://www.loc.gov/item/sanborn03528_007/"
+  ],
+  "dct_issued_s": "1950-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/sanborn03528_007/\"}",
+  "dct_spatial_sm": [
+    "Aroostook County",
+    "Campbell Siding",
+    "Caribou Road Siding",
+    "Daggett Siding",
+    "Fisher'S Siding",
+    "Gould'S Siding",
+    "Guiou Siding",
+    "Maine",
+    "Maysville Siding",
+    "Mcgraw'S Siding",
+    "Parkhurst Siding",
+    "Perry Siding",
+    "Phair",
+    "Presque Isle",
+    "Rand'S Siding",
+    "Riverview Siding",
+    "Robert'S Siding",
+    "Scott'S Siding",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1950-01"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Presque Isle, Aroostook County, Maine.",
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1950]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete.",
+    "Catalog access is public. Item-level access restrictions have not been refreshed since the historical package; consult the LOC catalog for current access.",
+    "Source does not confirm digitization. Consult LOC for access to the physical item."
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn03528_007",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

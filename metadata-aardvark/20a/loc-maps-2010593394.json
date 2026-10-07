@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ramusio, Giovanni Battista, 1485-1557",
+    "From Giovanni Battista Ramusio's Terzo volvme delle navigationi et viaggi ...? 1565? pp. 424-425?",
+    "In upper left margin: 424.",
+    "In upper right margin: 425.",
+    "Publication statement: [Venice? : s.n., 1565?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. From Giovanni Battista Ramusio's Terzo volvme delle navigationi et viaggi ...? 1565? pp. 424-425? In upper left margin: 424. In upper right margin: 425. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3400.ct007542",
+    "http://lccn.loc.gov/2010593394",
+    "http://www.loc.gov/item/2010593394/",
+    "http://www.loc.gov/resource/g3400.ct007542/",
+    "https://hdl.loc.gov/loc.gmd/g3400.ct007542",
+    "https://search.catalog.loc.gov/instances/66d44067-5b97-5dba-a6e8-df4b5409a80f",
+    "https://www.loc.gov/item/2010593394/"
+  ],
+  "dct_language_sm": [
+    "ita"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3400/g3400/ct007542.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010593394/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "canada, eastern",
+    "eastern"
+  ],
+  "dct_subject_sm": [
+    "Canada, Eastern",
+    "Canada, Eastern--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1565",
+    "[Venice? : s.n., 1565?]"
+  ],
+  "dct_title_s": "[Map of eastern Canada]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010593394",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

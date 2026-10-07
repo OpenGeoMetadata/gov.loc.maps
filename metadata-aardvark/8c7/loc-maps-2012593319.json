@@ -1,0 +1,75 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Ohio, Indiana, Ill's. & Michigan",
+    "States of Ohio, Indiana and Illinois and Michigan Territory"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Colored by county.",
+    "Contributors: Fillmore, Millard, 1800-1874; Strong, Ezra Baldwin, 1805-1846",
+    "Includes population tables of counties for the states of Ohio, Indiana, Illinois and the Michigan Territory in 1830.",
+    "LC copy: Signed inside front cover: Millard Fillmore.",
+    "Prime meridian: Washington [D.C.].",
+    "Publication statement: New York : Ezra Strong, 1836.",
+    "Shows parts of adjoining states.",
+    "Shows parts of adjoining states. Prime meridian: Washington [D.C.]. Colored by county. LC copy: Signed inside front cover: Millard Fillmore. Includes population tables of counties for the states of Ohio, Indiana, Illinois and the Michigan Territory in 1830. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4070.fi000004",
+    "http://lccn.loc.gov/2012593319",
+    "http://www.loc.gov/item/2012593319/",
+    "http://www.loc.gov/resource/g4070.fi000004/",
+    "https://hdl.loc.gov/loc.gmd/g4070.fi000004",
+    "https://search.catalog.loc.gov/instances/9dde3cef-16c3-5eb2-941a-5429f0cc16d1",
+    "https://www.loc.gov/item/2012593319/"
+  ],
+  "dct_issued_s": "1836",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd407/g4070/g4070/fi000004.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593319/\"}",
+  "dct_spatial_sm": [
+    "illinois",
+    "indiana",
+    "michigan",
+    "northwest, old",
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Illinois--Maps",
+    "Indiana--Maps",
+    "Michigan--Maps",
+    "Northwest, Old",
+    "Northwest, Old--Maps",
+    "Ohio--Maps",
+    "United States--Illinois",
+    "United States--Indiana",
+    "United States--Michigan",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1836"
+  ],
+  "dct_title_s": "The states of Ohio, Indiana & Illinois and Michigan Territory : from the latest authorities",
+  "gbl_dateRange_drsim": [
+    "[1836 TO 1836]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1836
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593319",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

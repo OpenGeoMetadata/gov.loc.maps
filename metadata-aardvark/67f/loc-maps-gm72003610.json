@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2; 650/3",
+    "Accompanied by Hills map collection title page and table of contents.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hills, John (Surveyor)",
+    "Has watermarks.",
+    "LC Maps of North America, 1750-1789, 1247",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Has watermarks. Relief shown by shading. Accompanied by Hills map collection title page and table of contents. Scale ca. 1:4,800; 400 ft. to an in. LC Maps of North America, 1750-1789, 1247 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650/1; 651/2; 650/3",
+    "Publication statement: [1780]",
+    "Relief shown by shading.",
+    "Scale ca. 1:4,800; 400 ft. to an in.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814e.ar124700",
+    "http://lccn.loc.gov/gm72003610",
+    "http://www.loc.gov/item/gm72003610/",
+    "http://www.loc.gov/resource/g3814e.ar124700/",
+    "https://hdl.loc.gov/loc.gmd/g3814e.ar124700",
+    "https://search.catalog.loc.gov/instances/0c46f8eb-e3ca-518a-9d67-059e1ab8190f",
+    "https://www.loc.gov/item/gm72003610/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814e/ar124700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm72003610/\"}",
+  "dct_spatial_sm": [
+    "elizabeth",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Elizabeth (N.J.)--Buildings, structures, etc.--Maps--Early works to 1800",
+    "Fortification--New Jersey--Elizabeth--Maps--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "United States--New Jersey--Elizabeth"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "Plan of the road from Elizabeth Town Point to Elizabeth Town : shewing the rebel works raised for its defence",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm72003610",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map contains a 20% vertical distortion due to computer line-printer format.\"",
+    "\"This map contains a 20% vertical distortion due to computer line-printer format.\" Available also through the Library of Congress Web site as a raster image. DRM",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mercury Maps, Inc; Mississippi Research and Development Center. Regional Planning Branch; United States. Soil Conservation Service",
+    "DRM",
+    "Publication statement: [Fort Worth? Tex. : USDA-SCS, 1980?]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81692285",
+    "http://www.loc.gov/item/81692285/",
+    "http://www.loc.gov/resource/g3981j.ct010767/",
+    "https://hdl.loc.gov/loc.gmd/g3981j.ct010767",
+    "https://search.catalog.loc.gov/instances/4df70b43-683a-5913-be70-af8cb04f728d",
+    "https://www.loc.gov/item/81692285/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3981/g3981j/ct010767.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81692285/\"}",
+  "dct_spatial_sm": [
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Agricultural resources--Mississippi--Maps",
+    "Land capability for agriculture--Mississippi--Maps",
+    "Land use, Rural--Mississippi--Maps",
+    "United States--Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "1980",
+    "[Fort Worth? Tex. : USDA-SCS, 1980?]"
+  ],
+  "dct_title_s": "Prime farmland map, State of Mississippi",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81692285",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

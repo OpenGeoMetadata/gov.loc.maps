@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Le cours du fleuve Missisipi (The course of the Mississippi River) shows the extensive course and watershed of the Mississippi River as well as eastern parts of North America, according to the latest geographical information available in the mid-1730s. The map highlights broad stretches of eastern North America from Hudson Bay to the Gulf of Mexico, and from the mouth of the Saint Lawrence River to the Mississippi Delta. The map identifies New France, New England, and New Spain. It gives the names of lakes, rivers, and other points of interest. It labels some Native American settlements as well as European forts, missions, mine sites, and fledgling American cities. The region from eastern Canada to the Great Lakes and south to New Orleans had long been explored by French voyageurs, who had traded and trapped along the expanding western American frontier for more than a century by the time this map was made. The map highlights portages between river systems that were used by these frontiersmen. It also shows longer routes from Quebec through the Great Lakes and tributaries of the Mississippi River and eventually to New Orleans. Notes or \"legends\" provide additional information, such as the fact that the Mississippi River was \"full of pelicans.\" Relief is shown pictorially. The scale is given in three different kinds of lieues (leagues), an old French measurement that varied by degrees and time (very approximately, one lieu = three kilometers). The map was published in Amsterdam in 1737 by Jean-Frederic Bernard (circa 1683-1744), a French bookseller, printer, author, and translator. Bernard was from a French Huguenot refugee family; he mostly lived and worked in the Netherlands but published and printed in French. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 100; 440; 651/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bernard, Jean-Frédéric, 1683?-1744",
+    "Prime meridian: Ferro.",
+    "Publication statement: Amsterdam, Chez J. F. Bernard, 1737.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:11,500,000.",
+    "Shows territory from Hudson Bay to the Gulf of Mexico, and from headwaters of the Rio Grande to the mouth of the St. Lawrence.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ct001248",
+    "http://lccn.loc.gov/gm71000980",
+    "http://www.loc.gov/item/gm71000980/",
+    "http://www.loc.gov/resource/g3300.ct001248/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ct001248",
+    "https://search.catalog.loc.gov/instances/21fa1581-293f-56e8-b234-e9689bf50e01",
+    "https://www.loc.gov/item/gm71000980/"
+  ],
+  "dct_issued_s": "1737",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ct001248.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000980/\"}",
+  "dct_spatial_sm": [
+    "mississippi river valley",
+    "north america",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mississippi River Valley--Maps--Early works to 1800",
+    "North America",
+    "North America--Maps--Early works to 1800",
+    "United States--Mississippi River Valley"
+  ],
+  "dct_temporal_sm": [
+    "1737"
+  ],
+  "dct_title_s": "Le cours du fleuve Missisipi selon les relations les plus modernes",
+  "gbl_dateRange_drsim": [
+    "[1737 TO 1737]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1737
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000980",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

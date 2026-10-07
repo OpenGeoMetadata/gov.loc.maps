@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Pop. 1859. 66.000.\"",
+    "Also covers boroughs of East Newark and Harrison.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Dod, Stephen",
+    "Includes index to points of interest.",
+    "LC copy imperfect: Darkened, missing small section at upper sheet edge, removed from city directory.",
+    "Oriented with north toward the lower right.",
+    "Publication statement: [Newark] : B.T. Pierson's Directory, [1859?]",
+    "Street map hand col. to show wards and ward numbers.",
+    "Street map hand col. to show wards and ward numbers. Also covers boroughs of East Newark and Harrison. \"Pop. 1859. 66.000.\" Oriented with north toward the lower right. Includes index to points of interest. LC copy imperfect: Darkened, missing small section at upper sheet edge, removed from city directory. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814n.ct003558",
+    "http://lccn.loc.gov/2011593692",
+    "http://www.loc.gov/item/2011593692/",
+    "http://www.loc.gov/resource/g3814n.ct003558/",
+    "https://hdl.loc.gov/loc.gmd/g3814n.ct003558",
+    "https://search.catalog.loc.gov/instances/cfd02460-7479-5a56-bbd5-f50d64232b7e",
+    "https://www.loc.gov/item/2011593692/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814n/ct003558.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011593692/\"}",
+  "dct_spatial_sm": [
+    "east newark",
+    "harrison",
+    "new jersey",
+    "newark",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "East Newark (N.J.)--Maps",
+    "Harrison (N.J.)--Maps",
+    "Newark (N.J.)--Administrative and political divisions--Maps",
+    "Newark (N.J.)--Maps",
+    "United States--New Jersey--East Newark",
+    "United States--New Jersey--Harrison",
+    "United States--New Jersey--Newark"
+  ],
+  "dct_temporal_sm": [
+    "1859",
+    "[Newark] : B.T. Pierson's Directory, [1859?]"
+  ],
+  "dct_title_s": "Map of the city of Newark, state of New Jersey",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011593692",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

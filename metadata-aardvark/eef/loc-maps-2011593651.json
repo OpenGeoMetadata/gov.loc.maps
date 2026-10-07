@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "General street map showing ward numbers within original city boundary.",
+    "General street map showing ward numbers within original city boundary. In right-hand margin: Season of 1870-71 will open on Tuesday, Sept. 20, 1870. Includes index of \"Public buildings\" and advertisements. LC copy imperfect: Brittle, fold-lined, torn, taped, missing small sections along sheet edges, probably removed from city directory. Available also through the Library of Congress Web site as a raster image. DCP",
+    "In right-hand margin: Season of 1870-71 will open on Tuesday, Sept. 20, 1870.",
+    "Includes index of \"Public buildings\" and advertisements.",
+    "LC copy imperfect: Brittle, fold-lined, torn, taped, missing small sections along sheet edges, probably removed from city directory.",
+    "Publication statement: [Washington? : s.n., 1870?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.wd000505",
+    "http://lccn.loc.gov/2011593651",
+    "http://www.loc.gov/item/2011593651/",
+    "http://www.loc.gov/resource/g3850.wd000505/",
+    "https://hdl.loc.gov/loc.gmd/g3850.wd000505",
+    "https://search.catalog.loc.gov/instances/30109a5c-760e-5e75-88f1-ebb429ba53b7",
+    "https://www.loc.gov/item/2011593651/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/wd000505.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011593651/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Public buildings--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1870",
+    "[Washington? : s.n., 1870?]"
+  ],
+  "dct_title_s": "Map of the city of Washington (District of Columbia)",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011593651",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

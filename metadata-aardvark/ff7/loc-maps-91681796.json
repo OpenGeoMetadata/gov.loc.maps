@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"UTM grid and 198[3, 4, 5, or 6] magnetic North declination at center of sheet.\"",
+    "ARP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map series: 7.5 minute series (topographic).",
+    "Contributors: Geological Survey (U.S.); Geometronics Service Center (U.S.); United States. Forest Service. Eastern Region",
+    "G.P.O. printing codes on some sheets: 1987--744-060 [thru] 063 -- 1988--542-872 -- 1988--543-821.",
+    "In upper left corner: United States, Department of the Interior, Geological Survey, modified for USDA Forest Service use.",
+    "Projections vary, some sheets have \"Lambert Conformal Conic\" or \"Transverse Mercator.\"",
+    "Publication statement: [Milwaukee, Wis.] : The Region ; Duluth, Minn. : Copies of this map are available for purchase at Superior National Forest Headquarters, 1987-1988",
+    "Relief shown by contours and spot heights.",
+    "Relief shown by contours and spot heights. Title from foot of quadrangle location diagram. In upper left corner: United States, Department of the Interior, Geological Survey, modified for USDA Forest Service use. Statement of responsibility varies, some don't include \"from.\" Base map series: 7.5 minute series (topographic). \"UTM grid and 198[3, 4, 5, or 6] magnetic North declination at center of sheet.\" Projections vary, some sheets have \"Lambert Conformal Conic\" or \"Transverse Mercator.\" G.P.O. printing codes on some sheets: 1987--744-060 [thru] 063 -- 1988--542-872 -- 1988--543-821. Available also through the Library of Congress Web site as a raster image. ARP",
+    "Statement of responsibility varies, some don't include \"from.\"",
+    "Title from foot of quadrangle location diagram."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/91681796",
+    "http://www.loc.gov/item/91681796/",
+    "http://www.loc.gov/resource/gmdsetmaps.91681796/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.91681796",
+    "https://search.catalog.loc.gov/instances/1aa6b816-ce4a-5184-84f6-e00a7a93cd9f",
+    "https://www.loc.gov/item/91681796/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:91:68:17:96:91681796:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/91681796/\"}",
+  "dct_spatial_sm": [
+    "minnesota",
+    "superior national forest",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Superior National Forest (Minn.)--Maps",
+    "United States--Minnesota--Superior National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1987/1988"
+  ],
+  "dct_title_s": "Superior National Forest",
+  "gbl_dateRange_drsim": [
+    "[1987 TO 1988]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1987
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-91681796",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

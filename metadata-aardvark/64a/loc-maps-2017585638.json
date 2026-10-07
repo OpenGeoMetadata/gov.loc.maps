@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bonne, Rigobert, 1727-1794, cartographer",
+    "Includes illustrations.",
+    "LC copy sectioned into 28 pieces and mounted on linen.",
+    "Publication statement: A Paris : Ches Lattré graveur ord. du Roy, de M le duc d'Orleans et de la ville, rue St. Jacques, 1778.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Includes illustrations. LC copy sectioned into 28 pieces and mounted on linen. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3200.ct009341",
+    "http://lccn.loc.gov/2017585638",
+    "http://www.loc.gov/item/2017585638/",
+    "http://www.loc.gov/resource/g3200.ct009341/",
+    "https://hdl.loc.gov/loc.gmd/g3200.ct009341",
+    "https://search.catalog.loc.gov/instances/1689416e-3a59-57a8-97ad-4f968f892fa4",
+    "https://www.loc.gov/item/2017585638/"
+  ],
+  "dct_issued_s": "1778",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3200/g3200/ct009341.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585638/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Earth (Planet)"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "dct_title_s": "Mappe monde, ou description du globe terrestre : drojettée e assujettie au ciel",
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1778
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585638",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

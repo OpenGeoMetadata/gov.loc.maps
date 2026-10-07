@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Atlas printed pagination: 17 double pages, which are printed only on one side.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Conserved Project ID 5475 2024 Library of Congress Conservation Division. For treatment information, contact the Conservation Division. pda",
+    "Contributors: Hyde, E. Belcher, cartographer",
+    "LC copy imperfect: disbound.",
+    "List of geographical atlases in the Library of Congress, 1477, 2264",
+    "Publication statement: Manhattan ; Brooklyn : published by E. Belcher Hyde, 1908.",
+    "Relief shown by hachures.",
+    "Shows landowners.",
+    "Shows landowners. Relief shown by hachures. Atlas printed pagination: 17 double pages, which are printed only on one side. LC copy imperfect: disbound. List of geographical atlases in the Library of Congress, 1477, 2264 Available also through the Library of Congress Web site as a raster image. Conserved Project ID 5475 2024 Library of Congress Conservation Division. For treatment information, contact the Conservation Division. pda"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map10000010",
+    "http://www.loc.gov/item/map10000010/",
+    "http://www.loc.gov/resource/gmdatlases.map10000010/",
+    "https://hdl.loc.gov/loc.gmd/gmdatlases.map10000010",
+    "https://search.catalog.loc.gov/instances/4ff19b50-74b5-5bc3-89b0-621991e2c567",
+    "https://www.loc.gov/item/map10000010/"
+  ],
+  "dct_issued_s": "1908",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdatlases:ma:p1:00:00:01:0:map10000010:ca000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map10000010/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "new york",
+    "united states",
+    "westchester county"
+  ],
+  "dct_subject_sm": [
+    "Connecticut--Maps",
+    "Landowners--Connecticut--Maps",
+    "Landowners--New York--Westchester County--Maps",
+    "United States--Connecticut",
+    "United States--New York--Westchester County",
+    "Westchester County (N.Y.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "dct_title_s": "Atlas of the rural country district north of New York city, embracing the entire Westchester County, New York : also a portion of Connecticut : Greenwich, Stamford, New Canaan, Darien, Wilton and Ridgefield",
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1908]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1908
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-map10000010",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

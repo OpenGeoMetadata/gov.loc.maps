@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no.: 99-94",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "CW3",
+    "Contributors: Baker, George, active 19th century; Cushing, W. E.",
+    "DCP",
+    "Imperfect: brittle, missing small sections along sheet edges, fold-lined.",
+    "Includes general \"Explanation\" index and \"Light battery explanation\" index.",
+    "Pen-and-ink, watercolor, and lead pencil.",
+    "Pen-and-ink, watercolor, and lead pencil. Imperfect: brittle, missing small sections along sheet edges, fold-lined. Includes general \"Explanation\" index and \"Light battery explanation\" index. Available also through the Library of Congress Web site as a raster image. DCP CW3 Acquisitions control no.: 99-94",
+    "Publication statement: 1862."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852f.cw1027000",
+    "http://lccn.loc.gov/00552388",
+    "http://www.loc.gov/item/00552388/",
+    "http://www.loc.gov/resource/g3852f.cw1027000/",
+    "https://hdl.loc.gov/loc.gmd/g3852f.cw1027000",
+    "https://search.catalog.loc.gov/instances/fbc3f1d8-0d46-5e25-a85b-dec12c54a77f",
+    "https://www.loc.gov/item/00552388/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852f/cw1027000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00552388/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "fort reno",
+    "fort reno (washington)",
+    "united states",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Batteries (Ordnance)--Washington (D.C.)--Maps",
+    "Fort Reno (Washington, D.C.)--Maps, Manuscript",
+    "United States--District of Columbia--Fort Reno (Washington)",
+    "United States--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Fort Pennsylvania and encampment at Tennallytown near Washington, D.C.",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00552388",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

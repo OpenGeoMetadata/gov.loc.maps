@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lloyd, James T.",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 46",
+    "Library of Congress. Civil War maps (2nd ed.) , 50",
+    "Map of eastern United States, showing roads, railroads, distances by rail, towns, state and county names, and boundaries. Areas shaded pink represent the \"rebellious states\" and the green areas represent \"all the southern territory that we hold from the South, after four years' war up to October 4, 1864.\" -- LC Civil War maps.",
+    "Publication statement: New York, 1863.",
+    "Scale ca. 1:2,250,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701s.cw0050000",
+    "http://lccn.loc.gov/98688332",
+    "http://www.loc.gov/item/98688332/",
+    "http://www.loc.gov/resource/g3701s.cw0050000/",
+    "https://hdl.loc.gov/loc.gmd/g3701s.cw0050000",
+    "https://search.catalog.loc.gov/instances/59ecf1e4-a10a-520e-bf26-9595d0be4cec",
+    "https://www.loc.gov/item/98688332/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701s/cw0050000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688332/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "United States",
+    "United States--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Lloyd's new map of the United States, the Canadas and New Brunswick, from the latest surveys, showing every railroad & station finished to June 1863, and the Atlantic and Gulf coasts from the United States Superintendant's official reports of the Coast Survey by order of Congress",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688332",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

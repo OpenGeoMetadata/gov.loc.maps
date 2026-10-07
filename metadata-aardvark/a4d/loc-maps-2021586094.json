@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Plan du mouillage d'Honolulu"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Blanchard, A., active 1832-1860, engraver; Dyonnet, Ch., engraver; France. Dépôt des cartes et plans de la marine, cartographer; Lapasse, Louis Charles-Édouard de, 1792-1867, cartographer, surveyor",
+    "In lower right margin: PRIX.Deux Francs.",
+    "In upper right margin: No. 1758.",
+    "In upper right margin: No. 1758. In lower right margin: PRIX.Deux Francs. Relief shown by hachures and spot heights. Depths shown by soundings. Includes text, \"Position du Fort d'Honolulu,\" cross section \"Vue prise à six milles dans le sud d'Honolulu,\" and list of abbreviations. Pencil annotations of Greenwich Coordinates below; Position du Fort ... Available also through the Library of Congress Web site as a raster image.",
+    "Includes text, \"Position du Fort d'Honolulu,\" cross section \"Vue prise à six milles dans le sud d'Honolulu,\" and list of abbreviations.",
+    "Pencil annotations of Greenwich Coordinates below; Position du Fort ...",
+    "Publication statement: [France] : Dépôt des cartes et plans de la marine, 1858.",
+    "Relief shown by hachures and spot heights. Depths shown by soundings."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021586094",
+    "http://www.loc.gov/item/2021586094/",
+    "http://www.loc.gov/resource/g4384h.ct012075/",
+    "https://hdl.loc.gov/loc.gmd/g4384h.ct012075",
+    "https://search.catalog.loc.gov/instances/f6acc383-f76e-5089-a071-f33927c3c825",
+    "https://www.loc.gov/item/2021586094/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd438:g4384:g4384h:ct012075/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021586094/\"}",
+  "dct_spatial_sm": [
+    "hawaii",
+    "honolulu region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Honolulu Region (Hawaii)--Maps",
+    "United States--Hawaii--Honolulu Region"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Grand océan (Îles Sandwich), plan du mouillage d'Honolulu (Île Woahou)",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021586094",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

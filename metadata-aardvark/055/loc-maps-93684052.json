@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Compiled 1989.\"",
+    "\"Compiled 1989.\" Includes descriptive legend, note, and table \"Sectionized township.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Louisiana Agricultural Experiment Station; National Cartography and Geographic Information Systems Center (U.S.); United States. Soil Conservation Service",
+    "Includes descriptive legend, note, and table \"Sectionized township.\"",
+    "Publication statement: Fort Worth, TX : USDA-SCS-National Cartography & GIS Center ; [Alexandria, La. : State Conservationist, distributor], 1993."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/93684052",
+    "http://www.loc.gov/item/93684052/",
+    "http://www.loc.gov/resource/g4013d.ct011137/",
+    "https://hdl.loc.gov/loc.gmd/g4013d.ct011137",
+    "https://search.catalog.loc.gov/instances/5e9f2124-38b7-565b-b09e-46b775831347",
+    "https://www.loc.gov/item/93684052/"
+  ],
+  "dct_issued_s": "1989",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4013/g4013d/ct011137.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93684052/\"}",
+  "dct_spatial_sm": [
+    "de soto parish",
+    "louisiana",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soils--Louisiana--De Soto Parish--Maps",
+    "United States--Louisiana--De Soto Parish"
+  ],
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "dct_title_s": "General soil map, De Soto Parish, Louisiana",
+  "gbl_dateRange_drsim": [
+    "[1989 TO 1989]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1989
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93684052",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

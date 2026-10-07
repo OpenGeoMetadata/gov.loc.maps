@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cited as: Digital boundary definitions of United States congressional districts, 1789-2012"
+  ],
+  "dct_description_sm": [
+    "\"Copyright (c) 2013-2018 Jeffrey B. Lewis\"--mit license.",
+    "\"Our enumeration of the districts in effect in a particular Congress follows Martis. At-large districts are numbered \"0\". In a few cases, shapes describing Indian territories within states during the 18th and early 19th centuries are included in the shapefiles. These territories are always assigned district number \"-1\"\"--webpage of project.",
+    "\"The district shapes are organized for download by Congress and stored in the common ESRI Shapefile format. Each unique district has been given a unique identifier with the following format SSSBBBEEEDD where SSS is the state FIPS code, BBB is the number of first Congress in which that district was used, EEE is the last Congress in which that district was used and DD is the district number\"--webpage of project.",
+    "A collection of shapefiles that shows the geographic locations of congressional districts for multiple Congresses and includes metadata on state names, time periods districts were used, county names, reference information, and last time shapefiles were changed.",
+    "Contributors: DeVine, Brandon, cartographer, researcher; Lewis, Jeffrey B., cartographer, researcher; Martis, Kenneth C., contributor; Pitcher, Lincoln, cartographer, researcher",
+    "Dataset includes 114 data files (Shapefile).",
+    "Description based on webpage of project. Title from webpage of project.",
+    "LC copy includes a selection of shapefiles from version 1.5 of the resource representing the 1st Congress on March 4, 1789 through the 114th Congress on January 3, 2017.",
+    "Publication statement: [Los Angeles, California] : Jeffrey B. Lewis, [2020]; © 2013-2018"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024586344",
+    "http://www.loc.gov/item/2024586344/",
+    "http://www.loc.gov/resource/gdcdatasets.2024586344/",
+    "https://cdmaps.polisci.ucla.edu/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2024586344",
+    "https://search.catalog.loc.gov/instances/8e8aa5d2-aef8-5406-8a1f-9b0fb99bc52b",
+    "https://www.loc.gov/item/2024586344/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2024586344/\"}",
+  "dct_rights_sm": [
+    "MIT License DLC https://opensource.org/license/mit",
+    "MIT License DLC https://raw.githubusercontent.com/JeffreyBLewis/congressional-district-boundaries/master/LICENSE"
+  ],
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Election districts--United States",
+    "United States",
+    "United States--Administrative and political divisions",
+    "United States.--Congress.--House--Election districts"
+  ],
+  "dct_temporal_sm": [
+    "2013/2018"
+  ],
+  "dct_title_s": "United States congressional district shapefiles",
+  "gbl_dateRange_drsim": [
+    "[2013 TO 2018]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024586344",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

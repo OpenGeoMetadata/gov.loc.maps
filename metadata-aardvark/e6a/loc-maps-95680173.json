@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1994--301-085/00009. Reprint 1992.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, index to points of interest, 3 ancillary battle maps, location map, and col. ill.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1994]",
+    "Relief shown by shading.",
+    "Relief shown by shading. \"*GPO: 1994--301-085/00009. Reprint 1992.\" Panel title. Includes text, index to points of interest, 3 ancillary battle maps, location map, and col. ill. Text and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842a.ct008520",
+    "http://lccn.loc.gov/95680173",
+    "http://www.loc.gov/item/95680173/",
+    "http://www.loc.gov/resource/g3842a.ct008520/",
+    "https://hdl.loc.gov/loc.gmd/g3842a.ct008520",
+    "https://search.catalog.loc.gov/instances/33426ebc-b6d3-5c63-9d2c-82806b02b677",
+    "https://www.loc.gov/item/95680173/"
+  ],
+  "dct_issued_s": "1992",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842a/ct008520.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95680173/\"}",
+  "dct_spatial_sm": [
+    "antietam national battlefield",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Antietam National Battlefield (Md.)--Maps",
+    "Antietam, Battle of, Md., 1862--Maps",
+    "United States--Maryland--Antietam National Battlefield"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_title_s": "Antietam National Battlefield, Maryland",
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1992]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95680173",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

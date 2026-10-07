@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"500187 3-71.\"",
+    "\"500187 3-71.\" \"Source of data: Office of the Geographer, Department of State.\" Includes note and key map. Available also through the Library of Congress Web site as a raster image.",
+    "\"Source of data: Office of the Geographer, Department of State.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency; United States. Department of State. Office of the Geographer",
+    "Includes note and key map.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1971]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8711f.ct002789",
+    "http://lccn.loc.gov/85697535",
+    "http://www.loc.gov/item/85697535/",
+    "http://www.loc.gov/resource/g8711f.ct002789/",
+    "https://hdl.loc.gov/loc.gmd/g8711f.ct002789",
+    "https://search.catalog.loc.gov/instances/8ea548f9-9fc7-54aa-ba3d-f67975e9aebe",
+    "https://www.loc.gov/item/85697535/"
+  ],
+  "dct_issued_s": "1971",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8711/g8711f/ct002789.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85697535/\"}",
+  "dct_spatial_sm": [
+    "central african republic",
+    "congo",
+    "congo (democratic republic)",
+    "democratic republic"
+  ],
+  "dct_subject_sm": [
+    "Central African Republic",
+    "Central African Republic--Boundaries--Congo (Democratic Republic)--Maps",
+    "Congo (Democratic Republic)",
+    "Congo (Democratic Republic)--Boundaries--Central African Republic--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "dct_title_s": "Central African Republic-Congo (Kinshasa) boundary",
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1971]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85697535",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

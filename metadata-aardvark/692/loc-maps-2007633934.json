@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hoelcke, Wm",
+    "Description derived from published bibliography.",
+    "In lower left margin: Report of Maj. Gen. John Pope to the Committee on the Conduct of War.",
+    "In lower left margin: Report of Maj. Gen. John Pope to the Committee on the Conduct of War. Similar to the preceding map. Description derived from published bibliography. Library of Congress. Civil War maps (2nd ed.), 301 Available also through the Library of Congress Web site as a raster image.",
+    "Library of Congress. Civil War maps (2nd ed.), 301",
+    "Publication statement: Phila. : Bowen & Co. Lith. , [1862].",
+    "Similar to the preceding map."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4042m.cw0301000",
+    "http://lccn.loc.gov/2007633934",
+    "http://www.loc.gov/item/2007633934/",
+    "http://www.loc.gov/resource/g4042m.cw0301000/",
+    "https://hdl.loc.gov/loc.gmd/g4042m.cw0301000",
+    "https://search.catalog.loc.gov/instances/e6d7b269-894f-597f-b3a5-fea7505c84ca",
+    "https://www.loc.gov/item/2007633934/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd404/g4042/g4042m/cw0301000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007633934/\"}",
+  "dct_spatial_sm": [
+    "mississippi river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Mississippi River--History--Civil War, 1861-1865--Maps",
+    "United States--Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Map showing the system of Confederate fortifications on the Mississippi River at Island No. 10 and New Madrid, also the operations of the United States forces under General John Pope, against these positions",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007633934",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beck & Pauli; Stoner, J. J.; Wellge, H. (Henry)",
+    "Includes index to points of interest and 2 views.",
+    "Includes index to points of interest and 2 views. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 974 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 974",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Madison, Wis., J. J. Stoner, 1884."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4284s.pm009740",
+    "http://lccn.loc.gov/75696661",
+    "http://www.loc.gov/item/75696661/",
+    "http://www.loc.gov/resource/g4284s.pm009740/",
+    "https://hdl.loc.gov/loc.gmd/g4284s.pm009740",
+    "https://search.catalog.loc.gov/instances/cbd204ba-12d5-5a63-bac6-73d78850a7ba",
+    "https://www.loc.gov/item/75696661/"
+  ],
+  "dct_issued_s": "1884",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd428/g4284/g4284s/pm009740.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75696661/\"}",
+  "dct_spatial_sm": [
+    "seattle",
+    "united states",
+    "washington",
+    "washington (state)"
+  ],
+  "dct_subject_sm": [
+    "Seattle (Wash.)",
+    "United States--Washington (State)--Seattle"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_title_s": "Bird's eye view of the city of Seattle, W.T., Puget Sound, county seat of King County 1884",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75696661",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

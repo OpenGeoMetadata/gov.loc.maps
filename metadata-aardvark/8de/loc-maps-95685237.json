@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Nashville District",
+    "Includes area map, table of navigation aids, and facility guide/index.",
+    "Includes area map, table of navigation aids, and facility guide/index. Lake information, col. ill., statistical data, and graphs to show \"How navigation locks operate\" on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Lake information, col. ill., statistical data, and graphs to show \"How navigation locks operate\" on verso.",
+    "Publication statement: [Nashville, Tenn.] : The District, [1995?]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95685237",
+    "http://www.loc.gov/item/95685237/",
+    "http://www.loc.gov/resource/g3962o.ct010578/",
+    "https://hdl.loc.gov/loc.gmd/g3962o.ct010578",
+    "https://search.catalog.loc.gov/instances/db58ce73-3a9b-5573-bb29-cda3519e1d9c",
+    "https://www.loc.gov/item/95685237/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd396/g3962/g3962o/ct010578.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95685237/\"}",
+  "dct_spatial_sm": [
+    "old hickory lake",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Old Hickory Lake (Tenn.)--Maps",
+    "Outdoor recreation--Tennessee--Old Hickory Lake--Maps",
+    "United States--Tennessee--Old Hickory Lake"
+  ],
+  "dct_temporal_sm": [
+    "1995",
+    "[Nashville, Tenn.] : The District, [1995?]"
+  ],
+  "dct_title_s": "Old Hickory Lake",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95685237",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "ARP",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bender, E. R.",
+    "Indexed for points of interest.",
+    "Indexed for points of interest. Available also through the Library of Congress Web site as a raster image. LC copy mounted on cloth backing and laminated. ARP",
+    "LC copy mounted on cloth backing and laminated.",
+    "Publication statement: [Irkutsk, Russia] : Izd. \"Vesʹ Irkutsk\", [1915?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7064i.mf000023",
+    "http://lccn.loc.gov/92680098",
+    "http://www.loc.gov/item/92680098/",
+    "http://www.loc.gov/resource/g7064i.mf000023/",
+    "https://hdl.loc.gov/loc.gmd/g7064i.mf000023",
+    "https://search.catalog.loc.gov/instances/00f4bbc0-c3f6-5bae-b0ae-dc02f126ac0d",
+    "https://www.loc.gov/item/92680098/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7064/g7064i/mf000023.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92680098/\"}",
+  "dct_spatial_sm": [
+    "irkutsk",
+    "russia"
+  ],
+  "dct_subject_sm": [
+    "Irkutsk (Russia)--Maps",
+    "Russia--Irkutsk"
+  ],
+  "dct_temporal_sm": [
+    "1915",
+    "[Irkutsk, Russia] : Izd. \"Vesʹ Irkutsk\", [1915?]"
+  ],
+  "dct_title_s": "Plan goroda Irkutska",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92680098",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Fairfax, F.",
+    "DCP",
+    "Depths shown by contours and soundings.",
+    "Depths shown by contours and soundings. Title handwritten on original map. On original map in handwriting: Reduced by F. Fairfax 1854. Includes notes. Available also through the Library of Congress Web site as a raster image. LC copy accompanied by negative photocopy and annotated in pencil: Coast Survey. DCP",
+    "Includes notes.",
+    "LC copy accompanied by negative photocopy and annotated in pencil: Coast Survey.",
+    "On original map in handwriting: Reduced by F. Fairfax 1854.",
+    "Publication statement: [Washington, D.C.? : s.n., 1854?]",
+    "Title handwritten on original map."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851p.ct005049",
+    "http://lccn.loc.gov/87695756",
+    "http://www.loc.gov/item/87695756/",
+    "http://www.loc.gov/resource/g3851p.ct005049/",
+    "https://hdl.loc.gov/loc.gmd/g3851p.ct005049",
+    "https://search.catalog.loc.gov/instances/d84f7a5d-7cd3-504a-8cb5-3a3a58f4b027",
+    "https://www.loc.gov/item/87695756/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851p/ct005049.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87695756/\"}",
+  "dct_spatial_sm": [
+    "anacostia river estuary",
+    "district of columbia",
+    "maryland",
+    "potomac river estuary",
+    "united states",
+    "virginia",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Harbors--Washington (D.C.)--Maps",
+    "Nautical charts--Anacostia River Estuary (Md. and Washington, D.C.)",
+    "Nautical charts--Potomac River Estuary",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Anacostia River Estuary",
+    "United States--District of Columbia--Washington--Potomac River Estuary",
+    "United States--Maryland--Anacostia River Estuary",
+    "United States--Maryland--Potomac River Estuary",
+    "United States--Virginia--Potomac River Estuary",
+    "Waterfronts--Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1854",
+    "[Washington, D.C.? : s.n., 1854?]"
+  ],
+  "dct_title_s": "Junction of Potomac and Anacostia rivers",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87695756",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

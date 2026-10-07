@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 801606 (B01254) 3-91.\"",
+    "\"Base 801606 (B01254) 3-91.\" Includes area map. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes area map.",
+    "Publication statement: [Washington : Central Intelligence Agency, 1991]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7590.ct002710",
+    "http://lccn.loc.gov/91682452",
+    "http://www.loc.gov/item/91682452/",
+    "http://www.loc.gov/resource/g7590.ct002710/",
+    "https://hdl.loc.gov/loc.gmd/g7590.ct002710",
+    "https://search.catalog.loc.gov/instances/72c93bc3-9150-526d-9cc3-4c3ca5df5222",
+    "https://www.loc.gov/item/91682452/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7590/g7590/ct002710.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91682452/\"}",
+  "dct_spatial_sm": [
+    "bahrain"
+  ],
+  "dct_subject_sm": [
+    "Bahrain",
+    "Bahrain--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "Bahrain",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91682452",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

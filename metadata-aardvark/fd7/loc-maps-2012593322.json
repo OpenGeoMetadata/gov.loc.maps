@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Missouri"
+  ],
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1850 by Thomas, Cowperthwait & Co. in the Clerks Office of the District Court of the Eastern District of Pennsylvania.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Colored by county.",
+    "Contributors: Fillmore, Millard, 1800-1874; Thomas, Cowperthwait & Co",
+    "LC copy: Signed inside front cover: Millard Fillmore, Aug. 25, 1856.",
+    "Number \"33\" in lower right margin of map.",
+    "Publication statement: Philadelphia : Thomas, Cowperthwait & Co., 1852.",
+    "Shows parts of adjoining states and counties, townships, and transportation routes.",
+    "Shows parts of adjoining states and counties, townships, and transportation routes. Colored by county. Number \"33\" in lower right margin of map. \"Entered according to Act of Congress in the year 1850 by Thomas, Cowperthwait & Co. in the Clerks Office of the District Court of the Eastern District of Pennsylvania.\" LC copy: Signed inside front cover: Millard Fillmore, Aug. 25, 1856. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4160.fi000008",
+    "http://lccn.loc.gov/2012593322",
+    "http://www.loc.gov/item/2012593322/",
+    "http://www.loc.gov/resource/g4160.fi000008/",
+    "https://hdl.loc.gov/loc.gmd/g4160.fi000008",
+    "https://search.catalog.loc.gov/instances/17d9e7d0-e429-5cd8-b12a-09cf09eb05a0",
+    "https://www.loc.gov/item/2012593322/"
+  ],
+  "dct_issued_s": "1852",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd416/g4160/g4160/fi000008.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593322/\"}",
+  "dct_spatial_sm": [
+    "missouri",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Missouri--Maps",
+    "United States--Missouri"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "dct_title_s": "New map of the state of Missouri",
+  "gbl_dateRange_drsim": [
+    "[1852 TO 1852]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1852
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593322",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

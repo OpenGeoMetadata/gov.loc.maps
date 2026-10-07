@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1980--311-342/5. Reprint 1980.\"",
+    "\"*GPO: 1980--311-342/5. Reprint 1980.\" Panel title: Greenbelt Park, Maryland. Includes text, location map, and ill. Text and ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, location map, and ill.",
+    "Panel title: Greenbelt Park, Maryland.",
+    "Publication statement: [Washington] : The Service, [1980]",
+    "Text and ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842g.ct008700",
+    "http://lccn.loc.gov/83692725",
+    "http://www.loc.gov/item/83692725/",
+    "http://www.loc.gov/resource/g3842g.ct008700/",
+    "https://hdl.loc.gov/loc.gmd/g3842g.ct008700",
+    "https://search.catalog.loc.gov/instances/bba22c6e-fd0b-5b6a-b04f-b725eef68680",
+    "https://www.loc.gov/item/83692725/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842g/ct008700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83692725/\"}",
+  "dct_spatial_sm": [
+    "greenbelt park",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Greenbelt Park (Md.)--Maps",
+    "United States--Maryland--Greenbelt Park"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Greenbelt Park",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83692725",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

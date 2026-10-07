@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Appears in his Grosser Atlas uber die gantze Welt. Nurnberg, 1716.",
+    "Appears in his Grosser Atlas uber die gantze Welt. Nurnberg, 1716. LC copy imperfect: Discoloration along fold line. Bottom edge and center fold repaired with cardboard on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Homann, Johann Baptist, 1663-1724",
+    "LC copy imperfect: Discoloration along fold line. Bottom edge and center fold repaired with cardboard on verso.",
+    "Publication statement: [Nurnberg] : Pub. opera Ioh. Bapt. Homanni Norimbergae, [1716]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3180.ct003788",
+    "http://hdl.loc.gov/loc.gmd/g3180.ct003816",
+    "http://lccn.loc.gov/2013593139",
+    "http://www.loc.gov/item/2013593139/",
+    "http://www.loc.gov/resource/g3180.ct003788/",
+    "http://www.loc.gov/resource/g3180.ct003816/",
+    "https://hdl.loc.gov/loc.gmd/g3180.ct003788",
+    "https://hdl.loc.gov/loc.gmd/g3180.ct003816",
+    "https://search.catalog.loc.gov/instances/babb3e5d-f10e-510a-8623-aa8eb518652f",
+    "https://www.loc.gov/item/2013593139/"
+  ],
+  "dct_issued_s": "1716",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3180/g3180/ct003816.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013593139/\"}",
+  "dct_spatial_sm": [
+    "universe"
+  ],
+  "dct_subject_sm": [
+    "Astrology--Maps",
+    "Astronomy--Charts, diagrams, etc.--Early works to 1800",
+    "Brahe, Tycho,--1546-1601",
+    "Constellations--Charts, diagrams, etc",
+    "Planets--Observations--Early works to 1800",
+    "Riccioli, Giovanni Battista,--1598-1671",
+    "Stars--Charts, diagrams, etc.--Early works to 1800",
+    "Universe"
+  ],
+  "dct_temporal_sm": [
+    "1716"
+  ],
+  "dct_title_s": "Systema mundi Tychonicum : secundum celeberrimorum astronomorum Tychonis de Brahe et Io. Baptistae Riccioli S.I. hypotheses concinnatum",
+  "gbl_dateRange_drsim": [
+    "[1716 TO 1716]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1716
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013593139",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

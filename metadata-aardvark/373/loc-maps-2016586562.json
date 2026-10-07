@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "1868.",
+    "6 sheet(s).",
+    "65 X 55 cm. One has title/legend on 18 X 25 cm. lift-up flap. Bound."
+  ],
+  "dct_identifier_sm": [
+    "https://www.loc.gov/item/2016586562/"
+  ],
+  "dct_issued_s": "1868",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\": \"http://www.loc.gov/item/2016586562/manifest.json\", \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408m/g4084m/g4084tm/g4084tm_g069111868/06911_1868-0001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2016586562/\"}",
+  "dct_rights_sm": [
+    "LC Labs identifies the online Sanborn Maps Collection as public domain and free to use and reuse. Collection rights statement: https://www.loc.gov/collections/sanborn-maps/about-this-collection/rights-and-access/"
+  ],
+  "dct_spatial_sm": [
+    "Lucas County",
+    "Ohio",
+    "Toledo",
+    "United States"
+  ],
+  "dct_subject_sm": [
+    "Property insurance--Ohio--Toledo--Maps",
+    "Real property--Ohio--Toledo--Maps",
+    "Toledo (Ohio)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1868"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Toledo, Lucas County, Ohio.",
+  "gbl_dateRange_drsim": [
+    "[1868 TO 1868]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete.",
+    "Catalog access is public. Item-level access restrictions have not been refreshed since the historical package; consult the LOC catalog for current access."
+  ],
+  "gbl_indexYear_im": [
+    1868
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2016586562",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image. unk82037922 upgraded to RDA and LCCN 2021588719 (ga15 2021-03-04)",
+    "Contributors: Jaeger, Johann Wilhelm Abraham, 1718-1790",
+    "Publication statement: Francfort sur le Main//Frankfurt : [publisher not identified], 1789.",
+    "unk82037922 upgraded to RDA and LCCN 2021588719 (ga15 2021-03-04)"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021588719",
+    "http://www.loc.gov/item/2021588719/",
+    "http://www.loc.gov/resource/g6080.ct012009/",
+    "http://www.loc.gov/resource/g6080.ct012010/",
+    "https://hdl.loc.gov/loc.gmd/g6080.ct012009",
+    "https://hdl.loc.gov/loc.gmd/g6080.ct012010",
+    "https://search.catalog.loc.gov/instances/5b0117e1-3182-5963-b7b3-c622c90c0c83",
+    "https://www.loc.gov/item/2021588719/"
+  ],
+  "dct_issued_s": "1789",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd6:g6080:g6080:ct012009/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021588719/\"}",
+  "dct_spatial_sm": [
+    "germany"
+  ],
+  "dct_subject_sm": [
+    "Germany",
+    "Germany--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1789"
+  ],
+  "dct_title_s": "Grand atlas d'Allemagne en LXXXI feuilles, dedié a sa majesté Joseph II, Empereur des Romains : avec privilege de sa majesté Imperiale",
+  "gbl_dateRange_drsim": [
+    "[1789 TO 1789]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1789
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021588719",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

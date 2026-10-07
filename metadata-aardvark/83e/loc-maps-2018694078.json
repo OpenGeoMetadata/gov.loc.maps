@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Карта района обследованного Саянской экспедицией Департамента земледелия в 1914-15 гг"
+  ],
+  "dct_description_sm": [
+    "Contributors: Imperial Russian Department of Agriculture , contributor; Lepp, A. G. , compiler",
+    "Na karte pokazany zimov'i︠a︡, zolotye priiski, zavody, ulusy, okhotnich'i izbushki, perevaly marshruty ėkspedit︠s︡ii.",
+    "Original map at: Russian State Library",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], 1916.",
+    "This map concerns the Sayan Expedition of 1914-16 in south-central Siberia, which was conducted under the auspices of the Imperial Russian Department of Agriculture. By the beginning of the 20th century, ecology and protection of the environment had become concerns in Russia. The paramount environmental issue was preservation of the sable (marten) in Siberia. The fur-bearing sable was both a symbol of the region and the very reason the Russians had expanded into Siberia in the 16th century. Late in the era of Tsar Nicholas II, the Imperial Department of Agriculture commissioned three separate expeditions to Lake Baikal, the Sayan Mountains, and Kamchatka to assess the health of marten populations and the need for protective measures. This map incorporates the findings of the Sayan Expedition, which explored the entire region near the headwaters of the Yenisei River north of the Russo-Mongolian border and produced reports about the state of the sable and other issues relating to the local ecology. The red line on the map traces the route of the expedition. A legend indicates the symbols used to signify cities, towns, railroads, highways, and other geographic features. The map measures distance in versts, a tsarist-era unit of measure equal to 1.07 kilometers. The map scale is given as 20 versts to one inch (2.54 centimeters). In 1915, even before the conclusion of the Sayan Expedition, the governor general of Irkutsk established the Sayan Zapovednik (Sayan Nature Reserve). A.G. Lepp, an apprentice scientist who oversaw the compilation of this map, was named the first director of the reserve. Despite the major upheavals of World War I, the Bolshevik Revolution, World War II, and the eventual collapse of the communist system, the cause of ecological conservation moved forward in fits and starts in Russia over the course of the next century. World Digital Library.",
+    "На карте показаны зимовья, золотые прииски, заводы, улусы, охотничьи избушки, перевалы маршруты экспедиции."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694078",
+    "http://www.loc.gov/item/2018694078/",
+    "http://www.loc.gov/resource/gdc.2018694078/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0031",
+    "https://search.catalog.loc.gov/instances/f7ea1353-e008-5dd7-9e63-1a0782b64612",
+    "https://www.loc.gov/item/2018694078/"
+  ],
+  "dct_issued_s": "1916",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694078.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694078/2018694078.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694078:smf0031/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694078/\"}",
+  "dct_spatial_sm": [
+    "respublika",
+    "russian federation",
+    "tuva",
+    "tyva"
+  ],
+  "dct_subject_sm": [
+    "Expeditions and surveys",
+    "Far East",
+    "Russia",
+    "Russian Federation",
+    "Siberia",
+    "Tyva, Respublika [Tuva]",
+    "maps"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "dct_title_s": "Karta raĭona obsledovannogo Sai︠a︡nskoĭ ėkspedit︠s︡ieĭ Departamenta zemledelii︠a︡ v 1914-15 gg",
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1916
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694078",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Plat book of the city of Rochester, New York"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 2008-236",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: J.M. Lathrop & Co",
+    "Includes alphabetic list of street names.",
+    "Includes alphabetic list of street names. Stamped in blue ink on title page: Dutcher Brothers, 623 Powers Bldg. Rochester, N.Y. LeGear. Atlases of the United States, 5799 Available also through the Library of Congress Web site as a raster image. Vendor: John Carbonell Acquisitions control no. 2008-236",
+    "LeGear. Atlases of the United States, 5799",
+    "Publication statement: New York : J.M. Lathrop & Co., 1900.",
+    "Stamped in blue ink on title page: Dutcher Brothers, 623 Powers Bldg. Rochester, N.Y.",
+    "Vendor: John Carbonell"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804rm.gla00154",
+    "http://lccn.loc.gov/2008626893",
+    "http://www.loc.gov/item/2008626893/",
+    "http://www.loc.gov/resource/g3804rm.gla00154/",
+    "https://hdl.loc.gov/loc.gmd/g3804rm.gla00154",
+    "https://search.catalog.loc.gov/instances/8af44280-1e30-5e21-8b03-4cb320fce316",
+    "https://www.loc.gov/item/2008626893/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380m/g3804m/g3804rm/gla00154/ca000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2008626893/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "rochester",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--New York (State)--Rochester--Maps",
+    "Real property--New York (State)--Rochester--Maps",
+    "Rochester (N.Y.)--Directories",
+    "Rochester (N.Y.)--Maps",
+    "United States--New York (State)--Rochester"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "Plat book, city of Rochester, New York : carefully compiled from official records and surveys",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2008626893",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

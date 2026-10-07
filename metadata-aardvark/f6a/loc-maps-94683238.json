@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 93-9",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "CW3",
+    "Contributors: Morris, Walter J., Capt. Engr's, C.S.A.",
+    "Orientation incorrectly indicated; interchanging \"N\" and \"W\" corrects error.",
+    "Publication statement: [United States : s.n., 18--?]",
+    "Relief shown by form lines and hachures.",
+    "Relief shown by form lines and hachures. Title and information about authorship from label affixed at lower right. Orientation incorrectly indicated; interchanging \"N\" and \"W\" corrects error. Available also through the Library of Congress Web site as a raster image. Vault Acquisitions control no. 93-9 CW3",
+    "Title and information about authorship from label affixed at lower right.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3922c.cw1040000",
+    "http://lccn.loc.gov/94683238",
+    "http://www.loc.gov/item/94683238/",
+    "http://www.loc.gov/resource/g3922c.cw1040000/",
+    "https://hdl.loc.gov/loc.gmd/g3922c.cw1040000",
+    "https://search.catalog.loc.gov/instances/1c1c0745-41e2-5bad-a4fe-7ec719a3213a",
+    "https://www.loc.gov/item/94683238/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922c/cw1040000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/94683238/\"}",
+  "dct_spatial_sm": [
+    "chickamauga",
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Chickamauga, Battle of, Ga",
+    "Chickamauga, Battle of, Ga., 1863--Maps",
+    "United States--Georgia--Chickamauga"
+  ],
+  "dct_temporal_sm": [
+    "1863",
+    "[United States : s.n., 18--?]"
+  ],
+  "dct_title_s": "Battle of Chickamauga, Ga., Sept. 19 and 20, 1863",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-94683238",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"10763.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency. Map Branch; United States. Superintendent of Documents",
+    "Does not cover USSR east of Novosibirsk/Alma-Ata.",
+    "Includes notes and 4 regional insets",
+    "Publication statement: [Washington, D.C.] : U.S. GPO S.; [Washington, D.C.] : [Central Intelligence Agency], [1949]",
+    "Shows existing lines, lines with second track planned/newly in service, new lines built/nearing completion, electrified lines, and lines being electrified.",
+    "Shows existing lines, lines with second track planned/newly in service, new lines built/nearing completion, electrified lines, and lines being electrified. Does not cover USSR east of Novosibirsk/Alma-Ata. Includes notes and 4 regional insets \"10763.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7001p.ct004328",
+    "http://lccn.loc.gov/2014585754",
+    "http://www.loc.gov/item/2014585754/",
+    "http://www.loc.gov/resource/g7001p.ct004328/",
+    "https://hdl.loc.gov/loc.gmd/g7001p.ct004328",
+    "https://search.catalog.loc.gov/instances/9aadd0ad-33c3-51f6-8c24-3a58fd341246",
+    "https://www.loc.gov/item/2014585754/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7001/g7001p/ct004328.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2014585754/\"}",
+  "dct_spatial_sm": [
+    "soviet union"
+  ],
+  "dct_subject_sm": [
+    "Railroads--Soviet Union--Maps",
+    "Railroads--Soviet Union--Planning--Maps",
+    "Soviet Union"
+  ],
+  "dct_temporal_sm": [
+    "1946 d1950"
+  ],
+  "dct_title_s": "The railroad network of the U.S.S.R. : and the Fourth Five-Year Plan of reconstruction and development for railroad transport for 1946-1950",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2014585754",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

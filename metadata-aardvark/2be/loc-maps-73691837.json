@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Tome I, no. 56.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bellin, Jacques Nicolas, 1703-1772",
+    "From the author's Le petit atlas maritime. 1764.",
+    "LC Maps of North America, 1750-1789, 1920",
+    "Prime meridian: Paris.",
+    "Publication statement: [Paris, 1764]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Prime meridian: Paris. \"Tome I, no. 56.\" From the author's Le petit atlas maritime. 1764. Scale ca. 1:900,000. LC Maps of North America, 1750-1789, 1920 Available also through the Library of Congress Web site as a raster image. Vault. AACR2",
+    "Scale ca. 1:900,000.",
+    "Vault."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4960.ar192000",
+    "http://lccn.loc.gov/73691837",
+    "http://www.loc.gov/item/73691837/",
+    "http://www.loc.gov/resource/g4960.ar192000/",
+    "https://hdl.loc.gov/loc.gmd/g4960.ar192000",
+    "https://search.catalog.loc.gov/instances/e4fd8adc-2f40-5138-a38c-53551f085879",
+    "https://www.loc.gov/item/73691837/"
+  ],
+  "dct_issued_s": "1764",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4960/g4960/ar192000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73691837/\"}",
+  "dct_spatial_sm": [
+    "jamaica"
+  ],
+  "dct_subject_sm": [
+    "Jamaica",
+    "Jamaica--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "dct_title_s": "Carte de l'isle de la Jamaique",
+  "gbl_dateRange_drsim": [
+    "[1764 TO 1764]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1764
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73691837",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

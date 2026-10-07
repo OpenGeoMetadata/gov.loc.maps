@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Bureau of the Census",
+    "Includes 2 insets and \"County location index.\"",
+    "Includes 2 insets and \"County location index.\" Scale ca. 1:775,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: Washington, U.S. Govt. Print. Off. [1971]",
+    "Scale ca. 1:775,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm72003037",
+    "http://www.loc.gov/item/gm72003037/",
+    "http://www.loc.gov/resource/g3931f.ct010197/",
+    "https://hdl.loc.gov/loc.gmd/g3931f.ct010197",
+    "https://search.catalog.loc.gov/instances/e4ea3974-af29-5f7f-94fb-b79a937a5221",
+    "https://www.loc.gov/item/gm72003037/"
+  ],
+  "dct_issued_s": "1971",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3931/g3931f/ct010197.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm72003037/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Florida--Administrative and political divisions--Maps",
+    "United States--Florida"
+  ],
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "dct_title_s": "Florida; county subdivisions, census county divisions and places. 1970",
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1971]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm72003037",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

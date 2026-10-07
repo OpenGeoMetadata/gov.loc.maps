@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"In the late 19th century, salmon canneries became a major industry along the Pacific coastline of the United States and Canada. American fishing interests in the Pacific Northwest pressed for the Alaska Purchase in 1867 and strongly shaped regional politics up until the turn of the 20th century. Imperial Russia had imposed limits on Americans fishing in Alaskan waters. After Russia sold Alaska to the United States in 1867, Americans gained access to new fishing grounds, including some of the world's best salmon runs. The combination of access to new stocks, new technologies for canning and shipping salmon, and a burgeoning worldwide market for canned fish resulted in a veritable explosion of the salmon canning industry in the 1870s and 1880s. This map of the West Coast, published in 1901 by the New York Commercial, shows salmon canneries along the entire shoreline from California, Oregon, and Washington State to British Columbia and Alaska. The map lists in great detail the names and locations of salmon canneries in each region. It also cites the annual aggregate amount of the catch, as well as the catch totals by year and by river, body of water, or region.\" World Digital Library.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: D. O. Haynes & Co",
+    "E476 U.S. Copyright Office",
+    "In New York Commercial, April 26, 1901.",
+    "Publication statement: [S.l.], 1901."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4232c.mf000036",
+    "http://lccn.loc.gov/99446194",
+    "http://www.loc.gov/item/99446194/",
+    "http://www.loc.gov/resource/g4232c.mf000036/",
+    "https://hdl.loc.gov/loc.gmd/g4232c.mf000036",
+    "https://search.catalog.loc.gov/instances/fa2fe0d1-579d-5384-bf1a-ec52f134406f",
+    "https://www.loc.gov/item/99446194/"
+  ],
+  "dct_issued_s": "1901",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd423/g4232/g4232c/mf000036.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446194/\"}",
+  "dct_spatial_sm": [
+    "british columbia",
+    "canada",
+    "pacific coast",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--British Columbia--Pacific Coast",
+    "Salmon canning industry--British Columbia--Pacific Coast--Maps",
+    "Salmon canning industry--Pacific Coast (U.S.)--Maps",
+    "United States--Pacific Coast"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "dct_title_s": "Salmon Canneries of the Pacific Northwest",
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1901
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446194",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: First Reformed Protestant Dutch Church (Albany, N.Y.), contributor; Van Ingen, James, 1766-1843, cartographer",
+    "Includes text.",
+    "Mounted on cloth.",
+    "Pen-and-ink and watercolor.",
+    "Pen-and-ink and watercolor. Includes text. Some lots include note: Sold 14th July 1828. Mounted on cloth. Available also through the Library of Congress Web site as a raster image. vcFY24",
+    "Publication statement: [Albany, N.Y.] : Jas. Van Ingen, 1815.",
+    "Some lots include note: Sold 14th July 1828.",
+    "vcFY24"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597368",
+    "http://www.loc.gov/item/2024597368/",
+    "http://www.loc.gov/resource/g3804a.ct005673/",
+    "https://hdl.loc.gov/loc.gmd/g3804a.ct005673",
+    "https://search.catalog.loc.gov/instances/8a33296d-95eb-5909-a9a5-c0d274049367",
+    "https://www.loc.gov/item/2024597368/"
+  ],
+  "dct_issued_s": "1815",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3804:g3804a:ct005673/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597368/\"}",
+  "dct_spatial_sm": [
+    "albany",
+    "albany (n.y.)",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Real property--New York (State)--Albany--Maps",
+    "United States--New York (State)--Albany (N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "1815"
+  ],
+  "dct_title_s": "The lots which are distinguished on this map by green have been allotted by the subscribers, in the division of the property of the minister, elders, and deacons of the Reformed Protestant Dutch Church in the city of Albany, to ballot no. 1 and those distinguished by yellow to ballot no. 2, November 8th, 1815",
+  "gbl_dateRange_drsim": [
+    "[1815 TO 1815]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1815
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597368",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

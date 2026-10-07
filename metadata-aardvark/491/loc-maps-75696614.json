@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"From the north, looking south-east.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Conserved; 002645.12 1976 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Contributors: Glover, E. S. (Eli Sheldon), 1844-1920; Strobridge & Co. Lith",
+    "Includes index to points of interest and text.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 929",
+    "Oriented with north toward the lower left.",
+    "Oriented with north toward the lower left. \"From the north, looking south-east.\" Includes index to points of interest and text. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 929 Available also through the Library of Congress Web site as a raster image. Conserved; 002645.12 1976 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda AACR2",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Salt Lake City, 1875."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4344s.pm009290",
+    "http://lccn.loc.gov/75696614",
+    "http://www.loc.gov/item/75696614/",
+    "http://www.loc.gov/resource/g4344s.pm009290/",
+    "https://hdl.loc.gov/loc.gmd/g4344s.pm009290",
+    "https://search.catalog.loc.gov/instances/35dccfd1-6bb1-5b12-80aa-1abe550ed443",
+    "https://www.loc.gov/item/75696614/"
+  ],
+  "dct_issued_s": "1875",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd434/g4344/g4344s/pm009290.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75696614/\"}",
+  "dct_spatial_sm": [
+    "salt lake city",
+    "united states",
+    "utah"
+  ],
+  "dct_subject_sm": [
+    "Salt Lake City (Utah)--Maps",
+    "United States--Utah--Salt Lake City"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "dct_title_s": "Birds-eye view of Salt Lake City, Utah 1875",
+  "gbl_dateRange_drsim": [
+    "[1875 TO 1875]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1875
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75696614",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

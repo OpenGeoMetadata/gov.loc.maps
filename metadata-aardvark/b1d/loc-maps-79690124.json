@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Stock Number 024-005-00720-2.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Everglades Natural History Association; United States. National Park Service",
+    "Depths shown by gradient tints.",
+    "Depths shown by gradient tints. Shows vegetation zones. \"Stock Number 024-005-00720-2.\" Includes text, distance lists, and col. ill. Text, tourist information, park map showing visitors' centers, and ill. (some col.) on verso. Scale ca. 1:320,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes text, distance lists, and col. ill.",
+    "Publication statement: [Washington] : The Service : for sale by the Supt. of Docs., U.S. Govt. Print. Off., [1978]",
+    "Scale ca. 1:320,000.",
+    "Shows vegetation zones.",
+    "Text, tourist information, park map showing visitors' centers, and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/79690124",
+    "http://www.loc.gov/item/79690124/",
+    "http://www.loc.gov/resource/g3932e.ct010278/",
+    "https://hdl.loc.gov/loc.gmd/g3932e.ct010278",
+    "https://search.catalog.loc.gov/instances/183ef429-7d4c-5244-bd1a-7f75d55630db",
+    "https://www.loc.gov/item/79690124/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3932/g3932e/ct010278.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79690124/\"}",
+  "dct_spatial_sm": [
+    "everglades national park",
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Everglades National Park (Fla.)--Maps",
+    "United States--Florida--Everglades National Park"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Everglades National Park, Florida",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79690124",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

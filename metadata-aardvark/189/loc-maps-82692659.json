@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"504718 5-81.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes glossary.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1981]",
+    "Shows urban area, urban open space, and undeveloped area.",
+    "Shows urban area, urban open space, and undeveloped area. Includes glossary. \"504718 5-81.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7434a.ct002054",
+    "http://lccn.loc.gov/82692659",
+    "http://www.loc.gov/item/82692659/",
+    "http://www.loc.gov/resource/g7434a.ct002054/",
+    "https://hdl.loc.gov/loc.gmd/g7434a.ct002054",
+    "https://search.catalog.loc.gov/instances/2a0f784a-31a3-5023-943b-5d04ef290251",
+    "https://www.loc.gov/item/82692659/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7434/g7434a/ct002054.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82692659/\"}",
+  "dct_spatial_sm": [
+    "ankara",
+    "turkey"
+  ],
+  "dct_subject_sm": [
+    "Ankara (Turkey)--Maps",
+    "Turkey--Ankara"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Ankara",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82692659",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

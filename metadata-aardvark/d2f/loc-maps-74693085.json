@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "LC Maps of North America, 1750-1789, 1446",
+    "Manuscript, pen-and-ink.",
+    "Manuscript, pen-and-ink. Oriented with north to the bottom. Not drawn to scale. LC Maps of North America, 1750-1789, 1446 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Not drawn to scale.",
+    "Oriented with north to the bottom.",
+    "Publication statement: [1781?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.ar144600",
+    "http://lccn.loc.gov/74693085",
+    "http://www.loc.gov/item/74693085/",
+    "http://www.loc.gov/resource/g3880.ar144600/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ar144600",
+    "https://search.catalog.loc.gov/instances/49d2a7e3-646a-53d0-8fea-f22b835fd23a",
+    "https://www.loc.gov/item/74693085/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/ar144600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693085/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1781",
+    "[1781?]"
+  ],
+  "dct_title_s": "Sketch of the road from Fredericksburg to Norfolk in Virginia",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693085",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

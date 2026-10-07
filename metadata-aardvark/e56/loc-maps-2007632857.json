@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Section XVII, 12. Blatt 482.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Leuzinger, R. (Rudolf), 1826-1896; Switzerland. Eidg. Landestopographie",
+    "From Topographischer Atlas der Schweiz im Massstab der Original-Aufnahme, also called the Siegfried-Atlas. Sheets were issued beginning in 1870.",
+    "Includes index to adjacent sheets.",
+    "LC Civil War maps (2nd ed.), S192",
+    "LC copy mounted on cloth and laminated.",
+    "LC copy stamped on in lower left corner: 2333.",
+    "Prime meridian: Paris?",
+    "Publication statement: [Bern] : Eidg. Stabsbureau, 1886.",
+    "Relief shown pictorially and by form lines, hachures, and spot heights.",
+    "Relief shown pictorially and by form lines, hachures, and spot heights. \"Section XVII, 12. Blatt 482.\" Includes index to adjacent sheets. Prime meridian: Paris? From Topographischer Atlas der Schweiz im Massstab der Original-Aufnahme, also called the Siegfried-Atlas. Sheets were issued beginning in 1870. LC copy stamped on in lower left corner: 2333. LC copy mounted on cloth and laminated. LC Civil War maps (2nd ed.), S192 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6044s.cws00192b",
+    "http://lccn.loc.gov/2007632857",
+    "http://www.loc.gov/item/2007632857/",
+    "http://www.loc.gov/resource/g6044s.cws00192b/",
+    "https://hdl.loc.gov/loc.gmd/g6044s.cws00192b",
+    "https://search.catalog.loc.gov/instances/a7773e55-0d3c-5711-b68f-bf2242d610a2",
+    "https://www.loc.gov/item/2007632857/"
+  ],
+  "dct_issued_s": "1886",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6/g6044/g6044s/cws00192b.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007632857/\"}",
+  "dct_spatial_sm": [
+    "sierre region",
+    "switzerland"
+  ],
+  "dct_subject_sm": [
+    "Sierre Region (Switzerland)--Maps",
+    "Switzerland--Sierre Region"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "dct_title_s": "Sierre",
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1886]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1886
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2007632857",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

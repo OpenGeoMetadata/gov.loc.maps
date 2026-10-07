@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"POD publication CD 222-65.\"",
+    "\"POD publication CD 222-65.\" Alternate title: Postal zip code directory, Arlington, Virginia. \"Reprinted from the National zip code directory.\" Oriented with north toward the upper left. Includes directory and text. Directory on verso. Available also through the Library of Congress Web site as a raster image. DCP",
+    "\"Reprinted from the National zip code directory.\"",
+    "Alternate title: Postal zip code directory, Arlington, Virginia.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Post Office Department",
+    "DCP",
+    "Directory on verso.",
+    "Includes directory and text.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Washington, D.C.] : The Department, [1965]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883a.ct009223",
+    "http://lccn.loc.gov/89692562",
+    "http://www.loc.gov/item/89692562/",
+    "http://www.loc.gov/resource/g3883a.ct009223/",
+    "https://hdl.loc.gov/loc.gmd/g3883a.ct009223",
+    "https://search.catalog.loc.gov/instances/ed85e3da-c143-53d0-988b-759ba7c62639",
+    "https://www.loc.gov/item/89692562/"
+  ],
+  "dct_issued_s": "1965",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883a/ct009223.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89692562/\"}",
+  "dct_spatial_sm": [
+    "arlington county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia--Arlington County",
+    "Zip codes--Virginia--Arlington County--Directories",
+    "Zip codes--Virginia--Arlington County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "dct_title_s": "Zip code, local zones, Arlington, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1965 TO 1965]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1965
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89692562",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

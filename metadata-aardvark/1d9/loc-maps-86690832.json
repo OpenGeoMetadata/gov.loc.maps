@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Map G-3.\"",
+    "Also lists names of U.S. Senators and state governors.",
+    "Also lists names of U.S. Senators and state governors. \"Map G-3.\" Includes inset of California. Available also through the Library of Congress Web site as a raster image. DRM",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Western Power Administration",
+    "DRM",
+    "Includes inset of California.",
+    "Publication statement: [Golden, Colo.] : The Administration, [1985]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/86690832",
+    "http://www.loc.gov/item/86690832/",
+    "http://www.loc.gov/resource/g4051f.ct011659/",
+    "https://hdl.loc.gov/loc.gmd/g4051f.ct011659",
+    "https://search.catalog.loc.gov/instances/66f16993-0d02-57db-81e0-17650f5ed6fd",
+    "https://www.loc.gov/item/86690832/"
+  ],
+  "dct_issued_s": "1985",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd405/g4051/g4051f/ct011659.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86690832/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west"
+  ],
+  "dct_subject_sm": [
+    "Election districts--West (U.S.)--Maps",
+    "United States--West",
+    "United States.--Congress--Election districts--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "dct_title_s": "United States Department of Energy, Western Area Power Administration, congressional districts, January 1985",
+  "gbl_dateRange_drsim": [
+    "[1985 TO 1985]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86690832",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

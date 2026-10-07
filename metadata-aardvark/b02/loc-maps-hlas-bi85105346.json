@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: modelski, andrew m.; soto, f.",
+    "Shows monuments in Havana, Cuba, pictorially"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi85105346/",
+    "https://www.loc.gov/item/hlas-bi85105346/"
+  ],
+  "dct_issued_s": "1983",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "F. Soto,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi85105346/\"}",
+  "dct_spatial_sm": [
+    "florida"
+  ],
+  "dct_subject_sm": [
+    "cuba",
+    "maps and cartography",
+    "monuments",
+    "monuments -- cuba",
+    "monuments -- maps and cartography"
+  ],
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "dct_title_s": "Mapa monumental de La Habana presentado en la primera Feria Nacional de los Municipios de Cuba en el Exilio del 6-20 de abril del 1983, Orange Bowl-Miami",
+  "gbl_dateRange_drsim": [
+    "[1983 TO 1983]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1983
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi85105346",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

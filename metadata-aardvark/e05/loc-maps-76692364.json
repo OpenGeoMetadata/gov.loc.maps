@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Finley, A. (Anthony); Young & Delleker",
+    "From the author's A new general atlas ... 1829, plate no. 11.",
+    "In upper right margin: 11.",
+    "Meridians: Greenwich and Washington.",
+    "Publication statement: Philad[elphi]a [1829]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Meridians: Greenwich and Washington. In upper right margin: 11. From the author's A new general atlas ... 1829, plate no. 11. Scale ca. 1:450,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale ca. 1:450,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3771f.ct006265",
+    "http://lccn.loc.gov/76692364",
+    "http://www.loc.gov/item/76692364/",
+    "http://www.loc.gov/resource/g3771f.ct006265/",
+    "https://hdl.loc.gov/loc.gmd/g3771f.ct006265",
+    "https://search.catalog.loc.gov/instances/0590793a-a499-5b9d-b1c4-2a30680a0794",
+    "https://www.loc.gov/item/76692364/"
+  ],
+  "dct_issued_s": "1829",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd377/g3771/g3771f/ct006265.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76692364/\"}",
+  "dct_spatial_sm": [
+    "rhode island",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Rhode Island--Maps",
+    "United States--Rhode Island"
+  ],
+  "dct_temporal_sm": [
+    "1829"
+  ],
+  "dct_title_s": "Rhode Island",
+  "gbl_dateRange_drsim": [
+    "[1829 TO 1829]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1829
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76692364",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

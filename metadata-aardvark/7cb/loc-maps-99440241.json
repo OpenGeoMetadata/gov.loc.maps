@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by text: Sixth annual report of the trustees of the New-England Institution for the Education of the Blind, to the Corporation : January 8, 1838. 22 p. ; 23 cm.",
+    "Acquisitions control no. 99-20",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: New England Institution for the Education of the Blind",
+    "Publication statement: [Boston] : New-England Institution for the Education of the Blind, 1838",
+    "Tactile map for the blind.",
+    "Tactile map for the blind. Accompanied by text: Sixth annual report of the trustees of the New-England Institution for the Education of the Blind, to the Corporation : January 8, 1838. 22 p. ; 23 cm. Available also through the Library of Congress Web site as a raster image. Vault Acquisitions control no. 99-20",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3762n.ct004080",
+    "http://lccn.loc.gov/99440241",
+    "http://www.loc.gov/item/99440241/",
+    "http://www.loc.gov/resource/g3762n.ct004080/",
+    "https://hdl.loc.gov/loc.gmd/g3762n.ct004080",
+    "https://search.catalog.loc.gov/instances/535ae33e-551c-5079-9651-b7b5640e5bb6",
+    "https://www.loc.gov/item/99440241/"
+  ],
+  "dct_issued_s": "1838",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3762/g3762n/ct004080.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99440241/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "nantucket island",
+    "nantucket island region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Nantucket Island Region (Mass.)--Maps for the blind",
+    "United States--Massachusetts--Nantucket Island"
+  ],
+  "dct_temporal_sm": [
+    "1838"
+  ],
+  "dct_title_s": "[Embossed map of Nantucket Island and vicinity]",
+  "gbl_dateRange_drsim": [
+    "[1838 TO 1838]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1838
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99440241",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

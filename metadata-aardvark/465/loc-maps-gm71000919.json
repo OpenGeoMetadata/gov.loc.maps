@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 53.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Drawing of a fortification on the road to Roxbury near Boston Neck, with list of proposed guns.",
+    "LC Maps of North America, 1750-1789, 939",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. \"No. 53.\" On verso, partly illegible and in a different hand: Boston ... part of the ... project for the war ... Drawing of a fortification on the road to Roxbury near Boston Neck, with list of proposed guns. Scale not given. LC Maps of North America, 1750-1789, 939 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "On verso, partly illegible and in a different hand: Boston ... part of the ... project for the war ...",
+    "Publication statement: [1778?]",
+    "Scale not given.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.ar093900",
+    "http://lccn.loc.gov/gm71000919",
+    "http://www.loc.gov/item/gm71000919/",
+    "http://www.loc.gov/resource/g3764b.ar093900/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ar093900",
+    "https://search.catalog.loc.gov/instances/7474ead7-0082-5015-8574-155a86e08945",
+    "https://www.loc.gov/item/gm71000919/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/ar093900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000919/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston (Mass.)--Buildings, structures, etc.--Maps, Manuscript--Early works to 1800",
+    "Fortification--Massachusetts--Boston--Maps, Manuscript--Early works to 1800",
+    "United States--Massachusetts--Boston"
+  ],
+  "dct_temporal_sm": [
+    "1778",
+    "[1778?]"
+  ],
+  "dct_title_s": "A Temporary project for a star redout [sic] to contain 150 men",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000919",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1993--342-398/60076. Reprint 1993.\"",
+    "\"*GPO: 1993--342-398/60076. Reprint 1993.\" Panel title. Includes text, location map, and col. ill. Text titled \"Philadelphia and the new nation\" and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, location map, and col. ill.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1993]",
+    "Text titled \"Philadelphia and the new nation\" and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824p.ct008364",
+    "http://lccn.loc.gov/93685204",
+    "http://www.loc.gov/item/93685204/",
+    "http://www.loc.gov/resource/g3824p.ct008364/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.ct008364",
+    "https://search.catalog.loc.gov/instances/26b61dc1-8ccf-520e-abc5-145503adfc3c",
+    "https://www.loc.gov/item/93685204/"
+  ],
+  "dct_issued_s": "1993",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ct008364.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93685204/\"}",
+  "dct_spatial_sm": [
+    "independence national historical park",
+    "pennsylvania",
+    "philadelphia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Independence National Historical Park (Philadelphia, Pa.)--Maps",
+    "United States--Pennsylvania--Philadelphia--Independence National Historical Park"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "dct_title_s": "Independence National Historical Park, Philadelphia",
+  "gbl_dateRange_drsim": [
+    "[1993 TO 1993]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1993
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93685204",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

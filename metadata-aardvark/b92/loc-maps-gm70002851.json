@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bouffard, L.",
+    "Hand colored showing \"Voies de communication\" in 5 colors.",
+    "LC Railroad maps, 4",
+    "Publication statement: [Paris] Lith. de Benard, 1836.",
+    "Relief shown by hachures.",
+    "Scale ca. 1:8,000,000.",
+    "Shows existing and projected railroads.",
+    "Sketch map of the eastern half of the United States showing major mountain ridges by hachures. Indicates canals, railroads and the \"Route Nationale\" between Cumberland, Md., and Vandalia, Ill. Shows projected railroads between Cumberland and Vandalia, between New Orleans and Nashville, and between Cincinnati and Columbia, S.C. \"Voies de communication\" are indicated in five colors. [From published bibliography]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr000040",
+    "http://lccn.loc.gov/gm70002851",
+    "http://www.loc.gov/item/gm70002851/",
+    "http://www.loc.gov/resource/g3701p.rr000040/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr000040",
+    "https://search.catalog.loc.gov/instances/cc231c3f-a631-573e-b000-331e350c3a0a",
+    "https://www.loc.gov/item/gm70002851/"
+  ],
+  "dct_issued_s": "1836",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr000040.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70002851/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "United States",
+    "United States--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1836"
+  ],
+  "dct_title_s": "Carte des États-unis d'Amérique",
+  "gbl_dateRange_drsim": [
+    "[1836 TO 1836]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1836
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70002851",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

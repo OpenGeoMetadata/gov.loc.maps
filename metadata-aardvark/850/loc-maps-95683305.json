@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"30084-D3-ST-500.\"",
+    "\"Compiled in 1989 from USGS 1:100,000-scale topographic maps dated 1978-1986. Planimetry revised from aerial photographs taken 1983-86 and other source data.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Publication statement: Reston, Va. : The Survey, 1991.",
+    "Relief shown by contours and spot heights. Depths shown by contours and gradient tints.",
+    "Relief shown by contours and spot heights. Depths shown by contours and gradient tints. Segments of map separately titled: Florida, north section -- Florida, south section. \"Compiled in 1989 from USGS 1:100,000-scale topographic maps dated 1978-1986. Planimetry revised from aerial photographs taken 1983-86 and other source data.\" UTM grid. \"30084-D3-ST-500.\" Available also through the Library of Congress Web site as a raster image.",
+    "Segments of map separately titled: Florida, north section -- Florida, south section.",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95683305",
+    "http://www.loc.gov/item/95683305/",
+    "http://www.loc.gov/resource/g3930.ct010188/",
+    "https://hdl.loc.gov/loc.gmd/g3930.ct010188",
+    "https://search.catalog.loc.gov/instances/1b377fd9-63da-5a7c-ad21-4d2f3e24aefe",
+    "https://www.loc.gov/item/95683305/"
+  ],
+  "dct_issued_s": "1989",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3930/g3930/ct010188.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95683305/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Florida--Maps",
+    "United States--Florida"
+  ],
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "dct_title_s": "State of Florida",
+  "gbl_dateRange_drsim": [
+    "[1989 TO 1989]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1989
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95683305",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

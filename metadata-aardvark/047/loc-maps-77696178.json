@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 651/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing bound lengths, acreages, lot no., and owners' names.",
+    "Cadastral map showing bound lengths, acreages, lot no., and owners' names. Scale ca. 1:7,300 (not \"6 chs. or 396 ft. to 1 in.\") Available also through the Library of Congress Web site as a raster image. AACR2: 650/1; 651/2",
+    "Contributors: Rehrer, E. G.",
+    "Publication statement: Philadelphia, T. E. Zell, 1884.",
+    "Scale ca. 1:7,300 (not \"6 chs. or 396 ft. to 1 in.\")"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/77696178",
+    "http://www.loc.gov/item/77696178/",
+    "http://www.loc.gov/resource/g3934z.ct010408/",
+    "https://hdl.loc.gov/loc.gmd/g3934z.ct010408",
+    "https://search.catalog.loc.gov/instances/1a7ed7d9-307a-525f-ae30-388784ac6e9d",
+    "https://www.loc.gov/item/77696178/"
+  ],
+  "dct_issued_s": "1884",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3934/g3934z/ct010408.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77696178/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "united states",
+    "zellwood"
+  ],
+  "dct_subject_sm": [
+    "Real property--Florida--Zellwood--Maps",
+    "United States--Florida--Zellwood",
+    "Zellwood (Fla.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_title_s": "Map of land of T. Ellwood Zell, R. G. Robinson, D. H. Fleming, and others, Zellwood, Orange Co., Fla., comprising parts of secs. 15, 21, & 22 in. T.20.S. in R.27.E.",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77696178",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Hamlin, Homer, 1864-1920",
+    "Includes historical table of date, place name, how it was obtained, number of acres, and number of square miles being annexed between 1781 and 1916.",
+    "Includes historical table of date, place name, how it was obtained, number of acres, and number of square miles being annexed between 1781 and 1916. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Los Angeles] : City Engineer , 1916."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4364l.ct001800",
+    "http://lccn.loc.gov/2006627663",
+    "http://www.loc.gov/item/2006627663/",
+    "http://www.loc.gov/resource/g4364l.ct001800/",
+    "https://hdl.loc.gov/loc.gmd/g4364l.ct001800",
+    "https://search.catalog.loc.gov/instances/19f65827-345e-531b-95d6-4b2bd896bd5d",
+    "https://www.loc.gov/item/2006627663/"
+  ],
+  "dct_issued_s": "1916",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd436/g4364/g4364l/ct001800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006627663/\"}",
+  "dct_spatial_sm": [
+    "california",
+    "los angeles",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Annexation (Municipal government)--California--Los Angeles--Maps",
+    "Los Angeles (Calif.)--Maps",
+    "United States--California--Los Angeles"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "dct_title_s": "Map showing territory annexed to the city of Los Angeles, California",
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1916
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006627663",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

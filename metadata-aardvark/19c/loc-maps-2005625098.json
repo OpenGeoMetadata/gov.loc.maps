@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In pencil on verso: 451.",
+    "LC Civil War maps (2nd ed.), H191",
+    "Pen-and-ink over pencil grid, mounted on cloth.",
+    "Publication statement: [1864]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Title, date, and scale from Stephenson's Civil War maps, 1989. Pen-and-ink over pencil grid, mounted on cloth. In pencil on verso: 451. LC Civil War maps (2nd ed.), H191 Available also through the Library of Congress web site as raster image.",
+    "Title, date, and scale from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3894h.cwh00191",
+    "http://lccn.loc.gov/2005625098",
+    "http://www.loc.gov/item/2005625098/",
+    "http://www.loc.gov/resource/g3894h.cwh00191/",
+    "https://hdl.loc.gov/loc.gmd/g3894h.cwh00191",
+    "https://search.catalog.loc.gov/instances/3159ef92-9ca5-59a2-b4e1-8b075be8a90a",
+    "https://www.loc.gov/item/2005625098/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3894/g3894h/cwh00191.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625098/\"}",
+  "dct_spatial_sm": [
+    "harpers ferry",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Harpers Ferry (W. Va.)--Maps, Manuscript",
+    "United States--West Virginia--Harpers Ferry"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "[Topographic map of the vicinity of Harpers Ferry, West Virginia]",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625098",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

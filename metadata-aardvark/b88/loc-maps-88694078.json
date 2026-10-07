@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Stone, William James, 1798-1865",
+    "DCP",
+    "Includes indexed table of \"References.\"",
+    "LC copies soiled, halved, and mounted on cloth backing.",
+    "Phillips. Washington 1348",
+    "Publication statement: [Washington? : s.n., 1839?]",
+    "Shows block numbers, wards, and government buildings.",
+    "Shows block numbers, wards, and government buildings. Includes indexed table of \"References.\" Available also through the Library of Congress Web site as a raster image. LC copies soiled, halved, and mounted on cloth backing. Phillips. Washington 1348 2 copies Vault DCP",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004196",
+    "http://hdl.loc.gov/loc.gmd/g3850.ct006192",
+    "http://lccn.loc.gov/88694078",
+    "http://www.loc.gov/item/88694078/",
+    "http://www.loc.gov/resource/g3850.ct004196/",
+    "http://www.loc.gov/resource/g3850.ct006192/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004196",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct006192",
+    "https://search.catalog.loc.gov/instances/0f43da42-2699-51a5-ab07-f0e999ec0bcf",
+    "https://www.loc.gov/item/88694078/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004196.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88694078/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1839",
+    "[Washington? : s.n., 1839?]"
+  ],
+  "dct_title_s": "Map of the city of Washington in the District of Columbia : established as the permanent seat of the government of the United States of America",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88694078",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"For use with AAF Air objective folder Mukden 93.3\"--Lower margin.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service, cartographer",
+    "Dates differ: \"1-46,\" \"October 1945\" -- \"2-46,\" \"December 1945.\"",
+    "Includes sheet coverage diagram, adjoining-sheet diagram, and glossary.",
+    "Publication statement: Washington, D.C. : Army Map Service, U.S. Army, [1946]",
+    "Topographic quadrangle maps of Shenyang.",
+    "Topographic quadrangle maps of Shenyang. Dates differ: \"1-46,\" \"October 1945\" -- \"2-46,\" \"December 1945.\" Includes sheet coverage diagram, adjoining-sheet diagram, and glossary. \"For use with AAF Air objective folder Mukden 93.3\"--Lower margin. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2026355004",
+    "http://www.loc.gov/item/2026355004/",
+    "http://www.loc.gov/resource/gmdsetmaps.2026355004_001/",
+    "http://www.loc.gov/resource/gmdsetmaps.2026355004_002/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2026355004_001",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.2026355004_002",
+    "https://search.catalog.loc.gov/instances/4bc0a30e-7131-4e72-9972-c6b065cfc01f",
+    "https://www.loc.gov/item/2026355004/"
+  ],
+  "dct_issued_s": "1946",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:20:26:35:50:04:_0:01:2026355004_001:2026355004_001-0001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2026355004/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "shenyang",
+    "shenyang (china)"
+  ],
+  "dct_subject_sm": [
+    "China--Shenyang (China)",
+    "Shenyang (China)"
+  ],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "dct_title_s": "Shen-yang (Mukden), Liaoning Province, Manchuria",
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1946]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1946
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2026355004",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

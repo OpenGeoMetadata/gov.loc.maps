@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Sneden, Robert Knox, 1832-1918.",
+    "In the Robert Knox Sneden diary, 1861-1865 (v. 5, p. 339).",
+    "Manuscripts",
+    "NOTE: Researchers will be served a color photocopy of this diary page.",
+    "Portrays 23 numbered forts around the city of Richmond, which includes the following named forts, Johnson, Magruder, and Harrison.",
+    "Publication statement: [1861-1865]",
+    "Robert Knox Sneden scrapbook (Mss5:7 Sn237:1), Virginia Historical Society.",
+    "This item is from the collections of the Virginia Historical Society; please contact the institution for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00052",
+    "http://www.loc.gov/item/001-CABIB20003006/",
+    "http://www.loc.gov/item/gvhs01.vhs00052/",
+    "http://www.loc.gov/resource/gvhs01.vhs00052/",
+    "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00052",
+    "https://www.loc.gov/item/gvhs01.vhs00052/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00052.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gvhs01.vhs00052/\"}",
+  "dct_spatial_sm": [
+    "fort harrison",
+    "fort johnson",
+    "fort magruder",
+    "richmond",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Fort Harrison (Va.)--History--Civil War, 1861-1865-- Maps",
+    "Fort Johnson (Va.)--History--Civil War, 1861-1865--Maps",
+    "Fort Magruder (Va.)--History--Civil War, 1861-1865--Maps",
+    "Fortification--Virginia--Richmond--History--Civil War, 1861-1865--Maps",
+    "Richmond (Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia--Fort Harrison",
+    "United States--Virginia--Fort Johnson",
+    "United States--Virginia--Fort Magruder",
+    "United States--Virginia--Richmond"
+  ],
+  "dct_temporal_sm": [
+    "1861/1865"
+  ],
+  "dct_title_s": "Map of the defences [sic] of Richmond, Va., April 1865.",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gvhs01.vhs00052",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

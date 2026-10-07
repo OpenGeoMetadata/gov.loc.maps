@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Gillespie, D. C.; Rease, W. H.",
+    "County cadastral map showing warranty-deed tracts, tract numbers, tract acreages, initials of warrantees' names, irregular real-property tracts, and owners' names. Does not show townships.",
+    "County cadastral map showing warranty-deed tracts, tract numbers, tract acreages, initials of warrantees' names, irregular real-property tracts, and owners' names. Does not show townships. Hand colored to emphasize county boundary. LC copy imperfect: Use-worn, soiled, torn, taped, missing southeast corner of sheet (including part of cartographic content). Includes inset of eastern extremity and table of \"Explanations\" (key to abbreviations of warrantees' names). LC Land ownership maps, 757 Available also through the Library of Congress Web site as a raster image.",
+    "Hand colored to emphasize county boundary.",
+    "Includes inset of eastern extremity and table of \"Explanations\" (key to abbreviations of warrantees' names).",
+    "LC Land ownership maps, 757",
+    "LC copy imperfect: Use-worn, soiled, torn, taped, missing southeast corner of sheet (including part of cartographic content).",
+    "Publication statement: Brookville, Jefferson Co. : D.C. Gillespie, dealer in real estate, 1857.; Phil. [Philadelphia] : Lith. by W.H. Rease."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823j.la000757",
+    "http://lccn.loc.gov/2012592162",
+    "http://www.loc.gov/item/2012592162/",
+    "http://www.loc.gov/resource/g3823j.la000757/",
+    "https://hdl.loc.gov/loc.gmd/g3823j.la000757",
+    "https://search.catalog.loc.gov/instances/14c5797f-7667-501a-9ff8-b7c8c0213433",
+    "https://www.loc.gov/item/2012592162/"
+  ],
+  "dct_issued_s": "1857",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823j/la000757.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592162/\"}",
+  "dct_spatial_sm": [
+    "jefferson county",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Jefferson County (Pa.)--Maps",
+    "Landowners--Pennsylvania--Jefferson County--Maps",
+    "Real property--Pennsylvania--Jefferson County--Maps",
+    "United States--Pennsylvania--Jefferson County",
+    "Warranty of title--Pennsylvania--Jefferson County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_title_s": "Map of Jefferson Co., Pennsylvania : from county map",
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1857
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592162",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Phin, Thomas, cartographer; Scots Magazine, Limited, publisher",
+    "Copy imperfect: Discoloration and trimmed.",
+    "From the Scots Magazine (September, 1759), volume 20.",
+    "Includes insets: A plan of Quebec, Metropolis of Canada (scale approximately 1:10,000) and [Lake Champlain to Lake George] (scale approximately 1:10,000).",
+    "LC maps and charts of North America and the West Indies, 1750-1789, 237",
+    "Publication statement: [Edinburgh] : [The Scots Magazine], [1759]",
+    "Relief shown by hachures and spot heights. Depths shown by soundings.",
+    "Shows routes of navigation, anchorages, rocks and islands in the river, shoals, bays and inlets, some soundings, place-names, and relief.",
+    "Shows routes of navigation, anchorages, rocks and islands in the river, shoals, bays and inlets, some soundings, place-names, and relief. Relief shown by hachures and spot heights. Depths shown by soundings. From the Scots Magazine (September, 1759), volume 20. Includes insets: A plan of Quebec, Metropolis of Canada (scale approximately 1:10,000) and [Lake Champlain to Lake George] (scale approximately 1:10,000). Copy imperfect: Discoloration and trimmed. LC maps and charts of North America and the West Indies, 1750-1789, 237 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021589271",
+    "http://www.loc.gov/item/2021589271/",
+    "http://www.loc.gov/resource/g3312s.ar023700/",
+    "https://hdl.loc.gov/loc.gmd/g3312s.ar023700",
+    "https://search.catalog.loc.gov/instances/8b9270e1-c37c-5428-a14b-8cf3e200844b",
+    "https://www.loc.gov/item/2021589271/"
+  ],
+  "dct_issued_s": "1759",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3312/g3312s/ar023700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021589271/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "lake",
+    "new york",
+    "new york (state)",
+    "ontario",
+    "ontario, lake",
+    "saint lawrence river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada--Ontario--Ontario, Lake",
+    "Nautical charts--Saint Lawrence River--Early works to 1800",
+    "Ontario, Lake (N.Y. and Ont.)--Maps--Early works to 1800",
+    "Saint Lawrence River",
+    "Saint Lawrence River--Maps--Early works to 1800",
+    "United States--New York (State)--Ontario, Lake"
+  ],
+  "dct_temporal_sm": [
+    "1759"
+  ],
+  "dct_title_s": "A new chart of the River St. Lawrence from the Island of Anticosti to Quebec and continued from thence to Lake Ontario",
+  "gbl_dateRange_drsim": [
+    "[1759 TO 1759]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1759
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021589271",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

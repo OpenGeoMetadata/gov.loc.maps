@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate panel title: Richmond",
+    "Richmond",
+    "Title in upper margin: Touring Richmond's battlefields",
+    "Touring Richmond's battlefields"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 2001--472-470/40098.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, maps of \"1862 seven days' battles\" and \"1864 overland campaign,\" map of central Richmond, and col. ill.",
+    "Panel title.",
+    "Panel title. \"*GPO: 2001--472-470/40098.\" Includes text, maps of \"1862 seven days' battles\" and \"1864 overland campaign,\" map of central Richmond, and col. ill. Text and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Washington, D.C.] : The Service, [2001]",
+    "Text and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882r.ct009182",
+    "http://lccn.loc.gov/2002623140",
+    "http://www.loc.gov/item/2002623140/",
+    "http://www.loc.gov/resource/g3882r.ct009182/",
+    "https://hdl.loc.gov/loc.gmd/g3882r.ct009182",
+    "https://search.catalog.loc.gov/instances/a37527af-b057-502b-9d59-1e980e3b7a9d",
+    "https://www.loc.gov/item/2002623140/"
+  ],
+  "dct_issued_s": "2001",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882r/ct009182.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002623140/\"}",
+  "dct_spatial_sm": [
+    "richmond national battlefield park",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Overland Campaign, Va., 1864",
+    "Richmond National Battlefield Park (Va.)--Maps",
+    "United States--Virginia--Richmond National Battlefield Park"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "dct_title_s": "Richmond National Battlefield Park, Virginia",
+  "gbl_dateRange_drsim": [
+    "[2001 TO 2001]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002623140",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

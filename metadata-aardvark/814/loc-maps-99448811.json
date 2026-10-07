@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: L. Prang & Co",
+    "Description derived from published bibliography.",
+    "Indicates ships in Beaufort Harbor and a few of the line coastal forts. \"The naval force in the great expedition\" appears above the map, followed by the names of commanding officers. Below the neat line at the bottom of the map appear the names of the ships, the captains, and the number of guns aboard each ship.",
+    "Indicates ships in Beaufort Harbor and a few of the line coastal forts. \"The naval force in the great expedition\" appears above the map, followed by the names of commanding officers. Below the neat line at the bottom of the map appear the names of the ships, the captains, and the number of guns aboard each ship. Description derived from published bibliography. Scale not given. LC Civil War Maps (2nd ed.), 368a Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 368a",
+    "Publication statement: Boston, [1861?]",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3912c.cw0368a00",
+    "http://lccn.loc.gov/99448811",
+    "http://www.loc.gov/item/99448811/",
+    "http://www.loc.gov/resource/g3912c.cw0368a00/",
+    "https://hdl.loc.gov/loc.gmd/g3912c.cw0368a00",
+    "https://search.catalog.loc.gov/instances/e9e61c0f-ddd4-5644-81e7-46fafc2776b4",
+    "https://www.loc.gov/item/99448811/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3912/g3912c/cw0368a00.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448811/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Georgia--Maps",
+    "Coasts--South Carolina--Maps",
+    "United States--Georgia",
+    "United States--South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1861",
+    "Boston, [1861?]"
+  ],
+  "dct_title_s": "Beaufort Harbor and coast line between Charleston, S.C. and Savanna [sic] Ga., with 5 mile distance lines in circles round Beaufort, and R.R. connections, roads, &c, &c",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448811",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

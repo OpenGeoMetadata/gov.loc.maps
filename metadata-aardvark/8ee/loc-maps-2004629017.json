@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"To be sold at auction by Anthony J. Bleecker, on Friday 25th, June 1847, at 1 o'clock P.M. on the premises\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Miller & Co",
+    "Includes index.",
+    "Publication statement: [New York] : Miller's Lith., 1847.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Includes index. \"To be sold at auction by Anthony J. Bleecker, on Friday 25th, June 1847, at 1 o'clock P.M. on the premises\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814b.ct001113",
+    "http://lccn.loc.gov/2004629017",
+    "http://www.loc.gov/item/2004629017/",
+    "http://www.loc.gov/resource/g3814b.ct001113/",
+    "https://hdl.loc.gov/loc.gmd/g3814b.ct001113",
+    "https://search.catalog.loc.gov/instances/ff9ae9da-e6f3-5b44-b127-8ac2d2fd5c38",
+    "https://www.loc.gov/item/2004629017/"
+  ],
+  "dct_issued_s": "1847",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814b/ct001113.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004629017/\"}",
+  "dct_spatial_sm": [
+    "bonaparte park",
+    "bonaparte park (bordentown)",
+    "bordentown",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Bonaparte Park (Bordentown, N.J.)--Maps",
+    "Bordentown (N.J.)--Maps",
+    "United States--New Jersey--Bonaparte Park (Bordentown)",
+    "United States--New Jersey--Bordentown"
+  ],
+  "dct_temporal_sm": [
+    "1847"
+  ],
+  "dct_title_s": "Map of the residence & park grounds, near Bordentown, New Jersey : of the late Joseph Napoleon Bonaparte, ex-king of Spain",
+  "gbl_dateRange_drsim": [
+    "[1847 TO 1847]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1847
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004629017",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

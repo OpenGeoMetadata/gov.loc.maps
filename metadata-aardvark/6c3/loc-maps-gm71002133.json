@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"77258.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes location map, comparative area map, and maps of \"Population and tribal groups,\" \"Vegetation,\" and \"Economic activity.\"",
+    "Publication statement: [Washington, 1970]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. \"77258.\" Includes location map, comparative area map, and maps of \"Population and tribal groups,\" \"Vegetation,\" and \"Economic activity.\" Scale 1:1,500,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale 1:1,500,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8750.ct002914",
+    "http://lccn.loc.gov/gm71002133",
+    "http://www.loc.gov/item/gm71002133/",
+    "http://www.loc.gov/resource/g8750.ct002914/",
+    "https://hdl.loc.gov/loc.gmd/g8750.ct002914",
+    "https://search.catalog.loc.gov/instances/ec7c21aa-d8d1-5bf4-85cc-3a541b779390",
+    "https://www.loc.gov/item/gm71002133/"
+  ],
+  "dct_issued_s": "1970",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8750/g8750/ct002914.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002133/\"}",
+  "dct_spatial_sm": [
+    "benin"
+  ],
+  "dct_subject_sm": [
+    "Benin",
+    "Benin--Economic conditions--1960---Maps",
+    "Benin--Maps",
+    "Benin--Population--Maps",
+    "Phytogeography--Benin--Maps",
+    "Tribes--Benin--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "dct_title_s": "Dahomey. 5-70",
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1970]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1970
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002133",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

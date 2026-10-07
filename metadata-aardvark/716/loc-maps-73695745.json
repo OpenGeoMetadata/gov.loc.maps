@@ -1,0 +1,77 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Aitken, Robert, 1735-1802; Turner, James, -1759",
+    "Includes \"View of Boston,\" inset of Halifax Harbor, and insets, with indexes, of Halifax, Quebec, and \"City & port of Louisbourg.\"",
+    "Inscribed to \"His Majesty's Province of Nova Scotia ... \"",
+    "LC Maps of North America, 1750-1789, 77",
+    "LC copy has map margin edged with protective cloth.",
+    "Publication statement: Philadelphia; Printed and sold by R. Aitken [1776]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Shows the Maritime Provinces, Newfoundland, and the St. Laurence River Valley between 1755 and 1757. Inscribed to \"His Majesty's Province of Nova Scotia ... \" Includes \"View of Boston,\" inset of Halifax Harbor, and insets, with indexes, of Halifax, Quebec, and \"City & port of Louisbourg.\" Scale ca. 1:3,750,000. LC Maps of North America, 1750-1789, 77 Available also through the Library of Congress Web site as a raster image. LC copy has map margin edged with protective cloth. Vault AACR2",
+    "Scale ca. 1:3,750,000.",
+    "Shows the Maritime Provinces, Newfoundland, and the St. Laurence River Valley between 1755 and 1757.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3400.ar007700",
+    "http://lccn.loc.gov/73695745",
+    "http://www.loc.gov/item/73695745/",
+    "http://www.loc.gov/resource/g3400.ar007700/",
+    "https://hdl.loc.gov/loc.gmd/g3400.ar007700",
+    "https://search.catalog.loc.gov/instances/e64dc871-2ad2-54eb-b43d-ce951eca5739",
+    "https://www.loc.gov/item/73695745/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3400/g3400/ar007700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73695745/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "halifax",
+    "louisbourg",
+    "maritime provinces",
+    "nova scotia",
+    "québec"
+  ],
+  "dct_subject_sm": [
+    "Canada",
+    "Canada--Maps--Early works to 1800",
+    "Canada--Maritime Provinces",
+    "Canada--Nova Scotia",
+    "Canada--Nova Scotia--Halifax",
+    "Canada--Nova Scotia--Louisbourg",
+    "Canada--Québec--Québec",
+    "Halifax (N.S.)--Maps--Early works to 1800",
+    "Harbors--Nova Scotia--Louisbourg--Maps--Early works to 1800",
+    "Maritime Provinces--Maps--Early works to 1800",
+    "Nova Scotia--Maps--Early works to 1800",
+    "Québec (Québec)--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "This map of the province of Nova-Scotia and parts adjacent",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73695745",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824",
+    "LC Maps of North America, 1750-1789, 856",
+    "LC copy imperfect: Deterioration along folds.",
+    "Publication statement: London] I. F. W. Des Barres, 1776.",
+    "Relief shown by hachures and shading. Soundings shown in feet.",
+    "Relief shown by hachures and shading. Soundings shown in feet. LC copy imperfect: Deterioration along folds. Scale ca. 1:48,000. LC Maps of North America, 1750-1789, 856 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:48,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3732c.ar085600",
+    "http://lccn.loc.gov/75693431",
+    "http://www.loc.gov/item/75693431/",
+    "http://www.loc.gov/resource/g3732c.ar085600/",
+    "https://hdl.loc.gov/loc.gmd/g3732c.ar085600",
+    "https://search.catalog.loc.gov/instances/2457d930-4c3e-5eb7-9203-0eb20a6a73e5",
+    "https://www.loc.gov/item/75693431/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3732/g3732c/ar085600.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693431/\"}",
+  "dct_spatial_sm": [
+    "atlantic coast",
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlantic Coast (Me.)--Maps--Early works to 1800",
+    "Coasts--Maine--Maps--Early works to 1800",
+    "Nautical charts--Maine--Early works to 1800",
+    "United States--Maine--Atlantic Coast"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "[Coast of Maine from Salter Island to Portland Head",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693431",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

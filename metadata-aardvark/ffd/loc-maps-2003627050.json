@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co; Südwestlichen Einwanderungs-Gesellschaft",
+    "Publication statement: [S.l.], 1881."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4030.ct000563",
+    "http://lccn.loc.gov/2003627050",
+    "http://www.loc.gov/item/2003627050/",
+    "http://www.loc.gov/resource/g4030.ct000563/",
+    "https://hdl.loc.gov/loc.gmd/g4030.ct000563",
+    "https://search.catalog.loc.gov/instances/5a2301b5-805d-51ce-bcc3-339cdb550545",
+    "https://www.loc.gov/item/2003627050/"
+  ],
+  "dct_issued_s": "1881",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4030/g4030/ct000563.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003627050/\"}",
+  "dct_spatial_sm": [
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Texas--Maps",
+    "United States--Texas"
+  ],
+  "dct_temporal_sm": [
+    "1881"
+  ],
+  "dct_title_s": "Neue Karte de Staates Texas für 1881",
+  "gbl_dateRange_drsim": [
+    "[1881 TO 1881]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1881
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003627050",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

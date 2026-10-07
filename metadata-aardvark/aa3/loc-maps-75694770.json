@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Includes illus., index to points of interest, and text. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 561 Available also through the Library of Congress Web site as a raster image. AACR2 Copyright not renewed, 01-14-1998.",
+    "Contributors: Cinquin, Rene; Metropolitan Aero-View Co",
+    "Copyright not renewed, 01-14-1998.",
+    "Includes illus., index to points of interest, and text.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 561",
+    "Perspective map not drawn to scale.",
+    "Publication statement: New York, Metropolitan Aero-View Co., c1925."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804f.pm005610",
+    "http://lccn.loc.gov/75694770",
+    "http://www.loc.gov/item/75694770/",
+    "http://www.loc.gov/resource/g3804f.pm005610/",
+    "https://hdl.loc.gov/loc.gmd/g3804f.pm005610",
+    "https://search.catalog.loc.gov/instances/88e8d148-fdf8-5ec5-afc8-046ef4170ea1",
+    "https://www.loc.gov/item/75694770/"
+  ],
+  "dct_issued_s": "1925",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804f/pm005610.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694770/\"}",
+  "dct_spatial_sm": [
+    "farmingdale",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Farmingdale (N.Y.)--Maps",
+    "United States--New York (State)--Farmingdale"
+  ],
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "dct_title_s": "Aero-view of Farmingdale, Nassau County, Long Island, N.Y. 1925",
+  "gbl_dateRange_drsim": [
+    "[1925 TO 1925]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1925
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694770",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Area shown colored yellow. Present saloons shown colored red.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Canal Zone Library map checklist number: 234.",
+    "Contributors: Isthmian Canal Commission (U.S.). Office of Chief Engineer",
+    "Imperfect: Not colored and small sections missing.",
+    "Indexed for saloons.",
+    "Pen-and-ink.",
+    "Transferred from the collection of the Canal Zone Library-Museum, 1979.",
+    "Transferred from the collection of the Canal Zone Library-Museum, 1979. Pen-and-ink. \"Area shown colored yellow. Present saloons shown colored red.\" Indexed for saloons. Canal Zone Library map checklist number: 234. Available also through the Library of Congress Web site as a raster image. Imperfect: Not colored and small sections missing. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/82690128",
+    "http://www.loc.gov/item/82690128/",
+    "http://www.loc.gov/resource/g4874g.pcc00017/",
+    "https://hdl.loc.gov/loc.gmd/g4874g.pcc00017",
+    "https://search.catalog.loc.gov/instances/e0b3233d-0a62-54c3-8d53-f761e9cea469",
+    "https://www.loc.gov/item/82690128/"
+  ],
+  "dct_issued_s": "1908",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4874:g4874g:pcc00017/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/82690128/\"}",
+  "dct_spatial_sm": [
+    "gorgona",
+    "panama"
+  ],
+  "dct_subject_sm": [
+    "Bars (Drinking establishments)--Panama--Gorgona--Maps",
+    "Gorgona (Panama)--Maps, Manuscript",
+    "Manuscript maps",
+    "Panama--Gorgona"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "dct_title_s": "Map of Gorgona showing area in which the commission has authorized the licensing of saloons : scale 1:2000, December 1980",
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1908]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1908
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82690128",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

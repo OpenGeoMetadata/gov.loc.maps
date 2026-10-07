@@ -1,0 +1,69 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ellicott, Andrew, 1754-1820; Tardieu, P. F. (Pierre François), 1757-1822; Warden, David Bailie, 1772-1845",
+    "DCP",
+    "In upper margin at right: Tome 5, Page 1re.",
+    "LC copy taped to mat frame.",
+    "On verso of cardboard mat frame: \"Territoire de Columbia,\" published by Warden in Paris, 1820. Edward Stead, 1941.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Paris : Warden, 1820]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. On verso of cardboard mat frame: \"Territoire de Columbia,\" published by Warden in Paris, 1820. Edward Stead, 1941. In upper margin at right: Tome 5, Page 1re. Oriented with north toward the upper left. Available also through the Library of Congress Web site as a raster image. LC copy taped to mat frame. DCP Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004203",
+    "http://lccn.loc.gov/91686258",
+    "http://www.loc.gov/item/91686258/",
+    "http://www.loc.gov/resource/g3850.ct004203/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004203",
+    "https://search.catalog.loc.gov/instances/8b0f37e2-fc17-55ec-a0d3-a891787a6e62",
+    "https://www.loc.gov/item/91686258/"
+  ],
+  "dct_issued_s": "1815",
+  "dct_language_sm": [
+    "eng",
+    "fre",
+    "freeng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004203.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91686258/\"}",
+  "dct_spatial_sm": [
+    "arlington county",
+    "district of columbia",
+    "united states",
+    "virginia",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Arlington County (Va.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--Virginia--Arlington County",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1815"
+  ],
+  "dct_title_s": "Territoire de Columbia",
+  "gbl_dateRange_drsim": [
+    "[1815 TO 1815]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1815
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91686258",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

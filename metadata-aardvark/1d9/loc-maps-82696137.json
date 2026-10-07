@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-16925.\"",
+    "\"Compiled in 1973 from 1:24 000-scale maps.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); United States. Soil Conservation Service",
+    "Includes notes.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1981.",
+    "Title in right lower margin: Jefferson Co., Pa. : N4054-W7842.5/29 X 30.5.",
+    "Title in right lower margin: Jefferson Co., Pa. : N4054-W7842.5/29 X 30.5. \"Compiled in 1973 from 1:24 000-scale maps.\" UTM and Pa. coordinate grids. Includes notes. \"1-16925.\" Available also through the Library of Congress Web site as a raster image.",
+    "UTM and Pa. coordinate grids."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823j.ct008201",
+    "http://lccn.loc.gov/82696137",
+    "http://www.loc.gov/item/82696137/",
+    "http://www.loc.gov/resource/g3823j.ct008201/",
+    "https://hdl.loc.gov/loc.gmd/g3823j.ct008201",
+    "https://search.catalog.loc.gov/instances/b53651a4-e440-5049-a0ec-7b5dbc15c8a5",
+    "https://www.loc.gov/item/82696137/"
+  ],
+  "dct_issued_s": "1973",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823j/ct008201.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82696137/\"}",
+  "dct_spatial_sm": [
+    "jefferson county",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Jefferson County (Pa.)--Maps",
+    "United States--Pennsylvania--Jefferson County"
+  ],
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "dct_title_s": "Jefferson County, Pennsylvania",
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1973]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1973
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82696137",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"August 1977.\"",
+    "\"August 1977.\" \"Interpretations derived from soil map constructed 1971 by Cartographic Division, Soil Conservation Service, USDA of Orange County, Virginia.\" \"Base source: USGS 1:100,000 county base map dated 1975.\" Includes notes and location map. Available also through the Library of Congress Web site as a raster image.",
+    "\"Base source: USGS 1:100,000 county base map dated 1975.\"",
+    "\"Interpretations derived from soil map constructed 1971 by Cartographic Division, Soil Conservation Service, USDA of Orange County, Virginia.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes notes and location map.",
+    "Publication statement: [Lanham, Md.?] : The Service ; [Richmond, Va. : State Conservationist, distributor, 1977]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883o.ct009263",
+    "http://lccn.loc.gov/95686015",
+    "http://www.loc.gov/item/95686015/",
+    "http://www.loc.gov/resource/g3883o.ct009263/",
+    "https://hdl.loc.gov/loc.gmd/g3883o.ct009263",
+    "https://search.catalog.loc.gov/instances/fdde2a46-1f9d-523a-8298-3610d1b1e354",
+    "https://www.loc.gov/item/95686015/"
+  ],
+  "dct_issued_s": "1977",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883o/ct009263.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95686015/\"}",
+  "dct_spatial_sm": [
+    "orange county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Agricultural resources--Virginia--Orange County--Maps",
+    "Land capability for agriculture--Virginia--Orange County--Maps",
+    "Soil productivity--Virginia--Orange County--Maps",
+    "United States--Virginia--Orange County"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "dct_title_s": "Important farmlands, Orange County, Virginia",
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1977]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95686015",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

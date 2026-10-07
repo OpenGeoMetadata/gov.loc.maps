@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by soundings.",
+    "LC Luso-Hispanic World, 532",
+    "Maggs number annotated in pencil in lower right corner: 235.",
+    "Mounted on cloth backing",
+    "Pen-and-ink.",
+    "Publication statement: [1792?]",
+    "Shows Antón Lizardo region.",
+    "Shows Antón Lizardo region. Depths shown by soundings. Watermarks: J. Kool; and, Strasburg fleur-de-lis. Watermark dated as 1792. Pen-and-ink. Mounted on cloth backing Maggs number annotated in pencil in lower right corner: 235. LC Luso-Hispanic World, 532 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermarks: J. Kool; and, Strasburg fleur-de-lis. Watermark dated as 1792."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4414a.lh000532",
+    "http://lccn.loc.gov/90683599",
+    "http://www.loc.gov/item/90683599/",
+    "http://www.loc.gov/resource/g4414a.lh000532/",
+    "https://hdl.loc.gov/loc.gmd/g4414a.lh000532",
+    "https://search.catalog.loc.gov/instances/f29925a6-9838-5dda-b08e-63f77f752711",
+    "https://www.loc.gov/item/90683599/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4414/g4414a/lh000532.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90683599/\"}",
+  "dct_spatial_sm": [
+    "antón lizardo region",
+    "gulf coast",
+    "mexico"
+  ],
+  "dct_subject_sm": [
+    "Antón Lizardo Region (Mexico)--Maps, Manuscript--Early works to 1800",
+    "Coasts--Mexico--Antón Lizardo Region--Maps--Early works to 1800",
+    "Gulf Coast (Mexico)--Maps, Manuscript--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "Mexico--Antón Lizardo Region",
+    "Mexico--Gulf Coast"
+  ],
+  "dct_temporal_sm": [
+    "1792",
+    "[1792?]"
+  ],
+  "dct_title_s": "Descripción de la costa de Pta. de Mocambo hasta el Ro. Salado y de los bajos adjazente a ella con expresion de sus canales y sonda en brasas de dos varas castellanas",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90683599",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

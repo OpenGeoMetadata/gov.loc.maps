@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1000157.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes source materials note.",
+    "Includes source materials note. \"1000157.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: F[or]t Worth, TX : USDA-SCS-National Cartographic Center ; [Syracuse, N.Y. : State Conservationist, distributor], 1988."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3801j.ct006520",
+    "http://lccn.loc.gov/89694260",
+    "http://www.loc.gov/item/89694260/",
+    "http://www.loc.gov/resource/g3801j.ct006520/",
+    "https://hdl.loc.gov/loc.gmd/g3801j.ct006520",
+    "https://search.catalog.loc.gov/instances/ebd9260d-7f38-56c2-ae1d-9ba39869ce09",
+    "https://www.loc.gov/item/89694260/"
+  ],
+  "dct_issued_s": "1988",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3801/g3801j/ct006520.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89694260/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soil conservation districts--New York (State)--Maps",
+    "United States--New York (State)",
+    "United States.--Soil Conservation Service--Maps",
+    "Water districts--New York (State)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "dct_title_s": "Soil Conservation Service organization and county soil and water conservation districts, New York : May 1988",
+  "gbl_dateRange_drsim": [
+    "[1988 TO 1988]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1988
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89694260",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

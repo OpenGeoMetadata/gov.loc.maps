@@ -1,0 +1,108 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nova Persiæ, Armeniæ, Natoliæ, et Arabiæ"
+  ],
+  "dct_description_sm": [
+    "\"Scale approximately 1:8,750,000\"--Note extracted from World Digital Library.",
+    "Content in Latin.",
+    "Contributors: Sanson, Nicolas, 1600-1667 Associated Name.; Wit, Frederik de, 1630-1706 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map : color ; 43 x 54 centimeters.",
+    "Publication statement: Amsterdam : Frederick de Wit, 1666.",
+    "This highly decorative map of the Middle East is by the Dutch engraver, publisher, and map seller Frederick de Wit (1629 or 1630-1706). It was published in Amsterdam in about 1666. The map covers the regions from present-day Turkey and Egypt to Afghanistan and the Arabian Peninsula, the Red Sea, the Nile River, Cyprus, Asia Minor, the Gulf of Aden, Armenia, the Caspian Sea, and the Indian Ocean. Unlike in many antique maps of the area, a great amount of geographic information is shown throughout the Arabian Peninsula, including the locations of cities, towns, rivers, and mountain ranges. The details in this map can be attributed to Nicolas Sanson's map of 1654, called Carte des Trois Arabies, which is widely regarded as one of the largest-scale and most detailed maps of the region of its day. The decorative title cartouche features several exotic figures and animals and a merchant ship with its boat. De Wit was born in Gouda and moved to Amsterdam, where he maintained his shop on the Kalverstraat. His works included sea and world atlases, wall maps, and town books containing plans of Dutch and European cities. Some time after 1674 he acquired the copper plates of town books by Johannes Janssonius and Joan Blaeu. In 1688, he obtained from the States General, the Dutch government of the day, the privilege to publish his maps. De Wit's maps were in demand throughout Europe and were sold until 1763 by the firm of Johannes Covens and Corneille Mortier.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668698",
+    "http://www.loc.gov/item/2021668698/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_17575/",
+    "http://www.loc.gov/resource/wdl.17575/",
+    "https://hdl.loc.gov/loc.wdl/wdl.17575",
+    "https://www.loc.gov/item/2021668698/"
+  ],
+  "dct_issued_s": "1666-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_17575.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/17/57/5/wdl_17575/wdl_17575.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:57:5:wdl_17575:38/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668698/\"}",
+  "dct_spatial_sm": [
+    "afghanistan",
+    "armenia",
+    "azerbaijan",
+    "bahrain",
+    "djibouti",
+    "egypt",
+    "eritrea",
+    "iran, islamic republic of",
+    "iraq",
+    "jordan",
+    "kuwait",
+    "lebanon",
+    "oman",
+    "pakistan",
+    "qatar",
+    "saudi arabia",
+    "sudan",
+    "syrian arab republic",
+    "turkey",
+    "turkmenistan",
+    "united arab emirates",
+    "yemen"
+  ],
+  "dct_subject_sm": [
+    "1654 to 1666",
+    "Afghanistan",
+    "Arabian Gulf",
+    "Arabian Peninsula",
+    "Armenia",
+    "Azerbaijan",
+    "Bahrain",
+    "Caspian Sea",
+    "Djibouti",
+    "Egypt",
+    "Eritrea",
+    "Iran, Islamic Republic of",
+    "Iraq",
+    "Jordan",
+    "Kuwait",
+    "Lebanon",
+    "Oman",
+    "Pakistan",
+    "Persian Gulf",
+    "Qatar",
+    "Red Sea",
+    "Saudi Arabia",
+    "Sudan",
+    "Syrian Arab Republic",
+    "Turkey",
+    "Turkmenistan",
+    "United Arab Emirates",
+    "Yemen"
+  ],
+  "dct_temporal_sm": [
+    "1666-01-01"
+  ],
+  "dct_title_s": "New Persia, Armenia, Anatolia and Arabia.",
+  "gbl_dateRange_drsim": [
+    "[1666 TO 1666]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1666
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668698",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Imujingagu no ryakuzu [furigana, reading given]",
+    "臨津江ノ畧圖 : 臨津江一名長湍川ト云 : 但臨津津坡州管下ヨリ城洞里交河郡管下ニ至ル /"
+  ],
+  "dct_description_sm": [
+    "\"朝紀三十号・第四棚\" --Written in red on verso.",
+    "\"河幅ハ尺度ノ割合ヲ以テセズ・河底測量我国尺ヲ以テ数フ可シ\"--At bottom.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Isobayashi, Shinzō, -1884",
+    "Publication statement: Meiji 15 [1882]",
+    "Relief shown by form lines. Depths shown by soundings.",
+    "Relief shown by form lines. Depths shown by soundings. This map almost identical with LCCN 2010360475, except minor differences and paper quality. Available also through the Library of Congress Web site as a raster image. \"朝紀三十号・第四棚\" --Written in red on verso. \"河幅ハ尺度ノ割合ヲ以テセズ・河底測量我国尺ヲ以テ数フ可シ\"--At bottom.",
+    "This map almost identical with LCCN 2010360475, except minor differences and paper quality."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7902i.ct003514",
+    "http://lccn.loc.gov/2010360471",
+    "http://www.loc.gov/item/2010360471/",
+    "http://www.loc.gov/resource/g7902i.ct003514/",
+    "https://hdl.loc.gov/loc.gmd/g7902i.ct003514",
+    "https://search.catalog.loc.gov/instances/f20217f5-2319-5740-88ea-c710034fa6ae",
+    "https://www.loc.gov/item/2010360471/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7902/g7902i/ct003514.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010360471/\"}",
+  "dct_spatial_sm": [
+    "imjim river region",
+    "imjin river region",
+    "korea"
+  ],
+  "dct_subject_sm": [
+    "Imjin River Region (Korea)--Maps",
+    "Korea--Imjim River Region"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Rinshinkō no ryakuzu : Rinshinkō ichimei Chōtangawa to iu : tadashi Rinshinshin Hishū kanka yori Jōtōri Kōka-gun kanka ni itaru",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010360471",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

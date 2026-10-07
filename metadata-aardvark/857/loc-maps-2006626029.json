@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"S. Doc. no. 470, 25 Con. 2 s.\"",
+    "AACR2",
+    "Another issue does not include the lines denoting coastal and interior waters (G4240 1838 .H6 Vault)",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Abert, John James, 1788-1863; Hood, Washington; Hudson's Bay Company; Stansbury, M. H.; United States. Congress. Senate; United States. Topographical Bureau",
+    "Includes notes.",
+    "LC copy annotated in pencil: scale incorrect.",
+    "Publication statement: [Washington : U.S. Senate], 1838.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. \"S. Doc. no. 470, 25 Con. 2 s.\" Includes notes. LC copy annotated in pencil: scale incorrect. Another issue does not include the lines denoting coastal and interior waters (G4240 1838 .H6 Vault) Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4240.ct001486",
+    "http://lccn.loc.gov/2006626029",
+    "http://www.loc.gov/item/2006626029/",
+    "http://www.loc.gov/resource/g4240.ct001486/",
+    "https://hdl.loc.gov/loc.gmd/g4240.ct001486",
+    "https://search.catalog.loc.gov/instances/f470c636-9a97-59ad-868b-cb08cbf476b3",
+    "https://www.loc.gov/item/2006626029/"
+  ],
+  "dct_issued_s": "1838",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd424/g4240/g4240/ct001486.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006626029/\"}",
+  "dct_spatial_sm": [
+    "northwest, pacific",
+    "pacific",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Northwest, Pacific--Maps",
+    "United States--Northwest, Pacific"
+  ],
+  "dct_temporal_sm": [
+    "1838"
+  ],
+  "dct_title_s": "Map of the United States, Territory of Oregon, west of the Rocky Mountains, exhibiting the various trading depots or forts occupied by the British Hudson Bay Company, connected with the western and northwestern fur trade",
+  "gbl_dateRange_drsim": [
+    "[1838 TO 1838]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1838
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006626029",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

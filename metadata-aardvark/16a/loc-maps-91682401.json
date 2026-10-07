@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Tulsa District",
+    "Depths shown by gradient tints.",
+    "Depths shown by gradient tints. Includes table/index showing lake facilities, location map, and distance list. Ill. of waterway markers, lake and community information, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Ill. of waterway markers, lake and community information, and col. ill. on verso.",
+    "Includes table/index showing lake facilities, location map, and distance list.",
+    "Publication statement: Tulsa, Okla. : The District, [1990?]"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/91682401",
+    "http://www.loc.gov/item/91682401/",
+    "http://www.loc.gov/resource/g4022c.ct011187/",
+    "https://hdl.loc.gov/loc.gmd/g4022c.ct011187",
+    "https://search.catalog.loc.gov/instances/5ca3a956-b665-5855-adca-48500045ff8b",
+    "https://www.loc.gov/item/91682401/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd402/g4022/g4022c/ct011187.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91682401/\"}",
+  "dct_spatial_sm": [
+    "canton lake",
+    "canton lake region",
+    "oklahoma",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canton Lake (Okla.)--Maps",
+    "Canton Lake Region (Okla.)--Maps",
+    "Outdoor recreation--Oklahoma--Canton Lake--Maps",
+    "United States--Oklahoma--Canton Lake"
+  ],
+  "dct_temporal_sm": [
+    "1990",
+    "Tulsa, Okla. : The District, [1990?]"
+  ],
+  "dct_title_s": "Canton Lake",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91682401",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

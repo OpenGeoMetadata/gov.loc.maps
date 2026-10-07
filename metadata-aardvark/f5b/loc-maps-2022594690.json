@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Massachusetts title collection--cities and towns Lud-Lynn 1637 to 1927",
+    "Alternate supplied title: Massachusetts title collection--drawer 110"
+  ],
+  "dct_description_sm": [
+    "Maps in this collection before 1800 are photocopies or facsimiles.",
+    "Publication statement: [Various places] : [various publishers], [1637-1930]",
+    "This record covers single maps of Massachusetts cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show different subjects such as landowners or recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps of Massachusetts cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show different subjects such as landowners or recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. Maps in this collection before 1800 are photocopies or facsimiles.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022594690",
+    "http://www.loc.gov/item/2022594690/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ma-110/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ma-110",
+    "https://search.catalog.loc.gov/instances/8bbba1c2-fa7a-53dc-a85c-5c18e3ab8e00",
+    "https://www.loc.gov/item/2022594690/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ma:-1:10:ma-110:ma-110-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022594690/\"}",
+  "dct_spatial_sm": [
+    "lynn",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cities and towns--Massachusetts--Maps",
+    "Landowners--Massachusetts--Maps",
+    "Lynn (Mass.)--Maps",
+    "United States--Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1637/1930"
+  ],
+  "dct_title_s": "[Maps of Massachusetts--cities and towns Lud-Lynn 1637 to 1927]",
+  "gbl_dateRange_drsim": [
+    "[1637 TO 1930]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1637
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022594690",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

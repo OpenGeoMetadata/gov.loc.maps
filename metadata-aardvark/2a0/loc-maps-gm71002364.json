@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Esnauts et Rapilly",
+    "Hand colored.",
+    "Hand colored. Relief shown by hachures. Situation of the fleets shown pictorially. Scale ca. 1:215,000. LC Maps of North America, 1750-1789, 1462 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1",
+    "LC Maps of North America, 1750-1789, 1462",
+    "Publication statement: Paris, Esnauts et Rapilly [1781?]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:215,000.",
+    "Situation of the fleets shown pictorially.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884y.ar146200",
+    "http://lccn.loc.gov/gm71002364",
+    "http://www.loc.gov/item/gm71002364/",
+    "http://www.loc.gov/resource/g3884y.ar146200/",
+    "https://hdl.loc.gov/loc.gmd/g3884y.ar146200",
+    "https://search.catalog.loc.gov/instances/4bd00e43-4ec7-5b9b-97b3-95b19a04596a",
+    "https://www.loc.gov/item/gm71002364/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884y/ar146200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002364/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "yorktown"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia--Yorktown",
+    "Yorktown (Va.)--History--Siege, 1781--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1781",
+    "Paris, Esnauts et Rapilly [1781?]"
+  ],
+  "dct_title_s": "Carte de la partie de la Virginie ou l'armée combinée de France & des États-Unis de l'Amérique a fait prisonnière l'Armée anglaise commandée par Lord Cornwallis le 19 octobre. 1781, avec le plan de l'attaque d'York-town & de Glocester",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002364",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

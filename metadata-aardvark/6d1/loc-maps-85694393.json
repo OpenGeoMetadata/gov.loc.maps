@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Published June 28th, 1800 by John Wallis at his Map Warehouse, 16 Ludgate Street.\"",
+    "\"Published June 28th, 1800 by John Wallis at his Map Warehouse, 16 Ludgate Street.\" Map consists of 2 hemispheres each 20 cm. in diam. Includes 6 ancillary maps showing circles, parallels, zones, meridians, definitions of land and water, and world. Available also through the Library of Congress Web site as a raster image. LC copy imperfect: One piece missing. Vault Shelf",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Wallis, J. (John), -1818",
+    "Includes 6 ancillary maps showing circles, parallels, zones, meridians, definitions of land and water, and world.",
+    "LC copy imperfect: One piece missing.",
+    "Map consists of 2 hemispheres each 20 cm. in diam.",
+    "Publication statement: London : John Wallis, 1800.",
+    "Vault Shelf"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3201a.ct006144",
+    "http://lccn.loc.gov/85694393",
+    "http://www.loc.gov/item/85694393/",
+    "http://www.loc.gov/resource/g3201a.ct006144/",
+    "https://hdl.loc.gov/loc.gmd/g3201a.ct006144",
+    "https://search.catalog.loc.gov/instances/05c26249-b624-5e69-93f8-887d3b2ca04a",
+    "https://www.loc.gov/item/85694393/"
+  ],
+  "dct_issued_s": "1800",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3201/g3201a/ct006144.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85694393/\"}",
+  "dct_spatial_sm": [
+    "earth (planet)"
+  ],
+  "dct_subject_sm": [
+    "Early maps",
+    "Earth (Planet)",
+    "Jigsaw puzzles--Maps--To 1800",
+    "World maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1800"
+  ],
+  "dct_title_s": "A new map of the world",
+  "gbl_dateRange_drsim": [
+    "[1800 TO 1800]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1800
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85694393",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Base map title: State of West Virginia",
+    "RARE II, final environmental statement, January 1979 :",
+    "RARE II, final environmental statement, January 1979 : West Virginia",
+    "Roadless and undeveloped area evaluation II, RARE II, final environmental statement, January 1979 :",
+    "Roadless and undeveloped area evaluation II, RARE II, final environmental statement, January 1979 : West Virginia",
+    "State of West Virginia"
+  ],
+  "dct_description_sm": [
+    "\"*U.S. Government Printing Office: 1979--650-774.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Base map \"Compiled, edited, and published by the Geological Survey.\"",
+    "Contributors: Geological Survey (U.S.); United States. Forest Service",
+    "In upper and lower right corners: West Virginia.",
+    "Publication statement: [Washington, D.C.? : U.S. Forest Service], 1979.",
+    "Relief shown by spot heights.",
+    "Shows wilderness recommendation areas, nonwilderness areas, and other national forest system lands.",
+    "Shows wilderness recommendation areas, nonwilderness areas, and other national forest system lands. Relief shown by spot heights. In upper and lower right corners: West Virginia. Base map \"Compiled, edited, and published by the Geological Survey.\" \"*U.S. Government Printing Office: 1979--650-774.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2007626186",
+    "http://www.loc.gov/item/2007626186/",
+    "http://www.loc.gov/resource/g3891g.ct009389/",
+    "https://hdl.loc.gov/loc.gmd/g3891g.ct009389",
+    "https://search.catalog.loc.gov/instances/66e89f69-d260-5546-b22d-ea9b5bbe5010",
+    "https://www.loc.gov/item/2007626186/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3891/g3891g/ct009389.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007626186/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Environmental policy--West Virginia--Maps",
+    "Regional planning--West Virginia--Maps",
+    "United States--West Virginia",
+    "Wilderness areas--West Virginia--Planning--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Roadless & undeveloped area evaluation II, RARE II, final environmental statement, January 1979 : West Virginia",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007626186",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

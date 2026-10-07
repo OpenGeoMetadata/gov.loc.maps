@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-12,194.\"",
+    "\"April 1981.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Lanham, MD : USDA-SCS, [1981]",
+    "Shows flood control dams, reservoirs, and benefited areas.",
+    "Shows flood control dams, reservoirs, and benefited areas. \"April 1981.\" Includes location map. \"1-12,194.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3822w.ct008027",
+    "http://lccn.loc.gov/82693291",
+    "http://www.loc.gov/item/82693291/",
+    "http://www.loc.gov/resource/g3822w.ct008027/",
+    "https://hdl.loc.gov/loc.gmd/g3822w.ct008027",
+    "https://search.catalog.loc.gov/instances/f34938a8-c0b1-5f9b-8d24-bcca5ee794ce",
+    "https://www.loc.gov/item/82693291/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3822/g3822w/ct008027.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82693291/\"}",
+  "dct_spatial_sm": [
+    "pennsylvania",
+    "united states",
+    "w.va",
+    "west virginia",
+    "wheeling creek watershed"
+  ],
+  "dct_subject_sm": [
+    "Flood control--Wheeling Creek Watershed (Pa. and W.Va.)--Maps",
+    "United States--Pennsylvania--Wheeling Creek Watershed",
+    "United States--West Virginia--Wheeling Creek Watershed"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Appendix B, project map A, Wheeling Creek Watershed, Pennsylvania and West Virginia",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82693291",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

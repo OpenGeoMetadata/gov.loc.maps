@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Carbery, Lewis; Taggart, Hugh T. (Hugh Thomas), 1844-1914",
+    "Covers Dent Place between 33rd and 34th streets N.W., Georgetown, Washington D.C.",
+    "Covers Dent Place between 33rd and 34th streets N.W., Georgetown, Washington D.C. Pen-and-ink with lead-pencil guidelines. Soiled and stained. Includes note and outline map of street. On verso in ink: Profile of 6th Street between Frederick & Market streets, 1858, Geotown D.C. No. 109, page 4. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 505 Vault DCP",
+    "DCP",
+    "Includes note and outline map of street.",
+    "On verso in ink: Profile of 6th Street between Frederick & Market streets, 1858, Geotown D.C. No. 109, page 4.",
+    "Pen-and-ink with lead-pencil guidelines.",
+    "Phillips. Washington 505",
+    "Publication statement: 1858.",
+    "Soiled and stained.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852d.ct004300",
+    "http://lccn.loc.gov/88693340",
+    "http://www.loc.gov/item/88693340/",
+    "http://www.loc.gov/resource/g3852d.ct004300/",
+    "https://hdl.loc.gov/loc.gmd/g3852d.ct004300",
+    "https://search.catalog.loc.gov/instances/91ecb85a-be9b-59de-8cec-04d20de47e8a",
+    "https://www.loc.gov/item/88693340/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852d/ct004300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693340/\"}",
+  "dct_spatial_sm": [
+    "dent place",
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Dent Place (Washington, D.C.)--Maps, Manuscript",
+    "Manuscript maps",
+    "Streets--Washington (D.C.)--Charts, diagrams, etc",
+    "United States--District of Columbia--Washington--Dent Place"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Profile of 6th Street between Frederick and Market streets",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693340",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

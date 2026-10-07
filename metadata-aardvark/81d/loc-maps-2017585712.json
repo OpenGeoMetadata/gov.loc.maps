@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Title from cartouche: America"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Beneath title: I. Ottens excudit cum privilegie ordinum Hollandiae et Westfrisiae.",
+    "Central map flanked by 10 views of cities and towns on each side, printed on 3 strips of paper. Publisher information on separate sheets, pasted over the original de Wit imprint which was printed on the same strip as the lowest town views. Title also printed separately. 9 leaves of text below central map.",
+    "Contributors: R. & J. Ottens, cartographer; Wit, Frederik de, publisher",
+    "French. Dutch and Spanish publisher information. Latin text.",
+    "Includes map of Northern Hemisphere, longitude diagram, and illustrations.",
+    "Publication statement: Gedrukt tot Amsterdam : By R. & J. Ottens, op den Nieuwen Dyk in de werelt kaart, [1730?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Central map flanked by 10 views of cities and towns on each side, printed on 3 strips of paper. Publisher information on separate sheets, pasted over the original de Wit imprint which was printed on the same strip as the lowest town views. Title also printed separately. 9 leaves of text below central map. Beneath title: I. Ottens excudit cum privilegie ordinum Hollandiae et Westfrisiae. Text \"Nova Americae descriptio\" published by Frederik de Wit. The text and the views both appear in his original edition of the map, published around 1700. Includes map of Northern Hemisphere, longitude diagram, and illustrations. Shows California as an island. Views in left margin: Mexico -- Mauritiopolis [view] -- Mauritiopolis [map] -- Nieuw Amsterdam -- Nombre D Dios -- La Vera Crvs -- Trugillo -- Hauana Portus -- Cartagena -- Callao de Lima. Views in right margin: San Salvador -- Bvones Aires -- Capvt S. Avgustini -- Boa Vista -- Panama - S. Marta -- Campetie -- S. Domingo -- Porto Rico -- Portu Acapvulco. Available also through the Library of Congress Web site as a raster image. French. Dutch and Spanish publisher information. Latin text.",
+    "Shows California as an island.",
+    "Text \"Nova Americae descriptio\" published by Frederik de Wit. The text and the views both appear in his original edition of the map, published around 1700.",
+    "Views in left margin: Mexico -- Mauritiopolis [view] -- Mauritiopolis [map] -- Nieuw Amsterdam -- Nombre D Dios -- La Vera Crvs -- Trugillo -- Hauana Portus -- Cartagena -- Callao de Lima.",
+    "Views in right margin: San Salvador -- Bvones Aires -- Capvt S. Avgustini -- Boa Vista -- Panama - S. Marta -- Campetie -- S. Domingo -- Porto Rico -- Portu Acapvulco."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2017585712",
+    "http://www.loc.gov/item/2017585712/",
+    "http://www.loc.gov/resource/g3290.ct012046/",
+    "https://hdl.loc.gov/loc.gmd/g3290.ct012046",
+    "https://search.catalog.loc.gov/instances/0b464d0a-e6cb-51bd-aeda-bf8211ccbde4",
+    "https://www.loc.gov/item/2017585712/"
+  ],
+  "dct_language_sm": [
+    "dut",
+    "fre",
+    "lat",
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3290:g3290:ct012046/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2017585712/\"}",
+  "dct_spatial_sm": [
+    "america"
+  ],
+  "dct_subject_sm": [
+    "America",
+    "America--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1730",
+    "Gedrukt tot Amsterdam : By R. & J. Ottens, op den Nieuwen Dyk in de werelt kaart, [1730?]"
+  ],
+  "dct_title_s": "L'Amerique dressé sur les observations",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2017585712",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

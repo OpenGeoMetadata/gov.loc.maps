@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Accompanied by map index. 1 sheet ; 28 x 51 cm.",
+    "Accompanied by map index. 1 sheet ; 28 x 51 cm. Some maps include insets. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.); United States. Soil Conservation Service",
+    "Publication statement: Fort Worth, tex. : USDA-SCS, 1984.",
+    "Some maps include insets."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/87692172",
+    "http://www.loc.gov/item/87692172/",
+    "http://www.loc.gov/resource/gmdsetmaps.87692172/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.87692172",
+    "https://search.catalog.loc.gov/instances/b6048032-1075-5d33-beca-f46b06d3f248",
+    "https://www.loc.gov/item/87692172/"
+  ],
+  "dct_issued_s": "1974",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:87:69:21:72:87692172:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/87692172/\"}",
+  "dct_spatial_sm": [
+    "edgecombe county",
+    "edgecombe county (n.c.)",
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Agricultural resources--North Carolina--Edgecombe County--Maps",
+    "Land capability for agriculture--North Carolina--Edgecombe County--Maps",
+    "Soil productivity--North Carolina--Edgecombe County--Maps",
+    "United States--North Carolina--Edgecombe County (N.C.)"
+  ],
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "dct_title_s": "Prime and important farmland, Edgecombe County, North Carolina",
+  "gbl_dateRange_drsim": [
+    "[1974 TO 1974]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1974
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87692172",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

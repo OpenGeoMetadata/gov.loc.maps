@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"IX.\"",
+    "\"Published by command of the Right Honourable the Lords of Trade & Plantations, for the benefit of the trade and navigation of Great Britain and its colonies.\"",
+    "AACR2: 650/1; 650/2; 700/1; 700/2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771; Morris, Charles (Surveyor); Sayer, Robert, 1725-1794",
+    "Depths shown by soundings.",
+    "Includes inscription to \"George Dunk, Earl of Halifax\" and navigational text.",
+    "Oriented with north to the right.",
+    "Oriented with north to the right. Depths shown by soundings. \"Published by command of the Right Honourable the Lords of Trade & Plantations, for the benefit of the trade and navigation of Great Britain and its colonies.\" \"IX.\" Includes inscription to \"George Dunk, Earl of Halifax\" and navigational text. Scale ca. 1:62,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650/1; 650/2; 700/1; 700/2",
+    "Publication statement: London, Printed for & sold by Robert Sayer, 1788.",
+    "Scale ca. 1:62,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3424h.ct008157",
+    "http://lccn.loc.gov/73696467",
+    "http://www.loc.gov/item/73696467/",
+    "http://www.loc.gov/resource/g3424h.ct008157/",
+    "https://hdl.loc.gov/loc.gmd/g3424h.ct008157",
+    "https://search.catalog.loc.gov/instances/b1d51c6d-cae6-50c2-82ef-a876abdcddb1",
+    "https://www.loc.gov/item/73696467/"
+  ],
+  "dct_issued_s": "1778",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3424/g3424h/ct008157.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73696467/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "halifax",
+    "nova scotia"
+  ],
+  "dct_subject_sm": [
+    "Canada--Nova Scotia--Halifax",
+    "Harbors--Nova Scotia--Halifax--Maps--Early works to 1800",
+    "Nautical charts--Nova Scotia--Halifax--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "dct_title_s": "A chart of the harbour of Halifax, in Nova Scotia; with Jebucto Bay and Cape Sambrô, also the islands, ledges of rocks, shoals & soundings",
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1778
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73696467",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,74 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cherry blossoms, Washington DC"
+  ],
+  "dct_description_sm": [
+    "\"*GPO: 1976--211-308/47. Reprint 1976.\"",
+    "Also covers western part of Washington central business district.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "DCP",
+    "Imperfect: use-worn.",
+    "In lower right corner of map area: August 1969.",
+    "Includes text.",
+    "Publication statement: [Washington] : The Service, [1976]",
+    "Shows locations of the Japanese cherry tree plantings in the Tidal Basin vicinity, Washington D.C.",
+    "Shows locations of the Japanese cherry tree plantings in the Tidal Basin vicinity, Washington D.C. \"*GPO: 1976--211-308/47. Reprint 1976.\" Also covers western part of Washington central business district. In lower right corner of map area: August 1969. Imperfect: use-worn. Includes text. Text, inscription in Japanese, and col. ill. on verso. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Text, inscription in Japanese, and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852t.ct005318",
+    "http://lccn.loc.gov/2002620455",
+    "http://www.loc.gov/item/2002620455/",
+    "http://www.loc.gov/resource/g3852t.ct005318/",
+    "https://hdl.loc.gov/loc.gmd/g3852t.ct005318",
+    "https://search.catalog.loc.gov/instances/ac64c86b-ef0b-581d-bb98-a5cc68d3a6a3",
+    "https://www.loc.gov/item/2002620455/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "eng",
+    "engjpn",
+    "jpn"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct005318.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002620455/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "tidal basin",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Central business districts--Washington (D.C.)--Maps",
+    "Japanese flowering cherry--Washington (D.C.)--Maps",
+    "Tidal Basin (Washington, D.C.)--Maps",
+    "Trees--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Tidal Basin"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "Washington, the cherry blossoms, Washington DC",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002620455",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

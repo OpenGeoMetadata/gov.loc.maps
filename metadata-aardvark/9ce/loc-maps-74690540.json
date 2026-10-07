@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"T. XVI. B.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "From Allgemeine Historie der Reisen zu Wasser und Lande. 1758.",
+    "Indexed.",
+    "LC Maps of North America, 1750-1789, 884",
+    "Plate \"No. 18.\"",
+    "Publication statement: [Leipzig, Arkstee & Merkus, 1758]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Plate \"No. 18.\" \"T. XVI. B.\" From Allgemeine Historie der Reisen zu Wasser und Lande. 1758. Indexed. Scale ca. 1:45,000. LC Maps of North America, 1750-1789, 884 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Scale ca. 1:45,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.ar088400",
+    "http://lccn.loc.gov/74690540",
+    "http://www.loc.gov/item/74690540/",
+    "http://www.loc.gov/resource/g3764b.ar088400/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.ar088400",
+    "https://search.catalog.loc.gov/instances/d396466d-edeb-5f93-a8c1-a4b1574b0195",
+    "https://www.loc.gov/item/74690540/"
+  ],
+  "dct_issued_s": "1758",
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/ar088400.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74690540/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston (Mass.)--Maps--Early works to 1800",
+    "United States--Massachusetts--Boston"
+  ],
+  "dct_temporal_sm": [
+    "1758"
+  ],
+  "dct_title_s": "Grundriss von der Stadt Boston und ihren Gegenden",
+  "gbl_dateRange_drsim": [
+    "[1758 TO 1758]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1758
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74690540",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

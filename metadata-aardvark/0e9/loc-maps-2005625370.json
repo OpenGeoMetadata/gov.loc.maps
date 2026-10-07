@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Texas & Pacific Railway. Land Department",
+    "LC Land ownership maps, 951",
+    "LC copy 1 annotated in red ink by Elijah Biggerstaff, Denton County surveyor.",
+    "Publication statement: Marshall, Tex. : Land Dept., [187-]",
+    "Shows landownership.",
+    "Shows landownership. LC copy 1 annotated in red ink by Elijah Biggerstaff, Denton County surveyor. LC Land ownership maps, 951 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4033d.la000951",
+    "http://lccn.loc.gov/2005625370",
+    "http://www.loc.gov/item/2005625370/",
+    "http://www.loc.gov/resource/g4033d.la000951/",
+    "https://hdl.loc.gov/loc.gmd/g4033d.la000951",
+    "https://search.catalog.loc.gov/instances/ab1c378b-01ff-5fad-b1fc-8f846c24c434",
+    "https://www.loc.gov/item/2005625370/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033d/la000951.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625370/\"}",
+  "dct_spatial_sm": [
+    "denton county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Denton County (Tex.)--Maps",
+    "Landowners--Texas--Denton County--Maps",
+    "Real property--Texas--Denton County--Maps",
+    "United States--Texas--Denton County"
+  ],
+  "dct_temporal_sm": [
+    "187?"
+  ],
+  "dct_title_s": "Denton County, Texas",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625370",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chapin, W. (William), 1802-1888; Greenleaf, Moses, 1777-1834; Shirley & Hyde",
+    "Hand colored.",
+    "Hand colored. Scale ca. 1:550,000. Available also through the Library of Congress Web site as a raster image. AACR2 Vault",
+    "Publication statement: [New York? Shirley & Hyde, 1820?]",
+    "Scale ca. 1:550,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3731g.ct003933",
+    "http://lccn.loc.gov/gm71002380",
+    "http://www.loc.gov/item/gm71002380/",
+    "http://www.loc.gov/resource/g3731g.ct003933/",
+    "https://hdl.loc.gov/loc.gmd/g3731g.ct003933",
+    "https://search.catalog.loc.gov/instances/68f04965-f667-534f-8607-15564d059498",
+    "https://www.loc.gov/item/gm71002380/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3731/g3731g/ct003933.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002380/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Land grants--Maine--Maps",
+    "Real property--Maine--Maps",
+    "United States--Maine"
+  ],
+  "dct_temporal_sm": [
+    "1820",
+    "[New York? Shirley & Hyde, 1820?]"
+  ],
+  "dct_title_s": "Map exhibiting the principal original grants & sales of lands in the State of Maine",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002380",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

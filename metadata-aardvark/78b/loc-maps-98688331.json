@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Magnus, Charles",
+    "Description derived from published bibliography.",
+    "In lower margin of main map is printed \"Entered, according to act of Congress, in the year 1859....\" At the bottom edge below the inset neat lines is printed \"Entered, according to act of Congress, in the year 1861....\"",
+    "Insets: Military map of Maryland & Virginia. 11 x 19 cm.--Map of northern military movements: between New York & St. Louis. 14 x 24 cm.--[View of the U.S. Capitol] 18 x 19 cm.--[Entrance to Mobile Bay] 18 x 13 cm.--[United States and the Gulf of Mexico]. 18 x 18 cm.",
+    "LC Civil War maps (2nd ed.), 14.33",
+    "LC Railroad maps, 44",
+    "Map of the eastern half of the United States and part of Canada showing drainage, state boundaries, and place names. Shows steamboat routes and railroads in operation, in progress, and projected.",
+    "Publication statement: New York, [1861]",
+    "Scale ca. 1:5,800,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr000440",
+    "http://lccn.loc.gov/98688331",
+    "http://www.loc.gov/item/98688331/",
+    "http://www.loc.gov/resource/g3701p.rr000440/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr000440",
+    "https://search.catalog.loc.gov/instances/9a527e46-543e-5081-9ea2-26a42af64444",
+    "https://www.loc.gov/item/98688331/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr000440.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688331/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Railroads--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Complete map of the rail roads and water courses, in the United States & Canada",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688331",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

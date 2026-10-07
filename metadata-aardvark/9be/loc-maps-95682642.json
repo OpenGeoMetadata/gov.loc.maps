@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"*GPO: 1995--387-038/00098. Reprint 1995.\"",
+    "\"*GPO: 1995--387-038/00098. Reprint 1995.\" Panel title. Title in upper margin: Mount Vernon Trail. Includes text and ill. Text, photomap, and ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and ill.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [1995]",
+    "Text, photomap, and ill. on verso.",
+    "Title in upper margin: Mount Vernon Trail."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882m.ct009130",
+    "http://lccn.loc.gov/95682642",
+    "http://www.loc.gov/item/95682642/",
+    "http://www.loc.gov/resource/g3882m.ct009130/",
+    "https://hdl.loc.gov/loc.gmd/g3882m.ct009130",
+    "https://search.catalog.loc.gov/instances/aa1bd044-f19c-572e-9597-a8a6fa162014",
+    "https://www.loc.gov/item/95682642/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882m/ct009130.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/95682642/\"}",
+  "dct_spatial_sm": [
+    "mount vernon trail",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Mount Vernon Trail (Va.)--Maps",
+    "United States--Virginia--Mount Vernon Trail"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Mount Vernon Trail, George Washington Memorial Parkway",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95682642",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

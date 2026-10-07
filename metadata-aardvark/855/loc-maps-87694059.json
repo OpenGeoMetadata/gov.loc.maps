@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows block numbers.",
+    "Also shows block numbers. At head of title: No. 3. Includes directory of \"Width of streets and avenues.\" Available also through the Library of Congress Web site as a raster image. LC copy halved and mounted on cloth backing. LC lacks other sheets in set. DCP",
+    "At head of title: No. 3.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "Includes directory of \"Width of streets and avenues.\"",
+    "LC copy halved and mounted on cloth backing.",
+    "LC lacks other sheets in set.",
+    "Publication statement: [Washington, D.C.? : s.n., 1892?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851e.ct004585",
+    "http://lccn.loc.gov/87694059",
+    "http://www.loc.gov/item/87694059/",
+    "http://www.loc.gov/resource/g3851e.ct004585/",
+    "https://hdl.loc.gov/loc.gmd/g3851e.ct004585",
+    "https://search.catalog.loc.gov/instances/f587e159-8c16-510a-9747-5e1597f61327",
+    "https://www.loc.gov/item/87694059/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct004585.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694059/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Diarrhea--Mortality--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1888",
+    "[Washington, D.C.? : s.n., 1892?]"
+  ],
+  "dct_title_s": "City of Washington, deaths from diarrhœal diseases in residences within the city limits from 1888 to 1892 inclusive",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694059",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

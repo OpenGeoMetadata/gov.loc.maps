@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Township map of the State of Ohio"
+  ],
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1851 by J.H. Colton in the Clerk's Office of the District Court for the Southern District of New York.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Colton, J. H. (Joseph Hutchins), 1800-1893, cartographer; Fillmore, Millard, 1800-1874, collector",
+    "Includes table of \"Census of the State of Ohio.\"",
+    "LC copy: Hand colored. Signed in ink script on verso: Millard Fillmore March 1853.",
+    "Prime meridian: Washington D.C.",
+    "Prime meridian: Washington D.C. LC copy: Hand colored. Signed in ink script on verso: Millard Fillmore March 1853. \"Entered according to Act of Congress in the year 1851 by J.H. Colton in the Clerk's Office of the District Court for the Southern District of New York.\" Includes table of \"Census of the State of Ohio.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: New York : published by J.H. Colton, 1851."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018586202",
+    "http://www.loc.gov/item/2018586202/",
+    "http://www.loc.gov/resource/g4081f.fi000224/",
+    "https://hdl.loc.gov/loc.gmd/g4081f.fi000224",
+    "https://search.catalog.loc.gov/instances/3ed685b2-95c6-5394-a0b1-901e324b91f1",
+    "https://www.loc.gov/item/2018586202/"
+  ],
+  "dct_issued_s": "1851",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4081/g4081f/fi000224.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018586202/\"}",
+  "dct_spatial_sm": [
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ohio--Administrative and political divisions--Maps",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "dct_title_s": "Colton's township map of the State of Ohio",
+  "gbl_dateRange_drsim": [
+    "[1851 TO 1851]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1851
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018586202",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

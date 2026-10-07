@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This map of Alaska and the North Pacific region by the French cartographer Jacques-Nicolas Bellin (1703-72) is from a collection of hydrographic charts made for the French Navy in the period from 1737-65. Trained as a hydrographer, Bellin was attached to the French Marine Office and specialized in producing maritime maps showing coastlines. In 1764, he published Le Petit Atlas Maritime (Small maritime atlas), a work in five volumes containing 581 maps. This map is strikingly similar to other French and European maps of the 18th century, all of which drew upon the same stock of limited geographic information. Based mostly on information gleaned from Russian voyages of discovery, it outlines the routes taken by Semen Dezhnev around the Chukotka Peninsula in 1648; Vitus Bering through what became known as the Bering Strait in 1728; Mikhail Gvozdev and Ivan Fyodorov through the Bering Strait to Cape Prince of Wales in Alaska in 1732; and Vitus Bering and Aleksei Chirikov to southern Alaska in 1741. The map also draws upon the copious notes of the German ethnographer, Gerhard Friedrich Müller, published in 1766. European understanding of the geography of Alaska and the North Pacific did not greatly improve until the voyage of Captain Cook to Alaska in 1778. Parts of the map later were proved to be erroneous, such as the large landmass reported by natives on Kamchatka and depicted north of the Aleutian Islands. The map includes specific and accurate details on the Russian Asian coast south to Japan, as well as Sakhalin Island and the Kurile Islands. It also shows parts of California, which were known from Spanish explorations, as well as interior sections of North America near Hudson Bay. This last area was well known to French voyageurs who had thoroughly explored the north-central parts of North America by this time. However, a large region southwest of Hudson Bay is marked on the map as \"major expanse of country that is entirely unknown.\" A river (the Bourbon or the Nelson) and a fort (Fort Bourbon or Fort York) are indicated by English as well as French names, reflecting control of this region by the Hudson's Bay Company. Six different scales are given for different degrees of latitude.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bellin, Jacques Nicolas, 1703-1772",
+    "Phillips, 587",
+    "Publication statement: Paris, [1737-72]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g9235.mf000005",
+    "http://lccn.loc.gov/99446210",
+    "http://www.loc.gov/item/99446210/",
+    "http://www.loc.gov/resource/g9235.mf000005/",
+    "https://hdl.loc.gov/loc.gmd/g9235.mf000005",
+    "https://search.catalog.loc.gov/instances/25b74c86-356c-5ee6-8893-a4e6fcc7909d",
+    "https://www.loc.gov/item/99446210/"
+  ],
+  "dct_issued_s": "1737",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd9/g9235/g9235/mf000005.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446210/\"}",
+  "dct_spatial_sm": [
+    "north pacific ocean"
+  ],
+  "dct_subject_sm": [
+    "Nautical charts--Early works to 1800",
+    "North Pacific Ocean"
+  ],
+  "dct_temporal_sm": [
+    "1737"
+  ],
+  "dct_title_s": "L'hydrographie françoise : recueil des cartes générales et particulières qui ont éte faites pour le service des vaisseaux du roy, par ordre des Ministres de la marine, depuis 1737, jusqu'en 1765",
+  "gbl_dateRange_drsim": [
+    "[1737 TO 1737]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1737
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446210",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

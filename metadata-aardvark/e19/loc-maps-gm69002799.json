@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Index map, flooded areas, McCracken County, Kentucky,\" ca. 1:240,000, text, and illus. on verso.",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Louisville, Kentucky, District",
+    "Folded title: Floods in McCracken County, Kentucky--How to avoid damage.",
+    "Folded title: Floods in McCracken County, Kentucky--How to avoid damage. Includes diagrams. \"Index map, flooded areas, McCracken County, Kentucky,\" ca. 1:240,000, text, and illus. on verso. Scale ca. 1:50,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes diagrams.",
+    "Publication statement: [Louisville, 1968]",
+    "Scale ca. 1:50,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/gm69002799",
+    "http://www.loc.gov/item/gm69002799/",
+    "http://www.loc.gov/resource/g3953m.ct010503/",
+    "https://hdl.loc.gov/loc.gmd/g3953m.ct010503",
+    "https://search.catalog.loc.gov/instances/d3784c4a-24e9-532a-9935-93f2d3e54cb0",
+    "https://www.loc.gov/item/gm69002799/"
+  ],
+  "dct_issued_s": "1968",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd395/g3953/g3953m/ct010503.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm69002799/\"}",
+  "dct_spatial_sm": [
+    "kentucky",
+    "mccracken county",
+    "ohio river",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Floods--Kentucky--McCracken County--Maps",
+    "Floods--Ohio River--Maps",
+    "United States--Kentucky--McCracken County",
+    "United States--Ohio River"
+  ],
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "dct_title_s": "Flooded areas: Ohio River & tributaries, McCracken County, Kentucky",
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1968]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm69002799",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

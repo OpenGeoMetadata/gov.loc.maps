@@ -1,0 +1,83 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the Year 1872 by F.W. Beers & Co. in the Office of the Librarian of Congress at Washington D.C.\"",
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beers, F. W. (Frederick W.); F.W. Beers & Co; Hart, Chas. (Charles), active 1870-1880; Neumann, Louis E.",
+    "County cadastral map showing townships, warranty-deed land tracts, warranty numbers, real-property tracts, some landowners' names, park lands, rural buildings, and householders' names; borough insets show property tracts (lots), lot numbers, owners' names, and building coverage.",
+    "County cadastral map showing townships, warranty-deed land tracts, warranty numbers, real-property tracts, some landowners' names, park lands, rural buildings, and householders' names; borough insets show property tracts (lots), lot numbers, owners' names, and building coverage. Hand col. to emphasize township boundaries, townships territories, and park lands. \"Entered according to Act of Congress in the Year 1872 by F.W. Beers & Co. in the Office of the Librarian of Congress at Washington D.C.\" LC copy imperfect: Annotated in lead pencil, brittle, missing small sections along inner edges, cloth hemmed. Includes inset \"Map of the state of Pennsylvania\", population statistical tables, distance table, local business directories, and 13 village/borough insets (including Milford and Matamoras). LC Land ownership maps, 786 Available also through the Library of Congress Web site as a raster image. 2 copies",
+    "Hand col. to emphasize township boundaries, townships territories, and park lands.",
+    "Includes inset \"Map of the state of Pennsylvania\", population statistical tables, distance table, local business directories, and 13 village/borough insets (including Milford and Matamoras).",
+    "LC Land ownership maps, 786",
+    "LC copy imperfect: Annotated in lead pencil, brittle, missing small sections along inner edges, cloth hemmed.",
+    "Publication statement: New York : F.W. Beers & Co., 1872"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3823p.la000786",
+    "http://lccn.loc.gov/2012592196",
+    "http://www.loc.gov/item/2012592196/",
+    "http://www.loc.gov/resource/g3823p.la000786/",
+    "https://hdl.loc.gov/loc.gmd/g3823p.la000786",
+    "https://search.catalog.loc.gov/instances/3ec89c93-a503-54ff-970c-76953d0766dc",
+    "https://www.loc.gov/item/2012592196/"
+  ],
+  "dct_issued_s": "1872",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823p/la000786.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592196/\"}",
+  "dct_spatial_sm": [
+    "matamoras",
+    "matamoras (pike county)",
+    "milford",
+    "milford (pike county)",
+    "pennsylvania",
+    "pike county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cities and towns--Pennsylvania--Pike County--Maps",
+    "Landowners--Pennsylvania--Matamoras (Pike County)--Maps",
+    "Landowners--Pennsylvania--Milford (Pike County)--Maps",
+    "Landowners--Pennsylvania--Pike County--Maps",
+    "Matamoras (Pike County, Pa.)--Maps",
+    "Milford (Pike County, Pa.)--Maps",
+    "Parks--Pennsylvania--Pike County--Maps",
+    "Pike County (Pa.)--Maps",
+    "Real property--Pennsylvania--Matamoras (Pike County)--Maps",
+    "Real property--Pennsylvania--Milford (Pike County)--Maps",
+    "Real property--Pennsylvania--Pike County--Maps",
+    "United States--Pennsylvania--Matamoras (Pike County)",
+    "United States--Pennsylvania--Milford (Pike County)",
+    "United States--Pennsylvania--Pike County",
+    "Villages--Pennsylvania--Pike County--Maps",
+    "Warranty of title--Pennsylvania--Pike County--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "dct_title_s": "Topographical map of Pike County, Pennsylvania : from recent and actual surveys and records",
+  "gbl_dateRange_drsim": [
+    "[1872 TO 1872]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1872
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2012592196",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

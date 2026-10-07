@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contains five topographic profiles, six cross sections of artillery batteries, and one cross section of a \"rebel rifle pit.\"",
+    "Contributors: Spangenberg, Charles",
+    "Description derived from published bibliography.",
+    "Detailed map showing entrenchments, roads, streets, railroads, hachures, vegetation, houses, and drainage.",
+    "For another issue, see Sherman map coll. no. 120.",
+    "LC Civil War Maps (2nd ed.), 285",
+    "LC copy 1 inscribed at bottom: Library Dept State.",
+    "Publication statement: [Vicksburg, Miss., Head Qrs. of the Dept. of the Tenn., 1863]",
+    "Scale ca. 1:17,000 (not \"1:15,840\").",
+    "Signed (facsim.): C. B. Comstock, Capt. of Engrs.",
+    "Signed (facsim.): C. B. Comstock, Capt. of Engrs. Detailed map showing entrenchments, roads, streets, railroads, hachures, vegetation, houses, and drainage. Contains five topographic profiles, six cross sections of artillery batteries, and one cross section of a \"rebel rifle pit.\" For another issue, see Sherman map coll. no. 120. Description derived from published bibliography. LC copy 1 inscribed at bottom: Library Dept State. Scale ca. 1:17,000 (not \"1:15,840\"). LC Civil War Maps (2nd ed.), 285 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3984v.cw0285000",
+    "http://lccn.loc.gov/99447212",
+    "http://www.loc.gov/item/99447212/",
+    "http://www.loc.gov/resource/g3984v.cw0285000/",
+    "https://hdl.loc.gov/loc.gmd/g3984v.cw0285000",
+    "https://search.catalog.loc.gov/instances/1c69ec5b-c699-5998-a74e-45a2247765c7",
+    "https://www.loc.gov/item/99447212/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3984/g3984v/cw0285000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447212/\"}",
+  "dct_spatial_sm": [
+    "mississippi",
+    "united states",
+    "vicksburg"
+  ],
+  "dct_subject_sm": [
+    "United States--Mississippi--Vicksburg",
+    "Vicksburg (Miss.)--History--Siege, 1863--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Map of the siege of Vicksburg, Miss",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447212",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

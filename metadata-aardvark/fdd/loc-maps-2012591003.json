@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotation in lower left margin: \"Found among the papers of Lt. Col. James de Lancey recd. Feb. 1867 by me L.J. de Lancey.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: L'Estrange, Alured Henry",
+    "Includes references to troop locations and movements.",
+    "Minimal level cataloging record.",
+    "Pen-and-ink, pencil, and watercolor.",
+    "Publication statement: 1816.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Pen-and-ink, pencil, and watercolor. Includes references to troop locations and movements. Annotation in lower left margin: \"Found among the papers of Lt. Col. James de Lancey recd. Feb. 1867 by me L.J. de Lancey.\" Minimal level cataloging record. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2012591003",
+    "http://www.loc.gov/item/2012591003/",
+    "http://www.loc.gov/resource/g4014n.ct007414/",
+    "https://hdl.loc.gov/loc.gmd/g4014n.ct007414",
+    "https://search.catalog.loc.gov/instances/164a37c1-ccd4-5481-82c2-195976b0f73b",
+    "https://www.loc.gov/item/2012591003/"
+  ],
+  "dct_issued_s": "1816",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4014/g4014n/ct007414.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012591003/\"}",
+  "dct_spatial_sm": [
+    "louisiana",
+    "new orleans",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Louisiana--History--War of 1812--Maps",
+    "New Orleans (La.)--History--War of 1812--Maps",
+    "New Orleans, Battle of, New Orleans, La., 1815--Maps",
+    "United States--Louisiana--New Orleans"
+  ],
+  "dct_temporal_sm": [
+    "1816"
+  ],
+  "dct_title_s": "Plan of the attack on the American lines 5 miles in advance of New Orleans",
+  "gbl_dateRange_drsim": [
+    "[1816 TO 1816]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1816
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012591003",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

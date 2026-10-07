@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"NDRO-2024-004.\"",
+    "1 digital map.",
+    "1 digital map. Source data scale not determined. Relief shown by shading. Depths shown by shading. Title supplied by cataloger. \"NDRO-2024-004.\" Received through government deposit June 2026",
+    "Contributors: United States. National Geospatial-Intelligence Agency, cartographer, publisher",
+    "Publication statement: [Springfield, Va.] : National Geospatial-Intelligence Agency, June 2024.",
+    "Received through government deposit June 2026",
+    "Relief shown by shading. Depths shown by shading.",
+    "Source data scale not determined.",
+    "Title supplied by cataloger."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2026356983",
+    "http://www.loc.gov/item/2026356983/",
+    "http://www.loc.gov/resource/gmddigstackspublic.2026356983/",
+    "https://hdl.loc.gov/loc.gmd/gmddigstackspublic.2026356983",
+    "https://search.catalog.loc.gov/instances/1cba7d2d-6dff-49a6-9c2e-2c8ef8da2d9f",
+    "https://www.loc.gov/item/2026356983/"
+  ],
+  "dct_issued_s": "2024",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2026356983.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gmd/gmddigstackspublic/20/26/35/69/83/2026356983/2026356983.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmddigstackspublic:20:26:35:69:83:2026356983:2026356983/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2026356983/\"}",
+  "dct_rights_sm": [
+    "Public Domain https://creativecommons.org/public-domain/"
+  ],
+  "dct_spatial_sm": [
+    "arctic regions",
+    "northeast passage",
+    "northwest passage"
+  ],
+  "dct_subject_sm": [
+    "Arctic regions",
+    "Arctic regions--Research",
+    "Military geography--Arctic regions",
+    "Northeast Passage",
+    "Northwest Passage"
+  ],
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "dct_title_s": "[Map of the Arctic Region, showing the command AOR, Northern Sea Route, Northwest Passage, United States Arctic Research and Policy Act boundary, and military bases]",
+  "gbl_dateRange_drsim": [
+    "[2024 TO 2024]"
+  ],
+  "gbl_displayNote_sm": [
+    "Unrestricted online access.",
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2026356983",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

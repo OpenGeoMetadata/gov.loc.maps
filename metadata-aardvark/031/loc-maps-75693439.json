@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824",
+    "LC Maps of North America, 1750-1789, 1651",
+    "LC copy imperfect: Deterioration along folds.",
+    "Publication statement: [London] J. F. W. Des Barres, 1780.",
+    "Relief shown by hachures and shading. Soundings shown in feet.",
+    "Relief shown by hachures and shading. Soundings shown in feet. Shows coasts of western Florida and small portion of Alabama from Apalachicola River to Mobile Bay. Scale ca. 1:128,000. LC Maps of North America, 1750-1789, 1651 Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Deterioration along folds. Vault AACR2",
+    "Scale ca. 1:128,000.",
+    "Shows coasts of western Florida and small portion of Alabama from Apalachicola River to Mobile Bay.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3932c.ar165100",
+    "http://lccn.loc.gov/75693439",
+    "http://www.loc.gov/item/75693439/",
+    "http://www.loc.gov/resource/g3932c.ar165100/",
+    "https://hdl.loc.gov/loc.gmd/g3932c.ar165100",
+    "https://search.catalog.loc.gov/instances/96964f8c-a7fa-5c81-8b38-dc594eaef933",
+    "https://www.loc.gov/item/75693439/"
+  ],
+  "dct_issued_s": "1780",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3932/g3932c/ar165100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693439/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Florida--Maps--Early works to 1800",
+    "Nautical charts--Florida--Early works to 1800",
+    "United States--Florida"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_title_s": "The north east shore of the Gulph of Mexico",
+  "gbl_dateRange_drsim": [
+    "[1780 TO 1780]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1780
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693439",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

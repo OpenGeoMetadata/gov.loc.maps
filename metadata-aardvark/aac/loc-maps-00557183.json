@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Seneca Falls and beyond",
+    "Title at head of text: Seneca Falls and beyond",
+    "Women's Rights National Historical Park, New York"
+  ],
+  "dct_description_sm": [
+    "\"*GPO 2000--460-976/00247. Reprint 2000.\"",
+    "\"*GPO 2000--460-976/00247. Reprint 2000.\" Panel title. Includes text, location map, and col. ill. Text, chronology, and ill. (some col.) on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, location map, and col. ill.",
+    "Panel title.",
+    "Publication statement: [Washington, D.C.] : The Service, [2000]",
+    "Text, chronology, and ill. (some col.) on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804s.ct006680",
+    "http://lccn.loc.gov/00557183",
+    "http://www.loc.gov/item/00557183/",
+    "http://www.loc.gov/resource/g3804s.ct006680/",
+    "https://hdl.loc.gov/loc.gmd/g3804s.ct006680",
+    "https://search.catalog.loc.gov/instances/974f2601-ca69-5f53-86c0-9f149b20ec60",
+    "https://www.loc.gov/item/00557183/"
+  ],
+  "dct_issued_s": "2000",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804s/ct006680.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/00557183/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "seneca falls",
+    "united states",
+    "women's rights national historical park"
+  ],
+  "dct_subject_sm": [
+    "United States--New York (State)--Seneca Falls--Women's Rights National Historical Park",
+    "Women's Rights National Historical Park (N.Y.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_title_s": "Women's Rights : Women's Rights National Historical Park, New York",
+  "gbl_dateRange_drsim": [
+    "[2000 TO 2000]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-00557183",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

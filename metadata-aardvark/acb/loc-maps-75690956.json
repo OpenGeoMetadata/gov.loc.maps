@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"27235.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, 1958]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. \"27235.\" Scales vary. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scales vary."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7820.ct002748",
+    "http://lccn.loc.gov/75690956",
+    "http://www.loc.gov/item/75690956/",
+    "http://www.loc.gov/resource/g7820.ct002748/",
+    "https://hdl.loc.gov/loc.gmd/g7820.ct002748",
+    "https://search.catalog.loc.gov/instances/d0c0bd88-fad7-5fb0-b692-e4293adcafa1",
+    "https://www.loc.gov/item/75690956/"
+  ],
+  "dct_issued_s": "1958",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7820/g7820/ct002748.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75690956/\"}",
+  "dct_spatial_sm": [
+    "china"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Maps",
+    "Islands--China--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "dct_title_s": "China: Offshore islands. 10-58",
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1958]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75690956",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

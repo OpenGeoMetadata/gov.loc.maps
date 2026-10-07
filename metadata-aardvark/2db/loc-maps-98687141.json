@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Ancillary map: Plano de la población después del incendio del año 1841 que la redujo a cenizas casi en su totalidad.",
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Drouyn, Federico",
+    "Copy one annotated in red ink.",
+    "In set.",
+    "In set. Ancillary map: Plano de la población después del incendio del año 1841 que la redujo a cenizas casi en su totalidad. Copy one annotated in red ink. Available also through the Library of Congress web site as a raster image.",
+    "Publication statement: [S.l.], 1888."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4974m.ct000298",
+    "http://lccn.loc.gov/98687141",
+    "http://www.loc.gov/item/98687141/",
+    "http://www.loc.gov/resource/g4974m.ct000298/",
+    "https://hdl.loc.gov/loc.gmd/g4974m.ct000298",
+    "https://search.catalog.loc.gov/instances/c3a8c9b5-fc2c-5840-9fcd-9afee89f7cf0",
+    "https://www.loc.gov/item/98687141/"
+  ],
+  "dct_issued_s": "1888",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4974/g4974m/ct000298.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98687141/\"}",
+  "dct_spatial_sm": [
+    "mayagüez",
+    "mayagüez.",
+    "puerto rico"
+  ],
+  "dct_subject_sm": [
+    "Puerto Rico--Mayagüez",
+    "Puerto Rico--Mayagüez--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1888"
+  ],
+  "dct_title_s": "Plano de la ciudad de Mayagüez y sus contornos",
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1888]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1888
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98687141",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

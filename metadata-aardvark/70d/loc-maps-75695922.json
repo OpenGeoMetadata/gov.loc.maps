@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Forest Service map class A.\"",
+    "\"Polyconic projection.\"",
+    "\"Washington and Choctaw meridians.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Forest Service. Southern Region",
+    "Includes location map.",
+    "Publication statement: [Atlanta, 1967]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. \"Polyconic projection.\" \"Washington and Choctaw meridians.\" \"Forest Service map class A.\" Includes location map. Scale 1:126,720; 1/2ʺ = 1 mile. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale 1:126,720; 1/2ʺ = 1 mile."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/75695922",
+    "http://www.loc.gov/item/75695922/",
+    "http://www.loc.gov/resource/g3982d.ct010796/",
+    "https://hdl.loc.gov/loc.gmd/g3982d.ct010796",
+    "https://search.catalog.loc.gov/instances/4fdfd3f5-31f0-5c75-a0e3-1308977465a1",
+    "https://www.loc.gov/item/75695922/"
+  ],
+  "dct_issued_s": "1967",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3982/g3982d/ct010796.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75695922/\"}",
+  "dct_spatial_sm": [
+    "delta national forest",
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Delta National Forest (Miss.)--Maps",
+    "United States--Mississippi--Delta National Forest"
+  ],
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "dct_title_s": "Delta National Forest, Mississippi, 1967",
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1967]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75695922",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

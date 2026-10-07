@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Hawaii title collection various subjects--Post--Postal service 1907-1915",
+    "Alternate supplied title: Hawaii title collection--drawer 7"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "HI-07-01 through HI-07-16.",
+    "If a map in this collection may be in copyright, there is no online image available.",
+    "Publication statement: [Various places] : [various publishers], [1907-1915]",
+    "This record covers single Hawaii covering various subjects, which are not represented in the LC database by separate catalog records. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single Hawaii covering various subjects, which are not represented in the LC database by separate catalog records. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. If a map in this collection may be in copyright, there is no online image available. Available also through the Library of Congress Web site as a raster image. HI-07-01 through HI-07-16.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022589486",
+    "http://www.loc.gov/item/2022589486/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.hi-007/",
+    "http://www.loc.gov/resource/gmdtitlecolmaps.hi-007/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.hi-007",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolmaps.hi-007",
+    "https://search.catalog.loc.gov/instances/1dec4405-b50f-590b-b673-384854856601",
+    "https://www.loc.gov/item/2022589486/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolmaps:hi:-0:07:hi-007:hi-007-01-01/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022589486/\"}",
+  "dct_spatial_sm": [
+    "hawaii",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Postal service--Hawaii--Maps",
+    "United States--Hawaii"
+  ],
+  "dct_temporal_sm": [
+    "1907/1915"
+  ],
+  "dct_title_s": "[Maps of Hawaii various subjects--Post routes 1907-1915]",
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1915]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022589486",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

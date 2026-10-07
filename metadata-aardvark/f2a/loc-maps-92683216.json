@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1006527.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes location map.",
+    "Includes location map. \"1006527.\" Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: [Ft. Worth, TX : USDA-SCS-National Cartographic Center ; Orono, Me. : State Conservationist, distributor, 1991]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3730.ct005485",
+    "http://lccn.loc.gov/92683216",
+    "http://www.loc.gov/item/92683216/",
+    "http://www.loc.gov/resource/g3730.ct005485/",
+    "https://hdl.loc.gov/loc.gmd/g3730.ct005485",
+    "https://search.catalog.loc.gov/instances/f6ed28f5-8885-5982-81be-1fceab4d9487",
+    "https://www.loc.gov/item/92683216/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd373/g3730/g3730/ct005485.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/92683216/\"}",
+  "dct_spatial_sm": [
+    "maine",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Maine--Maps",
+    "United States--Maine"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "Threshold to Maine Resource Conservation and Development Area, Cumberland, Frankland [i.e. Franklin], Oxford, and York counties : February 1991",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-92683216",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

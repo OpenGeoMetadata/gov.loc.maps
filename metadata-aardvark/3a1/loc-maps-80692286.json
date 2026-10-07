@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Folded title: Cheseapeake & Ohio Canal National Historical Park, District of Columbia/Maryland.",
+    "Folded title: Cheseapeake & Ohio Canal National Historical Park, District of Columbia/Maryland. Oriented with north toward the upper right. Includes inset of Great Falls region. Text and ill. on verso. Scale ca. 1:300,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes inset of Great Falls region.",
+    "Oriented with north toward the upper right.",
+    "Publication statement: [Washington] : The Service, [1980]",
+    "Scale ca. 1:300,000.",
+    "Text and ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842c.ct008612",
+    "http://lccn.loc.gov/80692286",
+    "http://www.loc.gov/item/80692286/",
+    "http://www.loc.gov/resource/g3842c.ct008612/",
+    "https://hdl.loc.gov/loc.gmd/g3842c.ct008612",
+    "https://search.catalog.loc.gov/instances/600c153f-e340-5e76-9f2f-c074e6651549",
+    "https://www.loc.gov/item/80692286/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842c/ct008612.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80692286/\"}",
+  "dct_spatial_sm": [
+    "chesapeake",
+    "chesapeake and ohio canal",
+    "district of columbia",
+    "maryland",
+    "ohio canal",
+    "united states",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Chesapeake and Ohio Canal (Md. and Washington, D.C.)--Maps",
+    "United States--District of Columbia--Chesapeake and Ohio Canal",
+    "United States--Maryland--Chesapeake and Ohio Canal"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Chesapeake and Ohio Canal",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80692286",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

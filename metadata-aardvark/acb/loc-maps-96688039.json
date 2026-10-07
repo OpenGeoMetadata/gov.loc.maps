@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 24-86",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cartwright, Otis T.; Coppinger, John J.",
+    "Pen-and-ink.",
+    "Publication statement: [1897]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Pen-and-ink. Available also through the Library of Congress Web site as a raster image. Vault Acquisitions control no. 24-86",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/96688039",
+    "http://www.loc.gov/item/96688039/",
+    "http://www.loc.gov/resource/g4260.ct007726/",
+    "https://hdl.loc.gov/loc.gmd/g4260.ct007726",
+    "https://search.catalog.loc.gov/instances/a70fd323-b798-53fc-9e14-c2941c307492",
+    "https://www.loc.gov/item/96688039/"
+  ],
+  "dct_issued_s": "1897",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd426/g4260/g4260/ct007726.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96688039/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "wyoming"
+  ],
+  "dct_subject_sm": [
+    "United States--Wyoming",
+    "Wyoming--Maps, Manuscript"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "dct_title_s": "Route of march of General John J. Coppinger, U.S. Army, from Casper, Wyoming to Cinnabar, Montana : July 28-October 4, 1897",
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96688039",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

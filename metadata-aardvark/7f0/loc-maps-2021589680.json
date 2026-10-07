@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Massachusetts title collection--counties E-G",
+    "Alternate supplied title: Massachusetts title collection--drawer 32"
+  ],
+  "dct_description_sm": [
+    "Most maps in this collection before 1800 are photocopies or facsimiles.",
+    "Publication statement: [Various places] : [various publishers], [from approximately 1643 to 1970]",
+    "This record covers single maps covering counties of Massachusetts, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps as well as some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show one to three counties, and may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single maps covering counties of Massachusetts, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps as well as some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps show one to three counties, and may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger. Most maps in this collection before 1800 are photocopies or facsimiles.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021589680",
+    "http://www.loc.gov/item/2021589680/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ma-032/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ma-032",
+    "https://search.catalog.loc.gov/instances/6e01f7fd-4d94-5c2f-916c-2c629d82ca00",
+    "https://www.loc.gov/item/2021589680/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ma:-0:32:ma-032:ma-032-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021589680/\"}",
+  "dct_spatial_sm": [
+    "essex county",
+    "franklin county",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Counties--Massachusetts--Maps",
+    "Essex County (Mass.)--Maps",
+    "Franklin County (Mass.)--Maps",
+    "Roads--Massachusetts--Maps",
+    "United States--Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1643",
+    "[Various places] : [various publishers], [from approximately 1643 to 1970]"
+  ],
+  "dct_title_s": "[Maps of Massachusetts--counties E-G]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-2021589680",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

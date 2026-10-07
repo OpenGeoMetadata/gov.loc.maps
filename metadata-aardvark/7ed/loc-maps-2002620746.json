@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no.: 2002-35",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map of residential subdivision now in Hicksville, Nassau County, N.Y., showing lot lines, lot nos., and dimensions.",
+    "Cadastral map of residential subdivision now in Hicksville, Nassau County, N.Y., showing lot lines, lot nos., and dimensions. Oriented with north to the left. Imperfect: Wrinkled, fold-lined, torn at edges. Available also through the Library of Congress Web site as a raster image. Gift; Miss Clara Huber; 30 Oct. 1943. Acquisitions control no.: 2002-35",
+    "Contributors: Burst, G. C.; Narine & Co",
+    "Gift; Miss Clara Huber; 30 Oct. 1943.",
+    "Imperfect: Wrinkled, fold-lined, torn at edges.",
+    "Oriented with north to the left.",
+    "Publication statement: [New York? : s.n., 188-?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804h.ct005586",
+    "http://lccn.loc.gov/2002620746",
+    "http://www.loc.gov/item/2002620746/",
+    "http://www.loc.gov/resource/g3804h.ct005586/",
+    "https://hdl.loc.gov/loc.gmd/g3804h.ct005586",
+    "https://search.catalog.loc.gov/instances/76dbf7f3-815c-5849-b1ff-f720c6c1e0b5",
+    "https://www.loc.gov/item/2002620746/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804h/ct005586.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002620746/\"}",
+  "dct_spatial_sm": [
+    "hicksville",
+    "new york",
+    "new york (state)",
+    "pleasantville",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pleasantville (Hicksville, N.Y.)--Maps",
+    "Real property--New York (State)--Hicksville--Maps",
+    "United States--New York (State)--Hicksville--Pleasantville"
+  ],
+  "dct_temporal_sm": [
+    "188?"
+  ],
+  "dct_title_s": "Map of Pleasantville in Queens County, N.Y. : 25 miles from the city of New York",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002620746",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

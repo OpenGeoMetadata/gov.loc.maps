@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"505660 8-83.\"",
+    "\"505660 8-83.\" Indexes on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Indexes on verso.",
+    "Publication statement: [Washington : Central Intelligence Agency, 1983]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7824s.ct002809r",
+    "http://hdl.loc.gov/loc.gmd/g7824s.ct002809v",
+    "http://lccn.loc.gov/84692671",
+    "http://www.loc.gov/item/84692671/",
+    "http://www.loc.gov/resource/g7824s.ct002809r/",
+    "http://www.loc.gov/resource/g7824s.ct002809v/",
+    "https://hdl.loc.gov/loc.gmd/g7824s.ct002809r",
+    "https://hdl.loc.gov/loc.gmd/g7824s.ct002809v",
+    "https://search.catalog.loc.gov/instances/354126d8-e58f-5a2c-9c59-c82855a89877",
+    "https://www.loc.gov/item/84692671/"
+  ],
+  "dct_issued_s": "1983",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7824/g7824s/ct002809r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/84692671/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "shanghai"
+  ],
+  "dct_subject_sm": [
+    "China--Shanghai",
+    "Shanghai (China)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "dct_title_s": "Central Shanghai",
+  "gbl_dateRange_drsim": [
+    "[1983 TO 1983]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1983
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-84692671",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Annotated in red and blue to show major railroad and steamboat lines in the North East.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lloyd, James T.",
+    "Description derived from published bibliography.",
+    "Insets: Map of the eastern states... 62 x 34 cm.--[Boston] 15 x 12 cm.--[Philadelphia] 12 x 15 cm.--Railroads in Texas. 15 x 14 cm.--Riviere du Loup Branch. 7 x 16 cm.",
+    "LC Railroad maps, 49",
+    "Map is incomplete, left side is missing",
+    "Map of the eastern United States showing relief by hachures, drainage, cities and towns, forts and fortification, express companies, railroads, and magnetic telegraph wires. Includes railroads which have been completed and in operation up to July 1863.",
+    "Note: \"The public are cautioned against another \"Lloyd\" by whose name he hopes to deceive the public with spurious Lloyd's Maps....\"",
+    "Publication statement: New York, 1867.",
+    "Scale ca. 1:2,300,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr000490",
+    "http://lccn.loc.gov/98688334",
+    "http://www.loc.gov/item/98688334/",
+    "http://www.loc.gov/resource/g3701p.rr000490/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr000490",
+    "https://search.catalog.loc.gov/instances/44d048f9-68ef-5646-8fa7-1e4af776a109",
+    "https://www.loc.gov/item/98688334/"
+  ],
+  "dct_issued_s": "1867",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr000490.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688334/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Canada",
+    "Railroads--Canada--Maps",
+    "Railroads--United States--Maps",
+    "Telegraph lines--Canada--Maps",
+    "Telegraph lines--United States--Maps",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1867"
+  ],
+  "dct_title_s": "Lloyd's railroad, telegraph & express map of the United States and Canadas from official information",
+  "gbl_dateRange_drsim": [
+    "[1867 TO 1867]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1867
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688334",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

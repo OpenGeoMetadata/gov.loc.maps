@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Title on verso: New Market & Mt. Jackson"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "In pencil and in ink on red bordered label on verso: 269.",
+    "Library of Congress. Civil War maps (2nd ed.), H154",
+    "Pencil (some col.) over 1-inch pencil grid, mounted between sheets of transparent paper.",
+    "Publication statement: [1863]",
+    "Relief shown by hachures.",
+    "Shows names of some residents.",
+    "Shows names of some residents. Relief shown by hachures. Title, date, and scale from Stephenson's Civil War maps, 1989. Pencil (some col.) over 1-inch pencil grid, mounted between sheets of transparent paper. In pencil and in ink on red bordered label on verso: 269. Library of Congress. Civil War maps (2nd ed.), H154 Available also through the Library of Congress web site as raster image.",
+    "Title, date, and scale from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884m.cwh00154",
+    "http://lccn.loc.gov/2005625061",
+    "http://www.loc.gov/item/2005625061/",
+    "http://www.loc.gov/resource/g3884m.cwh00154/",
+    "https://hdl.loc.gov/loc.gmd/g3884m.cwh00154",
+    "https://search.catalog.loc.gov/instances/41864ef0-ef86-5035-b5f3-334df6b17a65",
+    "https://www.loc.gov/item/2005625061/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884m/cwh00154.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625061/\"}",
+  "dct_spatial_sm": [
+    "mount jackson region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Virginia--Mount Jackson Region--Maps",
+    "Mount Jackson Region (Va.)--Maps",
+    "Roads--Virginia--Mount Jackson Region--Maps",
+    "United States--Virginia--Mount Jackson Region"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "[Sketch of roads south and west of Mt. Jackson, Virginia]",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625061",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Bonner's pocket map of Georgia"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 99-21",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bonner, William G.",
+    "LC copy imperfect: Stained and with small tears along folds.",
+    "Prime meridian: Washington.",
+    "Prime meridian: Washington. Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Stained and with small tears along folds. Acquisitions control no. 99-21",
+    "Publication statement: Milledgeville, [Ga.] : Wm. G. Bonner, 1851."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/99462703",
+    "http://www.loc.gov/item/99462703/",
+    "http://www.loc.gov/resource/g3920.ct009966/",
+    "https://hdl.loc.gov/loc.gmd/g3920.ct009966",
+    "https://search.catalog.loc.gov/instances/04d8038f-48eb-5276-a814-1cb6c8b480a5",
+    "https://www.loc.gov/item/99462703/"
+  ],
+  "dct_issued_s": "1851",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3920/g3920/ct009966.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99462703/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--Maps",
+    "United States--Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "dct_title_s": "Bonner's pocket map of the state of Georgia",
+  "gbl_dateRange_drsim": [
+    "[1851 TO 1851]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1851
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99462703",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

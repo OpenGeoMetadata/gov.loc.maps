@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Compiled 1975.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Office of National Capital Parks; United States. Soil Conservation Service",
+    "DCP",
+    "Includes notes and table of soil characteristics.",
+    "Publication statement: [Washington] 1975.",
+    "Relief shown by spot heights. Depths shown by contours and soundings.",
+    "Relief shown by spot heights. Depths shown by contours and soundings. \"Compiled 1975.\" Includes notes and table of soil characteristics. Scale 1:24,000. Available also through the Library of Congress Web site as a raster image. DCP AACR2",
+    "Scale 1:24,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851n.ct004782",
+    "http://lccn.loc.gov/76697809",
+    "http://www.loc.gov/item/76697809/",
+    "http://www.loc.gov/resource/g3851n.ct004782/",
+    "https://hdl.loc.gov/loc.gmd/g3851n.ct004782",
+    "https://search.catalog.loc.gov/instances/97dfbbf2-7fbc-59b5-8db1-1af689e36a37",
+    "https://www.loc.gov/item/76697809/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851n/ct004782.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76697809/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Soils--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "General soil map, District of Columbia",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76697809",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

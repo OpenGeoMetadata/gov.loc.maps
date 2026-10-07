@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Includes illus. and location diagram. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 520 Available also through the Library of Congress Web site as a raster image. AACR2 Copyright not renewed, 10-15-1997.",
+    "Contributors: Cinquin, Rene; Hughes & Cinquin",
+    "Copyright not renewed, 10-15-1997.",
+    "Includes illus. and location diagram.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 520",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Brooklyn, N.Y., Hughes & Cinquin [1925]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3814m.pm005200",
+    "http://lccn.loc.gov/75694729",
+    "http://www.loc.gov/item/75694729/",
+    "http://www.loc.gov/resource/g3814m.pm005200/",
+    "https://hdl.loc.gov/loc.gmd/g3814m.pm005200",
+    "https://search.catalog.loc.gov/instances/5dba218a-0574-59f0-900c-d209f8a7163f",
+    "https://www.loc.gov/item/75694729/"
+  ],
+  "dct_issued_s": "1925",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd381/g3814/g3814m/pm005200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694729/\"}",
+  "dct_spatial_sm": [
+    "margate",
+    "margate city",
+    "new jersey",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Margate City (N.J.)",
+    "United States--New Jersey--Margate"
+  ],
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "dct_title_s": "Aeroview of Margate City, New Jersey 1925",
+  "gbl_dateRange_drsim": [
+    "[1925 TO 1925]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1925
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694729",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

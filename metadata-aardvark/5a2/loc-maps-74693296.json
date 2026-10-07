@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 110",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Contributors: O.H. Bailey & Co",
+    "Hand colored.",
+    "Hand colored. Bird's-eye-view. Includes illus. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 298.1 Available also through the Library of Congress Web site as a raster image. AACR2: 110",
+    "Includes illus.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 298.1",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Boston [1887]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764n.pm002981",
+    "http://lccn.loc.gov/74693296",
+    "http://www.loc.gov/item/74693296/",
+    "http://www.loc.gov/resource/g3764n.pm002981/",
+    "https://hdl.loc.gov/loc.gmd/g3764n.pm002981",
+    "https://search.catalog.loc.gov/instances/f1d92b46-21f6-5552-8dce-e5f279e4e602",
+    "https://www.loc.gov/item/74693296/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764n/pm002981.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693296/\"}",
+  "dct_spatial_sm": [
+    "massachusetts",
+    "needham heights",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Needham Heights (Mass.)",
+    "United States--Massachusetts--Needham Heights"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "Highlandville, Massachusetts 1887",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693296",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

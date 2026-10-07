@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Fraser, John (Architect)",
+    "DCP",
+    "LC copy halved and mounted on cloth backing.",
+    "Oriented with north to the left.",
+    "Oriented with north to the left. LC copy halved and mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 301 DCP",
+    "Phillips. Washington 301",
+    "Publication statement: [Washington, D.C.? : s.n., 1874]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852u.ct001871",
+    "http://lccn.loc.gov/88690772",
+    "http://www.loc.gov/item/88690772/",
+    "http://www.loc.gov/resource/g3852u.ct001871/",
+    "https://hdl.loc.gov/loc.gmd/g3852u.ct001871",
+    "https://search.catalog.loc.gov/instances/57f73ada-8563-5042-9400-03c0f569b6e7",
+    "https://www.loc.gov/item/88690772/"
+  ],
+  "dct_issued_s": "1874",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852u/ct001871.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690772/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "City planning--Washington (D.C.)--Maps",
+    "United States Capitol (Washington, D.C.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "dct_title_s": "General plan for the extension of the U.S. Capitol grounds",
+  "gbl_dateRange_drsim": [
+    "[1874 TO 1874]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1874
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690772",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

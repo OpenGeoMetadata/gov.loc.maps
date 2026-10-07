@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"504588 12-80.\"",
+    "\"504588 12-80.\" Inset: British Indian Ocean Territory (Chagos Archipelago). Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Inset: British Indian Ocean Territory (Chagos Archipelago).",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1980]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g9197d.ct002896",
+    "http://lccn.loc.gov/86690364",
+    "http://www.loc.gov/item/86690364/",
+    "http://www.loc.gov/resource/g9197d.ct002896/",
+    "https://hdl.loc.gov/loc.gmd/g9197d.ct002896",
+    "https://search.catalog.loc.gov/instances/d01d667e-9b3e-5f25-80f3-363e469d90f5",
+    "https://www.loc.gov/item/86690364/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd9/g9197/g9197d/ct002896.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/86690364/\"}",
+  "dct_spatial_sm": [
+    "british indian ocean territory",
+    "diego garcia",
+    "diego garcia (british indian ocean territory)"
+  ],
+  "dct_subject_sm": [
+    "Diego Garcia (British Indian Ocean Territory)",
+    "Diego Garcia (British Indian Ocean Territory)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Diego Garcia",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-86690364",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

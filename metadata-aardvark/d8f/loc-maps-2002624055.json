@@ -1,0 +1,48 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as a raster image.",
+    "Contributors: Bollaert, William, 1807-1876; Standidge & Co",
+    "Publication statement: [S.l., 184-?]",
+    "Signed by W. Bollaert.",
+    "Signed by W. Bollaert. Available also through the Library of Congress web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4030.ct000877",
+    "http://lccn.loc.gov/2002624055",
+    "http://www.loc.gov/item/2002624055/",
+    "http://www.loc.gov/resource/g4030.ct000877/",
+    "https://hdl.loc.gov/loc.gmd/g4030.ct000877",
+    "https://search.catalog.loc.gov/instances/5e032f5c-35b9-5850-ba29-0ce7cfe2491d",
+    "https://www.loc.gov/item/2002624055/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4030/g4030/ct000877.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002624055/\"}",
+  "dct_spatial_sm": [
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Texas--Maps",
+    "United States--Texas"
+  ],
+  "dct_temporal_sm": [
+    "184?"
+  ],
+  "dct_title_s": "Map of Texas",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002624055",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

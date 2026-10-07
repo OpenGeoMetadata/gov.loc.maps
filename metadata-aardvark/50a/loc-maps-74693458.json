@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Haye, G. de la; Robert de Vaugondy, Gilles, 1688-1766",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Scale ca. 1:750,000. LC Maps of North America, 1750-1789, 1718 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651",
+    "LC Maps of North America, 1750-1789, 1718",
+    "Publication statement: [Paris, 1750]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:750,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4900.ar171801",
+    "http://lccn.loc.gov/74693458",
+    "http://www.loc.gov/item/74693458/",
+    "http://www.loc.gov/resource/g4900.ar171801/",
+    "https://hdl.loc.gov/loc.gmd/g4900.ar171801",
+    "https://search.catalog.loc.gov/instances/f19728a2-be50-5458-b344-8f158830597c",
+    "https://www.loc.gov/item/74693458/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4900/g4900/ar171801.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74693458/\"}",
+  "dct_spatial_sm": [
+    "west indies"
+  ],
+  "dct_subject_sm": [
+    "West Indies",
+    "West Indies--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "175?"
+  ],
+  "dct_title_s": "Partie de la mer du Nord, où se trouvent les grandes et petites isles Antilles, et les isles Lucayes,",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74693458",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

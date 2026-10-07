@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beck & Pauli; Stoner, J. J.; Wellge, H. (Henry)",
+    "Includes illus., index to points of interest, and directory.",
+    "Includes illus., index to points of interest, and directory. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 967 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 967",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Madison, Wis., J. J. Stoner, 1884."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4284c.pm009670",
+    "http://lccn.loc.gov/75696655",
+    "http://www.loc.gov/item/75696655/",
+    "http://www.loc.gov/resource/g4284c.pm009670/",
+    "https://hdl.loc.gov/loc.gmd/g4284c.pm009670",
+    "https://search.catalog.loc.gov/instances/5ffc5afc-e358-5c22-a3f0-0946b71b30b4",
+    "https://www.loc.gov/item/75696655/"
+  ],
+  "dct_issued_s": "1884",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd428/g4284/g4284c/pm009670.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75696655/\"}",
+  "dct_spatial_sm": [
+    "cheney",
+    "united states",
+    "washington",
+    "washington (state)"
+  ],
+  "dct_subject_sm": [
+    "Cheney (Wash.)--Maps",
+    "United States--Washington (State)--Cheney"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_title_s": "Bird's eye view of Cheney, Wash. Ter., county seat of Spokane County, 1884",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75696655",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

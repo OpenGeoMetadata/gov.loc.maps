@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This pen-and-ink and watercolor manuscript map shows an unfinished plan for the Siege of Yorktown in September-October 1781. York (more commonly known as Yorktown after the Revolutionary War) was founded in 1691 and became a major port for the export of tobacco. The map shows the British defenses, advance redoubts, and roads leading into the town. It is oriented with north to the upper left. Relief is shown by hachures, and scale is approximately 1:5,000. The map has imperfections, including trimming on the upper and right edges. It also has creases, and several holes along or near the folds. Yorktown was the last major land battle of the Revolutionary War. The defeat of the British and the surrender of their army under General Lord Cornwallis led to peace negotiations and conclusion of the Treaty of Paris of September 3, 1783, which officially ended hostilities and brought international recognition of American independence. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 440; 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Incomplete: Upper and right edges have been trimmed.",
+    "LC Maps of North America, 1750-1789, 1468",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [1781]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:5,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884y.ar146800",
+    "http://lccn.loc.gov/gm71002177",
+    "http://www.loc.gov/item/gm71002177/",
+    "http://www.loc.gov/resource/g3884y.ar146800/",
+    "https://hdl.loc.gov/loc.gmd/g3884y.ar146800",
+    "https://search.catalog.loc.gov/instances/1a471644-0a12-5204-ad8f-115df22d3b17",
+    "https://www.loc.gov/item/gm71002177/"
+  ],
+  "dct_issued_s": "1781",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884y/ar146800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002177/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia",
+    "yorktown"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps",
+    "United States--Virginia--Yorktown",
+    "Yorktown (Va.)--History--Siege, 1781--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1781"
+  ],
+  "dct_title_s": "Plan des ouvrages faits à York-town en Virginie",
+  "gbl_dateRange_drsim": [
+    "[1781 TO 1781]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1781
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002177",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

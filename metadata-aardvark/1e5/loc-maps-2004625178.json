@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Address/website directory of NPS properties and heritage corridors on verso.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service. Upstate New York",
+    "Includes text.",
+    "Publication statement: [New York State?] : National Park Service, [2003?]",
+    "Shows locations of NPS properties and national heritage corridors.",
+    "Shows locations of NPS properties and national heritage corridors. Includes text. Address/website directory of NPS properties and heritage corridors on verso. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3801g.ct006507",
+    "http://lccn.loc.gov/2004625178",
+    "http://www.loc.gov/item/2004625178/",
+    "http://www.loc.gov/resource/g3801g.ct006507/",
+    "https://hdl.loc.gov/loc.gmd/g3801g.ct006507",
+    "https://search.catalog.loc.gov/instances/2e55b55a-74b8-5212-b6e5-93f0c72237cb",
+    "https://www.loc.gov/item/2004625178/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3801/g3801g/ct006507.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004625178/\"}",
+  "dct_spatial_sm": [
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Heritage tourism--New York (State)--Maps",
+    "Historic sites--New York (State)--Maps",
+    "National parks and reserves--New York (State)--Maps",
+    "United States--New York (State)"
+  ],
+  "dct_temporal_sm": [
+    "2003",
+    "[New York State?] : National Park Service, [2003?]"
+  ],
+  "dct_title_s": "Upstate New York, national park system units",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004625178",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

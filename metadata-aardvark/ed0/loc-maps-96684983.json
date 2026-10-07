@@ -1,0 +1,51 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"In 1815, the African-American Quaker and maritime entrepreneur Paul Cuffee financed and captained a voyage to Sierra Leone, where he helped a small group of African-American immigrants establish a colony on African soil. The success of Cuffee's venture led to the founding, in 1817, of the American Colonization Society, with the mission of relocating freeborn and emancipated blacks to Africa. In 1822, the society established its first settlement near what is now Monrovia, Liberia. In the 1820s, colonization societies were formed in Maryland, Virginia, Pennsylvania, and other U.S. states for the purpose of promoting the emigration of freed blacks to Africa. In 1838, the American Colonization Society merged with several of these societies to form the Commonwealth of Liberia, which claimed control over all settlements between the Cestos River and Cape Mount. This 1830s map, part of the collection given to the Library of Congress by the American Colonization Society, shows tribal boundaries, mission stations, and colonist and native towns and villages.\" World Digital Library.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.F. Nesbitt & Company",
+    "Gift; 1968; American Colonization Society;",
+    "Publication statement: N[ew] Y[ork] : Lith. G.F. Nesbitt & Co., [183-?]",
+    "Relief shown by hachures.",
+    "Shows boundary of tribes, mission stations, colonist towns, and native towns.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8881e.lm000007",
+    "http://lccn.loc.gov/96684983",
+    "http://www.loc.gov/item/96684983/",
+    "http://www.loc.gov/resource/g8881e.lm000007/",
+    "https://hdl.loc.gov/loc.gmd/g8881e.lm000007",
+    "https://search.catalog.loc.gov/instances/05d2c8b7-8d2f-595f-a093-fe7588c1b40b",
+    "https://www.loc.gov/item/96684983/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8881/g8881e/lm000007.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/96684983/\"}",
+  "dct_spatial_sm": [
+    "liberia"
+  ],
+  "dct_subject_sm": [
+    "Liberia",
+    "Liberia--Maps",
+    "Tribes--Liberia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "183?"
+  ],
+  "dct_title_s": "Map of Liberia, West Africa",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-96684983",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

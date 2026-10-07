@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lahaurie Meritorio, Josef; Real Escuela de Navegación (Cádiz, Spain)",
+    "Depths shown by soundings.",
+    "Indexed.",
+    "LC Luso-Hispanic World, 772",
+    "Maggs number annotated in pencil in lower right corner: 61.",
+    "Mounted on cloth backing.",
+    "Oriented with north to the bottom.",
+    "Pen-and-ink.",
+    "Publication statement: [1784]",
+    "Shows region of San Juan including fort and harbor.",
+    "Shows region of San Juan including fort and harbor. Depths shown by soundings. Oriented with north to the bottom. Watermark: Upper portion of the character P at bottom of sheet. Pen-and-ink. Mounted on cloth backing. Indexed. Maggs number annotated in pencil in lower right corner: 61. LC Luso-Hispanic World, 772 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault",
+    "Watermark: Upper portion of the character P at bottom of sheet."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4974s.lh000772",
+    "http://lccn.loc.gov/90683888",
+    "http://www.loc.gov/item/90683888/",
+    "http://www.loc.gov/resource/g4974s.lh000772/",
+    "https://hdl.loc.gov/loc.gmd/g4974s.lh000772",
+    "https://search.catalog.loc.gov/instances/1b9b6c4b-0cc9-5b9d-b738-69cec202c476",
+    "https://www.loc.gov/item/90683888/"
+  ],
+  "dct_issued_s": "1784",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4974/g4974s/lh000772.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90683888/\"}",
+  "dct_spatial_sm": [
+    "puerto rico",
+    "san juan region"
+  ],
+  "dct_subject_sm": [
+    "Manuscript maps--Early works to 1800",
+    "Puerto Rico--San Juan Region",
+    "San Juan Region (P.R.)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1784"
+  ],
+  "dct_title_s": "Pto. Rico",
+  "gbl_dateRange_drsim": [
+    "[1784 TO 1784]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1784
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90683888",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

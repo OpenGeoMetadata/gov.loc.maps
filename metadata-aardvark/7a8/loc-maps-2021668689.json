@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Fessæ et Marocchi regna"
+  ],
+  "dct_description_sm": [
+    "\"Scale approximately 1:3,700,000\"--Note extracted from World Digital Library.",
+    "Content in Latin.",
+    "Contributors: Hondius, Jodocus, 1563-1612 Associated Name.; Mercator, Gerhard, 1512-1594 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "In 1604, a decade after the death of Gerhard Mercator (1512-94), one of the great cartographers of all time, the globe maker, engraver, and publisher Jodocus Hondius (1563-1612) bought the plates to Mercator's atlas from his grandsons. Hondius then worked with his brother-in-law, the engraver Pieter van der Keere, to add about 40 new maps to Mercator's atlas to create what became known as the \"Mercator-Hondius Atlas,\" published in Amsterdam in 1606. Later operated by his sons and son-in-law, the publishing house of Jodocus Hondius remained one of the most important firms active in the European map trade until the early 1630s. This decorative map of Morocco with its original coloring is one of those added in the atlas in 1606. It was revised by Hondius, based on an earlier map of Mercator, and engraved by van der Keere. It shows the North African coast of Morocco south to Cape Bojador and extends west to the Canary Islands and Madeira and north to the Spanish coast. In the upper-left corner is an inset showing a high-angled pictorial view of the rock fortress of Peñón de Vélez de la Gomera. Relief is shown pictorially. Scale is given in Spanish leagues and German common miles. Some of the labels are embellished by fine flourishes and the map includes illustrations of sailing ships, a sea monster, castles, churches, and mosques.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map : hand colored ; 46 x 55 centimeters.",
+    "Publication statement: Amsterdam : Jodocus Hondius, 1606.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668689",
+    "http://www.loc.gov/item/2021668689/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_17566/",
+    "http://www.loc.gov/resource/wdl.17566/",
+    "https://hdl.loc.gov/loc.wdl/wdl.17566",
+    "https://www.loc.gov/item/2021668689/"
+  ],
+  "dct_issued_s": "1606-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_17566.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/17/56/6/wdl_17566/wdl_17566.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:56:6:wdl_17566:239/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668689/\"}",
+  "dct_spatial_sm": [
+    "andalucía",
+    "canary islands",
+    "morocco",
+    "spain"
+  ],
+  "dct_subject_sm": [
+    "1606",
+    "Islands",
+    "Morocco",
+    "Spain--Andalucía",
+    "Spain--Canary Islands"
+  ],
+  "dct_temporal_sm": [
+    "1606-01-01"
+  ],
+  "dct_title_s": "Fez and the Kingdom of Morocco.",
+  "gbl_dateRange_drsim": [
+    "[1606 TO 1606]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1606
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668689",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, tourist information, park/trail insignia, and color aerial illustration of Fort McHenry in Baltimore.",
+    "Map of the Chesapeake Bay region (between Perryville and Tangier Island) showing land/water tour routes relating to the War of 1812.",
+    "Map of the Chesapeake Bay region (between Perryville and Tangier Island) showing land/water tour routes relating to the War of 1812. Title from panel and from upper margin. Includes text, tourist information, park/trail insignia, and color aerial illustration of Fort McHenry in Baltimore. Text, tourist information, and color illustrations on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Annapolis, MD : National Park Service, [2011?]; [Annapolis?] : Star-Spangled Banner National Historic Trail.",
+    "Text, tourist information, and color illustrations on verso.",
+    "Title from panel and from upper margin."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842c.ct008792",
+    "http://lccn.loc.gov/2013589443",
+    "http://www.loc.gov/item/2013589443/",
+    "http://www.loc.gov/resource/g3842c.ct008792/",
+    "https://hdl.loc.gov/loc.gmd/g3842c.ct008792",
+    "https://search.catalog.loc.gov/instances/b2444cc2-4730-56a3-88bf-26cfb11e069e",
+    "https://www.loc.gov/item/2013589443/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842c/ct008792.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2013589443/\"}",
+  "dct_spatial_sm": [
+    "chesapeake bay region",
+    "maryland",
+    "spangled banner national historic trail",
+    "star",
+    "star-spangled banner national historic trail",
+    "united states",
+    "virginia",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Chesapeake Bay Region (Md. and Va.)--Tours--Maps",
+    "Heritage tourism--Chesapeake Bay Region (Md. and Va.)--Maps",
+    "Star-Spangled Banner National Historic Trail (Md. and Washington, D.C.)--Maps",
+    "Trails--Chesapeake Bay Region (Md. and Va.)--Maps",
+    "United States--History--War of 1812--Tours--Maps",
+    "United States--Maryland--Chesapeake Bay Region",
+    "United States--Maryland--Star-Spangled Banner National Historic Trail",
+    "United States--Virginia--Chesapeake Bay Region"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "Annapolis, MD : National Park Service, [2011?]"
+  ],
+  "dct_title_s": "Star-Spangled Banner National Historic Trail",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2013589443",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

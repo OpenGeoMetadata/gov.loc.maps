@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Antietam Battlefield Board",
+    "Description derived from published bibliography.",
+    "Library of Congress. Civil War maps (2nd ed.), 250.3",
+    "Map extends from Sharpsburg south to Antietam Iron Works and shows roads and lanes, houses and names of residents, fences, and drainage. Troop positions are not noted.",
+    "Publication statement: Washington D.C., The Norris Peters Co., photo-litho., 1895.",
+    "Scale ca. 1:10,400.",
+    "The Geography and Map Division has sheets 1 and 2 of 4 sheets. For a description of sheet 1, see Civil War Maps entry no. 250.2.",
+    "The Geography and Map Division has sheets 1 and 2 of 4 sheets. For a description of sheet 1, see Civil War Maps entry no. 250.2. Map extends from Sharpsburg south to Antietam Iron Works and shows roads and lanes, houses and names of residents, fences, and drainage. Troop positions are not noted. This map was acquired by the Library of Congress in 1948 with the purchase of the papers and maps of Maj. Jedediah Hotchkiss. Description derived from published bibliography. Scale ca. 1:10,400. Library of Congress. Civil War maps (2nd ed.), 250.3 Available also through the Library of Congress web site as raster image.",
+    "This map was acquired by the Library of Congress in 1948 with the purchase of the papers and maps of Maj. Jedediah Hotchkiss."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842a.cw0250300",
+    "http://lccn.loc.gov/99447389",
+    "http://www.loc.gov/item/99447389/",
+    "http://www.loc.gov/resource/g3842a.cw0250300/",
+    "https://hdl.loc.gov/loc.gmd/g3842a.cw0250300",
+    "https://search.catalog.loc.gov/instances/97b847e6-1228-53ef-9374-4096bc83879a",
+    "https://www.loc.gov/item/99447389/"
+  ],
+  "dct_issued_s": "1895",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842a/cw0250300.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447389/\"}",
+  "dct_spatial_sm": [
+    "antietam national battlefield",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Antietam National Battlefield (Md.)--Maps",
+    "United States--Maryland--Antietam National Battlefield"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dct_title_s": "Southwest, or no. 2, sheet of preliminary map of Antietam (Sharpsburg) battlefield. Enlarged from \"Michler\" map of the war records atlas with corrections and additions",
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447389",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

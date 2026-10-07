@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows roads and local administrative divisions (uyezds and volosts).",
+    "Also shows roads and local administrative divisions (uyezds and volosts). LC copy imperfect: Use-worn, torn at left edge, removed from unidentified textual publication. Available also through the Library of Congress Web site as a raster image. In old-orthography Russian.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: I.N. Kushnerev i ko",
+    "In old-orthography Russian.",
+    "LC copy imperfect: Use-worn, torn at left edge, removed from unidentified textual publication.",
+    "Publication statement: Moskva : Tipo-lit. t-va I.N. Kushnerev i ko., [1915?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7063m.ct003547",
+    "http://lccn.loc.gov/2011587979",
+    "http://www.loc.gov/item/2011587979/",
+    "http://www.loc.gov/resource/g7063m.ct003547/",
+    "https://hdl.loc.gov/loc.gmd/g7063m.ct003547",
+    "https://search.catalog.loc.gov/instances/1cebdc45-c96c-52ed-88dc-5c0e2607ab87",
+    "https://www.loc.gov/item/2011587979/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7063/g7063m/ct003547.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2011587979/\"}",
+  "dct_spatial_sm": [
+    "moscow",
+    "moscow (oblast)",
+    "oblast",
+    "russia",
+    "russia (federation)",
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Clinics--Russia (Federation)--Moscow (Oblast)--Maps",
+    "Insurance consultants--Russia (Federation)--Moscow (Oblast)--Maps",
+    "Moscow (Russia : Oblast)--Administrative and political divisions--Maps",
+    "Roads--Russia (Federation)--Moscow (Oblast)--Maps",
+    "Rural extension--Russia (Federation)--Moscow (Oblast)--Maps",
+    "Russia (Federation)--Moscow (Oblast)",
+    "Veterinary services--Russia (Federation)--Moscow (Oblast)--Maps",
+    "Zemstvos--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1915",
+    "Moskva : Tipo-lit. t-va I.N. Kushnerev i ko., [1915?]"
+  ],
+  "dct_title_s": "Moskovskai︠a︡ gubernīi︠a︡ : li︠e︡chebnye, veterinarnye, strakhovye i agronomicheskīe zemskīe punkty k nachalu 1915 godu",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2011587979",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

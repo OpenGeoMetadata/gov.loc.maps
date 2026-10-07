@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Barren County, Kentucky"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beers, D. G. (Daniel G.); Bourquin, F. (Frederick), 1808-; D.G. Beers & Co; Lanagan, J.; Worley & Bracher",
+    "Copy imperfect: Torn in half along vertical fold, minor losses along edges, hemmed in blue cloth at outer edges, and mounted on cloth backing.",
+    "LC Land ownership maps, 224",
+    "Publication statement: Philadelphia : Beers & Lanagan, 1879",
+    "Relief shown by contours.",
+    "Shows the names of some residents.",
+    "Shows the names of some residents. Relief shown by contours. Copy imperfect: Torn in half along vertical fold, minor losses along edges, hemmed in blue cloth at outer edges, and mounted on cloth backing. LC Land ownership maps, 224 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3953b.la000224",
+    "http://lccn.loc.gov/2012593100",
+    "http://www.loc.gov/item/2012593100/",
+    "http://www.loc.gov/resource/g3953b.la000224/",
+    "https://hdl.loc.gov/loc.gmd/g3953b.la000224",
+    "https://search.catalog.loc.gov/instances/52887eab-e18f-59a9-8195-a96f77d7230c",
+    "https://www.loc.gov/item/2012593100/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd395/g3953/g3953b/la000224.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012593100/\"}",
+  "dct_spatial_sm": [
+    "barren county",
+    "kentucky",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Barren County (Ky.)--Maps",
+    "Landowners--Kentucky--Barren County--Maps",
+    "Real property--Kentucky--Barren County--Maps",
+    "United States--Kentucky--Barren County"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Map of Barren Co., Kentucky",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012593100",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

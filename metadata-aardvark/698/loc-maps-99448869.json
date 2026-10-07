@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: McCallum, Andrew, 1821-1902",
+    "Description derived from published bibliography.",
+    "Detailed map giving fortifications, picket lines, \"Rebel chevaux de-frise,\" \"Union abattis,\" \"covered ways,\" roads, railroads, drainage, and vegetation. Each regiment of the 1st Division is identified, and the section of the line entrusted to it is delineated by broken lines.",
+    "Detailed map giving fortifications, picket lines, \"Rebel chevaux de-frise,\" \"Union abattis,\" \"covered ways,\" roads, railroads, drainage, and vegetation. Each regiment of the 1st Division is identified, and the section of the line entrusted to it is delineated by broken lines. Description derived from published bibliography. Scale ca. 1:16,700. LC Civil War Maps (2nd ed.), 607 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 607",
+    "Publication statement: Baltimore, E. Sachse & Co., [1865]",
+    "Scale ca. 1:16,700."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884p.cw0607000",
+    "http://lccn.loc.gov/99448869",
+    "http://www.loc.gov/item/99448869/",
+    "http://www.loc.gov/resource/g3884p.cw0607000/",
+    "https://hdl.loc.gov/loc.gmd/g3884p.cw0607000",
+    "https://search.catalog.loc.gov/instances/8475a0fd-6825-5db7-a025-df66ab78ae7e",
+    "https://www.loc.gov/item/99448869/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884p/cw0607000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448869/\"}",
+  "dct_spatial_sm": [
+    "petersburg",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Fortification--Virginia--Petersburg--Maps",
+    "Petersburg (Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--Virginia--Petersburg"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Map shewing the position of the lines in front of Petersburg, Va., occupied by the 1st Division, 9th Army Corps, April 1st 1865",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448869",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

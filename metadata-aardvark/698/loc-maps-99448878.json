@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Sifton, Praed & Company, Ltd",
+    "Description derived from published bibliography.",
+    "General map with place names associated with the war indicated. Troop positions are not indicated.",
+    "General map with place names associated with the war indicated. Troop positions are not indicated. Description derived from published bibliography. Scale 1:633,600. LC Civil War Maps (2nd ed.), 499.5 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 499.5",
+    "Publication statement: London, Sifton, Praed & Co., Ltd., \"The Map House\", 1912.",
+    "Scale 1:633,600."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.cw0499500",
+    "http://lccn.loc.gov/99448878",
+    "http://www.loc.gov/item/99448878/",
+    "http://www.loc.gov/resource/g3880.cw0499500/",
+    "https://hdl.loc.gov/loc.gmd/g3880.cw0499500",
+    "https://search.catalog.loc.gov/instances/d7e8c8dc-9281-5e41-9aa5-7bc1563d48b7",
+    "https://www.loc.gov/item/99448878/"
+  ],
+  "dct_issued_s": "1912",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/cw0499500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448878/\"}",
+  "dct_spatial_sm": [
+    "maryland",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Maryland--Maps",
+    "United States--Maryland",
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dct_title_s": "Sifton, Praed's new map of Virginia and Maryland to illustrate the campaigns of 1861 to 1864",
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448878",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

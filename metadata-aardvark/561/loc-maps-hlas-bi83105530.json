@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: modelski, andrew m.; petroconsultants s.a."
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi83105530/",
+    "https://www.loc.gov/item/hlas-bi83105530/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Petroconsultants,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi83105530/\"}",
+  "dct_spatial_sm": [
+    "switzerland"
+  ],
+  "dct_subject_sm": [
+    "maps and cartography",
+    "maps and cartography -- paraguay",
+    "paraguay",
+    "petroleum industry and trade",
+    "petroleum industry and trade -- maps and cartography",
+    "petroleum industry and trade -- paraguay"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "Paraguay, synopsis 1979 (including current activity)",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi83105530",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

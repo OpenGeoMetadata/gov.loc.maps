@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from NCSS atlas sheets and uncontrolled mosaic.\"",
+    "\"September 1979 4-R-37269. January 1979 base 4-R-36967.\"",
+    "\"September 1979 4-R-37269. January 1979 base 4-R-36967.\" Shows swamp, erosive sub class soil, and sandy or infertile sub class soil. \"Base compiled from NCSS atlas sheets and uncontrolled mosaic.\" Includes location map. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1979.",
+    "Shows swamp, erosive sub class soil, and sandy or infertile sub class soil."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/81692264",
+    "http://www.loc.gov/item/81692264/",
+    "http://www.loc.gov/resource/g3902l.ct009733/",
+    "https://hdl.loc.gov/loc.gmd/g3902l.ct009733",
+    "https://search.catalog.loc.gov/instances/199a34cb-1894-51d5-8318-7d80e0eae887",
+    "https://www.loc.gov/item/81692264/"
+  ],
+  "dct_issued_s": "1979",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3902/g3902l/ct009733.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/81692264/\"}",
+  "dct_spatial_sm": [
+    "duplin county",
+    "limestone creek watershed",
+    "muddy creek watershed",
+    "muddy creek watershed (duplin county)",
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soil conservation--North Carolina--Limestone Creek watershed--Maps",
+    "Soil conservation--North Carolina--Muddy Creek watershed (Duplin County)--Maps",
+    "United States--North Carolina--Limestone Creek Watershed",
+    "United States--North Carolina--Muddy Creek Watershed (Duplin County)"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "dct_title_s": "Problem location map, Limestone-Muddy Creek watershed, portions of Duplin, Jones, and Onslow Counties, North Carolina",
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1979]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-81692264",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

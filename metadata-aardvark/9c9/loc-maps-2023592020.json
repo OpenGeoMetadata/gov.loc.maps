@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Ehalt Macedo, H. (Heloisa), cartographer",
+    "Dataset includes data files (CSV file with TXT data dictionary).",
+    "HydroWASTE is a global database of 58,502 wastewater treatment plants (WWTPs) and their characteristics. This database was developed by combining national and regional datasets with auxiliary information to derive or complete missing characteristics, including the amount of people served, the flow rate of effluents, and the level of treatment of processed wastewater.",
+    "Publication statement: [United States] : Global HydroLAB, 2021."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2023592020",
+    "http://www.loc.gov/item/2023592020/",
+    "http://www.loc.gov/resource/gdcdatasets.2023592020/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.2023592020",
+    "https://www.hydrosheds.org/products/hydrowaste",
+    "https://www.loc.gov/item/2023592020/"
+  ],
+  "dct_issued_s": "2021",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/2023592020/\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0) license. DLC https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_subject_sm": [
+    "Sewage disposal plants--Maps",
+    "Sewage--Purification--Maps",
+    "Water treatment plants--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "dct_title_s": "HydroWASTE",
+  "gbl_dateRange_drsim": [
+    "[2021 TO 2021]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2023592020",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Ross, Daniel, 1780-1849",
+    "Publication statement: [S.L.] : J. Hornsburg, 1814 .",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7821c.ct004081",
+    "http://lccn.loc.gov/2007629467",
+    "http://www.loc.gov/item/2007629467/",
+    "http://www.loc.gov/resource/g7821c.ct004081/",
+    "https://hdl.loc.gov/loc.gmd/g7821c.ct004081",
+    "https://search.catalog.loc.gov/instances/4486dbf3-852e-5bc0-8626-2d4f72465996",
+    "https://www.loc.gov/item/2007629467/"
+  ],
+  "dct_issued_s": "1814",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7821/g7821c/ct004081.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2007629467/\"}",
+  "dct_spatial_sm": [
+    "china"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "Coasts--China--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1814"
+  ],
+  "dct_title_s": "Chart of the coast of China to the eastward of the great Ladrone",
+  "gbl_dateRange_drsim": [
+    "[1814 TO 1814]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1814
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2007629467",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

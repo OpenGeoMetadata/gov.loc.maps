@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Covers the area between Toledo, Dayton, Connellsville, and Erie.",
+    "Covers the area between Toledo, Dayton, Connellsville, and Erie. Title devised by cataloger. Available also through the Library of Congress Web site as a raster image. LC copy soiled and annotated in pencil: For Exr. Disqua July 6, 1917. LC copy accompanied by handwritten (lead pencil) note describing revised coal rates. [1] sheet : ms. ; 26 x 21 cm.",
+    "LC copy accompanied by handwritten (lead pencil) note describing revised coal rates. [1] sheet : ms. ; 26 x 21 cm.",
+    "LC copy soiled and annotated in pencil: For Exr. Disqua July 6, 1917.",
+    "Publication statement: [United States? : s.n., 1917?]",
+    "Title devised by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824p.ct008394",
+    "http://lccn.loc.gov/93685030",
+    "http://www.loc.gov/item/93685030/",
+    "http://www.loc.gov/resource/g3824p.ct008394/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.ct008394",
+    "https://search.catalog.loc.gov/instances/7ea449f0-51af-5b6a-a607-4c7c1ed45c09",
+    "https://www.loc.gov/item/93685030/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ct008394.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93685030/\"}",
+  "dct_spatial_sm": [
+    "connellsville region",
+    "ohio",
+    "pennsylvania",
+    "pittsburgh region",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Coal--Transportation--Ohio--Maps",
+    "Coal--Transportation--Pennsylvania--Connellsville Region--Maps",
+    "Coal--Transportation--Pennsylvania--Pittsburgh Region--Maps",
+    "Railroads--Freight--Rates--Ohio--Maps",
+    "Railroads--Freight--Rates--Pennsylvania--Connellsville Region--Maps",
+    "Railroads--Freight--Rates--Pennsylvania--Pittsburgh Region--Maps",
+    "United States--Ohio",
+    "United States--Pennsylvania--Connellsville Region",
+    "United States--Pennsylvania--Pittsburgh Region"
+  ],
+  "dct_temporal_sm": [
+    "1917",
+    "[United States? : s.n., 1917?]"
+  ],
+  "dct_title_s": "[Railroad map showing coal transportation rates in northwestern Pennsylvania and northeastern Ohio : based on the Pittsburgh and Connellsville districts, Pennsylvania]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93685030",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

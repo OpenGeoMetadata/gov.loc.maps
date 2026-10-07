@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Indexed.",
+    "LC Luso-Hispanic World, 333",
+    "Maggs number annotated in pencil in lower right corner: 56.",
+    "Mounted on cloth backing.",
+    "Oriented with north to the right.",
+    "Pen-and-ink.",
+    "Prime meridian: Tenerife.",
+    "Publication statement: [17--?]",
+    "Relief shown pictorially. Depths shown by soundings.",
+    "Relief shown pictorially. Depths shown by soundings. Prime meridian: Tenerife. Oriented with north to the right. Pen-and-ink. Mounted on cloth backing. Indexed. Maggs number annotated in pencil in lower right corner: 56. LC Luso-Hispanic World, 333 Available also through the Library of Congress Web site as a raster image. Vault",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4922n.lh000333r",
+    "http://hdl.loc.gov/loc.gmd/g4922n.lh000333v",
+    "http://lccn.loc.gov/91680824",
+    "http://www.loc.gov/item/91680824/",
+    "http://www.loc.gov/resource/g4922n.lh000333r/",
+    "http://www.loc.gov/resource/g4922n.lh000333v/",
+    "https://hdl.loc.gov/loc.gmd/g4922n.lh000333r",
+    "https://hdl.loc.gov/loc.gmd/g4922n.lh000333v",
+    "https://search.catalog.loc.gov/instances/e22f28fa-4e9c-5d9c-957e-33857efa2c96",
+    "https://www.loc.gov/item/91680824/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4922/g4922n/lh000333r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91680824/\"}",
+  "dct_spatial_sm": [
+    "cuba",
+    "nipe bay"
+  ],
+  "dct_subject_sm": [
+    "Coasts--Cuba--Nipe Bay--Maps--Early works to 1800",
+    "Cuba--Nipe Bay",
+    "Manuscript maps--Early works to 1800",
+    "Nipe Bay (Cuba)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1700",
+    "[17--?]"
+  ],
+  "dct_title_s": "Plano del Puerto de Nipe situado en la costa del N. de la de la [sic] ya. de la Havana en la latd. de 21 gs. 10 ms. sepc. y en la longd. de 301 gs. 33 ms. segn. el meridio. de Thenerife",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91680824",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

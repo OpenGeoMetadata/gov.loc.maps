@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Depths shown by soundings.",
+    "Depths shown by soundings. Prime meridian: Cuerboz. Watermark: Strasburg fleur-de-lis. Pen-and-ink and yellow watercolor. Mounted on cloth backing. Maggs number annotated in pencil in lower right corner: 139. LC Luso-Hispanic World, 676 Available also through the Library of Congress Web site as a raster image. Vault",
+    "LC Luso-Hispanic World, 676",
+    "Maggs number annotated in pencil in lower right corner: 139.",
+    "Mounted on cloth backing.",
+    "Pen-and-ink and yellow watercolor.",
+    "Prime meridian: Cuerboz.",
+    "Publication statement: [17--?]",
+    "Vault",
+    "Watermark: Strasburg fleur-de-lis."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4872e.lh000676",
+    "http://lccn.loc.gov/90680539",
+    "http://www.loc.gov/item/90680539/",
+    "http://www.loc.gov/resource/g4872e.lh000676/",
+    "https://hdl.loc.gov/loc.gmd/g4872e.lh000676",
+    "https://search.catalog.loc.gov/instances/31074bef-b118-5dc5-8568-35d2f7e6045a",
+    "https://www.loc.gov/item/90680539/"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4872/g4872e/lh000676.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90680539/\"}",
+  "dct_spatial_sm": [
+    "escudo de veraguas island",
+    "panama"
+  ],
+  "dct_subject_sm": [
+    "Escudo de Veraguas Island (Panama)--Maps, Manuscript--Early works to 1800",
+    "Panama--Escudo de Veraguas Island"
+  ],
+  "dct_temporal_sm": [
+    "1700",
+    "[17--?]"
+  ],
+  "dct_title_s": "Plano de la Ysla del Escudo de Beraguas situado en la latitud norte de 8 gs. y en la longitud de 305 gros. 50 ms. meridiano del Cuerboz",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90680539",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

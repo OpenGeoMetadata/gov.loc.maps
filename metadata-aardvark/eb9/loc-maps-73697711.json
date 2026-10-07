@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Appears in the author's and Nicolas Desmarest's Atlas encyclopédique. 1788. v. 2.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: André, Peter; Bonne, Rigobert, 1727-1794",
+    "LC Maps of North America, 1750-1789, 1745",
+    "Plate no. \"112.\"",
+    "Publication statement: [Paris? 1788?]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Plate no. \"112.\" Appears in the author's and Nicolas Desmarest's Atlas encyclopédique. 1788. v. 2. Scale ca. 1:1,475,000. LC Maps of North America, 1750-1789, 1745 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Scale ca. 1:1,475,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4920.ar174500",
+    "http://lccn.loc.gov/73697711",
+    "http://www.loc.gov/item/73697711/",
+    "http://www.loc.gov/resource/g4920.ar174500/",
+    "https://hdl.loc.gov/loc.gmd/g4920.ar174500",
+    "https://search.catalog.loc.gov/instances/b6ee7546-bc71-5401-a0b2-6cb6860e60e0",
+    "https://www.loc.gov/item/73697711/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd4/g4920/g4920/ar174500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73697711/\"}",
+  "dct_spatial_sm": [
+    "cuba",
+    "jamaica"
+  ],
+  "dct_subject_sm": [
+    "Cuba",
+    "Cuba--Maps--Early works to 1800",
+    "Jamaica",
+    "Jamaica--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1788",
+    "[Paris? 1788?]"
+  ],
+  "dct_title_s": "Isles de Cuba et de la Jamaïque",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73697711",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

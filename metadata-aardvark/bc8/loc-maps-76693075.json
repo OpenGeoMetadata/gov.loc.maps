@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Looking southwest.\"",
+    "\"Looking southwest.\" Includes col. illus. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 282 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Beck & Pauli; Poole, A. F.; Stoner, J. J.",
+    "Includes col. illus. and index to points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 282",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Madison, Wis., J. J. Stoner, c1882."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764b.pm002820",
+    "http://lccn.loc.gov/76693075",
+    "http://www.loc.gov/item/76693075/",
+    "http://www.loc.gov/resource/g3764b.pm002820/",
+    "https://hdl.loc.gov/loc.gmd/g3764b.pm002820",
+    "https://search.catalog.loc.gov/instances/e9a1ea57-5364-5eac-9b55-729b033e115e",
+    "https://www.loc.gov/item/76693075/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764b/pm002820.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76693075/\"}",
+  "dct_spatial_sm": [
+    "brockton",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Brockton (Mass.)",
+    "United States--Massachusetts--Brockton"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Bird's eye view of the city of Brockton, Plymouth County, Mass. 1882",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76693075",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

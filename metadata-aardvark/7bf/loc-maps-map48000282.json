@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army Map Service",
+    "Publication statement: Washington, 1946-"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/map48000282",
+    "http://www.loc.gov/item/map48000282/",
+    "http://www.loc.gov/resource/gmdsetmaps.map48000282/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.map48000282",
+    "https://search.catalog.loc.gov/instances/412a71e7-a709-569f-9e4a-8c2018f29dbf",
+    "https://www.loc.gov/item/map48000282/"
+  ],
+  "dct_issued_s": "1946",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:ma:p4:80:00:28:2:map48000282:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/map48000282/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Florida--Maps",
+    "United States--Florida"
+  ],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "dct_title_s": "Florida 1:50,000",
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1946]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1946
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-map48000282",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

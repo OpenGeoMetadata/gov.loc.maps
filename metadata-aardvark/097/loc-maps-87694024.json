@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "At head of title of some maps: Health Department.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: District of Columbia. Bu. of V.S.; District of Columbia. Health Department",
+    "DCP",
+    "In lower right corner of some maps: A.J.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Washington?] : The Bureau, [1938]",
+    "Shows death rates from various causes.",
+    "Shows death rates from various causes. At head of title of some maps: Health Department. Oriented with north toward the upper left. Some maps have 1938 date after authorship statement. In lower right corner of some maps: A.J. Available also through the Library of Congress Web site as a raster image. DCP",
+    "Some maps have 1938 date after authorship statement."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/87694024",
+    "http://www.loc.gov/item/87694024/",
+    "http://www.loc.gov/resource/gmdsetmaps.87694024/",
+    "https://hdl.loc.gov/loc.gmd/gmdsetmaps.87694024",
+    "https://search.catalog.loc.gov/instances/f5f1a282-eb10-50e0-9cdf-8d87ea671fd5",
+    "https://www.loc.gov/item/87694024/"
+  ],
+  "dct_issued_s": "1937",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:87:69:40:24:87694024:cs000001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694024/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington (d.c.)",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Medical geography--Washington (D.C.)--Maps",
+    "Mortality--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington (D.C.)",
+    "Washington (D.C.)--Statistics, Vital--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1937"
+  ],
+  "dct_title_s": "District of Columbia, census tracts",
+  "gbl_dateRange_drsim": [
+    "[1937 TO 1937]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1937
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694024",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

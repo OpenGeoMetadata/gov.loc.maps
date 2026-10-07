@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Albers equal area projection.\"",
+    "\"Albers equal area projection.\" Relief shown by spot heights. \"Sheet number 10-11.\" Scale 1:2,000,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "\"Sheet number 10-11.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "Publication statement: Reston, Va., 1976.",
+    "Relief shown by spot heights.",
+    "Scale 1:2,000,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/77690050",
+    "http://www.loc.gov/item/77690050/",
+    "http://www.loc.gov/resource/g3870.ct008908/",
+    "https://hdl.loc.gov/loc.gmd/g3870.ct008908",
+    "https://search.catalog.loc.gov/instances/44d569e2-e14a-5906-aa21-0a40f15df41c",
+    "https://www.loc.gov/item/77690050/"
+  ],
+  "dct_issued_s": "1976",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd387/g3870/g3870/ct008908.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77690050/\"}",
+  "dct_spatial_sm": [
+    "south atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "South Atlantic States--Maps",
+    "United States--South Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "dct_title_s": "National atlas: Southeastern States",
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77690050",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows townsites of Georgetown, Hamburgh, and Carrollsburg.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing named land tracts with owners' names.",
+    "Cadastral map showing named land tracts with owners' names. Selected buildings and trees shown pictorially. Planimetric map--not bird's-eye view. Also shows townsites of Georgetown, Hamburgh, and Carrollsburg. Available also through the Library of Congress Web site as a raster image. LC copy accompanied by D.C. Sesquicentennial exhibition caption, Apr. 1950-Apr. 1951: 9. Pre-District plantations. LC copy darkened, fold-lined, lacking small sections along edges, and mounted on cloth backing. Phillips. Washington 1285 Vault DCP",
+    "DCP",
+    "LC copy accompanied by D.C. Sesquicentennial exhibition caption, Apr. 1950-Apr. 1951: 9. Pre-District plantations.",
+    "LC copy darkened, fold-lined, lacking small sections along edges, and mounted on cloth backing.",
+    "Phillips. Washington 1285",
+    "Planimetric map--not bird's-eye view.",
+    "Publication statement: [Washington, D.C.? : s.n., 186-?]",
+    "Selected buildings and trees shown pictorially.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3851g.ct001791",
+    "http://lccn.loc.gov/87694269",
+    "http://www.loc.gov/item/87694269/",
+    "http://www.loc.gov/resource/g3851g.ct001791/",
+    "https://hdl.loc.gov/loc.gmd/g3851g.ct001791",
+    "https://search.catalog.loc.gov/instances/deabe49d-fc49-5337-8c6d-f9e88e589998",
+    "https://www.loc.gov/item/87694269/"
+  ],
+  "dct_issued_s": "1792",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851g/ct001791.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87694269/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Land grants--Washington (D.C.)--Maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington"
+  ],
+  "dct_temporal_sm": [
+    "1792"
+  ],
+  "dct_title_s": "View of the city of Washington in 1792",
+  "gbl_dateRange_drsim": [
+    "[1792 TO 1792]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1792
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-87694269",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

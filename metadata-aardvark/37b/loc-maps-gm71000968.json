@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Partie orientale du Canada (Eastern part of Canada) is a hand-colored manuscript map by cartographer, author, and illustrator Georges-Louis Le Rouge (born 1712), royal geographer to King Louis XV. It was based upon an English map made by Thomas Jefferys (circa 1719-71), who was geographer to King George III and engraved and published many maps and atlases in the mid-18th century, particularly of North America. It covers the northeastern region from Montreal to Île du Petit Mecatina and southwest to Boston Harbor. The map prominently displays the eastern part of Canada, including the Gaspé Peninsula, Saint Lawrence River, Gulf of Saint Lawrence, Nova Scotia, Bay of Fundy, and Gulf of Maine. It shows towns, forts, roads, harbors, rivers and lakes, Indian tribal territory, coastal islands, relief, and soundings in Northumberland Strait. It also outlines a planned road from Quebec to Fort Western, Maine. Several broken, colored lines highlight boundaries established by various treaties. The map includes two \"Explications\" at the top of the colored lines and hatching, and a table on the upper left comparing latitudes and longitudes from several earlier maps. Relief is shown pictorially. Scale is given in maritime leagues and in miles. Neptune is seen riding his chariot in the Gulf of Saint Lawrence. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 100; 440; 651/; 651/2; 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Jefferys, Thomas, -1771; Le Rouge, Georges-Louis",
+    "Hand colored.",
+    "Includes \"Table comparative.\"",
+    "LC Maps of North America, 1750-1789, 31",
+    "Prime meridian: Isle de Fer.",
+    "Publication statement: Paris [1755?]",
+    "Relief shown pictorially.",
+    "Scale ca. 1:2,000,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3400.ar003100",
+    "http://lccn.loc.gov/gm71000968",
+    "http://www.loc.gov/item/gm71000968/",
+    "http://www.loc.gov/resource/g3400.ar003100/",
+    "https://hdl.loc.gov/loc.gmd/g3400.ar003100",
+    "https://search.catalog.loc.gov/instances/14e5459e-ba90-5671-a353-7bc79991b835",
+    "https://www.loc.gov/item/gm71000968/"
+  ],
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3400/g3400/ar003100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000968/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "nova scotia"
+  ],
+  "dct_subject_sm": [
+    "Canada",
+    "Canada--Maps--Early works to 1800",
+    "Canada--Nova Scotia",
+    "Nova Scotia--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1755",
+    "Paris [1755?]"
+  ],
+  "dct_title_s": "Partie orientale du Canada, traduitte de l'anglois de la carte de Jefferys publiée a Londres en May 1755",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000968",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

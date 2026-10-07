@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: instituto geográfico nacional (el salvador); modelski, andrew m.; salvador. programa determinación del uso potencial del suelo"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi81105478/",
+    "https://www.loc.gov/item/hlas-bi81105478/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "Ministerio de Agricultura y Ganadería, Dirección General de Recursos Naturales Renovables, Programa Determinación del Uso Potencial del Suelo,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi81105478/\"}",
+  "dct_spatial_sm": [
+    "el salvador"
+  ],
+  "dct_subject_sm": [
+    "el salvador",
+    "la paz, el salvador (dept.)",
+    "la paz, el salvador (dept.) -- maps and cartography",
+    "la paz, el salvador (dept.) -- soils",
+    "maps and cartography",
+    "soils",
+    "soils -- el salvador",
+    "soils -- maps and cartography"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Clases de tierras de acuerdo a su capacidad de uso, Departamento de La Paz. Mapa básico, levantado por el Instituto Geográfico Nacional del Ministerio de Obras Públicas",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi81105478",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

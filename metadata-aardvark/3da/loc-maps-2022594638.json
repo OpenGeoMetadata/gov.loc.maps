@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Massachusetts title collection--Boston subjects A-C",
+    "Alternate supplied title: Massachusetts title collection--drawer 59"
+  ],
+  "dct_description_sm": [
+    "Publication statement: [Various places] : [various publishers], [1826-1970]",
+    "This record covers single general maps of Boston, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies, and may also include some multi-sheet single maps, and plates from atlases, books or periodicals. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/.",
+    "This record covers single general maps of Boston, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies, and may also include some multi-sheet single maps, and plates from atlases, books or periodicals. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger.",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2022594638",
+    "http://www.loc.gov/item/2022594638/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ma-059/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ma-059",
+    "https://search.catalog.loc.gov/instances/23e5057b-6c3b-5d2a-8b53-ee271b5369eb",
+    "https://www.loc.gov/item/2022594638/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ma:-0:59:ma-059:ma-059-00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2022594638/\"}",
+  "dct_spatial_sm": [
+    "boston",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston (Mass.)--Administrative and political divisions--Maps",
+    "Boston (Mass.)--Maps",
+    "Central business districts--Massachusetts--Boston--Maps",
+    "United States--Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1826/1970"
+  ],
+  "dct_title_s": "[Maps of Massachusetts--Boston subjects A-C]",
+  "gbl_dateRange_drsim": [
+    "[1826 TO 1970]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1826
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2022594638",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

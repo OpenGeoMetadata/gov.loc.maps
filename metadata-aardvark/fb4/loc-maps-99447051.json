@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Another edition.",
+    "Another edition. Inset: [Map of eastern United States] 21 x 18 cm. Label pasted to the map in the lower right margin: Metropolitan Book Store, Philp & Solomons, agents, Washington, D.C. Description derived from published bibliography. Scale ca. 1:820,000. LC Civil War Maps (2nd ed.), 17.35 Available also through the Library of Congress web site as raster image.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Schedler, J. (Joseph)",
+    "Description derived from published bibliography.",
+    "Inset: [Map of eastern United States] 21 x 18 cm.",
+    "LC Civil War Maps (2nd ed.), 17.35",
+    "Label pasted to the map in the lower right margin: Metropolitan Book Store, Philp & Solomons, agents, Washington, D.C.",
+    "Publication statement: [New York; Paris; London W. Schauss c1861]",
+    "Scale ca. 1:820,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g370931a.cw0017350",
+    "http://lccn.loc.gov/99447051",
+    "http://www.loc.gov/item/99447051/",
+    "http://www.loc.gov/resource/g370931a.cw0017350/",
+    "https://hdl.loc.gov/loc.gmd/g370931a.cw0017350",
+    "https://search.catalog.loc.gov/instances/e7bd9587-a5af-56de-b20b-b857a9be3f37",
+    "https://www.loc.gov/item/99447051/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g370931/g370931a/cw0017350.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447051/\"}",
+  "dct_spatial_sm": [
+    "atlantic states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Atlantic States--Pictorial works",
+    "United States--Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "Birds eye view of Virginia, Maryland, Delaware and the District of Columbia",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447051",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

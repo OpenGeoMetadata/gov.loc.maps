@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "AACR2 Bird's-eye-view. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 587 Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Contributors: Burleigh, L. R., 1853-1923",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 587",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Troy, N.Y. [1887]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804m.pm005870",
+    "http://lccn.loc.gov/75694796",
+    "http://www.loc.gov/item/75694796/",
+    "http://www.loc.gov/resource/g3804m.pm005870/",
+    "https://hdl.loc.gov/loc.gmd/g3804m.pm005870",
+    "https://search.catalog.loc.gov/instances/7be53494-f0c5-5888-8cbd-302f0e1d6602",
+    "https://www.loc.gov/item/75694796/"
+  ],
+  "dct_issued_s": "1887",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804m/pm005870.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694796/\"}",
+  "dct_spatial_sm": [
+    "middletown",
+    "middletown (orange county)",
+    "new york",
+    "new york (state)",
+    "orange county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Middletown (Orange County, N.Y.)--Maps",
+    "United States--New York (State)--Middletown (Orange County)"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "dct_title_s": "Middletown, N.Y. 1887",
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1887
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694796",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

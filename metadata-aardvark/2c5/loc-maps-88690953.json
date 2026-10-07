@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Covers are bounded by Florida Avenue, 13th, V, 15th streets, and New Hampshire Avenue N.W.",
+    "Covers are bounded by Florida Avenue, 13th, V, 15th streets, and New Hampshire Avenue N.W. Shows block numbers and dimensions. Title devised by cataloger. Manuscript: Pen-and-ink and lead-pencil. Watermarked: A 1815. Faced with gauze. Includes ill. and computations. Notes and computations on verso. Available also through the Library of Congress Web site as a raster image. Vault DCP",
+    "DCP",
+    "Faced with gauze.",
+    "Includes ill. and computations.",
+    "Manuscript: Pen-and-ink and lead-pencil.",
+    "Notes and computations on verso.",
+    "Publication statement: [1815?]",
+    "Shows block numbers and dimensions.",
+    "Title devised by cataloger.",
+    "Vault",
+    "Watermarked: A 1815."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852c.ct004291r",
+    "http://hdl.loc.gov/loc.gmd/g3852c.ct004291v",
+    "http://lccn.loc.gov/88690953",
+    "http://www.loc.gov/item/88690953/",
+    "http://www.loc.gov/resource/g3852c.ct004291r/",
+    "http://www.loc.gov/resource/g3852c.ct004291v/",
+    "https://hdl.loc.gov/loc.gmd/g3852c.ct004291r",
+    "https://hdl.loc.gov/loc.gmd/g3852c.ct004291v",
+    "https://search.catalog.loc.gov/instances/12f0c7c1-abe3-5bdc-a9c4-9beba24da438",
+    "https://www.loc.gov/item/88690953/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852c/ct004291r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88690953/\"}",
+  "dct_spatial_sm": [
+    "columbia heights",
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Columbia Heights (Washington, D.C.)--Maps",
+    "Columbia Heights (Washington, D.C.)--Surveys--Maps",
+    "United States--District of Columbia--Washington--Columbia Heights"
+  ],
+  "dct_temporal_sm": [
+    "1815",
+    "[1815?]"
+  ],
+  "dct_title_s": "[Survey map of area at Meridian Hill, Washington D.C.]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88690953",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

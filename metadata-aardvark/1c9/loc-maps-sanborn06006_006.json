@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "69 sheet(s).",
+    "Aug 1972.",
+    "Uncolored 35 X 28 cm. Bound. Other places as they appear on original: Browers Point, Cedarhurst, Harbormere, Hewlett, Hewlett Bay Park, Hewlett Harbor, Hewlett Neck, Lawrence, Meyer Harbor, North Lawrence, Woodmere, Woodsburgh, Part of Town Of Hempstead."
+  ],
+  "dct_identifier_sm": [
+    "https://www.loc.gov/item/sanborn06006_006/"
+  ],
+  "dct_issued_s": "1972-08",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/sanborn06006_006/\"}",
+  "dct_spatial_sm": [
+    "Browers Point",
+    "Cedarhurst",
+    "Harbormere",
+    "Hewlett",
+    "Hewlett Bay Park",
+    "Hewlett Harbor",
+    "Hewlett Neck",
+    "Inwood",
+    "Lawrence",
+    "Meyer Harbor",
+    "Nassau County",
+    "New York",
+    "North Lawrence",
+    "Of Hempstead",
+    "United States",
+    "Woodmere",
+    "Woodsburgh"
+  ],
+  "dct_temporal_sm": [
+    "1972-08"
+  ],
+  "dct_title_s": "Sanborn Fire Insurance Map from Inwood, Nassau County, New York.",
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1972]"
+  ],
+  "gbl_displayNote_sm": [
+    "Includes metadata from the LC Labs Sanborn Maps Data Package (January 2024 source compilation). Current collection coverage and membership reconciliation remain incomplete.",
+    "Catalog access is public. Item-level access restrictions have not been refreshed since the historical package; consult the LOC catalog for current access.",
+    "Source does not confirm digitization. Consult LOC for access to the physical item."
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_mdModified_dt": "2026-10-07T17:59:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "id": "loc-maps-sanborn06006_006",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

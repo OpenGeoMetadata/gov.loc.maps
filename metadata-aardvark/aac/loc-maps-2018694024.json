@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Карта Тобольской губернии"
+  ],
+  "dct_description_sm": [
+    "Contributors: Kartograficheskoe zavedenie A. Il'ina",
+    "Original map at: Tomsk Oblast Museum of Regional History and Folklife",
+    "Publication statement: Saint Petersburg, Russia : Kartograficheskoe zavedenie A. Il'ina, Before 1914."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694024",
+    "http://www.loc.gov/item/2018694024/",
+    "http://www.loc.gov/resource/gdc.2018694024/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.wmt0010",
+    "https://search.catalog.loc.gov/instances/68551db2-e983-5c8a-a454-9c27b64a4a4e",
+    "https://www.loc.gov/item/2018694024/"
+  ],
+  "dct_issued_s": "1914",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694024.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694024/2018694024.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694024:wmt0010/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694024/\"}",
+  "dct_spatial_sm": [
+    "russian federation",
+    "tyumen oblast"
+  ],
+  "dct_subject_sm": [
+    "Russian Federation",
+    "Tobol'skai︠a︡ gubernii︠a︡",
+    "Tyumen Oblast",
+    "Тобольская губерния"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "dct_title_s": "Karta Tobol'skoĭ gubernii",
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1914
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694024",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1-13,445.\"",
+    "\"Source: U.S.G.S. 1:500,000 Base Map.\"",
+    "\"Source: U.S.G.S. 1:500,000 Base Map.\" Indexed for projects. \"1-13,445.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Indexed for projects.",
+    "Publication statement: Lanham, MD : USDA-SCS, 1981."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3751c.ct005708",
+    "http://lccn.loc.gov/82690608",
+    "http://www.loc.gov/item/82690608/",
+    "http://www.loc.gov/resource/g3751c.ct005708/",
+    "https://hdl.loc.gov/loc.gmd/g3751c.ct005708",
+    "https://search.catalog.loc.gov/instances/fd04fccd-d891-5043-a7ac-510f1adaa008",
+    "https://www.loc.gov/item/82690608/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd375/g3751/g3751c/ct005708.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82690608/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "vermont"
+  ],
+  "dct_subject_sm": [
+    "Flood control--Vermont--Maps",
+    "United States--Vermont",
+    "Watershed management--Vermont--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Watershed protection and flood prevention program status as of October 1, 1981, Vermont",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82690608",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

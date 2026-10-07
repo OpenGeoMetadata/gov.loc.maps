@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Imperfect: Losses along right edge.",
+    "In pencil on verso: 127.",
+    "Library of Congress. Civil War maps (2nd ed.), H128",
+    "Pencil (some col.) over a 3-inch pencil grid. On 5 irregularly shaped sheets of tracing paper pasted together and 1 irregularly shaped piece of opaque paper, mounted on cloth.",
+    "Publication statement: [1862-63]",
+    "Relief shown by hachures.",
+    "Shows fortifications, Confederate troop positions, etc. and names of some residents.",
+    "Shows fortifications, Confederate troop positions, etc. and names of some residents. Relief shown by hachures. Title, date, and scale from Stephenson's Civil War maps, 1989. Pencil (some col.) over a 3-inch pencil grid. On 5 irregularly shaped sheets of tracing paper pasted together and 1 irregularly shaped piece of opaque paper, mounted on cloth. Imperfect: Losses along right edge. In pencil on verso: 127. Library of Congress. Civil War maps (2nd ed.), H128 Available also through the Library of Congress web site as raster image.",
+    "Title, date, and scale from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3884f.cwh00128",
+    "http://lccn.loc.gov/2005625036",
+    "http://www.loc.gov/item/2005625036/",
+    "http://www.loc.gov/resource/g3884f.cwh00128/",
+    "https://hdl.loc.gov/loc.gmd/g3884f.cwh00128",
+    "https://search.catalog.loc.gov/instances/1b5f96dd-1ad5-53ce-8b2f-cc97f28fa60c",
+    "https://www.loc.gov/item/2005625036/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884f/cwh00128.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625036/\"}",
+  "dct_spatial_sm": [
+    "fredericksburg region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Fredericksburg Region (Va.)--History--Civil War, 1861-1865--Maps",
+    "Landowners--Virginia--Fredericksburg Region--Maps",
+    "United States--Virginia--Fredericksburg Region"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "[Map of the Rappahannock River below Fredericksburg, showing Port Royal, Moss Neck, Corbin's Neck, etc.]",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625036",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

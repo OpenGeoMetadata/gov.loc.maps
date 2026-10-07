@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Theatrum ichnographicum omnium urbium et præcipuorum oppidorum Belgicarum XVII"
+  ],
+  "dct_description_sm": [
+    "Content in French and Latin and Dutch.",
+    "Contributors: Wit, Frederik de, 1630-1706 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of the Netherlands.",
+    "Publication statement: Amsterdam : Frederick de Wit, [1699 to 1706]",
+    "Theatrum ichnographicum omnium urbium et præcipuorum oppidorum Belgicarum XVII Provinciarum peraccurate delineatarum (Accurately delineated ichnographic plans of all the cities and towns in the seventeen Provinces of the Netherlands), commonly known as the De Wit Atlas, is a city atlas containing maps and prints of key monuments in Dutch cities. The name comes from its creator, Frederick de Wit (1630-1706), an influential cartographer, engraver, and publisher in Amsterdam. Such atlases were popular among wealthy members of the bourgeoisie and nobility in the 17th century. The huge tomes were not designed to be carried on a stroll through the city; this particular atlas weighs more than seven kilograms. The maps are extremely detailed, which makes them perfect for \"armchair tourism.\" The map of Haarlem, for example, offers a very good impression of the old city center. Even today residents can easily identify their own homes on the map. In the 16th century, Antwerp was the center of European cartography. When King Philip II of Spain captured Antwerp in 1585 during the Dutch Revolt against Spanish rule, many cartographers headed north, and Amsterdam became the new cartographic capital. To survey an area for the purpose of drawing new maps, a land surveyor would walk through the city streets and measure the length of the straight stretches by counting the number of steps or by using a geodetic chain or Gunter's measurement. At each curve and intersection the surveyor took a compass reading or used a geometric square or a circumferentor (a predecessor of the theodolite), known locally as a Hollandse cirkel or \"Holland circle,\" to measure the angles of the streets. This generated a network of line segments that formed the framework of the map. Houses, canals, trees, and sometimes even people then were sketched onto this skeleton. The result bears little resemblance to the maps we use today. The difference is due to the fact that the buildings are drawn in a form of three-dimensional projection, on a slanted parallel. The street plan is shown from above, as in modern city maps, but buildings and other objects are depicted from a side perspective. Some maps in the atlas, e.g., the map of Antwerp, were drawn from a bird's-eye view. After the artist had sketched the map, an engraver copied the lines onto a copper plate in mirror image, either by engraving (cutting) or etching (treating the lines with acid). Printing an engraved map was a labor-intensive undertaking. It meant covering the entire plate in ink and then cleaning the surface meticulously so no ink was left anywhere except in the grooves. Then the plate would be printed on slightly damp paper. In that era, it was only possible to print in one color at a time. Clients who wanted their maps in color could have them hand-colored by artists known as \"offsetters.\" The copy of the De Wit Atlas held by the National Library of the Netherlands has been colored by hand, although the best-known copies are simply in black and white.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668587",
+    "http://www.loc.gov/item/2021668587/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_14419/",
+    "http://www.loc.gov/resource/wdl.14419/",
+    "https://hdl.loc.gov/loc.wdl/wdl.14419",
+    "https://www.loc.gov/item/2021668587/"
+  ],
+  "dct_issued_s": "1699-01-01",
+  "dct_language_sm": [
+    "dut",
+    "flemish",
+    "fre",
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: wdl_14419.pdf\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/14/41/9/wdl_14419/wdl_14419.pdf\"}, {\"label\": \"ZIP: wdl_14419.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/14/41/9/wdl_14419/wdl_14419.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:41:9:wdl_14419:007_1046B16_pl_001/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668587/\"}",
+  "dct_spatial_sm": [
+    "belgium",
+    "netherlands"
+  ],
+  "dct_subject_sm": [
+    "1699 to 1706",
+    "Aerial views",
+    "Belgium",
+    "Cities and towns",
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "1699-01-01"
+  ],
+  "dct_title_s": "Accurately Delineated Ichnographic Plans of All the Cities and Towns in the 17 Provinces of the Netherlands.",
+  "gbl_dateRange_drsim": [
+    "[1699 TO 1699]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1699
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668587",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

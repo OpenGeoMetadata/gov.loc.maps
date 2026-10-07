@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to act of Congress AD. 1864 by Virtue, Yorston & Co.\"",
+    "Available also through the Library of Congress web site as raster image.",
+    "Caption in lower margin: A topographical map of the battle field at Antietam from an actual survey by an engineer officer on General Doubleday's staff.",
+    "Contributors: Sholl, Charles",
+    "Description derived from published bibliography.",
+    "From Tomes, Robert. The war with the South. New York, Virtue & Yorston, 1862-1867, v. 2, between p. 426 and 427.",
+    "From Tomes, Robert. The war with the South. New York, Virtue & Yorston, 1862-1867, v. 2, between p. 426 and 427. Signed (facsim.): Charles: Sholl, Topl. Engineer. \"Entered according to act of Congress AD. 1864 by Virtue, Yorston & Co.\" Caption in lower margin: A topographical map of the battle field at Antietam from an actual survey by an engineer officer on General Doubleday's staff. Description derived from published bibliography. Scale ca. 1:26,700. LC Civil War Maps (2nd ed.), 246.2 Available also through the Library of Congress web site as raster image.",
+    "LC Civil War Maps (2nd ed.), 246.2",
+    "Publication statement: New York, c1864.",
+    "Scale ca. 1:26,700.",
+    "Signed (facsim.): Charles: Sholl, Topl. Engineer."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842a.cw0246200",
+    "http://lccn.loc.gov/99447381",
+    "http://www.loc.gov/item/99447381/",
+    "http://www.loc.gov/resource/g3842a.cw0246200/",
+    "https://hdl.loc.gov/loc.gmd/g3842a.cw0246200",
+    "https://search.catalog.loc.gov/instances/3479f41a-a5c0-5fe8-9b62-f1075f3260b5",
+    "https://www.loc.gov/item/99447381/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842a/cw0246200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447381/\"}",
+  "dct_spatial_sm": [
+    "antietam",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Antietam, Battle of, Md",
+    "Antietam, Battle of, Md., 1862--Maps",
+    "United States--Maryland--Antietam"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Antietam Sharpsburg and vicinity. Constructed and engraved to illustrate \"The war with the South\"",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447381",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

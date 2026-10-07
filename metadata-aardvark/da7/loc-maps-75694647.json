@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Brown, Treacy & Co. (Saint Paul, Minn.)",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 410",
+    "Perspective map not drawn to scale.",
+    "Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 410 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: [n.p.] c1893."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4144s.pm004100",
+    "http://lccn.loc.gov/75694647",
+    "http://www.loc.gov/item/75694647/",
+    "http://www.loc.gov/resource/g4144s.pm004100/",
+    "https://hdl.loc.gov/loc.gmd/g4144s.pm004100",
+    "https://search.catalog.loc.gov/instances/8ca9b6b1-43ac-5af0-80f0-461a220073de",
+    "https://www.loc.gov/item/75694647/"
+  ],
+  "dct_issued_s": "1893",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd414/g4144/g4144s/pm004100.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694647/\"}",
+  "dct_spatial_sm": [
+    "minnesota",
+    "saint paul",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Saint Paul (Minn.)--Maps",
+    "United States--Minnesota--Saint Paul"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "dct_title_s": "Bird's-eye view of St. Paul, looking west from Dayton's Bluff",
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694647",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

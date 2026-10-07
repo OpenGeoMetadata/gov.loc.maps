@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1854 by W. Williams, in the Clerk's Office of the Eastern District of Pennsylvania.\"",
+    "\"Published under the patronage of the legislature.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Williams, W. (Wellington)",
+    "Prime meridian: Washington.",
+    "Publication statement: Philadelphia : [s.n.], 1854.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows boundaries, cities and towns, churches, mills, principal roads, plank roads, railroads, gold mines, and natural features. Prime meridian: Washington. \"Published under the patronage of the legislature.\" \"Entered according to Act of Congress in the year 1854 by W. Williams, in the Clerk's Office of the Eastern District of Pennsylvania.\" Available also through the Library of Congress Web site as a raster image.",
+    "Shows boundaries, cities and towns, churches, mills, principal roads, plank roads, railroads, gold mines, and natural features."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3900.ct003170",
+    "http://lccn.loc.gov/2010587011",
+    "http://www.loc.gov/item/2010587011/",
+    "http://www.loc.gov/resource/g3900.ct003170/",
+    "https://hdl.loc.gov/loc.gmd/g3900.ct003170",
+    "https://search.catalog.loc.gov/instances/e2578d26-1ef0-540a-9341-b060df42c317",
+    "https://www.loc.gov/item/2010587011/"
+  ],
+  "dct_issued_s": "1854",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3900/g3900/ct003170.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010587011/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "North Carolina--Maps",
+    "United States--North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "dct_title_s": "A new map of the state of North Carolina : constructed from actual surveys, authentic public documents and private contributions",
+  "gbl_dateRange_drsim": [
+    "[1854 TO 1854]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1854
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010587011",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

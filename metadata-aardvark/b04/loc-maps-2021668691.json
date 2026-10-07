@@ -1,0 +1,87 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Persia sive Sophorum Regnum"
+  ],
+  "dct_description_sm": [
+    "\"Scale approximately 1:6,500,000\"--Note extracted from World Digital Library.",
+    "Content in Latin.",
+    "Contributors: Blaeu, Willem Janszoon, 1571-1638 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: Qatar National Library.",
+    "Original resource extent: 1 map : hand colored ; 48 x 36 centimeters.",
+    "Publication statement: Amsterdam : Joan Blaeu, 1635.",
+    "This decorative and detailed map of Persia is by Willem Janszoon Blaeu (1571-1638), a Dutch cartographer, globe maker, and publisher. Blaeu trained with the Danish astronomer Tycho Brahe and began producing maps and charts in the early years of the 17th century. In 1633 he became the official cartographer for the Vereenigde Oost-Indische Compagnie (VOC--Dutch East India Company). Blaeu is best known for his Theatrum Orbis Terrarum sive Atlas Novus (New map and atlas of the world), published in Amsterdam in 1635, of which this hand-colored map formed part. It shows Persia extending from the eastern Mediterranean to the Indus River, with the Red Sea and the Persian Gulf in the south, and the Caspian Sea, Russia, and Tartary in the north. The map shows Safavid Persia at the height of its power. It includes areas of present-day Iran, Iraq, Armenia, Azerbaijan, Georgia, Turkmenistan, Afghanistan, Oman, Bahrain, Saudi Arabia, and Kuwait. Hundreds of towns and cities are noted, as well as rivers, lakes, mountain ranges, and turquoise mines. A decorative title cartouche shows a Persian ruler with two guards holding spears and swords; a sailing ship is seen in the Indian Ocean. The two scales are in German common miles and in parasangs (the Persian equivalent of leagues). Willem Janzoon's son, Joan Blaeu (1596-1673), continued publishing maps and atlases, including the Atlas Blaeu-Van der Hem, one of the most beautiful and remarkable atlases ever made.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668691",
+    "http://www.loc.gov/item/2021668691/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_17568/",
+    "http://www.loc.gov/resource/wdl.17568/",
+    "https://hdl.loc.gov/loc.wdl/wdl.17568",
+    "https://www.loc.gov/item/2021668691/"
+  ],
+  "dct_issued_s": "1635-01-01",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_17568.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/17/56/8/wdl_17568/wdl_17568.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:56:8:wdl_17568:241/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668691/\"}",
+  "dct_spatial_sm": [
+    "afghanistan",
+    "armenia",
+    "azerbaijan",
+    "bahrain",
+    "georgia",
+    "iran, islamic republic of",
+    "kuwait",
+    "oman",
+    "qatar",
+    "saudi arabia",
+    "turkmenistan",
+    "united arab emirates"
+  ],
+  "dct_subject_sm": [
+    "1635",
+    "Afghanistan",
+    "Arabian Gulf",
+    "Arabian Peninsula",
+    "Armenia",
+    "Azerbaijan",
+    "Bahrain",
+    "Georgia",
+    "Iran, Islamic Republic of",
+    "Kuwait",
+    "Oman",
+    "Persian Gulf",
+    "Qatar",
+    "Saudi Arabia",
+    "Turkmenistan",
+    "United Arab Emirates",
+    "Ṣafavid dynasty, 1501-1736"
+  ],
+  "dct_temporal_sm": [
+    "1635-01-01"
+  ],
+  "dct_title_s": "Persia, or the Safavid Kingdom.",
+  "gbl_dateRange_drsim": [
+    "[1635 TO 1635]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1635
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668691",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

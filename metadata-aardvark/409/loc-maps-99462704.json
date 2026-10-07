@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Bonner, William G.",
+    "LC copy imperfect: Stained, darkened, creased, mounted on cloth backing, and with small holes along creases.",
+    "Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, no. 26",
+    "Prime meridian: Washington.",
+    "Prime meridian: Washington. Library of Congress. Maps showing explorers’ routes, trails & early roads in the United States, no. 26 Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Stained, darkened, creased, mounted on cloth backing, and with small holes along creases.",
+    "Publication statement: Milledgeville, [Ga.] : Wm. G. Bonner, 1848."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/99462704",
+    "http://www.loc.gov/item/99462704/",
+    "http://www.loc.gov/resource/g3920.ct009965/",
+    "https://hdl.loc.gov/loc.gmd/g3920.ct009965",
+    "https://search.catalog.loc.gov/instances/ae007034-0b3b-5cb7-a545-8488bf4b9681",
+    "https://www.loc.gov/item/99462704/"
+  ],
+  "dct_issued_s": "1848",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3920/g3920/ct009965.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99462704/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Georgia--Maps",
+    "United States--Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "dct_title_s": "Bonner's pocket map of the state of Georgia",
+  "gbl_dateRange_drsim": [
+    "[1848 TO 1848]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1848
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99462704",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"The Ohio River begins in Pittsburgh, Pennsylvania, at the confluence of the Allegheny and Monongahela rivers and flows southwestward toward the Mississippi River. This map shows the course of the Ohio from Fort Pitt, site of present-day Pittsburgh, to what is now New Martinsville, West Virginia. A pencil annotation reads \"Montresor, 1776,\" indicating that the map was made in that year by the British military engineer John Montrésor (1736-99). Montrésor fought in many of the most important engagements of the French and Indian War and was in Boston in 1775 when the Revolutionary War broke out. He served for a time as the chief engineer of the British army in North America. The map presumably was made to support planning for British military operations. It shows the location of Fort Pitt and two settlements to the south: Mingo Town (the Mingo were an Indian group associated with the Seneca) and \"Logs Town.\" Also shown are the location of rapids and the tributaries of the Ohio, their widths indicated in the notes. Fort Pitt was built by the British in 1759-61 during the French and Indian War on the site of Fort Duquesne, built by the French in 1754 and abandoned and destroyed by them in 1758. It was an important strategic post in the western theater of the Revolutionary War.\" World Digital Library.",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Montrésor, John, 1736-1799",
+    "Has watermark.",
+    "In pencil: Montresor, 1776.",
+    "Includes notes on the width of tributaries.",
+    "LC Maps of North America, 1750-1789, 788",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: 1776]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:700,000.",
+    "Shows river course from New Martinsville, W.Va. to Pittsburgh.",
+    "Title from Peter Force's catalog of manuscript maps.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3707o.ar078800",
+    "http://lccn.loc.gov/gm71002315",
+    "http://www.loc.gov/item/gm71002315/",
+    "http://www.loc.gov/resource/g3707o.ar078800/",
+    "https://hdl.loc.gov/loc.gmd/g3707o.ar078800",
+    "https://search.catalog.loc.gov/instances/7ab75eb7-351e-522c-86a4-4961c154cab4",
+    "https://www.loc.gov/item/gm71002315/"
+  ],
+  "dct_issued_s": "1776",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3707/g3707o/ar078800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002315/\"}",
+  "dct_spatial_sm": [
+    "ohio river valley",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Ohio River Valley--Maps, Manuscript--Early works to 1800",
+    "United States--Ohio River Valley"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "dct_title_s": "[Map of the Ohio River from Fort Pitt",
+  "gbl_dateRange_drsim": [
+    "[1776 TO 1776]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1776
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002315",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

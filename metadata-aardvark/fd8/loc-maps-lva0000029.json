@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Evans & Cogswell.; United States Coast Survey.",
+    "Mar. 2002; Laurence Lingle, Fort Worth, Tx., 1971; Map Cataloging Team.",
+    "Parrish & Willingham. Confederate imprints, 6162",
+    "Publication statement: Columbia, S.C. : Evans & Cogswell, [1864]",
+    "Railroad lines superimposed in red as are mileage circles in ten-mile increments from Richmond to 120 miles.",
+    "Railroad lines superimposed in red as are mileage circles in ten-mile increments from Richmond to 120 miles. Relief shown by hachures. This item is in the Map Collection of the Library of Virginia; please contact the Library's Archives Research Services department for more information. Parrish & Willingham. Confederate imprints, 6162 Available also through the Library of Congress web site as raster image. Mar. 2002; Laurence Lingle, Fort Worth, Tx., 1971; Map Cataloging Team.",
+    "Relief shown by hachures.",
+    "This item is in the Map Collection of the Library of Virginia; please contact the Library's Archives Research Services department for more information."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.ndlpcoop/glva01.lva00029",
+    "http://www.loc.gov/item/lva0000029/",
+    "http://www.loc.gov/resource/glva01.lva00029/",
+    "https://hdl.loc.gov/loc.ndlpcoop/glva01.lva00029",
+    "https://www.loc.gov/item/lva0000029/"
+  ],
+  "dct_issued_s": "1864-01-01",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmdlva/glva/glva01/lva00029.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/lva0000029/\"}",
+  "dct_spatial_sm": [
+    "north carolina",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "North Carolina--History--Civil War, 1861-1865--Maps",
+    "United States--North Carolina",
+    "United States--Virginia",
+    "Virginia--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1864-01-01"
+  ],
+  "dct_title_s": "Map of eastern Virginia and North Carolina from the United States Coast Survey",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-lva0000029",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

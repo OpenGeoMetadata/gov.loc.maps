@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Abriss der Weltberühmten Statt Ierusalem, samt ihren vor Stätten, wie Sie zur Zeit Christi im Flor gestanden"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Conserved; 003405.1 1977 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Contributors: Adrichem, Christiaan van, 1533-1585; Seutter, Matthaeus, 1678-1756",
+    "German. Titles in Latin and German.",
+    "Includes descriptive text in German.",
+    "Publication statement: Augustanum : Matthaeum Seutter, [ca. 1730].",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Shows Jerusalem during the time of Christ. Includes descriptive text in German. Available also through the Library of Congress Web site as a raster image. German. Titles in Latin and German. Conserved; 003405.1 1977 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Shows Jerusalem during the time of Christ."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7504j.ct002405",
+    "http://lccn.loc.gov/2010587005",
+    "http://www.loc.gov/item/2010587005/",
+    "http://www.loc.gov/resource/g7504j.ct002405/",
+    "https://hdl.loc.gov/loc.gmd/g7504j.ct002405",
+    "https://search.catalog.loc.gov/instances/7b13d12e-b1b1-5a40-a0ec-6ed207e69ba0",
+    "https://www.loc.gov/item/2010587005/"
+  ],
+  "dct_language_sm": [
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7504/g7504j/ct002405.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010587005/\"}",
+  "dct_spatial_sm": [
+    "israel",
+    "jerusalem"
+  ],
+  "dct_subject_sm": [
+    "Israel--Jerusalem",
+    "Jerusalem--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1730",
+    "Augustanum : Matthaeum Seutter, [ca. 1730]."
+  ],
+  "dct_title_s": "Ierusalem, cum suburbiis, prout tempore Christi floruit, accurate notatis omnibus insignibus et praecipuè iis locis",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010587005",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

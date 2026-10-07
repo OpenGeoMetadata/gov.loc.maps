@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Conserved; 04-85-721 1985 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda",
+    "Contributors: Lederle, O.",
+    "Description derived from published bibliography.",
+    "Indicates towns, roads, railroads, and drainage.",
+    "LC Civil War maps (2nd ed.), S113",
+    "Publication statement: 1862.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Description derived from published bibliography. Indicates towns, roads, railroads, and drainage. LC Civil War maps (2nd ed.), S113 Available also through the Library of Congress web site as raster image. Conserved; 04-85-721 1985 Library of Congress Conservation Division. For treatment information, contact the Preservation Directorate. https://ask.loc.gov/preservation pda"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3950.cws00113",
+    "http://lccn.loc.gov/2006636271",
+    "http://www.loc.gov/item/2006636271/",
+    "http://www.loc.gov/resource/g3950.cws00113/",
+    "https://hdl.loc.gov/loc.gmd/g3950.cws00113",
+    "https://search.catalog.loc.gov/instances/1aa10253-7076-548e-92b6-a05d37c8ec6a",
+    "https://www.loc.gov/item/2006636271/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd395/g3950/g3950/cws00113.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006636271/\"}",
+  "dct_spatial_sm": [
+    "kentucky",
+    "tennessee",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Kentucky--Maps",
+    "Tennessee--Maps",
+    "United States--Kentucky",
+    "United States--Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "Kentucky and Tennessee",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006636271",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

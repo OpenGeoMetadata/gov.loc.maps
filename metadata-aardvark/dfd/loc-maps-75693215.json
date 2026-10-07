@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Heinicke-Fiegel Litho. Co; Hoerner, John Simon, 1846-",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 162",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 162 Available also through the Library of Congress Web site as a raster image. AACR2: 651/1",
+    "Publication statement: Highland, J. S. Hoerner, c1894."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4104h.pm001620",
+    "http://lccn.loc.gov/75693215",
+    "http://www.loc.gov/item/75693215/",
+    "http://www.loc.gov/resource/g4104h.pm001620/",
+    "https://hdl.loc.gov/loc.gmd/g4104h.pm001620",
+    "https://search.catalog.loc.gov/instances/4c863223-9ce9-5bb1-b5ef-90d74857c34d",
+    "https://www.loc.gov/item/75693215/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd410/g4104/g4104h/pm001620.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75693215/\"}",
+  "dct_spatial_sm": [
+    "highland",
+    "illinois",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Highland (Ill.)",
+    "United States--Illinois--Highland"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "Highland, Ill",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75693215",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

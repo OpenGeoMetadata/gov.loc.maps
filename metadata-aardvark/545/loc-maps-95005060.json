@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: Geological Survey (U.S.); Schweitzer, Peter N.",
+    "Data depicts monthly averages of sea-ice concentration in the modern polar oceans. Averages were derived from the Scanning Multichannel Microwave Radiometer and Special Sensor Microwave/Imager instruments aboard satellites of the U.S. Air Force Defense Meteorological Satellite Program from 1978 through 1992. Data are provided as 8-bit images using the Hierarchical Data Format developed by the National Center for Supercomputing Applications. Includes software to retrieve the sea-ice-concentration changes at any polar oceanic location and to display the data graphically.",
+    "Earth and climate scientists.",
+    "FFD. 8 coded a temporarily.",
+    "Publication statement: [Reston, Va.] : U.S. Geological Survey, 1995.",
+    "System requirements for IBM: IBM-compatible PC 386 or 486 CPU; 4MB RAM; MS-or PC-DOS 3.3 or later; Microsoft MSCDEX 2.1 or later; Super VGA graphics system; CD-ROM drive with ISO 9660 driver.",
+    "System requirements for Macintosh: Macintosh; 4MB RAM; System 7.0 or later; 256-color display; CD-ROM drive.",
+    "System requirements for UNIX: ANSI-conformant C-language compiler; 8MB RAM; X Window System 11, release 4 or later; CD-ROM drive with ISO 9660 driver.",
+    "Title from container insert."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/95005060",
+    "http://www.loc.gov/item/95005060/",
+    "http://www.loc.gov/resource/gdcdatasets.95005060/",
+    "https://hdl.loc.gov/loc.gdc/gdcdatasets.95005060",
+    "https://search.catalog.loc.gov/instances/8b30f69a-d7ee-5e16-a08b-6aee8894a9f8",
+    "https://www.loc.gov/item/95005060/"
+  ],
+  "dct_issued_s": "1995",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/95005060/\"}",
+  "dct_rights_sm": [
+    "Public Domain Mark 1.0 Universal PDM 1.0 https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_spatial_sm": [
+    "polar regions"
+  ],
+  "dct_subject_sm": [
+    "Georeference data",
+    "Microwave remote sensing--Maps",
+    "Sea ice--Polar regions--Remote-sensing maps"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_title_s": "Monthly average polar sea-ice concentration",
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1995]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-95005060",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

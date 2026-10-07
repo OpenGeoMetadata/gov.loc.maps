@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base compiled from county general highway map ...\"",
+    "\"Source: Original draft by State Soil Survey staff.\"",
+    "\"This general soil map is suitable for broad planning purposes only ...\"",
+    "\"This general soil map is suitable for broad planning purposes only ...\" In lower right corner: May 1980 4-R-37440. \"Base compiled from county general highway map ...\" \"Source: Original draft by State Soil Survey staff.\" Includes table of \"Proportion of association in the county\" and location map. Text and table of \"Soil interpretations for selected uses\" on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Texas Agricultural Experiment Station; United States. Soil Conservation Service",
+    "In lower right corner: May 1980 4-R-37440.",
+    "Includes table of \"Proportion of association in the county\" and location map.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1980.",
+    "Text and table of \"Soil interpretations for selected uses\" on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/83693513",
+    "http://www.loc.gov/item/83693513/",
+    "http://www.loc.gov/resource/g4033k.ct011537/",
+    "https://hdl.loc.gov/loc.gmd/g4033k.ct011537",
+    "https://search.catalog.loc.gov/instances/e74334c2-a1b5-54c0-9c3c-288ab058e6b2",
+    "https://www.loc.gov/item/83693513/"
+  ],
+  "dct_issued_s": "1980",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd403/g4033/g4033k/ct011537.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83693513/\"}",
+  "dct_spatial_sm": [
+    "kaufman county",
+    "texas",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soils--Texas--Kaufman County--Maps",
+    "United States--Texas--Kaufman County"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_title_s": "General soil map, Kaufman County, Texas",
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1980]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83693513",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

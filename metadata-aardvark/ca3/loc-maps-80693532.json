@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Folded title: Antietam National Battlefield Site, Maryland.",
+    "Folded title: Antietam National Battlefield Site, Maryland. Includes text and descriptive index to points of interest. Text and ill. on verso. Scale ca. 1:23,500. LC Civil War maps (2nd ed.), 250.9 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Includes text and descriptive index to points of interest.",
+    "LC Civil War maps (2nd ed.), 250.9",
+    "Publication statement: [Washington] : The Service, [1978]",
+    "Scale ca. 1:23,500.",
+    "Text and ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842a.cw0250900",
+    "http://lccn.loc.gov/80693532",
+    "http://www.loc.gov/item/80693532/",
+    "http://www.loc.gov/resource/g3842a.cw0250900/",
+    "https://hdl.loc.gov/loc.gmd/g3842a.cw0250900",
+    "https://search.catalog.loc.gov/instances/2cca9fba-5765-59ba-96f7-cfdfec8c1b07",
+    "https://www.loc.gov/item/80693532/"
+  ],
+  "dct_issued_s": "1978",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842a/cw0250900.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80693532/\"}",
+  "dct_spatial_sm": [
+    "antietam",
+    "antietam national battlefield",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Antietam National Battlefield (Md.)--Maps",
+    "Antietam, Battlefield of, Md",
+    "United States--Maryland--Antietam"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_title_s": "Antietam Battlefield : new 1972",
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1978]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80693532",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

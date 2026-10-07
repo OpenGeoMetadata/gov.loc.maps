@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Andriveau-Goujon, J.; Cassini, César-François, 1714-1784; Dépôt de la guerre (France); Société de la carte de France",
+    "Engravers named on some sheets: C. Aldring, Aubin, J.A. Aveline, Beauvais, Bourgoin, R. Brunet, N. Chalmandrier, Chambon, Desbruslins, B. Desfontaines, Dupain-Triel fils, Durand, Foin, Le Roy le ainé, Le Roy le jeune, J. Séguin.",
+    "LC copy imperfect: lacking sheets 1, 7, 8, 24-28, 60-64, 93-98, 102-105, 125-130, 167, 170-72.",
+    "LC copy includes 2 copies of sheets 10 and 78 (1 copy of 1 state, 2 copies of the other).",
+    "LC copy includes 2 different states of sheets 5, 6, 41, 43, 77, 78, 109 (feuille 68), 110, 113, 141 (feuille 73), 142, 161, and 162.",
+    "LC copy includes some sheets mounted in sections on cloth backing.",
+    "LC scanned copy is LC copy 2 from the Hauslab-Liechtenstein collection. This is a complete set, hand colored, on uncut sheets of heavy paper.",
+    "Most sheets include both a sheet number in the upper right or middle margin and a number in the upper left indicating the order of publication, e.g. no. 3, feuille 11.",
+    "Publication information and dates from Pelletier's Cartes des Cassini, 2002.",
+    "Publication statement: [Paris : Société de la carte de France], 1756-[1818]",
+    "Publication taken over by Dépôt de la guerre in 1793.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Title from sheets no. 1 and no. 6. Publication taken over by Dépôt de la guerre in 1793. Publication information and dates from Pelletier's Cartes des Cassini, 2002. Engravers named on some sheets: C. Aldring, Aubin, J.A. Aveline, Beauvais, Bourgoin, R. Brunet, N. Chalmandrier, Chambon, Desbruslins, B. Desfontaines, Dupain-Triel fils, Durand, Foin, Le Roy le ainé, Le Roy le jeune, J. Séguin. Sheet no. 160 was never published, but its projected coverage was included in some states of sheet 131. Most sheets include both a sheet number in the upper right or middle margin and a number in the upper left indicating the order of publication, e.g. no. 3, feuille 11. LC scanned copy is LC copy 2 from the Hauslab-Liechtenstein collection. This is a complete set, hand colored, on uncut sheets of heavy paper. LC copy includes 2 different states of sheets 5, 6, 41, 43, 77, 78, 109 (feuille 68), 110, 113, 141 (feuille 73), 142, 161, and 162. LC copy includes 2 copies of sheets 10 and 78 (1 copy of 1 state, 2 copies of the other). LC copy includes some sheets mounted in sections on cloth backing. LC copy imperfect: lacking sheets 1, 7, 8, 24-28, 60-64, 93-98, 102-105, 125-130, 167, 170-72. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Sheet no. 160 was never published, but its projected coverage was included in some states of sheet 131.",
+    "Title from sheets no. 1 and no. 6."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5830m.ghl00001",
+    "http://lccn.loc.gov/gm72002942",
+    "http://www.loc.gov/item/gm72002942/",
+    "http://www.loc.gov/resource/g5830m.ghl00001/",
+    "https://hdl.loc.gov/loc.gmd/g5830m.ghl00001",
+    "https://search.catalog.loc.gov/instances/7225bdfe-b5da-519f-9cdd-1d1bec80ad51",
+    "https://www.loc.gov/item/gm72002942/"
+  ],
+  "dct_issued_s": "1756",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5m/g5830m/g5830m/ghl00001/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm72002942/\"}",
+  "dct_spatial_sm": [
+    "france"
+  ],
+  "dct_subject_sm": [
+    "France",
+    "France--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1756"
+  ],
+  "dct_title_s": "Carte de France",
+  "gbl_dateRange_drsim": [
+    "[1756 TO 1756]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1756
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm72002942",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

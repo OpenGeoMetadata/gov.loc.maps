@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 90-5",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lotter, Georg Friedrich; Lotter, Matthaüs Albrecht, 1741-1810",
+    "Except for the title the map is in English.",
+    "LC copy annotated in black ink on verso: Les XIII PW4 unies lʼAmériq. LC copy annotated in pencil on verso: Americanische Staaten.",
+    "Prime meridian: Ferro.",
+    "Publication statement: Augsbourg : Lotter, between 1778 and 1783.",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. Except for the title the map is in English. Taken from Thomas Pownall's A new and correct map of North America. Prime meridian: Ferro. Available also through the Library of Congress Web site as a raster image. LC copy annotated in black ink on verso: Les XIII PW4 unies lʼAmériq. LC copy annotated in pencil on verso: Americanische Staaten. Acquisitions control no. 90-5",
+    "Taken from Thomas Pownall's A new and correct map of North America."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.ar304800",
+    "http://lccn.loc.gov/90681304",
+    "http://www.loc.gov/item/90681304/",
+    "http://www.loc.gov/resource/g3700.ar304800/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ar304800",
+    "https://search.catalog.loc.gov/instances/67f1ae70-6180-5c3e-a13c-079f9d1d7978",
+    "https://www.loc.gov/item/90681304/"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "fre",
+    "freeng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ar304800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/90681304/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1778",
+    "Augsbourg : Lotter, between 1778 and 1783."
+  ],
+  "dct_title_s": "Carte de la nouvelle république de lʼAmérique ou les treize Provinces Unies : contenant, 1. New Hampshire, 2. Massachusetsbaye, 3. Rhode-Island, & 4. Connecticut, 5. La Nouvelle York, 6. Nouvelle Jersey, 7. La Pensilvanie, 8. Les Comtés de Newcastle, Kent, et Sussex sur la Delaware, 9. Mariland, 10. La Virginie, 11. La Caroline septentrionale, 12. La Caroline méridionale, et 13. La Géorgie",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-90681304",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

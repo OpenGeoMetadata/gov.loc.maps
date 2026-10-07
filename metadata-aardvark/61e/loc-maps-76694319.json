@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"517908, 12-75 (542253).\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, 1975]",
+    "Scale 1:15,500,000.",
+    "Shows radial distances.",
+    "Shows radial distances. \"517908, 12-75 (542253).\" Scale 1:15,500,000. Available also through the Library of Congress Web site as a raster image. AACR2"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5671b.ct002692",
+    "http://lccn.loc.gov/76694319",
+    "http://www.loc.gov/item/76694319/",
+    "http://www.loc.gov/resource/g5671b.ct002692/",
+    "https://hdl.loc.gov/loc.gmd/g5671b.ct002692",
+    "https://search.catalog.loc.gov/instances/da97d1d2-57f4-5d32-b9e7-7e38109f4661",
+    "https://www.loc.gov/item/76694319/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5671/g5671b/ct002692.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/76694319/\"}",
+  "dct_spatial_sm": [
+    "abīs al mustajaddah",
+    "eastern hemisphere",
+    "egypt"
+  ],
+  "dct_subject_sm": [
+    "Abīs al Mustajaddah (Egypt)--Distances, etc.--Maps",
+    "Azimuthal equidistant projection (Cartography)--Maps",
+    "Eastern Hemisphere",
+    "Eastern Hemisphere--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "Azimuthal equidistant projection centered on Abīs al Mustajaddah, Egypt, 31⁰08ʹN., 30⁰06ʹE",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-76694319",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

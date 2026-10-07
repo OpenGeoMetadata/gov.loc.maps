@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Big Stone Gap Improvement Co; Hoeing, Joseph Bernard, 1855-",
+    "LC copy annotated in pencil.",
+    "LC copy imperfect: Deteriorated and stained along folds.",
+    "Publication statement: Big Stone Gap : Big Stone Gap Imp. Co., c1890.",
+    "Relief shown by shading.",
+    "Relief shown by shading. Scale 1:633,600; 10 miles = 1 in. Available also through the Library of Congress Web site as a raster image. LC copy imperfect: Deteriorated and stained along folds. LC copy annotated in pencil. AACR2: 651/1; 710/1",
+    "Scale 1:633,600; 10 miles = 1 in."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/80693906",
+    "http://www.loc.gov/item/80693906/",
+    "http://www.loc.gov/resource/g3884b.ct009306/",
+    "https://hdl.loc.gov/loc.gmd/g3884b.ct009306",
+    "https://search.catalog.loc.gov/instances/f3e3f932-e8ce-5258-9eb5-757dd52aaa68",
+    "https://www.loc.gov/item/80693906/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3884/g3884b/ct009306.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80693906/\"}",
+  "dct_spatial_sm": [
+    "big stone gap region",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Big Stone Gap Region (Va.)--Maps",
+    "United States--Virginia--Big Stone Gap Region"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Map showing location of Big Stone Gap, Va., and its relation to the south Appalachian system",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80693906",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

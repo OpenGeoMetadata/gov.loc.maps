@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Compiled from USGS 1:24 000-scale topographic maps dated 1965-1968.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes notes.",
+    "Publication statement: [Lanham? Md.] : The Service, [1979?]",
+    "Title in right lower margin: Carroll Co., Va. : N3633-W8026.5/23.5x36.5 : 1979.",
+    "Title in right lower margin: Carroll Co., Va. : N3633-W8026.5/23.5x36.5 : 1979. \"Compiled from USGS 1:24 000-scale topographic maps dated 1965-1968.\" UTM grid. Includes notes. Available also through the Library of Congress Web site as a raster image.",
+    "UTM grid."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3883c.ct009233",
+    "http://lccn.loc.gov/82693329",
+    "http://www.loc.gov/item/82693329/",
+    "http://www.loc.gov/resource/g3883c.ct009233/",
+    "https://hdl.loc.gov/loc.gmd/g3883c.ct009233",
+    "https://search.catalog.loc.gov/instances/90102ba7-8145-546c-91ac-0b6770997d3f",
+    "https://www.loc.gov/item/82693329/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3883/g3883c/ct009233.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/82693329/\"}",
+  "dct_spatial_sm": [
+    "carroll county",
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "Carroll County (Va.)--Maps",
+    "United States--Virginia--Carroll County"
+  ],
+  "dct_temporal_sm": [
+    "1979",
+    "[Lanham? Md.] : The Service, [1979?]"
+  ],
+  "dct_title_s": "Carroll County, Virginia",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-82693329",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

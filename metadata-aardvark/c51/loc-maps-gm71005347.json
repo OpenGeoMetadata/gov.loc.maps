@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Published by T. M. Fowler and James B. Moyer.\"",
+    "AACR2: 100; 651/1; 700/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. \"Published by T. M. Fowler and James B. Moyer.\" Includes index to points of interest and inset \"View of East Columbia.\" Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 755 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 700/1",
+    "Contributors: Fowler, T. M. (Thaddeus Mortimer), 1842-1922; Moyer, James B.",
+    "Includes index to points of interest and inset \"View of East Columbia.\"",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 755",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Morrisville, Pa. : [s.n., 1894]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824c.pm007550",
+    "http://lccn.loc.gov/gm71005347",
+    "http://www.loc.gov/item/gm71005347/",
+    "http://www.loc.gov/resource/g3824c.pm007550/",
+    "https://hdl.loc.gov/loc.gmd/g3824c.pm007550",
+    "https://search.catalog.loc.gov/instances/c907c0a9-cdc6-541e-807a-b8863492330b",
+    "https://www.loc.gov/item/gm71005347/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824c/pm007550.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005347/\"}",
+  "dct_spatial_sm": [
+    "columbia",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Columbia (Pa.)--Maps",
+    "United States--Pennsylvania--Columbia"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "Columbia, Pennsylvania 1894",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005347",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

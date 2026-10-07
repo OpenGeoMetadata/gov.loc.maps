@@ -1,0 +1,65 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Also shows Smithsonian Institution buildings.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Blueprint.",
+    "Contributors: United States. Office of Public Buildings and Grounds",
+    "Covers the Mall between 7th and 12th streets.",
+    "Covers the Mall between 7th and 12th streets. Also shows Smithsonian Institution buildings. Blueprint. Includes note. Available also through the Library of Congress Web site as a raster image. LC copy fold-lined, annotated in red pencil, and has round label affixed with letter \"A\" in ink. DCP",
+    "DCP",
+    "Includes note.",
+    "LC copy fold-lined, annotated in red pencil, and has round label affixed with letter \"A\" in ink.",
+    "Publication statement: [Washington] : The Office, [1882]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852m.ct004998",
+    "http://lccn.loc.gov/88693093",
+    "http://www.loc.gov/item/88693093/",
+    "http://www.loc.gov/resource/g3852m.ct004998/",
+    "https://hdl.loc.gov/loc.gmd/g3852m.ct004998",
+    "https://search.catalog.loc.gov/instances/e91f1f17-44d3-58c5-ba9a-96ead675698b",
+    "https://www.loc.gov/item/88693093/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852m/ct004998.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88693093/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "the mall",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Mall, The (Washington, D.C.)--Maps",
+    "Smithsonian Institution--Maps",
+    "United States--District of Columbia--Washington--Mall, The",
+    "United States--District of Columbia--Washington--Smithsonian Institution"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "Plan of Smithsonian Park : [part of the Mall, Washington D.C.]",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88693093",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

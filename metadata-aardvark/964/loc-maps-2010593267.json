@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of the village of Lockport, Niagara County, New York"
+  ],
+  "dct_description_sm": [
+    "Acquisitions control no. 2005-164",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Callan, Bernard; Dripps, M. (Matthew); Kollner, Augustus, 1813-1906",
+    "Includes 6 detail maps.",
+    "LC copy imperfect: Minor losses at top-center of map, significant liquid staining throughout.",
+    "Mounted on cloth. Attached to wooden rods along top and bottom of sheet.",
+    "Publication statement: New York : M. Dripps, 1851.",
+    "Relief shown by hachures.",
+    "Vendor: John Carbonell",
+    "Wall map.",
+    "Wall map. Relief shown by hachures. Includes 6 detail maps. Mounted on cloth. Attached to wooden rods along top and bottom of sheet. LC copy imperfect: Minor losses at top-center of map, significant liquid staining throughout. Available also through the Library of Congress Web site as a raster image. Vendor: John Carbonell Acquisitions control no. 2005-164"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3804l.la002041",
+    "http://lccn.loc.gov/2010593267",
+    "http://www.loc.gov/item/2010593267/",
+    "http://www.loc.gov/resource/g3804l.la002041/",
+    "https://hdl.loc.gov/loc.gmd/g3804l.la002041",
+    "https://search.catalog.loc.gov/instances/1cc0faa2-6cf3-52fa-ae5d-ef80051e9df8",
+    "https://www.loc.gov/item/2010593267/"
+  ],
+  "dct_issued_s": "1851",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd380/g3804/g3804l/la002041.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010593267/\"}",
+  "dct_spatial_sm": [
+    "lockport",
+    "new york",
+    "new york (state)",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--New York (State)--Lockport--Maps",
+    "Lockport (N.Y.)--Maps",
+    "Real property--New York (State)--Lockport--Maps",
+    "United States--New York (State)--Lockport"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "dct_title_s": "Map of the village of Lockport, Niagara Co., N.Y.",
+  "gbl_dateRange_drsim": [
+    "[1851 TO 1851]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1851
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010593267",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Manuscript, pen-and-ink.",
+    "Oriented with north to the right.",
+    "Publication statement: [1781?]",
+    "Scale ca. 1:200,000.",
+    "Shows settlements, points of interest, and aids to navigation.",
+    "Title from P. L. Phillips' A list of maps of America, p. 227.",
+    "Title from P. L. Phillips' A list of maps of America, p. 227. Manuscript, pen-and-ink. Oriented with north to the right. Shows settlements, points of interest, and aids to navigation. Scale ca. 1:200,000. Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842c.ct004166",
+    "http://lccn.loc.gov/74691683",
+    "http://www.loc.gov/item/74691683/",
+    "http://www.loc.gov/resource/g3842c.ct004166/",
+    "https://hdl.loc.gov/loc.gmd/g3842c.ct004166",
+    "https://search.catalog.loc.gov/instances/3380ce5a-fe5f-5508-8339-58375323690c",
+    "https://www.loc.gov/item/74691683/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842c/ct004166.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74691683/\"}",
+  "dct_spatial_sm": [
+    "chesapeake bay",
+    "james river",
+    "maryland",
+    "united states",
+    "virginia",
+    "virginia peninsula",
+    "york river"
+  ],
+  "dct_subject_sm": [
+    "Chesapeake Bay (Md. and Va.)--Maps, Manuscript--Early works to 1800",
+    "James River (Va.)--Maps, Manuscript--Early works to 1800",
+    "Nautical charts--Chesapeake Bay (Md. and Va.)--Early works to 1800",
+    "United States--Maryland--Chesapeake Bay",
+    "United States--Virginia--Chesapeake Bay",
+    "United States--Virginia--James River",
+    "United States--Virginia--Virginia Peninsula",
+    "United States--Virginia--York River",
+    "Virginia Peninsula (Va.)--Maps, Manuscript--Early works to 1800",
+    "York River (Va.)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1781",
+    "[1781?]"
+  ],
+  "dct_title_s": "Chart showing the depth of the James and York rivers as they enter Chesapeake Bay, with towns adjacent",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74691683",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,57 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Antietam",
+    "Panel title: Antietam"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text, index to points of interest, and 3 insets of battle positions.",
+    "Publication statement: [Washington, D.C.] : National Park Service, [1998?]",
+    "Relief shown by shading.",
+    "Relief shown by shading. Includes text, index to points of interest, and 3 insets of battle positions. Text, location map, and ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text, location map, and ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842a.ct008533",
+    "http://lccn.loc.gov/99466178",
+    "http://www.loc.gov/item/99466178/",
+    "http://www.loc.gov/resource/g3842a.ct008533/",
+    "https://hdl.loc.gov/loc.gmd/g3842a.ct008533",
+    "https://search.catalog.loc.gov/instances/d5469659-1a74-53c3-993d-92516afa31ee",
+    "https://www.loc.gov/item/99466178/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842a/ct008533.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99466178/\"}",
+  "dct_spatial_sm": [
+    "antietam national battlefield",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Antietam National Battlefield (Md.)--Tours--Maps",
+    "Antietam, Battle of, Md., 1862--Maps",
+    "United States--Maryland--Antietam National Battlefield"
+  ],
+  "dct_temporal_sm": [
+    "1998",
+    "[Washington, D.C.] : National Park Service, [1998?]"
+  ],
+  "dct_title_s": "Touring Antietam Battlefield",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99466178",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Sidney, J. C. (James C.)",
+    "Includes illus. and inset of Baltimore.",
+    "LC Land ownership maps, 283",
+    "Landowners identified.",
+    "Landowners identified. Includes illus. and inset of Baltimore. Scale [ca. 1:63,360]. LC Land ownership maps, 283 Available also through the Library of Congress Web site as a raster image.",
+    "Publication statement: Baltimore, James M. Stephens, c1857.",
+    "Scale [ca. 1:63,360]."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3843b.la000283",
+    "http://lccn.loc.gov/2002624020",
+    "http://www.loc.gov/item/2002624020/",
+    "http://www.loc.gov/resource/g3843b.la000283/",
+    "https://hdl.loc.gov/loc.gmd/g3843b.la000283",
+    "https://search.catalog.loc.gov/instances/e45f87bb-4a10-5f8f-b33d-a2698da008ec",
+    "https://www.loc.gov/item/2002624020/"
+  ],
+  "dct_issued_s": "1857",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3843/g3843b/la000283.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2002624020/\"}",
+  "dct_spatial_sm": [
+    "baltimore",
+    "baltimore county",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Baltimore (Md.)--Maps",
+    "Baltimore County (Md.)--Maps",
+    "Landowners--Maryland--Baltimore County--Maps",
+    "Landowners--Maryland--Baltimore--Maps",
+    "Real property--Maryland--Baltimore County--Maps",
+    "Real property--Maryland--Baltimore--Maps",
+    "United States--Maryland--Baltimore",
+    "United States--Maryland--Baltimore County"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "dct_title_s": "Map of the city and county of Baltimore, Maryland",
+  "gbl_dateRange_drsim": [
+    "[1857 TO 1857]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1857
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2002624020",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

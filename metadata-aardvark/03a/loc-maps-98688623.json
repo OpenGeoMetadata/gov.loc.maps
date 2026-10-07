@@ -1,0 +1,59 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chicago and Southwestern Railway Company; G.W. & C.B. Colton & Co",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 372",
+    "Map of the midwestern states showing drainage, cities and towns, townships, counties, and the railroad network with emphasis on the main lines.",
+    "Publication statement: New York, 1869.",
+    "Scale 1:1,250,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4061p.rr003720",
+    "http://lccn.loc.gov/98688623",
+    "http://www.loc.gov/item/98688623/",
+    "http://www.loc.gov/resource/g4061p.rr003720/",
+    "https://hdl.loc.gov/loc.gmd/g4061p.rr003720",
+    "https://search.catalog.loc.gov/instances/d7206569-3def-5e85-9707-ae08bf307294",
+    "https://www.loc.gov/item/98688623/"
+  ],
+  "dct_issued_s": "1869",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd406/g4061/g4061p/rr003720.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688623/\"}",
+  "dct_spatial_sm": [
+    "middle west",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Chicago and Southwestern Railway Company--Maps",
+    "Chicago, Rock Island and Pacific Railroad Company (1866-1880)--Maps",
+    "Railroads--Middle West--Maps",
+    "United States--Middle West"
+  ],
+  "dct_temporal_sm": [
+    "1869"
+  ],
+  "dct_title_s": "Map of the Chicago and Southwestern Railway and the Chicago, Rock Island & Pacific Railroad and their connections",
+  "gbl_dateRange_drsim": [
+    "[1869 TO 1869]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1869
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688623",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

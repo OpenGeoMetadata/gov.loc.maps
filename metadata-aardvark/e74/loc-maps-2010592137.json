@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"GPO:2009--349-224/80211 Reprint 2006.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes text and col. ill.",
+    "Publication statement: [Albuquerque, N.M.] : National Park Service, [2009]",
+    "Text and ill. (some col.) on verso.",
+    "Title from panel.",
+    "Title from panel. Includes text and col. ill. Text and ill. (some col.) on verso. \"GPO:2009--349-224/80211 Reprint 2006.\" Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2010592137",
+    "http://www.loc.gov/item/2010592137/",
+    "http://www.loc.gov/resource/g4002a.ct010879/",
+    "https://hdl.loc.gov/loc.gmd/g4002a.ct010879",
+    "https://search.catalog.loc.gov/instances/779ee8a5-eed7-5ecb-bed9-255e0f1785a2",
+    "https://www.loc.gov/item/2010592137/"
+  ],
+  "dct_issued_s": "2009",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd400/g4002/g4002a/ct010879.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2010592137/\"}",
+  "dct_spatial_sm": [
+    "arkansas",
+    "arkansas post national memorial",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Arkansas Post National Memorial (Ark.)--Maps",
+    "United States--Arkansas--Arkansas Post National Memorial"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "dct_title_s": "Arkansas Post National Memorial, Arkansas",
+  "gbl_dateRange_drsim": [
+    "[2009 TO 2009]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2010592137",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

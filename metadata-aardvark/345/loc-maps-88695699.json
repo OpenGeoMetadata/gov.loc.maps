@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 800564 (B00326) 7-87.\"",
+    "Also covers Ireland.",
+    "Also covers Ireland. Relief shown by shading. \"Base 800564 (B00326) 7-87.\" Also issued without shaded relief. Includes Shetland inset. Available also through the Library of Congress Web site as a raster image.",
+    "Also issued without shaded relief.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes Shetland inset.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1987]",
+    "Relief shown by shading."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g5740.ct001469",
+    "http://lccn.loc.gov/88695699",
+    "http://www.loc.gov/item/88695699/",
+    "http://www.loc.gov/resource/g5740.ct001469/",
+    "https://hdl.loc.gov/loc.gmd/g5740.ct001469",
+    "https://search.catalog.loc.gov/instances/6f336e3a-f4e7-562f-b133-f3c1ae545da8",
+    "https://www.loc.gov/item/88695699/"
+  ],
+  "dct_issued_s": "1987",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd5/g5740/g5740/ct001469.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88695699/\"}",
+  "dct_spatial_sm": [
+    "british isles"
+  ],
+  "dct_subject_sm": [
+    "British Isles",
+    "British Isles--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "dct_title_s": "United Kingdom",
+  "gbl_dateRange_drsim": [
+    "[1987 TO 1987]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1987
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88695699",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Accepted as Official Map of Orange Co., Fla., by the Hon. Board of County Commissioners.\"",
+    "\"E. W. Smith & Co. Map Publishers, 17 & 19 St., Philad[elphi]a, Pa.\"",
+    "\"Entered according to Act of Congress in the year 1890 by J.O. Fries in the Office of the Librarian of Congress at Washington, DC.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: E.W. Smith & Co; Fries, J. O.",
+    "Copy imperfect: Discoloration along edges.",
+    "LC Land ownership maps, 81",
+    "Publication statement: Philadelphia : E.W. Smith & Co., c1890.",
+    "Relief shown by contours and spot heights.",
+    "Shows ranges, townships, sections and the names of some residents.",
+    "Shows ranges, townships, sections and the names of some residents. Relief shown by contours and spot heights. \"E. W. Smith & Co. Map Publishers, 17 & 19 St., Philad[elphi]a, Pa.\" \"Accepted as Official Map of Orange Co., Fla., by the Hon. Board of County Commissioners.\" \"Entered according to Act of Congress in the year 1890 by J.O. Fries in the Office of the Librarian of Congress at Washington, DC. Copy imperfect: Discoloration along edges. LC Land ownership maps, 81 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3933o.la000081",
+    "http://lccn.loc.gov/2012592407",
+    "http://www.loc.gov/item/2012592407/",
+    "http://www.loc.gov/resource/g3933o.la000081/",
+    "https://hdl.loc.gov/loc.gmd/g3933o.la000081",
+    "https://search.catalog.loc.gov/instances/742b16a1-de4a-5443-9b56-7d3da481096e",
+    "https://www.loc.gov/item/2012592407/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3933/g3933o/la000081.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592407/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "orange county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Florida--Orange County--Maps",
+    "Orange County (Fla.)--Maps",
+    "Real property--Florida--Orange County--Maps",
+    "United States--Florida--Orange County"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Map of Orange County, Florida",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592407",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

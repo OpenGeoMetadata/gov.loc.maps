@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"The world's first civilizations grew up in the fertile valley between the Tigris and Euphrates rivers, the region of the Middle East long known as Mesopotamia (from the Greek meaning 'between two rivers'), that roughly corresponds to the territory of present-day Iraq. These ancient civilizations included Sumer, the Babylonian Empire, and the Assyrian Empire. This modern map produced by the Directorate General of Antiquities of Iraq shows the locations of archaeological sites and rock monuments in the country. The table at the lower left lists chronological periods from the Paleolithic to the Islamic. The table at the upper right lists ancient place names such as Ashur, Babylon, and Nineveh, and their equivalents in modern Arabic.\" World Digital Library.",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Iraq. Mudīrīyat al-Āthār al-Qadīmah al-ʻĀmmah",
+    "Includes list giving old and modern names and table of \"Chronological periods.\"",
+    "Publication statement: Baghdad, Directorate General of Antiquities, 1967.",
+    "Scale 1:1,500,000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7611e.ct000875",
+    "http://lccn.loc.gov/gm70005037",
+    "http://www.loc.gov/item/gm70005037/",
+    "http://www.loc.gov/resource/g7611e.ct000875/",
+    "https://hdl.loc.gov/loc.gmd/g7611e.ct000875",
+    "https://search.catalog.loc.gov/instances/7fa92d45-ccd9-5143-992d-8b840948525f",
+    "https://www.loc.gov/item/gm70005037/"
+  ],
+  "dct_issued_s": "1967",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7611/g7611e/ct000875.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm70005037/\"}",
+  "dct_spatial_sm": [
+    "iraq"
+  ],
+  "dct_subject_sm": [
+    "Iraq",
+    "Iraq--Antiquities--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "dct_title_s": "The archaeological map of Iraq",
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1967]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm70005037",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

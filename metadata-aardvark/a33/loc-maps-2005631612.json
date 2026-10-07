@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"802615 (B00673) 11-98.\"",
+    "\"802615 (B00673) 11-98.\" Includes ancillary western hemisphere. Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Includes ancillary western hemisphere.",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1998]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g9230.ct001521",
+    "http://lccn.loc.gov/2005631612",
+    "http://www.loc.gov/item/2005631612/",
+    "http://www.loc.gov/resource/g9230.ct001521/",
+    "https://hdl.loc.gov/loc.gmd/g9230.ct001521",
+    "https://search.catalog.loc.gov/instances/97f49d15-cc15-56af-bbc6-7324180ef412",
+    "https://www.loc.gov/item/2005631612/"
+  ],
+  "dct_issued_s": "1998",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd9/g9230/g9230/ct001521.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005631612/\"}",
+  "dct_spatial_sm": [
+    "islands of the pacific",
+    "pacific ocean"
+  ],
+  "dct_subject_sm": [
+    "Islands of the Pacific",
+    "Islands of the Pacific--Maps",
+    "Pacific Ocean",
+    "Pacific Ocean--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dct_title_s": "West Pacific Islands",
+  "gbl_dateRange_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005631612",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

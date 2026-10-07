@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Capitol Hill",
+    "Title in upper border: Capitol Hill"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Congress. Senate",
+    "Covers U.S. Capitol, Capitol Grounds, and surrounding government buildings.",
+    "Covers U.S. Capitol, Capitol Grounds, and surrounding government buildings. Title from panel. Includes col. ill. Indexed \"United States Senate directory\" and key to abbreviations on verso. Floorplans on verso: The Capitol -- Russell Senate Office Building -- Dirksen and Hart Senate office buildings. Available also through the Library of Congress Web site as a raster image. DCP",
+    "DCP",
+    "Floorplans on verso: The Capitol -- Russell Senate Office Building -- Dirksen and Hart Senate office buildings.",
+    "Includes col. ill.",
+    "Indexed \"United States Senate directory\" and key to abbreviations on verso.",
+    "Publication statement: [Washington, D.C. : U.S. Senate, 2003?]",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852u.ct005309",
+    "http://lccn.loc.gov/2003630829",
+    "http://www.loc.gov/item/2003630829/",
+    "http://www.loc.gov/resource/g3852u.ct005309/",
+    "https://hdl.loc.gov/loc.gmd/g3852u.ct005309",
+    "https://search.catalog.loc.gov/instances/c4751fa8-7622-5bd0-a092-b33de07415b8",
+    "https://www.loc.gov/item/2003630829/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852u/ct005309.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2003630829/\"}",
+  "dct_spatial_sm": [
+    "capitol hill",
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Capitol Hill (Washington, D.C.)--Maps",
+    "Public buildings--Washington (D.C.)--Maps",
+    "United States Capitol (Washington, D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States.--Congress.--Senate--Maps"
+  ],
+  "dct_temporal_sm": [
+    "2003",
+    "[Washington, D.C. : U.S. Senate, 2003?]"
+  ],
+  "dct_title_s": "United States Senate, map and directory",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2003630829",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

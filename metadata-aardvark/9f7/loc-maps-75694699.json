@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 491 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Contributors: Beck & Pauli; Norris, George E.",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 491",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Brockton, Mass., Geo. E. Norris, c1884."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3744p.pm004910",
+    "http://lccn.loc.gov/75694699",
+    "http://www.loc.gov/item/75694699/",
+    "http://www.loc.gov/resource/g3744p.pm004910/",
+    "https://hdl.loc.gov/loc.gmd/g3744p.pm004910",
+    "https://search.catalog.loc.gov/instances/c06b861a-8a15-52bc-9edf-77a11f272506",
+    "https://www.loc.gov/item/75694699/"
+  ],
+  "dct_issued_s": "1884",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd374/g3744/g3744p/pm004910.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694699/\"}",
+  "dct_spatial_sm": [
+    "new hampshire",
+    "pittsfield",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Pittsfield (N.H.)",
+    "United States--New Hampshire--Pittsfield"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "dct_title_s": "Pittsfield, Merrimackcounty, N.H. 1884",
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1884
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694699",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

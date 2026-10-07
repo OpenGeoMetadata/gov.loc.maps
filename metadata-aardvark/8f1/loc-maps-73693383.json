@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100; 651/1; 710/1",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Chicago Lithographing Co; Ruger, A.",
+    "Includes ill. and index to points of interest.",
+    "Includes ill. and index to points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 197 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 100; 651/1; 710/1",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 197",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [Chicago] Chicago Lith. Co. [1868]",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4094l.pm001970",
+    "http://lccn.loc.gov/73693383",
+    "http://www.loc.gov/item/73693383/",
+    "http://www.loc.gov/resource/g4094l.pm001970/",
+    "https://hdl.loc.gov/loc.gmd/g4094l.pm001970",
+    "https://search.catalog.loc.gov/instances/b3de7b38-4508-5e82-a770-5b94688ba87a",
+    "https://www.loc.gov/item/73693383/"
+  ],
+  "dct_issued_s": "1868",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd409/g4094/g4094l/pm001970.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/73693383/\"}",
+  "dct_spatial_sm": [
+    "indiana",
+    "lafayette",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Lafayette (Ind.)",
+    "United States--Indiana--Lafayette"
+  ],
+  "dct_temporal_sm": [
+    "1868"
+  ],
+  "dct_title_s": "Bird's eye view of the city of Lafayette, Tippecanoe Co., Indiana 1868",
+  "gbl_dateRange_drsim": [
+    "[1868 TO 1868]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1868
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-73693383",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

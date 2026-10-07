@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of the Province of Canton"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cloth map.",
+    "Cloth map. Relief shown by shading. Text on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lörcher, J. G., Rev",
+    "Publication statement: Winterthur, Switzerland : Wurster, Randegger & Co. ; Hong Kong : Basle Mission Westpoint, 1879.",
+    "Relief shown by shading.",
+    "Text on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7823g.ct004726r",
+    "http://hdl.loc.gov/loc.gmd/g7823g.ct004726v",
+    "http://lccn.loc.gov/2004627452",
+    "http://www.loc.gov/item/2004627452/",
+    "http://www.loc.gov/resource/g7823g.ct004726r/",
+    "http://www.loc.gov/resource/g7823g.ct004726v/",
+    "https://hdl.loc.gov/loc.gmd/g7823g.ct004726r",
+    "https://hdl.loc.gov/loc.gmd/g7823g.ct004726v",
+    "https://search.catalog.loc.gov/instances/2192c56c-32ae-56ec-b9e2-045dbfc7d26d",
+    "https://www.loc.gov/item/2004627452/"
+  ],
+  "dct_issued_s": "1879",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7823/g7823g/ct004726r.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004627452/\"}",
+  "dct_spatial_sm": [
+    "china",
+    "guangdong sheng"
+  ],
+  "dct_subject_sm": [
+    "China--Guangdong Sheng",
+    "Guangdong Sheng (China)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1879"
+  ],
+  "dct_title_s": "Map of the Province of Canton according to the map of the Kwong-Tung tʻu shot : with coast-line taken from Navy charts and details supplied by several Protestant Missionaries",
+  "gbl_dateRange_drsim": [
+    "[1879 TO 1879]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1879
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004627452",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

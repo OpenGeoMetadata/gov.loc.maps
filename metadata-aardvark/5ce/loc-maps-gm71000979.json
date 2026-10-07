@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Legende\" includes positions of vessels of French fleet, by name and commander.",
+    "\"Plan d'une partie de la rade de Boston (Partial map of Boston Harbor) is a manuscript map, in pen-and-ink and watercolor, dating from 1778, the third year of the American Revolution. It depicts Boston Harbor from Castle William Island to Point Alderton. The map shows the position of the French fleet under Admiral Comte d'Estaing in Boston Harbor, where the French ships had gone for repairs after an inconclusive engagement off the coast of Rhode Island with the British fleet under Admiral John Byron. It also highlights French batteries built on several outer harbor islands to protect the fleet, as well as a temporary hospital. A legend with a letter key identifies geographical points of interest and fortifications, as well as individual ships and their commanders. Originally accompanying the map was an extract from a memoir by one of Admiral d'Estaing's officers. Relief is shown by hachures. The map has a watermark. Scale is indicated in toises, an old French unit measuring about 1.95 meters. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 440; 651/1; 650/2",
+    "Accompanied by: Partie extraite d'un Memoire général sur Boston.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Has watermark.",
+    "LC Maps of North America, 1750-1789, 938",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Publication statement: [1778]",
+    "Relief shown by hachures.",
+    "Scale ca. 1:42,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3762b.ar093800",
+    "http://lccn.loc.gov/gm71000979",
+    "http://www.loc.gov/item/gm71000979/",
+    "http://www.loc.gov/resource/g3762b.ar093800/",
+    "https://hdl.loc.gov/loc.gmd/g3762b.ar093800",
+    "https://search.catalog.loc.gov/instances/b7e09f4b-ae70-5d81-becc-4fdde9a9328d",
+    "https://www.loc.gov/item/gm71000979/"
+  ],
+  "dct_issued_s": "1778",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3762/g3762b/ar093800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000979/\"}",
+  "dct_spatial_sm": [
+    "boston bay",
+    "boston harbor",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Boston Bay (Mass.)--Maps, Manuscript--Early works to 1800",
+    "Boston Harbor (Mass.)--Maps--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "United States--Massachusetts--Boston Bay"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "dct_title_s": "Plan d'une partie de la rade de Boston pour faire connaitre le dispositif de ses deffenses",
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1778
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000979",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

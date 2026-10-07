@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Генеральная карта Западной Сибири с Киргизскою степью. Сост. при штабе отд. Сибирского корпуса и гравирована в Военно-Топографическом депо. 1848 г. Испр. в 1862 г."
+  ],
+  "dct_description_sm": [
+    "Karta soderzhit granit︠s︡y pereselencheskikh uchastkov, granit︠s︡y nadelov starozhilogo naselenii︠a︡, sushchestvui︠u︡shchie i stroi︠a︡shchiesi︠a︡ zheleznye dorogi, pochtovyĭ trakt, gruntovye i proselochnye dorogi, taezhnye tropy, linii telegrafa.",
+    "Karta soderzhit granit︠s︡y pereselencheskikh uchastkov, granit︠s︡y nadelov starozhilogo naselenii︠a︡, sushchestvui︠u︡shchie i stroi︠a︡shchiesi︠a︡ zheleznye dorogi, pochtovyĭ trakt, gruntovye i proselochnye dorogi, taezhnye tropy, linii telegrafa. Original map at: Russian State Library Карта содержит границы переселенческих участков, границы наделов старожилого населения, существующие и строящиеся железные дороги, почтовый тракт, грунтовые и проселочные дороги, таежные тропы, линии телеграфа.",
+    "Original map at: Russian State Library",
+    "Publication statement: Zabaikal'skii pereselench. r-n, Russia : [publisher not identified], 1912.",
+    "Карта содержит границы переселенческих участков, границы наделов старожилого населения, существующие и строящиеся железные дороги, почтовый тракт, грунтовые и проселочные дороги, таежные тропы, линии телеграфа."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694099",
+    "http://www.loc.gov/item/2018694099/",
+    "http://www.loc.gov/resource/gdc.2018694099/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0033a",
+    "https://search.catalog.loc.gov/instances/5fd71159-99d5-58e6-b6c6-4017a91522bf",
+    "https://www.loc.gov/item/2018694099/"
+  ],
+  "dct_issued_s": "1912",
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694099.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694099/2018694099.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694099:smf0033a/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694099/\"}",
+  "dct_spatial_sm": [
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Far East",
+    "Maps",
+    "Russia",
+    "Russian Federation",
+    "Siberia"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dct_title_s": "General'nai︠a︡ karta Zapadnoĭ Sibiri s Kirgizskoi︠u︡ step'i︠u︡. Sost. pri shtabe otd. Sibirskogo korpusa i gravirovana v Voenno-Topograficheskom depo. 1848 g. Ispr. v 1862 g.",
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694099",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 1730",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Covers from Maine to South Carolina and west to Lake Michigan.",
+    "Covers from Maine to South Carolina and west to Lake Michigan. Relief shown pictorially. From Universal magazine of knowledge and pleasure, Dec., 1754, v. 15, pg. 241 LC maps of North America, 1750-1789, 707 Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 1730",
+    "From Universal magazine of knowledge and pleasure, Dec., 1754, v. 15, pg. 241",
+    "LC maps of North America, 1750-1789, 707",
+    "Publication statement: [London : s.n., 1754]",
+    "Relief shown pictorially."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3700.ar070700",
+    "http://hdl.loc.gov/loc.gmd/g3700.ar070701",
+    "http://lccn.loc.gov/2001620906",
+    "http://www.loc.gov/item/2001620906/",
+    "http://www.loc.gov/resource/g3700.ar070700/",
+    "http://www.loc.gov/resource/g3700.ar070701/",
+    "https://hdl.loc.gov/loc.gmd/g3700.ar070700",
+    "https://hdl.loc.gov/loc.gmd/g3700.ar070701",
+    "https://search.catalog.loc.gov/instances/00bafc5d-03ee-5c81-b15f-c14d6abef01e",
+    "https://www.loc.gov/item/2001620906/"
+  ],
+  "dct_issued_s": "1754",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3700/g3700/ar070700.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2001620906/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States",
+    "United States--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1754"
+  ],
+  "dct_title_s": "An accurate map of the English colonies in North America, bordering on the river Ohio",
+  "gbl_dateRange_drsim": [
+    "[1754 TO 1754]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1754
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2001620906",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

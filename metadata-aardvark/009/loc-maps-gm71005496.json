@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 651",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Esnauts et Rapilly; Voysard, Etienne Claude, 1746-1812",
+    "Hand colored.",
+    "Hand colored. Relief shown pictorially. Pictorial cartouche; E. Voysard, sculp. Includes inset of Isles Lucayes, Cuba, La Jamaique, Saint Dominigue. Scale ca. 1:5,200. Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 150 Available also through the Library of Congress Web site as a raster image. AACR2: 651",
+    "Includes inset of Isles Lucayes, Cuba, La Jamaique, Saint Dominigue.",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 150",
+    "Pictorial cartouche; E. Voysard, sculp.",
+    "Publication statement: Paris, 1777.",
+    "Relief shown pictorially.",
+    "Scale ca. 1:5,200."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3300.ar015001",
+    "http://hdl.loc.gov/loc.gmd/g3300.ct000310",
+    "http://lccn.loc.gov/gm71005496",
+    "http://www.loc.gov/item/gm71005496/",
+    "http://www.loc.gov/resource/g3300.ar015001/",
+    "http://www.loc.gov/resource/g3300.ct000310/",
+    "https://hdl.loc.gov/loc.gmd/g3300.ar015001",
+    "https://hdl.loc.gov/loc.gmd/g3300.ct000310",
+    "https://search.catalog.loc.gov/instances/394aedc8-f6eb-5b8e-869b-f0386cabfe9c",
+    "https://www.loc.gov/item/gm71005496/"
+  ],
+  "dct_issued_s": "1777",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3300/g3300/ct000310.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71005496/\"}",
+  "dct_spatial_sm": [
+    "north america"
+  ],
+  "dct_subject_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "dct_title_s": "Carte detaillée des possessions angloises dans l'Amerique Septentrionale, construite d'après les dernieres relations et les cartes particulieres de ces provinces, pour l'intelligence de la guerre, actuelle entre les Anglois et leurs colonies",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71005496",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

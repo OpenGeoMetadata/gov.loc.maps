@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 650/1; 650/2; 650/3; 650/4",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Gambier, James, 1723-1789",
+    "Depths shown by soundings.",
+    "Has watermark.",
+    "Indexed for points of interest.",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Depths shown by soundings. Oriented with north toward the lower right. Has watermark. Indexed for points of interest. Scale not given. Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650/1; 650/2; 650/3; 650/4",
+    "Oriented with north toward the lower right.",
+    "Publication statement: [17--]",
+    "Scale not given.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3424h.ct008152",
+    "http://lccn.loc.gov/74694515",
+    "http://www.loc.gov/item/74694515/",
+    "http://www.loc.gov/resource/g3424h.ct008152/",
+    "https://hdl.loc.gov/loc.gmd/g3424h.ct008152",
+    "https://search.catalog.loc.gov/instances/f566d3fe-064a-532e-b5dd-5cf7642005b9",
+    "https://www.loc.gov/item/74694515/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd3/g3424/g3424h/ct008152.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/74694515/\"}",
+  "dct_spatial_sm": [
+    "canada",
+    "halifax",
+    "nova scotia"
+  ],
+  "dct_subject_sm": [
+    "Canada--Nova Scotia--Halifax",
+    "Docks--Nova Scotia--Halifax--Maps--Early works to 1800",
+    "Harbors--Nova Scotia--Halifax--Maps--Early works to 1800",
+    "Manuscript maps--Early works to 1800",
+    "Wharves--Nova Scotia--Halifax--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1700",
+    "[17--]"
+  ],
+  "dct_title_s": "Halifax dockyard with proposed improvements,",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-74694515",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

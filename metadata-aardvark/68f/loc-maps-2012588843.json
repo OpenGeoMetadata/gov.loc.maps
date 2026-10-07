@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Germany. Reichswehr; United States. War Office",
+    "In German; English title from explanatory legend.",
+    "In upper left margin: Ubersichtskarten von Mitteleuropa.",
+    "Includes explanatory legend, in English and apparently supplied by the U.S. War Dept., attached to each map.",
+    "LC copy imperfect: Map 1, bottom center margin torn; map 2, margin cropped.",
+    "Map sheets annotated in red ink in lower right margin: 348 (1) -- 348 (2) -- 348 (3) -- 348 (4).",
+    "Ms annotations show the size of the Reichswehr and its operations against the Red Army in the Ruhr Valley Region of Germany during the Ruhr uprising of March-April 1920.",
+    "Publication statement: [Germany : German War Office, 1920]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. Ms annotations show the size of the Reichswehr and its operations against the Red Army in the Ruhr Valley Region of Germany during the Ruhr uprising of March-April 1920. In upper left margin: Ubersichtskarten von Mitteleuropa. Map sheets annotated in red ink in lower right margin: 348 (1) -- 348 (2) -- 348 (3) -- 348 (4). LC copy imperfect: Map 1, bottom center margin torn; map 2, margin cropped. Includes explanatory legend, in English and apparently supplied by the U.S. War Dept., attached to each map. Available also through the Library of Congress Web site as a raster image. In German; English title from explanatory legend."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g6362rm.gct00269",
+    "http://lccn.loc.gov/2012588843",
+    "http://www.loc.gov/item/2012588843/",
+    "http://www.loc.gov/resource/g6362rm.gct00269/",
+    "https://hdl.loc.gov/loc.gmd/g6362rm.gct00269",
+    "https://search.catalog.loc.gov/instances/71831d0f-8a12-51d7-95fa-2d990b8883b3",
+    "https://www.loc.gov/item/2012588843/"
+  ],
+  "dct_issued_s": "1920",
+  "dct_language_sm": [
+    "eng",
+    "ger"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd6m/g6362m/g6362rm/gct00269/cs000001.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012588843/\"}",
+  "dct_spatial_sm": [
+    "germany",
+    "region",
+    "ruhr",
+    "ruhr (region)"
+  ],
+  "dct_subject_sm": [
+    "Germany",
+    "Germany--History--Kapp Putsch, 1920--Maps",
+    "Germany--Ruhr (Region)",
+    "Ruhr (Germany : Region)--History--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dct_title_s": "[Ruhr operations, March-April, 1920]",
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1920
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012588843",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

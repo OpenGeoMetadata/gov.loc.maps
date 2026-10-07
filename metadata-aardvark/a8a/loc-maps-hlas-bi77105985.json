@@ -1,0 +1,52 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Contributors: modelski, andrew m.; peru. oficina cartográfica y publicidad"
+  ],
+  "dct_identifier_sm": [
+    "http://www.loc.gov/item/hlas-bi77105985/",
+    "https://www.loc.gov/item/hlas-bi77105985/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "spa"
+  ],
+  "dct_publisher_sm": [
+    "Oficina Nacional de Estadística y Censos,"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.loc.gov/item/hlas-bi77105985/\"}",
+  "dct_spatial_sm": [
+    "peru"
+  ],
+  "dct_subject_sm": [
+    "demography",
+    "demography -- maps and cartography",
+    "demography -- peru",
+    "maps and cartography",
+    "maps and cartography -- peru",
+    "peru"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "Perú, mapa demográfico",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-hlas-bi77105985",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Prime, Fred. E.; Shraag, F.; Theinert, F.",
+    "Copies imperfect: Edges of sheets torn.",
+    "Detailed topographic map showing Union and Confederate fortifications by the colors blue and red respectively, powder magazines, city streets and buildings (both unnamed), rural houses and names of a few residents, fences, roads, railroads, vegetation, drainage, and artesian wells.",
+    "In the right lower corner: Engineer Department, March 3, 1863. Received from Capt. Prime. See his letter of 19 January 1863 (P. 1266).",
+    "LC Civil War maps (2nd ed.), 269",
+    "Oriented with north to the bottom.",
+    "Pen-and-ink in red and blue.",
+    "Publication statement: [1862]",
+    "Relief shown by hachures and pictorially.",
+    "Relief shown by hachures and pictorially. Pen-and-ink in red and blue. Oriented with north to the bottom. In the right lower corner: Engineer Department, March 3, 1863. Received from Capt. Prime. See his letter of 19 January 1863 (P. 1266). Detailed topographic map showing Union and Confederate fortifications by the colors blue and red respectively, powder magazines, city streets and buildings (both unnamed), rural houses and names of a few residents, fences, roads, railroads, vegetation, drainage, and artesian wells. Copies imperfect: Edges of sheets torn. LC Civil War maps (2nd ed.), 269 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3984c.cw0269000",
+    "http://lccn.loc.gov/99446429",
+    "http://www.loc.gov/item/99446429/",
+    "http://www.loc.gov/resource/g3984c.cw0269000/",
+    "https://hdl.loc.gov/loc.gmd/g3984c.cw0269000",
+    "https://search.catalog.loc.gov/instances/0709221e-0675-56f5-a421-23882e23004a",
+    "https://www.loc.gov/item/99446429/"
+  ],
+  "dct_issued_s": "1862",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd398/g3984/g3984c/cw0269000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99446429/\"}",
+  "dct_spatial_sm": [
+    "corinth",
+    "mississippi",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Corinth, Battle of, Corinth, Miss., 1862--Maps, Manuscript",
+    "United States--Mississippi--Corinth"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "dct_title_s": "General plan of the field-fortifications around Corinth, Miss. : also exhibiting the rebel entrenchments and the approaches of the U.S. forces during May 1862 under Major Genl. H. W. Halleck, U.S.A.",
+  "gbl_dateRange_drsim": [
+    "[1862 TO 1862]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1862
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99446429",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Adopted as the official map by the Board of County Commissioners, verified, James L. White, County Surveyor.\"",
+    "Annotated.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map, showing names of landowners.",
+    "Contributors: Bourquin, F. (Frederick), 1808-; Bushnell, J. W.; Williams, A. T.",
+    "In lower right corner: 3.",
+    "Includes section diagram.",
+    "LC Land ownership maps, 79",
+    "Publication statement: [Florida] : J.W. Bushnell and A.T. Williams, c1885",
+    "Relief shown by contours.",
+    "Relief shown by contours. Cadastral map, showing names of landowners. \"Adopted as the official map by the Board of County Commissioners, verified, James L. White, County Surveyor.\" Includes section diagram. In lower right corner: 3. Annotated. LC Land ownership maps, 79 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3933m.la000079",
+    "http://lccn.loc.gov/2012592405",
+    "http://www.loc.gov/item/2012592405/",
+    "http://www.loc.gov/resource/g3933m.la000079/",
+    "https://hdl.loc.gov/loc.gmd/g3933m.la000079",
+    "https://search.catalog.loc.gov/instances/9926dbbc-d00d-5ce3-a5b1-e00994cd7065",
+    "https://www.loc.gov/item/2012592405/"
+  ],
+  "dct_issued_s": "1885",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3933/g3933m/la000079.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012592405/\"}",
+  "dct_spatial_sm": [
+    "florida",
+    "marion county",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Landowners--Florida--Marion County--Maps",
+    "Marion County (Fla.)--Maps",
+    "Real property--Florida--Marion County--Maps",
+    "United States--Florida--Marion County"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "dct_title_s": "Map of Marion County, Florida : from U.S. surveys and other official and original sources showing all lands belonging to the U.S. State Railroad and Disston to Oct. 15th",
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1885]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1885
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012592405",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

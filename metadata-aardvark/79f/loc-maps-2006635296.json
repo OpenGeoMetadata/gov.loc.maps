@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "In ink in upper right corner: 63.",
+    "In pencil in upper right corner: 68.",
+    "LC Civil War maps (2nd ed.), S110, 211",
+    "Pen-and-ink on tracing cloth mounted on paper.",
+    "Publication statement: [1864]",
+    "Shows a part of the defenses of Savannah.",
+    "Shows a part of the defenses of Savannah. Title and date from Stephenson's Civil War maps, 1989. Pen-and-ink on tracing cloth mounted on paper. In ink in upper right corner: 63. In pencil in upper right corner: 68. LC Civil War maps (2nd ed.), S110, 211 Available also through the Library of Congress Web site as a raster image.",
+    "Title and date from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3924s.cws00110",
+    "http://lccn.loc.gov/2006635296",
+    "http://www.loc.gov/item/2006635296/",
+    "http://www.loc.gov/resource/g3924s.cws00110/",
+    "https://hdl.loc.gov/loc.gmd/g3924s.cws00110",
+    "https://search.catalog.loc.gov/instances/801ed701-93c7-53f1-9db6-691563ca1e3d",
+    "https://www.loc.gov/item/2006635296/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3924/g3924s/cws00110.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006635296/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "savannah",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Savannah (Ga.)--History--Siege, 1864--Maps, Manuscript",
+    "United States--Georgia--Savannah"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Battery on Turner's rocks : [Georgia]",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006635296",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

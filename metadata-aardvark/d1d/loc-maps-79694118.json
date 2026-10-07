@@ -1,0 +1,66 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"For sale by John E. Beall & Co. ... Washington, D.C.\"",
+    "AACR2: 100; 651/1; 650/2; 700/1; 710/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map.",
+    "Cadastral map. \"For sale by John E. Beall & Co. ... Washington, D.C.\" Stamped on certain lots: Sold. Scale 1:1,200; 100 ft. to 1 in. Available also through the Library of Congress Web site as a raster image. LC copy annotated in red ink. DCP AACR2: 100; 651/1; 650/2; 700/1; 710/3",
+    "Contributors: Beall, John E.; John E. Beall & Co; Vielé, Herman K.",
+    "DCP",
+    "LC copy annotated in red ink.",
+    "Publication statement: [Washington? D.C. : s.n., 189-?]",
+    "Scale 1:1,200; 100 ft. to 1 in.",
+    "Stamped on certain lots: Sold."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3852f.ct004931",
+    "http://lccn.loc.gov/79694118",
+    "http://www.loc.gov/item/79694118/",
+    "http://www.loc.gov/resource/g3852f.ct004931/",
+    "https://hdl.loc.gov/loc.gmd/g3852f.ct004931",
+    "https://search.catalog.loc.gov/instances/ba64d46f-6e03-553f-985b-bd76dc3e3142",
+    "https://www.loc.gov/item/79694118/"
+  ],
+  "dct_issued_s": "1890",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852f/ct004931.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/79694118/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "fairview heights",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Fairview Heights (Washington, D.C.)--Maps",
+    "Real property--Washington (D.C.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington--Fairview Heights"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "dct_title_s": "Fairview Heights subdivision of parts of Scott's Ordinary Terra Firma and Alliance tracts",
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-79694118",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

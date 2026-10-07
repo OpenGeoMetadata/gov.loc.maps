@@ -1,0 +1,49 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Alternate supplied title: Connecticut title collection--drawer 7",
+    "Alternate supplied title: Connecticut title collection--various subject maps A-F"
+  ],
+  "dct_description_sm": [
+    "Publication statement: [Various places] : [various publishers], [approximately 1635 to 1970]",
+    "Title supplied by cataloger."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021589599",
+    "http://www.loc.gov/item/2021589599/",
+    "http://www.loc.gov/resource/gmdtitlecolfold.ct_007/",
+    "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ct_007",
+    "https://search.catalog.loc.gov/instances/eafb0846-9f08-5a98-9a7d-de9127306d89",
+    "https://www.loc.gov/item/2021589599/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ct:_0:07:ct_007:ct_007_00001/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021589599/\"}",
+  "dct_spatial_sm": [
+    "connecticut",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Connecticut--Administrative and political divisions--Maps",
+    "United States--Connecticut"
+  ],
+  "dct_temporal_sm": [
+    "1635",
+    "[Various places] : [various publishers], [approximately 1635 to 1970]"
+  ],
+  "dct_title_s": "[Maps of Connecticut--various subject maps A-F]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021589599",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

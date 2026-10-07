@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Army. Corps of Engineers. Savannah District, cartographer",
+    "Includes text, 2 indexed tables of recreational facilities, color illustrations of navigational signs, and location map.",
+    "Includes text, 2 indexed tables of recreational facilities, color illustrations of navigational signs, and location map. Text, statistical data, dam \"Schematic section,\" and illustrations on verso. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Publication statement: Savannah, Ga. : Corps of Engineers, U.S. Army, Savannah District, 1975.",
+    "Text, statistical data, dam \"Schematic section,\" and illustrations on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/77696012",
+    "http://www.loc.gov/item/77696012/",
+    "http://www.loc.gov/resource/g3922j.ct010050/",
+    "https://hdl.loc.gov/loc.gmd/g3922j.ct010050",
+    "https://search.catalog.loc.gov/instances/456cfeec-ad9e-5326-93a0-a4baa48e1a45",
+    "https://www.loc.gov/item/77696012/"
+  ],
+  "dct_issued_s": "1975",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd392/g3922/g3922j/ct010050.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/77696012/\"}",
+  "dct_spatial_sm": [
+    "georgia",
+    "j. strom thurmond lake",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "J. Strom Thurmond Lake (Ga. and S.C.)--Maps",
+    "Outdoor recreation--J. Strom Thurmond Lake (Ga. and S.C.)--Maps",
+    "United States--Georgia--J. Strom Thurmond Lake",
+    "United States--South Carolina--J. Strom Thurmond Lake"
+  ],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "dct_title_s": "Clark Hill Lake, Georgia and South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-77696012",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

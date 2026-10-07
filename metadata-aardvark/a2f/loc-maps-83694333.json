@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Fillmore, Millard, 1800-1874, collector; Poe, O. M. (Orlando Metcalfe), 1832-1895; United States. Army. Corps of Topographical Engineers cartographer",
+    "In lower righthand corner: \"Print. by J.F. Gedney, Washn.\"",
+    "LC Civil War maps (2nd ed.) 501.5",
+    "LC Copy 1 and 2 annotated in ink on recto: From Chief Eng'rs Office, Mil'y Div'n Miss., O.M. Poe, Br't Col. & Ch'f Eng'r. Annotated in pencil on verso.",
+    "LC copy 1 from the Orlando M. Poe papers in LC Manuscript Division.",
+    "Originally printed on 2 sheets 71 x 44 cm. and 71 x 43 cm.",
+    "Publication statement: [Washington, D.C.?] : J.F. Gedney, [1864]; [Washington, D.C.?] : The Bureau of Topographical Engineers of the War Department, [1864]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. LC copy 1 from the Orlando M. Poe papers in LC Manuscript Division. Originally printed on 2 sheets 71 x 44 cm. and 71 x 43 cm. LC Copy 1 and 2 annotated in ink on recto: From Chief Eng'rs Office, Mil'y Div'n Miss., O.M. Poe, Br't Col. & Ch'f Eng'r. Annotated in pencil on verso. In lower righthand corner: \"Print. by J.F. Gedney, Washn.\" LC Civil War maps (2nd ed.) 501.5 Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3880.cw0501500",
+    "http://hdl.loc.gov/loc.gmd/g3880.fi000255",
+    "http://lccn.loc.gov/83694333",
+    "http://www.loc.gov/item/83694333/",
+    "http://www.loc.gov/resource/g3880.cw0501500/",
+    "http://www.loc.gov/resource/g3880.fi000255/",
+    "https://hdl.loc.gov/loc.gmd/g3880.cw0501500",
+    "https://hdl.loc.gov/loc.gmd/g3880.fi000255",
+    "https://search.catalog.loc.gov/instances/e6db977b-e322-5335-8533-884ed8611882",
+    "https://www.loc.gov/item/83694333/"
+  ],
+  "dct_issued_s": "1864",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3880/g3880/cw0501500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/83694333/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "dct_title_s": "Central Virginia",
+  "gbl_dateRange_drsim": [
+    "[1864 TO 1864]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1864
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-83694333",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

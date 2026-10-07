@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte Geographique De La Vallée D'Andorra"
+  ],
+  "dct_description_sm": [
+    "\"Map scale 1:62,000\"--Note extracted from World Digital Library.",
+    "Content in Catalan and French.",
+    "Contributors: Andorra. General Council of the Valleys Patron.; Lengelée, Nicolas, 1741-1818 Cartographer.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library and National Archives of Andorra.",
+    "Original resource extent: 1 map : color ; 55.5 x 84.5 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1777.",
+    "The Consell General de les Valls (General Council of the Valleys, the elected assembly of Andorra) commissioned the geographic engineer to the king of France to create this map of the Valleys of Andorra, taking advantage of his presence in Andorra while on a work assignment for the Carte générale de la France (General map of France). The latter was a project then coordinated by Jean-Dominique Cassini (1748-1845), one of a family of cartographers. The map shows the borders of Andorra with Spain, and the gates into the principality. The map indicates villages and their names, roads, and rivers and streams. Other features shown, as identified by the key on the lower right, include churches and chapels, water mills, roads, stone and wooden bridges, ponds, an iron mine and a forge, and the ruins of chateaux. Trees are used to show wooded areas. Relief is shown pictorially. Scale on the map is given in toises; one toise equals about 1.95 meters.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668714",
+    "http://www.loc.gov/item/2021668714/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_18271/",
+    "http://www.loc.gov/resource/wdl.18271/",
+    "https://hdl.loc.gov/loc.wdl/wdl.18271",
+    "https://www.loc.gov/item/2021668714/"
+  ],
+  "dct_issued_s": "1777-01-01",
+  "dct_language_sm": [
+    "catalan",
+    "fre",
+    "valencian"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_18271.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/18/27/1/wdl_18271/wdl_18271.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:18:27:1:wdl_18271:500674/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668714/\"}",
+  "dct_spatial_sm": [
+    "andorra",
+    "france",
+    "languedoc-roussillon-midi-pyrénées"
+  ],
+  "dct_subject_sm": [
+    "1777",
+    "Andorra",
+    "France--Languedoc-Roussillon-Midi-Pyrénées",
+    "Maps",
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1777-01-01"
+  ],
+  "dct_title_s": "Geographical Chart of the Valleys of Andorra.",
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1777
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668714",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

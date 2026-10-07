@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"No. 4\" is printed to the left of the map title.",
+    "At head of title: U.S. Coast survey.",
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Willenbücher, Eugene",
+    "Description derived from published bibliography.",
+    "From Message of the President of the United States, and accompanying documents, to the two houses of Congress, at the commencement of the first session of the thirty-ninth Congress.-Report of the Secretary of the Navy (Washington, Government Printing Office, 1865). fol. p. 256.",
+    "From Message of the President of the United States, and accompanying documents, to the two houses of Congress, at the commencement of the first session of the thirty-ninth Congress.-Report of the Secretary of the Navy (Washington, Government Printing Office, 1865). fol. p. 256. At head of title: U.S. Coast survey. \"No. 4\" is printed to the left of the map title. Printed in upper left margin: 39th Cong. 1st sess.-Annual Report of the Secretary of the Navy. Includes 14 ground plans and 32 profiles. Description derived from published bibliography. Scales 1:2000 and 1:4000. LC Civil War Maps (2nd ed.), 384.8 Available also through the Library of Congress web site as raster image.",
+    "Includes 14 ground plans and 32 profiles.",
+    "LC Civil War Maps (2nd ed.), 384.8",
+    "Printed in upper left margin: 39th Cong. 1st sess.-Annual Report of the Secretary of the Navy.",
+    "Publication statement: [Washington, G.P.O., 1865]",
+    "Scales 1:2000 and 1:4000."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3911s.cw0384800",
+    "http://lccn.loc.gov/99448832",
+    "http://www.loc.gov/item/99448832/",
+    "http://www.loc.gov/resource/g3911s.cw0384800/",
+    "https://hdl.loc.gov/loc.gmd/g3911s.cw0384800",
+    "https://search.catalog.loc.gov/instances/51caf67c-d276-541e-bead-db3ffc14e86b",
+    "https://www.loc.gov/item/99448832/"
+  ],
+  "dct_issued_s": "1865",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3911/g3911s/cw0384800.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99448832/\"}",
+  "dct_spatial_sm": [
+    "charleston region",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Charleston Region (S.C.)--History--Civil War, 1861-1865--Maps",
+    "Fortification--South Carolina--Charleston Region--Maps",
+    "United States--South Carolina--Charleston Region"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "dct_title_s": "Defences of Charleston, South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1865 TO 1865]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1865
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99448832",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

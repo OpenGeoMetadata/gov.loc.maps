@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Exploring the parks",
+    "Title in upper margin: Exploring the parks"
+  ],
+  "dct_description_sm": [
+    "\"*GPO:2003--496-196/40559. Reprint 2004.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes \"Trail guide\" table.",
+    "Publication statement: [Washington, D.C.] : National Park Service, [2004]",
+    "Relief shown by shading and spot heights.",
+    "Relief shown by shading and spot heights. \"*GPO:2003--496-196/40559. Reprint 2004.\" Title from panel. Includes \"Trail guide\" table. Text and col. ill. on verso. Available also through the Library of Congress Web site as a raster image.",
+    "Text and col. ill. on verso.",
+    "Title from panel."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3842c.ct008786",
+    "http://lccn.loc.gov/2004625143",
+    "http://www.loc.gov/item/2004625143/",
+    "http://www.loc.gov/resource/g3842c.ct008786/",
+    "https://hdl.loc.gov/loc.gmd/g3842c.ct008786",
+    "https://search.catalog.loc.gov/instances/7b03f145-2a6a-536a-a439-f34efe5a08a3",
+    "https://www.loc.gov/item/2004625143/"
+  ],
+  "dct_issued_s": "2002",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd384/g3842/g3842c/ct008786.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2004625143/\"}",
+  "dct_spatial_sm": [
+    "catoctin mountain park",
+    "cunningham falls state park",
+    "maryland",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Catoctin Mountain Park (Md.)--Maps",
+    "Cunningham Falls State Park (Md.)--Maps",
+    "United States--Maryland--Catoctin Mountain Park",
+    "United States--Maryland--Cunningham Falls State Park"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "dct_title_s": "Catoctin Mountain, Catoctin Mountain Park, Cunningham Falls State Park, Maryland",
+  "gbl_dateRange_drsim": [
+    "[2002 TO 2002]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2004625143",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: George Philip & Son",
+    "Includes list of cities, 2 insets of Peking and environs, and Hongkong and Canton.",
+    "Publication statement: London : George Philip & Son, [190-]",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Includes list of cities, 2 insets of Peking and environs, and Hongkong and Canton. Available also through the Library of Congress Web site as a raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g7820.ct005341",
+    "http://lccn.loc.gov/2006635012",
+    "http://www.loc.gov/item/2006635012/",
+    "http://www.loc.gov/resource/g7820.ct005341/",
+    "https://hdl.loc.gov/loc.gmd/g7820.ct005341",
+    "https://search.catalog.loc.gov/instances/b3012b89-0c2a-5244-8d3f-829451f8a4ef",
+    "https://www.loc.gov/item/2006635012/"
+  ],
+  "dct_issued_s": "1900",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd7/g7820/g7820/ct005341.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2006635012/\"}",
+  "dct_spatial_sm": [
+    "china"
+  ],
+  "dct_subject_sm": [
+    "China",
+    "China--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "dct_title_s": "China",
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2006635012",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Lizars, Daniel, 1760-1812; Lizars, W. H. (William Home), 1788-1859",
+    "DCP",
+    "Includes ill. of the Capitols at Richmond and Washington.",
+    "Includes ill. of the Capitols at Richmond and Washington. Available also through the Library of Congress Web site as a raster image. LC copy fold-lined and taped. DCP",
+    "LC copy fold-lined and taped.",
+    "Publication statement: [Edinburgh? : s.n., 1819?]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct000504",
+    "http://lccn.loc.gov/91686245",
+    "http://www.loc.gov/item/91686245/",
+    "http://www.loc.gov/resource/g3850.ct000504/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct000504",
+    "https://search.catalog.loc.gov/instances/d7a76af8-50f0-5214-b8fa-6689f8571e0a",
+    "https://www.loc.gov/item/91686245/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct000504.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91686245/\"}",
+  "dct_spatial_sm": [
+    "alexandria",
+    "arlington county",
+    "district of columbia",
+    "united states",
+    "virginia",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Alexandria (Va.)--Maps",
+    "Arlington County (Va.)--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--Virginia--Alexandria",
+    "United States--Virginia--Arlington County",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1819",
+    "[Edinburgh? : s.n., 1819?]"
+  ],
+  "dct_title_s": "Plan of the city of Washington and territory of Columbia / engraved by W. & D. Lizars, Edin'r",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91686245",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

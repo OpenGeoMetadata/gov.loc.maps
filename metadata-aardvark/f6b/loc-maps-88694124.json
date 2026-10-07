@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"London, York Hotel, Bridge-street, Black-friars, March 12, 1793.\"",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Walker, George, approximately 1752-approximately 1817",
+    "DCP",
+    "LAC nsk 2021-03-04 update (1 card)",
+    "LC copy fold-lined and mounted on cloth backing.",
+    "Publication statement: London : George Walker, [1793]",
+    "Text only; does not include map.",
+    "Text only; does not include map. \"London, York Hotel, Bridge-street, Black-friars, March 12, 1793.\" Available also through the Library of Congress Web site as a raster image. LC copy fold-lined and mounted on cloth backing. Vault DCP LAC nsk 2021-03-04 update (1 card)",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004190",
+    "http://lccn.loc.gov/88694124",
+    "http://www.loc.gov/item/88694124/",
+    "http://www.loc.gov/resource/g3850.ct004190/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004190",
+    "https://search.catalog.loc.gov/instances/26f6d1a4-7b95-56d8-8aaa-1f3754258dc9",
+    "https://www.loc.gov/item/88694124/"
+  ],
+  "dct_issued_s": "1793",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004190.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/88694124/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "Broadsides--Washington (D.C.)--Early works to 1800",
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Description and travel--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1793"
+  ],
+  "dct_title_s": "A description of the situation and plan of the city of Washington : now building for the metropolis of America, and established as the permanent residence of Congress after the year 1800",
+  "gbl_dateRange_drsim": [
+    "[1793 TO 1793]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1793
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-88694124",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

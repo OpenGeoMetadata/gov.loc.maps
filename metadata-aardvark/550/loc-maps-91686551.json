@@ -1,0 +1,54 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Base 801410 (546184) 10-89.\"",
+    "\"Base 801410 (546184) 10-89.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Central Intelligence Agency",
+    "Publication statement: [Washington, D.C. : Central Intelligence Agency, 1989]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g8030.ct001403",
+    "http://lccn.loc.gov/91686551",
+    "http://www.loc.gov/item/91686551/",
+    "http://www.loc.gov/resource/g8030.ct001403/",
+    "https://hdl.loc.gov/loc.gmd/g8030.ct001403",
+    "https://search.catalog.loc.gov/instances/c8e130da-d1f1-55b0-a340-144e367fad43",
+    "https://www.loc.gov/item/91686551/"
+  ],
+  "dct_issued_s": "1989",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd8/g8030/g8030/ct001403.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/91686551/\"}",
+  "dct_spatial_sm": [
+    "malaysia"
+  ],
+  "dct_subject_sm": [
+    "Malaysia",
+    "Malaysia--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "dct_title_s": "Malaysia",
+  "gbl_dateRange_drsim": [
+    "[1989 TO 1989]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1989
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-91686551",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,56 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"1000198.\"",
+    "\"Map prepared using automated map construction.\"",
+    "\"Map prepared using automated map construction.\" Includes source-materials note. \"1000198.\" Available also through the Library of Congress Web site as a raster image.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: National Cartographic Center (U.S.); United States. Soil Conservation Service",
+    "Includes source-materials note.",
+    "Publication statement: Ft. Worth, TX : USDA-SCS-National Cartographic Center ; [Columbus : State Conservationist, distributor], 1991."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/97681543",
+    "http://www.loc.gov/item/97681543/",
+    "http://www.loc.gov/resource/g4081j.ct011820/",
+    "https://hdl.loc.gov/loc.gmd/g4081j.ct011820",
+    "https://search.catalog.loc.gov/instances/bdaabe8a-b7ab-5da4-b9b2-aebf7229ffaa",
+    "https://www.loc.gov/item/97681543/"
+  ],
+  "dct_issued_s": "1991",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd408/g4081/g4081j/ct011820.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/97681543/\"}",
+  "dct_spatial_sm": [
+    "ohio",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Soil surveys--Ohio--Maps",
+    "United States--Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_title_s": "Status of soil surveys, Ohio : October 1991",
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-97681543",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

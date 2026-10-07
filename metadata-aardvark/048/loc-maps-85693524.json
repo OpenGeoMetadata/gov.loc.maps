@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Compiled from latest U.S.G.S. quadrangle sheets and general highway maps.\"",
+    "\"November 1981 4-R-37693.\"",
+    "\"November 1981 4-R-37693.\" \"Watershed boundary coincides with Big Creek and Beouf River.\" At head of title: Appendix D. \"Compiled from latest U.S.G.S. quadrangle sheets and general highway maps.\" Includes location maps. Available also through the Library of Congress Web site as a raster image.",
+    "\"Watershed boundary coincides with Big Creek and Beouf River.\"",
+    "At head of title: Appendix D.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. Soil Conservation Service",
+    "Includes location maps.",
+    "Publication statement: Fort Worth, Tex. : USDA-SCS, 1982."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/85693524",
+    "http://www.loc.gov/item/85693524/",
+    "http://www.loc.gov/resource/g4013f.ct011135/",
+    "https://hdl.loc.gov/loc.gmd/g4013f.ct011135",
+    "https://search.catalog.loc.gov/instances/3239b89e-3b51-5621-9d17-bfbce92218c1",
+    "https://www.loc.gov/item/85693524/"
+  ],
+  "dct_issued_s": "1981",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd401/g4013/g4013f/ct011135.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/85693524/\"}",
+  "dct_spatial_sm": [
+    "franklin parish",
+    "louisiana",
+    "richland parish",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "United States--Louisiana--Franklin Parish",
+    "United States--Louisiana--Richland Parish",
+    "Watershed management--Louisiana--Franklin Parish--Maps",
+    "Watershed management--Louisiana--Richland Parish--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "dct_title_s": "Project map, West Franklin Watershed, Franklin and Richland parishes, Louisiana",
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1981]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-85693524",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

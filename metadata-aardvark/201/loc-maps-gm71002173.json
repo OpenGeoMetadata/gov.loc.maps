@@ -1,0 +1,68 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This pen-and-ink manuscript map of 1781 shows the towns of Williamsburg, York, Hampton, and Portsmouth, Virginia, as well as the surrounding regions of southeastern Virginia. The area shown on the map extends from Cape Henry on the Atlantic Ocean to Williamsburg and south to the Effroyables Marais, the French term for the area known as the Dismal Swamp. The map shows part of the Chesapeake Bay as well as the James and Elizabeth Rivers and the Hampton Roads waterway. It notes towns, roads, rivers, creeks, bridges, mills, and a salt house, along with Kemps Landing, Pungo Chapel, and the names of some residents. Scale is given in miles, and the map has a watermark. Founded in 1632, Williamsburg was the capital of colonial Virginia from 1699 until 1780. York (increasingly known as Yorktown after the Revolutionary War) was founded in 1691 and became a major port for the export of tobacco. Hampton was founded in 1610, and has claims to being the longest continuously occupied English settlement in the present-day United States. Portsmouth was founded in 1752 but was a shipbuilding site even before establishment of the town. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2: 440; 651/1; 651/2; 651/3",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Has watermark.",
+    "LC Maps of North America, 1750-1789, 1145",
+    "Manuscript, pen-and-ink.",
+    "Publication statement: [1781]",
+    "Scale ca. 1:300,000.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3882h.ar144500",
+    "http://lccn.loc.gov/gm71002173",
+    "http://www.loc.gov/item/gm71002173/",
+    "http://www.loc.gov/resource/g3882h.ar144500/",
+    "https://hdl.loc.gov/loc.gmd/g3882h.ar144500",
+    "https://search.catalog.loc.gov/instances/2b7aa569-475d-51f5-8441-8ae134698629",
+    "https://www.loc.gov/item/gm71002173/"
+  ],
+  "dct_issued_s": "1781",
+  "dct_language_sm": [
+    "fre"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd388/g3882/g3882h/ar144500.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002173/\"}",
+  "dct_spatial_sm": [
+    "hampton roads",
+    "hampton roads region",
+    "norfolk region",
+    "region",
+    "united states",
+    "virginia",
+    "williamsburg region"
+  ],
+  "dct_subject_sm": [
+    "Hampton Roads (Va. : Region)--Maps, Manuscript--Early works to 1800",
+    "Norfolk Region (Va.)--Maps, Manuscript--Early works to 1800",
+    "United States--Virginia--Hampton Roads Region",
+    "United States--Virginia--Norfolk Region",
+    "United States--Virginia--Williamsburg Region",
+    "Williamsburg Region (Va.)--Maps, Manuscript--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1781"
+  ],
+  "dct_title_s": "Plan des environs de Williamsburg, York, Hampton, et Portsmouth",
+  "gbl_dateRange_drsim": [
+    "[1781 TO 1781]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1781
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002173",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

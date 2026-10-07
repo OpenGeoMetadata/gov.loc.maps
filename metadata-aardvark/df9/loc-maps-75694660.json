@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Indexed for points of interest. Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 442 Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Contributors: Juehne, Charles",
+    "Indexed for points of interest.",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 442",
+    "Perspective map not drawn to scale.",
+    "Publication statement: [n.p.] 1894, c1892."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g4164s.pm004420",
+    "http://lccn.loc.gov/75694660",
+    "http://www.loc.gov/item/75694660/",
+    "http://www.loc.gov/resource/g4164s.pm004420/",
+    "https://hdl.loc.gov/loc.gmd/g4164s.pm004420",
+    "https://search.catalog.loc.gov/instances/20257989-3105-513d-9116-368ffc07da32",
+    "https://www.loc.gov/item/75694660/"
+  ],
+  "dct_issued_s": "1894",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd416/g4164/g4164s/pm004420.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75694660/\"}",
+  "dct_spatial_sm": [
+    "missouri",
+    "saint louis",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Saint Louis (Mo.)",
+    "United States--Missouri--Saint Louis"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "dct_title_s": "The panorama of St. Louis",
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1894]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75694660",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

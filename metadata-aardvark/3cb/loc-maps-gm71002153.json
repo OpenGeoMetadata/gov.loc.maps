@@ -1,0 +1,75 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"This hand-colored map of the Carolinas dating from 1775 is known as the \"Mouzon map.\" Henry Mouzon (circa 1741-circa 1807), mapmaker and civil engineer of Saint Stephen's Parish, was appointed by Governor Lord Charles Greville Montague to survey South Carolina in 1771. Mouzon's map is more detailed and accurate than any previous map of the Carolinas. Extending from the Atlantic Ocean westward to the Appalachian Mountains, the map was based on James Cook's 1773 map of South Carolina and John Collet's 1770 map of North Carolina. Inaccuracies in these earlier maps are corrected with details from recent surveys. The resulting map contained a better representation of the extension to the west in 1772 of the boundary between the two colonies. For North Carolina, it inserted the counties of Tryon and Pelham (later called Sampson) and added such geographical features as the \"White Oak or Tryon Mountains\" and \"Kings Mountain.\" For South Carolina, it depicted rivers and Indian settlements west of the Cherokee Indian boundary. The territory in the southwestern part of the map is identified as the lands of the Creek Indians and part of Georgia. The map also identifies forts, parishes, Indian paths, and soundings on the Carolina coast. Inset maps in the lower right show \"The Harbour of Port Royal\" and \"The Bar and Harbour of Charlestown.\" Recent scholarship has questioned the attribution of the map to Mouzon and suggests that it was probably the work of Louis Delarochette (1731-1802), a British cartographer, based on the Cook and Collet maps. Published in London by Robert Sayer and John Bennett, the map served as a principal source of knowledge about the geography of the Carolinas for American, British, and French forces during the American Revolution. The present copy, on which part of the title is missing, was owned by General Rochambeau. The map is from the Rochambeau Collection at the Library of Congress, which consists of 40 manuscript maps, 26 printed maps, and a manuscript atlas that belonged to Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), commander in chief of the French expeditionary army (1780-82) during the American Revolution. Some of the maps were used by Rochambeau during the war. Dating from 1717 to 1795, the maps cover much of eastern North America, from Newfoundland and Labrador in the north to Haiti in the south. The collection includes maps of cities, maps showing Revolutionary War battles and military campaigns, and early state maps from the 1790s.\" World Digital Library.",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Mouzon, Henry; Robert Sayer and John Bennett (Firm)",
+    "Hand colored.",
+    "Imperfect: Part of title wanting.",
+    "Insets: The harbour of Port Royal [ca. 1:200,000]--The bar and harbour of Charlestown [ca. 1:75,000]",
+    "Library of Congress. Maps and charts of North America and the West Indies, 1750-1789, 1394",
+    "Prime meridian: London.",
+    "Publication statement: London, Printed for Robt. Sayer and J: Bennett, 1775.",
+    "Relief shown by hachures. Depths shown by soundings.",
+    "Scale ca. 1:530,000.",
+    "Shows precinct boundaries.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3900.ar139404",
+    "http://lccn.loc.gov/gm71002153",
+    "http://www.loc.gov/item/gm71002153/",
+    "http://www.loc.gov/resource/g3900.ar139404/",
+    "https://hdl.loc.gov/loc.gmd/g3900.ar139404",
+    "https://search.catalog.loc.gov/instances/12ec1d16-516e-5e0f-98f6-2f0e6374b560",
+    "https://www.loc.gov/item/gm71002153/"
+  ],
+  "dct_issued_s": "1775",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd390/g3900/g3900/ar139404.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71002153/\"}",
+  "dct_spatial_sm": [
+    "charleston harbor",
+    "north carolina",
+    "port royal sound",
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Charleston Harbor (S.C.)",
+    "North Carolina",
+    "North Carolina--Administrative and political divisions",
+    "Port Royal Sound (S.C.)",
+    "South Carolina",
+    "South Carolina--Administrative and political divisions",
+    "United States--North Carolina",
+    "United States--South Carolina",
+    "United States--South Carolina--Charleston Harbor",
+    "United States--South Carolina--Port Royal Sound"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_title_s": "[An accurate map of North and South Carolina, with their Indian frontier, shewing in a distinct manner all the mounta]ins, rivers, swamps, marshes, bays, creeks, harbours, sandbanks and soundings on the coasts; with the roads and Indian paths; as well as the boundary or provincial lines, the several townships, and other divisions of the land in both the provinces;",
+  "gbl_dateRange_drsim": [
+    "[1775 TO 1775]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1775
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71002153",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

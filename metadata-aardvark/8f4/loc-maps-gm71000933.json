@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Annotated: John Montresor, chief engineer.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Montrésor, John, 1736-1799; Nicole, Pierre, -1784",
+    "LC Maps of North America, 1750-1789, 1315",
+    "Manuscript, pen-and-ink and watercolor.",
+    "Manuscript, pen-and-ink and watercolor. Relief shown by shading. Annotated: John Montresor, chief engineer. Map sections individually titled: Fort Mifflin on Great Mud Island [1:2,400]--Plan of the attacks against the rebels works on Mud Island surrender'd 16. November 1777 [1:7,200]--View of the rebel fort and works, on Mud Island comprehending Red-Bank on the Jersey shore; taken from * in front of the 6 gun battery Elevation of the commanding officer's house Section through A:B [1:600]. Scale 1:14,400; 400 yards to an in. LC Maps of North America, 1750-1789, 1315 Available also through the Library of Congress Web site as a raster image. Vault AACR2",
+    "Map sections individually titled: Fort Mifflin on Great Mud Island [1:2,400]--Plan of the attacks against the rebels works on Mud Island surrender'd 16. November 1777 [1:7,200]--View of the rebel fort and works, on Mud Island comprehending Red-Bank on the Jersey shore; taken from * in front of the 6 gun battery Elevation of the commanding officer's house Section through A:B [1:600].",
+    "Publication statement: [1777?]",
+    "Relief shown by shading.",
+    "Scale 1:14,400; 400 yards to an in.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824p.ar302200",
+    "http://lccn.loc.gov/gm71000933",
+    "http://www.loc.gov/item/gm71000933/",
+    "http://www.loc.gov/resource/g3824p.ar302200/",
+    "https://hdl.loc.gov/loc.gmd/g3824p.ar302200",
+    "https://search.catalog.loc.gov/instances/a1a9b6fb-e18d-5d3c-a5d1-cbb613ddf15a",
+    "https://www.loc.gov/item/gm71000933/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ar302200.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/gm71000933/\"}",
+  "dct_spatial_sm": [
+    "fort mifflin (philadelphia)",
+    "pennsylvania",
+    "philadelphia",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Fort Mifflin (Philadelphia, Pa.)--Maps--Early works to 1800",
+    "Philadelphia (Pa.)--History--Revolution, 1775-1783--Maps, Manuscript--Early works to 1800",
+    "United States--Pennsylvania--Fort Mifflin (Philadelphia)",
+    "United States--Pennsylvania--Philadelphia"
+  ],
+  "dct_temporal_sm": [
+    "1777",
+    "[1777?]"
+  ],
+  "dct_title_s": "A survey of the city of Philadelphia and its environs shewing the several works constructed by His Majesty's troops, under the command of Sir William Howe, since their possession of that city 26th. September 1777, comprehending likewise the attacks against Fort Mifflin on Mud Island, and until it's reduction, 16th November 1777",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-gm71000933",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

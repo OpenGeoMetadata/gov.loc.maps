@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Entered according to Act of Congress in the year 1855 by J. H. Colton in the Clerks Office of the District Court of the United States for the Southern District of New York.\"",
+    "AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: G.W. & C.B. Colton & Co",
+    "Cover title: Colton's map of South Carolina.",
+    "Cover title: Colton's map of South Carolina. Hand colored. Reference meridians: Greenwich and Washington. Relief shown by hachures. \"Entered according to Act of Congress in the year 1855 by J. H. Colton in the Clerks Office of the District Court of the United States for the Southern District of New York.\" Includes inset of Fort Sumter and \"Colton's plan of Charleston, vicinity & harbor\" with index to points of interest. Scale ca. 1:1,300,000. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Hand colored.",
+    "Includes inset of Fort Sumter and \"Colton's plan of Charleston, vicinity & harbor\" with index to points of interest.",
+    "Publication statement: New York : The Co., 1876.",
+    "Reference meridians: Greenwich and Washington.",
+    "Relief shown by hachures.",
+    "Scale ca. 1:1,300,000."
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/78696479",
+    "http://www.loc.gov/item/78696479/",
+    "http://www.loc.gov/resource/g3910.ct009822/",
+    "https://hdl.loc.gov/loc.gmd/g3910.ct009822",
+    "https://search.catalog.loc.gov/instances/0dd35f0d-8f3a-5f6d-a61d-f2698772f473",
+    "https://www.loc.gov/item/78696479/"
+  ],
+  "dct_issued_s": "1876",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd391/g3910/g3910/ct009822.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/78696479/\"}",
+  "dct_spatial_sm": [
+    "south carolina",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "South Carolina--Maps",
+    "United States--South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "dct_title_s": "Colton's South Carolina",
+  "gbl_dateRange_drsim": [
+    "[1876 TO 1876]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1876
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-78696479",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2",
+    "Alternate title: City of Lowell, Massachusetts.",
+    "Alternate title: City of Lowell, Massachusetts. Includes descriptive index to points of interest, index to \"Self-guided walking tour,\" and col. ill. Insets: [Central Lowell]--[Section of Merrimack River]--[Section of Concord River] Text and col. ill. on verso. Scale not given. Available also through the Library of Congress Web site as a raster image. AACR2",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: United States. National Park Service",
+    "Includes descriptive index to points of interest, index to \"Self-guided walking tour,\" and col. ill.",
+    "Insets: [Central Lowell]--[Section of Merrimack River]--[Section of Concord River]",
+    "Publication statement: [Washington] : The Service, [1979?]",
+    "Scale not given.",
+    "Text and col. ill. on verso."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3764l.ct006214",
+    "http://lccn.loc.gov/80690757",
+    "http://www.loc.gov/item/80690757/",
+    "http://www.loc.gov/resource/g3764l.ct006214/",
+    "https://hdl.loc.gov/loc.gmd/g3764l.ct006214",
+    "https://search.catalog.loc.gov/instances/dd442103-d632-5e27-82dd-0059115dd725",
+    "https://www.loc.gov/item/80690757/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd376/g3764/g3764l/ct006214.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/80690757/\"}",
+  "dct_spatial_sm": [
+    "lowell",
+    "lowell national historical park",
+    "massachusetts",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Lowell (Mass.)--Tours--Maps",
+    "Lowell National Historical Park (Lowell, Mass.)--Maps",
+    "United States--Massachusetts--Lowell",
+    "United States--Massachusetts--Lowell--Lowell National Historical Park"
+  ],
+  "dct_temporal_sm": [
+    "1979",
+    "[Washington] : The Service, [1979?]"
+  ],
+  "dct_title_s": "Lowell National Historical Park, Massachusetts",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-80690757",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,53 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "DCP",
+    "LC copy soiled, torn along fold lines, and annotated in pencil on verso.",
+    "Oriented with north toward the upper left.",
+    "Publication statement: [Washington, D.C.? : s.n., 1910?]",
+    "Shows radial distances from the Capitol, block numbers, and proposed streets.",
+    "Shows radial distances from the Capitol, block numbers, and proposed streets. Oriented with north toward the upper left. Available also through the Library of Congress Web site as a raster image. LC copy soiled, torn along fold lines, and annotated in pencil on verso. DCP"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004502",
+    "http://lccn.loc.gov/89694323",
+    "http://www.loc.gov/item/89694323/",
+    "http://www.loc.gov/resource/g3850.ct004502/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004502",
+    "https://search.catalog.loc.gov/instances/6220a015-d35d-5d63-81ce-b5662f164328",
+    "https://www.loc.gov/item/89694323/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004502.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/89694323/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c."
+  ],
+  "dct_subject_sm": [
+    "United States--District of Columbia--Washington",
+    "Washington (D.C.)--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1910",
+    "[Washington, D.C.? : s.n., 1910?]"
+  ],
+  "dct_title_s": "City of Washington and suburbs",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-89694323",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

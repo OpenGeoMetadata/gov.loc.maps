@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "AACR2: 100",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Bird's-eye-view.",
+    "Bird's-eye-view. Includes index to points of interest and view \"Blackwater Falls.\" Perspective map not drawn to scale. Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 992 Available also through the Library of Congress Web site as a raster image. AACR2: 100",
+    "Contributors: Fowler, T. M. (Thaddeus Mortimer), 1842-1922",
+    "Includes index to points of interest and view \"Blackwater Falls.\"",
+    "Library of Congress. Panoramic maps of cities in the United States and Canada (2nd ed.), 992",
+    "Perspective map not drawn to scale.",
+    "Publication statement: Morrisville, Pa. [1898]"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3894d.pm009920",
+    "http://lccn.loc.gov/75696678",
+    "http://www.loc.gov/item/75696678/",
+    "http://www.loc.gov/resource/g3894d.pm009920/",
+    "https://hdl.loc.gov/loc.gmd/g3894d.pm009920",
+    "https://search.catalog.loc.gov/instances/d42fbad7-67c9-5c59-9e7d-2e18bdc43718",
+    "https://www.loc.gov/item/75696678/"
+  ],
+  "dct_issued_s": "1898",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3894/g3894d/pm009920.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/75696678/\"}",
+  "dct_spatial_sm": [
+    "davis",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Davis (W. Va.)--Maps",
+    "United States--West Virginia--Davis"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "dct_title_s": "Davis, Tucker County, West Virginia 1898",
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1898]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1898
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-75696678",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

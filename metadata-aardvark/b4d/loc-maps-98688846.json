@@ -1,0 +1,61 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "2 copies",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Rand McNally and Company; Virginia, Tennessee, and Georgia Air Line Railroad",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 605",
+    "Map of the eastern United States showing relief by hachures, drainage, cities and towns, and the railroad network emphasizing the main lines.",
+    "Publication statement: Chicago, 1882.",
+    "Scale not given."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3701p.rr006050",
+    "http://lccn.loc.gov/98688846",
+    "http://www.loc.gov/item/98688846/",
+    "http://www.loc.gov/resource/g3701p.rr006050/",
+    "https://hdl.loc.gov/loc.gmd/g3701p.rr006050",
+    "https://search.catalog.loc.gov/instances/f1c55a6a-ce57-5499-ac95-82816f128509",
+    "https://www.loc.gov/item/98688846/"
+  ],
+  "dct_issued_s": "1882",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd370/g3701/g3701p/rr006050.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688846/\"}",
+  "dct_spatial_sm": [
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "East Tennessee, Virginia, and Georgia Railroad Company--Maps",
+    "Norfolk and Western Railroad Company--Maps",
+    "Railroads--United States--Maps",
+    "Shenandoah Valley Railroad--Maps",
+    "United States",
+    "Virginia, Tennessee, and Georgia Air Line Railroad"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "dct_title_s": "The Virginia, Tennessee, and Georgia Air Line; the Shenandoah Valley R.R.; Norfolk & Western R.R.; East Tennessee, Virginia, & Georgia R.R. (its leased lines,) and their connections",
+  "gbl_dateRange_drsim": [
+    "[1882 TO 1882]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1882
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688846",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

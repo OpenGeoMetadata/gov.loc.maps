@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Contributors: Cope, Emmor B.; Hewitt, Edgar M.",
+    "Description derived from published bibliography.",
+    "LC Civil War Maps (2nd ed.), 330",
+    "Publication statement: [S.l., 1863]",
+    "Scale ca. 1:26,000.",
+    "Shows troops and artillery points, drainage, roads, railroads, dwellings with names of occupants, several points of interest on the battlefield, and a few of the highest points by hachures.",
+    "Upper right corner: No. 825.",
+    "Upper right corner: No. 825. Shows troops and artillery points, drainage, roads, railroads, dwellings with names of occupants, several points of interest on the battlefield, and a few of the highest points by hachures. Description derived from published bibliography. Scale ca. 1:26,000. LC Civil War Maps (2nd ed.), 330 Available also through the Library of Congress web site as raster image."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3824g.cw0330000",
+    "http://lccn.loc.gov/99447498",
+    "http://www.loc.gov/item/99447498/",
+    "http://www.loc.gov/resource/g3824g.cw0330000/",
+    "https://hdl.loc.gov/loc.gmd/g3824g.cw0330000",
+    "https://search.catalog.loc.gov/instances/77f4ff1a-82e4-5fcc-8bb5-6d50a69a628f",
+    "https://www.loc.gov/item/99447498/"
+  ],
+  "dct_issued_s": "1863",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824g/cw0330000.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/99447498/\"}",
+  "dct_spatial_sm": [
+    "gettysburg",
+    "gettysburg region",
+    "pennsylvania",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Gettysburg (Pa.), Battle of",
+    "Gettysburg Region (Pa.)--Maps",
+    "Gettysburg, Battle of, Gettysburg, Pa., 1863--Maps",
+    "United States--Pennsylvania--Gettysburg"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "dct_title_s": "Gettysburg battlefield",
+  "gbl_dateRange_drsim": [
+    "[1863 TO 1863]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1863
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-99447498",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

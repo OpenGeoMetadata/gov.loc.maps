@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Meurs, Jacob van, 1619-1680, publisher; Montanus, Arnoldus, 1625?-1683, cartographer",
+    "Includes illustrations and coat of arms.",
+    "LC copy accompanied by the title page of its source book. Both pieces are pasted on a single sheet of paper and mounted on cloth.",
+    "North oriented to the right.",
+    "Publication statement: [Amsterdam, Netherlands] : [Jacob Meurs], [1671]",
+    "Relief shown pictorially.",
+    "Relief shown pictorially. North oriented to the right. Includes illustrations and coat of arms. LC copy accompanied by the title page of its source book. Both pieces are pasted on a single sheet of paper and mounted on cloth. Available also through the Library of Congress Web site as a raster image. vcFY24",
+    "vcFY24"
+  ],
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2024597257",
+    "http://www.loc.gov/item/2024597257/",
+    "http://www.loc.gov/resource/g3880.ct006339/",
+    "https://hdl.loc.gov/loc.gmd/g3880.ct006339",
+    "https://search.catalog.loc.gov/instances/7992dab1-bed8-52fb-8424-be82829aafbe",
+    "https://www.loc.gov/item/2024597257/"
+  ],
+  "dct_issued_s": "1671",
+  "dct_language_sm": [
+    "lat"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gmd:gmd388:g3880:g3880:ct006339/full/pct:12.5/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2024597257/\"}",
+  "dct_spatial_sm": [
+    "united states",
+    "virginia"
+  ],
+  "dct_subject_sm": [
+    "United States--Virginia",
+    "Virginia--Maps--Early works to 1800"
+  ],
+  "dct_temporal_sm": [
+    "1671"
+  ],
+  "dct_title_s": "Nova Virginiae tabula",
+  "gbl_dateRange_drsim": [
+    "[1671 TO 1671]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1671
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2024597257",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

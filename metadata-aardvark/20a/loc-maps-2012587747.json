@@ -1,0 +1,67 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Map of Cheshire County, New Hampshire"
+  ],
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Fagan, L.; Smith & Morley",
+    "Differs from other 1858 edition in the location of the title in the upper right and the positioning of the insets.",
+    "Includes distance chart, statistical charts, business directories, and illustrations.",
+    "Insets: Ashuelot -- Chesterfield -- Chesterfield Factory -- East Jaffrey -- Fitzwilliam -- Gilsum -- Harrisville -- Hinsdale -- Jaffrey -- Keene -- Lowellville -- Marlborough -- Marlow -- Mill Village -- Munsonville -- Nelson -- Paper Mill Village -- Rindge -- Stoddard -- Troy -- Unionville -- Walpole -- West Swanzey -- Westmoreland -- Westport -- Winchester.",
+    "LC Land ownership maps, 426",
+    "LC copy shellacked, darkened, sectioned in six, mounted on two pieces of cloth.",
+    "Publication statement: Philadelphia : Smith & Morley, 1858.",
+    "Relief shown by hachures.",
+    "Relief shown by hachures. Shows landowners. Differs from other 1858 edition in the location of the title in the upper right and the positioning of the insets. Includes distance chart, statistical charts, business directories, and illustrations. Insets: Ashuelot -- Chesterfield -- Chesterfield Factory -- East Jaffrey -- Fitzwilliam -- Gilsum -- Harrisville -- Hinsdale -- Jaffrey -- Keene -- Lowellville -- Marlborough -- Marlow -- Mill Village -- Munsonville -- Nelson -- Paper Mill Village -- Rindge -- Stoddard -- Troy -- Unionville -- Walpole -- West Swanzey -- Westmoreland -- Westport -- Winchester. LC copy shellacked, darkened, sectioned in six, mounted on two pieces of cloth. LC Land ownership maps, 426 Available also through the Library of Congress Web site as a raster image.",
+    "Shows landowners."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3743c.la000426",
+    "http://lccn.loc.gov/2012587747",
+    "http://www.loc.gov/item/2012587747/",
+    "http://www.loc.gov/resource/g3743c.la000426/",
+    "https://hdl.loc.gov/loc.gmd/g3743c.la000426",
+    "https://search.catalog.loc.gov/instances/7e17f1a3-a536-545e-b954-5c521a44a8a4",
+    "https://www.loc.gov/item/2012587747/"
+  ],
+  "dct_issued_s": "1858",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd374/g3743/g3743c/la000426.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2012587747/\"}",
+  "dct_spatial_sm": [
+    "cheshire county",
+    "new hampshire",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cheshire County (N.H.)--Maps",
+    "Landowners--New Hampshire--Cheshire County--Maps",
+    "Real property--New Hampshire--Cheshire County--Maps",
+    "United States--New Hampshire--Cheshire County"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dct_title_s": "Map of Cheshire Co., New Hampshire",
+  "gbl_dateRange_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1858
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2012587747",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

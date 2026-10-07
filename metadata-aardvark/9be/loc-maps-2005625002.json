@@ -1,0 +1,62 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress web site as raster image.",
+    "Imperfect: Lower left corner is lacking, repaired tears in top left and right corners. Smudges and discoloration throughout.",
+    "Library of Congress. Civil War maps (2nd ed.), H67",
+    "Pencil and colored pencil on lined paper, mounted between sheets of transparent paper.",
+    "Publication statement: [1861]",
+    "Relief shown by hachures.",
+    "Shows \"Camp Bartow\" and \"Yankee Camp on Cheat Mt.\"",
+    "Shows \"Camp Bartow\" and \"Yankee Camp on Cheat Mt.\" Relief shown by hachures. Title and date from Stephenson's Civil War maps, 1989. Pencil and colored pencil on lined paper, mounted between sheets of transparent paper. Imperfect: Lower left corner is lacking, repaired tears in top left and right corners. Smudges and discoloration throughout. Library of Congress. Civil War maps (2nd ed.), H67 Available also through the Library of Congress web site as raster image.",
+    "Title and date from Stephenson's Civil War maps, 1989."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3892r.cwh00067",
+    "http://lccn.loc.gov/2005625002",
+    "http://www.loc.gov/item/2005625002/",
+    "http://www.loc.gov/resource/g3892r.cwh00067/",
+    "https://hdl.loc.gov/loc.gmd/g3892r.cwh00067",
+    "https://search.catalog.loc.gov/instances/31044c9f-1b05-5d06-8c5c-8a8162a4bffc",
+    "https://www.loc.gov/item/2005625002/"
+  ],
+  "dct_issued_s": "1861",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd389/g3892/g3892r/cwh00067.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/2005625002/\"}",
+  "dct_spatial_sm": [
+    "randolph county",
+    "rich mountain region",
+    "rich mountain region (randolph county)",
+    "united states",
+    "west virginia"
+  ],
+  "dct_subject_sm": [
+    "Rich Mountain Region (Randolph County, W. Va.)--History--Civil War, 1861-1865--Maps",
+    "United States--West Virginia--Rich Mountain Region (Randolph County)"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_title_s": "[Map of part of eastern West Virginia, extending from Romney westward to Clarksburg, centering on the Rich Mountain Battle area]",
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1861
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2005625002",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,63 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Acquisitions control no. 92-8",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Cadastral map showing numbered and unnumbered lots; some landowners identified.",
+    "Cadastral map showing numbered and unnumbered lots; some landowners identified. Drawn in late eighteenth or nineteenth century, according to LC acquisition records. Scribing and pen-and-ink; on goat skin wrapped around original handmade wooden dowel. Imperfect: Stains and worn spots. Available also through the Library of Congress Web site as a raster image. Vault Acquisitions control no. 92-8",
+    "Drawn in late eighteenth or nineteenth century, according to LC acquisition records.",
+    "Imperfect: Stains and worn spots.",
+    "Publication statement: [18--?]",
+    "Scribing and pen-and-ink; on goat skin wrapped around original handmade wooden dowel.",
+    "Vault"
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3744g.la002146",
+    "http://lccn.loc.gov/93683205",
+    "http://www.loc.gov/item/93683205/",
+    "http://www.loc.gov/resource/g3744g.la002146/",
+    "https://hdl.loc.gov/loc.gmd/g3744g.la002146",
+    "https://search.catalog.loc.gov/instances/b2b4e3dd-9095-51b3-af9b-c32814d27def",
+    "https://www.loc.gov/item/93683205/"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd374/g3744/g3744g/la002146.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/93683205/\"}",
+  "dct_spatial_sm": [
+    "groton",
+    "groton (town)",
+    "hebron",
+    "hebron (town)",
+    "new hampshire",
+    "town",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Groton (N.H. : Town)--Maps, Manuscript",
+    "Hebron (N.H. : Town)--Maps, Manuscript",
+    "Manuscript maps",
+    "Real property--New Hampshire--Groton (Town)--Maps",
+    "Real property--New Hampshire--Hebron (Town)--Maps",
+    "United States--New Hampshire--Groton (Town)",
+    "United States--New Hampshire--Hebron (Town)"
+  ],
+  "dct_temporal_sm": [
+    "1800",
+    "[18--?]"
+  ],
+  "dct_title_s": "[Cadastral map showing most of the towns of Groton and Hebron, New Hampshire, and adjacent parts of the towns of Bridgewater, Plymouth, and Rumney]",
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-93683205",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

@@ -1,0 +1,58 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Cairo and Fulton Railroad Company; Wilamowicz, I.",
+    "Description derived from published bibliography.",
+    "LC Railroad maps, 358",
+    "Map showing Missouri, Arkansas, Louisiana, and part of Texas. Shows drainage, cities and towns, and state boundaries, west of the Mississippi River. The adjoining area east of the Mississippi River shows only the rail network. The map indicates proposed, surveyed, located, and completed rail lines. Chartered in Arkansas in 1853 and in Missouri in 1854.",
+    "Publication statement: St. Louis, Mo., [1853]",
+    "Scale 1:1,900,800."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3936p.rr003580",
+    "http://lccn.loc.gov/98688609",
+    "http://www.loc.gov/item/98688609/",
+    "http://www.loc.gov/resource/g3936p.rr003580/",
+    "https://hdl.loc.gov/loc.gmd/g3936p.rr003580",
+    "https://search.catalog.loc.gov/instances/5dd98ae9-7e72-5517-b7ff-0505955d3d25",
+    "https://www.loc.gov/item/98688609/"
+  ],
+  "dct_issued_s": "1853",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd393/g3936/g3936p/rr003580.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/98688609/\"}",
+  "dct_spatial_sm": [
+    "southern states",
+    "united states"
+  ],
+  "dct_subject_sm": [
+    "Cairo and Fulton Railroad Company--Maps",
+    "Railroads--Southern States--Maps",
+    "United States--Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "dct_title_s": "Map of the Cairo & Fulton Railroad exhibiting the principal tributary lines as projected and its connections with other railroads west of the Mississippi River, which unite with the Missouri Pacific Railroad, and south projected Pacific Railroad via Elpaso [sic] to the Pacific Ocean, showing also the connection by rail road of the cities of New Orleans & St. Louis. Little Rock, Ark. Sep. 1853",
+  "gbl_dateRange_drsim": [
+    "[1853 TO 1853]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1853
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-98688609",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

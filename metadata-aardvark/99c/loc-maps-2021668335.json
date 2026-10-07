@@ -1,0 +1,64 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Plano da cidade do Rio de Janeiro, com a parte mais essencial do seu porto e todos os lugares forteficados"
+  ],
+  "dct_description_sm": [
+    "Content in Portuguese.",
+    "Contributors: Bulhões, José Correia Rangel de, flourished 1749-1800 Creator.",
+    "Description based on data extracted from World Digital Library, which may be extracted from partner institutions.",
+    "Original resource at: National Library of Brazil.",
+    "Original resource extent: 1 manuscript map ; 47 x 63.4 centimeters.",
+    "Publication statement: [place of publication not identified] : [publisher not identified], 1796.",
+    "This manuscript map shows the city of Rio de Janeiro spread along the shores of Guanabara Bay. The map, which is the work of José Correia Rangel de Bulhões, emphasizes the defenses of the city and the port. Rio de Janeiro displaced Salvador as Brazil's most important port after gold and diamonds were discovered in nearby Minas Gerais province in 1720. The city became the colonial capital in 1763.",
+    "Title devised, in English, by Library staff."
+  ],
+  "dct_format_s": "ZIP",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2021668335",
+    "http://www.loc.gov/item/2021668335/",
+    "http://www.loc.gov/resource/gdcwdl.wdl_00873/",
+    "http://www.loc.gov/resource/wdl.873/",
+    "https://hdl.loc.gov/loc.wdl/wdl.873",
+    "https://www.loc.gov/item/2021668335/"
+  ],
+  "dct_issued_s": "1796-01-01",
+  "dct_language_sm": [
+    "por"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"ZIP: wdl_00873.zip\", \"url\": \"https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/00/87/3/wdl_00873/wdl_00873.zip\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:00:87:3:wdl_00873:cart209337/full/pct:6.25/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2021668335/\"}",
+  "dct_spatial_sm": [
+    "brazil",
+    "niterói",
+    "rio de janeiro"
+  ],
+  "dct_subject_sm": [
+    "1796",
+    "Brazil--Rio de Janeiro--Niterói",
+    "Guanabara Bay (Brazil)",
+    "Manuscript maps"
+  ],
+  "dct_temporal_sm": [
+    "1796-01-01"
+  ],
+  "dct_title_s": "Map of the City of Rio de Janeiro, with the Essential Part of the Port and All Fortified Places.",
+  "gbl_dateRange_drsim": [
+    "[1796 TO 1796]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1796
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2021668335",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

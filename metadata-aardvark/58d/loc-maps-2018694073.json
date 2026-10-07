@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Изображение земного глобуса"
+  ],
+  "dct_description_sm": [
+    "Kartograficheskai︠a︡ setka: Ferro.",
+    "Original map at: Russian State Library",
+    "Publication statement: Saint Petersburg, Russia : [publisher not identified], 1750-1759.",
+    "This map represents contemporary European knowledge of world geography, in very basic fashion, at the time of its printing in Russia in the mid-18th century. The observations made on the voyages of Semen Dezhnev and Vitus Bering to Alaska were not then well known, and thus the map entirely omits northwestern North America, as that region was then still unknown to the European world. The globe is printed on a single sheet by being split into two halves, roughly the eastern and western hemispheres. In order to include all of Europe and Africa on one side, the map does not divide naturally along the prime meridian. A double-headed eagle, holding the orb and scepter of the Russian state, adorns the top of the map. All place-names are in Russian and broadly follow standard cartographic conventions of the era. Geographic knowledge of Europe and Russia (excluding the northeasternmost parts of Siberia) was understandably more accurate and extensive for Russian cartographers in that period than knowledge of other parts of the world, and thus these parts of the map are the most detailed. The map also includes elements of the known Scandinavian, Russian, and Canadian Arctic, including Spitsbergen, Novaya Zemlya, and Greenland, as well as rough sketches of Hudson Bay and Baffin Bay. It does not, of course, include the western Arctic near and including Alaska (other than the Diomede Islands in the Bering Strait, already discovered on early Russian voyages), eastern Australasia, nor any portions of Antarctica. Several long voyages and circumnavigations are shown by dotted lines, including Ferdinand Magellan's initial round-the-world voyage of 1519-22. World Digital Library.",
+    "Zaglavie v kartushe s gerbom Rossiĭskoĭ Imperii. Granit︠s︡y chasteĭ sveta i polushariĭ raskrasheny ot ruki. V seredine 18 veka eshche slabo byla izuchena severo-vostochnai︠a︡ chast' Rossiĭskoĭ Imperii, byli neizvestny mori︠a︡ i prolivy, razdeli︠a︡i︠u︡shchie Evro-Azii︠u︡ ot Severnoĭ Ameriki. Ne pokazano zapadnoe i severnoe poberezh'e Severnoĭ Ameriki. Ostaetsi︠a︡ neizvestnym vostochnoe poberezh'e Avstralii. Idet izuchenie mira. Poėtomu na karte privedeny marshruty vazhneĭshikh puteĭ.",
+    "Заглавие в картуше с гербом Российской Империи. Границы частей света и полушарий раскрашены от руки. В середине 18 века еще слабо была изучена северо-восточная часть Российской Империи, были неизвестны моря и проливы, разделяющие Евро-Азию от Северной Америки. Не показано западное и северное побережье Северной Америки. Остается неизвестным восточное побережье Австралии. Идет изучение мира. Поэтому на карте приведены маршруты важнейших путей.",
+    "Картографическая сетка: Ферро."
+  ],
+  "dct_format_s": "PDF",
+  "dct_identifier_sm": [
+    "http://lccn.loc.gov/2018694073",
+    "http://www.loc.gov/item/2018694073/",
+    "http://www.loc.gov/resource/gdc.2018694073/",
+    "https://hdl.loc.gov/loc.ndlpcoop/mtfxmp.smf0011",
+    "https://search.catalog.loc.gov/instances/c99ead7b-5ec8-5050-a4e1-55891baf7fec",
+    "https://www.loc.gov/item/2018694073/"
+  ],
+  "dct_language_sm": [
+    "rus"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\": [{\"label\": \"PDF: 2018694073.pdf\", \"url\": \"https://tile.loc.gov/storage-services/public/gdc/2018694073/2018694073.pdf\"}], \"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/image-services/iiif/public:gdc:2018694073:smf0011/full/pct:3.125/0/default.jpg\", \"http://schema.org/url\": \"https://www.loc.gov/item/2018694073/\"}",
+  "dct_spatial_sm": [
+    "primorskiy krai",
+    "russian federation"
+  ],
+  "dct_subject_sm": [
+    "Primorskiy Krai",
+    "Russian Federation",
+    "World maps"
+  ],
+  "dct_temporal_sm": [
+    "1750/1759"
+  ],
+  "dct_title_s": "Izobrazhenie zemnogo globusa",
+  "gbl_dateRange_drsim": [
+    "[1750 TO 1759]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1750
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "id": "loc-maps-2018694073",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}

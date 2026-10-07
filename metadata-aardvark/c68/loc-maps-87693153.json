@@ -1,0 +1,72 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_description_sm": [
+    "\"Compiled in 1967 from 1:24 000-scale maps ... 1965 7.5 minute quadrangles.\"",
+    "\"N3847.33--W7648.75/14X26.25.\"",
+    "2 copies",
+    "Alternate title in right lower margin: Washington and vicinity, D.C.-Md.-Va. : 1965.",
+    "Available also through the Library of Congress Web site as a raster image.",
+    "Contributors: Geological Survey (U.S.)",
+    "DCP",
+    "Includes notes, \"Contour interval diagram,\" and \"Quadrangle location diagram.\"",
+    "LC copy 1 laminated, quartered, and mounted on cloth backing. Copy 2 fold-lined.",
+    "Publication statement: Washington : U.S., Dept. of the Interior, Geological Survey, [1967]",
+    "Relief shown by contours and spot heights. Depths shown by contours and soundings.",
+    "Relief shown by contours and spot heights. Depths shown by contours and soundings. \"Compiled in 1967 from 1:24 000-scale maps ... 1965 7.5 minute quadrangles.\" Alternate title in right lower margin: Washington and vicinity, D.C.-Md.-Va. : 1965. UTM and state grids. Includes notes, \"Contour interval diagram,\" and \"Quadrangle location diagram.\" \"N3847.33--W7648.75/14X26.25.\" Available also through the Library of Congress Web site as a raster image. LC copy 1 laminated, quartered, and mounted on cloth backing. Copy 2 fold-lined. DCP 2 copies",
+    "UTM and state grids."
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.loc.gov/loc.gmd/g3850.ct004526",
+    "http://lccn.loc.gov/87693153",
+    "http://www.loc.gov/item/87693153/",
+    "http://www.loc.gov/resource/g3850.ct004526/",
+    "https://hdl.loc.gov/loc.gmd/g3850.ct004526",
+    "https://search.catalog.loc.gov/instances/c407d5a0-543d-53a3-ba4d-e7efca61e033",
+    "https://www.loc.gov/item/87693153/"
+  ],
+  "dct_issued_s": "1965",
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_references_s": "{\"http://schema.org/thumbnailUrl\": \"https://tile.loc.gov/storage-services/service/gmd/gmd385/g3850/g3850/ct004526.gif\", \"http://schema.org/url\": \"https://www.loc.gov/item/87693153/\"}",
+  "dct_spatial_sm": [
+    "district of columbia",
+    "united states",
+    "washington",
+    "washington d.c.",
+    "washington metropolitan area"
+  ],
+  "dct_subject_sm": [
+    "Roads--Washington Metropolitan Area--Maps",
+    "United States--District of Columbia--Washington",
+    "United States--District of Columbia--Washington Metropolitan Area",
+    "Washington (D.C.)--Maps",
+    "Washington Metropolitan Area--Maps"
+  ],
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "dct_title_s": "Washington and vicinity, District of Columbia-Maryland-Virginia",
+  "gbl_dateRange_drsim": [
+    "[1965 TO 1965]"
+  ],
+  "gbl_displayNote_sm": [
+    "Based on LOC maps search metadata, including embedded catalog fields. Full item enrichment and collection reconciliation remain pending."
+  ],
+  "gbl_indexYear_im": [
+    1965
+  ],
+  "gbl_mdModified_dt": "2026-10-07T18:00:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "id": "loc-maps-87693153",
+  "pcdm_memberOf_sm": [
+    "loc-maps"
+  ],
+  "schema_provider_s": "Library of Congress"
+}
